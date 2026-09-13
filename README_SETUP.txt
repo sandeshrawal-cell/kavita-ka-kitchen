@@ -223,3 +223,4 @@ Deploy the updated package to the same project.
 Do not create a new Supabase project unless you intentionally want a separate database.
 
 Because data is stored in Supabase and local storage, normal front-end updates do not delete the family's synced kitchen state.
+GitHub deployment connected.
