@@ -1,0 +1,28 @@
+KAVITA KA KITCHEN — BUILD VALIDATION
+=====================================
+
+Validated before packaging:
+- JavaScript syntax: PASS (app.js, data.js, service-worker.js, api/config.js, api/weather.js)
+- manifest.webmanifest JSON: PASS
+- vercel.json JSON: PASS
+- Wife/Kavita photo files in package: NONE
+- JPG/JPEG/WEBP files in package: NONE
+- Egg / omelette / anda food entries in bundled database: NONE
+- Unique database counts:
+  Breakfast: 180
+  Lunch: 180
+  Dinner: 180
+  Desserts: 180
+  Shakes: 216
+  Coffee: 280
+  Snacks: 180
+- Duplicate names within each category: 0
+- Jain-capable inventory: more than 100 items in every category tested
+- 70-result hard-pool stress test included:
+  * Jain on/off
+  * common exclusions: paneer, rice, milk, potato, garlic
+  * 8 currently locked dishes
+  Lowest tested safe unique pool: 71
+
+Important product rule:
+Explicit ingredient exclusions, hidden dishes, Jain mode and the 8-day lock are hard rules. The app will not violate these or duplicate a dish just to fake a result count.
