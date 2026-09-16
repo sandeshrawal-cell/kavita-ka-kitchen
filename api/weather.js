@@ -1,11 +1,11 @@
-module.exports = async function handler(req, res) {
-  res.setHeader('Cache-Control', 's-maxage=600, stale-while-revalidate=1800');
-  const lat = Number(req.query.lat || 21.1702);
-  const lon = Number(req.query.lon || 72.8311);
-  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return res.status(400).json({ok:false,message:'Invalid coordinates'});
+export default async function handler(req, res) {
+  res.setHeader('Cache-Control', 'private, max-age=600');
+  const lat = Number(req.query.lat);
+  const lon = Number(req.query.lon);
+  if (req.query.lat == null || req.query.lon == null || !Number.isFinite(lat) || !Number.isFinite(lon) || Math.abs(lat)>90 || Math.abs(lon)>180) return res.status(400).json({ok:false,message:'Choose location or manual weather.'});
   try {
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${encodeURIComponent(lat)}&longitude=${encodeURIComponent(lon)}&current=temperature_2m,apparent_temperature,precipitation,rain,weather_code&timezone=auto`;
-    const r = await fetch(url);
+    const r = await fetch(url, {signal:AbortSignal.timeout(6000)});
     if (!r.ok) throw new Error('Weather provider unavailable');
     const data = await r.json();
     const c = data.current || {};
