@@ -14,5 +14,5 @@ export default function handler(req, res) {
       message: 'Supabase is not configured. Add SUPABASE_URL and SUPABASE_PUBLISHABLE_KEY in Vercel Environment Variables, then redeploy.'
     });
   }
-  return res.status(200).json({ configured: true, url, key, accountDeletion: !!process.env.SUPABASE_SERVICE_ROLE_KEY, ai: !!(process.env.OPENAI_API_KEY && process.env.OPENAI_MODEL) });
+  return res.status(200).json({ configured: true, url, key, accountDeletion: !!process.env.APP_ORIGIN && (process.env.ACCOUNT_DELETION_BACKEND === 'supabase' || !!process.env.SUPABASE_SERVICE_ROLE_KEY), ai: !!(process.env.OPENAI_API_KEY && process.env.OPENAI_MODEL) });
 };

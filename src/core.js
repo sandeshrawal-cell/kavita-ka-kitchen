@@ -1,4 +1,4 @@
-export const VERSION = '3.1.1';
+export const VERSION = '3.1.2';
 export const MODES = {home:'Home Kitchen',office:'Corporate / Office',factory:'Factory / Canteen',event:'Wedding / Event'};
 export const MEALS = ['Breakfast','Lunch','Dinner'];
 export const CATEGORIES = ['Breakfast','Lunch','Dinner','Snacks','Street Food','Sabzi/Curries','Dal/Legumes','Rice','Breads','One-Pot Meals','Soups','Salads','Chaats','Sandwiches','Wraps','Desserts','Indian Sweets','Cakes & Bakes','Shakes','Smoothies','Juices','Mocktails','Coffee','Tea','Hot Drinks','Cold Drinks','Kids Meals','Lunchbox','Quick Meals','High Protein Vegetarian','Light Meals','Jain','No Onion-Garlic','Vrat/Fasting','Guest Menus','Party Food','Festival Food','Leftover Recipes'];

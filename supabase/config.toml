@@ -1,0 +1,4 @@
+# Supabase Auth verifies every caller inside the function via /auth/v1/user.
+# The gateway's legacy-only verifier does not support all current signing keys.
+[functions.delete-account]
+verify_jwt = false

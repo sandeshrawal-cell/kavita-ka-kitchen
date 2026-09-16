@@ -1,6 +1,6 @@
 # Release 3.1 — coverage and reasons for remaining work
 
-Updated 16 September 2026. This is a working local update, not a claim that the full 80-part master brief is complete. The production site and live Supabase data were not changed.
+Updated 17 September 2026. Version 3.1.1 is published on the existing production domain with the bolder typography and expanded recipes. The three database migrations were applied after a protected legacy-row snapshot; existing account data was preserved. Version 3.1.2 adds the Supabase account-deletion backend. This does not claim that the full 80-part master brief is complete.
 
 ## Completed in this update
 
@@ -29,11 +29,11 @@ The legacy catalogue contains preparation outlines. These have not been relabell
 
 ## Implemented but requires operator setup or real-device verification
 
-- Apply the original two Supabase migrations. Apply migration 003 to enable the optional AI quota. No migration was applied to production here.
-- Configure OPENAI_API_KEY and a compatible OPENAI_MODEL on the existing Vercel project to activate cloud AI. No live provider call or photo upload was made during validation. Provider billing and retention settings belong to the operator.
-- Configure the account-deletion server key and verify production signup/recovery email delivery, existing-account migration, two-device sync and real-token RLS.
+- Migrations 001–003 are applied. Live transactional checks passed for owner isolation, legacy import, retry idempotence, conflicts, quota, anonymous denial and cascade deletion; disposable test changes were rolled back.
+- Cloud AI is deliberately disabled at the owner's request. Standard search and manual pantry entry remain available. No OpenAI API key was provisioned and no live AI call was made.
+- Account deletion now uses a Supabase Edge Function with authoritative Auth verification, recent-session authentication, session revocation and owner-only deletion. The administrative key stays within Supabase. Unit tests and live rejection checks passed; an actual production user's deletion was not performed. Production signup/recovery email delivery, existing-account UI migration and two-device sync still require verification.
 - Verify browser microphone support, PNG download, private image upload, PWA installation and Android behavior on target devices. These vary across browsers.
-- GitHub write credentials and live database administration were not available. Existing main/domain/project identities are preserved in the release instructions.
+- GitHub and Supabase access are working. Vercel project settings are accessible through the signed-in browser; the connector still lacks the owning team scope. The existing repository, project, domain and database are retained.
 
 ## Still not completed
 

@@ -1,6 +1,6 @@
 # Deploy to the existing site
 
-The live site has not been changed. GitHub write credentials and Supabase administrative access were unavailable during this build. The existing public connection endpoint was inspected; it is configured, the legacy table exists, and the new `kkk_records` table is not yet present.
+Deployment status, 17 September 2026: release 3.1.1 is live on the existing domain. Migrations 001–003 are applied and verified; the original kitchen row remains unchanged. A protected same-database snapshot was taken before migration (not a full provider backup). The following procedure remains the runbook for future deployments. Version 3.1.2 adds the Supabase account-deletion backend described below.
 
 ## 1. Back up the existing database
 
@@ -29,7 +29,8 @@ Retain the current project and domain. Set:
 |---|---|
 | `SUPABASE_URL` | Existing project URL |
 | `SUPABASE_PUBLISHABLE_KEY` | Existing browser-safe publishable key (or retain `SUPABASE_ANON_KEY`) |
-| `SUPABASE_SERVICE_ROLE_KEY` | Server-only administrative key, required by account deletion |
+| `ACCOUNT_DELETION_BACKEND` | `supabase`, after deploying `supabase/functions/delete-account` |
+| `SUPABASE_SERVICE_ROLE_KEY` | Only for the legacy Vercel deletion backend; not needed with the Supabase backend |
 | `APP_ORIGIN` | `https://kavita-kitchen-v2.vercel.app` |
 | `CATALOG_SOURCE` | `static`, or `supabase` only after the seed succeeds |
 
@@ -56,6 +57,16 @@ Do not upload `.env`, test data, `node_modules`, private exports or the original
 - Finalize operator identity, support contact, privacy retention and jurisdictional terms before public launch.
 
 No Play Store publication is included or authorized by this release.
+
+## Account deletion backend (3.1.2)
+
+Deploy `supabase/functions/delete-account` to the existing project. It uses the project's built-in secret environment variables; do not copy the administrative key into Vercel or the browser. Set `ACCOUNT_DELETION_BACKEND=supabase` and `APP_ORIGIN` to the existing production origin, then deploy the website.
+
+The function performs authoritative verification through Supabase Auth before reading the token's authentication-method timestamps. The caller must have authenticated within ten minutes; token refresh alone is insufficient. It revokes sessions before deleting the verified account. Foreign keys cascade to private records, AI quota, legacy data and the protected legacy snapshot. There are no Storage buckets or objects in this project as of this deployment; revisit object cleanup if uploads are later moved to Storage.
+
+`verify_jwt=false` selects application-level Auth verification compatible with current signing keys. It does not permit anonymous deletion: missing/forged tokens fail, and the verified identity is the only deletion target. No client-supplied user ID is accepted.
+
+Cloud AI remains disabled at the owner's request; do not provision an API key or enable billed calls without a new instruction.
 
 
 ## Version 3.1 additions

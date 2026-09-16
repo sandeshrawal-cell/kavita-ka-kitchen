@@ -3,6 +3,9 @@
   "outputDirectory": "dist",
   "installCommand": "pnpm install --frozen-lockfile",
   "functions": {
+    "api/delete-account.js": {
+      "maxDuration": 60
+    },
     "api/catalog.js": {
       "includeFiles": "catalog/generated/dishes.json"
     },
