@@ -1,16 +1,11 @@
-# Review update 3.1.1
+# Kavita ka Kitchen · v3.2
 
-Slightly bolder typography and more detailed instructions for all 28 complete recipes. See [release notes](docs/RELEASE_3.1.1.md). The production site is unchanged.
+English, Gujarati and Hindi throughout the app and all 356 built-in recipes. The catalogue includes measured multi-step methods, corrected meal categories and 250 reviewed dish images. A further 106 images are explicitly deferred at the owner’s request; see [the saved image queue](catalog/pending-images.json) and [photo credits](docs/PHOTO_CREDITS.md). Cloud AI remains disabled.
 
-# Version 3.1 update
-
-See [release notes](docs/RELEASE_3.1.md), [current coverage and remaining work](docs/FEATURE_STATUS.md) and [photo credits](docs/PHOTO_CREDITS.md). The new optional AI endpoint needs migration 003 and operator-configured server credentials. The public catalogue remains 356 dishes / 28 complete recipes, with 153 reviewed dish photographs.
-
-# Kavita ka Kitchen · v3
 
 A working upgrade of the existing vegetarian kitchen planner, with private accounts, four kitchen modes, saved combinations, a weekly calendar and offline-aware sync.
 
-**Release status: built and tested locally; not deployed.** This is a foundation release through the main parts of Phases 1–3, with partial Phases 4–5. The full 80-part brief is not complete. See `docs/FEATURE_STATUS.md` and `docs/TEST_REPORT.md` for exact coverage and limitations.
+See [release notes](docs/RELEASE_3.2.md) for this update. Historical coverage reports describe earlier releases; this update does not claim completion of every item in the original master brief.
 
 Existing infrastructure is preserved:
 
@@ -48,13 +43,13 @@ Open http://127.0.0.1:4173. Guest discovery works without account configuration.
 
 ## Important boundaries
 
-- The catalogue is a curated starter plus preserved legacy discovery entries, not 5,000 finished recipes. There are **28 complete recipes**. Other entries are explicitly labelled preparation outlines and excluded from procurement totals. Exact counts are generated in `public/data/manifest.json`.
+- The catalogue is a curated starter plus preserved legacy discovery entries, not 5,000 finished recipes. All **356 published recipes** have measured ingredients and complete methods. Ingredient-component verification is tracked separately, so composite ingredients do not silently pass strict exclusions. Exact counts are generated in `public/data/manifest.json`.
 - A complete recipe here means ingredients, numeric quantities and explicit steps are supplied. It does **not** mean professionally kitchen-tested or medically certified. Supplier labels and local cooking validation remain necessary.
 - Jain uses a conservative rule for listed root ingredients, mushrooms and groundnuts, plus complete ingredient lists. Individual religious practices can differ. Exclusions can tighten this further.
 - Requested Jain meals currently make the entire generated menu Jain-compatible; split dietary production is not yet implemented.
 - Budgets cover sample ingredient estimates only. Unpriced ingredients remain visible as missing; labour, fuel, service and live procurement prices are not included.
 - Large-kitchen scores, batch counts, staffing and timelines are planning estimates, not an industrial production specification.
-- Public recipe URLs render in the client; server-rendered SEO/structured data are not yet implemented. Hindi/Gujarati, camera scanning, AI copilot, advanced taste graphs and Play Store publishing remain future work.
+- Public recipe pages include pre-rendered content and structured data. English, Hindi and Gujarati are bundled locally; switching languages does not send recipes or private kitchen data to a translation service. Optional cloud AI/photo scanning remain disabled, and a signed Play Store release is outside this update.
 
 ## Project layout
 

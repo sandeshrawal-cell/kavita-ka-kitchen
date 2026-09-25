@@ -2,6 +2,8 @@ import fs from 'node:fs/promises';
 import vm from 'node:vm';
 import {recipes} from '../catalog/recipes.mjs';
 import {extra} from '../catalog/extra.mjs';
+import {correctCategories} from '../catalog/categories.mjs';
+import {recipeLibrary,hasUnspecifiedComponents} from '../catalog/recipe-library.mjs';
 import {slug,norm,CATEGORIES,COMMON_SIDES,ROOTS,vegetarianText} from '../src/core.js';
 const root=new URL('../',import.meta.url);
 const source=await fs.readFile(new URL('data.js',root),'utf8');
@@ -33,7 +35,25 @@ for(const [name,cuisine,method,time,raw,steps,tip] of recipes){
 for(const [oldId,newId] of Object.entries({'kheer':'rice-kheer','eggless-malpua':'malpua','panna-cotta':'agar-panna-cotta','chocolate-mousse':'vegan-chocolate-mousse','fruit-custard':'fruit-custard-with-cornstarch','sev-tameta':'sev-tamatar','chana-dal-lauki':'doodhi-chana-dal','hara-bhara-kebab-meal':'hara-bhara-kebab','tandoori-paneer-with-roti':'paneer-tikka'})){
  if(db.has(oldId)&&db.has(newId)){const old=db.get(oldId),target=db.get(newId);target.categories=[...new Set([...target.categories,...old.categories])];db.delete(oldId);recipeMap.delete(oldId);aliases[oldId]=newId;}
 }
+for(const [id,r] of Object.entries(recipeLibrary)){
+ const d=db.get(id);if(!d)throw new Error('Recipe has no canonical dish: '+id);
+ if(recipeMap.has(id))continue;
+ const merged=new Map();
+ for(const item of r.ingredients.split('|')){
+  const [name,q,unit]=item.split(':'),qty=Number(q),key=name+'|'+unit;
+  if(!name||!Number.isFinite(qty)||qty<=0||!['g','ml'].includes(unit))throw new Error('Invalid ingredient in '+id+': '+item);
+  const previous=merged.get(key);if(previous)previous.qty+=qty;
+  else merged.set(key,{name,qty,unit,group:group(name),scale:spice.test(name)?'seasoning':'linear',pricePerUnit:price[name]??(spice.test(name)?name==='salt'?.025:.65:undefined)});
+ }
+ const ing=[...merged.values()];d.ingredients=ing.map(i=>i.name);d.ingredientsComplete=!hasUnspecifiedComponents(d.ingredients);
+ d.jainVerified=d.ingredientsComplete&&!ROOTS.test(d.ingredients.join(' '));d.recipeStatus='complete';d.time=r.time;
+ d.advancePrep=/overnight|ferment|\d+\s*hours?/i.test(r.steps.join(' '));
+ d.estimatedCost=ing.every(i=>Number.isFinite(i.pricePerUnit))?ing.reduce((sum,i)=>sum+i.qty*i.pricePerUnit,0)/4:undefined;
+ recipeMap.set(id,{id,name:d.name,baseServings:4,batchSize:['flatbread','griddle','fry','assemble'].includes(d.method)?20:50,ingredients:ing,steps:r.steps,tips:[r.tip],substitutions:[],status:'complete',prepTime:r.time,passiveTime:d.advancePrep?'Allow additional soaking, resting, chilling or fermentation as specified in the steps.':null,notes:'Quantities are for four adult portions. Cooking times are estimates; use the doneness checks in each step. Ingredient costs use sample rates and exclude unpriced items.'});
+}
 for(const d of db.values()){
+ const fullRecipe=recipeMap.get(d.id);
+ if(fullRecipe){d.advancePrep=/overnight|ferment|\d+\s*hours?/i.test(fullRecipe.steps.join(' '));if(d.advancePrep)fullRecipe.passiveTime='Allow additional soaking, resting, chilling or fermentation as specified in the steps.';}
  if(photos[d.id]?.status==='reviewed'){d.photo=photos[d.id];if(recipeMap.has(d.id))recipeMap.get(d.id).photo=d.photo;}
  if(d.method==='assemble'&&!/wrap|sandwich|sushi|taco|roll/.test(norm(d.name))){d.individualPrep=false;d.bulkScore=9;}
  if(d.categories.some(x=>['Lunch','Dinner','Sabzi/Curries','Dal/Legumes','Rice','One-Pot Meals'].includes(x)))d.categories.push('Lunch','Dinner');
@@ -51,7 +71,7 @@ for(const d of db.values()){
  if(d.categories.includes('Indian Sweets'))d.categories.push('Festival Food');
  if(d.categories.includes('Leftover Recipes'))d.leftoverUses=d.ingredients.filter(x=>/leftover|cooked|bread/.test(x));
  if(['rice','onepot'].includes(d.method))d.leftoverUses.push('cooked rice');
- d.categories=[...new Set(d.categories)];
+ correctCategories(d);
  const joined=d.ingredients.join(' ');d.allergens=[/milk|paneer|curd|cream|ghee|butter|cheese/.test(joined)&&'milk',/wheat|flour|semolina|bread|pav|pasta|noodles|bulgur/.test(joined)&&'gluten',/peanut/.test(joined)&&'peanut',/almond|cashew|pistachio|hazelnut/.test(joined)&&'tree nuts',/sesame|tahini/.test(joined)&&'sesame',/soy|tofu/.test(joined)&&'soy'].filter(Boolean);
  if(!recipeMap.has(d.id)){
   const legacy=box.window.KKK_DATA.dishes.find(x=>x.baseName===d.name);
@@ -67,12 +87,18 @@ await fs.mkdir(new URL('public/data/recipes',root),{recursive:true});
 await fs.mkdir(new URL('public/data/categories',root),{recursive:true});
 await fs.writeFile(new URL('catalog/generated/dishes.json',root),JSON.stringify(all));
 await fs.writeFile(new URL('public/data/aliases.json',root),JSON.stringify(aliases));
+// Old recipe URLs must serve the completed canonical method, never stale outlines.
+const existingRecipeFiles=new Set(await fs.readdir(new URL('public/data/recipes',root)));
+for(const [alias,target] of Object.entries(aliases))if(alias!==target&&existingRecipeFiles.has(alias+'.json')&&recipeMap.has(target)){
+ await fs.writeFile(new URL(`public/data/recipes/${alias}.json`,root),JSON.stringify(recipeMap.get(target)));
+ recipeMap.delete(alias);
+}
 for(const [id,r] of recipeMap)await fs.writeFile(new URL(`public/data/recipes/${id}.json`,root),JSON.stringify(r));
 const counts={};for(const cat of CATEGORIES){const rows=all.filter(d=>d.categories.includes(cat));counts[cat]=rows.length;await fs.writeFile(new URL(`public/data/categories/${slug(cat)}.json`,root),JSON.stringify(rows));}
-await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.1',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:recipes.length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo)).slice(0,8)}));
+await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.2',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo)).slice(0,8)}));
 const quote=s=>"'"+String(s).replaceAll("'","''")+"'";
 const sql=['-- Generated master catalogue. Existing private records are untouched.','begin;'];
 for(const d of all)sql.push(`insert into public.kkk_dishes(id,canonical_id,name,cuisine,categories,vegetarian,eggless,metadata,published) values(${quote(d.id)},${quote(d.canonicalId)},${quote(d.name)},${quote(d.cuisine)},array[${d.categories.map(quote).join(',')}],true,true,${quote(JSON.stringify(d))}::jsonb,true) on conflict(id) do update set name=excluded.name,cuisine=excluded.cuisine,categories=excluded.categories,metadata=excluded.metadata,published=true;`);
 for(const [id,r] of recipeMap)sql.push(`insert into public.kkk_recipes(dish_id,recipe,published) values(${quote(id)},${quote(JSON.stringify(r))}::jsonb,true) on conflict(dish_id) do update set recipe=excluded.recipe,published=true;`);
 sql.push('commit;');await fs.writeFile(new URL('supabase/seed-catalog.sql',root),sql.join('\n'));
-console.log(JSON.stringify({total:all.length,completeRecipes:recipes.length,categories:counts},null,2));
+console.log(JSON.stringify({total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts},null,2));

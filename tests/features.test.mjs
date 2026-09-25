@@ -52,8 +52,12 @@ test('household tastes include member-specific votes and cuisine preferences',()
 });
 test('every published photo has review, source, licence and both local image sizes',async()=>{
  const map=JSON.parse(await fs.readFile(new URL('../catalog/photos.json',import.meta.url)));let count=0;
- for(const d of dishes.filter(d=>d.photo)){const p=d.photo;assert.equal(p.status,'reviewed');assert.match(p.source,/^https:\/\/commons.wikimedia.org\/wiki\/File:/);assert.match(p.license,/CC|Public domain/);assert.ok(p.author);await fs.access(new URL('../public'+p.src,import.meta.url));await fs.access(new URL('../public'+p.small,import.meta.url));count++;}
- assert.ok(count>=100);for(const [id,p] of Object.entries(map).filter(([,p])=>p.status==='rejected'))assert.ok(!dishes.find(d=>d.id===id)?.photo);
+ const prompts=JSON.parse(await fs.readFile(new URL('../catalog/generated-image-prompts.json',import.meta.url)));
+ for(const d of dishes.filter(d=>d.photo)){const p=d.photo;assert.equal(p.status,'reviewed');if(p.kind==='generated'){assert.ok(prompts[d.id]?.prompt);assert.equal(p.author,'OpenAI image generation');}else{assert.match(p.source,/^https:\/\/commons.wikimedia.org\/wiki\/File:/);assert.match(p.license,/CC|Public domain/);assert.ok(p.author);}await fs.access(new URL('../public'+p.src,import.meta.url));await fs.access(new URL('../public'+p.small,import.meta.url));count++;}
+ const pending=JSON.parse(await fs.readFile(new URL('../catalog/pending-images.json',import.meta.url)));
+ assert.equal(count+pending.length,dishes.length,'Every dish must have a reviewed image or an explicit deferred replacement');
+ for(const d of dishes.filter(d=>!d.photo))assert.ok(pending.some(p=>p.id===d.id),d.id);
+ for(const [id,p] of Object.entries(map).filter(([,p])=>p.status==='rejected'))assert.ok(!dishes.find(d=>d.id===id)?.photo);
 });
 test('AI results are bounded and exclude animal ingredients',()=>{
  assert.deepEqual(sanitizeResult({ingredients:['tomato','chicken','egg','paneer']},'vision').ingredients,['tomato','paneer']);const r=sanitizeResult({category:'unsafe',adults:999999,jain:true,exclusions:['aloo']},'search');assert.equal(r.filters.category,'Dinner');assert.equal(r.filters.adults,100000);assert.deepEqual(r.filters.exclusions,['potato']);

@@ -1,4 +1,4 @@
-export const VERSION = '3.1.2';
+export const VERSION = '3.2.0';
 export const MODES = {home:'Home Kitchen',office:'Corporate / Office',factory:'Factory / Canteen',event:'Wedding / Event'};
 export const MEALS = ['Breakfast','Lunch','Dinner'];
 export const CATEGORIES = ['Breakfast','Lunch','Dinner','Snacks','Street Food','Sabzi/Curries','Dal/Legumes','Rice','Breads','One-Pot Meals','Soups','Salads','Chaats','Sandwiches','Wraps','Desserts','Indian Sweets','Cakes & Bakes','Shakes','Smoothies','Juices','Mocktails','Coffee','Tea','Hot Drinks','Cold Drinks','Kids Meals','Lunchbox','Quick Meals','High Protein Vegetarian','Light Meals','Jain','No Onion-Garlic','Vrat/Fasting','Guest Menus','Party Food','Festival Food','Leftover Recipes'];
@@ -71,7 +71,7 @@ export function recommend(dishes,f={},s={},limit=70,at=Date.now()){
     if(!d.categories.includes(category)||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
     const q=norm(f.query),words=q.split(/\s+/).filter(Boolean);
     const matches=!q||words.every(w=>norm(d.name+' '+d.cuisine+' '+d.ingredients.join(' ')).includes(w));
-    const exact=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||d.time<=f.time)&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0)&&matches;
+    const exact=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||(!d.advancePrep&&d.time<=f.time))&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0)&&matches;
     let score=preferenceScore(d,s)+overlap(f.available,d.ingredients)*6+overlap(s.pantry,d.ingredients)*4+overlap(s.leftovers,d.leftoverUses)*12+(d.kids&&f.party?.kids>0?5:0);
     if(f.party&&f.party.mode!=='home')score+=scaleSuitability(d,headcount(f.party).servings,f.party.mode)*4-(d.individualPrep?10:0);
     if(f.budget&&d.estimatedCost)score+=d.estimatedCost<=f.budget?8:-8;
@@ -97,7 +97,7 @@ export function parseSearch(text){
   if(available)f.available=available[1].split(/,|\band\b/).map(ingredientKey).filter(x=>x&&!/^\d|minutes|adults|kids/.test(x));
   for(const c of ['Punjabi','Gujarati','Rajasthani','Italian','Mexican','Thai','South Indian','North Indian'])if(q.includes(norm(c)))f.cuisine=c;
   for(const c of MEALS)if(q.includes(norm(c)))f.category=c;
-  if(/light/.test(q))f.category='Light Meals';
+  if(/\blight\b/.test(q)&&!f.category)f.category='Light Meals';
   f.query=(time||adults||kids||people||budget||f.jain||f.cuisine||f.category||f.exclusions.length||f.available?.length)?'':text.trim();
   return f;
 }

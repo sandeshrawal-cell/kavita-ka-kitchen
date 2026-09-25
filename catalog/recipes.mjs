@@ -113,14 +113,16 @@ export const recipes = [
    "Curd",
    "Indian",
    "assemble",
-   5,
-   "curd:400:g",
+   20,
+   "milk:600:ml|plain live-culture curd:30:g",
    [
-     "This is a serving guide for ready-made plain curd, not a fermentation recipe. Keep the curd refrigerated until you are ready to portion it.",
-     "Use a clean spoon to transfer the required amount into a bowl. For a smooth texture, stir gently until even; for a set texture, spoon out portions without whisking.",
-     "Divide into clean individual bowls or a covered serving bowl. Keep refrigerated if not serving immediately, and use a separate clean spoon for serving."
+     "Heat milk in a clean heavy saucepan until it reaches a gentle boil, stirring the bottom. Simmer gently for 3 minutes, then take off the heat.",
+     "Cool the milk to about 40–43°C, warm but not hot. Hot milk can kill the starter culture, while cold milk sets very slowly.",
+     "Whisk the live-culture curd with a few spoonfuls of warm milk until smooth, then stir it into the remaining milk.",
+     "Pour into a clean bowl or four small pots, cover and leave undisturbed in a warm place for 6–10 hours until set. The time depends on the starter and room temperature.",
+     "Refrigerate as soon as the curd has set and chill for at least 2 hours before serving. Use clean utensils and discard any batch with mould or an unusual smell."
    ],
-   "This is a serving guide for purchased curd."
+   "Allow 6–10 hours culturing and at least 2 hours chilling in addition to the 20-minute preparation."
  ],
  [
    "Salad",

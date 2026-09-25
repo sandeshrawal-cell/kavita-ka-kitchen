@@ -1,0 +1,537 @@
+{
+  "corn-palak": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Corn Palak, North Indian cuisine, cooked by the curry method. Recipe ingredients: spinach, sweet corn, tomato, cumin, oil, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "curd": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Curd, Indian cuisine, cooked by the assemble method. Recipe ingredients: curd. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "eggless-banana-pancakes": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Eggless Banana Pancakes, Global cuisine, cooked by the griddle method. Recipe ingredients: plain flour, ripe banana flesh, milk, baking powder, sugar, oil, vanilla extract, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "eggless-brownie": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Eggless Brownie, Global cuisine, cooked by the bake method. Recipe ingredients: plain flour, cocoa powder, dark chocolate, butter, sugar, curd, milk, vanilla extract, baking powder, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "eggless-vanilla-cake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Eggless Vanilla Cake, Global cuisine, cooked by the bake method. Recipe ingredients: plain flour, sugar, milk, oil, lemon juice, vanilla extract, baking powder, baking soda, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "french-press-coffee": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish French Press Coffee, Global cuisine, cooked by the coffee method. Recipe ingredients: coarsely ground coffee, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "fresh-lime-soda": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Fresh Lime Soda, Indian cuisine, cooked by the assemble method. Recipe ingredients: lemon juice, sugar, water, soda water, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "fruit-chaat": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Fruit Chaat, Indian cuisine, cooked by the assemble method. Recipe ingredients: apple, banana, orange, pomegranate arils, grapes, lemon juice, cumin powder, black salt, chaat masala. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "fruit-custard-with-cornstarch": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Fruit Custard with Cornstarch, Global cuisine, cooked by the dessert method. Recipe ingredients: milk, cornflour starch, sugar, vanilla extract, banana, apple, grapes, pomegranate arils. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "fruit-trifle": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Fruit Trifle, Global cuisine, cooked by the dessert method. Recipe ingredients: eggless sponge cake, milk, cornflour starch, sugar, vanilla extract, strawberry, banana, whipping cream. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "gajar-halwa": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Gajar Halwa, North Indian cuisine, cooked by the dessert method. Recipe ingredients: carrot, milk, sugar, ghee, cashew, raisins, cardamom powder. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "green-apple-smoothie": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Green Apple Smoothie, Global cuisine, cooked by the blend method. Recipe ingredients: apple, spinach, curd, water, honey. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "green-moong-curry": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Green Moong Curry, North Indian cuisine, cooked by the curry method. Recipe ingredients: cooked whole green moong, onion, tomato, ginger, garlic, oil, cumin, turmeric powder, coriander powder, red chilli powder, garam masala, salt, water, coriander. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "haak-saag": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Haak Saag, Kashmiri cuisine, cooked by the stew method. Recipe ingredients: collard greens, mustard oil, green chilli, asafoetida, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "hara-bhara-kebab": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Hara Bhara Kebab, North Indian cuisine, cooked by the grill method. Recipe ingredients: boiled potato, spinach, peas, roasted gram flour, cumin powder, garam masala, lemon juice, coriander, salt, oil. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "hazelnut-latte": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Hazelnut Latte, Global cuisine, cooked by the coffee method. Recipe ingredients: ground espresso coffee, water, milk, hazelnut syrup. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "hot-chocolate": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Hot Chocolate, Global cuisine, cooked by the coffee method. Recipe ingredients: milk, cocoa, sugar, dark chocolate, vanilla extract. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "iced-latte": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Iced Latte, Global cuisine, cooked by the coffee method. Recipe ingredients: ground espresso coffee, water, milk, ice. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "imam-bayildi": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Imam Bayildi, Mediterranean cuisine, cooked by the bake method. Recipe ingredients: brinjal, onion, tomato, garlic, olive oil, parsley, sugar, salt, black pepper, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "jaljeera": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Jaljeera, Indian cuisine, cooked by the blend method. Recipe ingredients: mint, coriander, lemon juice, roasted cumin powder, black salt, sugar, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "jowar-roti-with-mixed-sabzi": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Jowar Roti with Mixed Sabzi, Indian Fusion cuisine, cooked by the flatbread method. Recipe ingredients: carrot, green beans, peas, capsicum, onion, tomato, ginger, garlic, oil, cumin, turmeric powder, coriander powder, red chilli powder, garam masala, salt, water, coriander, jowar flour. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "ker-sangri": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Ker Sangri, Rajasthani cuisine, cooked by the curry method. Recipe ingredients: dried sangri, dried ker, curd, oil, cumin, coriander powder, red chilli powder, turmeric powder, dried mango powder, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "kesar-badam-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Kesar Badam Shake, Indian Fusion cuisine, cooked by the blend method. Recipe ingredients: milk, almond, saffron, sugar. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "khakhra-with-curd": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Khakhra with Curd, Gujarati cuisine, cooked by the griddle method. Recipe ingredients: whole wheat flour, oil, water, cumin, salt, curd, roasted cumin powder. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "kiwi-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Kiwi Shake, Global cuisine, cooked by the blend method. Recipe ingredients: ripe kiwi, coconut milk drink, sugar. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "kuttu-chilla": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Kuttu Chilla, Indian cuisine, cooked by the griddle method. Recipe ingredients: buckwheat flour, potato, cumin, coriander, water, oil, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "lachha-paratha": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Lachha Paratha, North Indian cuisine, cooked by the flatbread method. Recipe ingredients: whole wheat flour, water, oil, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "lungo": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Lungo, Global cuisine, cooked by the coffee method. Recipe ingredients: ground espresso coffee, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "malai-kofta": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Malai Kofta, North Indian cuisine, cooked by the curry method. Recipe ingredients: paneer, boiled potato, cornflour starch, onion, tomato, cashew, ginger, garlic, cream, oil for frying, oil, cumin, coriander powder, turmeric powder, garam masala, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mango-lassi": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mango Lassi, Punjabi cuisine, cooked by the blend method. Recipe ingredients: mango, curd, milk, sugar, cardamom powder. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "amti": {
+    "prompt": "Use case: photorealistic-natural. Asset: premium vegetarian recipe card photograph. Subject: Maharashtrian amti, a thin golden amber toor dal with tiny mustard/cumin seeds and coriander leaves, in a beautiful small ceramic bowl; no whole chickpeas or large vegetables. Beautiful appetizing realistic food photography, soft natural window light, neutral pale stone table, close three-quarter angle, entire serving vessel visible with breathing room, true food textures, no illustration, no collage, no text, no logo, no watermark, no people, no meat or eggs. Landscape 4:3 composition.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "anjeer-shake": {
+    "prompt": "Use case: photorealistic-natural. Asset: premium vegetarian recipe card photograph. Subject: Anjeer dried fig milkshake in a clear tall glass, pale beige creamy milk with fine fig seed speckles, two dried figs beside the glass. Beautiful appetizing realistic food photography, soft natural window light, neutral pale stone table, close three-quarter angle, entire serving vessel visible with breathing room, true food textures, no illustration, no collage, no text, no logo, no watermark, no people, no meat or eggs. Landscape 4:3 composition.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "corn-capsicum-masala": {
+    "prompt": "Use case: photorealistic-natural. Asset: premium vegetarian recipe card photograph. Subject: Indian sweet corn and capsicum masala curry, distinct golden sweet corn kernels and green bell pepper squares coated in thick orange tomato onion gravy, in a shallow ceramic bowl. Beautiful appetizing realistic food photography, soft natural window light, neutral pale stone table, close three-quarter angle, entire serving vessel visible with breathing room, true food textures, no illustration, no collage, no text, no logo, no watermark, no people, no meat or eggs. Landscape 4:3 composition.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mango-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mango Shake, Indian Fusion cuisine, cooked by the blend method. Recipe ingredients: milk, mango, sugar. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "masala-khichdi": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Masala Khichdi, Gujarati cuisine, cooked by the onepot method. Recipe ingredients: rice, moong dal, peas, carrot, tomato, ghee, cumin, turmeric powder, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "masoor-dal": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Masoor Dal, North Indian cuisine, cooked by the dal method. Recipe ingredients: masoor dal, water, turmeric powder, cumin, ghee, salt, coriander, tomato. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "matki-usal": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Matki Usal, Maharashtrian cuisine, cooked by the curry method. Recipe ingredients: cooked moth beans, onion, tomato, grated coconut, oil, cumin, goda masala, turmeric powder, red chilli powder, salt, water, coriander. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mini-pizza": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mini Pizza, Global cuisine, cooked by the bake method. Recipe ingredients: plain flour, instant yeast, water, olive oil, sugar, salt, tomato, garlic, dried oregano, vegetarian mozzarella, basil. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mix-vegetable-curry": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mix Vegetable Curry, North Indian cuisine, cooked by the curry method. Recipe ingredients: carrot, green beans, peas, capsicum, onion, tomato, ginger, garlic, oil, cumin, turmeric powder, coriander powder, red chilli powder, garam masala, salt, water, coriander. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mixed-berry-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mixed Berry Shake, Global cuisine, cooked by the blend method. Recipe ingredients: milk, mixed berries, curd, sugar. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "moka-pot-coffee": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Moka Pot Coffee, Global cuisine, cooked by the coffee method. Recipe ingredients: medium-fine ground coffee, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "moong-dal-chilla": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Moong Dal Chilla, North Indian cuisine, cooked by the griddle method. Recipe ingredients: moong dal, ginger, cumin, coriander, water, oil, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "moong-dal-khichdi": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Moong Dal Khichdi, North Indian cuisine, cooked by the onepot method. Recipe ingredients: rice, moong dal, cumin, turmeric powder, ghee, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "mulligatawny-soup": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Mulligatawny Soup, South Indian cuisine, cooked by the stew method. Recipe ingredients: masoor dal, carrot, onion, apple, tomato, ginger, garlic, curry powder, coconut milk, oil, water, lemon juice, salt. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "neer-dosa-with-veg-curry": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Neer Dosa with Veg Curry, South Indian cuisine, cooked by the griddle method. Recipe ingredients: rice, water, salt, oil, carrot, green beans, peas, capsicum, onion, tomato, ginger, garlic, cumin, turmeric powder, coriander powder, red chilli powder, garam masala, coriander. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "almond-latte": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Hot espresso latte made with almond milk, a light tan coffee with delicate microfoam and a simple rosetta in a white ceramic cup on a saucer. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "coconut-latte": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Hot coconut milk espresso latte, warm tan coffee with a small foam heart in a ceramic cup and saucer, one clean coconut slice in the background. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "aeropress-coffee": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. A beautiful clear glass mug filled with freshly brewed black AeroPress coffee, dark brown translucent edges, black AeroPress brewer blurred in the background, the finished coffee is the main subject. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "apple-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Fresh apple milkshake in a tall clear glass, pale ivory creamy smooth drink, two red apple wedges placed beside the glass. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "banana-oat-smoothie": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Banana and rolled oat smoothie in a clear tall glass, creamy beige drink with fine oat texture, half a peeled banana and a small spoon of rolled oats beside it. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chaas": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Indian salted chaas buttermilk in a clear tumbler, thin creamy white drink with finely chopped coriander and tiny roasted cumin specks, no heavy whipped cream. Accurate edible textures, elegant restrained styling, soft daylight, pale neutral stone table, entire serving vessel visible, close three-quarter angle, landscape 4:3. No text, logo, watermark, illustration, collage, people or extra garnish. No meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "bharli-vangi": {
+    "prompt": "Premium photorealistic food photography. Maharashtrian bharli vangi: small whole purple baby eggplants slit and stuffed with coarse peanut coconut masala, tender cooked purple skins, thick reddish brown masala sauce, served in a shallow ceramic bowl. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "bhuga-chawal": {
+    "prompt": "Premium photorealistic food photography. Sindhi bhuga chawal: fluffy separate basmati rice grains naturally light caramel brown from deeply browned onions, fine caramelized onion strands throughout, no meat or vegetables, in a shallow ceramic bowl. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chikoo-shake": {
+    "prompt": "Premium photorealistic food photography. Chikoo sapodilla milkshake: smooth light caramel beige drink in a tall clear glass, one halved ripe brown sapodilla beside it showing tan flesh and a dark glossy seed. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "dal-banjara": {
+    "prompt": "Premium photorealistic food photography. Indian dal banjara: thick rustic curry of distinct creamy split black urad and golden chana lentils, reddish brown onion tomato masala, small coriander garnish, ceramic bowl. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "guava-shake": {
+    "prompt": "Premium photorealistic food photography. Guava milkshake: smooth creamy pale pink drink in a clear tall glass, a cut pink guava wedge and whole green guava beside it. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "govind-gatta-curry": {
+    "prompt": "Premium photorealistic food photography. Rajasthani Govind gatta curry: tender golden chickpea-flour dumplings in a creamy orange yoghurt gravy, one dumpling cut open revealing white crumbled paneer and a few dark raisins, small coriander garnish, ceramic bowl. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "kanchipuram-idli": {
+    "prompt": "Premium photorealistic food photography. Kanchipuram idli: four thick round ivory steamed rice lentil cakes speckled with cracked black pepper, cumin and a few cashew pieces, one cake broken showing fluffy porous interior, white plate. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "lasaniya-bataka": {
+    "prompt": "Premium photorealistic food photography. Gujarati lasaniya bataka: small whole peeled cooked potatoes coated in a rich glossy red garlic and tomato masala, sparse chopped coriander, shallow white ceramic bowl. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "leftover-rice-cutlets": {
+    "prompt": "Premium photorealistic food photography. Vegetarian rice cutlets: five golden crisp flattened oval pan-fried patties made with cooked rice, potato and finely chopped vegetables, one broken showing rice grains inside, neatly arranged on a ceramic plate. Exact vegetarian eggless dish. Soft window daylight, warm neutral pale stone table, elegant appetizing presentation, real edible textures, close three-quarter view, entire serving vessel in frame, landscape 4:3. No text, watermark, logo, collage, illustration, hands, meat, eggs or unlisted garnish.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "achari-paneer": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Achari Paneer, Punjabi. Exact recipe ingredients: paneer, fennel seeds, mustard seeds, fenugreek seeds, onion, tomato, ginger, garlic, oil, cumin, turmeric powder, coriander powder, red chilli powder, garam masala, salt, water, coriander.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "akki-roti": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Akki Roti, South Indian. Exact recipe ingredients: rice flour, onion, carrot, coriander, cumin, water, salt, oil.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "aloo-tikki-chaat": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Aloo Tikki Chaat, North Indian. Exact recipe ingredients: boiled potato, rice flour, ginger, cumin powder, coriander, salt, oil, curd, tamarind chutney, mint coriander chutney, sev, chaat masala.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "cold-coffee": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Cold Coffee, Indian Fusion. Exact recipe ingredients: instant coffee, water, milk, sugar, ice.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "dabeli": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Dabeli, Gujarati. Exact recipe ingredients: eggless pav, boiled potato, dabeli masala, oil, butter, tamarind chutney, garlic chutney, roasted peanuts, pomegranate arils, onion, sev, coriander, salt, water.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "dahi-puri": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Dahi Puri, Indian Fusion. Exact recipe ingredients: ready-made puri shells, boiled potato, curd, sev, tamarind chutney, mint coriander chutney, chaat masala, coriander.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "makki-roti": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Makki Roti, Punjabi. Exact recipe ingredients: maize flour, water, salt, oil.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "malpua": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Malpua, Rajasthani. Exact recipe ingredients: plain flour, semolina, milk, sugar, water, fennel seeds, cardamom powder, ghee for frying.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "avocado-shake": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Avocado Shake, Global. Exact recipe ingredients: milk, avocado, honey.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "badam-halwa": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Badam Halwa, South Indian. Exact recipe ingredients: almond, milk, sugar, ghee, cardamom powder, saffron. Show thick pale golden ground-almond halwa, soft grainy spoonable texture; no moulded caramel custard or flan. Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "banana-shake": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Banana Shake, Global. Exact recipe ingredients: milk, banana, dates.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "basundi": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Basundi, Gujarati. Exact recipe ingredients: milk, sugar, almond, pistachio, cardamom powder, saffron.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "bhel-puri": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Bhel Puri, Indian Fusion. Exact recipe ingredients: puffed rice, sev, papdi, boiled potato, tomato, onion, tamarind chutney, mint coriander chutney, chaat masala, coriander.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chia-pudding": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Chia Pudding, Global. Exact recipe ingredients: chia seeds, milk, maple syrup, vanilla extract, strawberry.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "cholar-dal": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Cholar Dal, Bengali. Exact recipe ingredients: chana dal, water, turmeric powder, cumin, ghee, salt, coriander, coconut, jaggery, raisins, cinnamon.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "coconut-rice": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Coconut Rice, South Indian. Exact recipe ingredients: rice, grated coconut, cashew, mustard seeds, curry leaves, oil, cumin, salt, water.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "cold-brew": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Cold Brew, Global. Exact recipe ingredients: coffee, water.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "dal-baati-churma": {
+    "prompt": "Photorealistic premium vegetarian recipe serving photograph: Dal Baati Churma, Rajasthani. Exact recipe ingredients: toor dal, moong dal, chana dal, split urad dal, masoor dal, water, turmeric powder, cumin, ghee, salt, coriander, tomato, coriander powder, whole wheat flour, semolina, curd, powdered sugar, cardamom powder, almond.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "millet-breakfast-bowl": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Creamy cooked millet breakfast porridge in a white bowl, topped with banana slices, chopped dates and toasted almonds, softly visible tiny millet grains. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "millet-vegetable-pulao": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Fluffy vegetable millet pulao: tiny round golden millet grains with diced carrot, green beans and peas, in a ceramic bowl; no long rice grains. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "moong-dal-dhokla": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Steamed pale yellow moong dal dhokla cut into square fluffy porous pieces, black mustard seeds, curry leaves and chopped coriander on top, white plate. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "muskmelon-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Pale peach muskmelon milkshake in a clear tall glass, ripe cantaloupe wedge beside the glass. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "nadur-yakhni": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Kashmiri nadur yakhni, thick round lotus stem slices with characteristic holes visible in a creamy pale ivory yoghurt sauce, small cumin specks, shallow ceramic bowl. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "papaya-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Smooth pale orange ripe papaya milkshake in a clear tall glass, a wedge of ripe papaya with black seeds beside it. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "peanut-butter-banana-shake": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Creamy beige peanut butter banana milkshake in a clear glass, a banana slice and small spoon of smooth peanut butter beside the glass. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "pineapple-mint-cooler": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Pale golden pineapple mint cooler with ice cubes and tiny mint flecks in a clear highball glass, pineapple wedge beside it. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "rajgira-puri": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Small golden amaranth flour puris, round puffed fried breads with a slightly grainy crisp surface, neatly arranged on a white plate. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "teriyaki-tofu-bowl": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Bowl of white rice topped with glossy brown teriyaki tofu cubes, steamed bright green broccoli and carrot slices, light sesame seed garnish. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "tindora-nu-shaak": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Gujarati tindora nu shaak: lengthwise ivy gourd wedges, green skins and pale interiors with small seeds, cooked with yellow turmeric and cumin and browned edges, dry sabzi in ceramic bowl. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "tofu-fajitas": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Vegetarian tofu fajitas: browned tofu strips with red and green bell pepper strips and onions inside soft flour tortillas, two open filled tortillas on a plate. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "vegetable-suji-toast": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Vegetable suji toast: golden pan toasted bread triangles with a thin semolina yoghurt topping containing finely diced carrot, capsicum and onion, on a white plate. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "vegetable-tehri": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. North Indian vegetable tehri: golden turmeric basmati rice with potato cubes, carrots and green peas, fluffy separate grains, served in a bowl. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "vegetarian-burrito-bowl": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Vegetarian burrito bowl with white rice, black beans, sweetcorn, sauteed bell pepper strips, fresh chopped tomato salsa and sliced avocado arranged in sections. Exact eggless vegetarian preparation, appetizing real edible textures, softly lit pale stone table, natural daylight, restrained styling, close three-quarter angle, entire serving vessel visible, landscape 4:3. No extra garnish, text, watermark, logo, collage, illustration, hands, meat or eggs.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "americano": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Americano, Global cuisine, cooked by the coffee method. Recipe ingredients: ground espresso coffee, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "avial": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Avial, South Indian cuisine, cooked by the stew method. Recipe ingredients: carrot, green beans, pumpkin, raw banana, grated coconut, curd, cumin, green chilli, turmeric powder, coconut oil, curry leaves, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "bhinda-nu-shaak": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Bhinda nu Shaak, Gujarati cuisine, cooked by the curry method. Recipe ingredients: okra, oil, cumin, turmeric powder, coriander powder, red chilli powder, salt, lemon juice, coriander. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "cardamom-coffee": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Cardamom Coffee, Indian Fusion cuisine, cooked by the coffee method. Recipe ingredients: instant coffee, milk, water, sugar, cardamom. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chana-saag": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Chana Saag, North Indian cuisine, cooked by the curry method. Recipe ingredients: cooked chickpeas, spinach, tomato, onion, ginger, garlic, oil, cumin, coriander powder, turmeric powder, salt, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "cheesecake-cup": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Cheesecake Cup, Global cuisine, cooked by the dessert method. Recipe ingredients: eggless digestive biscuits, butter, cream cheese, whipping cream, powdered sugar, lemon juice, vanilla extract, strawberry. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chickpea-cucumber-salad": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Chickpea Cucumber Salad, Mediterranean cuisine, cooked by the assemble method. Recipe ingredients: cooked chickpeas, cucumber, tomato, onion, parsley, olive oil, lemon juice, salt, black pepper. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chilli-paneer-dry": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Chilli Paneer Dry, Indo-Chinese cuisine, cooked by the stir method. Recipe ingredients: paneer, cornflour starch, plain flour, capsicum, onion, garlic, ginger, soy sauce, tomato ketchup, chilli sauce, rice vinegar, sugar, spring onion, oil, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "chilli-paneer-gravy": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Chilli Paneer Gravy, Indo-Chinese cuisine, cooked by the curry method. Recipe ingredients: paneer, cornflour starch, plain flour, capsicum, onion, garlic, ginger, soy sauce, tomato ketchup, chilli sauce, rice vinegar, sugar, spring onion, oil, water. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "coconut-payasam": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Coconut Payasam, South Indian cuisine, cooked by the dessert method. Recipe ingredients: grated coconut, coconut milk, water, jaggery, rice flour, cashew, coconut oil, cardamom powder. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "coffee-lemonade": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Coffee Lemonade, Global cuisine, cooked by the coffee method. Recipe ingredients: ground espresso coffee, water, ice, lemon juice, sugar. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "corn-cheese-balls": {
+    "prompt": "Photorealistic natural food photograph for a premium vegetarian recipe app. Create the exact finished dish Corn Cheese Balls, Global cuisine, cooked by the fry method. Recipe ingredients: cooked sweet corn, boiled potato, vegetarian cheese, plain flour, eggless breadcrumbs, water, black pepper, salt, oil for frying. Show an appetizing authentic finished serving, not raw ingredients or cooking equipment. If a drink show a filled beautiful glass or cup; otherwise choose an appropriate elegant ceramic plate or bowl. Soft natural window daylight, pale neutral stone table, true edible textures, restrained premium food styling, close three-quarter view, entire serving vessel visible, landscape 4:3. Only vegetarian and eggless ingredients. No text, watermark, logos, collage, illustration, people, hands, meat, eggs or extra toppings not in the recipe.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "vegetable-frittata-with-chickpea-flour": {
+    "prompt": "Eggless chickpea-flour vegetable frittata with peppers, spinach and zucchini; photorealistic editorial image, warm neutral stone, vegetarian and eggless.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  },
+  "aam-panna": {
+    "prompt": "Use case: photorealistic-natural. Create ONE high-quality, photorealistic editorial food illustration of Aam Panna, Indian cuisine, for the Kavita ka Kitchen recipe website. The actual dish must be readily recognizable, correctly shaped, cooked and served. Recipe ingredients: raw mango, cumin, sugar. Respect the specific preparation in the dish name; beverages in appropriate cups or glasses, food in an appropriate ceramic plate or bowl. All food must be vegetarian and eggless, with no meat, fish, eggs or gelatin. Landscape 3:2 composition, one serving centred with breathing room around the rim, beautiful natural window light, warm neutral tabletop, appetizing natural colour, crisp realistic food texture, uncluttered editorial styling. No text, labels, collage, logos, people, hands, utensils obscuring food, or watermarks. This is one distinct dish-specific website asset.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-09-18"
+  }
+}
