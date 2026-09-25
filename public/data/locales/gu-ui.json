@@ -1061,5 +1061,12 @@
   "{0} — photographed serving": "{0} — પીરસેલી વાનગીનો ફોટો",
   "Method": "રીત",
   "Ingredients for {0}": "{0} લોકો માટે સામગ્રી",
-  "Open the kitchen planner": "રસોડાનું આયોજન ખોલો"
+  "Open the kitchen planner": "રસોડાનું આયોજન ખોલો",
+  "{0} dishes": "{0} વાનગીઓ",
+  "{0} matches · {1} suggestions · Showing {2} of {3} · {4} remaining": "{0} મેળ · {1} સૂચનો · {3} માંથી {2} દર્શાવ્યા · {4} બાકી",
+  "No dishes matched that. Showing {0} ideas instead. Your selected filters still apply.": "કોઈ વાનગી મેળ ખાતી નથી. તેના બદલે {0} માટેનાં સૂચનો દર્શાવ્યાં છે. તમે પસંદ કરેલા ફિલ્ટર હજી લાગુ છે.",
+  "No dishes matched that. Try another search or change your selected filters.": "કોઈ વાનગી મેળ ખાતી નથી. બીજું કંઈક શોધો અથવા પસંદ કરેલા ફિલ્ટર બદલો.",
+  "No dishes fit this search and your selected filters.": "આ શોધ અને પસંદ કરેલા ફિલ્ટર મુજબ કોઈ વાનગી મળતી નથી.",
+  "SUGGESTION": "સૂચન",
+  "Show {0} more ideas ↓": "વધુ {0} સૂચનો બતાવો ↓"
 }

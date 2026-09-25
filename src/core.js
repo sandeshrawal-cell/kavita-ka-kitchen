@@ -65,13 +65,43 @@ export function preferenceScore(d,s={}){
   return (p.cooked||0)*5+((s.favorites||[]).includes(d.id)?3:0)+(r?.count?r.sum/r.count:Number(r)||0)+Object.values(s.votes?.[d.id]||{}).reduce((a,v)=>a+Number(v)*2,0)-(p.skipped||0)*2-((s.hidden||[]).includes(d.id)?100:0);
 }
 const overlap=(a=[],b=[])=>a.filter(x=>b.some(y=>ingredientKey(y).includes(ingredientKey(typeof x==='string'?x:x.name)))).length;
+// Whole-token matching prevents e.g. "tea" matching "steamed".
+const DISH_ALIASES = {'paneer-butter-masala':['paneer makhani','butter paneer'],'dal-makhani':['maa ki dal'],'chole':['chana masala','chickpea curry'],'vegetable-biryani':['veg biryani'],'besan-chilla':['besan cheela','gram flour pancake'],'poha':['pohe','flattened rice'],'gulab-jamun':['gulab jamoon']};
+const searchTokens = value => norm(value).replace(/[^\p{L}\p{N}]+/gu,' ').trim().split(/\s+/).filter(Boolean);
+function oneEdit(a,b){
+ if(a===b)return true;if(a.length<4||b.length<4||Math.abs(a.length-b.length)>1)return false;
+ let i=0,j=0,edits=0;
+ while(i<a.length&&j<b.length){if(a[i]===b[j]){i++;j++;continue;}if(++edits>1)return false;
+ if(a.length===b.length){if(a[i]===b[j+1]&&a[i+1]===b[j]){i+=2;j+=2;}else{i++;j++;}}
+ else if(a.length>b.length)i++;else j++;
+ }return edits+(i<a.length||j<b.length?1:0)<=1;
+}
+export function textMatchScore(d,query){
+ const words=searchTokens(query);if(!words.length)return 1;
+ const names=[d.name,d.baseName,...(Array.isArray(d.aliases)?d.aliases:[]),...(DISH_ALIASES[d.id]||[])].filter(Boolean).map(searchTokens);
+ const ingredients=searchTokens((d.ingredients||[]).map(ingredientKey).join(' '));
+ const targets=[...names.flat(),...ingredients];
+ const normalized=searchTokens(words.map(ingredientKey).join(' '));
+ if(!normalized.every(w=>targets.some(t=>ingredientKey(t)===w||oneEdit(w,t))))return 0;
+ const phrase=words.join(' ');
+ if(names.some(n=>n.join(' ')===phrase))return 500;
+ if(names.some(n=>words.every(w=>n.includes(w))))return 400;
+ if(names.some(n=>words.every(w=>n.some(t=>oneEdit(w,t)))))return 300;
+ return normalized.every(w=>targets.some(t=>ingredientKey(t)===w))?200:100;
+}
+export function searchSummary(results,visible){
+ const total=results.length,shown=Math.min(Math.max(0,visible),total),remaining=total-shown;
+ const matched=results.filter(d=>d.exact!==false).length;
+ return {total,shown,remaining,next:Math.min(12,remaining),matched,suggestions:total-matched};
+}
 export function recommend(dishes,f={},s={},limit=70,at=Date.now()){
   const category=f.category||'Dinner',seen=new Set(),rows=[];
   for(const d of dishes){
     if(!d.categories.includes(category)||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
-    const q=norm(f.query),words=q.split(/\s+/).filter(Boolean);
-    const matches=!q||words.every(w=>norm(d.name+' '+d.cuisine+' '+d.ingredients.join(' ')).includes(w));
-    const exact=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||(!d.advancePrep&&d.time<=f.time))&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0)&&matches;
+    const textScore=textMatchScore(d,f.query);
+    const fits=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||(!d.advancePrep&&d.time<=f.time))&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0);
+    if(!fits)continue;
+    const exact=textScore>0;
     let score=preferenceScore(d,s)+overlap(f.available,d.ingredients)*6+overlap(s.pantry,d.ingredients)*4+overlap(s.leftovers,d.leftoverUses)*12+(d.kids&&f.party?.kids>0?5:0);
     if(f.party&&f.party.mode!=='home')score+=scaleSuitability(d,headcount(f.party).servings,f.party.mode)*4-(d.individualPrep?10:0);
     if(f.budget&&d.estimatedCost)score+=d.estimatedCost<=f.budget?8:-8;
@@ -79,15 +109,16 @@ export function recommend(dishes,f={},s={},limit=70,at=Date.now()){
     if(f.weather==='rainy'&&['onepot','stew','dal'].includes(d.method))score+=5;
     if(d.seasons?.includes(f.season))score+=4;
     for(const person of s.family||[]){score+=overlap(person.likes,d.ingredients)*2-overlap(person.dislikes,d.ingredients)*4;if(person.cuisines?.includes(d.cuisine))score+=3;}
-    rows.push({...d,exact,score});
+    rows.push({...d,exact,score,textScore});
   }
-  rows.sort((a,b)=>Number(b.exact)-Number(a.exact)||b.score-a.score||a.name.localeCompare(b.name));
-  return rows.filter(d=>{const key=d.canonicalId||norm(d.baseName||d.name);if(seen.has(key))return false;seen.add(key);return true;}).slice(0,Math.min(70,limit));
+  rows.sort((a,b)=>Number(b.exact)-Number(a.exact)||b.textScore-a.textScore||b.score-a.score||a.name.localeCompare(b.name));
+  const matching=rows.some(d=>d.exact)?rows.filter(d=>d.exact):rows;
+  return matching.filter(d=>{const key=d.canonicalId||norm(d.baseName||d.name);if(seen.has(key))return false;seen.add(key);return true;}).slice(0,limit);
 }
 export function parseSearch(text){
   const numbers={zero:0,one:1,two:2,three:3,four:4,five:5,six:6,seven:7,eight:8,nine:9,ten:10,eleven:11,twelve:12,thirteen:13,fourteen:14,fifteen:15,sixteen:16,seventeen:17,eighteen:18,nineteen:19,twenty:20,thirty:30,forty:40,fifty:50};
   let q=norm(text).replace(/\b[a-z]+\b/g,w=>Object.hasOwn(numbers,w)?String(numbers[w]):w),f={exclusions:[]};
-  const time=q.match(/(?:under|within|in|up to)\s*(\d+)\s*(?:min|minutes?)/);if(time)f.time=Number(time[1]);
+  const time=q.match(/(?:under|within|in|up to)\s*(\d+)\s*(?:minutes?|min)\b/);if(time)f.time=Number(time[1]);
   const adults=q.match(/(\d+)\s*adults?/),kids=q.match(/(\d+)\s*(?:kids?|children)/);if(adults)f.adults=Number(adults[1]);if(kids)f.kids=Number(kids[1]);
   const people=q.match(/(?:for)\s*(\d+)\s*(?:people|persons?|guests?)?/);if(people&&!adults)f.adults=Number(people[1]);
   const budget=q.match(/(?:₹|rs\.?\s*)(\d+)/);if(budget)f.budget=Number(budget[1]);
@@ -98,7 +129,12 @@ export function parseSearch(text){
   for(const c of ['Punjabi','Gujarati','Rajasthani','Italian','Mexican','Thai','South Indian','North Indian'])if(q.includes(norm(c)))f.cuisine=c;
   for(const c of MEALS)if(q.includes(norm(c)))f.category=c;
   if(/\blight\b/.test(q)&&!f.category)f.category='Light Meals';
-  f.query=(time||adults||kids||people||budget||f.jain||f.cuisine||f.category||f.exclusions.length||f.available?.length)?'':text.trim();
+  // Remove only understood request clauses; keep the actual dish/ingredient query.
+  let remaining=q;
+  for(const match of [time,adults,kids,people,budget,available])if(match)remaining=remaining.replace(match[0],' ');
+  remaining=remaining.replace(/(?:\bno|\bwithout|\bexclude|don't want|do not want)\s+([a-z]+(?:\s+(?:nuts|foods))?(?:\s*(?:,|and)\s*[a-z]+)*)/g,' ');
+  for(const label of [f.cuisine,f.category])if(label)remaining=remaining.replace(norm(label),' ');
+  f.query=remaining.replace(/\b(jain|for|please|show|find|me|ideas|dishes|recipes|something|light|and|we|want|i|need|have|are|available)\b/g,' ').replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');
   return f;
 }
 export function scaleRecipe(recipe,party){

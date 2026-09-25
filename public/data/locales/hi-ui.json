@@ -1061,5 +1061,12 @@
   "{0} — photographed serving": "{0} — परोसे हुए व्यंजन की तस्वीर",
   "Method": "विधि",
   "Ingredients for {0}": "{0} लोगों के लिए सामग्री",
-  "Open the kitchen planner": "रसोई योजनाकार खोलें"
+  "Open the kitchen planner": "रसोई योजनाकार खोलें",
+  "{0} dishes": "{0} व्यंजन",
+  "{0} matches · {1} suggestions · Showing {2} of {3} · {4} remaining": "{0} मेल · {1} सुझाव · {3} में से {2} दिखाए गए · {4} बाकी",
+  "No dishes matched that. Showing {0} ideas instead. Your selected filters still apply.": "कोई व्यंजन मेल नहीं खाया। इसके बजाय {0} के सुझाव दिखा रहे हैं। आपके चुने हुए फ़िल्टर लागू हैं।",
+  "No dishes matched that. Try another search or change your selected filters.": "कोई व्यंजन मेल नहीं खाया। कुछ और खोजें या चुने हुए फ़िल्टर बदलें।",
+  "No dishes fit this search and your selected filters.": "इस खोज और चुने हुए फ़िल्टर से कोई व्यंजन मेल नहीं खाता।",
+  "SUGGESTION": "सुझाव",
+  "Show {0} more ideas ↓": "{0} और सुझाव दिखाएँ ↓"
 }
