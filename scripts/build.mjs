@@ -6,10 +6,10 @@ await fs.cp('public','dist',{recursive:true});
 await fs.cp('icons','dist/icons',{recursive:true});
 for(const file of ['index.html','manifest.webmanifest','service-worker.js'])await fs.copyFile(file,'dist/'+file);
 await fs.mkdir('dist/assets',{recursive:true});
-for(const name of ['app.js','household.js','household-units.js','core.js','storage.js','catalog.js','auth-client.js','features.js','intelligence.js','photos.js','i18n.js','styles.css'])await fs.copyFile('src/'+name,'dist/assets/'+name);
+for(const name of ['app.js','welcome-hero.js','welcome-hero.css','household.js','household-units.js','core.js','storage.js','catalog.js','auth-client.js','features.js','intelligence.js','photos.js','i18n.js','styles.css'])await fs.copyFile('src/'+name,'dist/assets/'+name);
 await fs.copyFile('node_modules/@supabase/supabase-js/dist/umd/supabase.js','dist/assets/supabase.js');
-const files=(await fs.readdir('dist/assets')).filter(x=>x.endsWith('.js'));
-const hash=createHash('sha256');for(const f of [...files,'styles.css'])hash.update(await fs.readFile('dist/assets/'+f));hash.update(await fs.readFile('index.html'));
+const files=(await fs.readdir('dist/assets')).filter(x=>/\.(js|css)$/.test(x));
+const hash=createHash('sha256');for(const f of files)hash.update(await fs.readFile('dist/assets/'+f));hash.update(await fs.readFile('index.html'));
 // A catalogue or image-only update must also retire the previous offline cache.
 async function hashPublic(dir){for(const entry of (await fs.readdir(dir,{withFileTypes:true})).sort((a,b)=>a.name.localeCompare(b.name))){const name=dir+'/'+entry.name;if(entry.isDirectory())await hashPublic(name);else{hash.update(name);hash.update(await fs.readFile(name));}}}
 await hashPublic('public');

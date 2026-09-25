@@ -7,7 +7,7 @@ const dishes=JSON.parse(await fs.readFile('catalog/generated/dishes.json','utf8'
 const links=[];
 for(const d of dishes.filter(d=>d.recipeStatus==='complete')){
  const r=JSON.parse(await fs.readFile('public/data/recipes/'+d.id+'.json','utf8')),url=origin+'/recipe/'+d.id;
- const description=`${d.name}: a vegetarian, eggless recipe with ingredients, quantities and cooking steps.`;
+ const description=`${d.name}: a vegetarian recipe with ingredients, quantities and cooking steps.`;
  const recipe={'@context':'https://schema.org','@type':'Recipe',name:r.name,description,recipeCuisine:d.cuisine,recipeCategory:d.categories[0],recipeYield:String(r.baseServings)+' servings',suitableForDiet:'https://schema.org/VegetarianDiet',recipeIngredient:r.ingredients.map(i=>`${i.qty} ${i.unit} ${i.name}`),recipeInstructions:r.steps.map(text=>({'@type':'HowToStep',text})),url};
  if(d.photo)recipe.image=origin+d.photo.src;
  const content=`<article class="panel public-recipe"><h1>${esc(r.name)}</h1><p>${esc(description)}</p>${d.photo?`<img class="food-photo" src="${d.photo.src}" width="${d.photo.width}" height="${d.photo.height}" alt="${esc(d.photo.alt)}">${photoCredit(d)}`:''}<h2>Ingredients for ${r.baseServings}</h2><ul>${r.ingredients.map(i=>`<li>${esc(i.name)} — ${i.qty} ${esc(i.unit)}</li>`).join('')}</ul><h2>Method</h2><ol>${r.steps.map(x=>`<li>${esc(x)}</li>`).join('')}</ol><p>${esc(r.tips?.join(' ')||'')}</p><a href="/">Open the kitchen planner</a></article>`;

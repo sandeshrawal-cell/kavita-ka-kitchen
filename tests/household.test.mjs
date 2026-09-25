@@ -18,3 +18,5 @@ test('unavailable or corrupt storage leaves a valid home default',()=>{
  assert.equal(readHousehold({getItem:()=>JSON.stringify({party:{adults:-5}})},null,defaults).party.adults,2);
  assert.equal(writeHousehold({setItem(){throw Error('full');}},null,{}),false);
 });
+
+test('welcome completion persists for returning guests and remains account scoped',()=>{const storage=memory();writeHousehold(storage,null,{party:defaults,introDone:true});assert.equal(readHousehold(storage,null,defaults).introDone,true);assert.equal(readHousehold(storage,'new-account',defaults).introDone,false);writeHousehold(storage,'new-account',{party:defaults,introDone:true});assert.equal(readHousehold(storage,'new-account',defaults).introDone,true);});
