@@ -1,7 +1,7 @@
 const CACHE='kkk-public-v3.0.0';
-const SHELL=['/index.html','/assets/styles.css','/art/brand.svg','/art/kitchen-bowl.svg','/manifest.webmanifest','/data/manifest.json','/data/aliases.json','/fonts/manrope.woff2','/fonts/fraunces.woff2','/icons/icon-192.png','/icons/icon-512.png',/* BUILD_ASSETS */];
+const SHELL=['/index.html','/assets/styles.css','/art/kavita-mark.svg','/art/brand.svg','/art/kitchen-bowl.svg','/manifest.webmanifest','/data/manifest.json','/data/aliases.json','/fonts/manrope.woff2','/fonts/fraunces.woff2','/icons/icon-192.png','/icons/icon-512.png',/* BUILD_ASSETS */];
 SHELL.push('/fonts/indic.css',...['hi','gu'].flatMap(lang=>['ui','recipes'].map(part=>`/data/locales/${lang}-${part}.json`)),...['gujarati','devanagari'].flatMap(script=>[400,500,600,700].map(weight=>`/fonts/noto-${script}-${weight}.ttf`)));
-self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting())));
+self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll([...new Set(SHELL)])).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('kkk-public-')&&k!==CACHE||k.startsWith('kavita-kitchen-')).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
  const req=event.request,url=new URL(req.url);
