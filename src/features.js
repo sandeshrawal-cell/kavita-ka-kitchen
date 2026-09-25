@@ -17,12 +17,12 @@ export function installFeatures(ctx){
  function decorate(){
   const main=document.querySelector('#main');if(!main||main.querySelector('.feature-tools'))return;
   const view=ctx.view();let html='';
-  if(view==='discover')html=button('map','Explore the food map')+button('swipe','Swipe for dinner')+button('assistant','Kitchen assistant')+button('new','Cook something new')+button('event','Plan an event');
-  if(view==='planner')html=button('recurrences','Recurring menus')+button('shelf','Open dish shelf')+button('event','Event menus');
+  if(view==='discover')html=button('map','Explore the food map')+button('swipe','Swipe for dinner')+button('assistant','Kitchen assistant')+button('new','Cook something new')+(ctx.party().mode==='home'?'':button('event','Plan an event'));
+  if(view==='planner')html=button('recurrences','Recurring menus')+button('shelf','Open dish shelf')+(ctx.party().mode==='home'?'':button('event','Event menus'));
   if(view==='pantry')html=button('scan','Scan pantry photo')+button('consumption','Record food used or wasted');
   if(view==='insights')html=button('consumption','Record consumption')+button('portions','Record meal portions')+button('taste','Household tastes');
   if(view==='family')html=button('taste','Household tastes');
-  if(view==='settings')html=button('capacity','Production capacity');
+  if(view==='settings'&&ctx.party().mode!=='home')html=button('capacity','Production capacity');
   if(html){const target=main.querySelector('.discover-tools,.calendar-toolbar,.page-heading')||main.firstElementChild;target.insertAdjacentHTML('afterend',`<div class="feature-tools">${html}</div>`);}
   if(view==='pantry')for(const row of main.querySelectorAll('.stock-row')){const id=row.querySelector('[data-id]')?.dataset.id;if(id)row.insertAdjacentHTML('beforeend',button('stock-log','Used / wasted',`data-id="${esc(id)}"`));}
   if(view==='insights'){
@@ -34,7 +34,7 @@ export function installFeatures(ctx){
   const root=document.querySelector('#dialogBody');if(!root)return;
   if(root.querySelector('.recipe-banner')&&!root.querySelector('.recipe-extras'))root.insertAdjacentHTML('beforeend',`<div class="recipe-extras button-row">${button('substitutions','Ingredient substitutes')}${button('recipe-photo','Add private recipe photo')}${button('share-recipe','Download recipe card')}</div>`);
   if(root.querySelector('.cooking-step')&&!root.querySelector('[data-extra="voice"]'))root.insertAdjacentHTML('beforeend',button('voice','Voice commands'));
-  if(root.querySelector('.basket-row')&&!root.querySelector('[data-extra="production"]'))root.insertAdjacentHTML('beforeend',button('production','Production schedule'));
+  if(ctx.party().mode!=='home'&&root.querySelector('.basket-row')&&!root.querySelector('[data-extra="production"]'))root.insertAdjacentHTML('beforeend',button('production','Production schedule'));
   if(root.querySelector('#customForm')&&!root.querySelector('#privatePhotoInput'))root.querySelector('#customForm').insertAdjacentHTML('beforeend','<label>Private recipe photograph (optional)<input type="file" id="privatePhotoInput" accept="image/jpeg,image/png,image/webp"><small>Saved only in your account; not sent to AI.</small></label>');
  }
  async function map(){const data=await cachedJSON('/data/world-map.json');ctx.modal('A world of vegetarian food',`<p>Choose a highlighted country, then a cuisine. The same headcount and food rules apply.</p><div class="food-map"><svg viewBox="0 0 720 330" role="img" aria-label="World cuisine map">${data.map(c=>`<path d="${c.path}" class="${regions[c.code]?'map-active':'map-land'}" ${regions[c.code]?`data-extra="country" data-code="${c.code}" tabindex="0" role="button" aria-label="Explore ${esc(c.name)}"`:''}><title>${esc(c.name)}</title></path>`).join('')}</svg></div><div class="cuisine-grid">${Object.keys(regions).map(code=>button('country',esc(data.find(c=>c.code===code)?.name||code),`data-code="${code}"`)).join('')}</div><p class="quiet-note">Map data: <a href="https://www.naturalearthdata.com/about/terms-of-use/" target="_blank" rel="noopener">Natural Earth</a>, public domain. Regional menus represent cuisine traditions.</p>`);}
