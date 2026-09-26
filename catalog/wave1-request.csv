@@ -1,0 +1,61 @@
+﻿Category,Rank,Dish,Also known as,Cuisine / region,What it is,Jain,Contains onion/garlic
+Vrat/Fasting,1,Sabudana Thalipeeth,,Maharashtrian,Sago-potato flatbread on griddle; for upvas and Navratri,N,No
+Vrat/Fasting,2,Farali Pattice,,Gujarati,"Potato shells stuffed with coconut-dry fruit; Navratri, ekadashi",N,No
+Vrat/Fasting,3,Samak Pulao,Vrat ke Chawal Pulao,North Indian,Barnyard millet pulao with peanuts; Navratri and ekadashi,Y,No
+Vrat/Fasting,4,Kuttu Paratha,,North Indian,Buckwheat flour paratha with potato; Navratri vrat,N,No
+Vrat/Fasting,5,Kuttu Pakora,,North Indian,Buckwheat batter fritters of potato or paneer; Navratri,N,No
+Vrat/Fasting,6,Singhare ki Puri,,North Indian,Water chestnut flour puris; Navratri and Janmashtami fasts,Y,No
+Vrat/Fasting,7,Singhare ke Pakode,,North Indian,Water chestnut flour fritters; Navratri vrat,Y,No
+Vrat/Fasting,8,Sweet Potato Chaat,Shakarkandi Chaat,Delhi / North Indian,"Roasted sweet potato with lemon and sendha namak; Navratri, ekadashi",N,No
+Vrat/Fasting,9,Vrat Wale Aloo,,North Indian,Cumin potatoes with sendha namak; Navratri and ekadashi,N,No
+Vrat/Fasting,10,Shengdana Amti,,Maharashtrian,Peanut curry eaten with bhagar during upvas,Y,No
+Tea,1,Cutting Chai,,Mumbai,"Strong, sweet half-glass milky chai from Mumbai street stalls",Adaptable,No
+Tea,2,Irani Chai,Dum Chai,Hyderabadi,Slow-brewed dum tea finished with mawa-thickened milk,Y,No
+Tea,3,Elaichi Chai,Cardamom Tea,Indian,Milky tea boiled with crushed green cardamom,Y,No
+Tea,4,Sulaimani Chai,Sulaimani,Kerala (Malabar),"Light black tea with lemon, cardamom and sugar",Adaptable,No
+Tea,5,Noon Chai,Kashmiri Pink Tea,Kashmiri,Salted pink milk tea with baking soda and cardamom,Y,No
+Tea,6,Gur Chai,Jaggery Tea,North Indian,Milk tea sweetened with jaggery instead of sugar,Adaptable,No
+Tea,7,Kesar Chai,Saffron Tea,Rajasthani / Indian,Milk tea infused with saffron and cardamom,Y,No
+Tea,8,Tandoori Chai,,Maharashtrian (Pune),Chai poured into a red-hot clay pot for a smoky flavour,Adaptable,No
+Tea,9,Lemongrass Tea,Gavti Chaha,Maharashtrian,Milk tea brewed with fresh lemongrass leaves,Y,No
+Tea,10,Pudina Chai,Mint Tea,Indian,Milk tea boiled with fresh mint leaves,Y,No
+Dal/Legumes,1,Dal Fry,Toor Dal Fry,Punjabi,Toor dal finished with onion-tomato-garlic tadka,Adaptable,Yes
+Dal/Legumes,2,Chana Dal,Chane ki Dal,North Indian,Split Bengal gram with ghee-jeera tadka,Adaptable,No
+Dal/Legumes,3,Yellow Moong Dal,Peeli Moong Dal,North Indian,Light yellow moong dal tempered with cumin and ghee,Adaptable,No
+Dal/Legumes,4,Pindi Chole,Rawalpindi Chana,Punjabi,Dark dry-style chickpeas cooked with tea and anardana,Adaptable,No
+Dal/Legumes,5,Lobia Masala,Black-Eyed Peas Curry,Punjabi,Black-eyed peas in onion-tomato gravy,Adaptable,Yes
+Dal/Legumes,6,Langar wali Dal,Maa Chole di Dal,Punjabi,"Whole urad and chana dal slow-cooked, gurudwara style",Adaptable,Yes
+Dal/Legumes,7,Dal Methi,Methi Dal,North Indian,Toor dal cooked with fresh fenugreek leaves,Adaptable,Yes
+Dal/Legumes,8,Dhuli Urad Dal,Sookhi Urad Dal,Punjabi/UP,Dry-style split white urad with ginger and ghee,Adaptable,No
+Dal/Legumes,9,Hare Chane ki Sabzi,Choliya,Punjabi/UP,"Fresh green chickpeas curry, a winter special",Adaptable,Yes
+Dal/Legumes,10,Mor Kuzhambu,,Tamil,Spiced buttermilk curry with coconut and vegetables,Y,No
+Breads,1,Aloo Paratha,,Punjabi,Whole wheat flatbread stuffed with spiced potato,N,No
+Breads,2,Gobi Paratha,,Punjabi,Flatbread stuffed with spiced grated cauliflower,Adaptable,No
+Breads,3,Paneer Paratha,,Punjabi,Flatbread stuffed with spiced crumbled paneer,Y,No
+Breads,4,Bhatura,Bhature,Punjabi,"Puffed fried leavened bread, chole's partner",Adaptable,No
+Breads,5,Missi Roti,,Punjabi/Rajasthani,Spiced gram flour and wheat flatbread,Adaptable,Yes
+Breads,6,Tandoori Roti,,Punjabi,Whole wheat bread baked in a tandoor,Y,No
+Breads,7,Methi Paratha,,Punjabi,Flaky paratha kneaded with fresh fenugreek,Y,No
+Breads,8,Mooli Paratha,,Punjabi,Flatbread stuffed with spiced grated radish,N,No
+Breads,9,Amritsari Kulcha,,Punjabi,Crisp stuffed tandoor kulcha with spiced potato,N,Yes
+Breads,10,Malabar Parotta,Kerala Parotta,Kerala,Layered flaky flatbread made with maida,Y,No
+Soups,1,Lemon Coriander Soup,,Indo-Chinese,Tangy clear vegetable soup with lemon juice and fresh coriander,Adaptable,Yes
+Soups,2,Manchow Soup,Veg Manchow Soup,Indo-Chinese,Spicy soy-ginger vegetable soup topped with crispy fried noodles,Adaptable,Yes
+Soups,3,Hot and Sour Soup,,Indo-Chinese,Peppery vinegar-soy vegetable broth with tofu and chilli,Adaptable,Yes
+Soups,4,Palak Shorba,Spinach Shorba,North Indian,"Spiced spinach soup tempered with cumin, finished with cream",Adaptable,Yes
+Soups,5,Tamatar Shorba,Tomato Shorba,North Indian,"Thin spiced tomato soup with cumin, coriander and ghee",Adaptable,Yes
+Soups,6,Pepper Rasam,Milagu Rasam,Tamil,"Peppery tamarind broth, a classic comfort for colds",Adaptable,Yes
+Soups,7,Mysore Rasam,,Karnataka,"Rasam with roasted coconut, dal and spice paste",Y,No
+Soups,8,Lemon Rasam,Elumichai Rasam,Tamil,Light moong dal rasam brightened with lemon juice,Adaptable,No
+Soups,9,Thukpa,,Tibetan/Himalayan,Hearty noodle soup with vegetables in a spiced broth,Adaptable,Yes
+Soups,10,Dal Shorba,Lentil Shorba,North Indian,Thin spiced lentil soup finished with lemon and coriander,Adaptable,Yes
+Indian Sweets,1,Kalakand,,Rajasthani / UP,"Moist, grainy milk cake of reduced milk and chhena",Y,No
+Indian Sweets,2,Motichoor Ladoo,,North Indian,Fine saffron boondi pearls bound into ghee ladoos,Y,No
+Indian Sweets,3,Rava Ladoo,Rava Laddu,South Indian / Maharashtrian,"Roasted semolina, coconut and ghee ladoos",Y,No
+Indian Sweets,4,Doodh Peda,Kesar Peda,Pan-Indian,Soft saffron-cardamom milk fudge rounds,Y,No
+Indian Sweets,5,Soan Papdi,Patisa,North Indian,"Flaky, melt-in-mouth besan and ghee strands",Y,No
+Indian Sweets,6,Milk Cake,Alwar ka Mawa,Rajasthani,Caramelised grainy milk fudge with brown centre,Y,No
+Indian Sweets,7,Gujiya,"Karanji, Ghughra",North Indian / Pan-Indian,Fried pastry half-moons stuffed with khoya and nuts,Y,No
+Indian Sweets,8,Modak,Ukadiche Modak,Maharashtrian,Steamed rice dumplings with coconut-jaggery filling,Y,No
+Indian Sweets,9,Coconut Barfi,"Nariyal Barfi, Topra Pak",Pan-Indian,Fresh coconut and milk fudge squares,Y,No
+Indian Sweets,10,Balushahi,Badusha,North Indian,Flaky fried dough rounds glazed in sugar syrup,Y,No

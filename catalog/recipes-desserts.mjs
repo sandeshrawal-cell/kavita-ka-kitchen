@@ -17,7 +17,7 @@ add('sandesh','milk:2000:ml|lemon juice:50:ml|powdered sugar:110:g|cardamom powd
  'Cool until comfortably warm, then knead lightly and divide into 12 portions.',
  'Press into small discs or moulds and garnish with chopped pistachio. Refrigerate until firm and serve chilled.'
 ],60);
-add('rasmalai','milk:2800:ml|lemon juice:50:ml|sugar:350:g|water:1500:ml|almond:30:g|pistachio:30:g|cardamom powder:1:g|saffron:0.1:g',[
+add('rasmalai','milk:2800:ml|lemon juice:50:ml|sugar:350:g|water:1500:ml|almond:30:g|pistachio:30:g|cardamom powder:1:g|saffron:0.5:g',[
  'Set aside 800 ml milk for the sweetened milk sauce. Bring the remaining 2 litres to a boil, turn off heat for 1 minute, then add diluted lemon juice gradually until the curds separate.',
  'Strain into muslin, rinse briefly and drain for 30–40 minutes until moist but not dripping. Knead for 8–10 minutes until smooth, divide into 12 balls and flatten gently into crack-free discs.',
  'Boil 250 g sugar with the measured water in a wide pan. Add the discs with room to expand, cover and boil steadily for 15–18 minutes until spongy and cooked through.',
@@ -49,7 +49,7 @@ add('malpua','plain flour:160:g|semolina:40:g|milk:280:ml|sugar:180:g|water:180:
  'Drain briefly, dip each pancake in warm syrup for 20–30 seconds, turn once and lift out.',
  'Serve warm. Fry in small batches so pancakes do not overlap; the frying ghee quantity includes what remains in the pan.'
 ],55);
-add('jalebi','plain flour:160:g|cornflour starch:25:g|curd:120:g|water:300:ml|baking powder:3:g|turmeric powder:0.1:g|sugar:300:g|lemon juice:10:ml|cardamom powder:1:g|oil for frying:600:ml',[
+add('jalebi','plain flour:160:g|cornflour starch:25:g|curd:120:g|water:300:ml|baking powder:3:g|turmeric powder:0.5:g|sugar:300:g|lemon juice:10:ml|cardamom powder:1:g|oil for frying:600:ml',[
  'For this quick version, whisk flour, starch, curd, turmeric and 120 ml of the water to a smooth batter that flows in a thick continuous ribbon. Rest for 15 minutes.',
  'Simmer sugar with the remaining 180 ml water and lemon juice until lightly sticky, about 6–8 minutes; add cardamom and keep warm.',
  'Heat oil to about 170°C in a stable pan less than half full. Stir baking powder into the batter immediately before frying and transfer to a piping bag or food squeeze bottle.',
@@ -95,13 +95,13 @@ add('fruit-trifle','eggless sponge cake:300:g|milk:500:ml|cornflour starch:25:g|
  'Whip cold cream with remaining sugar to soft peaks.',
  'Layer cake, fruit and cold custard in four glasses, repeating once if the glasses allow.',
  'Spoon whipped cream on top, cover and refrigerate for 1–2 hours so the cake softens slightly.',
- 'Serve chilled. This version uses custard and cream with no gelatin jelly.'
+ 'Serve chilled. The layers in this version are eggless custard, cream, fruit and cake; no jelly is needed.'
 ],35,'Allow time to cool the custard and 1–2 hours chilling after assembly.');
 const puddings={
  'rice-pudding':['short grain rice:100:g|milk:1000:ml|sugar:90:g|vanilla extract:5:ml|cinnamon powder:1:g','Rinse the rice and drain.','Add rice to the hot milk and simmer very gently for 30–40 minutes, stirring often, until the grains are soft and the milk is creamy.','Add sugar, vanilla and cinnamon and simmer for 5 minutes.'],
  'seviyan-kheer':['wheat vermicelli:90:g|milk:1000:ml|sugar:90:g|ghee:15:g|cardamom powder:1:g|cashew:25:g|raisins:25:g','Heat ghee, toast cashews and raisins briefly and set aside. Toast vermicelli in the same pan until lightly golden.','Add the toasted vermicelli to hot milk and simmer for 8–12 minutes, stirring, until tender.','Stir in sugar and cardamom and simmer for 3 minutes; return toasted nuts and raisins.'],
  'payasam':['rice:90:g|milk:1000:ml|sugar:100:g|ghee:15:g|cashew:30:g|raisins:20:g|cardamom powder:1:g','Rinse rice and drain. Heat ghee separately and toast cashews and raisins until golden; reserve.','Add rice to hot milk and simmer gently for 35–45 minutes until very soft, scraping the base and sides regularly.','Stir in sugar, cardamom and the toasted cashews and raisins; simmer for 5 minutes.'],
- 'basundi':['milk:1500:ml|sugar:100:g|almond:25:g|pistachio:25:g|cardamom powder:1:g|saffron:0.1:g','Slice almonds and pistachios finely. Soak saffron in a spoonful of warm milk taken from the measured amount.','Simmer milk in a wide heavy pan for 40–50 minutes until reduced by about one-third, stirring and returning the thin cream layers from the sides to the milk.','Add sugar, cardamom, saffron milk and sliced nuts and simmer for 5 minutes.']
+ 'basundi':['milk:1500:ml|sugar:100:g|almond:25:g|pistachio:25:g|cardamom powder:1:g|saffron:0.5:g','Slice almonds and pistachios finely. Soak saffron in a spoonful of warm milk taken from the measured amount.','Simmer milk in a wide heavy pan for 40–50 minutes until reduced by about one-third, stirring and returning the thin cream layers from the sides to the milk.','Add sugar, cardamom, saffron milk and sliced nuts and simmer for 5 minutes.']
 };
 for(const [id,[ingredients,prep,cook,finish]] of Object.entries(puddings))add(id,ingredients,[
  prep,'Use a heavy saucepan with plenty of room. Bring the measured milk just to a simmer, stirring the bottom so it does not catch.',cook,finish,
@@ -118,7 +118,7 @@ add('coconut-payasam','grated coconut:180:g|coconut milk:500:ml|water:450:ml|jag
 ],30);
 const halwas={
  'gajar-halwa':['carrot:900:g|milk:600:ml|sugar:140:g|ghee:70:g|cashew:30:g|raisins:25:g|cardamom powder:1:g','Wash, peel and grate carrots using medium holes.','Put carrot and milk in a heavy pan. Simmer for 25–35 minutes, stirring, until the carrot is soft and most milk has evaporated.','Add ghee and cook for 8–10 minutes, then add sugar and cook another 8 minutes until the moisture released by the sugar evaporates.'],
- 'badam-halwa':['almond:220:g|milk:180:ml|sugar:180:g|ghee:90:g|cardamom powder:1:g|saffron:0.1:g','Soak almonds in hot water for 1 hour, peel and blend with milk to a fine, slightly textured paste. Soak saffron in a spoonful of the milk first.','Heat half the ghee in a heavy pan, add almond paste and stir on low heat for 8–10 minutes until the raw aroma fades.','Add sugar and saffron milk. Cook for 10–15 minutes, stirring continuously and adding remaining ghee a little at a time until the mixture becomes glossy and leaves the sides.'],
+ 'badam-halwa':['almond:220:g|milk:180:ml|sugar:180:g|ghee:90:g|cardamom powder:1:g|saffron:0.5:g','Soak almonds in hot water for 1 hour, peel and blend with milk to a fine, slightly textured paste. Soak saffron in a spoonful of the milk first.','Heat half the ghee in a heavy pan, add almond paste and stir on low heat for 8–10 minutes until the raw aroma fades.','Add sugar and saffron milk. Cook for 10–15 minutes, stirring continuously and adding remaining ghee a little at a time until the mixture becomes glossy and leaves the sides.'],
  'moong-dal-halwa':['moong dal:220:g|milk:350:ml|water:200:ml|sugar:180:g|ghee:140:g|cashew:30:g|cardamom powder:1:g','Rinse and soak moong dal for 4 hours, drain extremely well and grind to a coarse paste using as little water as possible.','Heat ghee in a heavy non-stick pan, add dal paste and stir over medium-low heat for 25–35 minutes until golden, crumbly and nutty-smelling. Do not rush this roasting.','Heat milk and water separately. Add carefully to the hot roasted dal in small additions, stirring against splashes. Cook until absorbed, then add sugar and cook for 8–10 minutes until glossy.']
 };
 for(const [id,[ingredients,prep,cook,finish]] of Object.entries(halwas))add(id,ingredients,[
@@ -150,7 +150,7 @@ add('kaju-katli','cashew:250:g|sugar:140:g|water:80:ml|ghee:8:g',[
  'Transfer to lightly greased parchment, cool until warm and knead gently with the ghee for 30 seconds. Roll between parchment sheets to about 4 mm thick.',
  'While still slightly warm, cut into diamonds. Cool completely before separating and storing.'
 ],30);
-add('shrikhand','plain thick curd:1000:g|powdered sugar:120:g|cardamom powder:1:g|saffron:0.1:g|milk:20:ml|pistachio:30:g',[
+add('shrikhand','plain thick curd:1000:g|powdered sugar:120:g|cardamom powder:1:g|saffron:0.5:g|milk:20:ml|pistachio:30:g',[
  'Line a sieve with clean muslin, set over a bowl and add curd. Cover and drain in the refrigerator for 6–8 hours until thick; discard or separately save the whey.',
  'Warm the milk slightly and steep saffron in it for 10 minutes.',
  'Transfer drained curd to a bowl and whisk until smooth without adding water.',
@@ -180,7 +180,7 @@ add('mango-mousse','ripe mango flesh:400:g|whipping cream:300:ml|powdered sugar:
  'Whip cream and powdered sugar in a chilled bowl to soft peaks that gently curl over; avoid overbeating into butter.',
  'Fold one-third of the whipped cream into the mango puree to lighten it, then gently fold in the rest.',
  'Spoon into four glasses and refrigerate for at least 4 hours.',
- 'Serve in the glasses as a soft spoonable mousse; this gelatin-free version is not intended for unmoulding.'
+ 'Serve in the glasses as a soft spoonable mousse. It has no setting agent and is not intended for unmoulding.'
 ],20,'Allow at least 4 hours chilling.');
 add('fruit-custard-with-cornstarch','milk:800:ml|cornflour starch:40:g|sugar:100:g|vanilla extract:5:ml|banana:150:g|apple:180:g|grapes:150:g|pomegranate arils:100:g',[
  'Mix cornflour starch with 150 ml cold milk until completely smooth.',
@@ -196,7 +196,7 @@ add('cheesecake-cup','eggless digestive biscuits:140:g|butter:55:g|cream cheese:
  'In a separate chilled bowl, whip cold cream to soft peaks.',
  'Fold whipped cream into the cream cheese mixture gently and spoon over the biscuit bases.',
  'Cover and refrigerate for at least 4 hours. Wash, hull and slice strawberries.',
- 'Top with strawberries just before serving. This is a spoonable no-bake cup dessert and contains no gelatin or eggs.'
+ 'Top with strawberries just before serving. This vegetarian, eggless cup dessert is spoonable and does not need baking or a setting agent.'
 ],25,'Allow at least 4 hours chilling.');
 add('brownie-sundae','eggless brownie:320:g|eggless vanilla ice cream:400:g|dark chocolate:80:g|milk:60:ml|almond:30:g',[
  'Use ready-baked eggless brownies and ice cream labelled eggless. Cut the brownie into four portions.',
@@ -206,7 +206,7 @@ add('brownie-sundae','eggless brownie:320:g|eggless vanilla ice cream:400:g|dark
  'Place a brownie portion in each bowl, top with a scoop of ice cream and drizzle with chocolate sauce.',
  'Scatter toasted almonds on top and serve immediately before the ice cream melts.'
 ],20);
-add('kulfi','milk:1200:ml|sweetened condensed milk:180:g|almond:30:g|pistachio:30:g|cardamom powder:1:g|saffron:0.1:g',[
+add('kulfi','milk:1200:ml|sweetened condensed milk:180:g|almond:30:g|pistachio:30:g|cardamom powder:1:g|saffron:0.5:g',[
  'Bring milk to a simmer in a heavy wide pan. Cook on low heat for 35–45 minutes, scraping the base and returning cream from the sides until reduced to about 750 ml.',
  'Finely chop almonds and pistachios and steep saffron in a spoonful of the warm milk.',
  'Add condensed milk, nuts, cardamom and saffron milk. Simmer for another 5 minutes, stirring.',

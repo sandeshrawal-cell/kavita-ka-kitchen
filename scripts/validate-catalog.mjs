@@ -7,9 +7,7 @@ const methods='assemble bake blend chaat coffee curry dal dessert flatbread fry 
 const fields={strings:['id','canonicalId','name','cuisine','method','effort','recipeStatus'],arrays:['categories','ingredients','nutrition','seasons','equipment','leftoverUses','allergens'],numbers:['time','bulkScore'],booleans:['kids','vegetarian','eggless','ingredientsComplete','jainVerified','individualPrep','fried','side','advancePrep']};
 const values={method:methods,effort:['easy','medium','special'],recipeStatus:['complete','outline'],nutrition:['balanced','energy-rich','fruit-rich','indulgent','kids','light','protein-rich','quick','veg-rich'],seasons:['all','monsoon','summer','winter'],equipment:['Blender','Oven','Tandoor'],allergens:['milk','gluten','peanut','tree nuts','sesame','soy'],categories:CATEGORIES};
 const banned=/\b(eggs?|gelatin|gelatine|fish|meat|anchovy|anchovies|lard|rennet|honey|chicken|beef|pork|mutton|prawns?|shrimp|bone stock)\b/i;
-const jainExcluded=/\b(onions?|garlic|potatoes?|sweet potatoes?|carrots?|radish|beetroots?|ginger|arbi|taro|turnips?|yams?|cassava|mushrooms?|honey|yeast)\b/i;
-const smallLegacy=new Set(['badam-halwa','basundi','jalebi','kashmiri-kahwa','kesar-badam-shake','kulfi','rasmalai','saffron-milk','shrikhand','vegetable-biryani']);
-const honeyLegacy=new Set(['avocado-shake','guava-shake','green-apple-smoothie','tulsi-tea']);
+const jainExcluded=/\b(onions?|garlic|potato(?:es)?|sweet potato(?:es)?|carrots?|radish|beetroots?|ginger|arbi|taro|turnips?|yams?|cassava|mushrooms?|honey|yeast)\b/i;
 export function validateEntry(d,r,{legacy=false}={}){
  const errors=[],warnings=[];const fail=s=>errors.push(`${d?.id||'?'}: ${s}`);
  for(const [type,keys] of Object.entries(fields))for(const key of keys){const x=d[key];if(type==='arrays'?!Array.isArray(x):type==='strings'?typeof x!=='string'||!x.trim():type==='numbers'?typeof x!=='number'||!Number.isFinite(x):typeof x!=='boolean')fail(`invalid or missing ${key}`);}
@@ -24,15 +22,14 @@ export function validateEntry(d,r,{legacy=false}={}){
  for(const i of r.ingredients||[]){
   if(typeof i.name!=='string'||!i.name.trim()||!Number.isFinite(i.qty)||i.qty<=0||!['g','ml'].includes(i.unit)||!['linear','seasoning','evaporation'].includes(i.scale)||!['Bakery','Dairy','Dry Fruits','Fruits','Grains','Other','Packaged','Pulses','Spices','Vegetables'].includes(i.group))fail(`invalid ingredient: ${i.name}`);
   if(i.pricePerUnit!==undefined&&(!Number.isFinite(i.pricePerUnit)||i.pricePerUnit<0))fail('invalid ingredient price');
-  if(i.qty<.5){const msg=`${d.id}: ${i.name} ${i.qty}${i.unit} below 0.5 minimum`;if(legacy&&smallLegacy.has(d.id)&&i.qty===.1&&['saffron','turmeric powder'].includes(i.name))warnings.push(msg);else errors.push(msg);}
+  if(i.qty<.5)errors.push(`${d.id}: ${i.name} ${i.qty}${i.unit} below 0.5 minimum`);
  }
  if(JSON.stringify(d.ingredients)!==JSON.stringify(r.ingredients.map(i=>i.name)))fail('dish ingredients differ from measured recipe');
  let text=[...r.ingredients.map(i=>i.name),...r.steps].join(' ').replace(/\beggless\b|\bno eggs?\b|\bagar instead of gelatin\b/gi,'');
  if(!d.jainVerified)text=text.replace(/\bhoney\b/gi,'');
- if(legacy&&honeyLegacy.has(d.id)){warnings.push(`${d.id}: existing Jain label conflicts with honey; unchanged pending review`);text=text.replace(/\bhoney\b/gi,'');}
  if(banned.test(text))fail('prohibited ingredient or instruction: '+text.match(banned)[0]);
  if(d.jainVerified&&(jainExcluded.test(r.ingredients.map(i=>i.name).join(' '))||/overnight.{0,30}ferment|ferment.{0,40}overnight/i.test(r.steps.join(' ')))){
-  if(!(legacy&&honeyLegacy.has(d.id)))fail('Jain label conflicts with ingredient or fermentation');
+  fail('Jain label conflicts with ingredient or fermentation');
  }
  if(!legacy&&d.jainVerified)fail('new dishes must not assert universal Jain certification; household rules decide suitability');
  const ing=r.ingredients.map(i=>i.name).join(' ');const expected=[[/\b(milk|paneer|curd|cream|ghee|butter|cheese)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([re])=>re.test(ing)).map(([,v])=>v);
@@ -46,8 +43,20 @@ export async function audit(){
  const aliases=JSON.parse(await fs.readFile('public/data/aliases.json','utf8'));
  const errors=duplicates([...published.map(dish=>({dish,aliases:Object.entries(aliases).filter(([,id])=>id===dish.id).map(([a])=>a.replaceAll('-',' '))})),...staged.entries]),warnings=[];
  const legacyErrors=[];
- const approved=JSON.parse(await fs.readFile('catalog/approved/wave1.json','utf8'));
- for(const e of approved.entries){errors.push(...validateEntry(e.dish,e.recipe).errors);if(!published.some(d=>d.id===e.dish.id))errors.push(e.dish.id+': approved recipe missing from public catalogue');}
+ const approved={entries:[]};
+ for(const file of (await fs.readdir('catalog/approved')).filter(f=>f.endsWith('.json'))){
+  const batch=JSON.parse(await fs.readFile('catalog/approved/'+file,'utf8'));
+  if(batch.publicationApproved!==true||batch.reviewStatus!=='published')errors.push(file+': missing publication approval');
+  approved.entries.push(...batch.entries);
+ }
+ for(const e of approved.entries){
+  errors.push(...validateEntry(e.dish,e.recipe).errors);
+  if(!published.some(d=>d.id===e.dish.id))errors.push(e.dish.id+': approved recipe missing from public catalogue');
+  if(e.reviewStatus!=='published'||e.translationReviewStatus!=='approved')errors.push(e.dish.id+': missing entry approval');
+  const r=e.recipe;
+  for(const lang of ['hi','gu'])for(const text of [r.name,...r.ingredients.map(i=>i.name),...r.steps,...r.tips,...r.substitutions,r.notes,...(r.passiveTime?[r.passiveTime]:[])])
+   if(typeof e.translations?.[lang]?.[text]!=='string'||!e.translations[lang][text].trim()||e.translations[lang][text]===text)errors.push(e.dish.id+': missing '+lang+' translation: '+text);
+ }
  for(const d of published){const r=JSON.parse(await fs.readFile(`public/data/recipes/${d.id}.json`,'utf8'));const report=validateEntry(d,r,{legacy:true});legacyErrors.push(...report.errors);warnings.push(...report.warnings);}
  for(const e of staged.entries){errors.push(...validateEntry(e.dish,e.recipe).errors);if(e.reviewStatus!=='needs-review'||e.translationReviewStatus!=='needs-review')errors.push(`${e.dish.id}: missing review state`);if(e.dish.photo||e.recipe.photo)errors.push(`${e.dish.id}: unexpected photo`);
   for(const lang of ['hi','gu'])for(const text of [e.recipe.name,...e.recipe.ingredients.map(i=>i.name),...e.recipe.steps])if(typeof e.translations?.[lang]?.[text]!=='string'||!e.translations[lang][text].trim()||e.translations[lang][text]===text)errors.push(`${e.dish.id}: missing ${lang} translation`);

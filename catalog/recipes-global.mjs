@@ -29,7 +29,7 @@ add('vegetarian-pad-thai','rice noodles:300:g|firm tofu:400:g|bean sprouts:200:g
  'Heat half the oil and brown tofu for 8 minutes. Transfer to a plate; add remaining oil and minced garlic and stir for 30 seconds.',
  'Add drained noodles and sauce and toss for 3–5 minutes until the noodles are tender and sauce mostly absorbed. Add a small splash of water if they remain firm.',
  'Return tofu and add sprouts and spring onion. Toss for 3–4 minutes until sprouts are thoroughly cooked and everything is hot.',
- 'Serve with crushed peanuts and lime wedges. This version omits both egg and fish sauce; check purchased sauces are vegetarian.'
+ 'Serve with crushed peanuts and lime wedges. This recipe is eggless; check that every purchased sauce is labelled suitable for vegetarians.'
 ],35);
 add('vegetable-udon','eggless udon noodles:600:g|firm tofu:300:g|mushroom:250:g|carrot:150:g|bok choy:300:g|spring onion:60:g|ginger:15:g|soy sauce:45:ml|sesame oil:15:ml|water:1400:ml|dried shiitake:15:g',[
  'Soak dried shiitake in 300 ml hot water for 20 minutes. Slice rehydrated mushrooms and strain the soaking liquid through a fine sieve to remove grit.',
@@ -37,7 +37,7 @@ add('vegetable-udon','eggless udon noodles:600:g|firm tofu:300:g|mushroom:250:g|
  'Simmer ginger slices, shiitake, strained soaking liquid and remaining water for 10 minutes. Add soy sauce, carrot and fresh mushrooms for another 6–8 minutes.',
  'Cook udon according to its packet in a separate pan, then drain and divide between four bowls.',
  'Add tofu and bok choy stems to the broth for 3 minutes, then add the leaves for 2 minutes until wilted and tender.',
- 'Ladle broth and vegetables over noodles, drizzle sesame oil and add sliced spring onion. Use noodles and broth ingredients without egg, fish or bonito.'
+ 'Ladle broth and vegetables over noodles, drizzle sesame oil and add sliced spring onion. Use certified vegetarian broth ingredients and eggless noodles.'
 ],40);
 add('tofu-scramble','firm tofu:600:g|tomato:200:g|spinach:200:g|onion:120:g|olive oil:25:ml|turmeric powder:1:g|cumin powder:3:g|salt:4:g|black pepper:1:g|water:60:ml',[
  'Drain tofu and crumble into bite-size pieces. Chop onion and tomato and wash and roughly chop spinach.',
@@ -73,10 +73,10 @@ for(const [id,[ingredients,method]] of Object.entries(pastas))add(id,ingredients
  id.startsWith('gnocchi')?'Boil gnocchi according to its packet, usually until it floats plus 1 minute. Lift out gently with a slotted spoon.':'Cook pasta for the packet time until tender with a slight bite. Reserve 200 ml pasta water before draining.',
  'Add the cooked pasta or gnocchi to the sauce and toss gently over low heat for 1–2 minutes. Add a splash of cooking water if needed to make the sauce cling.',
  id==='pasta-primavera'?'Turn off heat and add lemon juice and grated vegetarian hard cheese.':'Turn off heat and add torn basil; add grated vegetarian hard cheese if listed.',
- 'Taste, divide among four bowls and serve hot. Choose cheese made with vegetarian rennet.'
+ 'Taste, divide among four bowls and serve hot. Choose cheese labelled suitable for vegetarians.'
 ],35);
 add('vegetarian-thai-green-curry','firm tofu:500:g|brinjal:300:g|green beans:200:g|capsicum:150:g|coconut milk:600:ml|vegetarian Thai green curry paste:60:g|oil:20:ml|water:200:ml|soy sauce:25:ml|sugar:12:g|basil:25:g|lime juice:25:ml',[
- 'Check that green curry paste contains no shrimp paste or fish sauce. Cube tofu and brinjal and trim beans into short lengths.',
+ 'Check that green curry paste is labelled suitable for vegetarians. Cube tofu and brinjal and trim beans into short lengths.',
  'Heat oil in a saucepan and cook curry paste for 1–2 minutes over medium heat until fragrant.',
  'Stir in 200 ml coconut milk and simmer for 3 minutes, then add remaining coconut milk and water.',
  'Add brinjal and beans and simmer gently for 8 minutes. Add tofu and capsicum for another 6–8 minutes until vegetables are tender.',

@@ -1,0 +1,4390 @@
+{
+  "batch": "wave1-remaining-dal-soups",
+  "reviewStatus": "published",
+  "publicationApproved": true,
+  "approval": "User requested completing all remaining dishes together in this task on 2026-09-26.",
+  "jainPolicy": "Household-defined; no universal Jain certification.",
+  "sources": [],
+  "entries": [
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Toor Dal Fry"
+      ],
+      "dish": {
+        "id": "dal-fry",
+        "canonicalId": "dal-fry",
+        "name": "Dal Fry",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "toor dal",
+          "water",
+          "onion",
+          "tomato",
+          "garlic",
+          "fresh ginger",
+          "ghee",
+          "cumin seeds",
+          "turmeric powder",
+          "red chilli powder",
+          "garam masala",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "dal-fry",
+        "name": "Dal Fry",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "toor dal",
+            "qty": 240,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 120,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 200,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "garam masala",
+            "qty": 2,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse the dal until the water is fairly clear. Simmer with 900 ml water and turmeric for 35–45 minutes, partly covered, until the grains mash easily; stir and check the water level.",
+          "Finely chop onion, tomato, ginger and garlic. Heat ghee in a pan, sizzle cumin, then cook onion for 6–8 minutes until golden at the edges.",
+          "Add ginger and garlic and stir for 1 minute. Add tomato, chilli powder and salt; cook for 8 minutes until soft and the ghee appears at the edges.",
+          "Whisk the cooked dal lightly and add to the pan with the remaining 200 ml water. Simmer for 6–8 minutes, stirring, until the dal pours thickly from a spoon.",
+          "Stir in garam masala and chopped coriander. Taste and serve hot with rice or roti prepared separately; this recipe supplies the dal only."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Dal Fry": "दाल फ्राई",
+          "toor dal": "अरहर दाल",
+          "water": "पानी",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "garam masala": "गरम मसाला",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Rinse the dal until the water is fairly clear. Simmer with 900 ml water and turmeric for 35–45 minutes, partly covered, until the grains mash easily; stir and check the water level.": "दाल धोकर 900 मिली पानी और हल्दी के साथ आधी ढकी 35–45 मिनट पकाएँ। दाने आसानी से मसलने योग्य हों; बीच में चलाएँ और पानी जाँचें।",
+          "Finely chop onion, tomato, ginger and garlic. Heat ghee in a pan, sizzle cumin, then cook onion for 6–8 minutes until golden at the edges.": "प्याज, टमाटर, अदरक और लहसुन बारीक काटें। घी में जीरा चटकाएँ और प्याज 6–8 मिनट किनारों से सुनहरा होने तक भूनें।",
+          "Add ginger and garlic and stir for 1 minute. Add tomato, chilli powder and salt; cook for 8 minutes until soft and the ghee appears at the edges.": "अदरक और लहसुन डालकर 1 मिनट चलाएँ। टमाटर, मिर्च पाउडर और नमक डालकर 8 मिनट पकाएँ, जब तक नरम होकर किनारों पर घी दिखे।",
+          "Whisk the cooked dal lightly and add to the pan with the remaining 200 ml water. Simmer for 6–8 minutes, stirring, until the dal pours thickly from a spoon.": "पकी दाल हल्की फेंटकर बाकी 200 मिली पानी के साथ डालें। 6–8 मिनट चलाते हुए पकाएँ, जब तक चम्मच से गाढ़ी धार में गिरे।",
+          "Stir in garam masala and chopped coriander. Taste and serve hot with rice or roti prepared separately; this recipe supplies the dal only.": "गरम मसाला और कटा हरा धनिया मिलाएँ। स्वाद चखकर अलग बनाए चावल या रोटी के साथ परोसें; यह विधि केवल दाल की है।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Dal Fry": "દાલ ફ્રાય",
+          "toor dal": "તુવેરની દાળ",
+          "water": "પાણી",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "red chilli powder": "લાલ મરચું",
+          "garam masala": "ગરમ મસાલો",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Rinse the dal until the water is fairly clear. Simmer with 900 ml water and turmeric for 35–45 minutes, partly covered, until the grains mash easily; stir and check the water level.": "દાળ ધોઈ 900 મિલી પાણી અને હળદર સાથે અડધી ઢાંકી 35–45 મિનિટ પકાવો. દાણા સહેલાઈથી મસળાય ત્યાં સુધી વચ્ચે હલાવો અને પાણી તપાસો.",
+          "Finely chop onion, tomato, ginger and garlic. Heat ghee in a pan, sizzle cumin, then cook onion for 6–8 minutes until golden at the edges.": "ડુંગળી, ટામેટાં, આદુ અને લસણ બારીક કાપો. ઘીમાં જીરું તતડાવી ડુંગળી 6–8 મિનિટ કિનારી સોનેરી થાય ત્યાં સુધી સાંતળો.",
+          "Add ginger and garlic and stir for 1 minute. Add tomato, chilli powder and salt; cook for 8 minutes until soft and the ghee appears at the edges.": "આદુ અને લસણ નાખી 1 મિનિટ હલાવો. ટામેટાં, મરચું પાઉડર અને મીઠું નાખી 8 મિનિટ પકાવો, નરમ થાય અને કિનારે ઘી દેખાય ત્યાં સુધી.",
+          "Whisk the cooked dal lightly and add to the pan with the remaining 200 ml water. Simmer for 6–8 minutes, stirring, until the dal pours thickly from a spoon.": "પાકેલી દાળ હળવી ફેંટી બાકી 200 મિલી પાણી સાથે ઉમેરો. 6–8 મિનિટ હલાવતાં પકાવો જેથી ચમચીમાંથી જાડી ધાર પડે.",
+          "Stir in garam masala and chopped coriander. Taste and serve hot with rice or roti prepared separately; this recipe supplies the dal only.": "ગરમ મસાલો અને કોથમીર ભેળવો. ચાખીને અલગ બનાવેલા ભાત કે રોટલી સાથે ગરમ પીરસો; આ રીત માત્ર દાળની છે.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Chane ki Dal"
+      ],
+      "dish": {
+        "id": "chana-dal",
+        "canonicalId": "chana-dal",
+        "name": "Chana Dal",
+        "cuisine": "North Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "chana dal",
+          "water",
+          "tomato",
+          "fresh ginger",
+          "green chilli",
+          "ghee",
+          "cumin seeds",
+          "turmeric powder",
+          "red chilli powder",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 65,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "chana-dal",
+        "name": "Chana Dal",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "chana dal",
+            "qty": 240,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse and soak the chana dal in plenty of water for 2 hours, then drain. Chop the tomato, ginger and chilli finely.",
+          "Bring the drained dal, turmeric and 1000 ml fresh water to a boil. Simmer partly covered for 45–55 minutes, until tender but still holding its shape.",
+          "Heat ghee in another pan and sizzle the cumin. Add ginger and chilli for 1 minute, then tomato, salt and chilli powder; cook for 7–8 minutes until pulpy.",
+          "Fold the tempering into the dal with the remaining 100 ml water. Simmer for 5 minutes and finish with coriander; the dal should be tender with a light gravy, not a paste."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": "Soak chana dal for 2 hours.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Chana Dal": "चना दाल",
+          "chana dal": "चना दाल",
+          "water": "पानी",
+          "tomato": "टमाटर",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Rinse and soak the chana dal in plenty of water for 2 hours, then drain. Chop the tomato, ginger and chilli finely.": "चना दाल धोकर पर्याप्त पानी में 2 घंटे भिगोएँ और छानें। टमाटर, अदरक और मिर्च बारीक काटें।",
+          "Bring the drained dal, turmeric and 1000 ml fresh water to a boil. Simmer partly covered for 45–55 minutes, until tender but still holding its shape.": "दाल, हल्दी और 1000 मिली ताजा पानी उबालें। आधी ढकी 45–55 मिनट धीमे पकाएँ, दाने नरम हों पर आकार बना रहे।",
+          "Heat ghee in another pan and sizzle the cumin. Add ginger and chilli for 1 minute, then tomato, salt and chilli powder; cook for 7–8 minutes until pulpy.": "दूसरे पैन में घी और जीरा गरम करें। अदरक और मिर्च 1 मिनट भूनें, फिर टमाटर, नमक और मिर्च पाउडर 7–8 मिनट गलने तक पकाएँ।",
+          "Fold the tempering into the dal with the remaining 100 ml water. Simmer for 5 minutes and finish with coriander; the dal should be tender with a light gravy, not a paste.": "तड़का और बाकी 100 मिली पानी दाल में मिलाएँ। 5 मिनट पकाकर धनिया डालें; दाल हल्की तरी में नरम दानों वाली रहे, पेस्ट न बने।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak chana dal for 2 hours.": "चना दाल 2 घंटे भिगोएँ।"
+        },
+        "gu": {
+          "Chana Dal": "ચણા દાળ",
+          "chana dal": "ચણાની દાળ",
+          "water": "પાણી",
+          "tomato": "ટમેટું",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "red chilli powder": "લાલ મરચું",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Rinse and soak the chana dal in plenty of water for 2 hours, then drain. Chop the tomato, ginger and chilli finely.": "ચણા દાળ ધોઈ પૂરતા પાણીમાં 2 કલાક પલાળો અને નિતારો. ટામેટાં, આદુ અને મરચું બારીક કાપો.",
+          "Bring the drained dal, turmeric and 1000 ml fresh water to a boil. Simmer partly covered for 45–55 minutes, until tender but still holding its shape.": "દાળ, હળદર અને 1000 મિલી તાજું પાણી ઉકાળો. અડધી ઢાંકી 45–55 મિનિટ ધીમે પકાવો; દાણા નરમ થાય પણ આકાર રહે.",
+          "Heat ghee in another pan and sizzle the cumin. Add ginger and chilli for 1 minute, then tomato, salt and chilli powder; cook for 7–8 minutes until pulpy.": "બીજા પેનમાં ઘી અને જીરું ગરમ કરો. આદુ અને મરચું 1 મિનિટ સાંતળો, પછી ટામેટાં, મીઠું અને મરચું પાઉડર 7–8 મિનિટ ગળે ત્યાં સુધી પકાવો.",
+          "Fold the tempering into the dal with the remaining 100 ml water. Simmer for 5 minutes and finish with coriander; the dal should be tender with a light gravy, not a paste.": "વઘાર અને બાકી 100 મિલી પાણી દાળમાં ભેળવો. 5 મિનિટ પકાવી કોથમીર નાખો; દાળ હળવી રસાવાળી અને નરમ દાણેદાર રહે, પેસ્ટ ન બને.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak chana dal for 2 hours.": "ચણા દાળ 2 કલાક પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Peeli Moong Dal"
+      ],
+      "dish": {
+        "id": "yellow-moong-dal",
+        "canonicalId": "yellow-moong-dal",
+        "name": "Yellow Moong Dal",
+        "cuisine": "North Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "yellow moong dal",
+          "water",
+          "ghee",
+          "cumin seeds",
+          "fresh ginger",
+          "green chilli",
+          "turmeric powder",
+          "salt",
+          "lemon juice",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "yellow-moong-dal",
+        "name": "Yellow Moong Dal",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "yellow moong dal",
+            "qty": 220,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1050,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse the moong dal thoroughly and drain. Put it in a saucepan with 950 ml water and turmeric; bring to a boil and skim any heavy foam.",
+          "Simmer partly covered for 25–30 minutes, stirring occasionally, until the grains collapse when pressed. Whisk briefly for a soft, creamy consistency.",
+          "Heat ghee in a small pan and sizzle cumin. Add finely chopped ginger and chilli and stir for 1 minute without browning heavily. Pour the tempering into the dal carefully.",
+          "Add salt and the remaining 100 ml water, simmer for 3 minutes, then switch off. Stir in lemon juice and coriander; serve warm with separately prepared rice."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Yellow Moong Dal": "पीली मूंग दाल",
+          "yellow moong dal": "पीली मूंग दाल",
+          "water": "पानी",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "turmeric powder": "हल्दी पाउडर",
+          "salt": "नमक",
+          "lemon juice": "नींबू का रस",
+          "coriander leaves": "हरा धनिया",
+          "Rinse the moong dal thoroughly and drain. Put it in a saucepan with 950 ml water and turmeric; bring to a boil and skim any heavy foam.": "मूंग दाल अच्छी तरह धोकर छानें। 950 मिली पानी और हल्दी के साथ उबालें और ऊपर का अधिक झाग हटाएँ।",
+          "Simmer partly covered for 25–30 minutes, stirring occasionally, until the grains collapse when pressed. Whisk briefly for a soft, creamy consistency.": "आधी ढकी दाल 25–30 मिनट बीच-बीच में चलाते हुए पकाएँ, दबाने पर दाने टूट जाएँ। हल्का फेंटकर मुलायम करें।",
+          "Heat ghee in a small pan and sizzle cumin. Add finely chopped ginger and chilli and stir for 1 minute without browning heavily. Pour the tempering into the dal carefully.": "छोटे पैन में घी और जीरा गरम करें। बारीक अदरक और मिर्च 1 मिनट भूनें, अधिक भूरा न करें। तड़का सावधानी से दाल में डालें।",
+          "Add salt and the remaining 100 ml water, simmer for 3 minutes, then switch off. Stir in lemon juice and coriander; serve warm with separately prepared rice.": "नमक और बाकी 100 मिली पानी डालकर 3 मिनट पकाएँ और आँच बंद करें। नींबू और धनिया मिलाकर अलग बनाए चावल के साथ गरम परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Yellow Moong Dal": "પીળી મગ દાળ",
+          "yellow moong dal": "પીળી મગ દાળ",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "turmeric powder": "હળદર",
+          "salt": "મીઠું",
+          "lemon juice": "લીંબુનો રસ",
+          "coriander leaves": "કોથમીર",
+          "Rinse the moong dal thoroughly and drain. Put it in a saucepan with 950 ml water and turmeric; bring to a boil and skim any heavy foam.": "મગ દાળ સારી રીતે ધોઈ નિતારો. 950 મિલી પાણી અને હળદર સાથે ઉકાળો અને ઉપરનું વધારે ફીણ કાઢો.",
+          "Simmer partly covered for 25–30 minutes, stirring occasionally, until the grains collapse when pressed. Whisk briefly for a soft, creamy consistency.": "અડધી ઢાંકેલી દાળ 25–30 મિનિટ વચ્ચે હલાવતાં પકાવો જેથી દબાવતાં દાણા તૂટી જાય. હળવી ફેંટી મુલાયમ કરો.",
+          "Heat ghee in a small pan and sizzle cumin. Add finely chopped ginger and chilli and stir for 1 minute without browning heavily. Pour the tempering into the dal carefully.": "નાના પેનમાં ઘી અને જીરું ગરમ કરો. બારીક આદુ અને મરચું 1 મિનિટ સાંતળો, વધારે ભૂરાં ન કરો. વઘાર સાચવીને દાળમાં નાખો.",
+          "Add salt and the remaining 100 ml water, simmer for 3 minutes, then switch off. Stir in lemon juice and coriander; serve warm with separately prepared rice.": "મીઠું અને બાકી 100 મિલી પાણી નાખી 3 મિનિટ પકાવી તાપ બંધ કરો. લીંબુ અને કોથમીર ભેળવી અલગ બનાવેલા ભાત સાથે ગરમ પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Rawalpindi Chana"
+      ],
+      "dish": {
+        "id": "pindi-chole",
+        "canonicalId": "pindi-chole",
+        "name": "Pindi Chole",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "dried chickpeas",
+          "water",
+          "black tea leaves",
+          "ghee",
+          "fresh ginger",
+          "green chilli",
+          "cumin seeds",
+          "coriander powder",
+          "cumin powder",
+          "dried pomegranate powder",
+          "amchur",
+          "red chilli powder",
+          "garam masala",
+          "salt"
+        ],
+        "method": "dal",
+        "time": 110,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "pindi-chole",
+        "name": "Pindi Chole",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "dried chickpeas",
+            "qty": 280,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1600,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 4,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 30,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander powder",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "dried pomegranate powder",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "amchur",
+            "qty": 4,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "garam masala",
+            "qty": 3,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 7,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Soak chickpeas in plenty of water for 8–12 hours in the refrigerator, then discard the soaking water and rinse. Tie the tea leaves securely in a clean food-safe muslin bag.",
+          "Boil chickpeas with the measured fresh water and tea bag, then simmer partly covered for 75–95 minutes until easily crushed. Add hot water if needed to keep them covered. Remove the tea bag.",
+          "Drain the chickpeas, saving 250 ml cooking liquid. Toss them with coriander powder, cumin powder, pomegranate powder, amchur, chilli powder, garam masala and salt.",
+          "Heat ghee in a wide pan, sizzle cumin seeds, then add sliced ginger and chilli for 1 minute. Add the spiced chickpeas and reserved liquid and cook for 10–12 minutes, turning gently.",
+          "Stop when the spices cling to the chickpeas and little free liquid remains. Check that the centres are completely tender and serve with separately prepared bread."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 110,
+        "passiveTime": "Soak chickpeas for 8–12 hours in the refrigerator.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Pindi Chole": "पिंडी छोले",
+          "dried chickpeas": "सूखे काबुली चने",
+          "water": "पानी",
+          "black tea leaves": "काली चाय की पत्तियाँ",
+          "ghee": "घी",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "cumin seeds": "जीरा",
+          "coriander powder": "धनिया पाउडर",
+          "cumin powder": "जीरा पाउडर",
+          "dried pomegranate powder": "अनारदाना पाउडर",
+          "amchur": "अमचूर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "garam masala": "गरम मसाला",
+          "salt": "नमक",
+          "Soak chickpeas in plenty of water for 8–12 hours in the refrigerator, then discard the soaking water and rinse. Tie the tea leaves securely in a clean food-safe muslin bag.": "छोले पर्याप्त पानी में फ्रिज में 8–12 घंटे भिगोएँ। पानी फेंककर धोएँ। चायपत्ती साफ खाद्य-सुरक्षित मलमल की पोटली में अच्छी तरह बाँधें।",
+          "Boil chickpeas with the measured fresh water and tea bag, then simmer partly covered for 75–95 minutes until easily crushed. Add hot water if needed to keep them covered. Remove the tea bag.": "ताजे नापे पानी और चाय की पोटली के साथ छोले उबालें, फिर आधे ढके 75–95 मिनट आसानी से मसलने तक पकाएँ। डूबे रखने के लिए जरूरत पर गरम पानी डालें। पोटली निकालें।",
+          "Drain the chickpeas, saving 250 ml cooking liquid. Toss them with coriander powder, cumin powder, pomegranate powder, amchur, chilli powder, garam masala and salt.": "छोले छानकर 250 मिली उबला पानी बचाएँ। धनिया पाउडर, जीरा पाउडर, अनारदाना, अमचूर, मिर्च पाउडर, गरम मसाला और नमक मिलाएँ।",
+          "Heat ghee in a wide pan, sizzle cumin seeds, then add sliced ginger and chilli for 1 minute. Add the spiced chickpeas and reserved liquid and cook for 10–12 minutes, turning gently.": "पैन में घी और जीरा गरम करें। कटी अदरक और मिर्च 1 मिनट भूनें। मसालेदार छोले और बचा पानी डालकर धीरे पलटते हुए 10–12 मिनट पकाएँ।",
+          "Stop when the spices cling to the chickpeas and little free liquid remains. Check that the centres are completely tender and serve with separately prepared bread.": "जब मसाले छोलों से चिपकें और खुला पानी बहुत कम बचे, आँच बंद करें। बीच तक पूरी तरह नरम हों; अलग बनाई रोटी के साथ परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak chickpeas for 8–12 hours in the refrigerator.": "छोले फ्रिज में 8–12 घंटे भिगोएँ।"
+        },
+        "gu": {
+          "Pindi Chole": "પિંડી છોલે",
+          "dried chickpeas": "સૂકા કાબુલી ચણા",
+          "water": "પાણી",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "ghee": "ઘી",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "cumin seeds": "જીરું",
+          "coriander powder": "ધાણાનો ભૂકો",
+          "cumin powder": "જીરાનો ભૂકો",
+          "dried pomegranate powder": "દાડમના દાણાનો પાઉડર",
+          "amchur": "આમચૂર",
+          "red chilli powder": "લાલ મરચું",
+          "garam masala": "ગરમ મસાલો",
+          "salt": "મીઠું",
+          "Soak chickpeas in plenty of water for 8–12 hours in the refrigerator, then discard the soaking water and rinse. Tie the tea leaves securely in a clean food-safe muslin bag.": "છોલે પૂરતા પાણીમાં ફ્રિજમાં 8–12 કલાક પલાળો. પાણી કાઢી ધોઈ લો. ચાપત્તી સ્વચ્છ ખાદ્યયોગ્ય મલમલની પોટલીમાં મજબૂત બાંધો.",
+          "Boil chickpeas with the measured fresh water and tea bag, then simmer partly covered for 75–95 minutes until easily crushed. Add hot water if needed to keep them covered. Remove the tea bag.": "નાપેલા તાજા પાણી અને ચાની પોટલી સાથે છોલે ઉકાળી અડધા ઢાંકીને 75–95 મિનિટ સહેલાઈથી મસળાય ત્યાં સુધી પકાવો. ડૂબેલા રાખવા જરૂર મુજબ ગરમ પાણી નાખો. પોટલી કાઢો.",
+          "Drain the chickpeas, saving 250 ml cooking liquid. Toss them with coriander powder, cumin powder, pomegranate powder, amchur, chilli powder, garam masala and salt.": "છોલે નિતારી 250 મિલી બાફેલું પાણી રાખો. ધાણા પાઉડર, જીરું પાઉડર, દાડમ પાઉડર, આમચૂર, મરચું પાઉડર, ગરમ મસાલો અને મીઠું ભેળવો.",
+          "Heat ghee in a wide pan, sizzle cumin seeds, then add sliced ginger and chilli for 1 minute. Add the spiced chickpeas and reserved liquid and cook for 10–12 minutes, turning gently.": "પેનમાં ઘી અને જીરું ગરમ કરો. કાપેલું આદુ અને મરચું 1 મિનિટ સાંતળો. મસાલાવાળા છોલે અને રાખેલું પાણી ઉમેરી હળવે ફેરવતાં 10–12 મિનિટ પકાવો.",
+          "Stop when the spices cling to the chickpeas and little free liquid remains. Check that the centres are completely tender and serve with separately prepared bread.": "મસાલા છોલેને ચોંટે અને છૂટું પાણી બહુ ઓછું રહે ત્યારે તાપ બંધ કરો. અંદર સુધી પૂરા નરમ હોવા જોઈએ; અલગ બનાવેલી રોટલી સાથે પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak chickpeas for 8–12 hours in the refrigerator.": "છોલે ફ્રિજમાં 8–12 કલાક પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Black-Eyed Peas Curry"
+      ],
+      "dish": {
+        "id": "lobia-masala",
+        "canonicalId": "lobia-masala",
+        "name": "Lobia Masala",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "dried black-eyed peas",
+          "water",
+          "onion",
+          "tomato",
+          "garlic",
+          "fresh ginger",
+          "oil",
+          "cumin seeds",
+          "turmeric powder",
+          "coriander powder",
+          "red chilli powder",
+          "garam masala",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 70,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "lobia-masala",
+        "name": "Lobia Masala",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "dried black-eyed peas",
+            "qty": 280,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 240,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 25,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander powder",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "garam masala",
+            "qty": 2,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 7,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse the black-eyed peas, soak for 4–6 hours and drain. Simmer in 1000 ml fresh water for 35–45 minutes until tender all the way through; keep the cooking liquid.",
+          "Finely chop the onion, tomato, ginger and garlic. Heat oil, sizzle cumin, and fry onion for 8 minutes until golden. Add ginger and garlic and cook for 1 minute.",
+          "Add tomato, turmeric, coriander powder, chilli powder and salt. Cook for 8–10 minutes, stirring, until the tomato becomes a thick paste and oil beads at the edges.",
+          "Add the cooked peas with their liquid and remaining 200 ml water. Simmer for 10 minutes; mash a spoonful against the pan to thicken the gravy, keeping most peas whole.",
+          "Stir in garam masala and chopped coriander. The curry should coat a spoon without being dry; serve hot with rice or roti prepared separately."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 70,
+        "passiveTime": "Soak black-eyed peas for 4–6 hours.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Lobia Masala": "लोबिया मसाला",
+          "dried black-eyed peas": "सूखे लोबिया",
+          "water": "पानी",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "oil": "तेल",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "coriander powder": "धनिया पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "garam masala": "गरम मसाला",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Rinse the black-eyed peas, soak for 4–6 hours and drain. Simmer in 1000 ml fresh water for 35–45 minutes until tender all the way through; keep the cooking liquid.": "लोबिया धोकर 4–6 घंटे भिगोएँ और छानें। 1000 मिली ताजे पानी में 35–45 मिनट भीतर तक नरम होने तक पकाएँ; उबला पानी रखें।",
+          "Finely chop the onion, tomato, ginger and garlic. Heat oil, sizzle cumin, and fry onion for 8 minutes until golden. Add ginger and garlic and cook for 1 minute.": "प्याज, टमाटर, अदरक और लहसुन बारीक काटें। तेल में जीरा चटकाकर प्याज 8 मिनट सुनहरा भूनें। अदरक-लहसुन 1 मिनट पकाएँ।",
+          "Add tomato, turmeric, coriander powder, chilli powder and salt. Cook for 8–10 minutes, stirring, until the tomato becomes a thick paste and oil beads at the edges.": "टमाटर, हल्दी, धनिया पाउडर, मिर्च और नमक डालें। 8–10 मिनट चलाते पकाएँ, जब तक गाढ़ा पेस्ट बने और किनारों पर तेल दिखे।",
+          "Add the cooked peas with their liquid and remaining 200 ml water. Simmer for 10 minutes; mash a spoonful against the pan to thicken the gravy, keeping most peas whole.": "लोबिया, उसका पानी और बाकी 200 मिली पानी डालें। 10 मिनट पकाएँ; तरी गाढ़ी करने को एक चम्मच लोबिया मसलें, बाकी साबुत रखें।",
+          "Stir in garam masala and chopped coriander. The curry should coat a spoon without being dry; serve hot with rice or roti prepared separately.": "गरम मसाला और धनिया मिलाएँ। तरी चम्मच पर परत बनाए पर सूखी न हो; अलग बनाए चावल या रोटी के साथ गरम परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak black-eyed peas for 4–6 hours.": "लोबिया 4–6 घंटे भिगोएँ।"
+        },
+        "gu": {
+          "Lobia Masala": "ચોળા મસાલા",
+          "dried black-eyed peas": "સૂકા ચોળા",
+          "water": "પાણી",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "oil": "તેલ",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "coriander powder": "ધાણાનો ભૂકો",
+          "red chilli powder": "લાલ મરચું",
+          "garam masala": "ગરમ મસાલો",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Rinse the black-eyed peas, soak for 4–6 hours and drain. Simmer in 1000 ml fresh water for 35–45 minutes until tender all the way through; keep the cooking liquid.": "ચોળા ધોઈ 4–6 કલાક પલાળી નિતારો. 1000 મિલી તાજા પાણીમાં 35–45 મિનિટ અંદર સુધી નરમ પકાવો; બાફેલું પાણી રાખો.",
+          "Finely chop the onion, tomato, ginger and garlic. Heat oil, sizzle cumin, and fry onion for 8 minutes until golden. Add ginger and garlic and cook for 1 minute.": "ડુંગળી, ટામેટાં, આદુ અને લસણ બારીક કાપો. તેલમાં જીરું તતડાવી ડુંગળી 8 મિનિટ સોનેરી સાંતળો. આદુ-લસણ 1 મિનિટ પકાવો.",
+          "Add tomato, turmeric, coriander powder, chilli powder and salt. Cook for 8–10 minutes, stirring, until the tomato becomes a thick paste and oil beads at the edges.": "ટામેટાં, હળદર, ધાણા પાઉડર, મરચું અને મીઠું નાખો. 8–10 મિનિટ હલાવતાં પકાવો જેથી જાડી પેસ્ટ બને અને કિનારે તેલ દેખાય.",
+          "Add the cooked peas with their liquid and remaining 200 ml water. Simmer for 10 minutes; mash a spoonful against the pan to thicken the gravy, keeping most peas whole.": "ચોળા, તેનું પાણી અને બાકી 200 મિલી પાણી નાખો. 10 મિનિટ પકાવો; રસો ઘટ્ટ કરવા એક ચમચી ચોળા મસળો, બાકીના આખા રાખો.",
+          "Stir in garam masala and chopped coriander. The curry should coat a spoon without being dry; serve hot with rice or roti prepared separately.": "ગરમ મસાલો અને કોથમીર ભેળવો. રસો ચમચી પર પડ બનાવે પણ સૂકો ન હોય; અલગ બનાવેલા ભાત કે રોટલી સાથે ગરમ પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak black-eyed peas for 4–6 hours.": "ચોળા 4–6 કલાક પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Maa Chole di Dal"
+      ],
+      "dish": {
+        "id": "langar-wali-dal",
+        "canonicalId": "langar-wali-dal",
+        "name": "Langar wali Dal",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "whole black urad",
+          "chana dal",
+          "water",
+          "onion",
+          "tomato",
+          "garlic",
+          "fresh ginger",
+          "ghee",
+          "cumin seeds",
+          "turmeric powder",
+          "red chilli powder",
+          "garam masala",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 125,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "langar-wali-dal",
+        "name": "Langar wali Dal",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "whole black urad",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "chana dal",
+            "qty": 80,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1700,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 250,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 30,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "garam masala",
+            "qty": 2,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 7,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse both dals and soak together in plenty of water for 8 hours in the refrigerator. Drain and put in a heavy saucepan with 1500 ml fresh water and turmeric.",
+          "Bring to a boil, then simmer partly covered for 90–110 minutes, stirring often. Add hot water as needed; both dals must crush easily without a chalky centre.",
+          "Heat ghee, sizzle cumin and cook finely chopped onion for 8 minutes until golden. Add minced ginger and garlic for 1 minute, then chopped tomato, chilli powder and salt.",
+          "Cook the tomato mixture for 8–10 minutes until glossy. Stir it into the dal with the remaining 200 ml water; mash a little dal and simmer for 10 minutes until creamy.",
+          "Finish with garam masala and coriander. Keep the consistency gently flowing rather than stiff; serve hot, with rice or flatbread cooked separately."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 125,
+        "passiveTime": "Soak both dals for 8 hours in the refrigerator.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Langar wali Dal": "लंगर वाली दाल",
+          "whole black urad": "साबुत काली उड़द",
+          "chana dal": "चना दाल",
+          "water": "पानी",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "garam masala": "गरम मसाला",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Rinse both dals and soak together in plenty of water for 8 hours in the refrigerator. Drain and put in a heavy saucepan with 1500 ml fresh water and turmeric.": "दोनों दालें धोकर पर्याप्त पानी में फ्रिज में 8 घंटे भिगोएँ। छानकर भारी पतीले में 1500 मिली ताजा पानी और हल्दी डालें।",
+          "Bring to a boil, then simmer partly covered for 90–110 minutes, stirring often. Add hot water as needed; both dals must crush easily without a chalky centre.": "उबालकर आधा ढकें और 90–110 मिनट अक्सर चलाते हुए धीमे पकाएँ। जरूरत पर गरम पानी डालें; दोनों दालें भीतर से कच्ची न रहें और आसानी से मसलें।",
+          "Heat ghee, sizzle cumin and cook finely chopped onion for 8 minutes until golden. Add minced ginger and garlic for 1 minute, then chopped tomato, chilli powder and salt.": "घी में जीरा चटकाएँ और बारीक प्याज 8 मिनट सुनहरा भूनें। अदरक-लहसुन 1 मिनट भूनकर कटे टमाटर, मिर्च पाउडर और नमक डालें।",
+          "Cook the tomato mixture for 8–10 minutes until glossy. Stir it into the dal with the remaining 200 ml water; mash a little dal and simmer for 10 minutes until creamy.": "टमाटर मिश्रण 8–10 मिनट चमकदार होने तक पकाएँ। बाकी 200 मिली पानी के साथ दाल में मिलाएँ; थोड़ी दाल मसलकर 10 मिनट मलाईदार होने तक पकाएँ।",
+          "Finish with garam masala and coriander. Keep the consistency gently flowing rather than stiff; serve hot, with rice or flatbread cooked separately.": "गरम मसाला और धनिया डालें। दाल हल्की बहने वाली रहे, बहुत कड़ी नहीं; अलग बनाए चावल या रोटी के साथ गरम परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak both dals for 8 hours in the refrigerator.": "दोनों दालें फ्रिज में 8 घंटे भिगोएँ।"
+        },
+        "gu": {
+          "Langar wali Dal": "લંગર વાળી દાળ",
+          "whole black urad": "આખા કાળા અડદ",
+          "chana dal": "ચણાની દાળ",
+          "water": "પાણી",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "red chilli powder": "લાલ મરચું",
+          "garam masala": "ગરમ મસાલો",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Rinse both dals and soak together in plenty of water for 8 hours in the refrigerator. Drain and put in a heavy saucepan with 1500 ml fresh water and turmeric.": "બંને દાળ ધોઈ પૂરતા પાણીમાં ફ્રિજમાં 8 કલાક પલાળો. નિતારી ભારે તપેલીમાં 1500 મિલી તાજું પાણી અને હળદર નાખો.",
+          "Bring to a boil, then simmer partly covered for 90–110 minutes, stirring often. Add hot water as needed; both dals must crush easily without a chalky centre.": "ઉકાળી અડધું ઢાંકી 90–110 મિનિટ વારંવાર હલાવતાં ધીમે પકાવો. જરૂર મુજબ ગરમ પાણી નાખો; બંને દાળ અંદરથી કાચી ન રહે અને સહેલાઈથી મસળાય.",
+          "Heat ghee, sizzle cumin and cook finely chopped onion for 8 minutes until golden. Add minced ginger and garlic for 1 minute, then chopped tomato, chilli powder and salt.": "ઘીમાં જીરું તતડાવી બારીક ડુંગળી 8 મિનિટ સોનેરી સાંતળો. આદુ-લસણ 1 મિનિટ સાંતળી કાપેલા ટામેટાં, મરચું પાઉડર અને મીઠું નાખો.",
+          "Cook the tomato mixture for 8–10 minutes until glossy. Stir it into the dal with the remaining 200 ml water; mash a little dal and simmer for 10 minutes until creamy.": "ટામેટાંનું મિશ્રણ 8–10 મિનિટ ચળકતું થાય ત્યાં સુધી પકાવો. બાકી 200 મિલી પાણી સાથે દાળમાં ભેળવો; થોડી દાળ મસળી 10 મિનિટ ક્રીમી થાય ત્યાં સુધી પકાવો.",
+          "Finish with garam masala and coriander. Keep the consistency gently flowing rather than stiff; serve hot, with rice or flatbread cooked separately.": "ગરમ મસાલો અને કોથમીર નાખો. દાળ હળવી વહેતી રહે, બહુ કઠણ નહીં; અલગ બનાવેલા ભાત કે રોટલી સાથે ગરમ પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak both dals for 8 hours in the refrigerator.": "બંને દાળ ફ્રિજમાં 8 કલાક પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Methi Dal"
+      ],
+      "dish": {
+        "id": "dal-methi",
+        "canonicalId": "dal-methi",
+        "name": "Dal Methi",
+        "cuisine": "North Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "toor dal",
+          "fresh fenugreek leaves",
+          "water",
+          "onion",
+          "tomato",
+          "garlic",
+          "ghee",
+          "cumin seeds",
+          "turmeric powder",
+          "red chilli powder",
+          "salt",
+          "lemon juice"
+        ],
+        "method": "dal",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "dal-methi",
+        "name": "Dal Methi",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "toor dal",
+            "qty": 220,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh fenugreek leaves",
+            "qty": 180,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rinse the dal and simmer with turmeric and 950 ml water for 35–45 minutes until soft enough to mash. Stir occasionally and replenish water if the pan becomes dry.",
+          "Pick the fenugreek leaves, discard tough stems and wash thoroughly to remove grit. Chop the leaves, onion, garlic and tomato separately.",
+          "Heat ghee and sizzle cumin. Cook onion for 6 minutes, add garlic for 1 minute, then tomato, chilli powder and salt; cook for 6–8 minutes until pulpy.",
+          "Add fenugreek and stir for 4 minutes until wilted. Mix in the dal and remaining 150 ml water; simmer for 5 minutes, then switch off and add lemon juice."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Dal Methi": "दाल मेथी",
+          "toor dal": "अरहर दाल",
+          "fresh fenugreek leaves": "ताजा मेथी के पत्ते",
+          "water": "पानी",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "salt": "नमक",
+          "lemon juice": "नींबू का रस",
+          "Rinse the dal and simmer with turmeric and 950 ml water for 35–45 minutes until soft enough to mash. Stir occasionally and replenish water if the pan becomes dry.": "दाल धोकर हल्दी और 950 मिली पानी के साथ 35–45 मिनट मसलने योग्य नरम पकाएँ। बीच में चलाएँ और पानी सूखे तो बढ़ाएँ।",
+          "Pick the fenugreek leaves, discard tough stems and wash thoroughly to remove grit. Chop the leaves, onion, garlic and tomato separately.": "मेथी के पत्ते चुनें, मोटे डंठल हटाएँ और मिट्टी निकालने के लिए अच्छी तरह धोएँ। पत्ते, प्याज, लहसुन और टमाटर अलग काटें।",
+          "Heat ghee and sizzle cumin. Cook onion for 6 minutes, add garlic for 1 minute, then tomato, chilli powder and salt; cook for 6–8 minutes until pulpy.": "घी में जीरा चटकाएँ। प्याज 6 मिनट, फिर लहसुन 1 मिनट भूनें। टमाटर, मिर्च पाउडर और नमक डालकर 6–8 मिनट गलने तक पकाएँ।",
+          "Add fenugreek and stir for 4 minutes until wilted. Mix in the dal and remaining 150 ml water; simmer for 5 minutes, then switch off and add lemon juice.": "मेथी डालकर 4 मिनट नरम होने तक चलाएँ। दाल और बाकी 150 मिली पानी मिलाकर 5 मिनट पकाएँ, फिर आँच बंद करके नींबू मिलाएँ।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Dal Methi": "દાળ મેથી",
+          "toor dal": "તુવેરની દાળ",
+          "fresh fenugreek leaves": "તાજાં મેથીનાં પાન",
+          "water": "પાણી",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "red chilli powder": "લાલ મરચું",
+          "salt": "મીઠું",
+          "lemon juice": "લીંબુનો રસ",
+          "Rinse the dal and simmer with turmeric and 950 ml water for 35–45 minutes until soft enough to mash. Stir occasionally and replenish water if the pan becomes dry.": "દાળ ધોઈ હળદર અને 950 મિલી પાણી સાથે 35–45 મિનિટ મસળી શકાય એવી નરમ પકાવો. વચ્ચે હલાવો અને પાણી સૂકાય તો ઉમેરો.",
+          "Pick the fenugreek leaves, discard tough stems and wash thoroughly to remove grit. Chop the leaves, onion, garlic and tomato separately.": "મેથીનાં પાન ચૂંટી જાડાં ડાંઠાં કાઢો અને માટી દૂર કરવા સારી રીતે ધુઓ. પાન, ડુંગળી, લસણ અને ટામેટાં અલગ કાપો.",
+          "Heat ghee and sizzle cumin. Cook onion for 6 minutes, add garlic for 1 minute, then tomato, chilli powder and salt; cook for 6–8 minutes until pulpy.": "ઘીમાં જીરું તતડાવો. ડુંગળી 6 મિનિટ પછી લસણ 1 મિનિટ સાંતળો. ટામેટાં, મરચું પાઉડર અને મીઠું નાખી 6–8 મિનિટ ગળે ત્યાં સુધી પકાવો.",
+          "Add fenugreek and stir for 4 minutes until wilted. Mix in the dal and remaining 150 ml water; simmer for 5 minutes, then switch off and add lemon juice.": "મેથી નાખી 4 મિનિટ નરમ થાય ત્યાં સુધી હલાવો. દાળ અને બાકી 150 મિલી પાણી ભેળવી 5 મિનિટ પકાવો, પછી તાપ બંધ કરી લીંબુ ભેળવો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Sookhi Urad Dal"
+      ],
+      "dish": {
+        "id": "dhuli-urad-dal",
+        "canonicalId": "dhuli-urad-dal",
+        "name": "Dhuli Urad Dal",
+        "cuisine": "North Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "split white urad dal",
+          "water",
+          "ghee",
+          "fresh ginger",
+          "green chilli",
+          "cumin seeds",
+          "turmeric powder",
+          "salt",
+          "lemon juice",
+          "coriander leaves"
+        ],
+        "method": "dal",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "dhuli-urad-dal",
+        "name": "Dhuli Urad Dal",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "split white urad dal",
+            "qty": 240,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse the urad dal gently, soak for 30 minutes and drain very well. Cut the ginger into fine strips and chop chilli and coriander.",
+          "Heat ghee in a wide pan with a lid. Sizzle cumin, add ginger and chilli for 1 minute, then stir in drained dal, turmeric and salt.",
+          "Add the measured water, bring to a simmer and cover. Cook on low heat for 18–22 minutes; check gently with a fork and avoid stirring hard, which breaks the grains.",
+          "When tender, uncover and evaporate any remaining water over low heat. Rest off heat for 5 minutes, fluff gently and finish with lemon and coriander; the grains should stay separate."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": "Soak for 30 minutes; rest after cooking for 5 minutes.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Dhuli Urad Dal": "धुली उड़द दाल",
+          "split white urad dal": "धुली उड़द दाल",
+          "water": "पानी",
+          "ghee": "घी",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "salt": "नमक",
+          "lemon juice": "नींबू का रस",
+          "coriander leaves": "हरा धनिया",
+          "Rinse the urad dal gently, soak for 30 minutes and drain very well. Cut the ginger into fine strips and chop chilli and coriander.": "उड़द दाल हल्के हाथ धोकर 30 मिनट भिगोएँ और अच्छी तरह छानें। अदरक पतली काटें, मिर्च और धनिया काटें।",
+          "Heat ghee in a wide pan with a lid. Sizzle cumin, add ginger and chilli for 1 minute, then stir in drained dal, turmeric and salt.": "ढक्कन वाले चौड़े पैन में घी और जीरा गरम करें। अदरक-मिर्च 1 मिनट भूनकर दाल, हल्दी और नमक मिलाएँ।",
+          "Add the measured water, bring to a simmer and cover. Cook on low heat for 18–22 minutes; check gently with a fork and avoid stirring hard, which breaks the grains.": "नापा पानी डालकर हल्का उबालें और ढकें। धीमी आँच पर 18–22 मिनट पकाएँ; काँटे से हल्के जाँचें और जोर से न चलाएँ, वरना दाने टूटेंगे।",
+          "When tender, uncover and evaporate any remaining water over low heat. Rest off heat for 5 minutes, fluff gently and finish with lemon and coriander; the grains should stay separate.": "नरम होने पर ढक्कन हटाकर बचा पानी धीमे सुखाएँ। आँच से हटाकर 5 मिनट रखें, हल्के खोलें और नींबू-धनिया डालें; दाने अलग रहें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak for 30 minutes; rest after cooking for 5 minutes.": "30 मिनट भिगोएँ; पकाने के बाद 5 मिनट रखें।"
+        },
+        "gu": {
+          "Dhuli Urad Dal": "ધોળી અડદ દાળ",
+          "split white urad dal": "ધોળી અડદ દાળ",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "salt": "મીઠું",
+          "lemon juice": "લીંબુનો રસ",
+          "coriander leaves": "કોથમીર",
+          "Rinse the urad dal gently, soak for 30 minutes and drain very well. Cut the ginger into fine strips and chop chilli and coriander.": "અડદ દાળ હળવે ધોઈ 30 મિનિટ પલાળી સારી રીતે નિતારો. આદુ પાતળું કાપો, મરચું અને કોથમીર કાપો.",
+          "Heat ghee in a wide pan with a lid. Sizzle cumin, add ginger and chilli for 1 minute, then stir in drained dal, turmeric and salt.": "ઢાંકણવાળા પહોળા પેનમાં ઘી અને જીરું ગરમ કરો. આદુ-મરચું 1 મિનિટ સાંતળી દાળ, હળદર અને મીઠું ભેળવો.",
+          "Add the measured water, bring to a simmer and cover. Cook on low heat for 18–22 minutes; check gently with a fork and avoid stirring hard, which breaks the grains.": "નાપેલું પાણી નાખી હળવું ઉકાળી ઢાંકો. ધીમા તાપે 18–22 મિનિટ પકાવો; કાંટાથી હળવે તપાસો અને જોરથી ન હલાવો, નહીં તો દાણા તૂટશે.",
+          "When tender, uncover and evaporate any remaining water over low heat. Rest off heat for 5 minutes, fluff gently and finish with lemon and coriander; the grains should stay separate.": "નરમ થાય ત્યારે ઢાંકણ ખોલી બાકી પાણી ધીમે સૂકવો. તાપ પરથી ઉતારી 5 મિનિટ રાખો, હળવે છૂટા કરો અને લીંબુ-કોથમીર નાખો; દાણા છૂટા રહે.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak for 30 minutes; rest after cooking for 5 minutes.": "30 મિનિટ પલાળો; રાંધ્યા પછી 5 મિનિટ રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Choliya"
+      ],
+      "dish": {
+        "id": "hare-chane-ki-sabzi",
+        "canonicalId": "hare-chane-ki-sabzi",
+        "name": "Hare Chane ki Sabzi",
+        "cuisine": "North Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "fresh green chickpeas",
+          "onion",
+          "tomato",
+          "fresh ginger",
+          "garlic",
+          "oil",
+          "water",
+          "cumin seeds",
+          "turmeric powder",
+          "coriander powder",
+          "red chilli powder",
+          "garam masala",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "curry",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "winter"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "hare-chane-ki-sabzi",
+        "name": "Hare Chane ki Sabzi",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "fresh green chickpeas",
+            "qty": 500,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 120,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 200,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 25,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 350,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander powder",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "garam masala",
+            "qty": 2,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Shell and rinse the green chickpeas; the measured weight is for shelled peas. Chop onion and tomato finely and mince ginger and garlic.",
+          "Heat oil and sizzle cumin. Cook onion for 7 minutes until golden, then add ginger and garlic for 1 minute. Add tomato, turmeric, coriander powder, chilli powder and salt.",
+          "Cook the masala for 8 minutes until thick and glossy. Stir in chickpeas and water, cover and simmer for 15–20 minutes until a pea crushes easily between a spoon and the pan.",
+          "Uncover and reduce excess liquid until the gravy coats the peas. Stir in garam masala and chopped coriander and serve hot with separately prepared roti."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Hare Chane ki Sabzi": "हरे चने की सब्ज़ी",
+          "fresh green chickpeas": "ताजे हरे चने",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "fresh ginger": "ताजा अदरक",
+          "garlic": "लहसुन",
+          "oil": "तेल",
+          "water": "पानी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "coriander powder": "धनिया पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "garam masala": "गरम मसाला",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Shell and rinse the green chickpeas; the measured weight is for shelled peas. Chop onion and tomato finely and mince ginger and garlic.": "हरे चने छीलकर धोएँ; नापा वजन छिले दानों का है। प्याज और टमाटर बारीक काटें, अदरक-लहसुन कूटें।",
+          "Heat oil and sizzle cumin. Cook onion for 7 minutes until golden, then add ginger and garlic for 1 minute. Add tomato, turmeric, coriander powder, chilli powder and salt.": "तेल में जीरा चटकाएँ। प्याज 7 मिनट सुनहरा भूनें, फिर अदरक-लहसुन 1 मिनट पकाएँ। टमाटर, हल्दी, धनिया पाउडर, मिर्च और नमक डालें।",
+          "Cook the masala for 8 minutes until thick and glossy. Stir in chickpeas and water, cover and simmer for 15–20 minutes until a pea crushes easily between a spoon and the pan.": "मसाला 8 मिनट गाढ़ा और चमकदार पकाएँ। चने और पानी डालकर ढकें, 15–20 मिनट पकाएँ जब तक चना चम्मच से आसानी से दब जाए।",
+          "Uncover and reduce excess liquid until the gravy coats the peas. Stir in garam masala and chopped coriander and serve hot with separately prepared roti.": "ढक्कन हटाकर अतिरिक्त पानी सुखाएँ, ताकि तरी चनों पर चढ़े। गरम मसाला और धनिया मिलाकर अलग बनी रोटी के साथ परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Hare Chane ki Sabzi": "લીલા ચણાનું શાક",
+          "fresh green chickpeas": "તાજા લીલા ચણા",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "fresh ginger": "તાજું આદુ",
+          "garlic": "લસણ",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "coriander powder": "ધાણાનો ભૂકો",
+          "red chilli powder": "લાલ મરચું",
+          "garam masala": "ગરમ મસાલો",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Shell and rinse the green chickpeas; the measured weight is for shelled peas. Chop onion and tomato finely and mince ginger and garlic.": "લીલા ચણા ફોલી ધુઓ; નાપેલું વજન ફોલેલા દાણાનું છે. ડુંગળી અને ટામેટાં બારીક કાપો, આદુ-લસણ વાટો.",
+          "Heat oil and sizzle cumin. Cook onion for 7 minutes until golden, then add ginger and garlic for 1 minute. Add tomato, turmeric, coriander powder, chilli powder and salt.": "તેલમાં જીરું તતડાવો. ડુંગળી 7 મિનિટ સોનેરી સાંતળો, પછી આદુ-લસણ 1 મિનિટ પકાવો. ટામેટાં, હળદર, ધાણા પાઉડર, મરચું અને મીઠું નાખો.",
+          "Cook the masala for 8 minutes until thick and glossy. Stir in chickpeas and water, cover and simmer for 15–20 minutes until a pea crushes easily between a spoon and the pan.": "મસાલો 8 મિનિટ ઘટ્ટ અને ચળકતો પકાવો. ચણા અને પાણી નાખી ઢાંકી 15–20 મિનિટ પકાવો, ચમચીથી ચણો સહેલાઈથી દબાય ત્યાં સુધી.",
+          "Uncover and reduce excess liquid until the gravy coats the peas. Stir in garam masala and chopped coriander and serve hot with separately prepared roti.": "ઢાંકણ ખોલી વધારાનું પાણી સૂકવો જેથી રસો ચણાને ચોંટે. ગરમ મસાલો અને કોથમીર ભેળવી અલગ બનાવેલી રોટલી સાથે પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "mor-kuzhambu",
+        "canonicalId": "mor-kuzhambu",
+        "name": "Mor Kuzhambu",
+        "cuisine": "South Indian",
+        "categories": [
+          "Dal/Legumes",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "plain curd",
+          "ash gourd",
+          "fresh coconut",
+          "chana dal",
+          "raw rice",
+          "cumin seeds",
+          "green chilli",
+          "turmeric powder",
+          "water",
+          "coconut oil",
+          "mustard seeds",
+          "curry leaves",
+          "dried red chilli",
+          "salt"
+        ],
+        "method": "kadhi",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "protein-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "mor-kuzhambu",
+        "name": "Mor Kuzhambu",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "plain curd",
+            "qty": 500,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "ash gourd",
+            "qty": 350,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh coconut",
+            "qty": 60,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "chana dal",
+            "qty": 10,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "raw rice",
+            "qty": 10,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 450,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "coconut oil",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "mustard seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "curry leaves",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "dried red chilli",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Soak chana dal and rice for 20 minutes, then drain. Grind with coconut, cumin, green chilli and 100 ml of the measured water to a smooth paste.",
+          "Peel and deseed the ash gourd and cut into small cubes. Simmer with 250 ml water, turmeric and salt for 10–12 minutes until translucent and easily pierced.",
+          "Add the ground paste and simmer for 4 minutes, stirring to cook the soaked rice and dal. Whisk the curd separately with the remaining 100 ml water until smooth.",
+          "Turn the heat to its lowest setting and stir in the curd. Heat gently for 3–4 minutes, stirring, until steaming; do not allow a rolling boil or the curd may split.",
+          "Heat coconut oil in a small pan, pop mustard seeds and add dried chilli and curry leaves carefully. Pour over the curry, cover briefly and serve with separately cooked rice."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": "Soak rice and chana dal for 20 minutes.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Mor Kuzhambu": "मोर कुझम्बु",
+          "plain curd": "सादा दही",
+          "ash gourd": "सफेद पेठा",
+          "fresh coconut": "ताजा नारियल",
+          "chana dal": "चना दाल",
+          "raw rice": "कच्चे चावल",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "turmeric powder": "हल्दी पाउडर",
+          "water": "पानी",
+          "coconut oil": "नारियल तेल",
+          "mustard seeds": "राई",
+          "curry leaves": "करी पत्ता",
+          "dried red chilli": "सूखी लाल मिर्च",
+          "salt": "नमक",
+          "Soak chana dal and rice for 20 minutes, then drain. Grind with coconut, cumin, green chilli and 100 ml of the measured water to a smooth paste.": "चना दाल और चावल 20 मिनट भिगोकर छानें। नारियल, जीरा, हरी मिर्च और नापे पानी के 100 मिली के साथ चिकना पीसें।",
+          "Peel and deseed the ash gourd and cut into small cubes. Simmer with 250 ml water, turmeric and salt for 10–12 minutes until translucent and easily pierced.": "पेठे को छीलकर बीज निकालें और छोटे टुकड़े करें। 250 मिली पानी, हल्दी और नमक में 10–12 मिनट पारदर्शी और छेदने योग्य नरम पकाएँ।",
+          "Add the ground paste and simmer for 4 minutes, stirring to cook the soaked rice and dal. Whisk the curd separately with the remaining 100 ml water until smooth.": "पिसा पेस्ट डालकर 4 मिनट चलाते हुए पकाएँ ताकि चावल-दाल पक जाएँ। दही को बाकी 100 मिली पानी से अलग चिकना फेंटें।",
+          "Turn the heat to its lowest setting and stir in the curd. Heat gently for 3–4 minutes, stirring, until steaming; do not allow a rolling boil or the curd may split.": "आँच बिल्कुल धीमी करके दही मिलाएँ। 3–4 मिनट चलाते हुए भाप आने तक गरम करें; तेज उबाल न आने दें, वरना दही फट सकता है।",
+          "Heat coconut oil in a small pan, pop mustard seeds and add dried chilli and curry leaves carefully. Pour over the curry, cover briefly and serve with separately cooked rice.": "छोटे पैन में नारियल तेल गरम करके राई चटकाएँ। सूखी मिर्च और करी पत्ते सावधानी से डालें। करी पर डालकर थोड़ा ढकें और अलग पके चावल के साथ परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Soak rice and chana dal for 20 minutes.": "चावल और चना दाल 20 मिनट भिगोएँ।"
+        },
+        "gu": {
+          "Mor Kuzhambu": "મોર કુઝમ્બુ",
+          "plain curd": "સાદું દહીં",
+          "ash gourd": "સફેદ પેઠું",
+          "fresh coconut": "તાજું નાળિયેર",
+          "chana dal": "ચણાની દાળ",
+          "raw rice": "કાચા ચોખા",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "turmeric powder": "હળદર",
+          "water": "પાણી",
+          "coconut oil": "નાળિયેર તેલ",
+          "mustard seeds": "રાઈ",
+          "curry leaves": "મીઠો લીમડો",
+          "dried red chilli": "સૂકું લાલ મરચું",
+          "salt": "મીઠું",
+          "Soak chana dal and rice for 20 minutes, then drain. Grind with coconut, cumin, green chilli and 100 ml of the measured water to a smooth paste.": "ચણા દાળ અને ચોખા 20 મિનિટ પલાળી નિતારો. નાળિયેર, જીરું, લીલું મરચું અને નાપેલા પાણીમાંથી 100 મિલી સાથે સુંવાળું વાટો.",
+          "Peel and deseed the ash gourd and cut into small cubes. Simmer with 250 ml water, turmeric and salt for 10–12 minutes until translucent and easily pierced.": "પેઠું છોલી બીજ કાઢી નાના ટુકડા કરો. 250 મિલી પાણી, હળદર અને મીઠામાં 10–12 મિનિટ પારદર્શક અને સહેલાઈથી વીંધી શકાય એવું નરમ પકાવો.",
+          "Add the ground paste and simmer for 4 minutes, stirring to cook the soaked rice and dal. Whisk the curd separately with the remaining 100 ml water until smooth.": "વાટેલી પેસ્ટ નાખી 4 મિનિટ હલાવતાં પકાવો જેથી ચોખા-દાળ પાકે. દહીંને બાકી 100 મિલી પાણી સાથે અલગ સુંવાળું ફેંટો.",
+          "Turn the heat to its lowest setting and stir in the curd. Heat gently for 3–4 minutes, stirring, until steaming; do not allow a rolling boil or the curd may split.": "તાપ સાવ ધીમો કરી દહીં ભેળવો. 3–4 મિનિટ હલાવતાં વરાળ આવે ત્યાં સુધી ગરમ કરો; જોરથી ઉકળવા ન દો, નહીં તો દહીં ફાટી શકે.",
+          "Heat coconut oil in a small pan, pop mustard seeds and add dried chilli and curry leaves carefully. Pour over the curry, cover briefly and serve with separately cooked rice.": "નાના પેનમાં નાળિયેર તેલ ગરમ કરી રાઈ તતડાવો. સૂકું મરચું અને કઢી પત્તાં સાચવીને નાખો. શાક પર રેડી થોડી વાર ઢાંકો અને અલગ રાંધેલા ભાત સાથે પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Soak rice and chana dal for 20 minutes.": "ચોખા અને ચણા દાળ 20 મિનિટ પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "lemon-coriander-soup",
+        "canonicalId": "lemon-coriander-soup",
+        "name": "Lemon Coriander Soup",
+        "cuisine": "Indo-Chinese",
+        "categories": [
+          "Soups",
+          "Quick Meals"
+        ],
+        "ingredients": [
+          "cabbage",
+          "carrot",
+          "onion",
+          "garlic",
+          "fresh ginger",
+          "oil",
+          "water",
+          "cornflour starch",
+          "lemon juice",
+          "coriander leaves",
+          "black pepper",
+          "salt"
+        ],
+        "method": "stew",
+        "time": 25,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "lemon-coriander-soup",
+        "name": "Lemon Coriander Soup",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "cabbage",
+            "qty": 120,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 60,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1000,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cornflour starch",
+            "qty": 12,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 35,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 30,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Finely chop the vegetables, ginger and garlic. Wash coriander well; chop the stems separately from the leaves. Mix cornflour with 50 ml of the measured cold water.",
+          "Heat oil and soften onion for 3 minutes without browning. Add ginger, garlic and coriander stems for 1 minute, then carrot and cabbage for 2 minutes.",
+          "Add the remaining water, salt and pepper. Simmer for 8 minutes until vegetables are tender with a little bite. Stir the slurry again, pour it in and simmer for 2 minutes until lightly glossy.",
+          "Turn off the heat and add lemon juice and coriander leaves. Taste and serve immediately; adding lemon at the end keeps the soup bright and fresh."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 25,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Lemon Coriander Soup": "लेमन कोरिएंडर सूप",
+          "cabbage": "पत्तागोभी",
+          "carrot": "गाजर",
+          "onion": "प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "oil": "तेल",
+          "water": "पानी",
+          "cornflour starch": "कॉर्नफ्लोर स्टार्च",
+          "lemon juice": "नींबू का रस",
+          "coriander leaves": "हरा धनिया",
+          "black pepper": "काली मिर्च",
+          "salt": "नमक",
+          "Finely chop the vegetables, ginger and garlic. Wash coriander well; chop the stems separately from the leaves. Mix cornflour with 50 ml of the measured cold water.": "सब्जियाँ, अदरक और लहसुन बारीक काटें। धनिया धोकर डंठल और पत्ते अलग काटें। कॉर्नफ्लोर को नापे ठंडे पानी के 50 मिली में घोलें।",
+          "Heat oil and soften onion for 3 minutes without browning. Add ginger, garlic and coriander stems for 1 minute, then carrot and cabbage for 2 minutes.": "तेल में प्याज 3 मिनट बिना भूरा किए नरम करें। अदरक, लहसुन और धनिए के डंठल 1 मिनट, फिर गाजर और पत्ता गोभी 2 मिनट भूनें।",
+          "Add the remaining water, salt and pepper. Simmer for 8 minutes until vegetables are tender with a little bite. Stir the slurry again, pour it in and simmer for 2 minutes until lightly glossy.": "बाकी पानी, नमक और काली मिर्च डालें। 8 मिनट पकाएँ, सब्जियाँ नरम हों पर हल्का कुरकुरापन रहे। घोल दोबारा मिलाकर डालें और 2 मिनट हल्की चमक आने तक पकाएँ।",
+          "Turn off the heat and add lemon juice and coriander leaves. Taste and serve immediately; adding lemon at the end keeps the soup bright and fresh.": "आँच बंद करके नींबू और धनिए के पत्ते मिलाएँ। चखकर तुरंत परोसें; अंत में नींबू डालने से ताजा स्वाद रहता है।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Lemon Coriander Soup": "લેમન કોરિએન્ડર સૂપ",
+          "cabbage": "કોબી",
+          "carrot": "ગાજર",
+          "onion": "ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "cornflour starch": "મકાઈનો સ્ટાર્ચ",
+          "lemon juice": "લીંબુનો રસ",
+          "coriander leaves": "કોથમીર",
+          "black pepper": "કાળાં મરી",
+          "salt": "મીઠું",
+          "Finely chop the vegetables, ginger and garlic. Wash coriander well; chop the stems separately from the leaves. Mix cornflour with 50 ml of the measured cold water.": "શાકભાજી, આદુ અને લસણ બારીક કાપો. કોથમીર ધોઈ ડાંઠાં અને પાન અલગ કાપો. કોર્નફ્લોરને નાપેલા ઠંડા પાણીમાંથી 50 મિલીમાં ઓગાળો.",
+          "Heat oil and soften onion for 3 minutes without browning. Add ginger, garlic and coriander stems for 1 minute, then carrot and cabbage for 2 minutes.": "તેલમાં ડુંગળી 3 મિનિટ ભૂરા કર્યા વગર નરમ કરો. આદુ, લસણ અને કોથમીરના ડાંઠાં 1 મિનિટ, પછી ગાજર અને કોબી 2 મિનિટ સાંતળો.",
+          "Add the remaining water, salt and pepper. Simmer for 8 minutes until vegetables are tender with a little bite. Stir the slurry again, pour it in and simmer for 2 minutes until lightly glossy.": "બાકી પાણી, મીઠું અને મરી નાખો. 8 મિનિટ પકાવો, શાક નરમ થાય પણ થોડું કરકરું રહે. ઘોળ ફરી હલાવી નાખો અને 2 મિનિટ હળવો ચળકાટ આવે ત્યાં સુધી પકાવો.",
+          "Turn off the heat and add lemon juice and coriander leaves. Taste and serve immediately; adding lemon at the end keeps the soup bright and fresh.": "તાપ બંધ કરી લીંબુ અને કોથમીરનાં પાન ભેળવો. ચાખીને તરત પીરસો; અંતે લીંબુ ઉમેરવાથી તાજો સ્વાદ રહે છે.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Veg Manchow Soup"
+      ],
+      "dish": {
+        "id": "manchow-soup",
+        "canonicalId": "manchow-soup",
+        "name": "Manchow Soup",
+        "cuisine": "Indo-Chinese",
+        "categories": [
+          "Soups"
+        ],
+        "ingredients": [
+          "cabbage",
+          "carrot",
+          "capsicum",
+          "spring onion",
+          "garlic",
+          "fresh ginger",
+          "green chilli",
+          "oil",
+          "water",
+          "soy sauce",
+          "vinegar",
+          "cornflour starch",
+          "black pepper",
+          "salt",
+          "eggless crispy noodles"
+        ],
+        "method": "stew",
+        "time": 35,
+        "effort": "medium",
+        "kids": false,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "soy"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "manchow-soup",
+        "name": "Manchow Soup",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "cabbage",
+            "qty": 120,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "capsicum",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "spring onion",
+            "qty": 60,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "soy sauce",
+            "qty": 25,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "vinegar",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cornflour starch",
+            "qty": 20,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "eggless crispy noodles",
+            "qty": 60,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Finely chop cabbage, carrot, capsicum, ginger, garlic and chilli. Separate spring onion whites from greens. Mix cornflour with 60 ml of the measured cold water.",
+          "Heat oil in a saucepan. Stir-fry ginger, garlic, chilli and onion whites for 1 minute, then add the remaining chopped vegetables and stir over medium-high heat for 3 minutes.",
+          "Add the remaining water, soy sauce, pepper and salt. Simmer for 7 minutes until vegetables are tender but not mushy. Taste before adding any more salt because soy sauce is salty.",
+          "Stir the slurry and pour in while mixing. Simmer for 2–3 minutes until slightly thickened, add vinegar and onion greens, then divide into bowls. Add crispy noodles only at serving so they stay crunchy."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Manchow Soup": "मंचाउ सूप",
+          "cabbage": "पत्तागोभी",
+          "carrot": "गाजर",
+          "capsicum": "शिमला मिर्च",
+          "spring onion": "हरा प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "oil": "तेल",
+          "water": "पानी",
+          "soy sauce": "सोया सॉस",
+          "vinegar": "सिरका",
+          "cornflour starch": "कॉर्नफ्लोर स्टार्च",
+          "black pepper": "काली मिर्च",
+          "salt": "नमक",
+          "eggless crispy noodles": "अंडारहित कुरकुरे नूडल्स",
+          "Finely chop cabbage, carrot, capsicum, ginger, garlic and chilli. Separate spring onion whites from greens. Mix cornflour with 60 ml of the measured cold water.": "पत्ता गोभी, गाजर, शिमला मिर्च, अदरक, लहसुन और मिर्च बारीक काटें। हरे प्याज के सफेद और हरे भाग अलग करें। कॉर्नफ्लोर 60 मिली नापे ठंडे पानी में घोलें।",
+          "Heat oil in a saucepan. Stir-fry ginger, garlic, chilli and onion whites for 1 minute, then add the remaining chopped vegetables and stir over medium-high heat for 3 minutes.": "पतीले में तेल गरम करें। अदरक, लहसुन, मिर्च और सफेद प्याज 1 मिनट भूनें। बाकी कटी सब्जियाँ डालकर मध्यम-तेज आँच पर 3 मिनट चलाएँ।",
+          "Add the remaining water, soy sauce, pepper and salt. Simmer for 7 minutes until vegetables are tender but not mushy. Taste before adding any more salt because soy sauce is salty.": "बाकी पानी, सोया सॉस, काली मिर्च और नमक डालें। 7 मिनट पकाएँ, सब्जियाँ नरम हों पर गलें नहीं। सोया सॉस नमकीन है इसलिए अतिरिक्त नमक से पहले चखें।",
+          "Stir the slurry and pour in while mixing. Simmer for 2–3 minutes until slightly thickened, add vinegar and onion greens, then divide into bowls. Add crispy noodles only at serving so they stay crunchy.": "घोल हिलाकर चलाते हुए डालें। 2–3 मिनट हल्का गाढ़ा करें, सिरका और हरा प्याज मिलाकर कटोरियों में डालें। कुरकुरे नूडल्स परोसते समय ही डालें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Manchow Soup": "મંચાઉ સૂપ",
+          "cabbage": "કોબી",
+          "carrot": "ગાજર",
+          "capsicum": "કેપ્સિકમ",
+          "spring onion": "લીલી ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "soy sauce": "સોયા સોસ",
+          "vinegar": "વિનેગર",
+          "cornflour starch": "મકાઈનો સ્ટાર્ચ",
+          "black pepper": "કાળાં મરી",
+          "salt": "મીઠું",
+          "eggless crispy noodles": "ઈંડા વગરના કરકરા નૂડલ્સ",
+          "Finely chop cabbage, carrot, capsicum, ginger, garlic and chilli. Separate spring onion whites from greens. Mix cornflour with 60 ml of the measured cold water.": "કોબી, ગાજર, શિમલા મરચું, આદુ, લસણ અને મરચું બારીક કાપો. લીલી ડુંગળીના સફેદ અને લીલા ભાગ અલગ કરો. કોર્નફ્લોર 60 મિલી નાપેલા ઠંડા પાણીમાં ઓગાળો.",
+          "Heat oil in a saucepan. Stir-fry ginger, garlic, chilli and onion whites for 1 minute, then add the remaining chopped vegetables and stir over medium-high heat for 3 minutes.": "તપેલીમાં તેલ ગરમ કરો. આદુ, લસણ, મરચું અને સફેદ ડુંગળી 1 મિનિટ સાંતળો. બાકી કાપેલું શાક નાખી મધ્યમ-ઊંચા તાપે 3 મિનિટ હલાવો.",
+          "Add the remaining water, soy sauce, pepper and salt. Simmer for 7 minutes until vegetables are tender but not mushy. Taste before adding any more salt because soy sauce is salty.": "બાકી પાણી, સોયા સોસ, મરી અને મીઠું નાખો. 7 મિનિટ પકાવો, શાક નરમ થાય પણ ગળી ન જાય. સોયા સોસ ખારો હોવાથી વધુ મીઠા પહેલાં ચાખો.",
+          "Stir the slurry and pour in while mixing. Simmer for 2–3 minutes until slightly thickened, add vinegar and onion greens, then divide into bowls. Add crispy noodles only at serving so they stay crunchy.": "ઘોળ હલાવી મિશ્રણ હલાવતાં નાખો. 2–3 મિનિટ થોડું ઘટ્ટ કરો, સરકો અને લીલી ડુંગળી ભેળવી વાટકામાં રેડો. કરકરા નૂડલ્સ પીરસતી વખતે જ નાખો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "hot-and-sour-soup",
+        "canonicalId": "hot-and-sour-soup",
+        "name": "Hot and Sour Soup",
+        "cuisine": "Indo-Chinese",
+        "categories": [
+          "Soups",
+          "Quick Meals"
+        ],
+        "ingredients": [
+          "firm tofu",
+          "cabbage",
+          "carrot",
+          "spring onion",
+          "garlic",
+          "fresh ginger",
+          "green chilli",
+          "oil",
+          "water",
+          "soy sauce",
+          "vinegar",
+          "cornflour starch",
+          "white pepper",
+          "salt",
+          "sesame oil"
+        ],
+        "method": "stew",
+        "time": 30,
+        "effort": "medium",
+        "kids": false,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "sesame",
+          "soy"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "hot-and-sour-soup",
+        "name": "Hot and Sour Soup",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "firm tofu",
+            "qty": 200,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cabbage",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "spring onion",
+            "qty": 60,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1050,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "soy sauce",
+            "qty": 30,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "vinegar",
+            "qty": 30,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cornflour starch",
+            "qty": 20,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "white pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "sesame oil",
+            "qty": 5,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Cut tofu into narrow strips and shred cabbage and carrot. Chop ginger, garlic, chilli and spring onion, keeping the greens aside. Mix cornflour with 50 ml cold measured water.",
+          "Heat oil and stir-fry ginger, garlic, chilli and onion whites for 1 minute. Add carrot and cabbage and cook for 3 minutes, stirring to keep their texture.",
+          "Add remaining water, tofu, soy sauce, white pepper and salt. Simmer for 6–8 minutes; stir the slurry again and pour it in while mixing to avoid lumps.",
+          "Simmer for 2 minutes until lightly thickened. Switch off and stir in vinegar, sesame oil and onion greens; taste for a balanced sharp and peppery finish and serve hot."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Hot and Sour Soup": "हॉट एंड सॉर सूप",
+          "firm tofu": "फर्म टोफू",
+          "cabbage": "पत्तागोभी",
+          "carrot": "गाजर",
+          "spring onion": "हरा प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "oil": "तेल",
+          "water": "पानी",
+          "soy sauce": "सोया सॉस",
+          "vinegar": "सिरका",
+          "cornflour starch": "कॉर्नफ्लोर स्टार्च",
+          "white pepper": "सफेद मिर्च",
+          "salt": "नमक",
+          "sesame oil": "तिल का तेल",
+          "Cut tofu into narrow strips and shred cabbage and carrot. Chop ginger, garlic, chilli and spring onion, keeping the greens aside. Mix cornflour with 50 ml cold measured water.": "टोफू पतली पट्टियों में, पत्ता गोभी और गाजर बारीक काटें। अदरक, लहसुन, मिर्च और हरा प्याज काटें, हरा भाग अलग रखें। कॉर्नफ्लोर 50 मिली नापे ठंडे पानी में घोलें।",
+          "Heat oil and stir-fry ginger, garlic, chilli and onion whites for 1 minute. Add carrot and cabbage and cook for 3 minutes, stirring to keep their texture.": "तेल में अदरक, लहसुन, मिर्च और सफेद प्याज 1 मिनट भूनें। गाजर और पत्ता गोभी 3 मिनट चलाते पकाएँ ताकि बनावट बनी रहे।",
+          "Add remaining water, tofu, soy sauce, white pepper and salt. Simmer for 6–8 minutes; stir the slurry again and pour it in while mixing to avoid lumps.": "बाकी पानी, टोफू, सोया सॉस, सफेद मिर्च और नमक डालकर 6–8 मिनट पकाएँ। घोल दोबारा मिलाएँ और लगातार चलाते हुए डालें ताकि गाँठें न बनें।",
+          "Simmer for 2 minutes until lightly thickened. Switch off and stir in vinegar, sesame oil and onion greens; taste for a balanced sharp and peppery finish and serve hot.": "2 मिनट हल्का गाढ़ा होने तक पकाएँ। आँच बंद करके सिरका, तिल का तेल और हरा प्याज मिलाएँ; खट्टे और तीखे स्वाद का संतुलन चखकर गरम परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Hot and Sour Soup": "હોટ એન્ડ સાવર સૂપ",
+          "firm tofu": "કડક ટોફુ",
+          "cabbage": "કોબી",
+          "carrot": "ગાજર",
+          "spring onion": "લીલી ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "soy sauce": "સોયા સોસ",
+          "vinegar": "વિનેગર",
+          "cornflour starch": "મકાઈનો સ્ટાર્ચ",
+          "white pepper": "સફેદ મરી",
+          "salt": "મીઠું",
+          "sesame oil": "તલનું તેલ",
+          "Cut tofu into narrow strips and shred cabbage and carrot. Chop ginger, garlic, chilli and spring onion, keeping the greens aside. Mix cornflour with 50 ml cold measured water.": "ટોફુ પાતળી પટ્ટીમાં, કોબી અને ગાજર બારીક કાપો. આદુ, લસણ, મરચું અને લીલી ડુંગળી કાપી લીલો ભાગ અલગ રાખો. કોર્નફ્લોર 50 મિલી નાપેલા ઠંડા પાણીમાં ઓગાળો.",
+          "Heat oil and stir-fry ginger, garlic, chilli and onion whites for 1 minute. Add carrot and cabbage and cook for 3 minutes, stirring to keep their texture.": "તેલમાં આદુ, લસણ, મરચું અને સફેદ ડુંગળી 1 મિનિટ સાંતળો. ગાજર અને કોબી 3 મિનિટ હલાવતાં પકાવો જેથી બનાવટ રહે.",
+          "Add remaining water, tofu, soy sauce, white pepper and salt. Simmer for 6–8 minutes; stir the slurry again and pour it in while mixing to avoid lumps.": "બાકી પાણી, ટોફુ, સોયા સોસ, સફેદ મરી અને મીઠું નાખી 6–8 મિનિટ પકાવો. ઘોળ ફરી હલાવી સતત હલાવતાં નાખો જેથી ગાંઠો ન બને.",
+          "Simmer for 2 minutes until lightly thickened. Switch off and stir in vinegar, sesame oil and onion greens; taste for a balanced sharp and peppery finish and serve hot.": "2 મિનિટ થોડું ઘટ્ટ થાય ત્યાં સુધી પકાવો. તાપ બંધ કરી સરકો, તલનું તેલ અને લીલી ડુંગળી ભેળવો; ખાટા અને તીખા સ્વાદનું સંતુલન ચાખી ગરમ પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Spinach Shorba"
+      ],
+      "dish": {
+        "id": "palak-shorba",
+        "canonicalId": "palak-shorba",
+        "name": "Palak Shorba",
+        "cuisine": "North Indian",
+        "categories": [
+          "Soups",
+          "Quick Meals"
+        ],
+        "ingredients": [
+          "spinach",
+          "onion",
+          "garlic",
+          "fresh ginger",
+          "ghee",
+          "cumin seeds",
+          "water",
+          "cream",
+          "black pepper",
+          "salt"
+        ],
+        "method": "stew",
+        "time": 30,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [
+          "Blender"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "palak-shorba",
+        "name": "Palak Shorba",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "spinach",
+            "qty": 450,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 800,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cream",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Wash spinach in several changes of water and discard tough stems. Chop spinach, onion, ginger and garlic separately; grit left in the leaves will spoil the smooth soup.",
+          "Heat ghee and sizzle cumin. Soften onion for 5 minutes without deep browning, then stir in ginger and garlic for 1 minute. Add spinach and stir until wilted.",
+          "Add water, salt and pepper and simmer uncovered for 5–6 minutes until leaves are tender. Let the mixture cool until safe for your blender; blend in small batches without sealing hot steam inside.",
+          "Return to the pan and heat gently. Stir in cream without a hard boil; the shorba should flow freely and coat a spoon lightly. Taste and serve hot."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Palak Shorba": "पालक शोरबा",
+          "spinach": "पालक",
+          "onion": "प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "water": "पानी",
+          "cream": "क्रीम",
+          "black pepper": "काली मिर्च",
+          "salt": "नमक",
+          "Wash spinach in several changes of water and discard tough stems. Chop spinach, onion, ginger and garlic separately; grit left in the leaves will spoil the smooth soup.": "पालक कई बार पानी बदलकर धोएँ और मोटे डंठल निकालें। पालक, प्याज, अदरक और लहसुन अलग काटें; पत्तों में मिट्टी नहीं रहनी चाहिए।",
+          "Heat ghee and sizzle cumin. Soften onion for 5 minutes without deep browning, then stir in ginger and garlic for 1 minute. Add spinach and stir until wilted.": "घी में जीरा चटकाएँ। प्याज 5 मिनट बिना अधिक भूरा किए नरम करें, फिर अदरक-लहसुन 1 मिनट भूनें। पालक डालकर नरम होने तक चलाएँ।",
+          "Add water, salt and pepper and simmer uncovered for 5–6 minutes until leaves are tender. Let the mixture cool until safe for your blender; blend in small batches without sealing hot steam inside.": "पानी, नमक और मिर्च डालकर बिना ढके 5–6 मिनट पत्ते नरम होने तक पकाएँ। ब्लेंडर के लिए सुरक्षित ठंडा करके छोटे हिस्सों में पीसें; गरम भाप बंद न करें।",
+          "Return to the pan and heat gently. Stir in cream without a hard boil; the shorba should flow freely and coat a spoon lightly. Taste and serve hot.": "पैन में लौटाकर धीरे गरम करें। तेज उबाले बिना क्रीम मिलाएँ; शोरबा बहने वाला और चम्मच पर हल्की परत बनाने वाला हो। चखकर गरम परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Palak Shorba": "પાલક શોરબા",
+          "spinach": "પાલક",
+          "onion": "ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "water": "પાણી",
+          "cream": "મલાઈ",
+          "black pepper": "કાળાં મરી",
+          "salt": "મીઠું",
+          "Wash spinach in several changes of water and discard tough stems. Chop spinach, onion, ginger and garlic separately; grit left in the leaves will spoil the smooth soup.": "પાલક વારંવાર પાણી બદલી ધુઓ અને જાડાં ડાંઠાં કાઢો. પાલક, ડુંગળી, આદુ અને લસણ અલગ કાપો; પાનમાં માટી ન રહેવી જોઈએ.",
+          "Heat ghee and sizzle cumin. Soften onion for 5 minutes without deep browning, then stir in ginger and garlic for 1 minute. Add spinach and stir until wilted.": "ઘીમાં જીરું તતડાવો. ડુંગળી 5 મિનિટ વધારે ભૂરા કર્યા વગર નરમ કરો, પછી આદુ-લસણ 1 મિનિટ સાંતળો. પાલક નાખી નરમ થાય ત્યાં સુધી હલાવો.",
+          "Add water, salt and pepper and simmer uncovered for 5–6 minutes until leaves are tender. Let the mixture cool until safe for your blender; blend in small batches without sealing hot steam inside.": "પાણી, મીઠું અને મરી નાખી ઢાંક્યા વગર 5–6 મિનિટ પાન નરમ થાય ત્યાં સુધી પકાવો. બ્લેન્ડર માટે સલામત ઠંડું કરી નાના ભાગમાં વાટો; ગરમ વરાળ બંધ ન કરો.",
+          "Return to the pan and heat gently. Stir in cream without a hard boil; the shorba should flow freely and coat a spoon lightly. Taste and serve hot.": "પેનમાં પાછું નાખી ધીમે ગરમ કરો. જોરથી ઉકાળ્યા વગર ક્રીમ ભેળવો; શોરબા વહેતો અને ચમચી પર હળવું પડ બનાવતો હોય. ચાખી ગરમ પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Tomato Shorba"
+      ],
+      "dish": {
+        "id": "tamatar-shorba",
+        "canonicalId": "tamatar-shorba",
+        "name": "Tamatar Shorba",
+        "cuisine": "North Indian",
+        "categories": [
+          "Soups"
+        ],
+        "ingredients": [
+          "tomato",
+          "onion",
+          "garlic",
+          "fresh ginger",
+          "ghee",
+          "cumin seeds",
+          "coriander seeds",
+          "black pepper",
+          "sugar",
+          "salt",
+          "water",
+          "coriander leaves"
+        ],
+        "method": "stew",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [
+          "Blender"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "tamatar-shorba",
+        "name": "Tamatar Shorba",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "tomato",
+            "qty": 650,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 80,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander seeds",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "sugar",
+            "qty": 5,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 700,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Wash and chop the tomatoes. Slice onion, ginger and garlic. Lightly crush cumin, coriander seeds and pepper so they release flavour without becoming a fine powder.",
+          "Heat ghee and stir the crushed spices for 30 seconds. Add onion and soften for 4 minutes, then add ginger and garlic for 1 minute.",
+          "Add tomatoes, water, sugar and salt. Simmer partly covered for 18–20 minutes until tomatoes collapse. Cool enough for safe blending and blend in small batches.",
+          "Pass through a sieve, pressing out the liquid and discarding tough skins and seeds. Reheat the strained shorba for 3 minutes, add coriander leaves and serve; it should be thin, not a thick purée."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Tamatar Shorba": "टमाटर शोरबा",
+          "tomato": "टमाटर",
+          "onion": "प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "coriander seeds": "साबुत धनिया",
+          "black pepper": "काली मिर्च",
+          "sugar": "चीनी",
+          "salt": "नमक",
+          "water": "पानी",
+          "coriander leaves": "हरा धनिया",
+          "Wash and chop the tomatoes. Slice onion, ginger and garlic. Lightly crush cumin, coriander seeds and pepper so they release flavour without becoming a fine powder.": "टमाटर धोकर काटें। प्याज, अदरक और लहसुन काटें। जीरा, साबुत धनिया और काली मिर्च हल्के कूटें, महीन पाउडर न बनाएँ।",
+          "Heat ghee and stir the crushed spices for 30 seconds. Add onion and soften for 4 minutes, then add ginger and garlic for 1 minute.": "घी में कूटे मसाले 30 सेकंड चलाएँ। प्याज 4 मिनट नरम करें, फिर अदरक-लहसुन 1 मिनट भूनें।",
+          "Add tomatoes, water, sugar and salt. Simmer partly covered for 18–20 minutes until tomatoes collapse. Cool enough for safe blending and blend in small batches.": "टमाटर, पानी, चीनी और नमक डालें। आधा ढककर 18–20 मिनट टमाटर गलने तक पकाएँ। सुरक्षित पीसने योग्य ठंडा करके छोटे हिस्सों में पीसें।",
+          "Pass through a sieve, pressing out the liquid and discarding tough skins and seeds. Reheat the strained shorba for 3 minutes, add coriander leaves and serve; it should be thin, not a thick purée.": "छलनी से दबाकर तरल निकालें और कठोर छिलके-बीज हटाएँ। छना शोरबा 3 मिनट गरम करके धनिया डालें; यह पतला रहे, गाढ़ी प्यूरी नहीं।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Tamatar Shorba": "ટામેટાં શોરબા",
+          "tomato": "ટમેટું",
+          "onion": "ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "coriander seeds": "આખા ધાણા",
+          "black pepper": "કાળાં મરી",
+          "sugar": "ખાંડ",
+          "salt": "મીઠું",
+          "water": "પાણી",
+          "coriander leaves": "કોથમીર",
+          "Wash and chop the tomatoes. Slice onion, ginger and garlic. Lightly crush cumin, coriander seeds and pepper so they release flavour without becoming a fine powder.": "ટામેટાં ધોઈ કાપો. ડુંગળી, આદુ અને લસણ કાપો. જીરું, ધાણા અને મરી હળવાં કૂટો, ઝીણો પાઉડર ન કરો.",
+          "Heat ghee and stir the crushed spices for 30 seconds. Add onion and soften for 4 minutes, then add ginger and garlic for 1 minute.": "ઘીમાં કૂટેલા મસાલા 30 સેકન્ડ હલાવો. ડુંગળી 4 મિનિટ નરમ કરો, પછી આદુ-લસણ 1 મિનિટ સાંતળો.",
+          "Add tomatoes, water, sugar and salt. Simmer partly covered for 18–20 minutes until tomatoes collapse. Cool enough for safe blending and blend in small batches.": "ટામેટાં, પાણી, ખાંડ અને મીઠું નાખો. અડધું ઢાંકી 18–20 મિનિટ ટામેટાં ગળે ત્યાં સુધી પકાવો. સલામત રીતે વાટી શકાય એટલું ઠંડું કરી નાના ભાગમાં વાટો.",
+          "Pass through a sieve, pressing out the liquid and discarding tough skins and seeds. Reheat the strained shorba for 3 minutes, add coriander leaves and serve; it should be thin, not a thick purée.": "ચાળણીથી દબાવી પ્રવાહી કાઢો અને કઠણ છાલ-બીજ કાઢી નાખો. ગાળેલો શોરબા 3 મિનિટ ગરમ કરી કોથમીર નાખો; પાતળો રહે, જાડી પ્યુરી નહીં.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Milagu Rasam"
+      ],
+      "dish": {
+        "id": "pepper-rasam",
+        "canonicalId": "pepper-rasam",
+        "name": "Pepper Rasam",
+        "cuisine": "South Indian",
+        "categories": [
+          "Soups",
+          "Quick Meals"
+        ],
+        "ingredients": [
+          "tamarind pulp",
+          "tomato",
+          "garlic",
+          "black pepper",
+          "cumin seeds",
+          "coriander seeds",
+          "turmeric powder",
+          "water",
+          "ghee",
+          "mustard seeds",
+          "curry leaves",
+          "dried red chilli",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "stew",
+        "time": 25,
+        "effort": "medium",
+        "kids": false,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "pepper-rasam",
+        "name": "Pepper Rasam",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "tamarind pulp",
+            "qty": 25,
+            "unit": "g",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "black pepper",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 1000,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 15,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "mustard seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "curry leaves",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "dried red chilli",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Soak tamarind in 150 ml warm measured water for 10 minutes. Squeeze and strain, discarding seeds and fibre. Crush pepper, cumin, coriander seeds and peeled garlic coarsely.",
+          "Simmer chopped tomato, tamarind extract, turmeric and salt with the remaining water for 8–10 minutes until the tomato is soft and the raw tamarind aroma fades.",
+          "Add the crushed spice mixture and simmer for 3–4 minutes. Stop when a light foam rises at the edges; prolonged hard boiling makes the pepper aroma dull.",
+          "Heat ghee separately and pop mustard seeds. Add dried chilli and curry leaves carefully, pour over the rasam and stir in coriander. Cover briefly before serving as a broth or with rice prepared separately."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 25,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Pepper Rasam": "पेपर रसम",
+          "tamarind pulp": "इमली का गूदा",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "black pepper": "काली मिर्च",
+          "cumin seeds": "जीरा",
+          "coriander seeds": "साबुत धनिया",
+          "turmeric powder": "हल्दी पाउडर",
+          "water": "पानी",
+          "ghee": "घी",
+          "mustard seeds": "राई",
+          "curry leaves": "करी पत्ता",
+          "dried red chilli": "सूखी लाल मिर्च",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Soak tamarind in 150 ml warm measured water for 10 minutes. Squeeze and strain, discarding seeds and fibre. Crush pepper, cumin, coriander seeds and peeled garlic coarsely.": "इमली 150 मिली नापे गरम पानी में 10 मिनट भिगोएँ। मसलकर छानें, बीज और रेशे हटाएँ। मिर्च, जीरा, साबुत धनिया और छिला लहसुन मोटा कूटें।",
+          "Simmer chopped tomato, tamarind extract, turmeric and salt with the remaining water for 8–10 minutes until the tomato is soft and the raw tamarind aroma fades.": "कटे टमाटर, इमली का पानी, हल्दी और नमक बाकी पानी के साथ 8–10 मिनट पकाएँ; टमाटर नरम हों और इमली की कच्ची महक जाए।",
+          "Add the crushed spice mixture and simmer for 3–4 minutes. Stop when a light foam rises at the edges; prolonged hard boiling makes the pepper aroma dull.": "कूटे मसाले डालकर 3–4 मिनट पकाएँ। किनारों पर हल्का झाग उठने पर बंद करें; देर तक तेज उबालने से मिर्च की सुगंध कम होती है।",
+          "Heat ghee separately and pop mustard seeds. Add dried chilli and curry leaves carefully, pour over the rasam and stir in coriander. Cover briefly before serving as a broth or with rice prepared separately.": "अलग घी में राई चटकाएँ। सूखी मिर्च और करी पत्ते सावधानी से डालकर रसम पर डालें और धनिया मिलाएँ। थोड़ा ढककर शोरबे की तरह या अलग पके चावल के साथ परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Pepper Rasam": "મરી રસમ",
+          "tamarind pulp": "આમલીનો ગર",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "black pepper": "કાળાં મરી",
+          "cumin seeds": "જીરું",
+          "coriander seeds": "આખા ધાણા",
+          "turmeric powder": "હળદર",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "mustard seeds": "રાઈ",
+          "curry leaves": "મીઠો લીમડો",
+          "dried red chilli": "સૂકું લાલ મરચું",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Soak tamarind in 150 ml warm measured water for 10 minutes. Squeeze and strain, discarding seeds and fibre. Crush pepper, cumin, coriander seeds and peeled garlic coarsely.": "આમલી 150 મિલી નાપેલા ગરમ પાણીમાં 10 મિનિટ પલાળો. મસળી ગાળી બીજ અને રેસા કાઢો. મરી, જીરું, ધાણા અને છોલેલું લસણ જાડું કૂટો.",
+          "Simmer chopped tomato, tamarind extract, turmeric and salt with the remaining water for 8–10 minutes until the tomato is soft and the raw tamarind aroma fades.": "કાપેલા ટામેટાં, આમલીનું પાણી, હળદર અને મીઠું બાકી પાણી સાથે 8–10 મિનિટ પકાવો; ટામેટાં નરમ થાય અને આમલીની કાચી સુગંધ જાય.",
+          "Add the crushed spice mixture and simmer for 3–4 minutes. Stop when a light foam rises at the edges; prolonged hard boiling makes the pepper aroma dull.": "કૂટેલા મસાલા નાખી 3–4 મિનિટ પકાવો. કિનારે હળવું ફીણ આવે ત્યારે બંધ કરો; લાંબો જોરદાર ઉકાળો મરીની સુગંધ ઘટાડે છે.",
+          "Heat ghee separately and pop mustard seeds. Add dried chilli and curry leaves carefully, pour over the rasam and stir in coriander. Cover briefly before serving as a broth or with rice prepared separately.": "અલગ ઘીમાં રાઈ તતડાવો. સૂકું મરચું અને કઢી પત્તાં સાચવી નાખી રસમ પર રેડો અને કોથમીર ભેળવો. થોડી વાર ઢાંકી સૂપ તરીકે કે અલગ રાંધેલા ભાત સાથે પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "mysore-rasam",
+        "canonicalId": "mysore-rasam",
+        "name": "Mysore Rasam",
+        "cuisine": "South Indian",
+        "categories": [
+          "Soups",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "toor dal",
+          "chana dal",
+          "fresh coconut",
+          "coriander seeds",
+          "cumin seeds",
+          "black pepper",
+          "dried red chilli",
+          "tamarind pulp",
+          "tomato",
+          "turmeric powder",
+          "ghee",
+          "mustard seeds",
+          "curry leaves",
+          "salt",
+          "water",
+          "coriander leaves"
+        ],
+        "method": "stew",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [
+          "Blender"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "mysore-rasam",
+        "name": "Mysore Rasam",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "toor dal",
+            "qty": 80,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "chana dal",
+            "qty": 12,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh coconut",
+            "qty": 30,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander seeds",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "dried red chilli",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "tamarind pulp",
+            "qty": 20,
+            "unit": "g",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 200,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 18,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "mustard seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "curry leaves",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 1200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse toor dal and simmer with turmeric and 450 ml water for 30–40 minutes until completely soft, then mash. Soak tamarind in 150 ml warm water and strain out seeds and fibre.",
+          "Heat 5 g of the ghee and roast chana dal, coriander seeds, cumin, pepper and dried chilli over low heat until fragrant. Add coconut and stir until lightly golden, then cool and grind with 100 ml water.",
+          "Simmer chopped tomatoes, tamarind extract and salt with the remaining 500 ml water for 8 minutes. Add mashed dal and roasted paste and simmer gently for 5 minutes until aromatic.",
+          "Heat the remaining ghee, pop mustard and add curry leaves carefully. Pour into the rasam and finish with coriander; it should be a pourable broth, slightly richer than plain rasam."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Mysore Rasam": "मैसूर रसम",
+          "toor dal": "अरहर दाल",
+          "chana dal": "चना दाल",
+          "fresh coconut": "ताजा नारियल",
+          "coriander seeds": "साबुत धनिया",
+          "cumin seeds": "जीरा",
+          "black pepper": "काली मिर्च",
+          "dried red chilli": "सूखी लाल मिर्च",
+          "tamarind pulp": "इमली का गूदा",
+          "tomato": "टमाटर",
+          "turmeric powder": "हल्दी पाउडर",
+          "ghee": "घी",
+          "mustard seeds": "राई",
+          "curry leaves": "करी पत्ता",
+          "salt": "नमक",
+          "water": "पानी",
+          "coriander leaves": "हरा धनिया",
+          "Rinse toor dal and simmer with turmeric and 450 ml water for 30–40 minutes until completely soft, then mash. Soak tamarind in 150 ml warm water and strain out seeds and fibre.": "तूर दाल धोकर हल्दी और 450 मिली पानी में 30–40 मिनट पूरी नरम पकाकर मसलें। इमली 150 मिली गरम पानी में भिगोकर बीज-रेशे छानें।",
+          "Heat 5 g of the ghee and roast chana dal, coriander seeds, cumin, pepper and dried chilli over low heat until fragrant. Add coconut and stir until lightly golden, then cool and grind with 100 ml water.": "5 ग्राम घी में चना दाल, साबुत धनिया, जीरा, मिर्च और सूखी लाल मिर्च धीमे खुशबू आने तक भूनें। नारियल हल्का सुनहरा करें, ठंडा करके 100 मिली पानी से पीसें।",
+          "Simmer chopped tomatoes, tamarind extract and salt with the remaining 500 ml water for 8 minutes. Add mashed dal and roasted paste and simmer gently for 5 minutes until aromatic.": "कटे टमाटर, इमली और नमक बाकी 500 मिली पानी में 8 मिनट पकाएँ। मसली दाल और भुना पेस्ट डालकर 5 मिनट धीमे खुशबू आने तक पकाएँ।",
+          "Heat the remaining ghee, pop mustard and add curry leaves carefully. Pour into the rasam and finish with coriander; it should be a pourable broth, slightly richer than plain rasam.": "बाकी घी में राई चटकाएँ और करी पत्ते सावधानी से डालें। रसम में डालकर धनिया मिलाएँ; यह बहने वाला शोरबा हो, साधारण रसम से थोड़ा गाढ़ा।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Mysore Rasam": "મૈસૂર રસમ",
+          "toor dal": "તુવેરની દાળ",
+          "chana dal": "ચણાની દાળ",
+          "fresh coconut": "તાજું નાળિયેર",
+          "coriander seeds": "આખા ધાણા",
+          "cumin seeds": "જીરું",
+          "black pepper": "કાળાં મરી",
+          "dried red chilli": "સૂકું લાલ મરચું",
+          "tamarind pulp": "આમલીનો ગર",
+          "tomato": "ટમેટું",
+          "turmeric powder": "હળદર",
+          "ghee": "ઘી",
+          "mustard seeds": "રાઈ",
+          "curry leaves": "મીઠો લીમડો",
+          "salt": "મીઠું",
+          "water": "પાણી",
+          "coriander leaves": "કોથમીર",
+          "Rinse toor dal and simmer with turmeric and 450 ml water for 30–40 minutes until completely soft, then mash. Soak tamarind in 150 ml warm water and strain out seeds and fibre.": "તુવેર દાળ ધોઈ હળદર અને 450 મિલી પાણીમાં 30–40 મિનિટ પૂરી નરમ પકાવી મસળો. આમલી 150 મિલી ગરમ પાણીમાં પલાળી બીજ-રેસા ગાળી લો.",
+          "Heat 5 g of the ghee and roast chana dal, coriander seeds, cumin, pepper and dried chilli over low heat until fragrant. Add coconut and stir until lightly golden, then cool and grind with 100 ml water.": "5 ગ્રામ ઘીમાં ચણા દાળ, ધાણા, જીરું, મરી અને સૂકું મરચું ધીમે સુગંધ આવે ત્યાં સુધી શેકો. નાળિયેર આછું સોનેરી કરી ઠંડું પાડી 100 મિલી પાણીથી વાટો.",
+          "Simmer chopped tomatoes, tamarind extract and salt with the remaining 500 ml water for 8 minutes. Add mashed dal and roasted paste and simmer gently for 5 minutes until aromatic.": "કાપેલા ટામેટાં, આમલી અને મીઠું બાકી 500 મિલી પાણીમાં 8 મિનિટ પકાવો. મસળેલી દાળ અને શેકેલી પેસ્ટ નાખી 5 મિનિટ ધીમે સુગંધ આવે ત્યાં સુધી પકાવો.",
+          "Heat the remaining ghee, pop mustard and add curry leaves carefully. Pour into the rasam and finish with coriander; it should be a pourable broth, slightly richer than plain rasam.": "બાકી ઘીમાં રાઈ તતડાવી કઢી પત્તાં સાચવીને નાખો. રસમમાં રેડી કોથમીર ભેળવો; આ વહેતો સૂપ હોય, સાદા રસમ કરતાં થોડો ઘટ્ટ.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Elumichai Rasam"
+      ],
+      "dish": {
+        "id": "lemon-rasam",
+        "canonicalId": "lemon-rasam",
+        "name": "Lemon Rasam",
+        "cuisine": "South Indian",
+        "categories": [
+          "Soups",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "yellow moong dal",
+          "water",
+          "tomato",
+          "fresh ginger",
+          "green chilli",
+          "turmeric powder",
+          "lemon juice",
+          "ghee",
+          "mustard seeds",
+          "cumin seeds",
+          "curry leaves",
+          "salt",
+          "coriander leaves"
+        ],
+        "method": "stew",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "lemon-rasam",
+        "name": "Lemon Rasam",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "yellow moong dal",
+            "qty": 80,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 10,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 40,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 15,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "mustard seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "curry leaves",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse moong dal and simmer with turmeric and 500 ml water for 25 minutes until it breaks down easily. Mash lightly without draining the cooking liquid.",
+          "Add chopped tomato, crushed ginger, slit chilli, salt and the remaining 600 ml water. Simmer for 7–8 minutes until tomato softens and the broth smells fragrant.",
+          "Heat ghee in a small pan and pop mustard, then cumin. Add curry leaves carefully and pour this tempering into the simmering rasam; turn off the heat.",
+          "Wait 2 minutes, then stir in lemon juice and coriander. Do not boil after adding lemon; taste and serve the light broth hot, with rice separately if desired."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Lemon Rasam": "लेमन रसम",
+          "yellow moong dal": "पीली मूंग दाल",
+          "water": "पानी",
+          "tomato": "टमाटर",
+          "fresh ginger": "ताजा अदरक",
+          "green chilli": "हरी मिर्च",
+          "turmeric powder": "हल्दी पाउडर",
+          "lemon juice": "नींबू का रस",
+          "ghee": "घी",
+          "mustard seeds": "राई",
+          "cumin seeds": "जीरा",
+          "curry leaves": "करी पत्ता",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "Rinse moong dal and simmer with turmeric and 500 ml water for 25 minutes until it breaks down easily. Mash lightly without draining the cooking liquid.": "मूंग दाल धोकर हल्दी और 500 मिली पानी में 25 मिनट आसानी से गलने तक पकाएँ। पानी निकाले बिना हल्का मसलें।",
+          "Add chopped tomato, crushed ginger, slit chilli, salt and the remaining 600 ml water. Simmer for 7–8 minutes until tomato softens and the broth smells fragrant.": "कटे टमाटर, कूटी अदरक, चीरी मिर्च, नमक और बाकी 600 मिली पानी डालें। 7–8 मिनट टमाटर नरम और शोरबा सुगंधित होने तक पकाएँ।",
+          "Heat ghee in a small pan and pop mustard, then cumin. Add curry leaves carefully and pour this tempering into the simmering rasam; turn off the heat.": "छोटे पैन में घी में राई, फिर जीरा चटकाएँ। करी पत्ते सावधानी से डालकर तड़का रसम में मिलाएँ और आँच बंद करें।",
+          "Wait 2 minutes, then stir in lemon juice and coriander. Do not boil after adding lemon; taste and serve the light broth hot, with rice separately if desired.": "2 मिनट रुककर नींबू और धनिया मिलाएँ। नींबू के बाद उबालें नहीं; चखकर हल्का शोरबा गरम परोसें, चाहें तो चावल अलग दें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Lemon Rasam": "લીંબુ રસમ",
+          "yellow moong dal": "પીળી મગ દાળ",
+          "water": "પાણી",
+          "tomato": "ટમેટું",
+          "fresh ginger": "તાજું આદુ",
+          "green chilli": "લીલું મરચું",
+          "turmeric powder": "હળદર",
+          "lemon juice": "લીંબુનો રસ",
+          "ghee": "ઘી",
+          "mustard seeds": "રાઈ",
+          "cumin seeds": "જીરું",
+          "curry leaves": "મીઠો લીમડો",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "Rinse moong dal and simmer with turmeric and 500 ml water for 25 minutes until it breaks down easily. Mash lightly without draining the cooking liquid.": "મગ દાળ ધોઈ હળદર અને 500 મિલી પાણીમાં 25 મિનિટ સહેલાઈથી ગળે ત્યાં સુધી પકાવો. પાણી કાઢ્યા વગર હળવી મસળો.",
+          "Add chopped tomato, crushed ginger, slit chilli, salt and the remaining 600 ml water. Simmer for 7–8 minutes until tomato softens and the broth smells fragrant.": "કાપેલા ટામેટાં, કૂટેલું આદુ, ચીરેલું મરચું, મીઠું અને બાકી 600 મિલી પાણી નાખો. 7–8 મિનિટ ટામેટાં નરમ અને સૂપ સુગંધિત થાય ત્યાં સુધી પકાવો.",
+          "Heat ghee in a small pan and pop mustard, then cumin. Add curry leaves carefully and pour this tempering into the simmering rasam; turn off the heat.": "નાના પેનમાં ઘીમાં રાઈ પછી જીરું તતડાવો. કઢી પત્તાં સાચવી નાખી વઘાર રસમમાં ભેળવો અને તાપ બંધ કરો.",
+          "Wait 2 minutes, then stir in lemon juice and coriander. Do not boil after adding lemon; taste and serve the light broth hot, with rice separately if desired.": "2 મિનિટ રહી લીંબુ અને કોથમીર ભેળવો. લીંબુ પછી ઉકાળો નહીં; ચાખી હળવો સૂપ ગરમ પીરસો, ઇચ્છો તો ભાત અલગ આપો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "thukpa",
+        "canonicalId": "thukpa",
+        "name": "Thukpa",
+        "cuisine": "Indian",
+        "categories": [
+          "Soups"
+        ],
+        "ingredients": [
+          "eggless wheat noodles",
+          "carrot",
+          "cabbage",
+          "capsicum",
+          "tomato",
+          "onion",
+          "garlic",
+          "fresh ginger",
+          "oil",
+          "water",
+          "soy sauce",
+          "cumin powder",
+          "black pepper",
+          "salt",
+          "coriander leaves",
+          "lemon juice"
+        ],
+        "method": "stew",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "soy"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "thukpa",
+        "name": "Thukpa",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "eggless wheat noodles",
+            "qty": 240,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 120,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cabbage",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "capsicum",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 180,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 100,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 2200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "soy sauce",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 20,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Cut carrot, cabbage and capsicum into thin strips. Chop onion, tomato, ginger and garlic finely. Keep vegetables ready before heating the pan so nothing burns while chopping.",
+          "Boil noodles in 1000 ml of the measured water according to the packet until just tender. Drain, discard this cooking water and divide noodles between four deep bowls.",
+          "Heat oil and soften onion for 5 minutes. Add ginger and garlic for 1 minute, then tomato, cumin powder and pepper; cook for 5 minutes until tomatoes turn pulpy.",
+          "Add the vegetables, remaining 1200 ml water, soy sauce and salt. Simmer for 10–12 minutes until carrot is tender but still holds its shape.",
+          "Turn off the heat, stir in lemon juice and coriander and ladle hot broth over noodles. Serve immediately so the noodles do not absorb all the soup."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Thukpa": "थुकपा",
+          "eggless wheat noodles": "अंडारहित गेहूँ के नूडल्स",
+          "carrot": "गाजर",
+          "cabbage": "पत्तागोभी",
+          "capsicum": "शिमला मिर्च",
+          "tomato": "टमाटर",
+          "onion": "प्याज़",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "oil": "तेल",
+          "water": "पानी",
+          "soy sauce": "सोया सॉस",
+          "cumin powder": "जीरा पाउडर",
+          "black pepper": "काली मिर्च",
+          "salt": "नमक",
+          "coriander leaves": "हरा धनिया",
+          "lemon juice": "नींबू का रस",
+          "Cut carrot, cabbage and capsicum into thin strips. Chop onion, tomato, ginger and garlic finely. Keep vegetables ready before heating the pan so nothing burns while chopping.": "गाजर, पत्ता गोभी और शिमला मिर्च पतली काटें। प्याज, टमाटर, अदरक और लहसुन बारीक काटें। पैन गरम करने से पहले सब तैयार रखें।",
+          "Boil noodles in 1000 ml of the measured water according to the packet until just tender. Drain, discard this cooking water and divide noodles between four deep bowls.": "नूडल्स नापे पानी के 1000 मिली में पैकेट के अनुसार बस नरम उबालें। छानकर यह पानी फेंकें और नूडल्स चार गहरी कटोरियों में बाँटें।",
+          "Heat oil and soften onion for 5 minutes. Add ginger and garlic for 1 minute, then tomato, cumin powder and pepper; cook for 5 minutes until tomatoes turn pulpy.": "तेल में प्याज 5 मिनट नरम करें। अदरक-लहसुन 1 मिनट भूनकर टमाटर, जीरा पाउडर और मिर्च डालें; 5 मिनट टमाटर गलने तक पकाएँ।",
+          "Add the vegetables, remaining 1200 ml water, soy sauce and salt. Simmer for 10–12 minutes until carrot is tender but still holds its shape.": "सब्जियाँ, बाकी 1200 मिली पानी, सोया सॉस और नमक डालें। 10–12 मिनट पकाएँ, गाजर नरम हो पर आकार बना रहे।",
+          "Turn off the heat, stir in lemon juice and coriander and ladle hot broth over noodles. Serve immediately so the noodles do not absorb all the soup.": "आँच बंद करके नींबू और धनिया मिलाएँ और गरम शोरबा नूडल्स पर डालें। तुरंत परोसें ताकि नूडल्स पूरा सूप न सोखें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Thukpa": "થુકપા",
+          "eggless wheat noodles": "ઈંડા વગરના ઘઉંના નૂડલ્સ",
+          "carrot": "ગાજર",
+          "cabbage": "કોબી",
+          "capsicum": "કેપ્સિકમ",
+          "tomato": "ટમેટું",
+          "onion": "ડુંગળી",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "soy sauce": "સોયા સોસ",
+          "cumin powder": "જીરાનો ભૂકો",
+          "black pepper": "કાળાં મરી",
+          "salt": "મીઠું",
+          "coriander leaves": "કોથમીર",
+          "lemon juice": "લીંબુનો રસ",
+          "Cut carrot, cabbage and capsicum into thin strips. Chop onion, tomato, ginger and garlic finely. Keep vegetables ready before heating the pan so nothing burns while chopping.": "ગાજર, કોબી અને શિમલા મરચું પાતળું કાપો. ડુંગળી, ટામેટાં, આદુ અને લસણ બારીક કાપો. પેન ગરમ કરતાં પહેલાં બધું તૈયાર રાખો.",
+          "Boil noodles in 1000 ml of the measured water according to the packet until just tender. Drain, discard this cooking water and divide noodles between four deep bowls.": "નૂડલ્સ નાપેલા પાણીમાંથી 1000 મિલીમાં પેકેટ પ્રમાણે બસ નરમ બાફો. નિતારી આ પાણી કાઢી નાખો અને નૂડલ્સ ચાર ઊંડા વાટકામાં વહેંચો.",
+          "Heat oil and soften onion for 5 minutes. Add ginger and garlic for 1 minute, then tomato, cumin powder and pepper; cook for 5 minutes until tomatoes turn pulpy.": "તેલમાં ડુંગળી 5 મિનિટ નરમ કરો. આદુ-લસણ 1 મિનિટ સાંતળી ટામેટાં, જીરું પાઉડર અને મરી નાખો; 5 મિનિટ ટામેટાં ગળે ત્યાં સુધી પકાવો.",
+          "Add the vegetables, remaining 1200 ml water, soy sauce and salt. Simmer for 10–12 minutes until carrot is tender but still holds its shape.": "શાક, બાકી 1200 મિલી પાણી, સોયા સોસ અને મીઠું નાખો. 10–12 મિનિટ પકાવો, ગાજર નરમ થાય પણ આકાર રહે.",
+          "Turn off the heat, stir in lemon juice and coriander and ladle hot broth over noodles. Serve immediately so the noodles do not absorb all the soup.": "તાપ બંધ કરી લીંબુ અને કોથમીર ભેળવી ગરમ સૂપ નૂડલ્સ પર રેડો. તરત પીરસો જેથી નૂડલ્સ બધો સૂપ શોષી ન લે.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Lentil Shorba"
+      ],
+      "dish": {
+        "id": "dal-shorba",
+        "canonicalId": "dal-shorba",
+        "name": "Dal Shorba",
+        "cuisine": "North Indian",
+        "categories": [
+          "Soups"
+        ],
+        "ingredients": [
+          "yellow moong dal",
+          "onion",
+          "tomato",
+          "garlic",
+          "fresh ginger",
+          "ghee",
+          "cumin seeds",
+          "turmeric powder",
+          "black pepper",
+          "salt",
+          "water",
+          "lemon juice",
+          "coriander leaves"
+        ],
+        "method": "stew",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [
+          "Blender"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "dal-shorba",
+        "name": "Dal Shorba",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "yellow moong dal",
+            "qty": 150,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 80,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "tomato",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "garlic",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 1200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Wash the dal thoroughly. Chop onion, tomato, ginger and garlic finely. Heat ghee in a heavy saucepan and sizzle the cumin without allowing it to blacken.",
+          "Cook onion for 5 minutes until softened, then ginger and garlic for 1 minute. Add tomato and turmeric and stir for 4 minutes until the tomato breaks down.",
+          "Add dal and water, bring to a boil and simmer partly covered for 25 minutes until dal is very soft. Stir occasionally to prevent the lentils sticking to the bottom.",
+          "Cool sufficiently for safe blending and blend until smooth. Return to the pan, add salt and pepper and heat through; the shorba should be thinner than dal for rice.",
+          "Take off the heat and stir in lemon juice and coriander. Taste and serve hot in small bowls; reheat any refrigerated portion thoroughly before serving again."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Dal Shorba": "दाल शोरबा",
+          "yellow moong dal": "पीली मूंग दाल",
+          "onion": "प्याज़",
+          "tomato": "टमाटर",
+          "garlic": "लहसुन",
+          "fresh ginger": "ताजा अदरक",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "turmeric powder": "हल्दी पाउडर",
+          "black pepper": "काली मिर्च",
+          "salt": "नमक",
+          "water": "पानी",
+          "lemon juice": "नींबू का रस",
+          "coriander leaves": "हरा धनिया",
+          "Wash the dal thoroughly. Chop onion, tomato, ginger and garlic finely. Heat ghee in a heavy saucepan and sizzle the cumin without allowing it to blacken.": "दाल अच्छी तरह धोएँ। प्याज, टमाटर, अदरक और लहसुन बारीक काटें। भारी पतीले में घी और जीरा गरम करें, जीरा काला न हो।",
+          "Cook onion for 5 minutes until softened, then ginger and garlic for 1 minute. Add tomato and turmeric and stir for 4 minutes until the tomato breaks down.": "प्याज 5 मिनट नरम करें, फिर अदरक-लहसुन 1 मिनट भूनें। टमाटर और हल्दी डालकर 4 मिनट टमाटर गलने तक चलाएँ।",
+          "Add dal and water, bring to a boil and simmer partly covered for 25 minutes until dal is very soft. Stir occasionally to prevent the lentils sticking to the bottom.": "दाल और पानी डालकर उबालें और आधा ढककर 25 मिनट दाल बहुत नरम होने तक पकाएँ। बीच में चलाएँ ताकि तल में न चिपके।",
+          "Cool sufficiently for safe blending and blend until smooth. Return to the pan, add salt and pepper and heat through; the shorba should be thinner than dal for rice.": "सुरक्षित पीसने योग्य ठंडा करके चिकना पीसें। पैन में लौटाकर नमक-मिर्च डालें और गरम करें; शोरबा चावल वाली दाल से पतला रहे।",
+          "Take off the heat and stir in lemon juice and coriander. Taste and serve hot in small bowls; reheat any refrigerated portion thoroughly before serving again.": "आँच से हटाकर नींबू और धनिया मिलाएँ। चखकर छोटी कटोरियों में गरम परोसें; फ्रिज में रखा हिस्सा दोबारा अच्छी तरह गरम करके परोसें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।"
+        },
+        "gu": {
+          "Dal Shorba": "દાળ શોરબા",
+          "yellow moong dal": "પીળી મગ દાળ",
+          "onion": "ડુંગળી",
+          "tomato": "ટમેટું",
+          "garlic": "લસણ",
+          "fresh ginger": "તાજું આદુ",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "turmeric powder": "હળદર",
+          "black pepper": "કાળાં મરી",
+          "salt": "મીઠું",
+          "water": "પાણી",
+          "lemon juice": "લીંબુનો રસ",
+          "coriander leaves": "કોથમીર",
+          "Wash the dal thoroughly. Chop onion, tomato, ginger and garlic finely. Heat ghee in a heavy saucepan and sizzle the cumin without allowing it to blacken.": "દાળ સારી રીતે ધુઓ. ડુંગળી, ટામેટાં, આદુ અને લસણ બારીક કાપો. ભારે તપેલીમાં ઘી અને જીરું ગરમ કરો, જીરું કાળું ન થાય.",
+          "Cook onion for 5 minutes until softened, then ginger and garlic for 1 minute. Add tomato and turmeric and stir for 4 minutes until the tomato breaks down.": "ડુંગળી 5 મિનિટ નરમ કરો, પછી આદુ-લસણ 1 મિનિટ સાંતળો. ટામેટાં અને હળદર નાખી 4 મિનિટ ટામેટાં ગળે ત્યાં સુધી હલાવો.",
+          "Add dal and water, bring to a boil and simmer partly covered for 25 minutes until dal is very soft. Stir occasionally to prevent the lentils sticking to the bottom.": "દાળ અને પાણી નાખી ઉકાળો, અડધું ઢાંકી 25 મિનિટ દાળ બહુ નરમ થાય ત્યાં સુધી પકાવો. વચ્ચે હલાવો જેથી તળિયે ન ચોંટે.",
+          "Cool sufficiently for safe blending and blend until smooth. Return to the pan, add salt and pepper and heat through; the shorba should be thinner than dal for rice.": "સલામત રીતે વાટી શકાય એટલું ઠંડું કરી સુંવાળું વાટો. પેનમાં પાછું નાખી મીઠું-મરી ઉમેરો અને ગરમ કરો; શોરબા ભાતની દાળ કરતાં પાતળો રહે.",
+          "Take off the heat and stir in lemon juice and coriander. Taste and serve hot in small bowls; reheat any refrigerated portion thoroughly before serving again.": "તાપ પરથી ઉતારી લીંબુ અને કોથમીર ભેળવો. ચાખી નાના વાટકામાં ગરમ પીરસો; ફ્રિજમાં રાખેલો ભાગ ફરી સારી રીતે ગરમ કરીને પીરસો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે."
+        }
+      }
+    }
+  ]
+}

@@ -79,7 +79,7 @@ add('vegetarian-sushi-rolls','sushi rice:300:g|water:390:ml|rice vinegar:50:ml|s
  'Cut cucumber, carrot and avocado into thin long strips. Steam carrot for 2–3 minutes if you prefer it softer, then cool and dry.',
  'Place a nori sheet shiny-side down on a bamboo mat. With damp hands spread a thin layer of rice over it, leaving 2 cm bare at the far edge.',
  'Lay vegetable strips across the near third. Roll firmly with the mat, tucking the filling in, and seal the bare nori edge with a little water.',
- 'Repeat for four rolls. Slice each into six pieces using a sharp damp knife and serve promptly with soy sauce; fillings contain no fish or eggs.'
+ 'Repeat for four rolls. Slice each into six pieces using a sharp damp knife and serve promptly with soy sauce; use only the listed vegetarian fillings and eggless condiments.'
 ],50);
 add('dal-pakwan','chana dal:260:g|tomato:200:g|onion:120:g|cumin:4:g|turmeric powder:1:g|red chilli powder:2:g|dried mango powder:4:g|salt:7:g|oil:70:ml|water:1300:ml|plain flour:250:g|semolina:40:g|oil for frying:600:ml|coriander:20:g',[
  'Rinse chana dal and soak for 1 hour. Drain and simmer with 1000 ml fresh water, turmeric and 4 g salt for 45–55 minutes until tender but still mostly whole.',

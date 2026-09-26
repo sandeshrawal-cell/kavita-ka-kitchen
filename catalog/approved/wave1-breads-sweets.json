@@ -1,0 +1,3685 @@
+{
+  "batch": "wave1-breads-sweets",
+  "reviewStatus": "published",
+  "publicationApproved": true,
+  "approval": "User requested completion of all remaining dishes together on 2026-09-26.",
+  "jainPolicy": "Household-defined; jainVerified remains false and is not a universal suitability claim.",
+  "sources": [
+    {
+      "url": "https://www.vegrecipesofindia.com/mawa-peda/",
+      "use": "Traditional mawa-based peda identity; independently authored quantities and method."
+    }
+  ],
+  "entries": [
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "aloo-paratha",
+        "canonicalId": "aloo-paratha",
+        "name": "Aloo Paratha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "Breakfast",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "potato",
+          "water",
+          "salt",
+          "green chilli",
+          "coriander leaves",
+          "cumin seeds",
+          "dried mango powder",
+          "red chilli powder",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 60,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "aloo-paratha",
+        "name": "Aloo Paratha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 450,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "dried mango powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 200 ml water for dough. Simmer whole potatoes in the remaining water for 20–25 minutes until a knife passes through; drain, peel and cool.",
+          "Knead 300 g flour, 4 g salt and the reserved 200 ml water into soft dough; cover 20 minutes. Keep 30 g flour for rolling.",
+          "Mash potatoes without lumps. Mix in finely chopped chilli and coriander, cumin, mango powder, chilli powder and remaining salt; let steam escape completely.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 60,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Aloo Paratha": "आलू पराठा",
+          "whole wheat flour": "गेहूँ का आटा",
+          "potato": "आलू",
+          "water": "पानी",
+          "salt": "नमक",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "cumin seeds": "जीरा",
+          "dried mango powder": "अमचूर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Reserve 200 ml water for dough. Simmer whole potatoes in the remaining water for 20–25 minutes until a knife passes through; drain, peel and cool.": "आटे के लिए 200 मिली पानी रखें। बाकी पानी में साबुत आलू 20–25 मिनट चाकू आसानी से घुसने तक उबालें; छानें, छीलें और ठंडा करें।",
+          "Knead 300 g flour, 4 g salt and the reserved 200 ml water into soft dough; cover 20 minutes. Keep 30 g flour for rolling.": "300 ग्राम आटा, 4 ग्राम नमक और रखा 200 मिली पानी नरम गूँधें; 20 मिनट ढकें। 30 ग्राम आटा बेलने को रखें।",
+          "Mash potatoes without lumps. Mix in finely chopped chilli and coriander, cumin, mango powder, chilli powder and remaining salt; let steam escape completely.": "आलू बिना गाँठ मसलें। बारीक मिर्च-धनिया, जीरा, अमचूर, लाल मिर्च और बाकी नमक मिलाएँ; भाप पूरी तरह निकलने दें।",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "आटे और भरावन के आठ बराबर हिस्से करें। हर लोई थोड़ी बेलें, बीच में भरावन रखें और किनारे जोड़कर अच्छी तरह बंद करें।",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "जोड़ नीचे रखकर दबाएँ। रखे हुए आटे से हल्का सूखा आटा लगाकर लगभग 16 सेमी बेलें; भरावन बराबर फैला रहे।",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "भारी तवा मध्यम-तेज़ आँच पर गरम करें। पराठा 60–90 सेकंड बुलबुले आने तक पकाएँ, फिर पलटकर थोड़ा घी लगाएँ।",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "दोबारा पलटें, दूसरी तरफ घी लगाकर किनारे दबाएँ। दोनों तरफ भूरे धब्बे आने और किनारों पर कच्चा आटा न रहने तक 2–3 मिनट पकाएँ।"
+        },
+        "gu": {
+          "Aloo Paratha": "આલુ પરાઠા",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "potato": "બટાકા",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "green chilli": "લીલાં મરચાં",
+          "coriander leaves": "કોથમીર",
+          "cumin seeds": "જીરું",
+          "dried mango powder": "આમચૂર",
+          "red chilli powder": "લાલ મરચું",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Reserve 200 ml water for dough. Simmer whole potatoes in the remaining water for 20–25 minutes until a knife passes through; drain, peel and cool.": "લોટ માટે 200 મિલી પાણી રાખો. બાકીના પાણીમાં આખા બટાકા 20–25 મિનિટ ચાકુ સરળતાથી ઘૂસે ત્યાં સુધી બાફો; નિતારી છોલો અને ઠંડા કરો.",
+          "Knead 300 g flour, 4 g salt and the reserved 200 ml water into soft dough; cover 20 minutes. Keep 30 g flour for rolling.": "300 ગ્રામ લોટ, 4 ગ્રામ મીઠું અને રાખેલું 200 મિલી પાણી નરમ ગૂંથી 20 મિનિટ ઢાંકો. 30 ગ્રામ લોટ વણવા રાખો.",
+          "Mash potatoes without lumps. Mix in finely chopped chilli and coriander, cumin, mango powder, chilli powder and remaining salt; let steam escape completely.": "બટાકા ગાંઠ વગર મસળો. ઝીણાં મરચાં-કોથમીર, જીરું, આમચૂર, લાલ મરચું અને બાકી મીઠું ઉમેરો; વરાળ પૂરી નીકળવા દો.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "લોટ અને પૂરણના આઠ સરખા ભાગ કરો. દરેક લૂવો થોડો વણી વચ્ચે પૂરણ મૂકો અને કિનારી ભેગી કરીને બંધ કરો.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "બંધ કરેલો ભાગ નીચે રાખી દબાવો. રાખેલા લોટથી હળવો અટામણ આપી લગભગ 16 સેમી વણો; પૂરણ સરખું ફેલાયેલું રહે.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. પરાઠો 60–90 સેકન્ડ ફોલ્લા પડે ત્યાં સુધી શેકો, પછી ફેરવી થોડું ઘી લગાવો.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "ફરી ફેરવો, બીજી બાજુ ઘી લગાવી કિનારી દબાવો. બંને બાજુ બદામી ડાઘ પડે અને કિનારી કાચી ન રહે ત્યાં સુધી વધુ 2–3 મિનિટ શેકો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "gobi-paratha",
+        "canonicalId": "gobi-paratha",
+        "name": "Gobi Paratha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "Breakfast",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "cauliflower",
+          "water",
+          "salt",
+          "ginger",
+          "green chilli",
+          "coriander leaves",
+          "carom seeds",
+          "dried mango powder",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "gobi-paratha",
+        "name": "Gobi Paratha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "cauliflower",
+            "qty": 450,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carom seeds",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "dried mango powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.",
+          "Finely grate washed, thoroughly dried cauliflower. Sauté in 10 g ghee for 7–9 minutes until its moisture evaporates; spread on a plate to cool.",
+          "Mix cooled cauliflower with finely grated ginger, chopped chilli and coriander, carom seeds, mango powder and remaining salt immediately before stuffing.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 50,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Gobi Paratha": "गोभी पराठा",
+          "whole wheat flour": "गेहूँ का आटा",
+          "cauliflower": "फूलगोभी",
+          "water": "पानी",
+          "salt": "नमक",
+          "ginger": "अदरक",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "carom seeds": "अजवाइन",
+          "dried mango powder": "अमचूर",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "30 ग्राम आटा बेलने के लिए रखें। बाकी आटे में 4 ग्राम नमक और नापा पानी डालकर नरम गूँधें; 20 मिनट ढकें।",
+          "Finely grate washed, thoroughly dried cauliflower. Sauté in 10 g ghee for 7–9 minutes until its moisture evaporates; spread on a plate to cool.": "धोकर अच्छी तरह सुखाई गोभी बारीक कद्दूकस करें। 10 ग्राम घी में 7–9 मिनट पानी सूखने तक भूनें; थाली में ठंडी करें।",
+          "Mix cooled cauliflower with finely grated ginger, chopped chilli and coriander, carom seeds, mango powder and remaining salt immediately before stuffing.": "भरने से ठीक पहले ठंडी गोभी में कद्दूकस अदरक, कटी मिर्च-धनिया, अजवाइन, अमचूर और बाकी नमक मिलाएँ।",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "आटे और भरावन के आठ बराबर हिस्से करें। हर लोई थोड़ी बेलें, बीच में भरावन रखें और किनारे जोड़कर अच्छी तरह बंद करें।",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "जोड़ नीचे रखकर दबाएँ। रखे हुए आटे से हल्का सूखा आटा लगाकर लगभग 16 सेमी बेलें; भरावन बराबर फैला रहे।",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "भारी तवा मध्यम-तेज़ आँच पर गरम करें। पराठा 60–90 सेकंड बुलबुले आने तक पकाएँ, फिर पलटकर थोड़ा घी लगाएँ।",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "दोबारा पलटें, दूसरी तरफ घी लगाकर किनारे दबाएँ। दोनों तरफ भूरे धब्बे आने और किनारों पर कच्चा आटा न रहने तक 2–3 मिनट पकाएँ।"
+        },
+        "gu": {
+          "Gobi Paratha": "ગોબી પરાઠા",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "cauliflower": "ફૂલકોબી",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "ginger": "આદુ",
+          "green chilli": "લીલાં મરચાં",
+          "coriander leaves": "કોથમીર",
+          "carom seeds": "અજમો",
+          "dried mango powder": "આમચૂર",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "બેલવા માટે 30 ગ્રામ લોટ રાખો. બાકીના લોટમાં 4 ગ્રામ મીઠું અને માપેલું પાણી ઉમેરી નરમ ગૂંથો; 20 મિનિટ ઢાંકો.",
+          "Finely grate washed, thoroughly dried cauliflower. Sauté in 10 g ghee for 7–9 minutes until its moisture evaporates; spread on a plate to cool.": "ધોઈને સારી રીતે સૂકવેલી ફૂલકોબી ઝીણી છીણો. 10 ગ્રામ ઘીમાં 7–9 મિનિટ ભેજ ઊડે ત્યાં સુધી સાંતળો; થાળીમાં ઠંડી કરો.",
+          "Mix cooled cauliflower with finely grated ginger, chopped chilli and coriander, carom seeds, mango powder and remaining salt immediately before stuffing.": "ભરતાં પહેલાં ઠંડી ફૂલકોબીમાં છીણેલું આદુ, સમારેલાં મરચાં-કોથમીર, અજમો, આમચૂર અને બાકી મીઠું ઉમેરો.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "લોટ અને પૂરણના આઠ સરખા ભાગ કરો. દરેક લૂવો થોડો વણી વચ્ચે પૂરણ મૂકો અને કિનારી ભેગી કરીને બંધ કરો.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "બંધ કરેલો ભાગ નીચે રાખી દબાવો. રાખેલા લોટથી હળવો અટામણ આપી લગભગ 16 સેમી વણો; પૂરણ સરખું ફેલાયેલું રહે.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. પરાઠો 60–90 સેકન્ડ ફોલ્લા પડે ત્યાં સુધી શેકો, પછી ફેરવી થોડું ઘી લગાવો.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "ફરી ફેરવો, બીજી બાજુ ઘી લગાવી કિનારી દબાવો. બંને બાજુ બદામી ડાઘ પડે અને કિનારી કાચી ન રહે ત્યાં સુધી વધુ 2–3 મિનિટ શેકો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "paneer-paratha",
+        "canonicalId": "paneer-paratha",
+        "name": "Paneer Paratha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "Breakfast",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "paneer",
+          "water",
+          "salt",
+          "green chilli",
+          "coriander leaves",
+          "cumin seeds",
+          "dried mango powder",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 45,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "paneer-paratha",
+        "name": "Paneer Paratha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "paneer",
+            "qty": 300,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "dried mango powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.",
+          "Pat paneer dry and crumble finely. Mix with chopped chilli and coriander, cumin, mango powder and the remaining salt; avoid large pieces that tear dough.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 45,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Paneer Paratha": "पनीर पराठा",
+          "whole wheat flour": "गेहूँ का आटा",
+          "paneer": "पनीर",
+          "water": "पानी",
+          "salt": "नमक",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "cumin seeds": "जीरा",
+          "dried mango powder": "अमचूर",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "30 ग्राम आटा बेलने के लिए रखें। बाकी आटे में 4 ग्राम नमक और नापा पानी डालकर नरम गूँधें; 20 मिनट ढकें।",
+          "Pat paneer dry and crumble finely. Mix with chopped chilli and coriander, cumin, mango powder and the remaining salt; avoid large pieces that tear dough.": "पनीर सुखाकर बारीक मसलें। कटी मिर्च-धनिया, जीरा, अमचूर और बाकी नमक मिलाएँ; बड़े टुकड़े न रहें जो आटा फाड़ दें।",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "आटे और भरावन के आठ बराबर हिस्से करें। हर लोई थोड़ी बेलें, बीच में भरावन रखें और किनारे जोड़कर अच्छी तरह बंद करें।",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "जोड़ नीचे रखकर दबाएँ। रखे हुए आटे से हल्का सूखा आटा लगाकर लगभग 16 सेमी बेलें; भरावन बराबर फैला रहे।",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "भारी तवा मध्यम-तेज़ आँच पर गरम करें। पराठा 60–90 सेकंड बुलबुले आने तक पकाएँ, फिर पलटकर थोड़ा घी लगाएँ।",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "दोबारा पलटें, दूसरी तरफ घी लगाकर किनारे दबाएँ। दोनों तरफ भूरे धब्बे आने और किनारों पर कच्चा आटा न रहने तक 2–3 मिनट पकाएँ।"
+        },
+        "gu": {
+          "Paneer Paratha": "પનીર પરાઠા",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "paneer": "પનીર",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "green chilli": "લીલાં મરચાં",
+          "coriander leaves": "કોથમીર",
+          "cumin seeds": "જીરું",
+          "dried mango powder": "આમચૂર",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "બેલવા માટે 30 ગ્રામ લોટ રાખો. બાકીના લોટમાં 4 ગ્રામ મીઠું અને માપેલું પાણી ઉમેરી નરમ ગૂંથો; 20 મિનિટ ઢાંકો.",
+          "Pat paneer dry and crumble finely. Mix with chopped chilli and coriander, cumin, mango powder and the remaining salt; avoid large pieces that tear dough.": "પનીર લૂછીને ઝીણું ભૂકો કરો. સમારેલાં મરચાં-કોથમીર, જીરું, આમચૂર અને બાકી મીઠું ઉમેરો; લોટ ફાટે એવા મોટા ટુકડા ન રાખો.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "લોટ અને પૂરણના આઠ સરખા ભાગ કરો. દરેક લૂવો થોડો વણી વચ્ચે પૂરણ મૂકો અને કિનારી ભેગી કરીને બંધ કરો.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "બંધ કરેલો ભાગ નીચે રાખી દબાવો. રાખેલા લોટથી હળવો અટામણ આપી લગભગ 16 સેમી વણો; પૂરણ સરખું ફેલાયેલું રહે.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. પરાઠો 60–90 સેકન્ડ ફોલ્લા પડે ત્યાં સુધી શેકો, પછી ફેરવી થોડું ઘી લગાવો.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "ફરી ફેરવો, બીજી બાજુ ઘી લગાવી કિનારી દબાવો. બંને બાજુ બદામી ડાઘ પડે અને કિનારી કાચી ન રહે ત્યાં સુધી વધુ 2–3 મિનિટ શેકો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Bhature"
+      ],
+      "dish": {
+        "id": "bhatura",
+        "canonicalId": "bhatura",
+        "name": "Bhatura",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "plain wheat flour",
+          "curd",
+          "water",
+          "sugar",
+          "salt",
+          "baking powder",
+          "baking soda",
+          "oil"
+        ],
+        "method": "fry",
+        "time": 45,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "bhatura",
+        "name": "Bhatura",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "plain wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "curd",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 650,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Mix 300 g flour with sugar, salt, baking powder and baking soda. Reserve 30 g flour for rolling; measure 20 ml oil from the total.",
+          "Add curd and 20 ml oil. Add water gradually and knead 8 minutes into a smooth, soft dough; cover and rest for 2 hours.",
+          "Divide into eight smooth balls. Dust sparingly and roll each into an even oval about 3 mm thick; thick edges prevent full puffing.",
+          "Heat the remaining oil in a deep heavy pan to 180°C, leaving ample space above the oil. Fry one bread at a time.",
+          "Slide in a bhatura carefully and gently press with a slotted spoon until it puffs. Turn after 30–45 seconds and fry the other side golden.",
+          "Lift and drain on a rack. Adjust heat between batches to keep the oil near 180°C; serve immediately while puffed and soft inside."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 45,
+        "passiveTime": "2 hours dough resting",
+        "status": "complete",
+        "notes": "Makes eight bhature. Oil is the frying medium; the full quantity is not consumed. This version uses chemical leavening."
+      },
+      "translations": {
+        "hi": {
+          "Bhatura": "भटूरा",
+          "plain wheat flour": "मैदा",
+          "curd": "दही",
+          "water": "पानी",
+          "sugar": "चीनी",
+          "salt": "नमक",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "बेकिंग सोडा",
+          "oil": "तेल",
+          "Makes eight bhature. Oil is the frying medium; the full quantity is not consumed. This version uses chemical leavening.": "आठ भटूरे बनते हैं। तेल तलने का माध्यम है; पूरी मात्रा खाई नहीं जाती। इस विधि में बेकिंग पाउडर और सोडा उपयोग होते हैं।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "2 hours dough resting": "आटा रखने के 2 घंटे",
+          "Mix 300 g flour with sugar, salt, baking powder and baking soda. Reserve 30 g flour for rolling; measure 20 ml oil from the total.": "300 ग्राम मैदे में चीनी, नमक, बेकिंग पाउडर और सोडा मिलाएँ। 30 ग्राम मैदा बेलने को रखें; कुल तेल में से 20 मिली निकालें।",
+          "Add curd and 20 ml oil. Add water gradually and knead 8 minutes into a smooth, soft dough; cover and rest for 2 hours.": "दही और 20 मिली तेल डालें। पानी धीरे डालकर 8 मिनट चिकना, नरम गूँधें; ढककर 2 घंटे रखें।",
+          "Divide into eight smooth balls. Dust sparingly and roll each into an even oval about 3 mm thick; thick edges prevent full puffing.": "आठ चिकनी लोइयाँ करें। थोड़ा मैदा लगाकर प्रत्येक को लगभग 3 मिमी मोटा अंडाकार बेलें; मोटे किनारे फूलने से रोकते हैं।",
+          "Heat the remaining oil in a deep heavy pan to 180°C, leaving ample space above the oil. Fry one bread at a time.": "बाकी तेल गहरी भारी कड़ाही में 180°C तक गरम करें; तेल के ऊपर पर्याप्त खाली जगह रहे। एक बार में एक भटूरा तलें।",
+          "Slide in a bhatura carefully and gently press with a slotted spoon until it puffs. Turn after 30–45 seconds and fry the other side golden.": "भटूरा सावधानी से डालकर झारे से हल्का दबाएँ जब तक फूले। 30–45 सेकंड बाद पलटें और दूसरी तरफ सुनहरा तलें।",
+          "Lift and drain on a rack. Adjust heat between batches to keep the oil near 180°C; serve immediately while puffed and soft inside.": "निकालकर जाली पर तेल टपकाएँ। हर खेप के बीच आँच सँभालकर तेल लगभग 180°C रखें; फूले और अंदर नरम रहते तुरंत परोसें।"
+        },
+        "gu": {
+          "Bhatura": "ભટૂરા",
+          "plain wheat flour": "મેંદો",
+          "curd": "દહીં",
+          "water": "પાણી",
+          "sugar": "ખાંડ",
+          "salt": "મીઠું",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "બેકિંગ સોડા",
+          "oil": "તેલ",
+          "Makes eight bhature. Oil is the frying medium; the full quantity is not consumed. This version uses chemical leavening.": "આઠ ભટૂરાં બને છે. તેલ તળવા માટે છે; આખી માત્રા ખવાતી નથી. આ રીતમાં બેકિંગ પાઉડર અને સોડા વપરાય છે.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "2 hours dough resting": "લોટને આરામ આપવાના 2 કલાક",
+          "Mix 300 g flour with sugar, salt, baking powder and baking soda. Reserve 30 g flour for rolling; measure 20 ml oil from the total.": "300 ગ્રામ મેંદામાં ખાંડ, મીઠું, બેકિંગ પાઉડર અને સોડા ભેળવો. 30 ગ્રામ મેંદો વણવા રાખો; કુલ તેલમાંથી 20 મિલી માપો.",
+          "Add curd and 20 ml oil. Add water gradually and knead 8 minutes into a smooth, soft dough; cover and rest for 2 hours.": "દહીં અને 20 મિલી તેલ ઉમેરો. પાણી ધીમે ઉમેરતાં 8 મિનિટ નરમ, સુંવાળો લોટ ગૂંથો; ઢાંકી 2 કલાક રાખો.",
+          "Divide into eight smooth balls. Dust sparingly and roll each into an even oval about 3 mm thick; thick edges prevent full puffing.": "આઠ સુંવાળા લૂવા કરો. થોડો મેંદો લગાવી દરેકને લગભગ 3 મિમી જાડો લંબગોળ વણો; જાડી કિનારીથી પૂરા ફૂલતા નથી.",
+          "Heat the remaining oil in a deep heavy pan to 180°C, leaving ample space above the oil. Fry one bread at a time.": "બાકી તેલ ઊંડી ભારે કડાઈમાં 180°C સુધી ગરમ કરો; તેલ ઉપર પૂરતી ખાલી જગ્યા રાખો. એક વખતે એક ભટૂરું તળો.",
+          "Slide in a bhatura carefully and gently press with a slotted spoon until it puffs. Turn after 30–45 seconds and fry the other side golden.": "ભટૂરું સાવધાનીથી સરકાવો અને ઝારાથી હળવું દબાવો જેથી ફૂલે. 30–45 સેકન્ડ પછી ફેરવો અને બીજી બાજુ સોનેરી તળો.",
+          "Lift and drain on a rack. Adjust heat between batches to keep the oil near 180°C; serve immediately while puffed and soft inside.": "કાઢીને જાળી પર તેલ નિતારો. દરેક ખેપ વચ્ચે તાપ ગોઠવી તેલ લગભગ 180°C રાખો; ફૂલેલા અને અંદર નરમ હોય ત્યારે તરત પીરસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "missi-roti",
+        "canonicalId": "missi-roti",
+        "name": "Missi Roti",
+        "cuisine": "Punjabi/Rajasthani",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "gram flour",
+          "whole wheat flour",
+          "onion",
+          "coriander leaves",
+          "green chilli",
+          "carom seeds",
+          "turmeric powder",
+          "salt",
+          "water",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 45,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "missi-roti",
+        "name": "Missi Roti",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "gram flour",
+            "qty": 180,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "whole wheat flour",
+            "qty": 180,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 80,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carom seeds",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Finely chop onion, chilli and coriander. Mix gram flour with 150 g wheat flour, carom seeds, turmeric and salt; reserve 30 g wheat flour for rolling.",
+          "Add chopped vegetables and 10 g ghee. Add water gradually, kneading a soft but non-sticky dough; cover for 20 minutes.",
+          "Divide into eight portions and smooth each ball. Dust lightly with reserved flour and roll to 14–15 cm; keep the edges evenly thick.",
+          "Place a roti on a medium-hot heavy tawa. Cook about 90 seconds until the surface loses its wet shine and small bubbles form.",
+          "Turn, spread a little remaining ghee and cook another minute. Turn again and press around the edges until both sides develop brown spots.",
+          "Check one torn edge: there should be no moist flour layer or raw gram-flour smell. Cook remaining rotis and keep covered loosely until serving."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 45,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Missi Roti": "मिस्सी रोटी",
+          "gram flour": "बेसन",
+          "whole wheat flour": "गेहूँ का आटा",
+          "onion": "प्याज",
+          "coriander leaves": "हरा धनिया",
+          "green chilli": "हरी मिर्च",
+          "carom seeds": "अजवाइन",
+          "turmeric powder": "हल्दी पाउडर",
+          "salt": "नमक",
+          "water": "पानी",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Finely chop onion, chilli and coriander. Mix gram flour with 150 g wheat flour, carom seeds, turmeric and salt; reserve 30 g wheat flour for rolling.": "प्याज, मिर्च और धनिया बारीक काटें। बेसन में 150 ग्राम गेहूँ आटा, अजवाइन, हल्दी और नमक मिलाएँ; 30 ग्राम आटा बेलने को रखें।",
+          "Add chopped vegetables and 10 g ghee. Add water gradually, kneading a soft but non-sticky dough; cover for 20 minutes.": "कटी सामग्री और 10 ग्राम घी मिलाएँ। पानी धीरे डालकर नरम लेकिन बिना चिपचिपा आटा गूँधें; 20 मिनट ढकें।",
+          "Divide into eight portions and smooth each ball. Dust lightly with reserved flour and roll to 14–15 cm; keep the edges evenly thick.": "आठ भाग करके चिकनी लोइयाँ करें। रखे आटे से हल्का सूखा आटा लगाकर 14–15 सेमी बेलें; किनारे समान मोटे रखें।",
+          "Place a roti on a medium-hot heavy tawa. Cook about 90 seconds until the surface loses its wet shine and small bubbles form.": "रोटी मध्यम गरम भारी तवे पर रखें। लगभग 90 सेकंड पकाएँ, जब तक गीली चमक हटे और छोटे बुलबुले बनें।",
+          "Turn, spread a little remaining ghee and cook another minute. Turn again and press around the edges until both sides develop brown spots.": "पलटकर थोड़ा बचा घी लगाएँ और एक मिनट पकाएँ। फिर पलटें और किनारे दबाएँ जब तक दोनों तरफ भूरे धब्बे हों।",
+          "Check one torn edge: there should be no moist flour layer or raw gram-flour smell. Cook remaining rotis and keep covered loosely until serving.": "एक किनारा तोड़कर देखें: गीले आटे की परत या कच्चे बेसन की गंध न हो। बाकी रोटियाँ पकाकर परोसने तक हल्की ढकी रखें।"
+        },
+        "gu": {
+          "Missi Roti": "મિસ્સી રોટી",
+          "gram flour": "ચણાનો લોટ",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "onion": "ડુંગળી",
+          "coriander leaves": "કોથમીર",
+          "green chilli": "લીલાં મરચાં",
+          "carom seeds": "અજમો",
+          "turmeric powder": "હળદર",
+          "salt": "મીઠું",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Finely chop onion, chilli and coriander. Mix gram flour with 150 g wheat flour, carom seeds, turmeric and salt; reserve 30 g wheat flour for rolling.": "ડુંગળી, મરચાં અને કોથમીર ઝીણાં સમારો. ચણાના લોટમાં 150 ગ્રામ ઘઉંનો લોટ, અજમો, હળદર અને મીઠું ભેળવો; 30 ગ્રામ લોટ વણવા રાખો.",
+          "Add chopped vegetables and 10 g ghee. Add water gradually, kneading a soft but non-sticky dough; cover for 20 minutes.": "સમારેલી સામગ્રી અને 10 ગ્રામ ઘી ઉમેરો. પાણી ધીમે ઉમેરી નરમ પરંતુ ન ચોંટે એવો લોટ ગૂંથો; 20 મિનિટ ઢાંકો.",
+          "Divide into eight portions and smooth each ball. Dust lightly with reserved flour and roll to 14–15 cm; keep the edges evenly thick.": "આઠ ભાગ કરીને સુંવાળા લૂવા કરો. રાખેલા લોટનું હળવું અટામણ આપી 14–15 સેમી વણો; કિનારી સરખી જાડી રાખો.",
+          "Place a roti on a medium-hot heavy tawa. Cook about 90 seconds until the surface loses its wet shine and small bubbles form.": "રોટી મધ્યમ ગરમ ભારે તવા પર મૂકો. લગભગ 90 સેકન્ડ સપાટીનો ભીનો ચમકારો જાય અને નાના ફોલ્લા થાય ત્યાં સુધી શેકો.",
+          "Turn, spread a little remaining ghee and cook another minute. Turn again and press around the edges until both sides develop brown spots.": "ફેરવી થોડું બાકી ઘી લગાવો અને વધુ એક મિનિટ શેકો. ફરી ફેરવી કિનારી દબાવો જેથી બંને બાજુ બદામી ડાઘ પડે.",
+          "Check one torn edge: there should be no moist flour layer or raw gram-flour smell. Cook remaining rotis and keep covered loosely until serving.": "એક કિનારી તોડી જુઓ: ભીના લોટનો થર કે કાચા ચણાના લોટની ગંધ ન રહે. બાકીની રોટી શેકી પીરસવા સુધી હળવી ઢાંકી રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "tandoori-roti",
+        "canonicalId": "tandoori-roti",
+        "name": "Tandoori Roti",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "curd",
+          "water",
+          "salt",
+          "ghee"
+        ],
+        "method": "bake",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "tandoori-roti",
+        "name": "Tandoori Roti",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "curd",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 180,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 30 g flour and 20 ml water. Knead remaining flour, salt, curd and remaining water for 6–8 minutes into a smooth, slightly firm dough.",
+          "Cover dough for 30 minutes. Preheat the oven to 250°C with a heavy oven-safe baking tray inside for at least 25 minutes.",
+          "Divide dough into eight balls. Roll with reserved flour to ovals about 4 mm thick; lightly brush one side with the reserved water.",
+          "Using oven gloves, place two or three rotis wet-side down on the hot tray. Bake 3–5 minutes until puffed and the underside is set.",
+          "Finish under the oven grill for 30–60 seconds if needed for brown blisters; watch continuously and keep the bread clear of the heating element.",
+          "Brush baked rotis with ghee. Tear one to check there is no gummy centre, and serve immediately; reheat the tray briefly between batches."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 35,
+        "passiveTime": "30 minutes dough resting; oven preheating overlaps",
+        "status": "complete",
+        "notes": "Home-oven adaptation of tandoori roti; eight rotis. A domestic oven gives browned blisters without a traditional tandoor."
+      },
+      "translations": {
+        "hi": {
+          "Tandoori Roti": "तंदूरी रोटी",
+          "whole wheat flour": "गेहूँ का आटा",
+          "curd": "दही",
+          "water": "पानी",
+          "salt": "नमक",
+          "ghee": "घी",
+          "Home-oven adaptation of tandoori roti; eight rotis. A domestic oven gives browned blisters without a traditional tandoor.": "तंदूरी रोटी की घरेलू ओवन विधि; आठ रोटियाँ। पारंपरिक तंदूर के बिना घरेलू ओवन में भूरे फफोले बनते हैं।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "30 minutes dough resting; oven preheating overlaps": "आटा 30 मिनट रखें; इसी समय ओवन गरम करें",
+          "Reserve 30 g flour and 20 ml water. Knead remaining flour, salt, curd and remaining water for 6–8 minutes into a smooth, slightly firm dough.": "30 ग्राम आटा और 20 मिली पानी रखें। बाकी आटा, नमक, दही और बाकी पानी 6–8 मिनट चिकना, हल्का कड़ा गूँधें।",
+          "Cover dough for 30 minutes. Preheat the oven to 250°C with a heavy oven-safe baking tray inside for at least 25 minutes.": "आटा 30 मिनट ढकें। ओवन में भारी ओवन-सुरक्षित ट्रे रखकर 250°C पर कम से कम 25 मिनट गरम करें।",
+          "Divide dough into eight balls. Roll with reserved flour to ovals about 4 mm thick; lightly brush one side with the reserved water.": "आठ लोइयाँ करें। रखे आटे से लगभग 4 मिमी मोटा अंडाकार बेलें; एक तरफ रखा पानी हल्का लगाएँ।",
+          "Using oven gloves, place two or three rotis wet-side down on the hot tray. Bake 3–5 minutes until puffed and the underside is set.": "ओवन दस्ताने पहनकर गरम ट्रे पर दो-तीन रोटियाँ गीली तरफ नीचे रखें। फूलने और नीचे पकने तक 3–5 मिनट बेक करें।",
+          "Finish under the oven grill for 30–60 seconds if needed for brown blisters; watch continuously and keep the bread clear of the heating element.": "भूरे फफोले चाहिए तो ओवन ग्रिल में 30–60 सेकंड रखें; लगातार देखें और रोटी हीटिंग एलिमेंट से दूर रखें।",
+          "Brush baked rotis with ghee. Tear one to check there is no gummy centre, and serve immediately; reheat the tray briefly between batches.": "पकी रोटी पर घी लगाएँ। एक तोड़कर देखें कि बीच में चिपचिपा कच्चापन न हो; तुरंत परोसें और खेपों के बीच ट्रे फिर गरम करें।"
+        },
+        "gu": {
+          "Tandoori Roti": "તંદૂરી રોટી",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "curd": "દહીં",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "ghee": "ઘી",
+          "Home-oven adaptation of tandoori roti; eight rotis. A domestic oven gives browned blisters without a traditional tandoor.": "તંદૂરી રોટીની ઘરેલુ ઓવન રીત; આઠ રોટી. પરંપરાગત તંદૂર વિના ઘરેલું ઓવન બદામી ફોલ્લા આપે છે.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "30 minutes dough resting; oven preheating overlaps": "લોટને 30 મિનિટ આરામ; સાથે ઓવન ગરમ કરો",
+          "Reserve 30 g flour and 20 ml water. Knead remaining flour, salt, curd and remaining water for 6–8 minutes into a smooth, slightly firm dough.": "30 ગ્રામ લોટ અને 20 મિલી પાણી રાખો. બાકી લોટ, મીઠું, દહીં અને બાકી પાણી 6–8 મિનિટ સુંવાળો, સહેજ કઠણ ગૂંથો.",
+          "Cover dough for 30 minutes. Preheat the oven to 250°C with a heavy oven-safe baking tray inside for at least 25 minutes.": "લોટ 30 મિનિટ ઢાંકો. ઓવનમાં ભારે ઓવન માટે યોગ્ય ટ્રે મૂકી 250°C પર ઓછામાં ઓછી 25 મિનિટ ગરમ કરો.",
+          "Divide dough into eight balls. Roll with reserved flour to ovals about 4 mm thick; lightly brush one side with the reserved water.": "આઠ લૂવા કરો. રાખેલા લોટથી લગભગ 4 મિમી જાડા લંબગોળ વણો; એક બાજુ રાખેલું પાણી હળવું લગાવો.",
+          "Using oven gloves, place two or three rotis wet-side down on the hot tray. Bake 3–5 minutes until puffed and the underside is set.": "ઓવનના મોજાં પહેરી ગરમ ટ્રે પર બે-ત્રણ રોટી ભીની બાજુ નીચે મૂકો. ફૂલે અને નીચેનો ભાગ પાકે ત્યાં સુધી 3–5 મિનિટ બેક કરો.",
+          "Finish under the oven grill for 30–60 seconds if needed for brown blisters; watch continuously and keep the bread clear of the heating element.": "બદામી ફોલ્લા માટે જરૂર હોય તો ઓવન ગ્રિલમાં 30–60 સેકન્ડ રાખો; સતત જુઓ અને રોટી ગરમ તત્ત્વથી દૂર રાખો.",
+          "Brush baked rotis with ghee. Tear one to check there is no gummy centre, and serve immediately; reheat the tray briefly between batches.": "પાકેલી રોટી પર ઘી લગાવો. એક તોડી વચ્ચે ચીકાશવાળો કાચો ભાગ ન હોય તે જુઓ; તરત પીરસો અને ખેપ વચ્ચે ટ્રે ફરી ગરમ કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "methi-paratha",
+        "canonicalId": "methi-paratha",
+        "name": "Methi Paratha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "Breakfast",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "fenugreek leaves",
+          "curd",
+          "water",
+          "salt",
+          "carom seeds",
+          "turmeric powder",
+          "red chilli powder",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 45,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "methi-paratha",
+        "name": "Methi Paratha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "fenugreek leaves",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "curd",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 140,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "carom seeds",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "turmeric powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Pick fenugreek leaves from tough stems, wash well and dry thoroughly. Chop finely; reserve 30 g flour for rolling.",
+          "Mix remaining flour with leaves, salt, carom seeds, turmeric and chilli powder. Add curd, 10 g ghee and water gradually to make soft dough.",
+          "Rest covered for 20 minutes, then divide into eight balls. Roll one ball into a small disc and spread a thin film of ghee.",
+          "Fold the disc in half, grease lightly and fold again into a triangle. Roll gently with reserved flour to about 3 mm thick.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 45,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Methi Paratha": "मेथी पराठा",
+          "whole wheat flour": "गेहूँ का आटा",
+          "fenugreek leaves": "मेथी के पत्ते",
+          "curd": "दही",
+          "water": "पानी",
+          "salt": "नमक",
+          "carom seeds": "अजवाइन",
+          "turmeric powder": "हल्दी पाउडर",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Pick fenugreek leaves from tough stems, wash well and dry thoroughly. Chop finely; reserve 30 g flour for rolling.": "मेथी के पत्ते कड़े डंठलों से अलग करें, धोकर अच्छी तरह सुखाएँ। बारीक काटें; 30 ग्राम आटा बेलने को रखें।",
+          "Mix remaining flour with leaves, salt, carom seeds, turmeric and chilli powder. Add curd, 10 g ghee and water gradually to make soft dough.": "बाकी आटे में मेथी, नमक, अजवाइन, हल्दी और मिर्च मिलाएँ। दही, 10 ग्राम घी और धीरे पानी डालकर नरम गूँधें।",
+          "Rest covered for 20 minutes, then divide into eight balls. Roll one ball into a small disc and spread a thin film of ghee.": "20 मिनट ढककर रखें, फिर आठ लोइयाँ करें। एक छोटी रोटी बेलकर घी की पतली परत लगाएँ।",
+          "Fold the disc in half, grease lightly and fold again into a triangle. Roll gently with reserved flour to about 3 mm thick.": "आधा मोड़ें, हल्का घी लगाएँ और फिर मोड़कर तिकोना करें। रखे आटे से धीरे लगभग 3 मिमी मोटा बेलें।",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "भारी तवा मध्यम-तेज़ आँच पर गरम करें। पराठा 60–90 सेकंड बुलबुले आने तक पकाएँ, फिर पलटकर थोड़ा घी लगाएँ।",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "दोबारा पलटें, दूसरी तरफ घी लगाकर किनारे दबाएँ। दोनों तरफ भूरे धब्बे आने और किनारों पर कच्चा आटा न रहने तक 2–3 मिनट पकाएँ।"
+        },
+        "gu": {
+          "Methi Paratha": "મેથી પરાઠા",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "fenugreek leaves": "મેથીનાં પાન",
+          "curd": "દહીં",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "carom seeds": "અજમો",
+          "turmeric powder": "હળદર",
+          "red chilli powder": "લાલ મરચું",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Pick fenugreek leaves from tough stems, wash well and dry thoroughly. Chop finely; reserve 30 g flour for rolling.": "મેથીનાં પાન કઠણ દાંડીથી છૂટાં પાડી સારી રીતે ધોઈ સૂકવો. ઝીણાં સમારો; 30 ગ્રામ લોટ વણવા રાખો.",
+          "Mix remaining flour with leaves, salt, carom seeds, turmeric and chilli powder. Add curd, 10 g ghee and water gradually to make soft dough.": "બાકી લોટમાં મેથી, મીઠું, અજમો, હળદર અને મરચું ભેળવો. દહીં, 10 ગ્રામ ઘી અને ધીમે પાણી ઉમેરી નરમ ગૂંથો.",
+          "Rest covered for 20 minutes, then divide into eight balls. Roll one ball into a small disc and spread a thin film of ghee.": "20 મિનિટ ઢાંકી રાખી આઠ લૂવા કરો. એક નાની રોટી વણી ઘીનો પાતળો થર લગાવો.",
+          "Fold the disc in half, grease lightly and fold again into a triangle. Roll gently with reserved flour to about 3 mm thick.": "અડધી વાળો, હળવું ઘી લગાવી ફરી વાળી ત્રિકોણ કરો. રાખેલા લોટથી હળવે લગભગ 3 મિમી જાડું વણો.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. પરાઠો 60–90 સેકન્ડ ફોલ્લા પડે ત્યાં સુધી શેકો, પછી ફેરવી થોડું ઘી લગાવો.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "ફરી ફેરવો, બીજી બાજુ ઘી લગાવી કિનારી દબાવો. બંને બાજુ બદામી ડાઘ પડે અને કિનારી કાચી ન રહે ત્યાં સુધી વધુ 2–3 મિનિટ શેકો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "mooli-paratha",
+        "canonicalId": "mooli-paratha",
+        "name": "Mooli Paratha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "Breakfast",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole wheat flour",
+          "radish",
+          "water",
+          "salt",
+          "green chilli",
+          "coriander leaves",
+          "carom seeds",
+          "red chilli powder",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "mooli-paratha",
+        "name": "Mooli Paratha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "whole wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "radish",
+            "qty": 500,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "carom seeds",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.",
+          "Grate peeled radish, toss with remaining salt and stand for 10 minutes. Squeeze very firmly in a clean cloth; discard the extracted liquid.",
+          "Mix squeezed radish with finely chopped chilli and coriander, carom seeds and chilli powder. Stuff immediately, before the filling releases more moisture.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 50,
+        "passiveTime": "20 minutes resting",
+        "status": "complete",
+        "notes": "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd."
+      },
+      "translations": {
+        "hi": {
+          "Mooli Paratha": "मूली पराठा",
+          "whole wheat flour": "गेहूँ का आटा",
+          "radish": "मूली",
+          "water": "पानी",
+          "salt": "नमक",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "carom seeds": "अजवाइन",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "ghee": "घी",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "आठ रोटियाँ बनती हैं, प्रति व्यक्ति दो। ताज़ा पकाकर सब्जी या दही के साथ परोसें।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "20 minutes resting": "20 मिनट विश्राम",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "30 ग्राम आटा बेलने के लिए रखें। बाकी आटे में 4 ग्राम नमक और नापा पानी डालकर नरम गूँधें; 20 मिनट ढकें।",
+          "Grate peeled radish, toss with remaining salt and stand for 10 minutes. Squeeze very firmly in a clean cloth; discard the extracted liquid.": "छिली मूली कद्दूकस कर बाकी नमक मिलाएँ और 10 मिनट रखें। साफ कपड़े में बहुत अच्छी तरह निचोड़ें; निकला पानी फेंक दें।",
+          "Mix squeezed radish with finely chopped chilli and coriander, carom seeds and chilli powder. Stuff immediately, before the filling releases more moisture.": "निचोड़ी मूली में बारीक मिर्च-धनिया, अजवाइन और लाल मिर्च मिलाएँ। भरावन और पानी छोड़े उससे पहले तुरंत भरें।",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "आटे और भरावन के आठ बराबर हिस्से करें। हर लोई थोड़ी बेलें, बीच में भरावन रखें और किनारे जोड़कर अच्छी तरह बंद करें।",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "जोड़ नीचे रखकर दबाएँ। रखे हुए आटे से हल्का सूखा आटा लगाकर लगभग 16 सेमी बेलें; भरावन बराबर फैला रहे।",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "भारी तवा मध्यम-तेज़ आँच पर गरम करें। पराठा 60–90 सेकंड बुलबुले आने तक पकाएँ, फिर पलटकर थोड़ा घी लगाएँ।",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "दोबारा पलटें, दूसरी तरफ घी लगाकर किनारे दबाएँ। दोनों तरफ भूरे धब्बे आने और किनारों पर कच्चा आटा न रहने तक 2–3 मिनट पकाएँ।"
+        },
+        "gu": {
+          "Mooli Paratha": "મૂળાના પરાઠા",
+          "whole wheat flour": "ઘઉંનો લોટ",
+          "radish": "મૂળા",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "green chilli": "લીલાં મરચાં",
+          "coriander leaves": "કોથમીર",
+          "carom seeds": "અજમો",
+          "red chilli powder": "લાલ મરચું",
+          "ghee": "ઘી",
+          "Makes eight breads, two per serving. Serve freshly cooked with a curry or curd.": "આઠ રોટલી બને છે, વ્યક્તિ દીઠ બે. તાજી બનાવી શાક અથવા દહીં સાથે પીરસો.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "20 minutes resting": "20 મિનિટ આરામ",
+          "Reserve 30 g flour for dusting. Knead the remaining flour with 4 g salt and the measured water into a soft dough; cover for 20 minutes.": "બેલવા માટે 30 ગ્રામ લોટ રાખો. બાકીના લોટમાં 4 ગ્રામ મીઠું અને માપેલું પાણી ઉમેરી નરમ ગૂંથો; 20 મિનિટ ઢાંકો.",
+          "Grate peeled radish, toss with remaining salt and stand for 10 minutes. Squeeze very firmly in a clean cloth; discard the extracted liquid.": "છોલેલા મૂળા છીણી બાકી મીઠું ભેળવી 10 મિનિટ રાખો. ચોખ્ખા કપડામાં ખૂબ સારી રીતે નીચોવો; નીકળેલું પાણી કાઢી નાખો.",
+          "Mix squeezed radish with finely chopped chilli and coriander, carom seeds and chilli powder. Stuff immediately, before the filling releases more moisture.": "નીચોવેલા મૂળામાં ઝીણાં મરચાં-કોથમીર, અજમો અને લાલ મરચું ઉમેરો. પૂરણ વધુ પાણી છોડે તે પહેલાં તરત ભરો.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "લોટ અને પૂરણના આઠ સરખા ભાગ કરો. દરેક લૂવો થોડો વણી વચ્ચે પૂરણ મૂકો અને કિનારી ભેગી કરીને બંધ કરો.",
+          "Flatten seam-side down. Dust lightly with the reserved flour and roll gently to about 16 cm, keeping the filling evenly enclosed.": "બંધ કરેલો ભાગ નીચે રાખી દબાવો. રાખેલા લોટથી હળવો અટામણ આપી લગભગ 16 સેમી વણો; પૂરણ સરખું ફેલાયેલું રહે.",
+          "Heat a heavy tawa over medium-high heat. Cook a paratha for 60–90 seconds until bubbles appear, then turn and brush with a little ghee.": "ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. પરાઠો 60–90 સેકન્ડ ફોલ્લા પડે ત્યાં સુધી શેકો, પછી ફેરવી થોડું ઘી લગાવો.",
+          "Turn again, grease the second side and press the edges. Cook 2–3 minutes more until browned on both sides with no damp dough at the edges.": "ફરી ફેરવો, બીજી બાજુ ઘી લગાવી કિનારી દબાવો. બંને બાજુ બદામી ડાઘ પડે અને કિનારી કાચી ન રહે ત્યાં સુધી વધુ 2–3 મિનિટ શેકો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "amritsari-kulcha",
+        "canonicalId": "amritsari-kulcha",
+        "name": "Amritsari Kulcha",
+        "cuisine": "Punjabi",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner"
+        ],
+        "ingredients": [
+          "plain wheat flour",
+          "curd",
+          "water",
+          "potato",
+          "onion",
+          "green chilli",
+          "coriander leaves",
+          "coriander powder",
+          "dried mango powder",
+          "salt",
+          "sugar",
+          "baking powder",
+          "baking soda",
+          "ghee",
+          "nigella seeds"
+        ],
+        "method": "bake",
+        "time": 65,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "amritsari-kulcha",
+        "name": "Amritsari Kulcha",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "plain wheat flour",
+            "qty": 330,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "curd",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 400,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 80,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 5,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 20,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "dried mango powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 8,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "sugar",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "nigella seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Reserve 100 ml water. Mix 300 g flour, curd, sugar, 4 g salt, baking powder, soda and 10 g ghee; knead with reserved water and rest covered 2 hours.",
+          "Boil potatoes in remaining water until knife-tender, about 25 minutes. Drain, peel, cool and mash; mix with finely chopped onion, chilli, coriander and remaining spices and salt.",
+          "Preheat an oven with a heavy oven-safe tray to 250°C for 25 minutes. Divide dough and cooled filling into eight portions.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.",
+          "Dust with remaining flour and roll filled balls to 15 cm, about 5 mm thick. Press nigella seeds onto the tops.",
+          "Bake two at a time on the hot tray for 6–8 minutes until puffed and golden underneath. Grill tops briefly for brown spots, watching closely.",
+          "Brush with remaining ghee and serve hot. Check the edge of the first kulcha is cooked through, without a sticky flour layer around the filling."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 65,
+        "passiveTime": "2 hours dough resting",
+        "status": "complete",
+        "notes": "Makes eight stuffed kulchas using a home oven. Onion and potato are traditional ingredients here; household choices determine suitability."
+      },
+      "translations": {
+        "hi": {
+          "Amritsari Kulcha": "अमृतसरी कुलचा",
+          "plain wheat flour": "मैदा",
+          "curd": "दही",
+          "water": "पानी",
+          "potato": "आलू",
+          "onion": "प्याज",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "coriander powder": "धनिया पाउडर",
+          "dried mango powder": "अमचूर",
+          "salt": "नमक",
+          "sugar": "चीनी",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "बेकिंग सोडा",
+          "ghee": "घी",
+          "nigella seeds": "कलौंजी",
+          "Makes eight stuffed kulchas using a home oven. Onion and potato are traditional ingredients here; household choices determine suitability.": "घरेलू ओवन में आठ भरे कुलचे बनते हैं। यहाँ प्याज और आलू पारंपरिक सामग्री हैं; उपयुक्तता घर की पसंद तय करती है।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "2 hours dough resting": "आटा रखने के 2 घंटे",
+          "Reserve 100 ml water. Mix 300 g flour, curd, sugar, 4 g salt, baking powder, soda and 10 g ghee; knead with reserved water and rest covered 2 hours.": "100 मिली पानी रखें। 300 ग्राम मैदा, दही, चीनी, 4 ग्राम नमक, बेकिंग पाउडर, सोडा और 10 ग्राम घी मिलाएँ; रखे पानी से गूँधकर 2 घंटे ढकें।",
+          "Boil potatoes in remaining water until knife-tender, about 25 minutes. Drain, peel, cool and mash; mix with finely chopped onion, chilli, coriander and remaining spices and salt.": "बाकी पानी में आलू लगभग 25 मिनट नरम उबालें। छानें, छीलकर ठंडा मसलें; बारीक प्याज, मिर्च, धनिया और बाकी मसाले-नमक मिलाएँ।",
+          "Preheat an oven with a heavy oven-safe tray to 250°C for 25 minutes. Divide dough and cooled filling into eight portions.": "भारी ओवन-सुरक्षित ट्रे सहित ओवन 250°C पर 25 मिनट गरम करें। आटे और ठंडे भरावन के आठ भाग करें।",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "आटे और भरावन के आठ बराबर हिस्से करें। हर लोई थोड़ी बेलें, बीच में भरावन रखें और किनारे जोड़कर अच्छी तरह बंद करें।",
+          "Dust with remaining flour and roll filled balls to 15 cm, about 5 mm thick. Press nigella seeds onto the tops.": "बाकी मैदा हल्का लगाकर भरी लोइयाँ 15 सेमी चौड़ी, लगभग 5 मिमी मोटी बेलें। ऊपर कलौंजी दबाकर लगाएँ।",
+          "Bake two at a time on the hot tray for 6–8 minutes until puffed and golden underneath. Grill tops briefly for brown spots, watching closely.": "गरम ट्रे पर दो-दो कुलचे 6–8 मिनट फूलने और नीचे सुनहरा होने तक बेक करें। ऊपर भूरे धब्बों के लिए थोड़ी देर ग्रिल करें और ध्यान से देखें।",
+          "Brush with remaining ghee and serve hot. Check the edge of the first kulcha is cooked through, without a sticky flour layer around the filling.": "बाकी घी लगाकर गरम परोसें। पहले कुलचे का किनारा देखकर जाँचें कि भरावन के आसपास चिपचिपे कच्चे आटे की परत न हो।"
+        },
+        "gu": {
+          "Amritsari Kulcha": "અમૃતસરી કુલચા",
+          "plain wheat flour": "મેંદો",
+          "curd": "દહીં",
+          "water": "પાણી",
+          "potato": "બટાકા",
+          "onion": "ડુંગળી",
+          "green chilli": "લીલાં મરચાં",
+          "coriander leaves": "કોથમીર",
+          "coriander powder": "ધાણાજીરું",
+          "dried mango powder": "આમચૂર",
+          "salt": "મીઠું",
+          "sugar": "ખાંડ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "બેકિંગ સોડા",
+          "ghee": "ઘી",
+          "nigella seeds": "કલૌંજી",
+          "Makes eight stuffed kulchas using a home oven. Onion and potato are traditional ingredients here; household choices determine suitability.": "ઘરેલુ ઓવનમાં આઠ ભરેલા કુલચા બને છે. અહીં ડુંગળી અને બટાકા પરંપરાગત સામગ્રી છે; યોગ્યતા ઘરની પસંદ નક્કી કરે છે.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "2 hours dough resting": "લોટને આરામ આપવાના 2 કલાક",
+          "Reserve 100 ml water. Mix 300 g flour, curd, sugar, 4 g salt, baking powder, soda and 10 g ghee; knead with reserved water and rest covered 2 hours.": "100 મિલી પાણી રાખો. 300 ગ્રામ મેંદો, દહીં, ખાંડ, 4 ગ્રામ મીઠું, બેકિંગ પાઉડર, સોડા અને 10 ગ્રામ ઘી ભેળવો; રાખેલા પાણીથી ગૂંથી 2 કલાક ઢાંકો.",
+          "Boil potatoes in remaining water until knife-tender, about 25 minutes. Drain, peel, cool and mash; mix with finely chopped onion, chilli, coriander and remaining spices and salt.": "બાકીના પાણીમાં બટાકા લગભગ 25 મિનિટ નરમ બાફો. નિતારી છોલી ઠંડા કરી મસળો; ઝીણી ડુંગળી, મરચાં, કોથમીર અને બાકી મસાલા-મીઠું ઉમેરો.",
+          "Preheat an oven with a heavy oven-safe tray to 250°C for 25 minutes. Divide dough and cooled filling into eight portions.": "ભારે ઓવન માટે યોગ્ય ટ્રે સાથે ઓવન 250°C પર 25 મિનિટ ગરમ કરો. લોટ અને ઠંડા પૂરણના આઠ ભાગ કરો.",
+          "Divide dough and filling into eight equal portions. Roll each dough ball into a small disc, place filling centrally and pinch the edges closed.": "લોટ અને પૂરણના આઠ સરખા ભાગ કરો. દરેક લૂવો થોડો વણી વચ્ચે પૂરણ મૂકો અને કિનારી ભેગી કરીને બંધ કરો.",
+          "Dust with remaining flour and roll filled balls to 15 cm, about 5 mm thick. Press nigella seeds onto the tops.": "બાકી મેંદાનું હળવું અટામણ આપી ભરેલા લૂવા 15 સેમી પહોળા, લગભગ 5 મિમી જાડા વણો. ઉપર કલૌંજી દબાવી લગાવો.",
+          "Bake two at a time on the hot tray for 6–8 minutes until puffed and golden underneath. Grill tops briefly for brown spots, watching closely.": "ગરમ ટ્રે પર બે-બે કુલચા 6–8 મિનિટ ફૂલે અને નીચે સોનેરી થાય ત્યાં સુધી બેક કરો. ઉપર બદામી ડાઘ માટે થોડી વાર ગ્રિલ કરતાં ધ્યાન રાખો.",
+          "Brush with remaining ghee and serve hot. Check the edge of the first kulcha is cooked through, without a sticky flour layer around the filling.": "બાકી ઘી લગાવી ગરમ પીરસો. પહેલા કુલચાની કિનારી જોઈ પૂરણ આસપાસ ચીકણા કાચા લોટનો થર ન હોય તે તપાસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Kerala Parotta"
+      ],
+      "dish": {
+        "id": "malabar-parotta",
+        "canonicalId": "malabar-parotta",
+        "name": "Malabar Parotta",
+        "cuisine": "Kerala",
+        "categories": [
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "plain wheat flour",
+          "water",
+          "sugar",
+          "salt",
+          "oil"
+        ],
+        "method": "flatbread",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "malabar-parotta",
+        "name": "Malabar Parotta",
+        "baseServings": 4,
+        "batchSize": 8,
+        "ingredients": [
+          {
+            "name": "plain wheat flour",
+            "qty": 400,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 220,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 70,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Mix flour, sugar and salt. Add water and 15 ml oil; knead vigorously for 10–12 minutes until very smooth and stretchy rather than sticky.",
+          "Coat dough with 5 ml oil and rest covered for 1 hour. Divide into eight balls, lightly oil and rest another 20 minutes.",
+          "Oil the worktop lightly. Stretch each ball into a very thin sheet using oiled hands; small tears are acceptable. Spread a little measured oil over it.",
+          "Pleat the sheet into a long ribbon, coil loosely and tuck the end underneath. Rest the coils covered for 15 minutes before gently flattening to 15 cm.",
+          "Cook on a medium-hot heavy tawa for about 2 minutes per side, using remaining oil sparingly. Flip repeatedly until layered edges are cooked and golden spots form.",
+          "Stack two or three hot parottas and press their edges inward with clean cloth-covered hands to separate the layers. Serve immediately while tender inside."
+        ],
+        "tips": [
+          "Keep unused dough covered so the surface does not dry out."
+        ],
+        "substitutions": [],
+        "prepTime": 55,
+        "passiveTime": "1 hour 35 minutes total resting",
+        "status": "complete",
+        "notes": "Makes eight layered parottas. This traditional-style version uses flour, water and oil without added dairy."
+      },
+      "translations": {
+        "hi": {
+          "Malabar Parotta": "मलाबार परोट्टा",
+          "plain wheat flour": "मैदा",
+          "water": "पानी",
+          "sugar": "चीनी",
+          "salt": "नमक",
+          "oil": "तेल",
+          "Makes eight layered parottas. This traditional-style version uses flour, water and oil without added dairy.": "आठ परतदार परोट्टे बनते हैं। इस पारंपरिक शैली में मैदा, पानी और तेल हैं; दूध की सामग्री नहीं डाली जाती।",
+          "Keep unused dough covered so the surface does not dry out.": "बचा हुआ आटा ढककर रखें ताकि ऊपर से सूखे नहीं।",
+          "1 hour 35 minutes total resting": "कुल 1 घंटा 35 मिनट विश्राम",
+          "Mix flour, sugar and salt. Add water and 15 ml oil; knead vigorously for 10–12 minutes until very smooth and stretchy rather than sticky.": "मैदा, चीनी और नमक मिलाएँ। पानी और 15 मिली तेल डालकर 10–12 मिनट खूब गूँधें, जब तक चिकना, खिंचने वाला और बिना चिपचिपा हो।",
+          "Coat dough with 5 ml oil and rest covered for 1 hour. Divide into eight balls, lightly oil and rest another 20 minutes.": "आटे पर 5 मिली तेल लगाकर 1 घंटे ढकें। आठ लोइयाँ करें, हल्का तेल लगाएँ और 20 मिनट और रखें।",
+          "Oil the worktop lightly. Stretch each ball into a very thin sheet using oiled hands; small tears are acceptable. Spread a little measured oil over it.": "सतह पर हल्का तेल लगाएँ। तेल लगे हाथों से हर लोई बहुत पतली चादर जैसी खींचें; छोटे छेद ठीक हैं। ऊपर थोड़ा नापा तेल लगाएँ।",
+          "Pleat the sheet into a long ribbon, coil loosely and tuck the end underneath. Rest the coils covered for 15 minutes before gently flattening to 15 cm.": "चादर को लंबी पट्टी में तह करें, ढीली कुंडली बनाकर सिरा नीचे दबाएँ। 15 मिनट ढककर रखें, फिर हल्का दबाकर 15 सेमी करें।",
+          "Cook on a medium-hot heavy tawa for about 2 minutes per side, using remaining oil sparingly. Flip repeatedly until layered edges are cooked and golden spots form.": "मध्यम गरम भारी तवे पर हर तरफ लगभग 2 मिनट पकाएँ; बचा तेल थोड़ा-थोड़ा लगाएँ। पलटते रहें, जब तक परतदार किनारे पकें और सुनहरे धब्बे हों।",
+          "Stack two or three hot parottas and press their edges inward with clean cloth-covered hands to separate the layers. Serve immediately while tender inside.": "दो-तीन गरम परोट्टे रखकर साफ कपड़े से ढके हाथों से किनारे अंदर दबाएँ ताकि परतें खुलें। अंदर नरम रहते तुरंत परोसें।"
+        },
+        "gu": {
+          "Malabar Parotta": "મલબાર પરોટ્ટા",
+          "plain wheat flour": "મેંદો",
+          "water": "પાણી",
+          "sugar": "ખાંડ",
+          "salt": "મીઠું",
+          "oil": "તેલ",
+          "Makes eight layered parottas. This traditional-style version uses flour, water and oil without added dairy.": "આઠ પરતદાર પરોટ્ટા બને છે. આ પરંપરાગત શૈલીમાં મેંદો, પાણી અને તેલ છે; દૂધની સામગ્રી ઉમેરાતી નથી.",
+          "Keep unused dough covered so the surface does not dry out.": "બાકીનો લોટ ઢાંકીને રાખો જેથી સપાટી સુકાય નહીં.",
+          "1 hour 35 minutes total resting": "કુલ 1 કલાક 35 મિનિટ આરામ",
+          "Mix flour, sugar and salt. Add water and 15 ml oil; knead vigorously for 10–12 minutes until very smooth and stretchy rather than sticky.": "મેંદો, ખાંડ અને મીઠું ભેળવો. પાણી અને 15 મિલી તેલ ઉમેરી 10–12 મિનિટ ખૂબ ગૂંથો જેથી સુંવાળો, ખેંચાય એવો અને ઓછો ચીકણો બને.",
+          "Coat dough with 5 ml oil and rest covered for 1 hour. Divide into eight balls, lightly oil and rest another 20 minutes.": "લોટ પર 5 મિલી તેલ લગાવી 1 કલાક ઢાંકો. આઠ લૂવા કરી હળવું તેલ લગાવો અને વધુ 20 મિનિટ રાખો.",
+          "Oil the worktop lightly. Stretch each ball into a very thin sheet using oiled hands; small tears are acceptable. Spread a little measured oil over it.": "સપાટી પર હળવું તેલ લગાવો. તેલવાળા હાથે દરેક લૂવો ખૂબ પાતળી ચાદર જેવો ખેંચો; નાના કાણાં ચાલે. ઉપર થોડું માપેલું તેલ લગાવો.",
+          "Pleat the sheet into a long ribbon, coil loosely and tuck the end underneath. Rest the coils covered for 15 minutes before gently flattening to 15 cm.": "ચાદરને લાંબી પટ્ટીમાં પલીટ કરો, ઢીલો ગોળ વાળો અને છેડો નીચે દબાવો. 15 મિનિટ ઢાંકી રાખી હળવે દબાવી 15 સેમી કરો.",
+          "Cook on a medium-hot heavy tawa for about 2 minutes per side, using remaining oil sparingly. Flip repeatedly until layered edges are cooked and golden spots form.": "મધ્યમ ગરમ ભારે તવા પર દરેક બાજુ લગભગ 2 મિનિટ શેકો; બાકી તેલ થોડું થોડું લગાવો. પરતવાળી કિનારી પાકે અને સોનેરી ડાઘ પડે ત્યાં સુધી ફેરવો.",
+          "Stack two or three hot parottas and press their edges inward with clean cloth-covered hands to separate the layers. Serve immediately while tender inside.": "બે-ત્રણ ગરમ પરોટ્ટા ઉપરાઉપરી મૂકી ચોખ્ખા કપડાવાળા હાથે કિનારી અંદર દબાવો જેથી પરત છૂટી પડે. અંદર નરમ હોય ત્યારે તરત પીરસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "kalakand",
+        "canonicalId": "kalakand",
+        "name": "Kalakand",
+        "cuisine": "Rajasthani / UP",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole milk",
+          "paneer",
+          "sugar",
+          "ghee",
+          "cardamom powder",
+          "pistachio"
+        ],
+        "method": "dessert",
+        "time": 60,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "kalakand",
+        "name": "Kalakand",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "whole milk",
+            "qty": 1000,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "paneer",
+            "qty": 250,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 100,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 10,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "pistachio",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Grease a small square tin with 3 g ghee. Crumble fresh paneer into fine, soft grains; do not knead it into a smooth paste.",
+          "Bring milk to a boil in a wide heavy pan. Reduce to medium-low and simmer 20–30 minutes, scraping the sides, until approximately half remains.",
+          "Add crumbled paneer and stir gently. Cook 10–15 minutes, frequently scraping the bottom, until the mixture is thick but still moist.",
+          "Add sugar and remaining ghee. Stir on low heat until released liquid evaporates and the mixture gathers together, leaving a thin moist trail on the pan.",
+          "Switch off and mix in cardamom. Spread into the greased tin about 2 cm thick, level lightly and press chopped pistachios onto the surface.",
+          "Cool for 30 minutes, then refrigerate for 2 hours until softly set. Cut into twelve pieces; the inside should remain moist and grainy, not rubbery."
+        ],
+        "tips": [
+          "Use a heavy pan and scrape the base regularly to prevent scorching."
+        ],
+        "substitutions": [],
+        "prepTime": 60,
+        "passiveTime": "30 minutes cooling and 2 hours chilling",
+        "status": "complete",
+        "notes": "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days."
+      },
+      "translations": {
+        "hi": {
+          "Kalakand": "कलाकंद",
+          "whole milk": "फुल क्रीम दूध",
+          "paneer": "पनीर",
+          "sugar": "चीनी",
+          "ghee": "घी",
+          "cardamom powder": "इलायची पाउडर",
+          "pistachio": "पिस्ता",
+          "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days.": "बारह छोटे टुकड़े बनते हैं, प्रति व्यक्ति तीन। जल्दी ठंडा कर ढके डिब्बे में फ्रिज में रखें और 3 दिन में उपयोग करें।",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "भारी तली का बर्तन लें और जलने से बचाने के लिए तली नियमित खुरचते रहें।",
+          "30 minutes cooling and 2 hours chilling": "30 मिनट ठंडा करना और 2 घंटे फ्रिज में रखना",
+          "Grease a small square tin with 3 g ghee. Crumble fresh paneer into fine, soft grains; do not knead it into a smooth paste.": "छोटे चौकोर टिन में 3 ग्राम घी लगाएँ। ताज़े पनीर को बारीक नरम दानों में मसलें; चिकना पेस्ट न बनाएँ।",
+          "Bring milk to a boil in a wide heavy pan. Reduce to medium-low and simmer 20–30 minutes, scraping the sides, until approximately half remains.": "चौड़े भारी बर्तन में दूध उबालें। मध्यम-धीमी आँच पर किनारे खुरचते हुए 20–30 मिनट पकाएँ, जब तक लगभग आधा बचे।",
+          "Add crumbled paneer and stir gently. Cook 10–15 minutes, frequently scraping the bottom, until the mixture is thick but still moist.": "मसला पनीर डालकर धीरे मिलाएँ। तली बार-बार खुरचते हुए 10–15 मिनट पकाएँ, जब तक मिश्रण गाढ़ा लेकिन नम रहे।",
+          "Add sugar and remaining ghee. Stir on low heat until released liquid evaporates and the mixture gathers together, leaving a thin moist trail on the pan.": "चीनी और बाकी घी मिलाएँ। धीमी आँच पर निकला पानी सूखने तक चलाएँ; मिश्रण इकट्ठा हो लेकिन बर्तन पर हल्की नम लकीर छोड़े।",
+          "Switch off and mix in cardamom. Spread into the greased tin about 2 cm thick, level lightly and press chopped pistachios onto the surface.": "आँच बंद करके इलायची मिलाएँ। चिकने टिन में लगभग 2 सेमी मोटा फैलाएँ, हल्का समतल करें और कटे पिस्ते ऊपर दबाएँ।",
+          "Cool for 30 minutes, then refrigerate for 2 hours until softly set. Cut into twelve pieces; the inside should remain moist and grainy, not rubbery.": "30 मिनट ठंडा करें, फिर नरम जमने तक 2 घंटे फ्रिज में रखें। बारह टुकड़े काटें; अंदर नम और दानेदार रहे, रबड़ जैसा नहीं।"
+        },
+        "gu": {
+          "Kalakand": "કલाकંદ",
+          "whole milk": "ફુલ ક્રીમ દૂધ",
+          "paneer": "પનીર",
+          "sugar": "ખાંડ",
+          "ghee": "ઘી",
+          "cardamom powder": "એલચી પાઉડર",
+          "pistachio": "પિસ્તા",
+          "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days.": "બાર નાના ટુકડા બને છે, વ્યક્તિ દીઠ ત્રણ. ઝડપથી ઠંડા કરી ઢાંકેલા ડબ્બામાં ફ્રિજમાં રાખો અને 3 દિવસમાં વાપરો.",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "ભારે તળિયાવાળું વાસણ લો અને બળે નહીં તે માટે તળિયું નિયમિત ખોતરતા રહો.",
+          "30 minutes cooling and 2 hours chilling": "30 મિનિટ ઠંડું કરવું અને 2 કલાક ફ્રિજમાં રાખવું",
+          "Grease a small square tin with 3 g ghee. Crumble fresh paneer into fine, soft grains; do not knead it into a smooth paste.": "નાના ચોરસ ડબ્બામાં 3 ગ્રામ ઘી લગાવો. તાજા પનીરને ઝીણા નરમ દાણામાં ભૂકો કરો; સુંવાળી પેસ્ટ ન બનાવો.",
+          "Bring milk to a boil in a wide heavy pan. Reduce to medium-low and simmer 20–30 minutes, scraping the sides, until approximately half remains.": "પહોળા ભારે વાસણમાં દૂધ ઉકાળો. મધ્યમથી ધીમા તાપે કિનારી ખોતરતાં 20–30 મિનિટ લગભગ અડધું રહે ત્યાં સુધી ઉકાળો.",
+          "Add crumbled paneer and stir gently. Cook 10–15 minutes, frequently scraping the bottom, until the mixture is thick but still moist.": "ભૂકો કરેલું પનીર ઉમેરી હળવે હલાવો. તળિયું વારંવાર ખોતરતાં 10–15 મિનિટ મિશ્રણ ઘટ્ટ પરંતુ ભીનું રહે ત્યાં સુધી પકાવો.",
+          "Add sugar and remaining ghee. Stir on low heat until released liquid evaporates and the mixture gathers together, leaving a thin moist trail on the pan.": "ખાંડ અને બાકી ઘી ઉમેરો. ધીમા તાપે છૂટેલું પ્રવાહી ઊડી જાય ત્યાં સુધી હલાવો; મિશ્રણ ભેગું થાય પરંતુ વાસણમાં સહેજ ભીની રેખા છોડે.",
+          "Switch off and mix in cardamom. Spread into the greased tin about 2 cm thick, level lightly and press chopped pistachios onto the surface.": "તાપ બંધ કરી એલચી ઉમેરો. ઘી લગાવેલા ડબ્બામાં લગભગ 2 સેમી જાડું ફેલાવી હળવું સમતલ કરો અને સમારેલા પિસ્તા ઉપર દબાવો.",
+          "Cool for 30 minutes, then refrigerate for 2 hours until softly set. Cut into twelve pieces; the inside should remain moist and grainy, not rubbery.": "30 મિનિટ ઠંડું કરી નરમ જામે ત્યાં સુધી 2 કલાક ફ્રિજમાં રાખો. બાર ટુકડા કાપો; અંદર ભીનું અને દાણાદાર રહે, રબર જેવું નહીં."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "motichoor-ladoo",
+        "canonicalId": "motichoor-ladoo",
+        "name": "Motichoor Ladoo",
+        "cuisine": "North Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "gram flour",
+          "water",
+          "sugar",
+          "ghee",
+          "oil",
+          "saffron",
+          "cardamom powder",
+          "melon seeds"
+        ],
+        "method": "dessert",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "motichoor-ladoo",
+        "name": "Motichoor Ladoo",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "gram flour",
+            "qty": 180,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 330,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 180,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "melon seeds",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Whisk gram flour with 230 ml water into a smooth, thin pouring batter. Rest 10 minutes; ready a fine-hole boondi ladle and a draining sieve.",
+          "Heat oil to 170°C in a deep pan. Hold the boondi ladle just above it and tap small ladlefuls of batter through, keeping hands clear.",
+          "Fry tiny pearls for 30–45 seconds, just until set without becoming crisp. Drain promptly and wipe the ladle clean between batches.",
+          "Boil sugar, saffron and remaining 100 ml water until a cooled drop draws one fine thread. Test only a cooled drop, never hot syrup, and turn off the heat at this stage.",
+          "Stir boondi into hot syrup with ghee, cardamom and melon seeds. Cover for 10 minutes so the pearls absorb syrup; stir once halfway through.",
+          "If pearls are too large, pulse the warm mixture very briefly, keeping visible grains. Let it cool until comfortable to handle, then press into twelve firm ladoos."
+        ],
+        "tips": [
+          "A fine-hole ladle makes the characteristic tiny pearls; do not fry the boondi until crunchy."
+        ],
+        "substitutions": [],
+        "prepTime": 55,
+        "passiveTime": "10 minutes batter resting and 10 minutes syrup absorption",
+        "status": "complete",
+        "notes": "Makes twelve small ladoos. The oil quantity is a frying bath, not the amount eaten. Refrigerate cooled ladoos and use within 3 days."
+      },
+      "translations": {
+        "hi": {
+          "Motichoor Ladoo": "मोतीचूर लड्डू",
+          "gram flour": "बेसन",
+          "water": "पानी",
+          "sugar": "चीनी",
+          "ghee": "घी",
+          "oil": "तेल",
+          "saffron": "केसर",
+          "cardamom powder": "इलायची पाउडर",
+          "melon seeds": "खरबूजे के बीज",
+          "Makes twelve small ladoos. The oil quantity is a frying bath, not the amount eaten. Refrigerate cooled ladoos and use within 3 days.": "बारह छोटे लड्डू बनते हैं। तेल की मात्रा तलने के लिए है, पूरी खाई नहीं जाती। ठंडे लड्डू फ्रिज में रखकर 3 दिन में उपयोग करें।",
+          "A fine-hole ladle makes the characteristic tiny pearls; do not fry the boondi until crunchy.": "छोटे छेद वाला झारा विशिष्ट महीन दाने बनाता है; बूंदी कुरकुरी होने तक न तलें।",
+          "10 minutes batter resting and 10 minutes syrup absorption": "घोल रखने के 10 मिनट और चाशनी सोखने के 10 मिनट",
+          "Whisk gram flour with 230 ml water into a smooth, thin pouring batter. Rest 10 minutes; ready a fine-hole boondi ladle and a draining sieve.": "बेसन में 230 मिली पानी फेंटकर चिकना पतला बहता घोल बनाएँ। 10 मिनट रखें; छोटे छेद वाला बूंदी झारा और छानने की छलनी तैयार रखें।",
+          "Heat oil to 170°C in a deep pan. Hold the boondi ladle just above it and tap small ladlefuls of batter through, keeping hands clear.": "गहरी कड़ाही में तेल 170°C करें। बूंदी झारा ठीक ऊपर रखकर थोड़ा-थोड़ा घोल थपथपाकर गिराएँ; हाथ गरम तेल से दूर रखें।",
+          "Fry tiny pearls for 30–45 seconds, just until set without becoming crisp. Drain promptly and wipe the ladle clean between batches.": "छोटे दाने 30–45 सेकंड केवल जमने तक तलें, कुरकुरे न करें। तुरंत छानें और हर खेप के बीच झारा साफ पोंछें।",
+          "Boil sugar, saffron and remaining 100 ml water until a cooled drop draws one fine thread, about 105–106°C. Turn off the heat.": "चीनी, केसर और बाकी 100 मिली पानी उबालें, जब तक ठंडी बूँद से एक महीन तार बने, लगभग 105–106°C। आँच बंद करें।",
+          "Stir boondi into hot syrup with ghee, cardamom and melon seeds. Cover for 10 minutes so the pearls absorb syrup; stir once halfway through.": "गरम चाशनी में बूंदी, घी, इलायची और खरबूजे के बीज मिलाएँ। चाशनी सोखने के लिए 10 मिनट ढकें; बीच में एक बार चलाएँ।",
+          "If pearls are too large, pulse the warm mixture very briefly, keeping visible grains. Let it cool until comfortable to handle, then press into twelve firm ladoos.": "दाने बड़े हों तो गुनगुना मिश्रण बहुत थोड़ी देर मिक्सर में चलाएँ, दाने दिखते रहें। हाथ लगाने लायक ठंडा कर दबाते हुए बारह लड्डू बाँधें।",
+          "Boil sugar, saffron and remaining 100 ml water until a cooled drop draws one fine thread. Test only a cooled drop, never hot syrup, and turn off the heat at this stage.": "चीनी, केसर और बाकी 100 मिली पानी उबालें, जब तक ठंडी बूँद से एक पतला तार बने। केवल ठंडी बूँद जाँचें, गरम चाशनी नहीं, और इस अवस्था पर आँच बंद करें।"
+        },
+        "gu": {
+          "Motichoor Ladoo": "મોતીચૂર લાડુ",
+          "gram flour": "ચણાનો લોટ",
+          "water": "પાણી",
+          "sugar": "ખાંડ",
+          "ghee": "ઘી",
+          "oil": "તેલ",
+          "saffron": "કેસર",
+          "cardamom powder": "એલચી પાઉડર",
+          "melon seeds": "શક્કરટેટીના બીજ",
+          "Makes twelve small ladoos. The oil quantity is a frying bath, not the amount eaten. Refrigerate cooled ladoos and use within 3 days.": "બાર નાના લાડુ બને છે. તેલની માત્રા તળવા માટે છે, આખી ખવાતી નથી. ઠંડા લાડુ ફ્રિજમાં રાખી 3 દિવસમાં વાપરો.",
+          "A fine-hole ladle makes the characteristic tiny pearls; do not fry the boondi until crunchy.": "ઝીણાં કાણાંવાળો ઝારો ઓળખીતા નાના દાણા બનાવે છે; બૂંદી કરકરી થાય ત્યાં સુધી ન તળો.",
+          "10 minutes batter resting and 10 minutes syrup absorption": "ખીરું રાખવાના 10 મિનિટ અને ચાસણી શોષવાના 10 મિનિટ",
+          "Whisk gram flour with 230 ml water into a smooth, thin pouring batter. Rest 10 minutes; ready a fine-hole boondi ladle and a draining sieve.": "ચણાના લોટમાં 230 મિલી પાણી ફેંટી સુંવાળું પાતળું રેડી શકાય એવું ખીરું બનાવો. 10 મિનિટ રાખો; ઝીણાં કાણાંવાળો બૂંદી ઝારો અને ચાળણી તૈયાર રાખો.",
+          "Heat oil to 170°C in a deep pan. Hold the boondi ladle just above it and tap small ladlefuls of batter through, keeping hands clear.": "ઊંડી કડાઈમાં તેલ 170°C કરો. બૂંદીનો ઝારો સહેજ ઉપર રાખી થોડું ખીરું થપથપાવી નીચે પાડો; હાથ ગરમ તેલથી દૂર રાખો.",
+          "Fry tiny pearls for 30–45 seconds, just until set without becoming crisp. Drain promptly and wipe the ladle clean between batches.": "નાના દાણા 30–45 સેકન્ડ માત્ર બંધાય ત્યાં સુધી તળો, કરકરા ન કરો. તરત નિતારો અને દરેક ખેપ વચ્ચે ઝારો સાફ લૂછો.",
+          "Boil sugar, saffron and remaining 100 ml water until a cooled drop draws one fine thread, about 105–106°C. Turn off the heat.": "ખાંડ, કેસર અને બાકી 100 મિલી પાણી ઉકાળો, ઠંડું ટીપું એક ઝીણો તાર કરે ત્યાં સુધી, લગભગ 105–106°C. તાપ બંધ કરો.",
+          "Stir boondi into hot syrup with ghee, cardamom and melon seeds. Cover for 10 minutes so the pearls absorb syrup; stir once halfway through.": "ગરમ ચાસણીમાં બૂંદી, ઘી, એલચી અને શક્કરટેટીના બીજ ભેળવો. ચાસણી શોષવા 10 મિનિટ ઢાંકો; વચ્ચે એક વાર હલાવો.",
+          "If pearls are too large, pulse the warm mixture very briefly, keeping visible grains. Let it cool until comfortable to handle, then press into twelve firm ladoos.": "દાણા મોટા હોય તો હૂંફાળું મિશ્રણ મિક્સરમાં ખૂબ થોડું ફેરવો, દાણા દેખાતા રહે. હાથથી પકડી શકાય એટલું ઠંડું કરી દબાવી બાર લાડુ વાળો.",
+          "Boil sugar, saffron and remaining 100 ml water until a cooled drop draws one fine thread. Test only a cooled drop, never hot syrup, and turn off the heat at this stage.": "ખાંડ, કેસર અને બાકી 100 મિલી પાણી ઉકાળો, ઠંડા ટીપાથી એક પાતળો તાર બને ત્યાં સુધી. માત્ર ઠંડું ટીપું તપાસો, ગરમ ચાસણી નહીં, અને આ સમયે તાપ બંધ કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Rava Laddu"
+      ],
+      "dish": {
+        "id": "rava-ladoo",
+        "canonicalId": "rava-ladoo",
+        "name": "Rava Ladoo",
+        "cuisine": "South Indian / Maharashtrian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "semolina",
+          "desiccated coconut",
+          "powdered sugar",
+          "ghee",
+          "milk",
+          "cashew",
+          "raisins",
+          "cardamom powder"
+        ],
+        "method": "dessert",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "rava-ladoo",
+        "name": "Rava Ladoo",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "semolina",
+            "qty": 180,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "desiccated coconut",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "powdered sugar",
+            "qty": 130,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 85,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "cashew",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "raisins",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat 15 g ghee in a heavy pan. Fry chopped cashews until pale golden, add raisins briefly until plump, and lift both onto a plate.",
+          "Add remaining ghee and semolina to the pan. Roast on low heat for 10–12 minutes, stirring continuously, until fragrant but still pale.",
+          "Add coconut and roast for 2 minutes more. Transfer to a broad bowl and cool until warm; very hot semolina will melt the sugar.",
+          "Mix in powdered sugar, cardamom and fried nuts and raisins. Rub gently between fingers to distribute the fat evenly without compacting the entire mixture.",
+          "Warm the measured milk and sprinkle it gradually over the mixture. Rest 5 minutes; a squeezed handful should hold together without dripping or feeling wet.",
+          "Divide into twelve portions and press firmly into balls while warm. Cool fully, then refrigerate because milk has been added; bring portions to room temperature before serving."
+        ],
+        "tips": [
+          "Use a heavy pan and scrape the base regularly to prevent scorching."
+        ],
+        "substitutions": [],
+        "prepTime": 35,
+        "passiveTime": "5 minutes absorption and 30 minutes cooling",
+        "status": "complete",
+        "notes": "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days."
+      },
+      "translations": {
+        "hi": {
+          "Rava Ladoo": "रवा लड्डू",
+          "semolina": "सूजी",
+          "desiccated coconut": "सूखा नारियल बुरादा",
+          "powdered sugar": "पिसी चीनी",
+          "ghee": "घी",
+          "milk": "दूध",
+          "cashew": "काजू",
+          "raisins": "किशमिश",
+          "cardamom powder": "इलायची पाउडर",
+          "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days.": "बारह छोटे टुकड़े बनते हैं, प्रति व्यक्ति तीन। जल्दी ठंडा कर ढके डिब्बे में फ्रिज में रखें और 3 दिन में उपयोग करें।",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "भारी तली का बर्तन लें और जलने से बचाने के लिए तली नियमित खुरचते रहें।",
+          "5 minutes absorption and 30 minutes cooling": "सोखने के 5 मिनट और ठंडा करने के 30 मिनट",
+          "Heat 15 g ghee in a heavy pan. Fry chopped cashews until pale golden, add raisins briefly until plump, and lift both onto a plate.": "भारी कड़ाही में 15 ग्राम घी गरम करें। कटे काजू हल्के सुनहरे करें, किशमिश फूलने तक डालें और दोनों थाली में निकालें।",
+          "Add remaining ghee and semolina to the pan. Roast on low heat for 10–12 minutes, stirring continuously, until fragrant but still pale.": "कड़ाही में बाकी घी और सूजी डालें। धीमी आँच पर 10–12 मिनट लगातार चलाते हुए सुगंध आने तक भूनें, रंग हल्का रहे।",
+          "Add coconut and roast for 2 minutes more. Transfer to a broad bowl and cool until warm; very hot semolina will melt the sugar.": "नारियल डालकर 2 मिनट और भूनें। चौड़े बर्तन में निकालकर गुनगुना करें; बहुत गरम सूजी चीनी पिघला देगी।",
+          "Mix in powdered sugar, cardamom and fried nuts and raisins. Rub gently between fingers to distribute the fat evenly without compacting the entire mixture.": "पिसी चीनी, इलायची और तले काजू-किशमिश मिलाएँ। उँगलियों से हल्का मसलकर घी समान मिलाएँ, पूरा मिश्रण एक साथ न दबाएँ।",
+          "Warm the measured milk and sprinkle it gradually over the mixture. Rest 5 minutes; a squeezed handful should hold together without dripping or feeling wet.": "नापा दूध गरम करके धीरे-धीरे मिश्रण पर छिड़कें। 5 मिनट रखें; मुट्ठी में दबाने पर बँधे, टपके नहीं और गीला न लगे।",
+          "Divide into twelve portions and press firmly into balls while warm. Cool fully, then refrigerate because milk has been added; bring portions to room temperature before serving.": "गुनगुने मिश्रण के बारह भाग करके दबाकर लड्डू बाँधें। पूरी तरह ठंडा करके फ्रिज में रखें क्योंकि दूध डाला है; परोसने से पहले थोड़ा सामान्य ताप पर लाएँ।"
+        },
+        "gu": {
+          "Rava Ladoo": "રવાના લાડુ",
+          "semolina": "રવો",
+          "desiccated coconut": "સૂકા નાળિયેરનું છીણ",
+          "powdered sugar": "દળેલી ખાંડ",
+          "ghee": "ઘી",
+          "milk": "દૂધ",
+          "cashew": "કાજુ",
+          "raisins": "કિસમિસ",
+          "cardamom powder": "એલચી પાઉડર",
+          "Makes twelve small pieces, three per serving. Cool promptly, refrigerate in a covered container and use within 3 days.": "બાર નાના ટુકડા બને છે, વ્યક્તિ દીઠ ત્રણ. ઝડપથી ઠંડા કરી ઢાંકેલા ડબ્બામાં ફ્રિજમાં રાખો અને 3 દિવસમાં વાપરો.",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "ભારે તળિયાવાળું વાસણ લો અને બળે નહીં તે માટે તળિયું નિયમિત ખોતરતા રહો.",
+          "5 minutes absorption and 30 minutes cooling": "શોષાવાના 5 મિનિટ અને ઠંડા થવાના 30 મિનિટ",
+          "Heat 15 g ghee in a heavy pan. Fry chopped cashews until pale golden, add raisins briefly until plump, and lift both onto a plate.": "ભારે કડાઈમાં 15 ગ્રામ ઘી ગરમ કરો. સમારેલા કાજુ આછા સોનેરી કરો, કિસમિસ ફૂલે ત્યાં સુધી ઉમેરો અને બંને થાળીમાં કાઢો.",
+          "Add remaining ghee and semolina to the pan. Roast on low heat for 10–12 minutes, stirring continuously, until fragrant but still pale.": "કડાઈમાં બાકી ઘી અને રવો ઉમેરો. ધીમા તાપે 10–12 મિનિટ સતત હલાવી સુગંધ આવે ત્યાં સુધી શેકો, રંગ આછો રહે.",
+          "Add coconut and roast for 2 minutes more. Transfer to a broad bowl and cool until warm; very hot semolina will melt the sugar.": "નાળિયેર ઉમેરી વધુ 2 મિનિટ શેકો. પહોળા વાસણમાં કાઢી હૂંફાળું કરો; ખૂબ ગરમ રવો ખાંડ ઓગાળી દેશે.",
+          "Mix in powdered sugar, cardamom and fried nuts and raisins. Rub gently between fingers to distribute the fat evenly without compacting the entire mixture.": "દળેલી ખાંડ, એલચી અને તળેલા કાજુ-કિસમિસ ઉમેરો. આંગળીઓથી હળવું ચોળી ઘી સરખું ભેળવો, આખું મિશ્રણ એકસાથે ન દબાવો.",
+          "Warm the measured milk and sprinkle it gradually over the mixture. Rest 5 minutes; a squeezed handful should hold together without dripping or feeling wet.": "માપેલું દૂધ ગરમ કરી ધીમે ધીમે મિશ્રણ પર છાંટો. 5 મિનિટ રાખો; મુઠ્ઠીમાં દબાવતાં બંધાય, ટપકે નહીં કે ભીનું ન લાગે.",
+          "Divide into twelve portions and press firmly into balls while warm. Cool fully, then refrigerate because milk has been added; bring portions to room temperature before serving.": "હૂંફાળા મિશ્રણના બાર ભાગ કરી દબાવી લાડુ વાળો. પૂરા ઠંડા કરી ફ્રિજમાં રાખો કારણ કે દૂધ ઉમેર્યું છે; પીરસતાં પહેલાં થોડા સામાન્ય તાપે લાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Kesar Peda"
+      ],
+      "dish": {
+        "id": "doodh-peda",
+        "canonicalId": "doodh-peda",
+        "name": "Doodh Peda",
+        "cuisine": "Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "unsweetened mawa",
+          "milk",
+          "sugar",
+          "ghee",
+          "saffron",
+          "cardamom powder",
+          "pistachio"
+        ],
+        "method": "dessert",
+        "time": 30,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "doodh-peda",
+        "name": "Doodh Peda",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "unsweetened mawa",
+            "qty": 300,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 60,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 90,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 30,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "pistachio",
+            "qty": 12,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Warm 30 ml milk and steep crushed saffron in it for 10 minutes. Grease a plate lightly using a little of the measured ghee.",
+          "Crumble the mawa finely into a heavy pan and mix with the remaining milk. Add sugar and the remaining ghee, then place over low heat and stir until evenly combined.",
+          "Stir continuously for 8–12 minutes, scraping the base and corners. Add saffron milk and cardamom once the mixture becomes a thick paste.",
+          "Continue cooking gently until the mixture pulls away as a soft mass. Cool a small dab on a plate: it should roll without sticking badly.",
+          "Transfer to the greased plate and cool until comfortably warm, about 15 minutes. Do not overcook to a dry crumble or the pedas will become hard.",
+          "Divide into twelve balls, flatten gently and press chopped pistachios into shallow central dents. Cool completely before refrigerating in a covered container."
+        ],
+        "tips": [
+          "Use a heavy pan and scrape the base regularly to prevent scorching."
+        ],
+        "substitutions": [],
+        "prepTime": 30,
+        "passiveTime": "10 minutes saffron soaking and 15 minutes cooling",
+        "status": "complete",
+        "notes": "Makes twelve small saffron milk pedas using milk powder for a practical home method. Refrigerate and use within 3 days."
+      },
+      "translations": {
+        "hi": {
+          "Doodh Peda": "दूध पेड़ा",
+          "milk powder": "मिल्क पाउडर",
+          "milk": "दूध",
+          "sugar": "चीनी",
+          "ghee": "घी",
+          "saffron": "केसर",
+          "cardamom powder": "इलायची पाउडर",
+          "pistachio": "पिस्ता",
+          "Makes twelve small saffron milk pedas using milk powder for a practical home method. Refrigerate and use within 3 days.": "घर में सुविधाजनक मिल्क पाउडर विधि से बारह छोटे केसर दूध पेड़े बनते हैं। फ्रिज में रखकर 3 दिन में उपयोग करें।",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "भारी तली का बर्तन लें और जलने से बचाने के लिए तली नियमित खुरचते रहें।",
+          "10 minutes saffron soaking and 15 minutes cooling": "केसर भिगोने के 10 मिनट और ठंडा करने के 15 मिनट",
+          "Warm 30 ml milk and steep crushed saffron in it for 10 minutes. Grease a plate lightly using a little of the measured ghee.": "30 मिली दूध गरम कर कूटा केसर 10 मिनट भिगोएँ। नापे घी में से थोड़ा लेकर थाली पर लगाएँ।",
+          "Whisk milk powder with remaining milk in a cold heavy pan until smooth. Add sugar and the remaining ghee before placing over low heat.": "ठंडी भारी कड़ाही में मिल्क पाउडर और बाकी दूध चिकना फेंटें। धीमी आँच पर रखने से पहले चीनी और बाकी घी मिलाएँ।",
+          "Stir continuously for 8–12 minutes, scraping the base and corners. Add saffron milk and cardamom once the mixture becomes a thick paste.": "तली और कोने खुरचते हुए 8–12 मिनट लगातार चलाएँ। मिश्रण गाढ़ा पेस्ट बने तो केसर वाला दूध और इलायची डालें।",
+          "Continue cooking gently until the mixture pulls away as a soft mass. Cool a small dab on a plate: it should roll without sticking badly.": "धीरे पकाते रहें जब तक मिश्रण नरम गोले की तरह किनारे छोड़े। थाली पर थोड़ा ठंडा कर देखें: अधिक चिपके बिना गोल हो जाए।",
+          "Transfer to the greased plate and cool until comfortably warm, about 15 minutes. Do not overcook to a dry crumble or the pedas will become hard.": "चिकनी थाली में निकालकर लगभग 15 मिनट हाथ लगाने लायक गुनगुना करें। सूखा चूरा बनने तक न पकाएँ, वरना पेड़े सख्त होंगे।",
+          "Divide into twelve balls, flatten gently and press chopped pistachios into shallow central dents. Cool completely before refrigerating in a covered container.": "बारह गोले बनाकर हल्का दबाएँ और बीच की छोटी खाँची में कटे पिस्ते दबाएँ। पूरी तरह ठंडा कर ढके डिब्बे में फ्रिज में रखें।",
+          "unsweetened mawa": "बिना चीनी का मावा",
+          "Crumble the mawa finely into a heavy pan and mix with the remaining milk. Add sugar and the remaining ghee, then place over low heat and stir until evenly combined.": "मावा बारीक मसलकर भारी पैन में बाकी दूध के साथ मिलाएँ। चीनी और बाकी घी डालकर धीमी आँच पर एकसार होने तक चलाएँ।"
+        },
+        "gu": {
+          "Doodh Peda": "દૂધ પેંડા",
+          "milk powder": "દૂધનો પાઉડર",
+          "milk": "દૂધ",
+          "sugar": "ખાંડ",
+          "ghee": "ઘી",
+          "saffron": "કેસર",
+          "cardamom powder": "એલચી પાઉડર",
+          "pistachio": "પિસ્તા",
+          "Makes twelve small saffron milk pedas using milk powder for a practical home method. Refrigerate and use within 3 days.": "ઘર માટે સરળ દૂધના પાઉડરની રીતથી બાર નાના કેસર દૂધ પેંડા બને છે. ફ્રિજમાં રાખી 3 દિવસમાં વાપરો.",
+          "Use a heavy pan and scrape the base regularly to prevent scorching.": "ભારે તળિયાવાળું વાસણ લો અને બળે નહીં તે માટે તળિયું નિયમિત ખોતરતા રહો.",
+          "10 minutes saffron soaking and 15 minutes cooling": "કેસર પલાળવાના 10 મિનિટ અને ઠંડા થવાના 15 મિનિટ",
+          "Warm 30 ml milk and steep crushed saffron in it for 10 minutes. Grease a plate lightly using a little of the measured ghee.": "30 મિલી દૂધ ગરમ કરી કૂટેલું કેસર 10 મિનિટ પલાળો. માપેલા ઘીમાંથી થોડું લઈ થાળી ચોપડો.",
+          "Whisk milk powder with remaining milk in a cold heavy pan until smooth. Add sugar and the remaining ghee before placing over low heat.": "ઠંડી ભારે કડાઈમાં દૂધનો પાઉડર અને બાકી દૂધ સુંવાળું ફેંટો. ધીમા તાપે મૂકતાં પહેલાં ખાંડ અને બાકી ઘી ઉમેરો.",
+          "Stir continuously for 8–12 minutes, scraping the base and corners. Add saffron milk and cardamom once the mixture becomes a thick paste.": "તળિયું અને ખૂણા ખોતરતાં 8–12 મિનિટ સતત હલાવો. મિશ્રણ ઘટ્ટ પેસ્ટ થાય ત્યારે કેસરવાળું દૂધ અને એલચી ઉમેરો.",
+          "Continue cooking gently until the mixture pulls away as a soft mass. Cool a small dab on a plate: it should roll without sticking badly.": "ધીમે પકાવો જ્યાં સુધી મિશ્રણ નરમ ગોળા જેવું કિનારી છોડે. થાળીમાં થોડું ઠંડું કરી જુઓ: વધારે ચોંટ્યા વગર ગોળ વળવું જોઈએ.",
+          "Transfer to the greased plate and cool until comfortably warm, about 15 minutes. Do not overcook to a dry crumble or the pedas will become hard.": "ચોપડેલી થાળીમાં કાઢી લગભગ 15 મિનિટ હાથથી પકડી શકાય એટલું હૂંફાળું કરો. સૂકો ભૂકો થાય ત્યાં સુધી ન પકાવો, નહીં તો પેંડા કઠણ થશે.",
+          "Divide into twelve balls, flatten gently and press chopped pistachios into shallow central dents. Cool completely before refrigerating in a covered container.": "બાર ગોળા કરી હળવા ચપટા કરો અને વચ્ચેના નાના ખાડામાં સમારેલા પિસ્તા દબાવો. પૂરા ઠંડા કરીને ઢાંકેલા ડબ્બામાં ફ્રિજમાં રાખો.",
+          "unsweetened mawa": "ખાંડ વગરનો માવો",
+          "Crumble the mawa finely into a heavy pan and mix with the remaining milk. Add sugar and the remaining ghee, then place over low heat and stir until evenly combined.": "માવો બારીક મસળી ભારે પેનમાં બાકી દૂધ સાથે ભેળવો. ખાંડ અને બાકી ઘી નાખી ધીમા તાપે એકસરખું થાય ત્યાં સુધી હલાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Patisa"
+      ],
+      "dish": {
+        "id": "soan-papdi",
+        "canonicalId": "soan-papdi",
+        "name": "Soan Papdi",
+        "cuisine": "North Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "gram flour",
+          "plain wheat flour",
+          "ghee",
+          "sugar",
+          "water",
+          "lemon juice",
+          "cardamom powder",
+          "pistachio"
+        ],
+        "method": "dessert",
+        "time": 65,
+        "effort": "special",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "gluten",
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "soan-papdi",
+        "name": "Soan Papdi",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "gram flour",
+            "qty": 80,
+            "unit": "g",
+            "group": "Pulses",
+            "scale": "linear"
+          },
+          {
+            "name": "plain wheat flour",
+            "qty": 80,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 240,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 2,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "pistachio",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Prepare a heatproof silicone mat, two sturdy spatulas and a small greased tin. Sift both flours; use 5 g ghee to grease the mat and tin.",
+          "Roast both flours in remaining ghee over low heat for 15–18 minutes until nutty and pale golden. Mix in cardamom and keep the flour paste warm.",
+          "Dissolve sugar in water, add lemon juice and boil without stirring to 140°C on a sugar thermometer. Do not test hot syrup with bare fingers.",
+          "Pour syrup carefully onto the mat. Using spatulas, fold edges inward as it cools, until the sugar is a pliable mass rather than flowing liquid.",
+          "When safe to handle with food-safe heat-resistant gloves, stretch and fold the sugar until opaque. Form a ring; never touch sugar that still burns through protection.",
+          "Coat the ring with warm roasted flour paste. Stretch wider, twist into a figure eight and fold together; repeat, coating strands with paste each time.",
+          "Continue until many fine strands separate and most paste is incorporated. Gather the strands into the tin without crushing them; scatter pistachios and press only lightly.",
+          "Score twelve pieces while just warm and cool fully for 1 hour before lifting. Store airtight in a cool, dry place; moisture makes the strands sticky."
+        ],
+        "tips": [
+          "Keep the flour paste warm and work steadily; cold sugar snaps instead of forming fine fibres."
+        ],
+        "substitutions": [],
+        "prepTime": 65,
+        "passiveTime": "1 hour cooling and setting",
+        "status": "complete",
+        "notes": "Makes twelve small pieces. An advanced pulled-sugar recipe requiring a sugar thermometer, heatproof work surface and food-safe heat protection; texture depends on repeated pulling."
+      },
+      "translations": {
+        "hi": {
+          "Soan Papdi": "सोन पापड़ी",
+          "gram flour": "बेसन",
+          "plain wheat flour": "मैदा",
+          "ghee": "घी",
+          "sugar": "चीनी",
+          "water": "पानी",
+          "lemon juice": "नींबू का रस",
+          "cardamom powder": "इलायची पाउडर",
+          "pistachio": "पिस्ता",
+          "Makes twelve small pieces. An advanced pulled-sugar recipe requiring a sugar thermometer, heatproof work surface and food-safe heat protection; texture depends on repeated pulling.": "बारह छोटे टुकड़े बनते हैं। खींची चीनी की कठिन विधि के लिए शुगर थर्मामीटर, तापरोधी सतह और खाद्य-सुरक्षित ताप सुरक्षा चाहिए; बनावट बार-बार खींचने पर निर्भर है।",
+          "Keep the flour paste warm and work steadily; cold sugar snaps instead of forming fine fibres.": "आटे का पेस्ट गरम रखें और लगातार काम करें; ठंडी चीनी महीन रेशे बनने के बजाय टूटती है।",
+          "1 hour cooling and setting": "ठंडा करने और जमाने का 1 घंटा",
+          "Prepare a heatproof silicone mat, two sturdy spatulas and a small greased tin. Sift both flours; use 5 g ghee to grease the mat and tin.": "ताप-सहने वाली सिलिकॉन शीट, दो मजबूत पलटे और छोटा चिकना टिन तैयार करें। दोनों आटे छानें; शीट और टिन पर 5 ग्राम घी लगाएँ।",
+          "Roast both flours in remaining ghee over low heat for 15–18 minutes until nutty and pale golden. Mix in cardamom and keep the flour paste warm.": "बाकी घी में दोनों आटे धीमी आँच पर 15–18 मिनट खुशबूदार हल्के सुनहरे होने तक भूनें। इलायची मिलाकर आटे का पेस्ट गरम रखें।",
+          "Dissolve sugar in water, add lemon juice and boil without stirring to 140°C on a sugar thermometer. Do not test hot syrup with bare fingers.": "पानी में चीनी घोलें, नींबू रस डालें और बिना चलाए शुगर थर्मामीटर पर 140°C तक उबालें। गरम चाशनी नंगी उँगलियों से न जाँचें।",
+          "Pour syrup carefully onto the mat. Using spatulas, fold edges inward as it cools, until the sugar is a pliable mass rather than flowing liquid.": "चाशनी सावधानी से शीट पर डालें। ठंडी होते समय पलटों से किनारे अंदर मोड़ें, जब तक बहते तरल की जगह लचीला गोला बने।",
+          "When safe to handle with food-safe heat-resistant gloves, stretch and fold the sugar until opaque. Form a ring; never touch sugar that still burns through protection.": "खाद्य-सुरक्षित तापरोधी दस्ताने पहनकर सुरक्षित सँभालने योग्य होने पर चीनी खींचें और मोड़ें, जब तक अपारदर्शी हो। छल्ला बनाएँ; सुरक्षा के बावजूद जलाने वाली चीनी न छुएँ।",
+          "Coat the ring with warm roasted flour paste. Stretch wider, twist into a figure eight and fold together; repeat, coating strands with paste each time.": "छल्ले पर गरम भुने आटे का पेस्ट लगाएँ। खींचकर बड़ा करें, आठ का आकार मोड़ें और जोड़ें; हर बार रेशों पर पेस्ट लगाकर दोहराएँ।",
+          "Continue until many fine strands separate and most paste is incorporated. Gather the strands into the tin without crushing them; scatter pistachios and press only lightly.": "बहुत से महीन रेशे अलग होने और अधिकांश पेस्ट मिलने तक करें। रेशे बिना कुचले टिन में रखें; पिस्ते बिखेरकर केवल हल्का दबाएँ।",
+          "Score twelve pieces while just warm and cool fully for 1 hour before lifting. Store airtight in a cool, dry place; moisture makes the strands sticky.": "हल्का गरम रहते बारह टुकड़ों के निशान काटें और उठाने से पहले 1 घंटे पूरी तरह ठंडा करें। ठंडी सूखी जगह बंद डिब्बे में रखें; नमी से रेशे चिपकते हैं।"
+        },
+        "gu": {
+          "Soan Papdi": "સોન પાપડી",
+          "gram flour": "ચણાનો લોટ",
+          "plain wheat flour": "મેંદો",
+          "ghee": "ઘી",
+          "sugar": "ખાંડ",
+          "water": "પાણી",
+          "lemon juice": "લીંબુનો રસ",
+          "cardamom powder": "એલચી પાઉડર",
+          "pistachio": "પિસ્તા",
+          "Makes twelve small pieces. An advanced pulled-sugar recipe requiring a sugar thermometer, heatproof work surface and food-safe heat protection; texture depends on repeated pulling.": "બાર નાના ટુકડા બને છે. ખાંડ ખેંચવાની અઘરી રીત માટે શર્કરા થર્મોમીટર, તાપરોધક સપાટી અને ખાદ્ય માટે સુરક્ષિત તાપ રક્ષણ જોઈએ; રચના વારંવાર ખેંચવા પર આધારિત છે.",
+          "Keep the flour paste warm and work steadily; cold sugar snaps instead of forming fine fibres.": "લોટની પેસ્ટ ગરમ રાખો અને સતત કામ કરો; ઠંડી ખાંડ ઝીણા રેસા થવાને બદલે તૂટે છે.",
+          "1 hour cooling and setting": "ઠંડું થવા અને જામવાનો 1 કલાક",
+          "Prepare a heatproof silicone mat, two sturdy spatulas and a small greased tin. Sift both flours; use 5 g ghee to grease the mat and tin.": "તાપ સહન કરતી સિલિકોન શીટ, બે મજબૂત તવેથા અને નાનું ચોપડેલું ડબ્બું તૈયાર કરો. બંને લોટ ચાળો; શીટ અને ડબ્બા પર 5 ગ્રામ ઘી લગાવો.",
+          "Roast both flours in remaining ghee over low heat for 15–18 minutes until nutty and pale golden. Mix in cardamom and keep the flour paste warm.": "બાકી ઘીમાં બંને લોટ ધીમા તાપે 15–18 મિનિટ સુગંધિત આછા સોનેરી થાય ત્યાં સુધી શેકો. એલચી ભેળવી લોટની પેસ્ટ ગરમ રાખો.",
+          "Dissolve sugar in water, add lemon juice and boil without stirring to 140°C on a sugar thermometer. Do not test hot syrup with bare fingers.": "પાણીમાં ખાંડ ઓગાળો, લીંબુનો રસ ઉમેરો અને હલાવ્યા વગર શર્કરા થર્મોમીટર પર 140°C સુધી ઉકાળો. ગરમ ચાસણી ખુલ્લી આંગળીઓથી ન તપાસો.",
+          "Pour syrup carefully onto the mat. Using spatulas, fold edges inward as it cools, until the sugar is a pliable mass rather than flowing liquid.": "ચાસણી સાવધાનીથી શીટ પર રેડો. ઠંડી થાય ત્યારે તવેથાથી કિનારી અંદર વાળો જેથી વહેતા પ્રવાહીના બદલે લવચીક ગોળો બને.",
+          "When safe to handle with food-safe heat-resistant gloves, stretch and fold the sugar until opaque. Form a ring; never touch sugar that still burns through protection.": "ખાદ્ય માટે સુરક્ષિત તાપરોધક મોજાંથી સલામત રીતે પકડી શકાય ત્યારે ખાંડ ખેંચી વાળો જ્યાં સુધી અપારદર્શક થાય. વીંટી બનાવો; રક્ષણ છતાં દઝાડે એવી ખાંડ ન અડો.",
+          "Coat the ring with warm roasted flour paste. Stretch wider, twist into a figure eight and fold together; repeat, coating strands with paste each time.": "વીંટીને ગરમ શેકેલા લોટની પેસ્ટ લગાવો. ખેંચીને મોટી કરો, આઠના આકારમાં વાળી ભેગી કરો; દરેક વખતે રેસાને પેસ્ટ લગાવી ફરી કરો.",
+          "Continue until many fine strands separate and most paste is incorporated. Gather the strands into the tin without crushing them; scatter pistachios and press only lightly.": "ઘણા ઝીણા રેસા છૂટા પડે અને મોટાભાગની પેસ્ટ ભળી જાય ત્યાં સુધી કરો. રેસા કચડ્યા વગર ડબ્બામાં ભેગા કરો; પિસ્તા છાંટી માત્ર હળવા દબાવો.",
+          "Score twelve pieces while just warm and cool fully for 1 hour before lifting. Store airtight in a cool, dry place; moisture makes the strands sticky.": "સહેજ ગરમ હોય ત્યારે બાર ટુકડાના કાપા કરો અને ઉઠાવતાં પહેલાં 1 કલાક પૂરા ઠંડા કરો. ઠંડી સૂકી જગ્યાએ હવાચુસ્ત ડબ્બામાં રાખો; ભેજથી રેસા ચોંટે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Alwar ka Mawa"
+      ],
+      "dish": {
+        "id": "milk-cake",
+        "canonicalId": "milk-cake",
+        "name": "Milk Cake",
+        "cuisine": "Rajasthani",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "whole milk",
+          "sugar",
+          "ghee",
+          "lemon juice",
+          "water",
+          "cardamom powder",
+          "pistachio"
+        ],
+        "method": "dessert",
+        "time": 95,
+        "effort": "special",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "milk-cake",
+        "name": "Milk Cake",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "whole milk",
+            "qty": 1500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 120,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 10,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "pistachio",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Grease a small deep metal tin with a little measured ghee. Mix lemon juice with the water. Use a wide heavy pan so milk can reduce without scorching.",
+          "Bring milk to a boil, then simmer for 35–45 minutes, stirring and scraping the base and sides, until roughly half remains. Keep returning the soft milk solids to the pan.",
+          "Add diluted lemon gradually while stirring until small grains form in the thick milk. Stop adding once grainy; do not separate it into dry curds and clear whey.",
+          "Add sugar and cook over low heat for 20–30 minutes, stirring constantly as it thickens. Add the remaining ghee gradually; the mixture should become beige, grainy and pull away from the pan.",
+          "Mix in cardamom and pack firmly into the greased tin; scatter chopped pistachio on top. Cover loosely and cool for 45 minutes, then refrigerate until firm for at least 2 hours.",
+          "Unmould with a thin knife and cut into small pieces. The texture should be moist and granular, with a deeper colour possible in the centre; keep leftovers refrigerated."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 95,
+        "passiveTime": "Cool for 45 minutes, then chill for at least 2 hours.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Milk Cake": "मिल्क केक",
+          "whole milk": "पूर्ण वसा दूध",
+          "sugar": "चीनी",
+          "ghee": "घी",
+          "lemon juice": "नींबू का रस",
+          "water": "पानी",
+          "cardamom powder": "इलायची पाउडर",
+          "pistachio": "पिस्ता",
+          "Grease a small deep metal tin with a little measured ghee. Mix lemon juice with the water. Use a wide heavy pan so milk can reduce without scorching.": "नापे घी से छोटा गहरा धातु का डिब्बा चिकना करें। नींबू पानी में मिलाएँ। दूध बिना जले घटाने के लिए चौड़ी भारी कड़ाही लें।",
+          "Bring milk to a boil, then simmer for 35–45 minutes, stirring and scraping the base and sides, until roughly half remains. Keep returning the soft milk solids to the pan.": "दूध उबालकर 35–45 मिनट धीमे चलाते और तली-किनारे खुरचते पकाएँ, लगभग आधा बचे। नरम मलाई वापस मिलाते रहें।",
+          "Add diluted lemon gradually while stirring until small grains form in the thick milk. Stop adding once grainy; do not separate it into dry curds and clear whey.": "पतला नींबू धीरे चलाते डालें, जब तक गाढ़े दूध में छोटे दाने बनें। दाने बनते ही रोकें; सूखे छेने और साफ मट्ठे में अलग न करें।",
+          "Add sugar and cook over low heat for 20–30 minutes, stirring constantly as it thickens. Add the remaining ghee gradually; the mixture should become beige, grainy and pull away from the pan.": "चीनी डालकर धीमी आँच पर 20–30 मिनट गाढ़ा होते समय लगातार चलाएँ। बाकी घी धीरे डालें; मिश्रण हल्का भूरा, दानेदार और पैन छोड़ने वाला हो।",
+          "Mix in cardamom and pack firmly into the greased tin; scatter chopped pistachio on top. Cover loosely and cool for 45 minutes, then refrigerate until firm for at least 2 hours.": "इलायची मिलाकर चिकने डिब्बे में कसकर भरें और पिस्ता डालें। ढीला ढककर 45 मिनट ठंडा करें, फिर कम से कम 2 घंटे फ्रिज में जमाएँ।",
+          "Unmould with a thin knife and cut into small pieces. The texture should be moist and granular, with a deeper colour possible in the centre; keep leftovers refrigerated.": "पतले चाकू से निकालकर छोटे टुकड़े काटें। बनावट नम और दानेदार हो, बीच में रंग गहरा हो सकता है; बचा हुआ फ्रिज में रखें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Cool for 45 minutes, then chill for at least 2 hours.": "45 मिनट ठंडा करें, फिर कम से कम 2 घंटे फ्रिज में रखें।"
+        },
+        "gu": {
+          "Milk Cake": "મિલ્ક કેક",
+          "whole milk": "પૂર્ણ ચરબીવાળું દૂધ",
+          "sugar": "ખાંડ",
+          "ghee": "ઘી",
+          "lemon juice": "લીંબુનો રસ",
+          "water": "પાણી",
+          "cardamom powder": "એલચીનો ભૂકો",
+          "pistachio": "પિસ્તા",
+          "Grease a small deep metal tin with a little measured ghee. Mix lemon juice with the water. Use a wide heavy pan so milk can reduce without scorching.": "નાપેલા ઘીથી નાનો ઊંડો ધાતુનો ડબ્બો ચોપડો. લીંબુ પાણીમાં ભેળવો. દૂધ બળ્યા વગર ઘટે તે માટે પહોળી ભારે કડાઈ લો.",
+          "Bring milk to a boil, then simmer for 35–45 minutes, stirring and scraping the base and sides, until roughly half remains. Keep returning the soft milk solids to the pan.": "દૂધ ઉકાળી 35–45 મિનિટ ધીમે હલાવતાં અને તળિયા-કિનારા ખોતરતાં પકાવો, લગભગ અડધું રહે. નરમ મલાઈ પાછી ભેળવતાં રહો.",
+          "Add diluted lemon gradually while stirring until small grains form in the thick milk. Stop adding once grainy; do not separate it into dry curds and clear whey.": "પાતળું લીંબુ હલાવતાં ધીમે ઉમેરો જેથી ઘટ્ટ દૂધમાં નાના દાણા બને. દાણા બનતાં અટકો; સૂકા છાશિયા અને સાફ પાણીમાં અલગ ન કરો.",
+          "Add sugar and cook over low heat for 20–30 minutes, stirring constantly as it thickens. Add the remaining ghee gradually; the mixture should become beige, grainy and pull away from the pan.": "ખાંડ નાખી ધીમા તાપે 20–30 મિનિટ ઘટ્ટ થતાં સતત હલાવો. બાકી ઘી ધીમે નાખો; મિશ્રણ આછું ભૂરું, દાણેદાર અને પેન છોડતું બને.",
+          "Mix in cardamom and pack firmly into the greased tin; scatter chopped pistachio on top. Cover loosely and cool for 45 minutes, then refrigerate until firm for at least 2 hours.": "એલચી ભેળવી ચોપડેલા ડબ્બામાં દબાવી ભરો અને પિસ્તા નાખો. ઢીલું ઢાંકી 45 મિનિટ ઠંડું કરો, પછી ઓછામાં ઓછા 2 કલાક ફ્રિજમાં જમાવો.",
+          "Unmould with a thin knife and cut into small pieces. The texture should be moist and granular, with a deeper colour possible in the centre; keep leftovers refrigerated.": "પાતળી છરીથી કાઢી નાના ટુકડા કાપો. બનાવટ ભેજવાળી અને દાણેદાર હોય, વચ્ચે રંગ ઘેરો થઈ શકે; વધેલું ફ્રિજમાં રાખો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Cool for 45 minutes, then chill for at least 2 hours.": "45 મિનિટ ઠંડું કરો, પછી ઓછામાં ઓછા 2 કલાક ફ્રિજમાં રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Karanji",
+        "Ghughra"
+      ],
+      "dish": {
+        "id": "gujiya",
+        "canonicalId": "gujiya",
+        "name": "Gujiya",
+        "cuisine": "North Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "plain flour",
+          "ghee",
+          "water",
+          "unsweetened mawa",
+          "desiccated coconut",
+          "powdered sugar",
+          "almond",
+          "raisins",
+          "cardamom powder",
+          "oil for frying"
+        ],
+        "method": "dessert",
+        "time": 65,
+        "effort": "special",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "gujiya",
+        "name": "Gujiya",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 200,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 40,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 80,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "unsweetened mawa",
+            "qty": 120,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "desiccated coconut",
+            "qty": 30,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "powdered sugar",
+            "qty": 50,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "almond",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "raisins",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil for frying",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rub 30 g ghee into the flour until it resembles breadcrumbs and holds when squeezed. Add water gradually to form a firm dough; cover and rest for 25 minutes.",
+          "Crumble mawa and roast in the remaining ghee over low heat for 5–7 minutes until fragrant and slightly dry. Add coconut and chopped almonds for 1 minute, then cool completely.",
+          "Stir sugar, raisins and cardamom into the cool filling. Divide dough into 8 balls and roll each into a thin disc, keeping the unused dough covered to prevent drying.",
+          "Divide filling between discs, leaving a clean border. Moisten the rim lightly with water, fold into a half-moon and press and crimp firmly; trapped filling at the seam can make it open.",
+          "Heat frying oil to about 160°C in a deep pan no more than half full. Fry in batches for 12–15 minutes, turning gently, until evenly golden and the pastry feels crisp.",
+          "Drain on a rack and cool before serving; the filling stays very hot. Frying oil is a cooking medium, not an amount to consume. Refrigerate cooled leftovers because the filling contains dairy."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": "Rest dough for 25 minutes; cool the filling completely before shaping.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Gujiya": "गुजिया",
+          "plain flour": "मैदा",
+          "ghee": "घी",
+          "water": "पानी",
+          "unsweetened mawa": "बिना चीनी का मावा",
+          "desiccated coconut": "सूखा नारियल बुरादा",
+          "powdered sugar": "पिसी चीनी",
+          "almond": "बादाम",
+          "raisins": "किशमिश",
+          "cardamom powder": "इलायची पाउडर",
+          "oil for frying": "तलने का तेल",
+          "Rub 30 g ghee into the flour until it resembles breadcrumbs and holds when squeezed. Add water gradually to form a firm dough; cover and rest for 25 minutes.": "आटे में 30 ग्राम घी रगड़ें, दबाने पर मुट्ठी बँधे। पानी धीरे डालकर कड़ा आटा बनाएँ; ढककर 25 मिनट रखें।",
+          "Crumble mawa and roast in the remaining ghee over low heat for 5–7 minutes until fragrant and slightly dry. Add coconut and chopped almonds for 1 minute, then cool completely.": "मावा मसलकर बाकी घी में धीमे 5–7 मिनट खुशबूदार और थोड़ा सूखा भूनें। नारियल और कटे बादाम 1 मिनट भूनें, फिर पूरा ठंडा करें।",
+          "Stir sugar, raisins and cardamom into the cool filling. Divide dough into 8 balls and roll each into a thin disc, keeping the unused dough covered to prevent drying.": "ठंडी भरावन में चीनी, किशमिश और इलायची मिलाएँ। आटे के 8 गोले बनाकर पतली पूरी बेलें; बाकी आटा ढका रखें ताकि सूखे नहीं।",
+          "Divide filling between discs, leaving a clean border. Moisten the rim lightly with water, fold into a half-moon and press and crimp firmly; trapped filling at the seam can make it open.": "भरावन बाँटें और किनारा खाली रखें। किनारे पर हल्का पानी लगाकर आधा मोड़ें और दबाकर अच्छी तरह मोड़दार बंद करें; जोड़ में भरावन हो तो खुल सकती है।",
+          "Heat frying oil to about 160°C in a deep pan no more than half full. Fry in batches for 12–15 minutes, turning gently, until evenly golden and the pastry feels crisp.": "आधे से अधिक न भरे गहरे पैन में तेल लगभग 160°C गरम करें। थोड़ी-थोड़ी गुजिया 12–15 मिनट धीरे पलटते सुनहरी और कुरकुरी तलें।",
+          "Drain on a rack and cool before serving; the filling stays very hot. Frying oil is a cooking medium, not an amount to consume. Refrigerate cooled leftovers because the filling contains dairy.": "जाली पर निकालकर ठंडा परोसें; भरावन बहुत गरम रहती है। तलने का तेल पकाने का माध्यम है, पूरा खाने की मात्रा नहीं। दूध वाली भरावन के कारण ठंडे बचे टुकड़े फ्रिज में रखें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Rest dough for 25 minutes; cool the filling completely before shaping.": "आटा 25 मिनट रखें; भरने से पहले भरावन पूरी ठंडी करें।"
+        },
+        "gu": {
+          "Gujiya": "ઘૂઘરા",
+          "plain flour": "મેંદો",
+          "ghee": "ઘી",
+          "water": "પાણી",
+          "unsweetened mawa": "ખાંડ વગરનો માવો",
+          "desiccated coconut": "સૂકું નાળિયેરનું છીણ",
+          "powdered sugar": "દળેલી ખાંડ",
+          "almond": "બદામ",
+          "raisins": "કિસમિસ",
+          "cardamom powder": "એલચીનો ભૂકો",
+          "oil for frying": "તળવા માટે તેલ",
+          "Rub 30 g ghee into the flour until it resembles breadcrumbs and holds when squeezed. Add water gradually to form a firm dough; cover and rest for 25 minutes.": "લોટમાં 30 ગ્રામ ઘી મસળો, દબાવતાં મુઠ્ઠી વળે. પાણી ધીમે નાખી કઠણ લોટ બાંધો; ઢાંકી 25 મિનિટ રાખો.",
+          "Crumble mawa and roast in the remaining ghee over low heat for 5–7 minutes until fragrant and slightly dry. Add coconut and chopped almonds for 1 minute, then cool completely.": "માવો મસળી બાકી ઘીમાં ધીમે 5–7 મિનિટ સુગંધિત અને થોડો સૂકો શેકો. નાળિયેર અને કાપેલા બદામ 1 મિનિટ શેકી પછી પૂરો ઠંડો કરો.",
+          "Stir sugar, raisins and cardamom into the cool filling. Divide dough into 8 balls and roll each into a thin disc, keeping the unused dough covered to prevent drying.": "ઠંડા પૂરણમાં ખાંડ, કિસમિસ અને એલચી ભેળવો. લોટના 8 ગોળા બનાવી પાતળી પૂરી વણો; બાકી લોટ ઢાંકેલો રાખો જેથી સૂકાય નહીં.",
+          "Divide filling between discs, leaving a clean border. Moisten the rim lightly with water, fold into a half-moon and press and crimp firmly; trapped filling at the seam can make it open.": "પૂરણ વહેંચી કિનારી ખાલી રાખો. કિનારે હળવું પાણી લગાવી અડધું વાળી દબાવી સારી રીતે વળ ચડાવી બંધ કરો; સાંધામાં પૂરણ હોય તો ખૂલી શકે.",
+          "Heat frying oil to about 160°C in a deep pan no more than half full. Fry in batches for 12–15 minutes, turning gently, until evenly golden and the pastry feels crisp.": "અડધાથી વધુ ન ભરેલા ઊંડા પેનમાં તેલ લગભગ 160°C ગરમ કરો. થોડા-થોડા ઘૂઘરા 12–15 મિનિટ હળવે ફેરવી સોનેરી અને કરકરા તળો.",
+          "Drain on a rack and cool before serving; the filling stays very hot. Frying oil is a cooking medium, not an amount to consume. Refrigerate cooled leftovers because the filling contains dairy.": "જાળી પર કાઢી ઠંડા પીરસો; પૂરણ બહુ ગરમ રહે છે. તળવાનું તેલ રાંધવાનું માધ્યમ છે, આખું ખાવાની માત્રા નથી. દૂધવાળા પૂરણને કારણે ઠંડા વધેલા ટુકડા ફ્રિજમાં રાખો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Rest dough for 25 minutes; cool the filling completely before shaping.": "લોટ 25 મિનિટ રાખો; ભરતાં પહેલાં પૂરણ પૂરું ઠંડું કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Ukadiche Modak"
+      ],
+      "dish": {
+        "id": "modak",
+        "canonicalId": "modak",
+        "name": "Modak",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "rice flour",
+          "water",
+          "ghee",
+          "fresh coconut",
+          "jaggery",
+          "cardamom powder",
+          "salt"
+        ],
+        "method": "dessert",
+        "time": 55,
+        "effort": "special",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "modak",
+        "name": "Modak",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "rice flour",
+            "qty": 180,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 250,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 15,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh coconut",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "jaggery",
+            "qty": 110,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Grate coconut and jaggery. Heat 5 g ghee, add both and cook over medium-low heat for 6–8 minutes until melted together and moist but not watery. Add cardamom and cool.",
+          "Boil the measured water with salt and 5 g ghee. Turn heat low, add rice flour all at once and stir firmly until no dry flour remains; cover off heat for 5 minutes.",
+          "When warm enough to handle, knead the dough until smooth, using damp hands. Divide into 8 balls and keep covered; if edges crack when pressed, knead in a few drops of warm water.",
+          "Use the remaining ghee on hands and steamer plate. Flatten each ball into a cup, add an equal share of filling, pleat the rim and bring the pleats together into a sealed pointed top.",
+          "Bring separate steamer water to a boil below the plate, without touching the modaks. Steam covered for 12–15 minutes until the shells look slightly glossy and feel set.",
+          "Rest off heat for 5 minutes before lifting with a damp spoon. Serve warm, taking care with the hot filling; refrigerate any cooled leftovers."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": "Rest dough for 5 minutes and steamed modaks for 5 minutes.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Modak": "मोदक",
+          "rice flour": "चावल का आटा",
+          "water": "पानी",
+          "ghee": "घी",
+          "fresh coconut": "ताजा नारियल",
+          "jaggery": "गुड़",
+          "cardamom powder": "इलायची पाउडर",
+          "salt": "नमक",
+          "Grate coconut and jaggery. Heat 5 g ghee, add both and cook over medium-low heat for 6–8 minutes until melted together and moist but not watery. Add cardamom and cool.": "नारियल और गुड़ कद्दूकस करें। 5 ग्राम घी में दोनों 6–8 मिनट मध्यम-धीमी आँच पर पकाएँ, पिघलकर नम रहें पर पानी न हो। इलायची डालकर ठंडा करें।",
+          "Boil the measured water with salt and 5 g ghee. Turn heat low, add rice flour all at once and stir firmly until no dry flour remains; cover off heat for 5 minutes.": "नापे पानी में नमक और 5 ग्राम घी उबालें। आँच धीमी करके चावल का आटा एक साथ डालें और सूखा आटा न रहने तक चलाएँ; आँच से हटाकर 5 मिनट ढकें।",
+          "When warm enough to handle, knead the dough until smooth, using damp hands. Divide into 8 balls and keep covered; if edges crack when pressed, knead in a few drops of warm water.": "हाथ से संभालने लायक गरम हो तब गीले हाथों से चिकना गूँधें। 8 गोले बनाकर ढकें; दबाने पर किनारे फटें तो थोड़ा गरम पानी गूँधें।",
+          "Use the remaining ghee on hands and steamer plate. Flatten each ball into a cup, add an equal share of filling, pleat the rim and bring the pleats together into a sealed pointed top.": "बाकी घी हाथों और स्टीमर की प्लेट पर लगाएँ। हर गोले की कटोरी बनाकर बराबर भरावन डालें, किनारे की कलियाँ बनाकर ऊपर जोड़ें और नोक बंद करें।",
+          "Bring separate steamer water to a boil below the plate, without touching the modaks. Steam covered for 12–15 minutes until the shells look slightly glossy and feel set.": "प्लेट के नीचे अलग पानी उबालें, मोदक पानी को न छुएँ। ढककर 12–15 मिनट भाप दें, जब तक खोल थोड़ा चमकदार और जमा लगे।",
+          "Rest off heat for 5 minutes before lifting with a damp spoon. Serve warm, taking care with the hot filling; refrigerate any cooled leftovers.": "आँच से हटाकर 5 मिनट रखें, फिर गीले चम्मच से उठाएँ। गरम भरावन से सावधान रहते गुनगुने परोसें; ठंडे बचे मोदक फ्रिज में रखें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Rest dough for 5 minutes and steamed modaks for 5 minutes.": "आटा 5 मिनट और भाप दिए मोदक 5 मिनट रखें।"
+        },
+        "gu": {
+          "Modak": "મોદક",
+          "rice flour": "ચોખાનો લોટ",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "fresh coconut": "તાજું નાળિયેર",
+          "jaggery": "ગોળ",
+          "cardamom powder": "એલચીનો ભૂકો",
+          "salt": "મીઠું",
+          "Grate coconut and jaggery. Heat 5 g ghee, add both and cook over medium-low heat for 6–8 minutes until melted together and moist but not watery. Add cardamom and cool.": "નાળિયેર અને ગોળ છીણો. 5 ગ્રામ ઘીમાં બંને 6–8 મિનિટ મધ્યમ-ધીમા તાપે પકાવો, ઓગળી ભીનાં રહે પણ પાણી ન હોય. એલચી નાખી ઠંડું કરો.",
+          "Boil the measured water with salt and 5 g ghee. Turn heat low, add rice flour all at once and stir firmly until no dry flour remains; cover off heat for 5 minutes.": "નાપેલા પાણીમાં મીઠું અને 5 ગ્રામ ઘી ઉકાળો. તાપ ધીમો કરી ચોખાનો લોટ એક સાથે નાખી સૂકો લોટ ન રહે ત્યાં સુધી હલાવો; તાપ પરથી ઉતારી 5 મિનિટ ઢાંકો.",
+          "When warm enough to handle, knead the dough until smooth, using damp hands. Divide into 8 balls and keep covered; if edges crack when pressed, knead in a few drops of warm water.": "હાથથી સંભાળી શકાય એટલો ગરમ થાય ત્યારે ભીના હાથથી સુંવાળો મસળો. 8 ગોળા બનાવી ઢાંકો; દબાવતાં કિનારા ફાટે તો થોડું ગરમ પાણી મસળો.",
+          "Use the remaining ghee on hands and steamer plate. Flatten each ball into a cup, add an equal share of filling, pleat the rim and bring the pleats together into a sealed pointed top.": "બાકી ઘી હાથ અને સ્ટીમરની થાળી પર લગાવો. દરેક ગોળાની વાટકી બનાવી સરખું પૂરણ નાખો, કિનારાની કળીઓ કરી ઉપર ભેગી કરી અણી બંધ કરો.",
+          "Bring separate steamer water to a boil below the plate, without touching the modaks. Steam covered for 12–15 minutes until the shells look slightly glossy and feel set.": "થાળી નીચે અલગ પાણી ઉકાળો, મોદક પાણી અડે નહીં. ઢાંકી 12–15 મિનિટ વરાળ આપો, બહારનું પડ થોડું ચળકતું અને જામેલું થાય ત્યાં સુધી.",
+          "Rest off heat for 5 minutes before lifting with a damp spoon. Serve warm, taking care with the hot filling; refrigerate any cooled leftovers.": "તાપ પરથી ઉતારી 5 મિનિટ રાખી ભીના ચમચાથી ઉપાડો. ગરમ પૂરણથી સાવચેત રહી હૂંફાળા પીરસો; ઠંડા વધેલા મોદક ફ્રિજમાં રાખો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Rest dough for 5 minutes and steamed modaks for 5 minutes.": "લોટ 5 મિનિટ અને વરાળ આપેલા મોદક 5 મિનિટ રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Nariyal Barfi",
+        "Topra Pak"
+      ],
+      "dish": {
+        "id": "coconut-barfi",
+        "canonicalId": "coconut-barfi",
+        "name": "Coconut Barfi",
+        "cuisine": "Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "fresh coconut",
+          "whole milk",
+          "sugar",
+          "ghee",
+          "cardamom powder",
+          "pistachio"
+        ],
+        "method": "dessert",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "coconut-barfi",
+        "name": "Coconut Barfi",
+        "baseServings": 4,
+        "batchSize": 40,
+        "ingredients": [
+          {
+            "name": "fresh coconut",
+            "qty": 250,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "whole milk",
+            "qty": 250,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 140,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 15,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "pistachio",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Grease a small shallow tray with a little measured ghee. Finely grate the white coconut flesh, avoiding large hard pieces, and chop the pistachio.",
+          "Put coconut and milk in a heavy pan and cook over medium-low heat for 10–12 minutes, stirring, until coconut softens and most loose milk has evaporated.",
+          "Add sugar and the remaining ghee. The mixture will loosen first; keep stirring for 12–18 minutes until it forms a cohesive mass that leaves the sides, without browning.",
+          "Stir in cardamom. Spread promptly in the greased tray, flatten with a greased spoon and press pistachio onto the surface. Score into small squares while still warm.",
+          "Cool for 30 minutes, then refrigerate for 1 hour to set before separating the pieces. Keep chilled in a covered container because fresh coconut and milk spoil quickly."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": "Cool for 30 minutes, then refrigerate for 1 hour.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Coconut Barfi": "नारियल बर्फी",
+          "fresh coconut": "ताजा नारियल",
+          "whole milk": "पूर्ण वसा दूध",
+          "sugar": "चीनी",
+          "ghee": "घी",
+          "cardamom powder": "इलायची पाउडर",
+          "pistachio": "पिस्ता",
+          "Grease a small shallow tray with a little measured ghee. Finely grate the white coconut flesh, avoiding large hard pieces, and chop the pistachio.": "नापे घी से छोटी उथली थाली चिकनी करें। नारियल का सफेद गूदा बारीक कद्दूकस करें, बड़े सख्त टुकड़े न रखें, और पिस्ता काटें।",
+          "Put coconut and milk in a heavy pan and cook over medium-low heat for 10–12 minutes, stirring, until coconut softens and most loose milk has evaporated.": "भारी पैन में नारियल और दूध मध्यम-धीमी आँच पर 10–12 मिनट चलाते पकाएँ, नारियल नरम हो और अधिकतर खुला दूध सूख जाए।",
+          "Add sugar and the remaining ghee. The mixture will loosen first; keep stirring for 12–18 minutes until it forms a cohesive mass that leaves the sides, without browning.": "चीनी और बाकी घी डालें। मिश्रण पहले ढीला होगा; 12–18 मिनट चलाएँ जब तक एक साथ आए और किनारे छोड़े, भूरा न हो।",
+          "Stir in cardamom. Spread promptly in the greased tray, flatten with a greased spoon and press pistachio onto the surface. Score into small squares while still warm.": "इलायची मिलाएँ। तुरंत चिकनी थाली में फैलाकर घी लगे चम्मच से समतल करें और पिस्ता दबाएँ। गरम रहते छोटे चौकोर निशान काटें।",
+          "Cool for 30 minutes, then refrigerate for 1 hour to set before separating the pieces. Keep chilled in a covered container because fresh coconut and milk spoil quickly.": "30 मिनट ठंडा करके 1 घंटे फ्रिज में जमाएँ, फिर टुकड़े अलग करें। ताजा नारियल और दूध जल्दी खराब होते हैं, इसलिए ढके डिब्बे में फ्रिज में रखें।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Cool for 30 minutes, then refrigerate for 1 hour.": "30 मिनट ठंडा करके 1 घंटे फ्रिज में रखें।"
+        },
+        "gu": {
+          "Coconut Barfi": "નાળિયેર બરફી",
+          "fresh coconut": "તાજું નાળિયેર",
+          "whole milk": "પૂર્ણ ચરબીવાળું દૂધ",
+          "sugar": "ખાંડ",
+          "ghee": "ઘી",
+          "cardamom powder": "એલચીનો ભૂકો",
+          "pistachio": "પિસ્તા",
+          "Grease a small shallow tray with a little measured ghee. Finely grate the white coconut flesh, avoiding large hard pieces, and chop the pistachio.": "નાપેલા ઘીથી નાની છીછરી થાળી ચોપડો. નાળિયેરનો સફેદ ગર બારીક છીણો, મોટા કઠણ ટુકડા ન રાખો, અને પિસ્તા કાપો.",
+          "Put coconut and milk in a heavy pan and cook over medium-low heat for 10–12 minutes, stirring, until coconut softens and most loose milk has evaporated.": "ભારે પેનમાં નાળિયેર અને દૂધ મધ્યમ-ધીમા તાપે 10–12 મિનિટ હલાવતાં પકાવો, નાળિયેર નરમ થાય અને મોટાભાગનું છૂટું દૂધ સૂકાય.",
+          "Add sugar and the remaining ghee. The mixture will loosen first; keep stirring for 12–18 minutes until it forms a cohesive mass that leaves the sides, without browning.": "ખાંડ અને બાકી ઘી નાખો. મિશ્રણ પહેલાં ઢીલું થશે; 12–18 મિનિટ હલાવો જેથી એકસાથે થાય અને કિનારા છોડે, ભૂરું ન થાય.",
+          "Stir in cardamom. Spread promptly in the greased tray, flatten with a greased spoon and press pistachio onto the surface. Score into small squares while still warm.": "એલચી ભેળવો. તરત ચોપડેલી થાળીમાં પાથરી ઘીવાળા ચમચાથી સમતલ કરો અને પિસ્તા દબાવો. ગરમ હોય ત્યારે નાના ચોરસ કાપાના નિશાન કરો.",
+          "Cool for 30 minutes, then refrigerate for 1 hour to set before separating the pieces. Keep chilled in a covered container because fresh coconut and milk spoil quickly.": "30 મિનિટ ઠંડું કરી 1 કલાક ફ્રિજમાં જમાવો, પછી ટુકડા અલગ કરો. તાજું નાળિયેર અને દૂધ જલદી બગડે છે, તેથી ઢાંકેલા ડબ્બામાં ફ્રિજમાં રાખો.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Cool for 30 minutes, then refrigerate for 1 hour.": "30 મિનિટ ઠંડું કરી 1 કલાક ફ્રિજમાં રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Badusha"
+      ],
+      "dish": {
+        "id": "balushahi",
+        "canonicalId": "balushahi",
+        "name": "Balushahi",
+        "cuisine": "North Indian",
+        "categories": [
+          "Indian Sweets",
+          "Desserts",
+          "Festival Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "plain flour",
+          "ghee",
+          "plain curd",
+          "baking soda",
+          "water",
+          "sugar",
+          "lemon juice",
+          "cardamom powder",
+          "oil for frying"
+        ],
+        "method": "dessert",
+        "time": 65,
+        "effort": "special",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "yeast": false,
+          "overnightFermentation": false
+        }
+      },
+      "recipe": {
+        "id": "balushahi",
+        "name": "Balushahi",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 200,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 60,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "plain curd",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 160,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 200,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 5,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cardamom powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil for frying",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Mix flour and baking soda, then rub in ghee until crumbly. Fold in curd and up to 40 ml of the measured water just until a rough dough forms; do not knead smooth.",
+          "Cover and rest for 25 minutes. Divide into 8 pieces, shape gently into thick rounds and make a shallow central dent; retain the fine surface cracks that create flaky layers.",
+          "Dissolve sugar in the remaining 120 ml water and bring to a simmer. Cook until a cooled drop feels sticky and forms a thin thread when stretched; stir in lemon juice and cardamom and keep warm.",
+          "Heat frying oil to 140–150°C in a deep pan no more than half full. Lower in a batch carefully and fry slowly for 20–25 minutes, turning occasionally, until puffed and evenly golden.",
+          "Drain on a rack and let stand for 5 minutes. Break one test piece to check the centre is cooked and layered, not a wet flour paste; continue frying if necessary.",
+          "Dip the warm pieces in warm syrup for 2 minutes on each side. Lift onto a rack and cool until the glaze sets; the listed frying oil is a cooking medium, not a serving quantity."
+        ],
+        "tips": [],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": "Rest dough for 25 minutes; cool glazed sweets until set.",
+        "notes": "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices."
+      },
+      "translations": {
+        "hi": {
+          "Balushahi": "बालूशाही",
+          "plain flour": "मैदा",
+          "ghee": "घी",
+          "plain curd": "सादा दही",
+          "baking soda": "बेकिंग सोडा",
+          "water": "पानी",
+          "sugar": "चीनी",
+          "lemon juice": "नींबू का रस",
+          "cardamom powder": "इलायची पाउडर",
+          "oil for frying": "तलने का तेल",
+          "Mix flour and baking soda, then rub in ghee until crumbly. Fold in curd and up to 40 ml of the measured water just until a rough dough forms; do not knead smooth.": "आटा और सोडा मिलाकर घी रगड़ें। दही और नापे पानी में से अधिकतम 40 मिली डालकर बस खुरदरा आटा जोड़ें; चिकना न गूँधें।",
+          "Cover and rest for 25 minutes. Divide into 8 pieces, shape gently into thick rounds and make a shallow central dent; retain the fine surface cracks that create flaky layers.": "ढककर 25 मिनट रखें। 8 हिस्सों के मोटे गोल बनाकर बीच में हल्का गड्ढा करें; परतों के लिए सतह की बारीक दरारें रहने दें।",
+          "Dissolve sugar in the remaining 120 ml water and bring to a simmer. Cook until a cooled drop feels sticky and forms a thin thread when stretched; stir in lemon juice and cardamom and keep warm.": "बाकी 120 मिली पानी में चीनी घोलकर उबालें। ठंडी बूँद चिपचिपी होकर खींचने पर पतला तार बनाए तब नींबू और इलायची मिलाकर गुनगुना रखें।",
+          "Heat frying oil to 140–150°C in a deep pan no more than half full. Lower in a batch carefully and fry slowly for 20–25 minutes, turning occasionally, until puffed and evenly golden.": "आधे से अधिक न भरे गहरे पैन में तेल 140–150°C गरम करें। थोड़ी बालूशाही सावधानी से डालकर 20–25 मिनट धीमे बीच में पलटते फूली और सुनहरी तलें।",
+          "Drain on a rack and let stand for 5 minutes. Break one test piece to check the centre is cooked and layered, not a wet flour paste; continue frying if necessary.": "जाली पर निकालकर 5 मिनट रखें। एक टुकड़ा तोड़कर जाँचें कि बीच पका और परतदार हो, गीला आटा नहीं; जरूरत हो तो और तलें।",
+          "Dip the warm pieces in warm syrup for 2 minutes on each side. Lift onto a rack and cool until the glaze sets; the listed frying oil is a cooking medium, not a serving quantity.": "गुनगुने टुकड़ों को गुनगुनी चाशनी में हर तरफ 2 मिनट डुबोएँ। जाली पर निकालकर परत जमने तक ठंडा करें; तलने का तेल पकाने का माध्यम है, परोसने की मात्रा नहीं।",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "मूल विधि 4 वयस्कों के लिए। पकाने का समय अनुमानित है; बनावट और पकने के संकेत देखें। जैन उपयुक्तता आपकी सहेजी सामग्री की पसंद के अनुसार है।",
+          "Rest dough for 25 minutes; cool glazed sweets until set.": "आटा 25 मिनट रखें; चाशनी लगे टुकड़े जमने तक ठंडे करें।"
+        },
+        "gu": {
+          "Balushahi": "બાલુશાહી",
+          "plain flour": "મેંદો",
+          "ghee": "ઘી",
+          "plain curd": "સાદું દહીં",
+          "baking soda": "બેકિંગ સોડા",
+          "water": "પાણી",
+          "sugar": "ખાંડ",
+          "lemon juice": "લીંબુનો રસ",
+          "cardamom powder": "એલચીનો ભૂકો",
+          "oil for frying": "તળવા માટે તેલ",
+          "Mix flour and baking soda, then rub in ghee until crumbly. Fold in curd and up to 40 ml of the measured water just until a rough dough forms; do not knead smooth.": "લોટ અને સોડા ભેળવી ઘી મસળો. દહીં અને નાપેલા પાણીમાંથી વધુમાં વધુ 40 મિલી નાખી બસ ખરબચડો લોટ ભેગો કરો; સુંવાળો ન મસળો.",
+          "Cover and rest for 25 minutes. Divide into 8 pieces, shape gently into thick rounds and make a shallow central dent; retain the fine surface cracks that create flaky layers.": "ઢાંકી 25 મિનિટ રાખો. 8 ભાગના જાડા ગોળ બનાવી વચ્ચે હળવો ખાડો કરો; પડ માટે સપાટીની ઝીણી તિરાડો રહેવા દો.",
+          "Dissolve sugar in the remaining 120 ml water and bring to a simmer. Cook until a cooled drop feels sticky and forms a thin thread when stretched; stir in lemon juice and cardamom and keep warm.": "બાકી 120 મિલી પાણીમાં ખાંડ ઓગાળી ઉકાળો. ઠંડું ટીપું ચીકણું થઈ ખેંચતાં પાતળો તાર બને ત્યારે લીંબુ અને એલચી ભેળવી હૂંફાળું રાખો.",
+          "Heat frying oil to 140–150°C in a deep pan no more than half full. Lower in a batch carefully and fry slowly for 20–25 minutes, turning occasionally, until puffed and evenly golden.": "અડધાથી વધુ ન ભરેલા ઊંડા પેનમાં તેલ 140–150°C ગરમ કરો. થોડી બાલુશાહી સાચવી નાખી 20–25 મિનિટ ધીમે વચ્ચે ફેરવતાં ફૂલેલી અને સોનેરી તળો.",
+          "Drain on a rack and let stand for 5 minutes. Break one test piece to check the centre is cooked and layered, not a wet flour paste; continue frying if necessary.": "જાળી પર કાઢી 5 મિનિટ રાખો. એક ટુકડો તોડી તપાસો કે અંદર પાકેલું અને પડવાળું હોય, ભીનો લોટ નહીં; જરૂર હોય તો વધુ તળો.",
+          "Dip the warm pieces in warm syrup for 2 minutes on each side. Lift onto a rack and cool until the glaze sets; the listed frying oil is a cooking medium, not a serving quantity.": "હૂંફાળા ટુકડા હૂંફાળી ચાસણીમાં દરેક બાજુ 2 મિનિટ ડુબાડો. જાળી પર કાઢી પડ જામે ત્યાં સુધી ઠંડા કરો; તળવાનું તેલ રાંધવાનું માધ્યમ છે, પીરસવાની માત્રા નથી.",
+          "Base recipe for 4 adults. Cooking times are estimates; follow the texture and doneness cues. Jain suitability follows your saved ingredient choices.": "મૂળ રીત 4 પુખ્ત લોકો માટે. રાંધવાનો સમય અંદાજિત છે; બનાવટ અને પાકવાના સંકેત જુઓ. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ મુજબ છે.",
+          "Rest dough for 25 minutes; cool glazed sweets until set.": "લોટ 25 મિનિટ રાખો; ચાસણીવાળા ટુકડા જામે ત્યાં સુધી ઠંડા કરો."
+        }
+      }
+    }
+  ]
+}

@@ -25,7 +25,7 @@ add('kachori','plain flour:300:g|moong dal:140:g|oil:75:ml|water:150:ml|fennel s
  'Fry in oil at 150–160°C for 10–14 minutes, turning occasionally, until crisp and golden. Drain and let cool slightly before serving.'
 ],75,'Allow 2 hours soaking separately. Fry slowly so the inner pastry cooks before the outside browns.');
 add('corn-cheese-balls','cooked sweet corn:250:g|boiled potato:350:g|vegetarian cheese:180:g|plain flour:60:g|eggless breadcrumbs:140:g|water:100:ml|black pepper:1:g|salt:4:g|oil for frying:600:ml',[
- 'Drain cooked corn very well and chop it coarsely. Mash peeled boiled potato and grate cheese made with vegetarian rennet.',
+ 'Drain cooked corn very well and chop it coarsely. Mash peeled boiled potato and grate cheese labelled suitable for vegetarians.',
  'Mix corn, potato, cheese, 40 g breadcrumbs, salt and pepper into a firm mixture. Chill for 20 minutes if soft.',
  'Whisk flour and water to a smooth coating batter. Place remaining breadcrumbs on a plate.',
  'Shape 16 small balls, dip each in batter and coat completely with breadcrumbs. Chill coated balls for 15 minutes to firm up.',

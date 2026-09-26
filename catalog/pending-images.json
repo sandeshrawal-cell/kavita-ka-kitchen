@@ -684,5 +684,255 @@
     "id": "shengdana-amti",
     "name": "Shengdana Amti",
     "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "gobi-paratha",
+    "name": "Gobi Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "paneer-paratha",
+    "name": "Paneer Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "bhatura",
+    "name": "Bhatura",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "missi-roti",
+    "name": "Missi Roti",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "tandoori-roti",
+    "name": "Tandoori Roti",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "methi-paratha",
+    "name": "Methi Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "mooli-paratha",
+    "name": "Mooli Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "amritsari-kulcha",
+    "name": "Amritsari Kulcha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "malabar-parotta",
+    "name": "Malabar Parotta",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "kalakand",
+    "name": "Kalakand",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "motichoor-ladoo",
+    "name": "Motichoor Ladoo",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "rava-ladoo",
+    "name": "Rava Ladoo",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "doodh-peda",
+    "name": "Doodh Peda",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "soan-papdi",
+    "name": "Soan Papdi",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "milk-cake",
+    "name": "Milk Cake",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "gujiya",
+    "name": "Gujiya",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "modak",
+    "name": "Modak",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "coconut-barfi",
+    "name": "Coconut Barfi",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "balushahi",
+    "name": "Balushahi",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "dal-fry",
+    "name": "Dal Fry",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "chana-dal",
+    "name": "Chana Dal",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "yellow-moong-dal",
+    "name": "Yellow Moong Dal",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "pindi-chole",
+    "name": "Pindi Chole",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "lobia-masala",
+    "name": "Lobia Masala",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "langar-wali-dal",
+    "name": "Langar wali Dal",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "dal-methi",
+    "name": "Dal Methi",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "dhuli-urad-dal",
+    "name": "Dhuli Urad Dal",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "hare-chane-ki-sabzi",
+    "name": "Hare Chane ki Sabzi",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "mor-kuzhambu",
+    "name": "Mor Kuzhambu",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "lemon-coriander-soup",
+    "name": "Lemon Coriander Soup",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "manchow-soup",
+    "name": "Manchow Soup",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "hot-and-sour-soup",
+    "name": "Hot and Sour Soup",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "palak-shorba",
+    "name": "Palak Shorba",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "tamatar-shorba",
+    "name": "Tamatar Shorba",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "pepper-rasam",
+    "name": "Pepper Rasam",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "mysore-rasam",
+    "name": "Mysore Rasam",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "lemon-rasam",
+    "name": "Lemon Rasam",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "thukpa",
+    "name": "Thukpa",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "dal-shorba",
+    "name": "Dal Shorba",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "cutting-chai",
+    "name": "Cutting Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "irani-chai",
+    "name": "Irani Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "elaichi-chai",
+    "name": "Elaichi Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "sulaimani-chai",
+    "name": "Sulaimani Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "noon-chai",
+    "name": "Noon Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "gur-chai",
+    "name": "Gur Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "kesar-chai",
+    "name": "Kesar Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "tandoori-chai",
+    "name": "Tandoori Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "lemongrass-tea",
+    "name": "Lemongrass Tea",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "pudina-chai",
+    "name": "Pudina Chai",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
   }
 ]

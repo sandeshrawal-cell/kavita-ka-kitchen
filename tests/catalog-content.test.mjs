@@ -4,8 +4,9 @@ import fs from 'node:fs/promises';
 import {parseSearch,recommend} from '../src/core.js';
 const dishes=JSON.parse(await fs.readFile(new URL('../catalog/generated/dishes.json',import.meta.url)));
 test('every published dish has a measured multi-step recipe',async()=>{
- const approved=JSON.parse(await fs.readFile(new URL('../catalog/approved/wave1.json',import.meta.url)));
- assert.equal(dishes.length,356+approved.entries.length);
+ const approvedDir=new URL('../catalog/approved/',import.meta.url);
+ const batches=await Promise.all((await fs.readdir(approvedDir)).filter(f=>f.endsWith('.json')).map(async file=>JSON.parse(await fs.readFile(new URL(file,approvedDir)))));
+ assert.equal(dishes.length,356+batches.reduce((n,b)=>n+b.entries.length,0));
  for(const d of dishes){
   const r=JSON.parse(await fs.readFile(new URL('../public/data/recipes/'+d.id+'.json',import.meta.url)));
   assert.equal(r.status,'complete',d.id);assert.equal(d.recipeStatus,'complete',d.id);

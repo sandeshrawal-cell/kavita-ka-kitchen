@@ -24,7 +24,7 @@ add('eggless-oat-cookies','rolled oats:160:g|plain flour:100:g|butter:100:g|brow
 for(const id of ['margherita-pizza','mini-pizza'])add(id,'plain flour:360:g|instant yeast:5:g|water:230:ml|olive oil:25:ml|sugar:5:g|salt:6:g|tomato:450:g|garlic:10:g|dried oregano:2:g|vegetarian mozzarella:250:g|basil:20:g',[
  'Mix flour, instant yeast, sugar and 4 g salt. Add lukewarm water and 15 ml oil, knead for 8 minutes and cover for 60–90 minutes until doubled.',
  'Meanwhile heat remaining oil, soften minced garlic for 30 seconds, add chopped tomato, oregano and remaining salt, and simmer for 20 minutes until thick. Cool the sauce.',
- 'Preheat the oven and a heavy baking tray to 240°C for at least 20 minutes. Use mozzarella made with vegetarian rennet.',
+ 'Preheat the oven and a heavy baking tray to 240°C for at least 20 minutes. Use mozzarella labelled suitable for vegetarians.',
  id==='mini-pizza'?'Divide dough into eight balls and stretch each into a 10–12 cm round. Place on lightly floured baking parchment.':'Divide dough into two balls and stretch each into a thin 26 cm round with a slightly thicker rim.',
  'Spread a thin layer of sauce over the dough, leaving the edge clear, and scatter torn mozzarella evenly without overloading.',
  `Transfer carefully to the hot tray and bake for ${id==='mini-pizza'?'8–12':'10–14'} minutes until the crust is browned underneath and cheese bubbles. Finish with basil and serve hot.`

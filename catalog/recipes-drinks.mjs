@@ -153,7 +153,7 @@ const shakes={
  'dates-shake':['dates:140:g|almond:24:g','Pit the dates and soak firm ones in warm water for 15 minutes; drain before blending.'],
  'dry-fruit-shake':['almond:40:g|cashew:40:g|pistachio:24:g|dates:48:g','Soak the nuts and pitted dates for 30 minutes, drain, and peel the almonds if desired.'],
  'guava-shake':['guava:400:g|honey:32:g','Wash ripe guavas, trim the ends and chop. Blend the fruit with a little water, then strain firmly to remove the hard seeds.'],
- 'kesar-badam-shake':['almond:80:g|saffron:0.1:g|sugar:40:g','Soak the almonds for 4 hours, drain and peel. Steep the saffron in two tablespoons of warm milk for 10 minutes, then cool.'],
+ 'kesar-badam-shake':['almond:80:g|saffron:0.5:g|sugar:40:g','Soak the almonds for 4 hours, drain and peel. Steep the saffron in two tablespoons of warm milk for 10 minutes, then cool.'],
  'mango-shake':['mango:500:g|sugar:32:g','Peel ripe mangoes and cut the flesh away from the stones. Taste the fruit before adding all the sugar.'],
  'mixed-berry-shake':['mixed berries:400:g|curd:160:g|sugar:32:g','Wash and sort the berries. If using frozen berries, follow the packet’s instructions for any required heat treatment and cool before use.'],
  'muskmelon-shake':['muskmelon:500:g|cardamom powder:0.5:g|sugar:24:g','Scrub the whole melon before cutting. Remove the rind and seeds, then cut the flesh into small pieces.'],
@@ -201,7 +201,7 @@ add('ginger-tea','black tea:8:g|ginger:16:g|water:500:ml|milk:400:ml|sugar:40:g'
  'Heat until the tea rises toward the rim, lower the heat and simmer for 1 minute while watching to prevent boiling over.',
  'Strain into four cups and serve hot. Shorten the tea simmer if you prefer less bitterness.'
 ]);
-add('kashmiri-kahwa','green tea:5:g|water:900:ml|cardamom:2:g|cinnamon:2:g|saffron:0.1:g|almond:24:g|sugar:32:g',[
+add('kashmiri-kahwa','green tea:5:g|water:900:ml|cardamom:2:g|cinnamon:2:g|saffron:0.5:g|almond:24:g|sugar:32:g',[
  'Crush the cardamom lightly and slice the almonds. Put the water, cardamom and cinnamon in a saucepan.',
  'Bring to a gentle boil and simmer for 3–4 minutes to infuse the spices.',
  'Turn off the heat and let the water cool for about a minute. Add green tea and saffron and steep for 2 minutes.',
@@ -222,7 +222,7 @@ add('tulsi-tea','tulsi leaves:12:g|water:900:ml|lemon juice:20:ml|honey:24:g',[
  'Strain, allow to cool slightly, then stir in lemon juice and honey to taste.',
  'Divide among four cups and serve warm. This is an herbal drink, not a substitute for medical treatment.'
 ]);
-add('saffron-milk','milk:900:ml|saffron:0.1:g|sugar:40:g|cardamom powder:0.5:g',[
+add('saffron-milk','milk:900:ml|saffron:0.5:g|sugar:40:g|cardamom powder:0.5:g',[
  'Warm two tablespoons of the measured milk and crumble the saffron into it; leave for 10 minutes.',
  'Heat the remaining milk in a heavy saucepan over medium-low heat, stirring the base frequently.',
  'When steaming, add sugar, cardamom and the saffron infusion. Simmer gently for 3–4 minutes without boiling over.',

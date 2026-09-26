@@ -54,6 +54,9 @@ for(const [id,r] of Object.entries(recipeLibrary)){
 }
 for(const d of db.values()){
  const fullRecipe=recipeMap.get(d.id);
+ // Honey-containing recipes cannot retain the old broad Jain label. The app
+ // evaluates each household's saved choices separately, including allowing honey.
+ if(d.ingredients.some(name=>/\bhoney\b/i.test(name))){d.jainVerified=false;d.categories=d.categories.filter(c=>c!=='Jain');}
  d.dietaryFacts=recipeDietaryFacts(fullRecipe);
  if(fullRecipe){d.advancePrep=/overnight|ferment|\d+\s*hours?/i.test(fullRecipe.steps.join(' '));if(d.advancePrep)fullRecipe.passiveTime='Allow additional soaking, resting, chilling or fermentation as specified in the steps.';}
  if(photos[d.id]?.status==='reviewed'){d.photo=photos[d.id];if(recipeMap.has(d.id))recipeMap.get(d.id).photo=d.photo;}

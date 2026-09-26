@@ -24,7 +24,7 @@ add('schezwan-fried-rice','cooked chilled rice:900:g|carrot:150:g|cabbage:180:g|
  'Add rice, schezwan sauce, soy sauce and vinegar. Toss over high heat for 4–5 minutes until the rice is steaming hot throughout, working in batches if needed.',
  'Taste before adding salt, finish with spring onion greens and serve immediately. Check the sauce label for vegetarian ingredients.'
 ],25);
-add('vegetable-biryani','basmati rice:320:g|carrot:180:g|potato:200:g|cauliflower:200:g|peas:150:g|onion:250:g|tomato:180:g|curd:150:g|ginger:15:g|garlic:15:g|ghee:45:g|cumin:3:g|cinnamon:3:g|cardamom:2:g|cloves:1:g|turmeric powder:1:g|biryani masala:15:g|salt:8:g|mint:20:g|coriander:20:g|milk:40:ml|saffron:0.1:g|water:180:ml',[
+add('vegetable-biryani','basmati rice:320:g|carrot:180:g|potato:200:g|cauliflower:200:g|peas:150:g|onion:250:g|tomato:180:g|curd:150:g|ginger:15:g|garlic:15:g|ghee:45:g|cumin:3:g|cinnamon:3:g|cardamom:2:g|cloves:1:g|turmeric powder:1:g|biryani masala:15:g|salt:8:g|mint:20:g|coriander:20:g|milk:40:ml|saffron:0.5:g|water:180:ml',[
  'Rinse and soak rice for 30 minutes. Cut vegetables into small even pieces, thinly slice onions and steep saffron in warm milk.',
  'Boil soaked rice in plenty of water with half the salt for 5–7 minutes until about three-quarters cooked: the centre should still feel firm. Drain immediately.',
  'Heat ghee in a heavy pot, add whole spices and fry onions for 12–15 minutes until deep golden. Reserve one-third of the onions.',

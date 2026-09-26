@@ -1,0 +1,1490 @@
+{
+  "batch": "wave1-tea",
+  "reviewStatus": "published",
+  "publicationApproved": true,
+  "approval": "User requested completion of all remaining batches together on 2026-09-26.",
+  "jainPolicy": "Household-defined; no universal Jain certification is asserted.",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=XK0bFnnhUcQ",
+      "use": "Sanjeev Kapoor dish-identity reference for tandoori chai; instructions independently authored with safer cookware checks."
+    },
+    {
+      "url": "https://indianexpress.com/article/lifestyle/food-wine/noon-chai-traditional-kashmiri-pink-tea-health-benefits-recipe-6465085/",
+      "use": "Chef recipe reference for the traditional salted green-tea identity of noon chai; quantities and text independently authored."
+    }
+  ],
+  "entries": [
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "cutting-chai",
+        "canonicalId": "cutting-chai",
+        "name": "Cutting Chai",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "fresh ginger",
+          "green cardamom"
+        ],
+        "method": "tea",
+        "time": 12,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "cutting-chai",
+        "name": "Cutting Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 250,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 250,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 32,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Rinse and lightly crush the ginger. Crack the cardamom pods so the seeds are exposed; keep the pods for brewing. Use a deep saucepan with room for the milk to rise.",
+          "Bring the water, ginger and cardamom to a boil. Simmer for 2 minutes, then add the tea leaves and boil gently for 2 minutes until the liquid is dark and aromatic.",
+          "Add the milk and sugar and stir until dissolved. Bring just to a rising boil, lower the heat immediately and simmer for 3–4 minutes, stirring so the milk does not catch.",
+          "When the chai is a rich brown and smells strongly of tea, strain through a fine sieve. Divide into four small heatproof glasses, about 100 ml each, and serve hot."
+        ],
+        "tips": [
+          "Cutting means a small serving of strong chai; avoid prolonged boiling after the milk has reduced."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 12,
+        "passiveTime": null,
+        "notes": "Makes four small cutting glasses. Contains caffeine; ginger suitability follows your household choices."
+      },
+      "translations": {
+        "hi": {
+          "Cutting Chai": "कटिंग चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "fresh ginger": "ताजा अदरक",
+          "green cardamom": "हरी इलायची",
+          "Rinse and lightly crush the ginger. Crack the cardamom pods so the seeds are exposed; keep the pods for brewing. Use a deep saucepan with room for the milk to rise.": "अदरक धोकर हल्का कूटें। इलायची फोड़ें ताकि बीज खुल जाएँ; छिलके भी चाय में डालें। दूध ऊपर आने के लिए जगह वाला गहरा पतीला लें।",
+          "Bring the water, ginger and cardamom to a boil. Simmer for 2 minutes, then add the tea leaves and boil gently for 2 minutes until the liquid is dark and aromatic.": "पानी, अदरक और इलायची उबालें। 2 मिनट धीमा उबालें, फिर चाय पत्ती डालकर 2 मिनट हल्का उबालें, जब तक रंग गहरा और खुशबू तेज हो जाए।",
+          "Add the milk and sugar and stir until dissolved. Bring just to a rising boil, lower the heat immediately and simmer for 3–4 minutes, stirring so the milk does not catch.": "दूध और चीनी डालकर घुलने तक मिलाएँ। उफान आते ही आँच धीमी करें और 3–4 मिनट चलाते हुए पकाएँ ताकि दूध नीचे न लगे।",
+          "When the chai is a rich brown and smells strongly of tea, strain through a fine sieve. Divide into four small heatproof glasses, about 100 ml each, and serve hot.": "चाय गहरी भूरी हो और पत्ती की तेज खुशबू आए तो बारीक छलनी से छानें। चार छोटे गरमी सहने वाले गिलासों में लगभग 100 मिली प्रति गिलास डालकर गरम परोसें।",
+          "Cutting means a small serving of strong chai; avoid prolonged boiling after the milk has reduced.": "कटिंग का अर्थ तेज चाय की छोटी मात्रा है; दूध कम हो जाने के बाद देर तक न उबालें।",
+          "Makes four small cutting glasses. Contains caffeine; ginger suitability follows your household choices.": "चार छोटे कटिंग गिलास बनते हैं। इसमें कैफीन है; अदरक की उपयुक्तता आपके परिवार की पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Cutting Chai": "કટિંગ ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "fresh ginger": "તાજું આદુ",
+          "green cardamom": "લીલી એલચી",
+          "Rinse and lightly crush the ginger. Crack the cardamom pods so the seeds are exposed; keep the pods for brewing. Use a deep saucepan with room for the milk to rise.": "આદુ ધોઈને હળવું કૂટો. એલચી ફોડીને બીજ ખુલ્લાં કરો; ફોતરાં પણ ઉકાળવા રાખો. દૂધ ઊભરાય તે માટે જગ્યા હોય એવું ઊંડું તપેલું લો.",
+          "Bring the water, ginger and cardamom to a boil. Simmer for 2 minutes, then add the tea leaves and boil gently for 2 minutes until the liquid is dark and aromatic.": "પાણી, આદુ અને એલચી ઉકાળો. 2 મિનિટ ધીમે ઉકાળ્યા પછી ચાની પત્તી નાખી 2 મિનિટ ઉકાળો, જેથી રંગ ઘેરો અને સુગંધ તીવ્ર થાય.",
+          "Add the milk and sugar and stir until dissolved. Bring just to a rising boil, lower the heat immediately and simmer for 3–4 minutes, stirring so the milk does not catch.": "દૂધ અને ખાંડ નાખીને ઓગળે ત્યાં સુધી હલાવો. ઊભરો આવે એટલે તરત તાપ ધીમો કરી 3–4 મિનિટ હલાવતા ઉકાળો જેથી દૂધ તળિયે ન ચોંટે.",
+          "When the chai is a rich brown and smells strongly of tea, strain through a fine sieve. Divide into four small heatproof glasses, about 100 ml each, and serve hot.": "ચા ઘેરી ભૂરી થાય અને ચાની તીવ્ર સુગંધ આવે ત્યારે ઝીણી ચાળણીથી ગાળો. ગરમી સહન કરતા ચાર નાના ગ્લાસમાં આશરે 100 મિલી જેટલી ચા ભરી ગરમ પીરસો.",
+          "Cutting means a small serving of strong chai; avoid prolonged boiling after the milk has reduced.": "કટિંગ એટલે કડક ચાની નાની માત્રા; દૂધ ઘટ્યા પછી લાંબો સમય ન ઉકાળો.",
+          "Makes four small cutting glasses. Contains caffeine; ginger suitability follows your household choices.": "ચાર નાના કટિંગ ગ્લાસ બને છે. તેમાં કેફીન છે; આદુની યોગ્યતા તમારા પરિવારની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Dum Chai"
+      ],
+      "dish": {
+        "id": "irani-chai",
+        "canonicalId": "irani-chai",
+        "name": "Irani Chai",
+        "cuisine": "Hyderabadi",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "unsweetened mawa"
+        ],
+        "method": "tea",
+        "time": 40,
+        "effort": "medium",
+        "kids": false,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "irani-chai",
+        "name": "Irani Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 700,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 48,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "unsweetened mawa",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Bring the water to a boil in a small saucepan. Add the tea leaves, reduce to the lowest heat and cover with a normal loose-fitting lid; do not seal the pan airtight.",
+          "Simmer the tea gently for 20–25 minutes to make a dark concentrate. Check occasionally and lower the heat if it boils hard; it should retain roughly 300 ml of liquid.",
+          "Meanwhile simmer the milk in a separate heavy pan for 15–20 minutes, stirring and scraping the sides often, until reduced by about a quarter. Crumble in the mawa and whisk until no large lumps remain.",
+          "Stir the sugar into the thickened milk and heat for 2 minutes. Strain the tea concentrate, divide it between four cups and top with the sweet milk, stirring each cup before serving."
+        ],
+        "tips": [
+          "Brew tea and milk separately: boiling mawa directly with tea leaves makes straining difficult."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Four rich cafe-style cups; contains milk and caffeine. The tea and milk pans cook at the same time."
+      },
+      "translations": {
+        "hi": {
+          "Irani Chai": "ईरानी चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "unsweetened mawa": "बिना चीनी का मावा",
+          "Bring the water to a boil in a small saucepan. Add the tea leaves, reduce to the lowest heat and cover with a normal loose-fitting lid; do not seal the pan airtight.": "छोटे पतीले में पानी उबालें। चाय पत्ती डालें, आँच सबसे धीमी करें और सामान्य ढीला ढक्कन लगाएँ; पतीले को हवा बंद न करें।",
+          "Simmer the tea gently for 20–25 minutes to make a dark concentrate. Check occasionally and lower the heat if it boils hard; it should retain roughly 300 ml of liquid.": "चाय 20–25 मिनट हल्की आँच पर पकाकर गाढ़ा गहरा काढ़ा बनाएँ। बीच-बीच में जाँचें और तेज उबाल आने पर आँच घटाएँ; लगभग 300 मिली तरल बचना चाहिए।",
+          "Meanwhile simmer the milk in a separate heavy pan for 15–20 minutes, stirring and scraping the sides often, until reduced by about a quarter. Crumble in the mawa and whisk until no large lumps remain.": "इस बीच अलग भारी पतीले में दूध 15–20 मिनट हल्का उबालें। बार-बार चलाएँ और किनारे खुरचें, जब तक लगभग चौथाई दूध कम हो जाए। मावा तोड़कर डालें और बड़ी गाँठें मिटने तक फेंटें।",
+          "Stir the sugar into the thickened milk and heat for 2 minutes. Strain the tea concentrate, divide it between four cups and top with the sweet milk, stirring each cup before serving.": "गाढ़े दूध में चीनी मिलाकर 2 मिनट गरम करें। चाय का काढ़ा छानकर चार कपों में बाँटें और ऊपर मीठा दूध डालें। हर कप मिलाकर परोसें।",
+          "Brew tea and milk separately: boiling mawa directly with tea leaves makes straining difficult.": "चाय और दूध अलग पकाएँ: मावा पत्ती के साथ उबालने पर छानना कठिन होता है।",
+          "Four rich cafe-style cups; contains milk and caffeine. The tea and milk pans cook at the same time.": "चार गाढ़े कैफे जैसे कप; दूध और कैफीन युक्त। चाय और दूध के पतीले साथ-साथ पकते हैं।"
+        },
+        "gu": {
+          "Irani Chai": "ઈરાની ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "unsweetened mawa": "ખાંડ વગરનો માવો",
+          "Bring the water to a boil in a small saucepan. Add the tea leaves, reduce to the lowest heat and cover with a normal loose-fitting lid; do not seal the pan airtight.": "નાના તપેલામાં પાણી ઉકાળો. ચાની પત્તી નાખી તાપ એકદમ ધીમો કરો અને સામાન્ય ઢીલું ઢાંકણ ઢાંકો; હવાચુસ્ત બંધ ન કરો.",
+          "Simmer the tea gently for 20–25 minutes to make a dark concentrate. Check occasionally and lower the heat if it boils hard; it should retain roughly 300 ml of liquid.": "ચાને 20–25 મિનિટ ધીમે ઉકાળી ઘેરો કાવો બનાવો. વચ્ચે તપાસો અને જોરથી ઊકળે તો તાપ ઘટાડો; આશરે 300 મિલી પ્રવાહી બચવું જોઈએ.",
+          "Meanwhile simmer the milk in a separate heavy pan for 15–20 minutes, stirring and scraping the sides often, until reduced by about a quarter. Crumble in the mawa and whisk until no large lumps remain.": "આ દરમિયાન અલગ ભારે તપેલામાં દૂધ 15–20 મિનિટ ધીમે ઉકાળો. વારંવાર હલાવી કિનારીઓ ખુરચો, જેથી આશરે ચોથા ભાગનું દૂધ ઘટે. માવો ભૂકો કરી નાખો અને મોટા ગઠ્ઠા ન રહે ત્યાં સુધી ફેંટો.",
+          "Stir the sugar into the thickened milk and heat for 2 minutes. Strain the tea concentrate, divide it between four cups and top with the sweet milk, stirring each cup before serving.": "ઘટ્ટ દૂધમાં ખાંડ નાખી 2 મિનિટ ગરમ કરો. ચાનો કાવો ગાળી ચાર કપમાં વહેંચો અને ઉપર મીઠું દૂધ ઉમેરો. દરેક કપ હલાવી પીરસો.",
+          "Brew tea and milk separately: boiling mawa directly with tea leaves makes straining difficult.": "ચા અને દૂધ અલગ ઉકાળો: માવો ચાની પત્તી સાથે ઉકાળવાથી ગાળવું મુશ્કેલ બને છે.",
+          "Four rich cafe-style cups; contains milk and caffeine. The tea and milk pans cook at the same time.": "ચાર ઘટ્ટ કેફે જેવા કપ; દૂધ અને કેફીન ધરાવે છે. ચા અને દૂધનાં તપેલાં એકસાથે ઉકાળાય છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Cardamom Tea"
+      ],
+      "dish": {
+        "id": "elaichi-chai",
+        "canonicalId": "elaichi-chai",
+        "name": "Elaichi Chai",
+        "cuisine": "Indian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "green cardamom"
+        ],
+        "method": "tea",
+        "time": 12,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "elaichi-chai",
+        "name": "Elaichi Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 400,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 10,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Crack the cardamom pods and lightly crush the seeds. Put both pods and seeds in a deep saucepan with the measured water.",
+          "Bring to a boil and simmer for 2 minutes to release the cardamom aroma. Add the tea leaves and cook for another 2 minutes over medium-low heat.",
+          "Pour in the milk and add the sugar. Stir well, bring to a gentle rising boil and immediately lower the heat; simmer for 3 minutes until evenly caramel-coloured.",
+          "Switch off and strain into four warmed cups, discarding the tea leaves and pods. Serve promptly while the cardamom fragrance is fresh."
+        ],
+        "tips": [
+          "Crush cardamom just before brewing; stored ground cardamom loses aroma quickly."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 12,
+        "passiveTime": null,
+        "notes": "Four regular cups of milk tea. Contains milk and caffeine."
+      },
+      "translations": {
+        "hi": {
+          "Elaichi Chai": "इलायची चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "green cardamom": "हरी इलायची",
+          "Crack the cardamom pods and lightly crush the seeds. Put both pods and seeds in a deep saucepan with the measured water.": "इलायची फोड़कर बीज हल्के कूटें। बीज और छिलके दोनों नापे हुए पानी के साथ गहरे पतीले में डालें।",
+          "Bring to a boil and simmer for 2 minutes to release the cardamom aroma. Add the tea leaves and cook for another 2 minutes over medium-low heat.": "उबाल आने पर 2 मिनट हल्का पकाएँ ताकि इलायची की खुशबू निकले। चाय पत्ती डालें और मध्यम-धीमी आँच पर 2 मिनट और पकाएँ।",
+          "Pour in the milk and add the sugar. Stir well, bring to a gentle rising boil and immediately lower the heat; simmer for 3 minutes until evenly caramel-coloured.": "दूध और चीनी डालकर अच्छी तरह मिलाएँ। हल्का उफान आने पर तुरंत आँच धीमी करें; एक जैसा कारमेल रंग आने तक 3 मिनट पकाएँ।",
+          "Switch off and strain into four warmed cups, discarding the tea leaves and pods. Serve promptly while the cardamom fragrance is fresh.": "आँच बंद करके चार गरम किए कपों में छानें। चाय पत्ती और इलायची के छिलके हटा दें। ताजी इलायची की खुशबू रहते तुरंत परोसें।",
+          "Crush cardamom just before brewing; stored ground cardamom loses aroma quickly.": "इलायची चाय बनाते समय ही कूटें; पहले से पिसी इलायची की खुशबू जल्दी कम होती है।",
+          "Four regular cups of milk tea. Contains milk and caffeine.": "दूध वाली चाय के चार सामान्य कप। दूध और कैफीन युक्त।"
+        },
+        "gu": {
+          "Elaichi Chai": "એલચી ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "green cardamom": "લીલી એલચી",
+          "Crack the cardamom pods and lightly crush the seeds. Put both pods and seeds in a deep saucepan with the measured water.": "એલચી ફોડી બીજ હળવાં કૂટો. બીજ અને ફોતરાં બંને માપેલા પાણી સાથે ઊંડા તપેલામાં નાખો.",
+          "Bring to a boil and simmer for 2 minutes to release the cardamom aroma. Add the tea leaves and cook for another 2 minutes over medium-low heat.": "ઉકાળો આવ્યા પછી 2 મિનિટ ધીમે ઉકાળો જેથી એલચીની સુગંધ છૂટે. ચાની પત્તી નાખી મધ્યમ-ધીમા તાપે વધુ 2 મિનિટ ઉકાળો.",
+          "Pour in the milk and add the sugar. Stir well, bring to a gentle rising boil and immediately lower the heat; simmer for 3 minutes until evenly caramel-coloured.": "દૂધ અને ખાંડ નાખી સારી રીતે હલાવો. હળવો ઊભરો આવે ત્યારે તરત તાપ ધીમો કરો; એકસરખો કારમેલ રંગ થાય ત્યાં સુધી 3 મિનિટ ઉકાળો.",
+          "Switch off and strain into four warmed cups, discarding the tea leaves and pods. Serve promptly while the cardamom fragrance is fresh.": "તાપ બંધ કરી ચાર હૂંફાળા કપમાં ગાળો. ચાની પત્તી અને એલચીનાં ફોતરાં કાઢી નાખો. એલચીની તાજી સુગંધ હોય ત્યારે તરત પીરસો.",
+          "Crush cardamom just before brewing; stored ground cardamom loses aroma quickly.": "ચા બનાવતાં પહેલાં જ એલચી કૂટો; પીસીને રાખેલી એલચીની સુગંધ ઝડપથી ઓછી થાય છે.",
+          "Four regular cups of milk tea. Contains milk and caffeine.": "દૂધવાળી ચાના ચાર સામાન્ય કપ. દૂધ અને કેફીન ધરાવે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Sulaimani"
+      ],
+      "dish": {
+        "id": "sulaimani-chai",
+        "canonicalId": "sulaimani-chai",
+        "name": "Sulaimani Chai",
+        "cuisine": "Kerala",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "black tea leaves",
+          "sugar",
+          "green cardamom",
+          "lemon juice"
+        ],
+        "method": "tea",
+        "time": 10,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "light"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "sulaimani-chai",
+        "name": "Sulaimani Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 900,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 32,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Lightly crush the cardamom pods and place them in a saucepan with the water. Bring to a boil, then simmer for 2 minutes until lightly fragrant.",
+          "Switch off the heat, add the tea leaves and cover for 2 minutes. The brew should become clear amber rather than opaque and very dark.",
+          "Strain into a heatproof jug to stop extraction. Stir in the sugar until fully dissolved and allow the tea to stand for 1 minute off the heat.",
+          "Stir in the lemon juice only after straining; taste for a clean citrus finish. Divide between four glasses and serve hot without adding milk."
+        ],
+        "tips": [
+          "Do not boil the tea leaves for a long time; this light tea is best with a short steep."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 10,
+        "passiveTime": null,
+        "notes": "Four cups of Malabar-style lemon black tea. Contains caffeine."
+      },
+      "translations": {
+        "hi": {
+          "Sulaimani Chai": "सुलेमानी चाय",
+          "water": "पानी",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "green cardamom": "हरी इलायची",
+          "lemon juice": "नींबू का रस",
+          "Lightly crush the cardamom pods and place them in a saucepan with the water. Bring to a boil, then simmer for 2 minutes until lightly fragrant.": "इलायची हल्की कूटकर पानी के साथ पतीले में डालें। उबालें, फिर हल्की खुशबू आने तक 2 मिनट धीमा पकाएँ।",
+          "Switch off the heat, add the tea leaves and cover for 2 minutes. The brew should become clear amber rather than opaque and very dark.": "आँच बंद करें, चाय पत्ती डालें और 2 मिनट ढकें। चाय साफ अंबर रंग की होनी चाहिए, बहुत गहरी और अपारदर्शी नहीं।",
+          "Strain into a heatproof jug to stop extraction. Stir in the sugar until fully dissolved and allow the tea to stand for 1 minute off the heat.": "स्वाद अधिक निकलना रोकने के लिए गरमी सहने वाले जग में छानें। चीनी पूरी घुलने तक मिलाएँ और आँच से हटाकर 1 मिनट रहने दें।",
+          "Stir in the lemon juice only after straining; taste for a clean citrus finish. Divide between four glasses and serve hot without adding milk.": "छानने के बाद ही नींबू का रस मिलाएँ; स्वाद में ताजा नींबू की खटास हो। चार गिलासों में बाँटकर बिना दूध डाले गरम परोसें।",
+          "Do not boil the tea leaves for a long time; this light tea is best with a short steep.": "चाय पत्ती देर तक न उबालें; यह हल्की चाय थोड़ी देर पत्ती भिगोने से अच्छी बनती है।",
+          "Four cups of Malabar-style lemon black tea. Contains caffeine.": "मालाबार शैली की नींबू वाली काली चाय के चार कप। कैफीन युक्त।"
+        },
+        "gu": {
+          "Sulaimani Chai": "સુલેમાની ચા",
+          "water": "પાણી",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "green cardamom": "લીલી એલચી",
+          "lemon juice": "લીંબુનો રસ",
+          "Lightly crush the cardamom pods and place them in a saucepan with the water. Bring to a boil, then simmer for 2 minutes until lightly fragrant.": "એલચી હળવી કૂટી પાણી સાથે તપેલામાં નાખો. ઉકાળો, પછી હળવી સુગંધ આવે ત્યાં સુધી 2 મિનિટ ધીમે ઉકાળો.",
+          "Switch off the heat, add the tea leaves and cover for 2 minutes. The brew should become clear amber rather than opaque and very dark.": "તાપ બંધ કરો, ચાની પત્તી નાખી 2 મિનિટ ઢાંકો. ચા ચોખ્ખા અંબર રંગની હોવી જોઈએ, ખૂબ ઘેરી અને અપારદર્શક નહીં.",
+          "Strain into a heatproof jug to stop extraction. Stir in the sugar until fully dissolved and allow the tea to stand for 1 minute off the heat.": "વધુ કડવાશ ન આવે તે માટે ગરમી સહન કરતા જગમાં ગાળો. ખાંડ પૂરી ઓગળે ત્યાં સુધી હલાવો અને તાપથી દૂર 1 મિનિટ રાખો.",
+          "Stir in the lemon juice only after straining; taste for a clean citrus finish. Divide between four glasses and serve hot without adding milk.": "ગાળ્યા પછી જ લીંબુનો રસ ઉમેરો; સ્વાદમાં તાજી લીંબુની ખટાશ હોવી જોઈએ. ચાર ગ્લાસમાં વહેંચી દૂધ ઉમેર્યા વગર ગરમ પીરસો.",
+          "Do not boil the tea leaves for a long time; this light tea is best with a short steep.": "ચાની પત્તી લાંબો સમય ન ઉકાળો; આ હળવી ચા પત્તીને થોડો સમય પલાળવાથી સારી બને છે.",
+          "Four cups of Malabar-style lemon black tea. Contains caffeine.": "મલબાર શૈલીની લીંબુવાળી કાળી ચાના ચાર કપ. કેફીન ધરાવે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Kashmiri Pink Tea"
+      ],
+      "dish": {
+        "id": "noon-chai",
+        "canonicalId": "noon-chai",
+        "name": "Noon Chai",
+        "cuisine": "Kashmiri",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "Kashmiri green tea leaves",
+          "baking soda",
+          "salt",
+          "green cardamom",
+          "almonds"
+        ],
+        "method": "tea",
+        "time": 40,
+        "effort": "medium",
+        "kids": false,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "noon-chai",
+        "name": "Noon Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 800,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "Kashmiri green tea leaves",
+            "qty": 10,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "almonds",
+            "qty": 16,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Put the tea leaves and cracked cardamom in a deep stainless-steel pan with 500 ml of the measured water. Reserve the remaining 300 ml water in the refrigerator until cold.",
+          "Bring to a boil and add exactly the measured baking soda. Simmer uncovered for 15–20 minutes, stirring occasionally, until the tea is concentrated and reddish-brown; do not let the pan dry out.",
+          "Add the reserved cold water. Keep the pan on low heat and repeatedly lift and pour the tea back with a ladle for 5 minutes, keeping the ladle close to the pan to avoid splashes.",
+          "Strain the concentrate into a clean pan, add the milk and salt, and simmer for 5–7 minutes. The colour should soften to dusty pink or pinkish tan; its shade depends on the tea leaves.",
+          "Slice the almonds finely. Divide the hot salted tea among four cups and scatter the almonds over each; serve without sugar for this savoury version."
+        ],
+        "tips": [
+          "Use tea sold for noon chai. Do not add extra baking soda to force a brighter pink: it makes the tea unpleasantly alkaline."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Four cups of traditional salted tea, not a sweet pink dessert drink. Contains milk, almonds and caffeine."
+      },
+      "translations": {
+        "hi": {
+          "Noon Chai": "नून चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "Kashmiri green tea leaves": "कश्मीरी हरी चाय की पत्ती",
+          "baking soda": "खाने का सोडा",
+          "salt": "नमक",
+          "green cardamom": "हरी इलायची",
+          "almonds": "बादाम",
+          "Put the tea leaves and cracked cardamom in a deep stainless-steel pan with 500 ml of the measured water. Reserve the remaining 300 ml water in the refrigerator until cold.": "चाय पत्ती और फोड़ी इलायची को गहरे स्टील के पतीले में नापे पानी में से 500 मिली के साथ डालें। बाकी 300 मिली पानी फ्रिज में ठंडा होने रखें।",
+          "Bring to a boil and add exactly the measured baking soda. Simmer uncovered for 15–20 minutes, stirring occasionally, until the tea is concentrated and reddish-brown; do not let the pan dry out.": "उबाल आने पर ठीक नापा हुआ खाने का सोडा डालें। बिना ढके 15–20 मिनट पकाएँ और बीच-बीच में चलाएँ, जब तक काढ़ा गाढ़ा लाल-भूरा हो जाए; पतीला सूखने न दें।",
+          "Add the reserved cold water. Keep the pan on low heat and repeatedly lift and pour the tea back with a ladle for 5 minutes, keeping the ladle close to the pan to avoid splashes.": "बचा ठंडा पानी डालें। पतीला धीमी आँच पर रखें और 5 मिनट कलछी से चाय उठाकर वापस डालें। छींटों से बचने के लिए कलछी पतीले के पास रखें।",
+          "Strain the concentrate into a clean pan, add the milk and salt, and simmer for 5–7 minutes. The colour should soften to dusty pink or pinkish tan; its shade depends on the tea leaves.": "काढ़ा साफ पतीले में छानें, दूध और नमक डालें और 5–7 मिनट हल्का उबालें। रंग हल्का गुलाबी या गुलाबी-भूरा होगा; रंग की गहराई चाय पत्ती पर निर्भर है।",
+          "Slice the almonds finely. Divide the hot salted tea among four cups and scatter the almonds over each; serve without sugar for this savoury version.": "बादाम बारीक काटें। गरम नमकीन चाय चार कपों में बाँटें और ऊपर बादाम डालें; इस नमकीन रूप में चीनी न डालें।",
+          "Use tea sold for noon chai. Do not add extra baking soda to force a brighter pink: it makes the tea unpleasantly alkaline.": "नून चाय के लिए बेची जाने वाली पत्ती लें। ज्यादा गुलाबी रंग के लिए अतिरिक्त सोडा न डालें: स्वाद खराब क्षारीय हो जाता है।",
+          "Four cups of traditional salted tea, not a sweet pink dessert drink. Contains milk, almonds and caffeine.": "पारंपरिक नमकीन चाय के चार कप, मीठा गुलाबी पेय नहीं। दूध, बादाम और कैफीन युक्त।"
+        },
+        "gu": {
+          "Noon Chai": "નૂન ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "Kashmiri green tea leaves": "કાશ્મીરી લીલી ચાની પત્તી",
+          "baking soda": "ખાવાનો સોડા",
+          "salt": "મીઠું",
+          "green cardamom": "લીલી એલચી",
+          "almonds": "બદામ",
+          "Put the tea leaves and cracked cardamom in a deep stainless-steel pan with 500 ml of the measured water. Reserve the remaining 300 ml water in the refrigerator until cold.": "ચાની પત્તી અને ફોડેલી એલચી ઊંડા સ્ટીલના તપેલામાં માપેલા પાણીમાંથી 500 મિલી સાથે નાખો. બાકી 300 મિલી પાણી ફ્રિજમાં ઠંડું થવા રાખો.",
+          "Bring to a boil and add exactly the measured baking soda. Simmer uncovered for 15–20 minutes, stirring occasionally, until the tea is concentrated and reddish-brown; do not let the pan dry out.": "ઉકાળો આવે ત્યારે ચોક્કસ માપેલો ખાવાનો સોડા નાખો. ઢાંક્યા વગર 15–20 મિનિટ વચ્ચે હલાવતા ઉકાળો, જેથી કાવો ઘટ્ટ લાલ-ભૂરો થાય; તપેલું સૂકાવા ન દો.",
+          "Add the reserved cold water. Keep the pan on low heat and repeatedly lift and pour the tea back with a ladle for 5 minutes, keeping the ladle close to the pan to avoid splashes.": "રાખેલું ઠંડું પાણી ઉમેરો. તપેલું ધીમા તાપે રાખી 5 મિનિટ ડોયાથી ચા ઊંચકી પાછી રેડો. છાંટા ન ઊડે તે માટે ડોયો તપેલાની નજીક રાખો.",
+          "Strain the concentrate into a clean pan, add the milk and salt, and simmer for 5–7 minutes. The colour should soften to dusty pink or pinkish tan; its shade depends on the tea leaves.": "કાવો સ્વચ્છ તપેલામાં ગાળો, દૂધ અને મીઠું નાખી 5–7 મિનિટ ધીમે ઉકાળો. રંગ આછો ગુલાબી કે ગુલાબી-ભૂરો થશે; રંગ ચાની પત્તી પર આધારિત છે.",
+          "Slice the almonds finely. Divide the hot salted tea among four cups and scatter the almonds over each; serve without sugar for this savoury version.": "બદામ ઝીણી કાતરો. ગરમ ખારી ચા ચાર કપમાં વહેંચો અને ઉપર બદામ ભભરાવો; આ ખારા સ્વરૂપમાં ખાંડ ઉમેરશો નહીં.",
+          "Use tea sold for noon chai. Do not add extra baking soda to force a brighter pink: it makes the tea unpleasantly alkaline.": "નૂન ચા માટે વેચાતી પત્તી લો. વધુ ગુલાબી રંગ માટે વધારાનો સોડા ન નાખો: ચાનો સ્વાદ ખરાબ ક્ષારીય બને છે.",
+          "Four cups of traditional salted tea, not a sweet pink dessert drink. Contains milk, almonds and caffeine.": "પરંપરાગત ખારી ચાના ચાર કપ, મીઠું ગુલાબી પીણું નહીં. દૂધ, બદામ અને કેફીન ધરાવે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Jaggery Tea"
+      ],
+      "dish": {
+        "id": "gur-chai",
+        "canonicalId": "gur-chai",
+        "name": "Gur Chai",
+        "cuisine": "North Indian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "jaggery",
+          "fresh ginger",
+          "green cardamom"
+        ],
+        "method": "tea",
+        "time": 15,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "gur-chai",
+        "name": "Gur Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 400,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 10,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "jaggery",
+            "qty": 48,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Grate the jaggery and check for grit. Crush the washed ginger and crack the cardamom pods; reserve the jaggery until the tea has finished cooking.",
+          "Boil the water with ginger and cardamom for 2 minutes. Add the tea leaves and simmer for another 2 minutes until the brew is dark.",
+          "Add the milk, bring carefully to a gentle boil and simmer for 3 minutes, stirring. Turn off the heat and strain the tea into a heatproof jug.",
+          "Wait 2 minutes so the tea stops bubbling, then stir in the grated jaggery until dissolved. Divide among four cups and serve immediately; do not boil again after adding jaggery."
+        ],
+        "tips": [
+          "Jaggery varies in acidity and can split milk if boiled together; add it after cooking and use fresh milk."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 15,
+        "passiveTime": null,
+        "notes": "Four cups sweetened with jaggery. Contains milk and caffeine; jaggery is still an added sweetener."
+      },
+      "translations": {
+        "hi": {
+          "Gur Chai": "गुड़ की चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "jaggery": "गुड़",
+          "fresh ginger": "ताजा अदरक",
+          "green cardamom": "हरी इलायची",
+          "Grate the jaggery and check for grit. Crush the washed ginger and crack the cardamom pods; reserve the jaggery until the tea has finished cooking.": "गुड़ कद्दूकस करें और कंकड़ जाँच लें। धुला अदरक कूटें और इलायची फोड़ें; चाय पकने तक गुड़ अलग रखें।",
+          "Boil the water with ginger and cardamom for 2 minutes. Add the tea leaves and simmer for another 2 minutes until the brew is dark.": "पानी में अदरक और इलायची 2 मिनट उबालें। चाय पत्ती डालकर काढ़ा गहरा होने तक 2 मिनट और धीमा उबालें।",
+          "Add the milk, bring carefully to a gentle boil and simmer for 3 minutes, stirring. Turn off the heat and strain the tea into a heatproof jug.": "दूध डालें, सावधानी से हल्का उबाल आने दें और चलाते हुए 3 मिनट पकाएँ। आँच बंद करके गरमी सहने वाले जग में छानें।",
+          "Wait 2 minutes so the tea stops bubbling, then stir in the grated jaggery until dissolved. Divide among four cups and serve immediately; do not boil again after adding jaggery.": "2 मिनट रुकें ताकि चाय में बुलबुले बंद हो जाएँ, फिर कद्दूकस किया गुड़ घुलने तक मिलाएँ। चार कपों में तुरंत परोसें; गुड़ डालने के बाद दोबारा न उबालें।",
+          "Jaggery varies in acidity and can split milk if boiled together; add it after cooking and use fresh milk.": "गुड़ की अम्लता अलग-अलग होती है और साथ उबालने पर दूध फट सकता है; पकने के बाद डालें और ताजा दूध लें।",
+          "Four cups sweetened with jaggery. Contains milk and caffeine; jaggery is still an added sweetener.": "गुड़ से मीठे चार कप। दूध और कैफीन युक्त; गुड़ भी अतिरिक्त मिठास है।"
+        },
+        "gu": {
+          "Gur Chai": "ગોળની ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "jaggery": "ગોળ",
+          "fresh ginger": "તાજું આદુ",
+          "green cardamom": "લીલી એલચી",
+          "Grate the jaggery and check for grit. Crush the washed ginger and crack the cardamom pods; reserve the jaggery until the tea has finished cooking.": "ગોળ છીણો અને કાંકરી તપાસો. ધોયેલું આદુ કૂટો અને એલચી ફોડો; ચા તૈયાર થાય ત્યાં સુધી ગોળ અલગ રાખો.",
+          "Boil the water with ginger and cardamom for 2 minutes. Add the tea leaves and simmer for another 2 minutes until the brew is dark.": "પાણીમાં આદુ અને એલચી 2 મિનિટ ઉકાળો. ચાની પત્તી નાખી કાવો ઘેરો થાય ત્યાં સુધી વધુ 2 મિનિટ ધીમે ઉકાળો.",
+          "Add the milk, bring carefully to a gentle boil and simmer for 3 minutes, stirring. Turn off the heat and strain the tea into a heatproof jug.": "દૂધ નાખી સાવચેતીથી હળવો ઉકાળો લાવો અને હલાવતા 3 મિનિટ ઉકાળો. તાપ બંધ કરી ગરમી સહન કરતા જગમાં ગાળો.",
+          "Wait 2 minutes so the tea stops bubbling, then stir in the grated jaggery until dissolved. Divide among four cups and serve immediately; do not boil again after adding jaggery.": "2 મિનિટ રાહ જુઓ જેથી ચામાં પરપોટા બંધ થાય, પછી છીણેલો ગોળ ઓગળે ત્યાં સુધી હલાવો. ચાર કપમાં તરત પીરસો; ગોળ નાખ્યા પછી ફરી ન ઉકાળો.",
+          "Jaggery varies in acidity and can split milk if boiled together; add it after cooking and use fresh milk.": "ગોળની અમ્લતા જુદી હોય છે અને સાથે ઉકાળવાથી દૂધ ફાટી શકે; રાંધ્યા પછી ઉમેરો અને તાજું દૂધ લો.",
+          "Four cups sweetened with jaggery. Contains milk and caffeine; jaggery is still an added sweetener.": "ગોળથી મીઠી કરેલી ચાના ચાર કપ. દૂધ અને કેફીન ધરાવે છે; ગોળ પણ ઉમેરેલી મીઠાશ છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Saffron Tea"
+      ],
+      "dish": {
+        "id": "kesar-chai",
+        "canonicalId": "kesar-chai",
+        "name": "Kesar Chai",
+        "cuisine": "Indian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "green cardamom",
+          "saffron"
+        ],
+        "method": "tea",
+        "time": 15,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "kesar-chai",
+        "name": "Kesar Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 350,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 550,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Warm 50 ml of the measured milk until just warm, not boiling. Lightly crumble the saffron into it and leave for 5 minutes while preparing the tea.",
+          "Crack the cardamom pods and boil with the water for 2 minutes. Add the tea leaves and simmer for 2 minutes until amber-brown and fragrant.",
+          "Add the remaining milk and sugar. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring to dissolve the sugar and prevent scorching.",
+          "Strain the tea into a jug, then stir in all the saffron milk and threads. Rest for 1 minute and divide into four cups so the saffron aroma is retained."
+        ],
+        "tips": [
+          "This is a saffron-forward brew; do not keep boiling after the saffron milk is added."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 15,
+        "passiveTime": null,
+        "notes": "Four fragrant cups. Contains milk and caffeine; the saffron quantity is for the full four-serving batch."
+      },
+      "translations": {
+        "hi": {
+          "Kesar Chai": "केसर चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "green cardamom": "हरी इलायची",
+          "saffron": "केसर",
+          "Warm 50 ml of the measured milk until just warm, not boiling. Lightly crumble the saffron into it and leave for 5 minutes while preparing the tea.": "नापे दूध में से 50 मिली बस गुनगुना करें, उबालें नहीं। केसर हल्का मसलकर डालें और चाय तैयार करते समय 5 मिनट रहने दें।",
+          "Crack the cardamom pods and boil with the water for 2 minutes. Add the tea leaves and simmer for 2 minutes until amber-brown and fragrant.": "इलायची फोड़कर पानी में 2 मिनट उबालें। चाय पत्ती डालें और अंबर-भूरा रंग तथा खुशबू आने तक 2 मिनट धीमा उबालें।",
+          "Add the remaining milk and sugar. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring to dissolve the sugar and prevent scorching.": "बाकी दूध और चीनी डालें। हल्का उबाल आने पर आँच धीमी करें और चीनी घुलने तथा नीचे न लगने के लिए चलाते हुए 3 मिनट पकाएँ।",
+          "Strain the tea into a jug, then stir in all the saffron milk and threads. Rest for 1 minute and divide into four cups so the saffron aroma is retained.": "चाय जग में छानें, फिर केसर वाला पूरा दूध और रेशे मिलाएँ। 1 मिनट रखें और चार कपों में बाँटें ताकि केसर की खुशबू बनी रहे।",
+          "This is a saffron-forward brew; do not keep boiling after the saffron milk is added.": "इस चाय में केसर का स्वाद प्रमुख है; केसर वाला दूध मिलाने के बाद उबालते न रहें।",
+          "Four fragrant cups. Contains milk and caffeine; the saffron quantity is for the full four-serving batch.": "चार खुशबूदार कप। दूध और कैफीन युक्त; केसर की मात्रा पूरे चार कपों के लिए है।"
+        },
+        "gu": {
+          "Kesar Chai": "કેસર ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "green cardamom": "લીલી એલચી",
+          "saffron": "કેસર",
+          "Warm 50 ml of the measured milk until just warm, not boiling. Lightly crumble the saffron into it and leave for 5 minutes while preparing the tea.": "માપેલા દૂધમાંથી 50 મિલી માત્ર હૂંફાળું કરો, ઉકાળશો નહીં. કેસર હળવું મસળી નાખો અને ચા બનાવતાં 5 મિનિટ રહેવા દો.",
+          "Crack the cardamom pods and boil with the water for 2 minutes. Add the tea leaves and simmer for 2 minutes until amber-brown and fragrant.": "એલચી ફોડી પાણીમાં 2 મિનિટ ઉકાળો. ચાની પત્તી નાખી અંબર-ભૂરો રંગ અને સુગંધ આવે ત્યાં સુધી 2 મિનિટ ધીમે ઉકાળો.",
+          "Add the remaining milk and sugar. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring to dissolve the sugar and prevent scorching.": "બાકી દૂધ અને ખાંડ ઉમેરો. હળવો ઉકાળો આવે ત્યારે તાપ ધીમો કરી ખાંડ ઓગળે અને તળિયે ન ચોંટે તે માટે હલાવતા 3 મિનિટ ઉકાળો.",
+          "Strain the tea into a jug, then stir in all the saffron milk and threads. Rest for 1 minute and divide into four cups so the saffron aroma is retained.": "ચા જગમાં ગાળો, પછી કેસરવાળું બધું દૂધ અને તાંતણા ઉમેરો. 1 મિનિટ રાખી ચાર કપમાં વહેંચો જેથી કેસરની સુગંધ જળવાય.",
+          "This is a saffron-forward brew; do not keep boiling after the saffron milk is added.": "આ ચામાં કેસરનો સ્વાદ મુખ્ય છે; કેસરવાળું દૂધ ઉમેર્યા પછી ઉકાળતા ન રહો.",
+          "Four fragrant cups. Contains milk and caffeine; the saffron quantity is for the full four-serving batch.": "ચાર સુગંધિત કપ. દૂધ અને કેફીન ધરાવે છે; કેસરનું માપ આખા ચાર કપ માટે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "tandoori-chai",
+        "canonicalId": "tandoori-chai",
+        "name": "Tandoori Chai",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "fresh ginger",
+          "green cardamom"
+        ],
+        "method": "tea",
+        "time": 25,
+        "effort": "special",
+        "kids": false,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 5,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "tandoori-chai",
+        "name": "Tandoori Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 450,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 550,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green cardamom",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "For the heated-clay finish, use only a food-safe kulhad explicitly rated by its maker for direct flame and thermal shock. Follow its heating instructions and use long tongs; if no suitable vessel is available, skip heating the clay and serve the brewed chai in ordinary food-safe kulhads.",
+          "Crush the ginger and cardamom. Boil them with the water for 3 minutes in a deep pan, add the tea leaves and simmer for 2 minutes until dark and strongly aromatic.",
+          "Add milk and sugar, bring just to a rising boil and reduce the heat. Simmer for 4 minutes, stirring regularly, then strain the hot chai into a pouring jug.",
+          "Using tongs, set the correctly heated kulhad upright inside a large deep stainless-steel bowl on a heatproof surface, away from children. Stand back and pour a little hot chai into it slowly; expect vigorous frothing and let it subside before adding more.",
+          "Lift the kulhad with tongs and pour its tea into the collecting bowl. Repeat in small additions with the remaining chai, then serve in four separate cups. Discard the tea if the clay vessel chips or cracks; never serve from the heated vessel."
+        ],
+        "tips": [
+          "Ordinary ceramic mugs and decorative terracotta are unsuitable for direct flame. The safe unheated-kulhad option will have less smoky flavour."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 25,
+        "passiveTime": null,
+        "notes": "Four cups. Contains milk and caffeine. The heated-clay finish requires purpose-made cookware and careful adult handling."
+      },
+      "translations": {
+        "hi": {
+          "Tandoori Chai": "तंदूरी चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "fresh ginger": "ताजा अदरक",
+          "green cardamom": "हरी इलायची",
+          "For the heated-clay finish, use only a food-safe kulhad explicitly rated by its maker for direct flame and thermal shock. Follow its heating instructions and use long tongs; if no suitable vessel is available, skip heating the clay and serve the brewed chai in ordinary food-safe kulhads.": "गरम मिट्टी वाले रूप के लिए केवल खाने योग्य ऐसा कुल्हड़ लें जिसे निर्माता ने सीधी आँच और अचानक ताप बदलने के लिए उपयुक्त बताया हो। उसके गरम करने के निर्देश मानें और लंबा चिमटा लें; उचित बर्तन न हो तो मिट्टी गरम करना छोड़ें और बनी चाय सामान्य खाद्य-सुरक्षित कुल्हड़ों में परोसें।",
+          "Crush the ginger and cardamom. Boil them with the water for 3 minutes in a deep pan, add the tea leaves and simmer for 2 minutes until dark and strongly aromatic.": "अदरक और इलायची कूटें। गहरे पतीले में पानी के साथ 3 मिनट उबालें, चाय पत्ती डालें और गहरा रंग तथा तेज खुशबू आने तक 2 मिनट हल्का उबालें।",
+          "Add milk and sugar, bring just to a rising boil and reduce the heat. Simmer for 4 minutes, stirring regularly, then strain the hot chai into a pouring jug.": "दूध और चीनी डालें, उफान आते ही आँच घटाएँ। नियमित चलाते हुए 4 मिनट हल्का उबालें, फिर गरम चाय डालने वाले जग में छानें।",
+          "Using tongs, set the correctly heated kulhad upright inside a large deep stainless-steel bowl on a heatproof surface, away from children. Stand back and pour a little hot chai into it slowly; expect vigorous frothing and let it subside before adding more.": "चिमटे से सही तरह गरम कुल्हड़ को बड़े गहरे स्टील के कटोरे में सीधा रखें। नीचे गरमी सहने वाली सतह हो और बच्चे दूर हों। पीछे रहकर थोड़ी गरम चाय धीरे डालें; तेज झाग उठेगा, और डालने से पहले उसे शांत होने दें।",
+          "Lift the kulhad with tongs and pour its tea into the collecting bowl. Repeat in small additions with the remaining chai, then serve in four separate cups. Discard the tea if the clay vessel chips or cracks; never serve from the heated vessel.": "चिमटे से कुल्हड़ उठाकर उसकी चाय नीचे वाले कटोरे में डालें। बची चाय थोड़ी-थोड़ी डालकर यही करें और चार अलग कपों में परोसें। मिट्टी का बर्तन चटके या टूटे तो चाय फेंक दें; गरम किए बर्तन में सीधे न परोसें।",
+          "Ordinary ceramic mugs and decorative terracotta are unsuitable for direct flame. The safe unheated-kulhad option will have less smoky flavour.": "सामान्य चीनी-मिट्टी के मग और सजावटी मिट्टी के बर्तन सीधी आँच के लिए ठीक नहीं हैं। सुरक्षित बिना गरम कुल्हड़ वाले विकल्प में धुएँ जैसा स्वाद कम होगा।",
+          "Four cups. Contains milk and caffeine. The heated-clay finish requires purpose-made cookware and careful adult handling.": "चार कप। दूध और कैफीन युक्त। गरम मिट्टी वाला रूप विशेष बर्तन और वयस्क की सावधानी से तैयार करें।"
+        },
+        "gu": {
+          "Tandoori Chai": "તંદૂરી ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "fresh ginger": "તાજું આદુ",
+          "green cardamom": "લીલી એલચી",
+          "For the heated-clay finish, use only a food-safe kulhad explicitly rated by its maker for direct flame and thermal shock. Follow its heating instructions and use long tongs; if no suitable vessel is available, skip heating the clay and serve the brewed chai in ordinary food-safe kulhads.": "ગરમ માટીવાળા સ્વરૂપ માટે માત્ર એવો ખાદ્ય-સુરક્ષિત કુલ્હડ લો જેને ઉત્પાદકે સીધી જ્યોત અને અચાનક તાપફેર માટે યોગ્ય ગણાવ્યો હોય. તેની ગરમ કરવાની સૂચના પાળો અને લાંબો સાણસો લો; યોગ્ય વાસણ ન હોય તો માટી ગરમ કરવાનું છોડીને તૈયાર ચા સામાન્ય ખાદ્ય-સુરક્ષિત કુલ્હડમાં પીરસો.",
+          "Crush the ginger and cardamom. Boil them with the water for 3 minutes in a deep pan, add the tea leaves and simmer for 2 minutes until dark and strongly aromatic.": "આદુ અને એલચી કૂટો. ઊંડા તપેલામાં પાણી સાથે 3 મિનિટ ઉકાળો, ચાની પત્તી નાખી ઘેરો રંગ અને તીવ્ર સુગંધ આવે ત્યાં સુધી 2 મિનિટ ધીમે ઉકાળો.",
+          "Add milk and sugar, bring just to a rising boil and reduce the heat. Simmer for 4 minutes, stirring regularly, then strain the hot chai into a pouring jug.": "દૂધ અને ખાંડ નાખો, ઊભરો આવે એટલે તાપ ઘટાડો. નિયમિત હલાવતા 4 મિનિટ ધીમે ઉકાળો અને પછી ગરમ ચા રેડવાના જગમાં ગાળો.",
+          "Using tongs, set the correctly heated kulhad upright inside a large deep stainless-steel bowl on a heatproof surface, away from children. Stand back and pour a little hot chai into it slowly; expect vigorous frothing and let it subside before adding more.": "સાણસાથી યોગ્ય રીતે ગરમ કરેલો કુલ્હડ મોટા ઊંડા સ્ટીલના વાટકામાં સીધો મૂકો. નીચે ગરમી સહન કરતી સપાટી હોય અને બાળકો દૂર હોય. પાછળ ઊભા રહી થોડી ગરમ ચા ધીમે રેડો; ઘણું ફીણ ઊઠશે, વધુ ઉમેરતાં પહેલાં તેને શમવા દો.",
+          "Lift the kulhad with tongs and pour its tea into the collecting bowl. Repeat in small additions with the remaining chai, then serve in four separate cups. Discard the tea if the clay vessel chips or cracks; never serve from the heated vessel.": "સાણસાથી કુલ્હડ ઊંચકી તેની ચા નીચેના વાટકામાં રેડો. બાકીની ચા થોડી-થોડી નાખી આ રીતે કરો અને ચાર અલગ કપમાં પીરસો. માટીનું વાસણ તૂટે કે તિરાડ પડે તો ચા ફેંકી દો; ગરમ કરેલા વાસણમાં સીધી ન પીરસો.",
+          "Ordinary ceramic mugs and decorative terracotta are unsuitable for direct flame. The safe unheated-kulhad option will have less smoky flavour.": "સામાન્ય સિરામિક મગ અને સજાવટી માટીનાં વાસણ સીધી જ્યોત માટે યોગ્ય નથી. સુરક્ષિત ગરમ કર્યા વગરના કુલ્હડવાળા વિકલ્પમાં ધુમાડા જેવો સ્વાદ ઓછો હશે.",
+          "Four cups. Contains milk and caffeine. The heated-clay finish requires purpose-made cookware and careful adult handling.": "ચાર કપ. દૂધ અને કેફીન ધરાવે છે. ગરમ માટીવાળું સ્વરૂપ ખાસ વાસણ અને પુખ્ત વ્યક્તિની સાવચેતીથી બનાવવું જરૂરી છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Gavti Chaha"
+      ],
+      "dish": {
+        "id": "lemongrass-tea",
+        "canonicalId": "lemongrass-tea",
+        "name": "Lemongrass Tea",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "fresh lemongrass"
+        ],
+        "method": "tea",
+        "time": 12,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "lemongrass-tea",
+        "name": "Lemongrass Tea",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 400,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 36,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh lemongrass",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rinse the lemongrass thoroughly. Snip the leaves into short lengths and gently bruise any tender stalk pieces with the back of a knife to release their lemony scent.",
+          "Bring the water and lemongrass to a boil in a deep saucepan. Simmer for 3 minutes until fragrant, then add the tea leaves and simmer for 2 minutes.",
+          "Pour in the milk and stir in the sugar. Bring just to the boil, reduce the heat and cook for 3 minutes, watching closely to prevent the milk from boiling over.",
+          "Strain through a fine sieve to remove every fibrous leaf and stalk. Divide into four cups and serve hot while the fresh citrus aroma is strongest."
+        ],
+        "tips": [
+          "Use culinary lemongrass, not lawn grass; strain carefully because the leaves remain fibrous after brewing."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 12,
+        "passiveTime": null,
+        "notes": "Four cups of Maharashtrian gavti chaha. Contains milk and caffeine."
+      },
+      "translations": {
+        "hi": {
+          "Lemongrass Tea": "लेमनग्रास चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "fresh lemongrass": "ताजी लेमनग्रास",
+          "Rinse the lemongrass thoroughly. Snip the leaves into short lengths and gently bruise any tender stalk pieces with the back of a knife to release their lemony scent.": "लेमनग्रास अच्छी तरह धोएँ। पत्तियाँ छोटे टुकड़ों में काटें और नरम डंठल चाकू की पिछली तरफ से हल्के दबाएँ ताकि नींबू जैसी खुशबू निकले।",
+          "Bring the water and lemongrass to a boil in a deep saucepan. Simmer for 3 minutes until fragrant, then add the tea leaves and simmer for 2 minutes.": "गहरे पतीले में पानी और लेमनग्रास उबालें। खुशबू आने तक 3 मिनट धीमा पकाएँ, फिर चाय पत्ती डालकर 2 मिनट हल्का उबालें।",
+          "Pour in the milk and stir in the sugar. Bring just to the boil, reduce the heat and cook for 3 minutes, watching closely to prevent the milk from boiling over.": "दूध और चीनी डालकर मिलाएँ। उबाल आते ही आँच धीमी करें और 3 मिनट पकाएँ। ध्यान रखें कि दूध उफनकर बाहर न आए।",
+          "Strain through a fine sieve to remove every fibrous leaf and stalk. Divide into four cups and serve hot while the fresh citrus aroma is strongest.": "बारीक छलनी से छानकर सभी रेशेदार पत्तियाँ और डंठल निकाल दें। चार कपों में बाँटकर ताजी खुशबू रहते गरम परोसें।",
+          "Use culinary lemongrass, not lawn grass; strain carefully because the leaves remain fibrous after brewing.": "खाने में इस्तेमाल होने वाली लेमनग्रास लें, बगीचे की घास नहीं; पत्तियाँ पकने के बाद भी रेशेदार रहती हैं, इसलिए अच्छी तरह छानें।",
+          "Four cups of Maharashtrian gavti chaha. Contains milk and caffeine.": "महाराष्ट्रीयन गवती चहा के चार कप। दूध और कैफीन युक्त।"
+        },
+        "gu": {
+          "Lemongrass Tea": "લીલી ચાની ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "fresh lemongrass": "તાજી લીલી ચા",
+          "Rinse the lemongrass thoroughly. Snip the leaves into short lengths and gently bruise any tender stalk pieces with the back of a knife to release their lemony scent.": "લીલી ચા સારી રીતે ધુઓ. પાનના નાના ટુકડા કરો અને નરમ દાંડીને છરીની પાછળની બાજુથી હળવી દબાવો જેથી લીંબુ જેવી સુગંધ છૂટે.",
+          "Bring the water and lemongrass to a boil in a deep saucepan. Simmer for 3 minutes until fragrant, then add the tea leaves and simmer for 2 minutes.": "ઊંડા તપેલામાં પાણી અને લીલી ચા ઉકાળો. સુગંધ આવે ત્યાં સુધી 3 મિનિટ ધીમે ઉકાળો, પછી ચાની પત્તી નાખી 2 મિનિટ ઉકાળો.",
+          "Pour in the milk and stir in the sugar. Bring just to the boil, reduce the heat and cook for 3 minutes, watching closely to prevent the milk from boiling over.": "દૂધ અને ખાંડ નાખી હલાવો. ઉકાળો આવે એટલે તાપ ધીમો કરી 3 મિનિટ ઉકાળો. દૂધ ઊભરાઈને બહાર ન આવે તેનું ધ્યાન રાખો.",
+          "Strain through a fine sieve to remove every fibrous leaf and stalk. Divide into four cups and serve hot while the fresh citrus aroma is strongest.": "ઝીણી ચાળણીથી ગાળી બધાં રેસાવાળાં પાન અને દાંડી કાઢી નાખો. ચાર કપમાં વહેંચી તાજી સુગંધ હોય ત્યારે ગરમ પીરસો.",
+          "Use culinary lemongrass, not lawn grass; strain carefully because the leaves remain fibrous after brewing.": "રસોઈમાં વપરાતી લીલી ચા લો, બગીચાનું ઘાસ નહીં; ઉકાળ્યા પછી પણ પાન રેસાવાળાં રહે છે તેથી સારી રીતે ગાળો.",
+          "Four cups of Maharashtrian gavti chaha. Contains milk and caffeine.": "મહારાષ્ટ્રીયન ગવતી ચહાના ચાર કપ. દૂધ અને કેફીન ધરાવે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Mint Tea"
+      ],
+      "dish": {
+        "id": "pudina-chai",
+        "canonicalId": "pudina-chai",
+        "name": "Pudina Chai",
+        "cuisine": "Indian",
+        "categories": [
+          "Tea",
+          "Hot Drinks",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water",
+          "milk",
+          "black tea leaves",
+          "sugar",
+          "fresh mint leaves"
+        ],
+        "method": "tea",
+        "time": 12,
+        "effort": "easy",
+        "kids": false,
+        "nutrition": [
+          "quick"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "pudina-chai",
+        "name": "Pudina Chai",
+        "baseServings": 4,
+        "batchSize": 4,
+        "ingredients": [
+          {
+            "name": "water",
+            "qty": 400,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "evaporation"
+          },
+          {
+            "name": "milk",
+            "qty": 500,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "black tea leaves",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 36,
+            "unit": "g",
+            "group": "Other",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh mint leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Pick the mint leaves from any tough stems and rinse them in several changes of water. Drain well and lightly tear the leaves just before using.",
+          "Bring the water to a boil, add the tea leaves and simmer for 2 minutes. Add half the mint and cook for another 1 minute so its aroma enters the brew.",
+          "Add the milk and sugar and stir. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring occasionally to prevent a skin forming at the bottom.",
+          "Switch off, add the remaining mint and cover for 1 minute. Strain immediately into four cups; the tea should smell fresh and minty rather than taste like overcooked greens."
+        ],
+        "tips": [
+          "Adding some mint after switching off preserves its fragrance; do not leave the leaves sitting in the finished tea."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 12,
+        "passiveTime": null,
+        "notes": "Four cups of fresh mint milk tea. Contains milk and caffeine."
+      },
+      "translations": {
+        "hi": {
+          "Pudina Chai": "पुदीना चाय",
+          "water": "पानी",
+          "milk": "दूध",
+          "black tea leaves": "काली चाय की पत्ती",
+          "sugar": "चीनी",
+          "fresh mint leaves": "ताजी पुदीने की पत्तियाँ",
+          "Pick the mint leaves from any tough stems and rinse them in several changes of water. Drain well and lightly tear the leaves just before using.": "पुदीने के सख्त डंठल हटाकर पत्तियाँ कई बार पानी बदलकर धोएँ। पानी निकालें और इस्तेमाल से ठीक पहले पत्तियाँ हल्की तोड़ें।",
+          "Add the milk and sugar and stir. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring occasionally to prevent a skin forming at the bottom.": "दूध और चीनी डालकर मिलाएँ। हल्का उबाल आने पर आँच धीमी करें और 3 मिनट बीच-बीच में चलाते हुए पकाएँ ताकि नीचे परत न जमे।",
+          "Switch off, add the remaining mint and cover for 1 minute. Strain immediately into four cups; the tea should smell fresh and minty rather than taste like overcooked greens.": "आँच बंद करें, बाकी पुदीना डालें और 1 मिनट ढकें। तुरंत चार कपों में छानें; चाय से ताजा पुदीने की खुशबू आए, ज्यादा पकी पत्तियों जैसा स्वाद नहीं।",
+          "Adding some mint after switching off preserves its fragrance; do not leave the leaves sitting in the finished tea.": "आँच बंद करने के बाद थोड़ा पुदीना डालने से खुशबू बचती है; तैयार चाय में पत्तियाँ पड़ी न रहने दें।",
+          "Four cups of fresh mint milk tea. Contains milk and caffeine.": "ताजे पुदीने वाली दूध की चाय के चार कप। दूध और कैफीन युक्त।",
+          "Bring the water to a boil, add the tea leaves and simmer for 2 minutes. Add half the mint and cook for another 1 minute so its aroma enters the brew.": "पानी उबालें, चाय पत्ती डालकर 2 मिनट धीमा पकाएँ। आधा पुदीना डालें और खुशबू काढ़े में आने तक 1 मिनट और पकाएँ।"
+        },
+        "gu": {
+          "Pudina Chai": "ફુદીનાની ચા",
+          "water": "પાણી",
+          "milk": "દૂધ",
+          "black tea leaves": "કાળી ચાની પત્તી",
+          "sugar": "ખાંડ",
+          "fresh mint leaves": "તાજાં ફુદીનાનાં પાન",
+          "Pick the mint leaves from any tough stems and rinse them in several changes of water. Drain well and lightly tear the leaves just before using.": "ફુદીનાની કઠણ દાંડી કાઢી પાનને પાણી બદલીને ઘણી વાર ધુઓ. પાણી નિતારો અને વાપરતાં પહેલાં જ પાન હળવાં તોડો.",
+          "Add the milk and sugar and stir. Bring to a gentle boil, lower the heat and simmer for 3 minutes, stirring occasionally to prevent a skin forming at the bottom.": "દૂધ અને ખાંડ નાખી હલાવો. હળવો ઉકાળો આવે ત્યારે તાપ ધીમો કરી 3 મિનિટ વચ્ચે હલાવતા ઉકાળો જેથી તળિયે પડ ન જામે.",
+          "Switch off, add the remaining mint and cover for 1 minute. Strain immediately into four cups; the tea should smell fresh and minty rather than taste like overcooked greens.": "તાપ બંધ કરો, બાકી ફુદીનો નાખી 1 મિનિટ ઢાંકો. તરત ચાર કપમાં ગાળો; ચામાં તાજા ફુદીનાની સુગંધ હોવી જોઈએ, વધારે રાંધેલા પાન જેવો સ્વાદ નહીં.",
+          "Adding some mint after switching off preserves its fragrance; do not leave the leaves sitting in the finished tea.": "તાપ બંધ કર્યા પછી થોડો ફુદીનો નાખવાથી સુગંધ જળવાય છે; તૈયાર ચામાં પાન પડ્યાં ન રહેવા દો.",
+          "Four cups of fresh mint milk tea. Contains milk and caffeine.": "તાજા ફુદીનાવાળી દૂધની ચાના ચાર કપ. દૂધ અને કેફીન ધરાવે છે.",
+          "Bring the water to a boil, add the tea leaves and simmer for 2 minutes. Add half the mint and cook for another 1 minute so its aroma enters the brew.": "પાણી ઉકાળો, ચાની પત્તી નાખી 2 મિનિટ ધીમે ઉકાળો. અડધો ફુદીનો નાખી તેની સુગંધ કાવામાં આવે ત્યાં સુધી વધુ 1 મિનિટ ઉકાળો."
+        }
+      }
+    }
+  ]
+}
