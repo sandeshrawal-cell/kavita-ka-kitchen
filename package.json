@@ -8,7 +8,9 @@
     "build": "node scripts/build.mjs",
     "dev": "node scripts/serve.mjs",
     "test": "node --test --test-isolation=none tests/*.test.mjs",
-    "test:db": "node --test --test-isolation=none tests/database.test.mjs"
+    "test:db": "node --test --test-isolation=none tests/database.test.mjs",
+    "validate:catalog": "node scripts/validate-catalog.mjs",
+    "validate:batch": "node scripts/validate-catalog.mjs --batch"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.112.4"

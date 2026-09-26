@@ -38,11 +38,29 @@ export function scaleSuitability(d,servings,mode='home'){
   const penalty=(servings>=1000?3:servings>=300?2:servings>=50?1:0)*(d.individualPrep?2:0.25);
   return Math.max(0,Math.min(10,Math.round(base-penalty)));
 }
+export function recipeDietaryFacts(recipe){
+ if(!recipe||recipe.status!=='complete'||!recipe.steps?.length)return {};
+ const text=recipe.steps.join(' '),ingredients=recipe.ingredients.map(i=>typeof i==='string'?i:i.name).join(' ');
+ // Fermentation instructions, unlike soaking or resting alone, require review.
+ return {yeast:/\byeast\b/i.test(ingredients),overnightFermentation:! /ferment/i.test(text)?false:/overnight/i.test(text)?true:null};
+}
+export const JAIN_CHOICES = [['onionGarlic','Onion and garlic'],['roots','Roots and tubers'],['freshGinger','Fresh ginger'],['driedGinger','Dried ginger'],['peanuts','Peanuts'],['tapioca','Sabudana / tapioca'],['honey','Honey'],['mushrooms','Mushrooms'],['yeast','Yeast'],['overnightFermentation','Overnight fermentation']];
+export function confirmedJainRules(r){return r?.confirmed===true&&JAIN_CHOICES.every(([key])=>typeof r[key]==='boolean');}
+export function matchesJainRules(d,r){
+ if(!confirmedJainRules(r)||!d.ingredientsComplete)return false;
+ const names=d.ingredients.map(x=>ingredientKey(typeof x==='string'?x:x.name));
+ const checks={onionGarlic:/\b(onions?|garlic|shallots?|leeks?|scallions?|chives?|pyaz|pyaaz|kanda|lasun|lahsun)\b/i,roots:/\b(potato(?:es)?|carrots?|beetroots?|radish|turnips?|yams?|cassava|arrowroot|arbi|taro|suran|aloo|batata|bateta|gajar|mooli|fresh turmeric)\b/i,peanuts:/\b(peanuts?|groundnuts?|shengdana)\b/i,tapioca:/\b(sabudana|tapioca|sago)\b/i,honey:/\bhoney\b/i,mushrooms:/\bmushrooms?\b/i,yeast:/\byeast\b/i};
+ for(const [key,re] of Object.entries(checks))if(r[key]&&names.some(n=>re.test(n)))return false;
+ for(const n of names)if(/\b(ginger|adrak|sonth|saunth)\b/i.test(n)){const dried=/dried|dry|powder|sonth|saunth/i.test(n);if(r[dried?'driedGinger':'freshGinger'])return false;}
+ if(r.yeast&&d.dietaryFacts?.yeast===true)return false;
+ if(r.overnightFermentation&&d.dietaryFacts?.overnightFermentation!==false)return false;
+ return true;
+}
 export function eligible(d,f={},s={},at=Date.now()){
   if(d.vegetarian!==true||d.eggless!==true||!vegetarianText([d.name,...d.ingredients].join(' ')))return false;
   if((s.hidden||[]).includes(d.id)||(s.hidden||[]).includes(d.canonicalId)||lockedUntil(d,s.history,at))return false;
   const ingredients=d.ingredients.map(ingredientKey),hay=ingredients.join(' ');
-  if(f.jain && (d.jainVerified!==true||ROOTS.test(hay)))return false;
+  if((f.jain||f.category==='Jain') && !matchesJainRules(d,f.jainRules))return false;
   for(const ex of unique([...(s.exclusions||[]),...(f.exclusions||[])])){
     const n=ingredientKey(ex).replace(/^no\s+/,'');if(!n)continue;
     if(!d.ingredientsComplete)return false;
@@ -97,7 +115,7 @@ export function searchSummary(results,visible){
 export function recommend(dishes,f={},s={},limit=70,at=Date.now()){
   const category=f.category||'Dinner',seen=new Set(),rows=[];
   for(const d of dishes){
-    if(!d.categories.includes(category)||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
+    if((category!=='Jain'&&category!=='Any'&&!d.categories.includes(category))||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
     const textScore=textMatchScore(d,f.query);
     const fits=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||(!d.advancePrep&&d.time<=f.time))&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0);
     if(!fits)continue;

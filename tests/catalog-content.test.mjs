@@ -4,7 +4,8 @@ import fs from 'node:fs/promises';
 import {parseSearch,recommend} from '../src/core.js';
 const dishes=JSON.parse(await fs.readFile(new URL('../catalog/generated/dishes.json',import.meta.url)));
 test('every published dish has a measured multi-step recipe',async()=>{
- assert.equal(dishes.length,356);
+ const approved=JSON.parse(await fs.readFile(new URL('../catalog/approved/wave1.json',import.meta.url)));
+ assert.equal(dishes.length,356+approved.entries.length);
  for(const d of dishes){
   const r=JSON.parse(await fs.readFile(new URL('../public/data/recipes/'+d.id+'.json',import.meta.url)));
   assert.equal(r.status,'complete',d.id);assert.equal(d.recipeStatus,'complete',d.id);

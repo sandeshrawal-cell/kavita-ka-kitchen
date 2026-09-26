@@ -1,0 +1,1871 @@
+{
+  "batch": "wave1-batch01-vrat",
+  "reviewStatus": "published",
+  "publicationApproved": true,
+  "jainPolicy": "Household-defined; jainVerified is retained as false and does not assert universal suitability.",
+  "sources": [
+    {
+      "url": "https://www.vegrecipesofindia.com/sabudana-thalipeeth-sabudana-fasting-recipe/",
+      "use": "Dish identity reference only; independently authored quantities and instructions."
+    },
+    {
+      "url": "https://www.vegrecipesofindia.com/farali-pattice-recipe/",
+      "use": "Potato shell and coconut filling regional reference."
+    },
+    {
+      "url": "https://www.vegrecipesofindia.com/singhare-ki-poori/",
+      "use": "Confirm traditional potato binding despite CSV Jain flag."
+    },
+    {
+      "url": "https://www.whiskaffair.com/shengdana-amti-recipe/",
+      "use": "Regional dish identity reference."
+    }
+  ],
+  "entries": [
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "sabudana-thalipeeth",
+        "canonicalId": "sabudana-thalipeeth",
+        "name": "Sabudana Thalipeeth",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Vrat/Fasting",
+          "Breakfast",
+          "Snacks",
+          "Breads",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "sabudana (tapioca pearls)",
+          "potato",
+          "roasted peanuts",
+          "cumin seeds",
+          "green chilli",
+          "coriander leaves",
+          "lemon juice",
+          "rock salt",
+          "oil",
+          "water"
+        ],
+        "method": "griddle",
+        "time": 50,
+        "effort": "easy",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "peanut"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "sabudana-thalipeeth",
+        "name": "Sabudana Thalipeeth",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "sabudana (tapioca pearls)",
+            "qty": 240,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 300,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "roasted peanuts",
+            "qty": 70,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 30,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 300,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rinse the sabudana in a sieve until the runoff is almost clear. Place in a bowl with the measured water, cover and soak for 4–6 hours, until a pearl crushes easily between your fingers without a hard centre. Drain any unabsorbed water thoroughly.",
+          "While the pearls soak, simmer the whole potatoes in a separate pan of water for 20–25 minutes, until a knife slides through. Drain, cool enough to handle, peel and mash smoothly; discard the cooking water.",
+          "Crush the roasted peanuts coarsely. Finely chop the chilli and coriander, then mix with the drained pearls, potato, cumin, lemon juice and rock salt. Squeeze a small portion: it should hold together without dripping moisture.",
+          "Divide into eight portions. With damp fingers, pat each portion on a small piece of baking parchment into a disc about 12 cm wide and 5 mm thick. Make a small hole in the centre so the middle cooks evenly.",
+          "Heat a heavy griddle over medium heat. Brush with a little of the measured oil, invert a disc onto it and peel away the parchment immediately. Spoon a little oil around the edge and into the centre.",
+          "Cook for 4–5 minutes until the underside has golden patches and releases easily. Turn carefully and cook the other side for 3–4 minutes; the pearls should look translucent and the centre should be set, with no raw crunch. Repeat with the remaining discs and oil."
+        ],
+        "tips": [
+          "Very wet pearls make the dough sticky; drain well before mixing. Serve two small thalipeeth per person."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": "Soak sabudana for 4–6 hours; allow potatoes to cool for about 15 minutes.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Sabudana Thalipeeth": "साबूदाना थालीपीठ",
+          "Rinse the sabudana in a sieve until the runoff is almost clear. Place in a bowl with the measured water, cover and soak for 4–6 hours, until a pearl crushes easily between your fingers without a hard centre. Drain any unabsorbed water thoroughly.": "साबूदाना छलनी में धोएँ, जब तक पानी लगभग साफ न निकले। नापे हुए पानी में ढककर 4–6 घंटे भिगोएँ। दाना उँगलियों से आसानी से दबना चाहिए और बीच में कड़ापन नहीं होना चाहिए। बचा पानी पूरी तरह छान दें।",
+          "While the pearls soak, simmer the whole potatoes in a separate pan of water for 20–25 minutes, until a knife slides through. Drain, cool enough to handle, peel and mash smoothly; discard the cooking water.": "साबूदाना भीगते समय साबुत आलू अलग पानी में 20–25 मिनट उबालें, जब तक चाकू आसानी से आर-पार हो जाए। पानी निकालें, संभालने लायक ठंडा करें, छीलें और चिकना मसलें। उबालने का पानी फेंक दें।",
+          "Crush the roasted peanuts coarsely. Finely chop the chilli and coriander, then mix with the drained pearls, potato, cumin, lemon juice and rock salt. Squeeze a small portion: it should hold together without dripping moisture.": "भुनी मूँगफली दरदरी कूटें। मिर्च और हरा धनिया बारीक काटकर साबूदाने, आलू, जीरे, नींबू के रस और सेंधा नमक में मिलाएँ। थोड़ा मिश्रण दबाने पर बँधना चाहिए, पानी नहीं टपकना चाहिए।",
+          "Divide into eight portions. With damp fingers, pat each portion on a small piece of baking parchment into a disc about 12 cm wide and 5 mm thick. Make a small hole in the centre so the middle cooks evenly.": "आठ भाग करें। गीली उँगलियों से बेकिंग पेपर पर हर भाग को लगभग 12 सेमी चौड़ा और 5 मिमी मोटा थपथपाएँ। बीच में छोटा छेद करें ताकि मध्य भाग समान रूप से पके।",
+          "Heat a heavy griddle over medium heat. Brush with a little of the measured oil, invert a disc onto it and peel away the parchment immediately. Spoon a little oil around the edge and into the centre.": "भारी तवा मध्यम आँच पर गरम करें। नापे हुए तेल में से थोड़ा लगाएँ, थालीपीठ उलटकर तवे पर डालें और कागज तुरंत हटा दें। किनारों और बीच के छेद में थोड़ा तेल डालें।",
+          "Cook for 4–5 minutes until the underside has golden patches and releases easily. Turn carefully and cook the other side for 3–4 minutes; the pearls should look translucent and the centre should be set, with no raw crunch. Repeat with the remaining discs and oil.": "4–5 मिनट पकाएँ, जब तक नीचे सुनहरे धब्बे पड़ें और आसानी से उठ सके। सावधानी से पलटकर 3–4 मिनट पकाएँ। साबूदाना पारदर्शी दिखे और बीच का भाग जमा हुआ हो, कच्चा कुरकुरापन न रहे। बाकी थालीपीठ भी बचे तेल से पकाएँ।",
+          "sabudana (tapioca pearls)": "साबूदाना (टैपिओका दाने)",
+          "potato": "आलू",
+          "roasted peanuts": "भुनी मूँगफली",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "lemon juice": "नींबू का रस",
+          "rock salt": "सेंधा नमक",
+          "oil": "तेल",
+          "water": "पानी",
+          "Very wet pearls make the dough sticky; drain well before mixing. Serve two small thalipeeth per person.": "बहुत गीले दानों से आटा चिपचिपा होता है; मिलाने से पहले अच्छी तरह छानें। प्रति व्यक्ति दो छोटे थालीपीठ परोसें।",
+          "Soak sabudana for 4–6 hours; allow potatoes to cool for about 15 minutes.": "साबूदाना 4–6 घंटे भिगोएँ; आलू लगभग 15 मिनट ठंडा करें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Sabudana Thalipeeth": "સાબુદાણા થાલીપીઠ",
+          "Rinse the sabudana in a sieve until the runoff is almost clear. Place in a bowl with the measured water, cover and soak for 4–6 hours, until a pearl crushes easily between your fingers without a hard centre. Drain any unabsorbed water thoroughly.": "સાબુદાણા ચાળણીમાં ધુઓ, જ્યાં સુધી પાણી લગભગ ચોખ્ખું નીકળે. માપેલા પાણીમાં ઢાંકીને 4–6 કલાક પલાળો. દાણો આંગળીઓથી સહેલાઈથી દબાય અને વચ્ચે કઠણ ન રહે. વધેલું પાણી સંપૂર્ણ નિતારો.",
+          "While the pearls soak, simmer the whole potatoes in a separate pan of water for 20–25 minutes, until a knife slides through. Drain, cool enough to handle, peel and mash smoothly; discard the cooking water.": "દાણા પલળે ત્યાં સુધી આખા બટાકા અલગ પાણીમાં 20–25 મિનિટ ઉકાળો, જ્યાં સુધી છરી સહેલાઈથી પસાર થાય. પાણી નિતારો, પકડી શકાય એટલા ઠંડા કરો, છાલ ઉતારી સુંવાળા મસળો. ઉકાળેલું પાણી ફેંકી દો.",
+          "Crush the roasted peanuts coarsely. Finely chop the chilli and coriander, then mix with the drained pearls, potato, cumin, lemon juice and rock salt. Squeeze a small portion: it should hold together without dripping moisture.": "શેકેલી મગફળી અધકચરી કૂટો. મરચું અને કોથમીર ઝીણાં કાપી સાબુદાણા, બટાકા, જીરું, લીંબુનો રસ અને સિંધવ મીઠા સાથે ભેળવો. થોડું મિશ્રણ દબાવતાં બંધાવું જોઈએ, પાણી ટપકવું નહીં.",
+          "Divide into eight portions. With damp fingers, pat each portion on a small piece of baking parchment into a disc about 12 cm wide and 5 mm thick. Make a small hole in the centre so the middle cooks evenly.": "આઠ ભાગ કરો. ભીની આંગળીઓથી બેકિંગ કાગળ પર દરેક ભાગ આશરે 12 સેમી પહોળો અને 5 મિમી જાડો થાપો. વચ્ચે નાનું કાણું કરો જેથી મધ્ય ભાગ સરખો શેકાય.",
+          "Heat a heavy griddle over medium heat. Brush with a little of the measured oil, invert a disc onto it and peel away the parchment immediately. Spoon a little oil around the edge and into the centre.": "ભારે તવો મધ્યમ તાપે ગરમ કરો. માપેલા તેલમાંથી થોડું લગાવો, થાલીપીઠ ઊંધું તવા પર મૂકો અને કાગળ તરત કાઢો. કિનારી અને વચ્ચેના કાણામાં થોડું તેલ નાખો.",
+          "Cook for 4–5 minutes until the underside has golden patches and releases easily. Turn carefully and cook the other side for 3–4 minutes; the pearls should look translucent and the centre should be set, with no raw crunch. Repeat with the remaining discs and oil.": "4–5 મિનિટ શેકો, નીચે સોનેરી ડાઘ પડે અને સહેલાઈથી ઊખડે ત્યાં સુધી. સાચવીને ફેરવી બીજી બાજુ 3–4 મિનિટ શેકો. દાણા પારદર્શક અને મધ્ય ભાગ બંધાયેલો હોવો જોઈએ; કાચો કડક ભાગ ન રહે. બાકીનાં પણ વધેલા તેલથી શેકો.",
+          "sabudana (tapioca pearls)": "સાબુદાણા (ટેપિયોકાના દાણા)",
+          "potato": "બટાકા",
+          "roasted peanuts": "શેકેલી મગફળી",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "lemon juice": "લીંબુનો રસ",
+          "rock salt": "સિંધવ મીઠું",
+          "oil": "તેલ",
+          "water": "પાણી",
+          "Very wet pearls make the dough sticky; drain well before mixing. Serve two small thalipeeth per person.": "ખૂબ ભીના દાણાથી લોટ ચીકણો થાય છે; ભેળવતાં પહેલાં સારી રીતે નિતારો. વ્યક્તિ દીઠ બે નાના થાલીપીઠ પીરસો.",
+          "Soak sabudana for 4–6 hours; allow potatoes to cool for about 15 minutes.": "સાબુદાણા 4–6 કલાક પલાળો; બટાકા આશરે 15 મિનિટ ઠંડા કરો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "farali-pattice",
+        "canonicalId": "farali-pattice",
+        "name": "Farali Pattice",
+        "cuisine": "Gujarati",
+        "categories": [
+          "Vrat/Fasting",
+          "Snacks",
+          "Party Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "potato",
+          "arrowroot flour",
+          "fresh coconut",
+          "roasted peanuts",
+          "cashew",
+          "raisins",
+          "ginger",
+          "green chilli",
+          "coriander leaves",
+          "lemon juice",
+          "sugar",
+          "rock salt",
+          "oil"
+        ],
+        "method": "fry",
+        "time": 60,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "peanut",
+          "tree nuts"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "farali-pattice",
+        "name": "Farali Pattice",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "potato",
+            "qty": 700,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "arrowroot flour",
+            "qty": 60,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh coconut",
+            "qty": 80,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "roasted peanuts",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cashew",
+            "qty": 25,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "raisins",
+            "qty": 25,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "ginger",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 10,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 6,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 80,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Simmer the whole potatoes in water for 25–30 minutes until tender through the centre. Drain completely, peel while warm and mash without adding water. Spread on a plate to cool for 20 minutes so steam escapes.",
+          "Grate the coconut and ginger, chop the cashews and raisins, and crush the roasted peanuts. Mix these with finely chopped chilli and coriander, lemon juice, sugar and half the rock salt to make a moist, loose filling.",
+          "Mix the cooled potato with 40 g of the arrowroot flour and the remaining salt. Divide into eight portions. Keep the remaining 20 g flour on a plate for dusting.",
+          "Flatten a potato portion in your palm, add one eighth of the filling, and bring the edges together. Seal completely, then flatten gently into a thick patty. Repeat, keeping the filling enclosed so it cannot spill into the oil.",
+          "Dust each patty lightly with the reserved arrowroot. Heat half the oil in a heavy frying pan over medium heat and add four patties without crowding. Shallow-fry for 4–5 minutes without moving them until a firm golden crust forms.",
+          "Turn with a broad spatula and cook for another 4–5 minutes until both faces are crisp and the centre is hot. Drain briefly on kitchen paper. Cook the second batch with the remaining oil and serve two patties per person."
+        ],
+        "tips": [
+          "This is a shallow-fried potato-shell version with coconut and dry-fruit filling; the oil quantity is for the pan, not a measured absorbed amount."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 60,
+        "passiveTime": "Cool the mashed potatoes for 20 minutes before shaping.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Farali Pattice": "फराली पेटिस",
+          "Simmer the whole potatoes in water for 25–30 minutes until tender through the centre. Drain completely, peel while warm and mash without adding water. Spread on a plate to cool for 20 minutes so steam escapes.": "साबुत आलू पानी में 25–30 मिनट उबालें, जब तक बीच तक नरम हो जाएँ। पूरा पानी निकालें, गरम रहते छीलकर बिना पानी मिलाए मसलें। भाप निकलने के लिए प्लेट पर फैलाकर 20 मिनट ठंडा करें।",
+          "Grate the coconut and ginger, chop the cashews and raisins, and crush the roasted peanuts. Mix these with finely chopped chilli and coriander, lemon juice, sugar and half the rock salt to make a moist, loose filling.": "नारियल और अदरक कद्दूकस करें, काजू-किशमिश काटें और भुनी मूँगफली कूटें। इनमें बारीक कटी मिर्च, धनिया, नींबू का रस, चीनी और आधा सेंधा नमक मिलाकर हल्की नम भरावन बनाएँ।",
+          "Mix the cooled potato with 40 g of the arrowroot flour and the remaining salt. Divide into eight portions. Keep the remaining 20 g flour on a plate for dusting.": "ठंडे आलू में 40 ग्राम अरारोट और बचा नमक मिलाएँ। आठ भाग करें। बचा 20 ग्राम अरारोट लपेटने के लिए प्लेट में रखें।",
+          "Flatten a potato portion in your palm, add one eighth of the filling, and bring the edges together. Seal completely, then flatten gently into a thick patty. Repeat, keeping the filling enclosed so it cannot spill into the oil.": "हथेली पर आलू का एक भाग चपटा करें, भरावन का आठवाँ भाग रखें और किनारे उठाकर पूरी तरह बंद करें। हल्का दबाकर मोटी टिक्की बनाएँ। सभी टिक्कियाँ इसी तरह बनाएँ, ताकि भरावन तेल में न निकले।",
+          "Dust each patty lightly with the reserved arrowroot. Heat half the oil in a heavy frying pan over medium heat and add four patties without crowding. Shallow-fry for 4–5 minutes without moving them until a firm golden crust forms.": "हर टिक्की पर हल्का अरारोट लगाएँ। भारी पैन में आधा तेल मध्यम आँच पर गरम करें और चार टिक्कियाँ दूरी पर रखें। बिना हिलाए 4–5 मिनट तलें, जब तक मजबूत सुनहरी परत बन जाए।",
+          "Turn with a broad spatula and cook for another 4–5 minutes until both faces are crisp and the centre is hot. Drain briefly on kitchen paper. Cook the second batch with the remaining oil and serve two patties per person.": "चौड़े पलटे से पलटकर 4–5 मिनट और पकाएँ। दोनों तरफ कुरकुरी परत और बीच तक गरम भरावन होनी चाहिए। कागज पर तेल सोखें। बाकी टिक्कियाँ बचे तेल में पकाएँ; प्रति व्यक्ति दो परोसें।",
+          "potato": "आलू",
+          "arrowroot flour": "अरारोट का आटा",
+          "fresh coconut": "ताजा नारियल",
+          "roasted peanuts": "भुनी मूँगफली",
+          "cashew": "काजू",
+          "raisins": "किशमिश",
+          "ginger": "अदरक",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "lemon juice": "नींबू का रस",
+          "sugar": "चीनी",
+          "rock salt": "सेंधा नमक",
+          "oil": "तेल",
+          "This is a shallow-fried potato-shell version with coconut and dry-fruit filling; the oil quantity is for the pan, not a measured absorbed amount.": "यह आलू के खोल में नारियल और मेवे भरकर कम तेल में तली गई पेटिस है। तेल की मात्रा पैन के लिए है, सोखे गए तेल की माप नहीं।",
+          "Cool the mashed potatoes for 20 minutes before shaping.": "आकार देने से पहले मसले आलू 20 मिनट ठंडे करें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Farali Pattice": "ફરાળી પેટીસ",
+          "Simmer the whole potatoes in water for 25–30 minutes until tender through the centre. Drain completely, peel while warm and mash without adding water. Spread on a plate to cool for 20 minutes so steam escapes.": "આખા બટાકા પાણીમાં 25–30 મિનિટ ઉકાળો, વચ્ચે સુધી નરમ થાય ત્યાં સુધી. બધું પાણી નિતારો, ગરમ હોય ત્યારે છોલીને પાણી ઉમેર્યા વગર મસળો. વરાળ નીકળવા થાળીમાં પાથરી 20 મિનિટ ઠંડા કરો.",
+          "Grate the coconut and ginger, chop the cashews and raisins, and crush the roasted peanuts. Mix these with finely chopped chilli and coriander, lemon juice, sugar and half the rock salt to make a moist, loose filling.": "નાળિયેર અને આદુ છીણો, કાજુ-કિસમિસ કાપો અને શેકેલી મગફળી કૂટો. ઝીણું મરચું, કોથમીર, લીંબુનો રસ, ખાંડ અને અડધું સિંધવ મીઠું ભેળવી સહેજ ભીનું પૂરણ બનાવો.",
+          "Mix the cooled potato with 40 g of the arrowroot flour and the remaining salt. Divide into eight portions. Keep the remaining 20 g flour on a plate for dusting.": "ઠંડા બટાકામાં 40 ગ્રામ આરારૂટ અને બાકી મીઠું ભેળવો. આઠ ભાગ કરો. બાકી 20 ગ્રામ આરારૂટ લપેટવા થાળીમાં રાખો.",
+          "Flatten a potato portion in your palm, add one eighth of the filling, and bring the edges together. Seal completely, then flatten gently into a thick patty. Repeat, keeping the filling enclosed so it cannot spill into the oil.": "હથેળીમાં બટાકાનો એક ભાગ ચપટો કરી પૂરણનો આઠમો ભાગ મૂકો. કિનારીઓ ભેગી કરીને પૂરેપૂરો બંધ કરો અને હળવેથી દબાવી જાડી પેટીસ બનાવો. પૂરણ તેલમાં ન નીકળે તેમ બધી પેટીસ બનાવો.",
+          "Dust each patty lightly with the reserved arrowroot. Heat half the oil in a heavy frying pan over medium heat and add four patties without crowding. Shallow-fry for 4–5 minutes without moving them until a firm golden crust forms.": "દરેક પેટીસ પર હળવો આરારૂટ લગાવો. ભારે પેનમાં અડધું તેલ મધ્યમ તાપે ગરમ કરી ચાર પેટીસ વચ્ચે જગ્યા રાખીને મૂકો. 4–5 મિનિટ હલાવ્યા વગર તળો, મજબૂત સોનેરી પડ થાય ત્યાં સુધી.",
+          "Turn with a broad spatula and cook for another 4–5 minutes until both faces are crisp and the centre is hot. Drain briefly on kitchen paper. Cook the second batch with the remaining oil and serve two patties per person.": "પહોળા તવેથાથી ફેરવી 4–5 મિનિટ વધુ પકાવો. બંને બાજુ કરકરી અને વચ્ચે સુધી ગરમ હોવી જોઈએ. કાગળ પર વધારાનું તેલ શોષાવો. બાકીની પેટીસ બાકી તેલમાં પકાવી વ્યક્તિ દીઠ બે પીરસો.",
+          "potato": "બટાકા",
+          "arrowroot flour": "આરારૂટનો લોટ",
+          "fresh coconut": "તાજું નાળિયેર",
+          "roasted peanuts": "શેકેલી મગફળી",
+          "cashew": "કાજુ",
+          "raisins": "કિસમિસ",
+          "ginger": "આદુ",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "lemon juice": "લીંબુનો રસ",
+          "sugar": "ખાંડ",
+          "rock salt": "સિંધવ મીઠું",
+          "oil": "તેલ",
+          "This is a shallow-fried potato-shell version with coconut and dry-fruit filling; the oil quantity is for the pan, not a measured absorbed amount.": "આ બટાકાના આવરણમાં નાળિયેર અને સૂકા મેવાનું પૂરણ ધરાવતી ઓછી ઊંડાઈના તેલમાં તળેલી પેટીસ છે. તેલનું માપ પેન માટે છે, શોષાયેલા તેલનું માપ નથી.",
+          "Cool the mashed potatoes for 20 minutes before shaping.": "આકાર આપતાં પહેલાં મસળેલા બટાકા 20 મિનિટ ઠંડા કરો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Vrat ke Chawal Pulao"
+      ],
+      "dish": {
+        "id": "samak-pulao",
+        "canonicalId": "samak-pulao",
+        "name": "Samak Pulao",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Lunch",
+          "Dinner",
+          "One-Pot Meals",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "barnyard millet",
+          "peanuts",
+          "potato",
+          "ghee",
+          "cumin seeds",
+          "green chilli",
+          "coriander leaves",
+          "lemon juice",
+          "rock salt",
+          "water"
+        ],
+        "method": "rice",
+        "time": 30,
+        "effort": "easy",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "peanut"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "samak-pulao",
+        "name": "Samak Pulao",
+        "baseServings": 4,
+        "batchSize": 50,
+        "ingredients": [
+          {
+            "name": "barnyard millet",
+            "qty": 240,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "peanuts",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 200,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 15,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Pick over the barnyard millet, rinse in a fine sieve and soak in fresh water for 15 minutes. Drain completely; this soaking water is separate from the measured cooking water.",
+          "Peel the potato and cut into 1 cm cubes. Finely chop the chilli and coriander. Measure the cooking water before starting so the small grains do not sit in the hot pan too long.",
+          "Warm the ghee in a heavy saucepan. Fry the peanuts over medium-low heat for 3–4 minutes until lightly golden, then lift them out. Add cumin to the remaining ghee and let it sizzle.",
+          "Add potato and chilli and cook for 3 minutes, turning often. Stir in the drained millet for 30 seconds, then add the measured water and rock salt. Bring to a gentle boil.",
+          "Cover and cook over low heat for 12–15 minutes until the water is absorbed, the potato is tender and the millet is soft. If the grains remain firm, add a small splash of hot water and cook covered for 2 minutes more.",
+          "Remove from the heat and rest covered for 5 minutes. Fold in the fried peanuts, lemon juice and coriander gently with a fork; avoid vigorous stirring, which makes the millet pasty."
+        ],
+        "tips": [
+          "Samak is barnyard millet, not ordinary rice. This potato-and-peanut version is not automatically suitable for a Jain household."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": "Soak millet for 15 minutes; rest the cooked pulao for 5 minutes.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Samak Pulao": "सामक पुलाव",
+          "Pick over the barnyard millet, rinse in a fine sieve and soak in fresh water for 15 minutes. Drain completely; this soaking water is separate from the measured cooking water.": "सामक चुनकर बारीक छलनी में धोएँ और साफ पानी में 15 मिनट भिगोएँ। पूरा पानी छान दें। भिगोने का पानी नापे हुए पकाने के पानी से अलग है।",
+          "Peel the potato and cut into 1 cm cubes. Finely chop the chilli and coriander. Measure the cooking water before starting so the small grains do not sit in the hot pan too long.": "आलू छीलकर 1 सेमी के टुकड़े करें। मिर्च और धनिया बारीक काटें। पकाने का पानी पहले नाप लें ताकि छोटे दाने गरम पैन में ज्यादा देर न रहें।",
+          "Warm the ghee in a heavy saucepan. Fry the peanuts over medium-low heat for 3–4 minutes until lightly golden, then lift them out. Add cumin to the remaining ghee and let it sizzle.": "भारी पतीले में घी गरम करें। मूँगफली मध्यम-धीमी आँच पर 3–4 मिनट हल्की सुनहरी होने तक तलकर निकालें। बचे घी में जीरा डालकर चटकने दें।",
+          "Add potato and chilli and cook for 3 minutes, turning often. Stir in the drained millet for 30 seconds, then add the measured water and rock salt. Bring to a gentle boil.": "आलू और मिर्च डालकर 3 मिनट चलाते हुए पकाएँ। छना सामक डालकर 30 सेकंड चलाएँ। नापा पानी और सेंधा नमक डालकर हल्का उबाल लें।",
+          "Cover and cook over low heat for 12–15 minutes until the water is absorbed, the potato is tender and the millet is soft. If the grains remain firm, add a small splash of hot water and cook covered for 2 minutes more.": "ढककर धीमी आँच पर 12–15 मिनट पकाएँ, जब तक पानी सूख जाए, आलू नरम हो और सामक पक जाए। दाने सख्त हों तो थोड़ा गरम पानी डालकर ढकें और 2 मिनट और पकाएँ।",
+          "Remove from the heat and rest covered for 5 minutes. Fold in the fried peanuts, lemon juice and coriander gently with a fork; avoid vigorous stirring, which makes the millet pasty.": "आँच बंद करके ढका हुआ 5 मिनट रखें। मूँगफली, नींबू का रस और धनिया काँटे से हल्के हाथ मिलाएँ। जोर से चलाने पर सामक चिपचिपा हो सकता है।",
+          "barnyard millet": "सामक",
+          "peanuts": "मूँगफली",
+          "potato": "आलू",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "lemon juice": "नींबू का रस",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "Samak is barnyard millet, not ordinary rice. This potato-and-peanut version is not automatically suitable for a Jain household.": "सामक एक प्रकार का छोटा अनाज है, सामान्य चावल नहीं। आलू और मूँगफली वाला यह रूप अपने आप जैन परिवार के लिए उपयुक्त नहीं माना जाता।",
+          "Soak millet for 15 minutes; rest the cooked pulao for 5 minutes.": "सामक 15 मिनट भिगोएँ; पके पुलाव को 5 मिनट ढककर रखें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Samak Pulao": "સામો પુલાવ",
+          "Pick over the barnyard millet, rinse in a fine sieve and soak in fresh water for 15 minutes. Drain completely; this soaking water is separate from the measured cooking water.": "સામો વીણી બારીક ચાળણીમાં ધુઓ અને સ્વચ્છ પાણીમાં 15 મિનિટ પલાળો. પાણી સંપૂર્ણ નિતારો. પલાળવાનું પાણી માપેલા રાંધવાના પાણીથી અલગ છે.",
+          "Peel the potato and cut into 1 cm cubes. Finely chop the chilli and coriander. Measure the cooking water before starting so the small grains do not sit in the hot pan too long.": "બટાકાની છાલ ઉતારી 1 સેમીના ટુકડા કરો. મરચું અને કોથમીર ઝીણાં કાપો. રાંધવાનું પાણી પહેલાં માપી રાખો જેથી નાના દાણા ગરમ પેનમાં વધારે વાર ન રહે.",
+          "Warm the ghee in a heavy saucepan. Fry the peanuts over medium-low heat for 3–4 minutes until lightly golden, then lift them out. Add cumin to the remaining ghee and let it sizzle.": "ભારે તપેલીમાં ઘી ગરમ કરો. મગફળી મધ્યમ-ધીમા તાપે 3–4 મિનિટ હળવી સોનેરી થાય ત્યાં સુધી તળી કાઢો. બાકી ઘીમાં જીરું નાખીને તતડવા દો.",
+          "Add potato and chilli and cook for 3 minutes, turning often. Stir in the drained millet for 30 seconds, then add the measured water and rock salt. Bring to a gentle boil.": "બટાકા અને મરચું નાખી 3 મિનિટ વારંવાર ફેરવતાં પકાવો. નિતારેલો સામો 30 સેકન્ડ હલાવો, પછી માપેલું પાણી અને સિંધવ મીઠું ઉમેરી હળવો ઊભરો આવવા દો.",
+          "Cover and cook over low heat for 12–15 minutes until the water is absorbed, the potato is tender and the millet is soft. If the grains remain firm, add a small splash of hot water and cook covered for 2 minutes more.": "ઢાંકીને ધીમા તાપે 12–15 મિનિટ પકાવો, પાણી શોષાય, બટાકા નરમ થાય અને સામો ચડે ત્યાં સુધી. દાણા કઠણ હોય તો થોડું ગરમ પાણી નાખી ઢાંકીને 2 મિનિટ વધુ પકાવો.",
+          "Remove from the heat and rest covered for 5 minutes. Fold in the fried peanuts, lemon juice and coriander gently with a fork; avoid vigorous stirring, which makes the millet pasty.": "તાપ બંધ કરીને ઢાંકેલું 5 મિનિટ રહેવા દો. તળેલી મગફળી, લીંબુનો રસ અને કોથમીર કાંટાથી હળવેથી ભેળવો. જોરથી હલાવવાથી સામો ચીકણો થાય છે.",
+          "barnyard millet": "સામો",
+          "peanuts": "મગફળી",
+          "potato": "બટાકા",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "lemon juice": "લીંબુનો રસ",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "Samak is barnyard millet, not ordinary rice. This potato-and-peanut version is not automatically suitable for a Jain household.": "સામો નાનું ધાન્ય છે, સામાન્ય ચોખા નથી. બટાકા અને મગફળીવાળું આ સ્વરૂપ આપમેળે જૈન પરિવાર માટે યોગ્ય ગણાતું નથી.",
+          "Soak millet for 15 minutes; rest the cooked pulao for 5 minutes.": "સામો 15 મિનિટ પલાળો; ચડેલો પુલાવ 5 મિનિટ ઢાંકીને રાખો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "kuttu-paratha",
+        "canonicalId": "kuttu-paratha",
+        "name": "Kuttu Paratha",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Breakfast",
+          "Lunch",
+          "Dinner",
+          "Breads",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "buckwheat flour",
+          "potato",
+          "cumin seeds",
+          "green chilli",
+          "coriander leaves",
+          "rock salt",
+          "water",
+          "ghee"
+        ],
+        "method": "flatbread",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "kuttu-paratha",
+        "name": "Kuttu Paratha",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "buckwheat flour",
+            "qty": 240,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 300,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 30,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Boil the whole potatoes in a separate pan of water for 20–25 minutes until tender. Drain well, peel and mash while warm. Let the mash cool for 15 minutes; it must not be wet or steaming when mixed with flour.",
+          "Reserve 20 g buckwheat flour for dusting. Mix the remaining flour with the potato, crushed cumin, finely chopped chilli and coriander, and rock salt.",
+          "Add the measured water a spoonful at a time, using only enough to bring the mixture into a soft dough. Knead gently just until smooth; buckwheat dough does not stretch like wheat dough.",
+          "Divide into eight portions. Dust parchment with some reserved flour and pat or gently roll each portion into a disc about 13 cm across and 3–4 mm thick. Repair cracks at the edges with damp fingers.",
+          "Transfer a disc to a medium-hot griddle and cook for about 1 minute until the top loses its wet appearance. Turn, spread a little ghee over the surface and cook for 2 minutes.",
+          "Turn again and cook with a little more ghee until both sides have brown patches and the centre is cooked, pressing the edges lightly with a spatula. Use the remaining ghee for the other parathas and serve hot."
+        ],
+        "tips": [
+          "Potato binds the naturally gluten-free flour. Do not replace it silently when assessing household restrictions."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": "Cool the potato mash for 15 minutes.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Kuttu Paratha": "कुट्टू पराठा",
+          "Boil the whole potatoes in a separate pan of water for 20–25 minutes until tender. Drain well, peel and mash while warm. Let the mash cool for 15 minutes; it must not be wet or steaming when mixed with flour.": "साबुत आलू अलग पानी में 20–25 मिनट नरम होने तक उबालें। पानी निकालकर गरम रहते छीलें और मसलें। 15 मिनट ठंडा करें; आटे में मिलाते समय आलू गीले या भाप छोड़ते हुए नहीं होने चाहिए।",
+          "Reserve 20 g buckwheat flour for dusting. Mix the remaining flour with the potato, crushed cumin, finely chopped chilli and coriander, and rock salt.": "बेलने के लिए 20 ग्राम कुट्टू का आटा अलग रखें। बाकी आटे में आलू, कुटा जीरा, बारीक मिर्च, धनिया और सेंधा नमक मिलाएँ।",
+          "Add the measured water a spoonful at a time, using only enough to bring the mixture into a soft dough. Knead gently just until smooth; buckwheat dough does not stretch like wheat dough.": "नापा पानी चम्मच-चम्मच डालें, केवल उतना जितने में नरम आटा बँध जाए। हल्के हाथ चिकना करें; कुट्टू का आटा गेहूँ के आटे की तरह खिंचता नहीं है।",
+          "Divide into eight portions. Dust parchment with some reserved flour and pat or gently roll each portion into a disc about 13 cm across and 3–4 mm thick. Repair cracks at the edges with damp fingers.": "आठ भाग करें। कागज पर अलग रखा आटा छिड़कें और हर भाग को थपथपाकर या हल्के हाथ बेलकर लगभग 13 सेमी चौड़ा, 3–4 मिमी मोटा बनाएँ। किनारों की दरारें गीली उँगलियों से जोड़ें।",
+          "Transfer a disc to a medium-hot griddle and cook for about 1 minute until the top loses its wet appearance. Turn, spread a little ghee over the surface and cook for 2 minutes.": "मध्यम गरम तवे पर पराठा रखें और लगभग 1 मिनट पकाएँ, जब तक ऊपर का गीलापन खत्म हो। पलटें, थोड़ा घी लगाएँ और 2 मिनट पकाएँ।",
+          "Turn again and cook with a little more ghee until both sides have brown patches and the centre is cooked, pressing the edges lightly with a spatula. Use the remaining ghee for the other parathas and serve hot.": "फिर पलटकर थोड़ा घी लगाएँ और दोनों ओर भूरे धब्बे आने तथा बीच तक पकने तक पकाएँ। किनारे हल्के दबाएँ। बाकी पराठे बचे घी में बनाकर गरम परोसें।",
+          "buckwheat flour": "कुट्टू का आटा",
+          "potato": "आलू",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "ghee": "घी",
+          "Potato binds the naturally gluten-free flour. Do not replace it silently when assessing household restrictions.": "आलू स्वाभाविक रूप से ग्लूटेन-रहित आटे को बाँधता है। परिवार के प्रतिबंध जाँचते समय इसे बिना बताए न बदलें।",
+          "Cool the potato mash for 15 minutes.": "मसले आलू 15 मिनट ठंडे करें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Kuttu Paratha": "કુટ્ટુ પરાઠા",
+          "Boil the whole potatoes in a separate pan of water for 20–25 minutes until tender. Drain well, peel and mash while warm. Let the mash cool for 15 minutes; it must not be wet or steaming when mixed with flour.": "આખા બટાકા અલગ પાણીમાં 20–25 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો. પાણી નિતારી ગરમ હોય ત્યારે છોલીને મસળો. 15 મિનિટ ઠંડા કરો; લોટમાં ભેળવતી વખતે ભીના કે વરાળવાળા ન હોવા જોઈએ.",
+          "Reserve 20 g buckwheat flour for dusting. Mix the remaining flour with the potato, crushed cumin, finely chopped chilli and coriander, and rock salt.": "વણવા માટે 20 ગ્રામ કુટ્ટુનો લોટ અલગ રાખો. બાકીના લોટમાં બટાકા, કૂટેલું જીરું, ઝીણું મરચું, કોથમીર અને સિંધવ મીઠું ભેળવો.",
+          "Add the measured water a spoonful at a time, using only enough to bring the mixture into a soft dough. Knead gently just until smooth; buckwheat dough does not stretch like wheat dough.": "માપેલું પાણી ચમચી-ચમચી ઉમેરો, નરમ લોટ બંધાય એટલું જ લો. હળવેથી સુંવાળો કરો; કુટ્ટુનો લોટ ઘઉંની જેમ ખેંચાતો નથી.",
+          "Divide into eight portions. Dust parchment with some reserved flour and pat or gently roll each portion into a disc about 13 cm across and 3–4 mm thick. Repair cracks at the edges with damp fingers.": "આઠ ભાગ કરો. કાગળ પર રાખેલો લોટ ભભરાવી દરેક ભાગ હળવેથી વણો કે થાપો: આશરે 13 સેમી પહોળો અને 3–4 મિમી જાડો. કિનારીની તિરાડો ભીની આંગળીથી જોડો.",
+          "Transfer a disc to a medium-hot griddle and cook for about 1 minute until the top loses its wet appearance. Turn, spread a little ghee over the surface and cook for 2 minutes.": "મધ્યમ ગરમ તવા પર મૂકી આશરે 1 મિનિટ શેકો, ઉપરની ભીનાશ જાય ત્યાં સુધી. ફેરવો, થોડું ઘી લગાવી 2 મિનિટ શેકો.",
+          "Turn again and cook with a little more ghee until both sides have brown patches and the centre is cooked, pressing the edges lightly with a spatula. Use the remaining ghee for the other parathas and serve hot.": "ફરી ફેરવી થોડું ઘી લગાવો અને બંને બાજુ ભૂરા ડાઘ પડે તથા વચ્ચે સુધી ચડે ત્યાં સુધી શેકો. કિનારીઓ હળવી દબાવો. બાકીના પરાઠા બાકી ઘીથી બનાવી ગરમ પીરસો.",
+          "buckwheat flour": "કુટ્ટુનો લોટ",
+          "potato": "બટાકા",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "Potato binds the naturally gluten-free flour. Do not replace it silently when assessing household restrictions.": "બટાકો કુદરતી રીતે ગ્લુટેન વગરના લોટને બાંધે છે. પરિવારના પ્રતિબંધ તપાસતી વખતે જાણ કર્યા વગર તેને બદલો નહીં.",
+          "Cool the potato mash for 15 minutes.": "મસળેલા બટાકા 15 મિનિટ ઠંડા કરો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "kuttu-pakora",
+        "canonicalId": "kuttu-pakora",
+        "name": "Kuttu Pakora",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Snacks",
+          "Party Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "buckwheat flour",
+          "potato",
+          "cumin seeds",
+          "green chilli",
+          "coriander leaves",
+          "rock salt",
+          "water",
+          "oil"
+        ],
+        "method": "fry",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "kuttu-pakora",
+        "name": "Kuttu Pakora",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "buckwheat flour",
+            "qty": 200,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 350,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 210,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Peel the potatoes and slice into even 2 mm rounds; thicker slices can stay raw after the batter browns. Pat the slices dry. Finely chop the chilli and coriander.",
+          "Mix buckwheat flour, cumin, chilli, coriander and rock salt. Whisk in the water gradually to make a smooth batter that coats a spoon thickly but still falls in a ribbon.",
+          "Pour the oil into a deep, heavy pan with plenty of headroom and heat to about 170°C. A small drop of batter should rise steadily with bubbles, not sink or darken immediately.",
+          "Dip a potato slice into the batter, let the excess drip briefly and lower it carefully into the oil. Add a few more without crowding or letting the slices stick together.",
+          "Fry for 4–6 minutes, turning halfway, until the coating is crisp and the bubbles have slowed. Cut open the first pakora: the potato must be completely tender, with no firm raw centre. Reduce the heat slightly if the outside colours too quickly.",
+          "Lift out with a slotted spoon and drain. Bring the oil back to temperature before frying the next batch. Keep water away from the hot oil and serve the pakoras freshly cooked."
+        ],
+        "tips": [
+          "The 600 ml oil is the frying medium, not the amount absorbed. Never fill the pan more than halfway with oil."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Kuttu Pakora": "कुट्टू पकौड़ा",
+          "Peel the potatoes and slice into even 2 mm rounds; thicker slices can stay raw after the batter browns. Pat the slices dry. Finely chop the chilli and coriander.": "आलू छीलकर बराबर 2 मिमी पतले गोल टुकड़े करें; मोटे टुकड़े बाहर रंग आने के बाद भी कच्चे रह सकते हैं। सुखा लें। मिर्च और धनिया बारीक काटें।",
+          "Mix buckwheat flour, cumin, chilli, coriander and rock salt. Whisk in the water gradually to make a smooth batter that coats a spoon thickly but still falls in a ribbon.": "कुट्टू का आटा, जीरा, मिर्च, धनिया और सेंधा नमक मिलाएँ। धीरे-धीरे पानी डालकर चिकना घोल बनाएँ, जो चम्मच पर मोटी परत बनाए पर धार में गिर सके।",
+          "Pour the oil into a deep, heavy pan with plenty of headroom and heat to about 170°C. A small drop of batter should rise steadily with bubbles, not sink or darken immediately.": "गहरे भारी पैन में तेल लगभग 170°C तक गरम करें और ऊपर पर्याप्त जगह छोड़ें। घोल की छोटी बूँद बुलबुलों के साथ ऊपर आए; नीचे न बैठी रहे और तुरंत गहरी न हो।",
+          "Dip a potato slice into the batter, let the excess drip briefly and lower it carefully into the oil. Add a few more without crowding or letting the slices stick together.": "आलू का टुकड़ा घोल में डुबोएँ, अतिरिक्त घोल थोड़ा टपकने दें और सावधानी से तेल में डालें। थोड़े टुकड़े डालें; आपस में चिपकने या पैन भरने न दें।",
+          "Fry for 4–6 minutes, turning halfway, until the coating is crisp and the bubbles have slowed. Cut open the first pakora: the potato must be completely tender, with no firm raw centre. Reduce the heat slightly if the outside colours too quickly.": "4–6 मिनट तलें, बीच में पलटें, जब तक परत कुरकुरी हो और बुलबुले कम हों। पहला पकौड़ा काटकर जाँचें: आलू पूरी तरह नरम हो, कच्चा हिस्सा न रहे। बाहर जल्दी रंग आए तो आँच घटाएँ।",
+          "Lift out with a slotted spoon and drain. Bring the oil back to temperature before frying the next batch. Keep water away from the hot oil and serve the pakoras freshly cooked.": "छेददार चम्मच से निकालकर तेल छानें। अगली खेप से पहले तेल फिर गरम होने दें। गरम तेल से पानी दूर रखें और पकौड़े तुरंत परोसें।",
+          "buckwheat flour": "कुट्टू का आटा",
+          "potato": "आलू",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "oil": "तेल",
+          "The 600 ml oil is the frying medium, not the amount absorbed. Never fill the pan more than halfway with oil.": "600 मिली तेल तलने के लिए है, सोखा गया तेल नहीं। पैन को कभी आधे से अधिक तेल से न भरें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Kuttu Pakora": "કુટ્ટુ પકોડા",
+          "Peel the potatoes and slice into even 2 mm rounds; thicker slices can stay raw after the batter browns. Pat the slices dry. Finely chop the chilli and coriander.": "બટાકા છોલીને સરખા 2 મિમી પાતળા ગોળ કાપો; જાડા ટુકડા બહાર રંગ આવ્યા પછી પણ કાચા રહી શકે. લૂછીને સૂકવો. મરચું અને કોથમીર ઝીણાં કાપો.",
+          "Mix buckwheat flour, cumin, chilli, coriander and rock salt. Whisk in the water gradually to make a smooth batter that coats a spoon thickly but still falls in a ribbon.": "કુટ્ટુનો લોટ, જીરું, મરચું, કોથમીર અને સિંધવ મીઠું ભેળવો. ધીમે પાણી નાખી સુંવાળું ખીરું બનાવો, ચમચી પર જાડું પડ બને છતાં ધાર તરીકે પડે એવું રાખો.",
+          "Pour the oil into a deep, heavy pan with plenty of headroom and heat to about 170°C. A small drop of batter should rise steadily with bubbles, not sink or darken immediately.": "ઊંડા ભારે પેનમાં તેલ આશરે 170°C સુધી ગરમ કરો અને ઉપર પૂરતી જગ્યા રાખો. ખીરાનું ટીપું પરપોટા સાથે ઉપર આવે; તળિયે ન રહે કે તરત ઘેરું ન થાય.",
+          "Dip a potato slice into the batter, let the excess drip briefly and lower it carefully into the oil. Add a few more without crowding or letting the slices stick together.": "બટાકાનો ટુકડો ખીરામાં બોળો, વધારાનું ખીરું થોડું ટપકવા દો અને સાચવીને તેલમાં મૂકો. થોડા જ ટુકડા નાખો, એકબીજાને ચોંટે કે ભીડ થાય નહીં.",
+          "Fry for 4–6 minutes, turning halfway, until the coating is crisp and the bubbles have slowed. Cut open the first pakora: the potato must be completely tender, with no firm raw centre. Reduce the heat slightly if the outside colours too quickly.": "4–6 મિનિટ તળો, વચ્ચે ફેરવો, પડ કરકરું થાય અને પરપોટા ઓછા થાય ત્યાં સુધી. પહેલો પકોડો કાપીને તપાસો: બટાકો પૂરો નરમ હોવો જોઈએ, કાચો ભાગ ન રહે. બહાર ઝડપથી રંગ આવે તો તાપ ઘટાડો.",
+          "Lift out with a slotted spoon and drain. Bring the oil back to temperature before frying the next batch. Keep water away from the hot oil and serve the pakoras freshly cooked.": "ઝારાથી કાઢી તેલ નિતારો. બીજી વારમાં તળતાં પહેલાં તેલ ફરી ગરમ થવા દો. ગરમ તેલથી પાણી દૂર રાખો અને તાજા પકોડા પીરસો.",
+          "buckwheat flour": "કુટ્ટુનો લોટ",
+          "potato": "બટાકા",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "oil": "તેલ",
+          "The 600 ml oil is the frying medium, not the amount absorbed. Never fill the pan more than halfway with oil.": "600 મિલી તેલ તળવા માટે છે, શોષાયેલું તેલ નથી. પેન ક્યારેય અડધાથી વધારે તેલથી ભરશો નહીં.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "singhare-ki-puri",
+        "canonicalId": "singhare-ki-puri",
+        "name": "Singhare ki Puri",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Breads",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water chestnut flour",
+          "potato",
+          "cumin seeds",
+          "rock salt",
+          "water",
+          "oil"
+        ],
+        "method": "fry",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "singhare-ki-puri",
+        "name": "Singhare ki Puri",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "water chestnut flour",
+            "qty": 260,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 250,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 40,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 610,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Boil the whole potatoes in a separate pan of water for about 20–25 minutes, until a knife reaches the centre easily. Drain, peel and mash smoothly. Cool for 15 minutes so excess steam escapes.",
+          "Reserve 20 g of the flour for dusting. Mix the remaining water chestnut flour with potato, crushed cumin, rock salt and 10 ml oil. Add the measured water gradually, stopping as soon as a smooth, firm dough forms.",
+          "Divide the dough into twelve equal portions. Dust lightly with the reserved flour and roll gently between parchment into discs about 9 cm wide and 3 mm thick. Keep the thickness even and repair cracked edges.",
+          "Heat the remaining 600 ml oil in a deep pan to about 175°C, keeping the pan less than half full. Test a tiny piece of dough: it should rise promptly without becoming dark at once.",
+          "Slide in one puri carefully. Gently nudge the surface with a slotted spoon as it rises; turn after about 30–45 seconds. Cook the second side until both faces are lightly golden and no wet dough remains at the rim.",
+          "Drain on kitchen paper and repeat, letting the oil regain heat between puris. Open the first puri to check the middle is cooked; lower the heat slightly and cook longer if it browns before cooking through."
+        ],
+        "tips": [
+          "Makes twelve small puris, three per person as an accompaniment. Potato binds this traditional dough; check it against your household restrictions."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": "Cool mashed potatoes for 15 minutes.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Singhare ki Puri": "सिंघाड़े की पूरी",
+          "Boil the whole potatoes in a separate pan of water for about 20–25 minutes, until a knife reaches the centre easily. Drain, peel and mash smoothly. Cool for 15 minutes so excess steam escapes.": "साबुत आलू अलग पानी में लगभग 20–25 मिनट उबालें, जब तक चाकू बीच तक आसानी से जाए। छानें, छीलें और चिकना मसलें। भाप निकलने के लिए 15 मिनट ठंडा करें।",
+          "Reserve 20 g of the flour for dusting. Mix the remaining water chestnut flour with potato, crushed cumin, rock salt and 10 ml oil. Add the measured water gradually, stopping as soon as a smooth, firm dough forms.": "20 ग्राम आटा बेलने के लिए रखें। बाकी सिंघाड़े के आटे में आलू, कुटा जीरा, सेंधा नमक और 10 मिली तेल मिलाएँ। पानी धीरे-धीरे डालें और चिकना, कड़ा आटा बनते ही रोक दें।",
+          "Divide the dough into twelve equal portions. Dust lightly with the reserved flour and roll gently between parchment into discs about 9 cm wide and 3 mm thick. Keep the thickness even and repair cracked edges.": "बारह बराबर भाग करें। बचा आटा हल्का छिड़ककर कागज के बीच धीरे से लगभग 9 सेमी चौड़ी और 3 मिमी मोटी पूरी बेलें। मोटाई बराबर रखें और फटे किनारे जोड़ें।",
+          "Heat the remaining 600 ml oil in a deep pan to about 175°C, keeping the pan less than half full. Test a tiny piece of dough: it should rise promptly without becoming dark at once.": "बचा 600 मिली तेल गहरे पैन में लगभग 175°C तक गरम करें। पैन आधे से कम भरा हो। आटे का छोटा टुकड़ा तुरंत ऊपर आए, पर फौरन गहरा न हो।",
+          "Slide in one puri carefully. Gently nudge the surface with a slotted spoon as it rises; turn after about 30–45 seconds. Cook the second side until both faces are lightly golden and no wet dough remains at the rim.": "एक पूरी सावधानी से डालें। ऊपर आते समय छेददार चम्मच से हल्का सहारा दें और 30–45 सेकंड बाद पलटें। दोनों ओर हल्का सुनहरा होने और किनारों का कच्चापन मिटने तक पकाएँ।",
+          "Drain on kitchen paper and repeat, letting the oil regain heat between puris. Open the first puri to check the middle is cooked; lower the heat slightly and cook longer if it browns before cooking through.": "कागज पर निकालें और हर पूरी के बीच तेल फिर गरम होने दें। पहली पूरी खोलकर बीच का पकना जाँचें। बाहर जल्दी रंग आए और अंदर कच्चा रहे तो आँच थोड़ी कम कर अधिक देर पकाएँ।",
+          "water chestnut flour": "सिंघाड़े का आटा",
+          "potato": "आलू",
+          "cumin seeds": "जीरा",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "oil": "तेल",
+          "Cool mashed potatoes for 15 minutes.": "मसले आलू 15 मिनट ठंडे करें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।",
+          "Makes twelve small puris, three per person as an accompaniment. Potato binds this traditional dough; check it against your household restrictions.": "बारह छोटी पूरियाँ बनती हैं; साथ में परोसने के लिए प्रति व्यक्ति तीन। आलू इस पारंपरिक आटे को बाँधता है; इसे परिवार के प्रतिबंधों के अनुसार जाँचें।"
+        },
+        "gu": {
+          "Singhare ki Puri": "શિંગોડાની પૂરી",
+          "Boil the whole potatoes in a separate pan of water for about 20–25 minutes, until a knife reaches the centre easily. Drain, peel and mash smoothly. Cool for 15 minutes so excess steam escapes.": "આખા બટાકા અલગ પાણીમાં 20–25 મિનિટ ઉકાળો, છરી વચ્ચે સુધી સહેલાઈથી જાય ત્યાં સુધી. નિતારી, છોલી અને સુંવાળા મસળો. વરાળ નીકળવા 15 મિનિટ ઠંડા કરો.",
+          "Reserve 20 g of the flour for dusting. Mix the remaining water chestnut flour with potato, crushed cumin, rock salt and 10 ml oil. Add the measured water gradually, stopping as soon as a smooth, firm dough forms.": "20 ગ્રામ લોટ વણવા રાખો. બાકીના શિંગોડાના લોટમાં બટાકા, કૂટેલું જીરું, સિંધવ મીઠું અને 10 મિલી તેલ ભેળવો. પાણી ધીમે ઉમેરો અને સુંવાળો, કઠણ લોટ બંધાય એટલે રોકો.",
+          "Divide the dough into twelve equal portions. Dust lightly with the reserved flour and roll gently between parchment into discs about 9 cm wide and 3 mm thick. Keep the thickness even and repair cracked edges.": "બાર સરખા ભાગ કરો. રાખેલો લોટ હળવો ભભરાવી કાગળ વચ્ચે આશરે 9 સેમી પહોળી અને 3 મિમી જાડી પૂરી હળવેથી વણો. જાડાઈ સરખી રાખો અને ફાટેલી કિનારીઓ જોડો.",
+          "Heat the remaining 600 ml oil in a deep pan to about 175°C, keeping the pan less than half full. Test a tiny piece of dough: it should rise promptly without becoming dark at once.": "બાકી 600 મિલી તેલ ઊંડા પેનમાં આશરે 175°C સુધી ગરમ કરો. પેન અડધાથી ઓછું ભરેલું રાખો. લોટનો નાનો ટુકડો ઝડપથી ઉપર આવવો જોઈએ, તરત ઘેરો ન થવો જોઈએ.",
+          "Slide in one puri carefully. Gently nudge the surface with a slotted spoon as it rises; turn after about 30–45 seconds. Cook the second side until both faces are lightly golden and no wet dough remains at the rim.": "એક પૂરી સાચવીને સરકાવો. ઉપર આવે ત્યારે ઝારાથી હળવો ટેકો આપો; 30–45 સેકન્ડ પછી ફેરવો. બંને બાજુ હળવી સોનેરી થાય અને કિનારીમાં ભીનો લોટ ન રહે ત્યાં સુધી તળો.",
+          "Drain on kitchen paper and repeat, letting the oil regain heat between puris. Open the first puri to check the middle is cooked; lower the heat slightly and cook longer if it browns before cooking through.": "કાગળ પર નિતારો અને દરેક પૂરી વચ્ચે તેલ ફરી ગરમ થવા દો. પહેલી પૂરી ખોલીને મધ્ય ભાગ ચડ્યો છે તે જુઓ. બહાર પહેલાં રંગ આવે તો તાપ થોડો ઘટાડીને વધુ સમય પકાવો.",
+          "water chestnut flour": "શિંગોડાનો લોટ",
+          "potato": "બટાકા",
+          "cumin seeds": "જીરું",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "oil": "તેલ",
+          "Cool mashed potatoes for 15 minutes.": "મસળેલા બટાકા 15 મિનિટ ઠંડા કરો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે.",
+          "Makes twelve small puris, three per person as an accompaniment. Potato binds this traditional dough; check it against your household restrictions.": "બાર નાની પૂરી બને છે; સાથમાં પીરસવા વ્યક્તિ દીઠ ત્રણ. બટાકો આ પરંપરાગત લોટને બાંધે છે; તેને પરિવારના પ્રતિબંધ પ્રમાણે તપાસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "singhare-ke-pakode",
+        "canonicalId": "singhare-ke-pakode",
+        "name": "Singhare ke Pakode",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Snacks",
+          "Party Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "water chestnut flour",
+          "potato",
+          "cumin seeds",
+          "green chilli",
+          "coriander leaves",
+          "rock salt",
+          "water",
+          "oil"
+        ],
+        "method": "fry",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": true,
+        "fried": true,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "singhare-ke-pakode",
+        "name": "Singhare ke Pakode",
+        "baseServings": 4,
+        "batchSize": 12,
+        "ingredients": [
+          {
+            "name": "water chestnut flour",
+            "qty": 200,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "potato",
+            "qty": 350,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 190,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 600,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Peel the potatoes and cut into matchsticks no thicker than 3 mm so they cook at the same rate as the batter. Pat dry, and finely chop the chilli and coriander.",
+          "Mix water chestnut flour, cumin, rock salt, chilli and coriander. Add the measured water gradually to make a thick batter, then fold in the potato. The mixture should hold a small mound on a spoon.",
+          "Heat the oil in a deep heavy pan to about 170°C with the pan less than half full. Test a little batter: it should rise with steady bubbles, without immediately turning dark.",
+          "Lower small spoonfuls into the oil, keeping each mound about 3 cm across. Leave room between them and do not flatten them against the bottom of the pan.",
+          "Fry for 5–6 minutes, turning several times, until crisp and golden. Split the first pakora to check that the potato is tender and the centre has no wet flour; make later portions smaller if the centre cooks too slowly.",
+          "Remove with a slotted spoon and drain well. Let the oil return to temperature between batches. Serve promptly, since steam softens the crust as the pakode stand."
+        ],
+        "tips": [
+          "This potato version contains roots. The measured oil is the quantity needed in the frying pan, not the absorbed amount."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Singhare ke Pakode": "सिंघाड़े के पकौड़े",
+          "Peel the potatoes and cut into matchsticks no thicker than 3 mm so they cook at the same rate as the batter. Pat dry, and finely chop the chilli and coriander.": "आलू छीलकर अधिकतम 3 मिमी पतली तीलियाँ काटें ताकि घोल के साथ पक जाएँ। सुखाएँ और मिर्च-धनिया बारीक काटें।",
+          "Mix water chestnut flour, cumin, rock salt, chilli and coriander. Add the measured water gradually to make a thick batter, then fold in the potato. The mixture should hold a small mound on a spoon.": "सिंघाड़े का आटा, जीरा, सेंधा नमक, मिर्च और धनिया मिलाएँ। नापा पानी धीरे डालकर गाढ़ा घोल बनाएँ और आलू मिलाएँ। चम्मच पर मिश्रण छोटी ढेरी के रूप में टिकना चाहिए।",
+          "Heat the oil in a deep heavy pan to about 170°C with the pan less than half full. Test a little batter: it should rise with steady bubbles, without immediately turning dark.": "गहरे भारी पैन में तेल लगभग 170°C तक गरम करें; पैन आधे से कम भरा रहे। थोड़ा घोल डालकर जाँचें: स्थिर बुलबुलों के साथ ऊपर आए, तुरंत गहरा न हो।",
+          "Lower small spoonfuls into the oil, keeping each mound about 3 cm across. Leave room between them and do not flatten them against the bottom of the pan.": "चम्मच से लगभग 3 सेमी चौड़ी छोटी ढेरियाँ तेल में डालें। बीच में जगह रखें और पैन के तल पर दबाएँ नहीं।",
+          "Fry for 5–6 minutes, turning several times, until crisp and golden. Split the first pakora to check that the potato is tender and the centre has no wet flour; make later portions smaller if the centre cooks too slowly.": "5–6 मिनट कई बार पलटते हुए सुनहरा और कुरकुरा तलें। पहला पकौड़ा खोलकर देखें कि आलू नरम और आटा भीतर से सूखा-पका है। बीच धीरे पके तो अगली ढेरियाँ छोटी बनाएँ।",
+          "Remove with a slotted spoon and drain well. Let the oil return to temperature between batches. Serve promptly, since steam softens the crust as the pakode stand.": "छेददार चम्मच से निकालकर तेल छानें। हर खेप के बीच तेल गरम होने दें। तुरंत परोसें; रखे रहने पर भाप से कुरकुरी परत नरम होती है।",
+          "water chestnut flour": "सिंघाड़े का आटा",
+          "potato": "आलू",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "coriander leaves": "हरा धनिया",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "oil": "तेल",
+          "This potato version contains roots. The measured oil is the quantity needed in the frying pan, not the absorbed amount.": "आलू वाले इस रूप में कंद हैं। तेल का माप तलने के पैन की जरूरत है, सोखे गए तेल की मात्रा नहीं।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Singhare ke Pakode": "શિંગોડાના પકોડા",
+          "Peel the potatoes and cut into matchsticks no thicker than 3 mm so they cook at the same rate as the batter. Pat dry, and finely chop the chilli and coriander.": "બટાકા છોલીને વધુમાં વધુ 3 મિમી પાતળી સળીઓ કરો જેથી ખીરા સાથે ચડી જાય. લૂછીને સૂકવો અને મરચું-કોથમીર ઝીણાં કાપો.",
+          "Mix water chestnut flour, cumin, rock salt, chilli and coriander. Add the measured water gradually to make a thick batter, then fold in the potato. The mixture should hold a small mound on a spoon.": "શિંગોડાનો લોટ, જીરું, સિંધવ મીઠું, મરચું અને કોથમીર ભેળવો. માપેલું પાણી ધીમે ઉમેરી જાડું ખીરું બનાવી બટાકા ભેળવો. ચમચી પર નાની ઢગલી ટકી શકે એવું હોવું જોઈએ.",
+          "Heat the oil in a deep heavy pan to about 170°C with the pan less than half full. Test a little batter: it should rise with steady bubbles, without immediately turning dark.": "ઊંડા ભારે પેનમાં તેલ આશરે 170°C સુધી ગરમ કરો; પેન અડધાથી ઓછું ભરેલું રહે. થોડું ખીરું નાખતાં સ્થિર પરપોટા સાથે ઉપર આવે અને તરત ઘેરું ન થાય.",
+          "Lower small spoonfuls into the oil, keeping each mound about 3 cm across. Leave room between them and do not flatten them against the bottom of the pan.": "ચમચીથી આશરે 3 સેમી પહોળી નાની ઢગલીઓ તેલમાં નાખો. વચ્ચે જગ્યા રાખો અને પેનના તળિયે દબાવો નહીં.",
+          "Fry for 5–6 minutes, turning several times, until crisp and golden. Split the first pakora to check that the potato is tender and the centre has no wet flour; make later portions smaller if the centre cooks too slowly.": "5–6 મિનિટ ઘણી વાર ફેરવતાં કરકરા સોનેરી તળો. પહેલો પકોડો ખોલીને બટાકો નરમ છે અને વચ્ચે ભીનો લોટ નથી તે જુઓ. વચ્ચે ધીમે ચડે તો આગળના ભાગ નાના બનાવો.",
+          "Remove with a slotted spoon and drain well. Let the oil return to temperature between batches. Serve promptly, since steam softens the crust as the pakode stand.": "ઝારાથી કાઢીને તેલ નિતારો. દરેક વાર વચ્ચે તેલ ફરી ગરમ થવા દો. તરત પીરસો; પડી રહેવાથી વરાળ પડને નરમ કરે છે.",
+          "water chestnut flour": "શિંગોડાનો લોટ",
+          "potato": "બટાકા",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "coriander leaves": "કોથમીર",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "oil": "તેલ",
+          "This potato version contains roots. The measured oil is the quantity needed in the frying pan, not the absorbed amount.": "બટાકાવાળા આ સ્વરૂપમાં કંદ છે. તેલનું માપ તળવાના પેનની જરૂરિયાત છે, શોષાયેલા તેલનું માપ નથી.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Shakarkandi Chaat"
+      ],
+      "dish": {
+        "id": "sweet-potato-chaat",
+        "canonicalId": "sweet-potato-chaat",
+        "name": "Sweet Potato Chaat",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Snacks",
+          "Chaats",
+          "Street Food",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "sweet potato",
+          "lemon juice",
+          "cumin seeds",
+          "black pepper",
+          "rock salt",
+          "coriander leaves"
+        ],
+        "method": "roast",
+        "time": 50,
+        "effort": "easy",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "sweet-potato-chaat",
+        "name": "Sweet Potato Chaat",
+        "baseServings": 4,
+        "batchSize": 50,
+        "ingredients": [
+          {
+            "name": "sweet potato",
+            "qty": 800,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 30,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "rock salt",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 12,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Scrub the sweet potatoes and rinse off all soil. Place them whole in a heavy covered pan over low heat, without oil, using similarly sized roots so they roast evenly.",
+          "Cook for 35–45 minutes, turning every 6–8 minutes with tongs. The skins may blister; lower the heat if they scorch quickly. Test the thickest part with a skewer: it should pass through without resistance.",
+          "While the sweet potatoes cook, toast the cumin in a small dry pan for about 1 minute until fragrant. Cool briefly and crush with the black pepper. Finely chop the coriander.",
+          "Rest the cooked sweet potatoes off the heat for 5 minutes. Peel carefully while warm and remove any charred skin; cut the soft flesh into bite-sized chunks.",
+          "Place the chunks in a bowl and sprinkle with the crushed spices and rock salt. Add lemon juice and turn gently so the pieces are seasoned without being mashed.",
+          "Finish with coriander and serve warm. Taste a piece before serving; the lemon should balance the natural sweetness without pooling at the bottom."
+        ],
+        "tips": [
+          "This fasting-style version uses rock salt and freshly toasted cumin rather than a mixed chaat masala."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": "Rest roasted sweet potatoes for 5 minutes before peeling.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Sweet Potato Chaat": "शकरकंद चाट",
+          "Scrub the sweet potatoes and rinse off all soil. Place them whole in a heavy covered pan over low heat, without oil, using similarly sized roots so they roast evenly.": "शकरकंद रगड़कर सारी मिट्टी धो दें। समान आकार की साबुत शकरकंद भारी ढक्कन वाले पैन में बिना तेल धीमी आँच पर रखें ताकि समान रूप से भुनें।",
+          "Cook for 35–45 minutes, turning every 6–8 minutes with tongs. The skins may blister; lower the heat if they scorch quickly. Test the thickest part with a skewer: it should pass through without resistance.": "35–45 मिनट पकाएँ और चिमटे से हर 6–8 मिनट पलटें। छिलका फफोलेदार हो सकता है; जल्दी जलने लगे तो आँच घटाएँ। मोटे भाग में सींक आसानी से आर-पार होनी चाहिए।",
+          "While the sweet potatoes cook, toast the cumin in a small dry pan for about 1 minute until fragrant. Cool briefly and crush with the black pepper. Finely chop the coriander.": "इस बीच जीरा छोटे सूखे पैन में लगभग 1 मिनट खुशबू आने तक भूनें। थोड़ा ठंडा कर काली मिर्च के साथ कूटें। धनिया बारीक काटें।",
+          "Rest the cooked sweet potatoes off the heat for 5 minutes. Peel carefully while warm and remove any charred skin; cut the soft flesh into bite-sized chunks.": "पकी शकरकंद आँच से हटाकर 5 मिनट रखें। गरम रहते सावधानी से छीलें, जला छिलका हटाएँ और छोटे खाने योग्य टुकड़े करें।",
+          "Place the chunks in a bowl and sprinkle with the crushed spices and rock salt. Add lemon juice and turn gently so the pieces are seasoned without being mashed.": "कटोरे में टुकड़ों पर कुटे मसाले और सेंधा नमक छिड़कें। नींबू का रस डालकर हल्के हाथ मिलाएँ ताकि मसाले लगें पर टुकड़े मसलें नहीं।",
+          "Finish with coriander and serve warm. Taste a piece before serving; the lemon should balance the natural sweetness without pooling at the bottom.": "धनिया डालकर गरम-गरम परोसें। एक टुकड़ा चखें; नींबू मिठास को संतुलित करे, कटोरे में रस जमा न हो।",
+          "sweet potato": "शकरकंद",
+          "lemon juice": "नींबू का रस",
+          "cumin seeds": "जीरा",
+          "black pepper": "काली मिर्च",
+          "rock salt": "सेंधा नमक",
+          "coriander leaves": "हरा धनिया",
+          "This fasting-style version uses rock salt and freshly toasted cumin rather than a mixed chaat masala.": "व्रत वाले इस रूप में तैयार चाट मसाले के बजाय सेंधा नमक और ताजा भुना जीरा है।",
+          "Rest roasted sweet potatoes for 5 minutes before peeling.": "भुनी शकरकंद छीलने से पहले 5 मिनट रखें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Sweet Potato Chaat": "શક્કરિયાની ચાટ",
+          "Scrub the sweet potatoes and rinse off all soil. Place them whole in a heavy covered pan over low heat, without oil, using similarly sized roots so they roast evenly.": "શક્કરિયાં ઘસીને બધી માટી ધોઈ લો. સરખા કદનાં આખાં શક્કરિયાં ભારે ઢાંકણવાળા પેનમાં વગર તેલે ધીમા તાપે મૂકો જેથી સરખાં શેકાય.",
+          "Cook for 35–45 minutes, turning every 6–8 minutes with tongs. The skins may blister; lower the heat if they scorch quickly. Test the thickest part with a skewer: it should pass through without resistance.": "35–45 મિનિટ શેકો અને ચીપિયાથી દર 6–8 મિનિટે ફેરવો. છાલ ફોલ્લાવાળી થઈ શકે; ઝડપથી બળે તો તાપ ઘટાડો. જાડા ભાગમાં સળી સહેલાઈથી પસાર થવી જોઈએ.",
+          "While the sweet potatoes cook, toast the cumin in a small dry pan for about 1 minute until fragrant. Cool briefly and crush with the black pepper. Finely chop the coriander.": "ત્યાં સુધી જીરું નાના સૂકા પેનમાં આશરે 1 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો. સહેજ ઠંડું કરીને મરી સાથે કૂટો. કોથમીર ઝીણી કાપો.",
+          "Rest the cooked sweet potatoes off the heat for 5 minutes. Peel carefully while warm and remove any charred skin; cut the soft flesh into bite-sized chunks.": "ચડેલાં શક્કરિયાં તાપ પરથી ઉતારી 5 મિનિટ રાખો. ગરમ હોય ત્યારે સાચવીને છોલો, બળેલી છાલ દૂર કરો અને ખાવા યોગ્ય નાના ટુકડા કરો.",
+          "Place the chunks in a bowl and sprinkle with the crushed spices and rock salt. Add lemon juice and turn gently so the pieces are seasoned without being mashed.": "બાઉલમાં ટુકડા પર કૂટેલા મસાલા અને સિંધવ મીઠું ભભરાવો. લીંબુનો રસ નાખીને હળવેથી ફેરવો જેથી મસાલો લાગે પણ ટુકડા મસળાય નહીં.",
+          "Finish with coriander and serve warm. Taste a piece before serving; the lemon should balance the natural sweetness without pooling at the bottom.": "કોથમીર નાખીને ગરમ પીરસો. એક ટુકડો ચાખો; લીંબુ મીઠાશને સંતુલિત કરે અને નીચે રસ ભેગો ન થાય.",
+          "sweet potato": "શક્કરિયાં",
+          "lemon juice": "લીંબુનો રસ",
+          "cumin seeds": "જીરું",
+          "black pepper": "કાળા મરી",
+          "rock salt": "સિંધવ મીઠું",
+          "coriander leaves": "કોથમીર",
+          "This fasting-style version uses rock salt and freshly toasted cumin rather than a mixed chaat masala.": "આ ફરાળી સ્વરૂપમાં તૈયાર ચાટ મસાલાને બદલે સિંધવ મીઠું અને તાજું શેકેલું જીરું છે.",
+          "Rest roasted sweet potatoes for 5 minutes before peeling.": "શેકેલાં શક્કરિયાં છોલતાં પહેલાં 5 મિનિટ રાખો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "vrat-wale-aloo",
+        "canonicalId": "vrat-wale-aloo",
+        "name": "Vrat Wale Aloo",
+        "cuisine": "North Indian",
+        "categories": [
+          "Vrat/Fasting",
+          "Sabzi/Curries",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic"
+        ],
+        "ingredients": [
+          "potato",
+          "ghee",
+          "cumin seeds",
+          "green chilli",
+          "black pepper",
+          "rock salt",
+          "lemon juice",
+          "coriander leaves"
+        ],
+        "method": "stir",
+        "time": 40,
+        "effort": "easy",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 6,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "vrat-wale-aloo",
+        "name": "Vrat Wale Aloo",
+        "baseServings": 4,
+        "batchSize": 50,
+        "ingredients": [
+          {
+            "name": "potato",
+            "qty": 800,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 25,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "black pepper",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "coriander leaves",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Wash the potatoes and simmer whole in a pan of water for 20–25 minutes until just tender. Test with a knife; the centres should be cooked but the potatoes should not fall apart. Drain fully.",
+          "Let the potatoes cool for 10 minutes, then peel and cut into 2 cm chunks. Chop the chilli and coriander, and crush the black pepper.",
+          "Heat ghee in a broad heavy pan over medium heat. Add cumin and let it sizzle for 20–30 seconds until aromatic, then add the chilli and stir briefly.",
+          "Add the potatoes in a fairly even layer. Cook for 4–5 minutes without frequent stirring so the undersides develop golden patches, then turn carefully.",
+          "Sprinkle with rock salt and black pepper. Cook for another 3–4 minutes, turning once or twice, until the edges are lightly crisp and the centres are hot.",
+          "Switch off the heat and fold in lemon juice and coriander. Serve as a potato accompaniment with your chosen fasting bread; it is not a complete meal by itself."
+        ],
+        "tips": [
+          "Keep the potato pieces intact rather than mashing them into the cumin tempering."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": "Cool boiled potatoes for 10 minutes before peeling.",
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Vrat Wale Aloo": "व्रत वाले आलू",
+          "Wash the potatoes and simmer whole in a pan of water for 20–25 minutes until just tender. Test with a knife; the centres should be cooked but the potatoes should not fall apart. Drain fully.": "आलू धोकर साबुत पानी में 20–25 मिनट केवल नरम होने तक उबालें। चाकू से जाँचें: बीच पका हो पर आलू टूटें नहीं। पूरा पानी निकालें।",
+          "Let the potatoes cool for 10 minutes, then peel and cut into 2 cm chunks. Chop the chilli and coriander, and crush the black pepper.": "10 मिनट ठंडा करके छीलें और 2 सेमी टुकड़े करें। मिर्च-धनिया काटें और काली मिर्च कूटें।",
+          "Heat ghee in a broad heavy pan over medium heat. Add cumin and let it sizzle for 20–30 seconds until aromatic, then add the chilli and stir briefly.": "चौड़े भारी पैन में मध्यम आँच पर घी गरम करें। जीरा डालकर 20–30 सेकंड खुशबू आने दें, फिर मिर्च डालकर थोड़ा चलाएँ।",
+          "Add the potatoes in a fairly even layer. Cook for 4–5 minutes without frequent stirring so the undersides develop golden patches, then turn carefully.": "आलू लगभग एक परत में डालें। 4–5 मिनट बार-बार हिलाए बिना पकाएँ ताकि नीचे सुनहरे धब्बे बनें, फिर ध्यान से पलटें।",
+          "Sprinkle with rock salt and black pepper. Cook for another 3–4 minutes, turning once or twice, until the edges are lightly crisp and the centres are hot.": "सेंधा नमक और काली मिर्च छिड़कें। 3–4 मिनट और पकाएँ, एक-दो बार पलटें, जब तक किनारे हल्के कुरकुरे और बीच गरम हों।",
+          "Switch off the heat and fold in lemon juice and coriander. Serve as a potato accompaniment with your chosen fasting bread; it is not a complete meal by itself.": "आँच बंद करके नींबू का रस और धनिया मिलाएँ। चुनी हुई व्रत की रोटी के साथ परोसें; यह अकेले पूरा भोजन नहीं है।",
+          "potato": "आलू",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "black pepper": "काली मिर्च",
+          "rock salt": "सेंधा नमक",
+          "lemon juice": "नींबू का रस",
+          "coriander leaves": "हरा धनिया",
+          "Keep the potato pieces intact rather than mashing them into the cumin tempering.": "आलू के टुकड़े साबुत रखें; जीरे के तड़के में मसलें नहीं।",
+          "Cool boiled potatoes for 10 minutes before peeling.": "उबले आलू छीलने से पहले 10 मिनट ठंडे करें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Vrat Wale Aloo": "વ્રતના બટાકા",
+          "Wash the potatoes and simmer whole in a pan of water for 20–25 minutes until just tender. Test with a knife; the centres should be cooked but the potatoes should not fall apart. Drain fully.": "બટાકા ધોઈને આખા પાણીમાં 20–25 મિનિટ સહેજ નરમ થાય ત્યાં સુધી ઉકાળો. છરીથી તપાસો: વચ્ચે ચડેલા હોય પણ તૂટે નહીં. બધું પાણી નિતારો.",
+          "Let the potatoes cool for 10 minutes, then peel and cut into 2 cm chunks. Chop the chilli and coriander, and crush the black pepper.": "10 મિનિટ ઠંડા કરીને છોલો અને 2 સેમીના ટુકડા કરો. મરચું-કોથમીર કાપો અને મરી કૂટો.",
+          "Heat ghee in a broad heavy pan over medium heat. Add cumin and let it sizzle for 20–30 seconds until aromatic, then add the chilli and stir briefly.": "પહોળા ભારે પેનમાં મધ્યમ તાપે ઘી ગરમ કરો. જીરું નાખી 20–30 સેકન્ડ સુગંધ આવવા દો, પછી મરચું નાખી થોડું હલાવો.",
+          "Add the potatoes in a fairly even layer. Cook for 4–5 minutes without frequent stirring so the undersides develop golden patches, then turn carefully.": "બટાકા લગભગ એક પડમાં નાખો. 4–5 મિનિટ વારંવાર હલાવ્યા વગર પકાવો જેથી નીચે સોનેરી ડાઘ પડે, પછી સાચવીને ફેરવો.",
+          "Sprinkle with rock salt and black pepper. Cook for another 3–4 minutes, turning once or twice, until the edges are lightly crisp and the centres are hot.": "સિંધવ મીઠું અને મરી ભભરાવો. 3–4 મિનિટ વધુ પકાવો, એક-બે વાર ફેરવો, કિનારીઓ સહેજ કરકરી અને વચ્ચે ગરમ થાય ત્યાં સુધી.",
+          "Switch off the heat and fold in lemon juice and coriander. Serve as a potato accompaniment with your chosen fasting bread; it is not a complete meal by itself.": "તાપ બંધ કરીને લીંબુનો રસ અને કોથમીર ભેળવો. પસંદ કરેલી ફરાળી રોટલી સાથે પીરસો; આ એકલું સંપૂર્ણ ભોજન નથી.",
+          "potato": "બટાકા",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "black pepper": "કાળા મરી",
+          "rock salt": "સિંધવ મીઠું",
+          "lemon juice": "લીંબુનો રસ",
+          "coriander leaves": "કોથમીર",
+          "Keep the potato pieces intact rather than mashing them into the cumin tempering.": "બટાકાના ટુકડા આખા રાખો; જીરાના વઘારમાં મસળો નહીં.",
+          "Cool boiled potatoes for 10 minutes before peeling.": "ઉકાળેલા બટાકા છોલતાં પહેલાં 10 મિનિટ ઠંડા કરો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "shengdana-amti",
+        "canonicalId": "shengdana-amti",
+        "name": "Shengdana Amti",
+        "cuisine": "Maharashtrian",
+        "categories": [
+          "Vrat/Fasting",
+          "Sabzi/Curries",
+          "Lunch",
+          "Dinner",
+          "No Onion-Garlic",
+          "Quick Meals"
+        ],
+        "ingredients": [
+          "roasted peanuts",
+          "fresh coconut",
+          "ghee",
+          "cumin seeds",
+          "green chilli",
+          "jaggery",
+          "lemon juice",
+          "rock salt",
+          "water"
+        ],
+        "method": "curry",
+        "time": 25,
+        "effort": "easy",
+        "kids": true,
+        "nutrition": [
+          "energy-rich"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 9,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [
+          "Blender"
+        ],
+        "side": true,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "peanut"
+        ],
+        "advancePrep": false,
+        "dietaryFacts": {
+          "overnightFermentation": false,
+          "yeast": false
+        }
+      },
+      "recipe": {
+        "id": "shengdana-amti",
+        "name": "Shengdana Amti",
+        "baseServings": 4,
+        "batchSize": 50,
+        "ingredients": [
+          {
+            "name": "roasted peanuts",
+            "qty": 160,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "fresh coconut",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 15,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cumin seeds",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "jaggery",
+            "qty": 12,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 20,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "rock salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "water",
+            "qty": 800,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rub the roasted peanuts to loosen the skins and discard any loose skins. Grind the nuts with grated fresh coconut, chopped chilli and 200 ml of the measured water to a smooth paste.",
+          "Heat ghee in a heavy saucepan over medium-low heat. Add cumin and let it sizzle until fragrant, keeping it pale brown rather than black.",
+          "Lower the heat and carefully stir in the peanut paste. Cook for 2 minutes, stirring the bottom constantly because nut paste catches easily.",
+          "Add the remaining 600 ml water gradually, whisking out lumps. Add jaggery and rock salt and bring to a gentle simmer rather than a rapid boil.",
+          "Simmer uncovered for 8–10 minutes, stirring often, until the raw paste aroma has gone and the curry lightly coats a spoon. Add a little hot water if it becomes too thick; amti should be pourable.",
+          "Take off the heat and stir in the lemon juice. Taste for a gentle sweet-sour balance and serve hot alongside your chosen bhagar or fasting bread, prepared separately."
+        ],
+        "tips": [
+          "This peanut-based fasting amti is an accompaniment; peanuts must be checked against the household’s own Jain and allergy choices."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 25,
+        "passiveTime": null,
+        "notes": "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Shengdana Amti": "शेंगदाणा आमटी",
+          "Rub the roasted peanuts to loosen the skins and discard any loose skins. Grind the nuts with grated fresh coconut, chopped chilli and 200 ml of the measured water to a smooth paste.": "भुनी मूँगफली मसलकर ढीले छिलके हटा दें। कद्दूकस नारियल, कटी मिर्च और नापे पानी के 200 मिली के साथ चिकना पीसें।",
+          "Heat ghee in a heavy saucepan over medium-low heat. Add cumin and let it sizzle until fragrant, keeping it pale brown rather than black.": "भारी पतीले में मध्यम-धीमी आँच पर घी गरम करें। जीरा डालकर खुशबू आने दें; हल्का भूरा रहे, काला न हो।",
+          "Lower the heat and carefully stir in the peanut paste. Cook for 2 minutes, stirring the bottom constantly because nut paste catches easily.": "आँच घटाकर मूँगफली का पेस्ट सावधानी से मिलाएँ। 2 मिनट तल से लगातार चलाते हुए पकाएँ क्योंकि पेस्ट जल्दी चिपकता है।",
+          "Add the remaining 600 ml water gradually, whisking out lumps. Add jaggery and rock salt and bring to a gentle simmer rather than a rapid boil.": "बाकी 600 मिली पानी धीरे डालकर गाँठें खोलें। गुड़ और सेंधा नमक डालें। तेज उबाल के बजाय हल्की आँच पर उबाल आने दें।",
+          "Simmer uncovered for 8–10 minutes, stirring often, until the raw paste aroma has gone and the curry lightly coats a spoon. Add a little hot water if it becomes too thick; amti should be pourable.": "बिना ढके 8–10 मिनट बार-बार चलाते हुए पकाएँ, जब तक कच्ची महक खत्म हो और चम्मच पर हल्की परत बने। ज्यादा गाढ़ी हो तो थोड़ा गरम पानी मिलाएँ; आमटी बहने योग्य होनी चाहिए।",
+          "Take off the heat and stir in the lemon juice. Taste for a gentle sweet-sour balance and serve hot alongside your chosen bhagar or fasting bread, prepared separately.": "आँच से हटाकर नींबू का रस मिलाएँ। हल्का मीठा-खट्टा संतुलन चखें और अलग से तैयार की हुई भगर या व्रत की रोटी के साथ गरम परोसें।",
+          "roasted peanuts": "भुनी मूँगफली",
+          "fresh coconut": "ताजा नारियल",
+          "ghee": "घी",
+          "cumin seeds": "जीरा",
+          "green chilli": "हरी मिर्च",
+          "jaggery": "गुड़",
+          "lemon juice": "नींबू का रस",
+          "rock salt": "सेंधा नमक",
+          "water": "पानी",
+          "This peanut-based fasting amti is an accompaniment; peanuts must be checked against the household’s own Jain and allergy choices.": "मूँगफली की यह व्रत वाली आमटी साथ में परोसी जाती है। मूँगफली को परिवार की अपनी जैन और एलर्जी की पसंद के अनुसार जाँचें।",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "चार वयस्कों के लिए। दिया समय तैयारी और पकाने का है; अतिरिक्त भिगोने, ठंडा करने या रखने का समय अलग है। व्रत की परंपराएँ अलग होती हैं: हर सामग्री अपने परिवार की प्रथा से जाँचें। जैन उपयुक्तता आपकी सहेजी सामग्री-पसंद पर निर्भर है।"
+        },
+        "gu": {
+          "Shengdana Amti": "શેંગદાણા આમટી",
+          "Rub the roasted peanuts to loosen the skins and discard any loose skins. Grind the nuts with grated fresh coconut, chopped chilli and 200 ml of the measured water to a smooth paste.": "શેકેલી મગફળી ઘસીને ઢીલી છાલ કાઢી નાખો. છીણેલું નાળિયેર, કાપેલું મરચું અને માપેલા પાણીમાંથી 200 મિલી સાથે સુંવાળી પેસ્ટ વાટો.",
+          "Heat ghee in a heavy saucepan over medium-low heat. Add cumin and let it sizzle until fragrant, keeping it pale brown rather than black.": "ભારે તપેલીમાં મધ્યમ-ધીમા તાપે ઘી ગરમ કરો. જીરું નાખીને સુગંધ આવવા દો; આછું ભૂરું રહે, કાળું ન થાય.",
+          "Lower the heat and carefully stir in the peanut paste. Cook for 2 minutes, stirring the bottom constantly because nut paste catches easily.": "તાપ ઓછો કરીને મગફળીની પેસ્ટ સાચવીને ઉમેરો. 2 મિનિટ તળિયેથી સતત હલાવતાં પકાવો કારણ કે પેસ્ટ ઝડપથી ચોંટે છે.",
+          "Add the remaining 600 ml water gradually, whisking out lumps. Add jaggery and rock salt and bring to a gentle simmer rather than a rapid boil.": "બાકી 600 મિલી પાણી ધીમે ઉમેરતાં ગાંઠો ખોલો. ગોળ અને સિંધવ મીઠું નાખીને ધીમો ઊભરો આવવા દો; જોરથી ઉકાળો નહીં.",
+          "Simmer uncovered for 8–10 minutes, stirring often, until the raw paste aroma has gone and the curry lightly coats a spoon. Add a little hot water if it becomes too thick; amti should be pourable.": "ઢાંક્યા વગર 8–10 મિનિટ વારંવાર હલાવતાં પકાવો, કાચી સુગંધ જાય અને ચમચી પર પાતળું પડ બને ત્યાં સુધી. વધારે જાડી થાય તો થોડું ગરમ પાણી નાખો; આમટી રેડી શકાય તેવી હોવી જોઈએ.",
+          "Take off the heat and stir in the lemon juice. Taste for a gentle sweet-sour balance and serve hot alongside your chosen bhagar or fasting bread, prepared separately.": "તાપ પરથી ઉતારી લીંબુનો રસ ભેળવો. હળવો મીઠો-ખાટો સ્વાદ ચાખો અને અલગથી તૈયાર કરેલી ભગર કે ફરાળી રોટલી સાથે ગરમ પીરસો.",
+          "roasted peanuts": "શેકેલી મગફળી",
+          "fresh coconut": "તાજું નાળિયેર",
+          "ghee": "ઘી",
+          "cumin seeds": "જીરું",
+          "green chilli": "લીલું મરચું",
+          "jaggery": "ગોળ",
+          "lemon juice": "લીંબુનો રસ",
+          "rock salt": "સિંધવ મીઠું",
+          "water": "પાણી",
+          "This peanut-based fasting amti is an accompaniment; peanuts must be checked against the household’s own Jain and allergy choices.": "મગફળીની આ ફરાળી આમટી સાથમાં પીરસાય છે. મગફળીને પરિવારની પોતાની જૈન અને એલર્જીની પસંદ પ્રમાણે તપાસો.",
+          "Four adult portions. Listed time covers preparation and cooking; additional soaking, cooling or resting is stated separately. Fasting customs vary: check every ingredient against your household practice. Jain suitability depends on your saved ingredient rules.": "ચાર પુખ્ત વ્યક્તિઓ માટે. આપેલો સમય તૈયારી અને રાંધવાનો છે; વધારાનો પલાળવાનો, ઠંડું કરવાનો કે રાખવાનો સમય અલગ છે. ઉપવાસની પ્રથાઓ જુદી હોય છે: દરેક સામગ્રી પરિવારની પ્રથા પ્રમાણે તપાસો. જૈન યોગ્યતા તમારી સાચવેલી સામગ્રીની પસંદ પર આધારિત છે."
+        }
+      }
+    }
+  ],
+  "approval": "User approved Batch 1 in this task on 2026-09-26."
+}

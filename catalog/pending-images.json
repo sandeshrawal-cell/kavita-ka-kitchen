@@ -634,5 +634,55 @@
     "name": "Watermelon Juice",
     "reason": "needs-quality-replacement",
     "prompt": "Photorealistic premium vegetarian recipe serving photograph: Watermelon Juice, Indian. Exact recipe ingredients: watermelon flesh, lemon juice.  Beautiful authentic finished food with true edible texture, soft natural window daylight, pale neutral stone tabletop, elegant appropriate ceramic bowl/plate or glass/cup for drinks, close three-quarter composition with entire vessel visible, landscape 4:3. Only vegetarian eggless ingredients, no extra toppings absent from this recipe. No text, watermark, branded packaging, cooking pots, hands, people, meat, eggs, illustration or collage."
+  },
+  {
+    "id": "sabudana-thalipeeth",
+    "name": "Sabudana Thalipeeth",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "farali-pattice",
+    "name": "Farali Pattice",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "samak-pulao",
+    "name": "Samak Pulao",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "kuttu-paratha",
+    "name": "Kuttu Paratha",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "kuttu-pakora",
+    "name": "Kuttu Pakora",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "singhare-ki-puri",
+    "name": "Singhare ki Puri",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "singhare-ke-pakode",
+    "name": "Singhare ke Pakode",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "sweet-potato-chaat",
+    "name": "Sweet Potato Chaat",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "vrat-wale-aloo",
+    "name": "Vrat Wale Aloo",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
+  },
+  {
+    "id": "shengdana-amti",
+    "name": "Shengdana Amti",
+    "reason": "deferred-by-user-for-consistent-style-photo-pass"
   }
 ]

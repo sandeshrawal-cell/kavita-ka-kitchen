@@ -4,7 +4,8 @@ import {recipes} from '../catalog/recipes.mjs';
 import {extra} from '../catalog/extra.mjs';
 import {correctCategories} from '../catalog/categories.mjs';
 import {recipeLibrary,hasUnspecifiedComponents} from '../catalog/recipe-library.mjs';
-import {slug,norm,CATEGORIES,COMMON_SIDES,ROOTS,vegetarianText} from '../src/core.js';
+import {validateEntry,duplicates} from './validate-catalog.mjs';
+import {slug,norm,CATEGORIES,COMMON_SIDES,ROOTS,vegetarianText,recipeDietaryFacts} from '../src/core.js';
 const root=new URL('../',import.meta.url);
 const source=await fs.readFile(new URL('data.js',root),'utf8');
 const box={window:{}};
@@ -53,6 +54,7 @@ for(const [id,r] of Object.entries(recipeLibrary)){
 }
 for(const d of db.values()){
  const fullRecipe=recipeMap.get(d.id);
+ d.dietaryFacts=recipeDietaryFacts(fullRecipe);
  if(fullRecipe){d.advancePrep=/overnight|ferment|\d+\s*hours?/i.test(fullRecipe.steps.join(' '));if(d.advancePrep)fullRecipe.passiveTime='Allow additional soaking, resting, chilling or fermentation as specified in the steps.';}
  if(photos[d.id]?.status==='reviewed'){d.photo=photos[d.id];if(recipeMap.has(d.id))recipeMap.get(d.id).photo=d.photo;}
  if(d.method==='assemble'&&!/wrap|sandwich|sushi|taco|roll/.test(norm(d.name))){d.individualPrep=false;d.bulkScore=9;}
@@ -81,6 +83,29 @@ for(const d of db.values()){
  }
 }
 for(const legacy of box.window.KKK_DATA.dishes){const id=slug(legacy.baseName),d=db.get(aliases[id]||id);if(d)aliases[legacy.id]=d.id;}
+// Only explicitly approved batches enter any public catalogue output.
+const approvedDir=new URL('catalog/approved/',root);
+for(const file of (await fs.readdir(approvedDir)).filter(f=>f.endsWith('.json')).sort()){
+ const batch=JSON.parse(await fs.readFile(new URL(file,approvedDir),'utf8'));
+ if(batch.publicationApproved!==true||batch.reviewStatus!=='published')throw Error('Unapproved batch in approved directory: '+file);
+ for(const entry of batch.entries){
+  if(entry.reviewStatus!=='published'||entry.translationReviewStatus!=='approved')throw Error('Unapproved entry: '+entry.dish.id);
+  const errors=validateEntry(entry.dish,entry.recipe).errors;
+  errors.push(...duplicates([...db.values()].map(dish=>({dish})).concat(entry)));
+  if(errors.length)throw Error(errors.join('\n'));
+  const d={...entry.dish,aliases:entry.aliases||[],dietaryFacts:recipeDietaryFacts(entry.recipe)};
+  db.set(d.id,d);recipeMap.set(d.id,entry.recipe);
+  for(const alias of entry.aliases||[]){const key=slug(alias);if((aliases[key]&&aliases[key]!==d.id)||(db.has(key)&&key!==d.id))throw Error('Alias collision: '+alias);aliases[key]=d.id;}
+ }
+ for(const lang of ['hi','gu']){
+  const file=new URL(`public/data/locales/${lang}-recipes.json`,root),translations=JSON.parse(await fs.readFile(file,'utf8'));
+  for(const entry of batch.entries){
+   const r=entry.recipe,required=[r.name,...r.ingredients.map(i=>i.name),...r.steps,...r.tips,...r.substitutions,r.notes,...(r.passiveTime?[r.passiveTime]:[])];
+   for(const text of required){if(!entry.translations[lang]?.[text])throw Error('Missing '+lang+' translation: '+r.id);if(!translations[text])translations[text]=entry.translations[lang][text];}
+  }
+  await fs.writeFile(file,JSON.stringify(translations));
+ }
+}
 const all=[...db.values()].sort((a,b)=>a.name.localeCompare(b.name));
 await fs.mkdir(new URL('catalog/generated',root),{recursive:true});
 await fs.mkdir(new URL('public/data/recipes',root),{recursive:true});
