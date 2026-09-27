@@ -6,7 +6,11 @@ await fs.cp('public','dist',{recursive:true});
 await fs.cp('icons','dist/icons',{recursive:true});
 for(const file of ['index.html','manifest.webmanifest','service-worker.js'])await fs.copyFile(file,'dist/'+file);
 await fs.mkdir('dist/assets',{recursive:true});
-for(const name of ['app.js','welcome-hero.js','welcome-hero.css','household.js','household-units.js','core.js','storage.js','catalog.js','auth-client.js','features.js','intelligence.js','photos.js','i18n.js','styles.css'])await fs.copyFile('src/'+name,'dist/assets/'+name);
+for(const name of ['app.js','welcome-hero.js','welcome-hero.css','household.js','household-units.js','core.js','storage.js','catalog.js','auth-client.js','features.js','intelligence.js','inspiration.js','photos.js','i18n.js','styles.css'])await fs.copyFile('src/'+name,'dist/assets/'+name);
+for(const name of (await fs.readdir('dist/assets')).filter(x=>x.endsWith('.js'))){
+ const source=await fs.readFile('dist/assets/'+name,'utf8');
+ for(const match of source.matchAll(/\b(?:from\s*|import\s*\()['"]\.\/([^'"]+\.js)['"]/g))await fs.access('dist/assets/'+match[1]);
+}
 await fs.copyFile('node_modules/@supabase/supabase-js/dist/umd/supabase.js','dist/assets/supabase.js');
 const files=(await fs.readdir('dist/assets')).filter(x=>/\.(js|css)$/.test(x));
 const hash=createHash('sha256');for(const f of files)hash.update(await fs.readFile('dist/assets/'+f));hash.update(await fs.readFile('index.html'));
