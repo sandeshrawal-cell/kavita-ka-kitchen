@@ -1,0 +1,169 @@
+{
+  "sourceReviewId": "R0007",
+  "id": "jolada-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Jolada Dosa",
+  "aliases": [
+    "Jowar Dosa"
+  ],
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the mixed batter for 10 minutes; no fermentation is needed.",
+  "ingredients": [
+    {
+      "name": "jowar (sorghum) flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "coarse semolina",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk the jowar flour, rice flour and coarse semolina in a large bowl. Stir in the curd and measured water gradually, breaking up every lump, until the batter is thin and pourable like rava dosa batter.",
+    "Finely chop the onion, green chilli, ginger, curry leaves and coriander. Stir them into the batter with cumin and salt. Rest for 10 minutes so the semolina hydrates, then whisk again; add a small splash of water only if it has become too thick to pour.",
+    "Heat a flat griddle over medium-high heat. Brush with a little of the measured oil. Stir the batter before each dosa because the flour settles; pour it from the outer edge towards the middle, leaving small lacy gaps rather than spreading it with a spoon.",
+    "Drizzle a little oil around the edge and cook for 3–4 minutes until the underside is golden, the top has dried and the dosa releases easily. Fold without flipping; if the centre remains wet, cover briefly before lifting.",
+    "Repeat with the remaining batter and oil, keeping the pan hot and stirring the batter each time. Serve the thin sorghum dosas immediately while their edges are crisp."
+  ],
+  "tips": [
+    "This instant batter needs no grinding or overnight fermentation. Sorghum flour settles quickly, so stir before every pour."
+  ],
+  "allergens": [
+    "milk",
+    "gluten"
+  ],
+  "jainVerified": false,
+  "dietaryFacts": {
+    "overnightFermentation": false,
+    "yeast": false
+  },
+  "photoDraft": "catalog/intake/photos/jolada-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "जोलदा डोसा",
+      "passiveTime": "मिला हुआ घोल 10 मिनट रखें; खमीर उठाने की जरूरत नहीं है।",
+      "ingredients": [
+        "ज्वार का आटा",
+        "चावल का आटा",
+        "दरदरी सूजी",
+        "सादा दही",
+        "पीने का पानी",
+        "प्याज",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "कड़ी पत्ते",
+        "हरा धनिया",
+        "नमक",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "बड़े कटोरे में ज्वार, चावल का आटा और दरदरी सूजी फेंटकर मिलाएँ। दही और नापा हुआ पानी धीरे-धीरे डालें, सभी गुठलियाँ तोड़ें, जब तक रवा डोसे जैसा पतला बहने वाला घोल बने।",
+        "प्याज, हरी मिर्च, अदरक, कड़ी पत्ते और धनिया बारीक काटें। जीरे और नमक के साथ घोल में मिलाएँ। सूजी पानी सोख ले इसलिए 10 मिनट रखें, फिर फेंटें; बहुत गाढ़ा हो तो थोड़ा पानी मिलाएँ।",
+        "चपटा तवा मध्यम-तेज़ आँच पर गरम कर थोड़ा नापा हुआ तेल लगाएँ। हर डोसे से पहले घोल चलाएँ क्योंकि आटा नीचे बैठता है। घोल बाहर से बीच की ओर डालें, छोटे जालीदार खाली स्थान रहने दें; चम्मच से न फैलाएँ।",
+        "किनारे पर थोड़ा तेल डालकर 3–4 मिनट पकाएँ, जब तक नीचे सुनहरा हो, ऊपर सूख जाए और डोसा आसानी से उठे। बिना पलटे मोड़ें; बीच गीला हो तो उठाने से पहले थोड़ी देर ढकें।",
+        "बचे घोल और तेल से इसी तरह डोसे बनाएँ, तवा गरम रखें और हर बार घोल चलाएँ। ज्वार के पतले डोसे किनारे कुरकुरे रहते ही तुरंत परोसें।"
+      ],
+      "tips": [
+        "यह झटपट घोल पीसने या रातभर खमीर उठाने के बिना बनता है। ज्वार का आटा जल्दी नीचे बैठता है, इसलिए हर बार डालने से पहले चलाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "જોલદા ઢોસા",
+      "passiveTime": "ભેળવેલું ખીરું 10 મિનિટ રાખો; આથો લાવવાની જરૂર નથી.",
+      "ingredients": [
+        "જુવારનો લોટ",
+        "ચોખાનો લોટ",
+        "જાડી રવો",
+        "સાદું દહીં",
+        "પીવાનું પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "જીરું",
+        "મીઠા લીમડાના પાન",
+        "કોથમીર",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "મોટી વાટકામાં જુવારનો લોટ, ચોખાનો લોટ અને જાડો રવો ભેળવો. દહીં અને માપેલું પાણી ધીમે-ધીમે ઉમેરતા બધી ગાંઠો તોડો, રવા ઢોસા જેવું પાતળું રેડી શકાય એવું ખીરું બને ત્યાં સુધી.",
+        "ડુંગળી, લીલું મરચું, આદુ, મીઠા લીમડાના પાન અને કોથમીર ઝીણાં સમારો. જીરું અને મીઠા સાથે ખીરામાં ભેળવો. રવો પાણી શોષે તેથી 10 મિનિટ રાખી ફરી હલાવો; વધારે ઘટ્ટ હોય તો થોડું પાણી ઉમેરો.",
+        "સપાટ તવો મધ્યમથી વધુ તાપે ગરમ કરી થોડું માપેલું તેલ લગાવો. દરેક ઢોસા પહેલાં ખીરું હલાવો કારણ કે લોટ નીચે બેસે છે. બહારની કિનારીથી મધ્ય તરફ ખીરું રેડો, નાના જાળીદાર ખાડા રહેવા દો; ચમચીથી ન ફેલાવો.",
+        "કિનારે થોડું તેલ નાખી 3–4 મિનિટ શેકો, નીચે સોનેરી થાય, ઉપરથી સુકાય અને ઢોસો સહેલાઈથી ઊખડે ત્યાં સુધી. ફેરવ્યા વગર વાળો; મધ્યમાં ભીનાશ હોય તો ઊંચકતાં પહેલાં થોડીવાર ઢાંકો.",
+        "બાકી ખીરું અને તેલથી આમ જ ઢોસા બનાવો, તવો ગરમ રાખો અને દરેક વખતે ખીરું હલાવો. જુવારના પાતળા ઢોસાની કિનારી કરકરી હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "આ ઝડપી ખીરાને પીસવાની કે રાતભર આથો લાવવાની જરૂર નથી. જુવારનો લોટ ઝડપથી નીચે બેસે છે, એટલે દરેક વખતે રેડતાં પહેલાં હલાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://smithakalluraya.com/instant-jowar-dosa-jolada-dosa-recipe-jonna-dosa-sorghum-dosa/",
+    "use": "Dish identity and instant thin-batter method; quantities and wording independently authored."
+  }
+}

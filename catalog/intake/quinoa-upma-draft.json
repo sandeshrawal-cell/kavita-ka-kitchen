@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R0049",
+  "id": "quinoa-upma",
+  "status": "published-first-100-intake-batch",
+  "name": "Quinoa Upma",
+  "cuisine": "Global Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "No passive preparation required.",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 580,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse quinoa in a fine sieve under running water for at least 30 seconds to remove its bitter coating, then drain well.",
+    "Heat the measured oil in a wide pan, splutter mustard and curry leaves, then soften chopped onion, chilli and ginger for 4–5 minutes over medium heat.",
+    "Dice carrot and beans small, then cook them with peas in the softened onion mixture for 4 minutes so they finish cooking with the quinoa.",
+    "Stir in the drained quinoa, 580 ml hot water and salt. Cover over low heat for 15–18 minutes until the liquid is absorbed and the tiny white tails appear; rest covered 5 minutes.",
+    "Switch off the heat, fluff gently and finish with chopped coriander. Divide into four bowls and serve warm; avoid packing down the grains. Finish with the measured lemon juice."
+  ],
+  "tips": [
+    "Fully cooked quinoa shows a tiny white germ ring and remains separate, not translucent like tapioca."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "क्विनोआ उपमा",
+      "passiveTime": "अतिरिक्त विराम नहीं चाहिए।",
+      "ingredients": [
+        "क्विनोआ",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "हरा धनिया",
+        "गाजर",
+        "हरे मटर",
+        "हरी फलियाँ",
+        "नींबू रस"
+      ],
+      "steps": [
+        "क्विनोआ बारीक छलनी में बहते पानी से कम से कम 30 सेकंड धोएँ ताकि कड़वी परत हटे, फिर अच्छी तरह छानें।",
+        "चौड़े पैन में नापा तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कटा प्याज़, मिर्च और अदरक मध्यम आँच पर 4–5 मिनट नरम करें।",
+        "गाजर और फलियाँ छोटे टुकड़ों में काटें, फिर नरम प्याज़ मिश्रण में मटर के साथ 4 मिनट पकाएँ ताकि क्विनोआ के साथ पूरी पकें।",
+        "छना क्विनोआ, 580 मिली गरम पानी और नमक मिलाएँ। धीमी आँच पर 15–18 मिनट पानी सोखने और छोटे सफेद अंकुर दिखने तक ढककर पकाएँ; 5 मिनट ढका रखें।",
+        "आँच बंद कर धीरे फुलाएँ और कटा धनिया डालें। चार कटोरियों में बाँटकर गरम परोसें; दानों को दबाएँ नहीं। नापा नींबू रस अंत में मिलाएँ।"
+      ],
+      "tips": [
+        "पके क्विनोआ में छोटा सफेद अंकुर दिखता है और दाने अलग रहते हैं, साबूदाने जैसे पारदर्शी नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ક્વિનોઆ ઉપમા",
+      "passiveTime": "વધારાનો વિરામ જરૂરી નથી.",
+      "ingredients": [
+        "ક્વિનોઆ",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "ગાજર",
+        "લીલા વટાણા",
+        "લીલા ફણસી",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ક્વિનોઆ ઝીણી ચાળણીમાં વહેતા પાણીથી ઓછામાં ઓછી 30 સેકન્ડ ધોઈ કડવી પરત દૂર કરો, પછી સારી રીતે નિતારો.",
+        "પહોળી કઢાઈમાં માપેલું તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી સમારેલી ડુંગળી, મરચું અને આદુ મધ્યમ તાપે 4–5 મિનિટ નરમ કરો.",
+        "ગાજર અને ફણસી નાની કાપી નરમ ડુંગળીના મિશ્રણમાં વટાણા સાથે 4 મિનિટ રાંધો જેથી ક્વિનોઆ સાથે પૂરી પાકે.",
+        "નિતારેલો ક્વિનોઆ, 580 મિલી ગરમ પાણી અને મીઠું ભેળવો. ધીમા તાપે 15–18 મિનિટ પાણી શોષાય અને નાની સફેદ પૂંછડીઓ દેખાય ત્યાં સુધી ઢાંકી રાંધો; 5 મિનિટ ઢાંકેલું રાખો.",
+        "તાપ બંધ કરી હળવેથી ફુલાવો અને સમારેલી કોથમીર નાખો. ચાર વાટકામાં વહેંચી ગરમ પીરસો; દાણાને દબાવશો નહીં. માપેલો લીંબુનો રસ અંતે ભેળવો."
+      ],
+      "tips": [
+        "પાકેલા ક્વિનોઆમાં નાનું સફેદ અંકુર દેખાય અને દાણા અલગ રહે, સાબુદાણા જેવા પારદર્શક નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.indianhealthyrecipes.com/quinoa-upma-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/quinoa-upma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

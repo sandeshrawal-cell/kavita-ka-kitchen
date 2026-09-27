@@ -1,0 +1,116 @@
+{
+  "sourceReviewId": "R0090",
+  "id": "eggless-crepes",
+  "status": "published-first-100-intake-batch",
+  "name": "Eggless Crepes",
+  "cuisine": "French",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight thin crepes",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest batter 20 minutes.",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 520,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "melted butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "strawberries",
+      "qty": 240,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk flour, sugar and salt. Gradually whisk in milk and water to make a smooth, thin batter, then mix in 25 g melted butter.",
+    "Rest the batter covered for 20 minutes so the flour hydrates. Stir again; add a spoon of water if it no longer pours thinly.",
+    "Heat an 18–20 cm nonstick pan over medium heat and brush with some remaining butter. Pour one eighth of the batter, swirling immediately to coat thinly.",
+    "Cook about 90 seconds until the underside is golden, flip carefully and cook 30 seconds more. Repeat for eight crepes.",
+    "Fold into quarters and serve with sliced strawberries."
+  ],
+  "tips": [
+    "The first crepe tests pan heat; reduce heat if it browns before the top sets."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे के क्रेप",
+      "passiveTime": "घोल 20 मिनट रखें।",
+      "ingredients": [
+        "मैदा",
+        "दूध",
+        "पानी",
+        "पिघला मक्खन",
+        "चीनी",
+        "नमक",
+        "स्ट्रॉबेरी"
+      ],
+      "steps": [
+        "मैदा, चीनी और नमक फेंटें। धीरे-धीरे दूध और पानी डालकर चिकना पतला घोल बनाएँ, फिर 25 ग्राम पिघला मक्खन मिलाएँ।",
+        "आटा पानी सोखे इसलिए घोल ढककर 20 मिनट रखें। फिर हिलाएँ; पतला न बहे तो एक चम्मच पानी डालें।",
+        "18–20 सेमी नॉनस्टिक पैन मध्यम आँच पर गरम कर बचे मक्खन में से थोड़ा लगाएँ। घोल का आठवाँ भाग डालते ही पैन घुमाकर पतला फैलाएँ।",
+        "लगभग 90 सेकंड नीचे सुनहरा होने तक पकाएँ, सावधानी से पलटें और 30 सेकंड और सेंकें। ऐसे आठ क्रेप बनाएँ।",
+        "चार तह में मोड़कर कटी स्ट्रॉबेरी के साथ परोसें।"
+      ],
+      "tips": [
+        "पहले क्रेप से तवे की आँच जाँचें; ऊपर जमने से पहले भूरा हो तो आँच घटाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાના ક્રેપ",
+      "passiveTime": "ખીરું 20 મિનિટ રાખો.",
+      "ingredients": [
+        "મેંદો",
+        "દૂધ",
+        "પાણી",
+        "ઓગાળેલું માખણ",
+        "ખાંડ",
+        "મીઠું",
+        "સ્ટ્રોબેરી"
+      ],
+      "steps": [
+        "મેંદો, ખાંડ અને મીઠું ફેંટો. ધીમે ધીમે દૂધ અને પાણી ઉમેરી લીસું પાતળું ખીરું બનાવી પછી 25 ગ્રામ ઓગાળેલું માખણ ભેળવો.",
+        "લોટ ભીંજાય માટે ખીરું ઢાંકી 20 મિનિટ રાખો. ફરી હલાવો; પાતળું ન રેડાય તો એક ચમચી પાણી ઉમેરો.",
+        "18–20 સેમીનો નોનસ્ટિક પેન મધ્યમ તાપે ગરમ કરી બાકી માખણમાંથી થોડું લગાવો. ખીરાનો આઠમો ભાગ રેડતાં જ પેન ફેરવી પાતળું ફેલાવો.",
+        "લગભગ 90 સેકન્ડ તળિયું સોનેરી થાય ત્યાં સુધી શેકો, સાવચેતીથી પલટી વધુ 30 સેકન્ડ શેકો. આમ આઠ ક્રેપ બનાવો.",
+        "ચાર ગડી વાળી કાપેલી સ્ટ્રોબેરી સાથે પીરસો."
+      ],
+      "tips": [
+        "પહેલા ક્રેપથી તવાની ગરમી તપાસો; ઉપર જમે તે પહેલાં ભૂરો થાય તો તાપ ઘટાડો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-crepes.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

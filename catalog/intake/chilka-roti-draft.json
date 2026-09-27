@@ -1,0 +1,131 @@
+{
+  "sourceReviewId": "R0063",
+  "id": "chilka-roti",
+  "status": "published-first-100-intake-batch",
+  "name": "Chilka Roti",
+  "cuisine": "Jharkhand",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pancakes",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "Soak rice and chana dal for 4 hours.",
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared tomato chutney",
+      "qty": 180,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash rice and chana dal and soak separately for 4 hours. Drain and grind with measured water into a smooth batter with a little texture from the dal.",
+    "Blend in green chilli and ginger, then stir in cumin and salt. The batter should be pourable but thicker than a lacy rice-flour ghavan.",
+    "Heat a lightly oiled flat griddle over medium heat. Pour a ladle and spread into a thin round about 15 cm wide.",
+    "Cook for 2–3 minutes until the underside is golden and the top sets. Flip and cook 1–2 minutes more until the rice and dal are fully cooked without a raw centre.",
+    "Make eight chilka rotis and serve two per person with tomato chutney. Stir the batter before each one so the dal remains evenly mixed."
+  ],
+  "tips": [
+    "The rice and chana dal batter is ground fresh; this version does not require overnight fermentation."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चिल्का रोटी",
+      "passiveTime": "चावल और चना दाल 4 घंटे भिगोएँ।",
+      "ingredients": [
+        "चावल",
+        "चना दाल",
+        "पानी",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार टमाटर चटनी"
+      ],
+      "steps": [
+        "चावल और चना दाल धोकर अलग-अलग 4 घंटे भिगोएँ। छानकर नापे पानी से चिकना घोल पीसें जिसमें दाल की थोड़ी बनावट रहे।",
+        "हरी मिर्च और अदरक पीसकर डालें, फिर जीरा और नमक मिलाएँ। घोल बहने योग्य हो पर जालीदार चावल घावन से गाढ़ा।",
+        "हल्के तेल लगे सपाट तवे को मध्यम आँच पर गरम करें। करछी घोल डालकर लगभग 15 सेमी पतला गोल फैलाएँ।",
+        "2–3 मिनट तला सुनहरा और ऊपर जमने तक पकाएँ। पलटकर 1–2 मिनट और पकाएँ जब तक चावल-दाल पूरी पके और बीच कच्चा न हो।",
+        "आठ चिल्का रोटियाँ बनाकर हर व्यक्ति को दो टमाटर चटनी के साथ दें। दाल बराबर रहे इसलिए हर बार घोल चलाएँ।"
+      ],
+      "tips": [
+        "चावल-चना दाल का घोल ताज़ा पिसता है; इसमें रात भर खमीर जरूरी नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ચિલકા રોટી",
+      "passiveTime": "ચોખા અને ચણા દાળ 4 કલાક પલાળો.",
+      "ingredients": [
+        "ચોખા",
+        "ચણા દાળ",
+        "પાણી",
+        "લીલું મરચું",
+        "આદુ",
+        "જીરું",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર ટામેટાંની ચટણી"
+      ],
+      "steps": [
+        "ચોખા અને ચણા દાળ ધોઈ અલગ 4 કલાક પલાળો. નિતારી માપેલા પાણીથી સુંવાળું ખીરું વાટો જેમાં દાળની થોડી બનાવટ રહે.",
+        "લીલું મરચું અને આદુ વાટી ઉમેરો, પછી જીરું અને મીઠું ભેળવો. ખીરું વહે એવું પણ જાળીદાર ચોખાના ઘાવન કરતાં ઘટ્ટ હોય.",
+        "થોડું તેલ લગાવેલો સપાટ તવો મધ્યમ તાપે ગરમ કરો. કડછી ખીરું રેડી આશરે 15 સેમી પાતળો ગોળ પાથરો.",
+        "2–3 મિનિટ નીચે સોનેરી અને ઉપર ચડે ત્યાં સુધી શેકો. ફેરવી 1–2 મિનિટ વધુ શેકો, ચોખા-દાળ પૂરા પાકે અને મધ્ય કાચું ન રહે ત્યાં સુધી.",
+        "આઠ ચિલકા રોટી બનાવી દરેકને બે ટામેટાંની ચટણી સાથે આપો. દાળ સરખી રહે તે માટે દરેક વખતે ખીરું હલાવો."
+      ],
+      "tips": [
+        "ચોખા-ચણા દાળનું ખીરું તાજું વાટાય છે; તેમાં રાતભર આથો જરૂરી નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chilka-roti-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/chilka-roti.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

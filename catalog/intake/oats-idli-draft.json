@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0040",
+  "id": "oats-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Oats Idli",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Twelve idlis",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Rest the batter for 10 minutes before steaming.",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "carrot",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "fruit salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast rolled oats over low heat for 3–4 minutes until fragrant, cool and pulse into a coarse flour. Roast semolina separately for 2 minutes without browning.",
+    "Heat oil, splutter mustard and curry leaves, then cook grated carrot for 2 minutes. Mix the oat flour, semolina, carrot tempering, curd, measured water and salt into a thick spoonable batter.",
+    "Rest 10 minutes so the oats hydrate. Set a steamer to boil and lightly oil idli moulds. If the batter has become stiff, loosen with a small splash of water.",
+    "Immediately before steaming, stir in fruit salt gently until the batter lightens. Fill moulds three-quarters full and steam for 12–15 minutes, until a skewer comes out clean.",
+    "Rest for 2 minutes, unmould and serve warm with coconut chutney. Add fruit salt only once the steamer is ready, or the bubbles escape before cooking."
+  ],
+  "tips": [
+    "Fruit salt is a leavening ingredient; use plain unflavoured fruit salt with no egg-derived additives."
+  ],
+  "allergens": [
+    "milk",
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/oats-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ओट्स इडली",
+      "passiveTime": "भाप में पकाने से पहले घोल 10 मिनट रखें।",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "सूजी",
+        "सादा दही",
+        "पानी",
+        "गाजर",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "फ्रूट सॉल्ट",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "रोल्ड ओट्स धीमी आँच पर 3–4 मिनट सुगंध आने तक सूखे भूनें, ठंडे कर मोटा आटा पीसें। सूजी अलग 2 मिनट बिना भूरा किए भूनें।",
+        "तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कसी गाजर 2 मिनट पकाएँ। ओट्स आटा, सूजी, गाजर का तड़का, दही, नापा पानी और नमक मिलाकर गाढ़ा चम्मच से गिरने वाला घोल बनाएँ।",
+        "ओट्स को नमी सोखने के लिए 10 मिनट रखें। स्टीमर का पानी उबालें और इडली साँचे हल्के तेल से चिकने करें। घोल सख्त हो तो थोड़ा पानी मिलाएँ।",
+        "भाप में पकाने से ठीक पहले फ्रूट सॉल्ट धीरे मिलाएँ जब तक घोल हल्का हो। साँचे तीन-चौथाई भरें और 12–15 मिनट सींक साफ निकलने तक भाप दें।",
+        "2 मिनट रखें, साँचे से निकालें और नारियल चटनी के साथ गरम परोसें। फ्रूट सॉल्ट स्टीमर तैयार होने पर ही डालें, नहीं तो बुलबुले पहले निकल जाएँगे।"
+      ],
+      "tips": [
+        "फ्रूट सॉल्ट फुलाने की सामग्री है; सादा बिना स्वाद वाला लें।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ ઈડલી",
+      "passiveTime": "વરાળમાં બાફતાં પહેલાં ખીરું 10 મિનિટ રાખો.",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "રવો",
+        "સાદું દહીં",
+        "પાણી",
+        "ગાજર",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "ફ્રૂટ સોલ્ટ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "રોલ્ડ ઓટ્સ ધીમા તાપે 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી કોરા શેકો, ઠંડા કરી જાડો લોટ પીસો. રવો અલગ 2 મિનિટ ભૂરો કર્યા વગર શેકો.",
+        "તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી છીણેલી ગાજર 2 મિનિટ શેકો. ઓટ્સનો લોટ, રવો, ગાજરનો વઘાર, દહીં, માપેલું પાણી અને મીઠું ભેળવી ચમચીથી પડે એવું ઘટ્ટ ખીરું બનાવો.",
+        "ઓટ્સ ભેજ શોષે તે માટે 10 મિનિટ રાખો. સ્ટીમરનું પાણી ઉકાળો અને ઈડલી બીબામાં થોડું તેલ લગાવો. ખીરું કઠણ થાય તો થોડું પાણી ભેળવો.",
+        "વરાળમાં બાફતાં પહેલાં જ ફ્રૂટ સોલ્ટ હળવેથી ભેળવો, ખીરું હળવું થાય ત્યાં સુધી. બીબા ત્રણ-ચતુર્થાંશ ભરી 12–15 મિનિટ સળી ચોખ્ખી નીકળે ત્યાં સુધી બાફો.",
+        "2 મિનિટ રાખી બીબામાંથી કાઢો અને નાળિયેરની ચટણી સાથે ગરમ પીરસો. સ્ટીમર તૈયાર હોય ત્યારે જ ફ્રૂટ સોલ્ટ નાખો, નહિતર પરપોટા પહેલાં નીકળી જશે."
+      ],
+      "tips": [
+        "ફ્રૂટ સોલ્ટ ફુલાવનાર વસ્તુ છે; સાદું સ્વાદ વગરનું લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/oats-idli-recipe-instant-oats-idli/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0032",
+  "id": "jini-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Jini Dosa",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four large sliced rolls",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "capsicum",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian chilli sauce",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "grated mozzarella",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with the measured water to a smooth batter, cover loosely and ferment overnight until visibly risen.",
+    "Stir in salt without flattening the batter. Heat a broad seasoned griddle; a drop of water should dance and evaporate quickly.",
+    "Finely chop cabbage, carrot, capsicum and tomato. Briefly stir-fry them in 15 ml oil so the vegetable mixture is hot but not watery.",
+    "Spread fermented batter thinly on a broad hot griddle and drizzle a little of the remaining oil around it. When the surface sets, smear vegetarian chilli sauce across the dosa.",
+    "Scatter a quarter of the hot vegetables and cheese over each of four large dosas. Roll tightly while still flexible, let the cheese melt, then cut each roll into upright bite-sized segments and serve at once."
+  ],
+  "tips": [
+    "Chop filling finely so the rolled dosa can be sliced without collapsing."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/jini-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "जिनी डोसा",
+      "passiveTime": "अनाज 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "पत्ता गोभी",
+        "गाजर",
+        "शिमला मिर्च",
+        "टमाटर",
+        "शाकाहारी चिली सॉस",
+        "कद्दूकस मोज़रेला",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी से चिकना घोल पीसकर ढीला ढकें और रात भर साफ फूला दिखने तक खमीर उठाएँ।",
+        "नमक मिलाएँ, पर घोल की हवा न निकालें। चौड़ा तैयार तवा गरम करें; पानी की बूँद नाचकर जल्दी सूखनी चाहिए।",
+        "पत्ता गोभी, गाजर, शिमला मिर्च और टमाटर बारीक काटें। 15 मिली तेल में जल्दी भूनें ताकि सब्ज़ी गरम हो पर पानीदार न हो।",
+        "खमीरी घोल को चौड़े गरम तवे पर पतला फैलाएँ और बचे तेल में से थोड़ा किनारे डालें। ऊपर जमने पर शाकाहारी चिली सॉस डोसे पर लगाएँ।",
+        "चार बड़े डोसों पर हर एक के लिए गरम सब्ज़ी और चीज़ का चौथाई भाग बिखेरें। नरम रहते कसकर रोल करें, चीज़ पिघलने दें, फिर छोटे खड़े टुकड़े काटकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "भरावन बारीक काटें ताकि रोल किया डोसा काटते समय न टूटे।"
+      ]
+    },
+    "gu": {
+      "name": "જીની ડોસા",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "કોબી",
+        "ગાજર",
+        "કેપ્સિકમ",
+        "ટામેટાં",
+        "શાકાહારી ચીલી સોસ",
+        "છીણેલું મોઝરેલા",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા પાણીથી સુંવાળું ખીરું વાટી ઢીલું ઢાંકો અને રાતભર સ્પષ્ટ ફૂલે ત્યાં સુધી આથો આવવા દો.",
+        "મીઠું ભેળવો, પણ ખીરાની હવા ન કાઢો. પહોળો તૈયાર તવો ગરમ કરો; પાણીનું ટીપું નાચીને ઝડપથી સુકાવું જોઈએ.",
+        "કોબી, ગાજર, કેપ્સિકમ અને ટામેટાં બારીક સમારો. 15 મિલી તેલમાં ઝડપથી શેકો જેથી શાક ગરમ થાય પણ પાણીવાળું ન બને.",
+        "આથેલું ખીરું પહોળા ગરમ તવા પર પાતળું પાથરો અને બાકી તેલમાંથી થોડું કિનારે નાખો. ઉપર ચડે ત્યારે શાકાહારી ચીલી સોસ ડોસા પર લગાવો.",
+        "ચાર મોટા ડોસામાં દરેક પર ગરમ શાક અને ચીઝનો ચોથો ભાગ છાંટો. નરમ હોય ત્યારે ચુસ્ત રોલ કરો, ચીઝ ઓગળવા દો, પછી નાના ઊભા ટુકડા કાપી તરત પીરસો."
+      ],
+      "tips": [
+        "પૂરણ બારીક સમારો જેથી વાળેલો ડોસો કાપતાં ન તૂટે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/jini-dosa-recipe-mumbai-street-food/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

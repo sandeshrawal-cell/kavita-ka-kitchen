@@ -1,0 +1,124 @@
+{
+  "sourceReviewId": "R0011",
+  "id": "amaranth-porridge",
+  "status": "published-first-100-intake-batch",
+  "name": "Amaranth Porridge",
+  "aliases": [
+    "Rajgira Porridge"
+  ],
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "passiveTime": null,
+  "ingredients": [
+    {
+      "name": "whole amaranth seeds",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "banana",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the whole amaranth seeds in a very fine sieve so none are lost. Put them in a heavy saucepan with the measured drinking water and half the milk. Bring to a gentle boil, then reduce to a low simmer.",
+    "Cover partly and cook for 20–25 minutes, stirring every few minutes and scraping the base. The tiny grains should be tender through the centre and suspended in a creamy porridge, not crunchy. Add a splash of the remaining measured milk if the pan begins to dry.",
+    "Stir in the ground cinnamon and most of the remaining milk, simmering for 2–3 minutes to reach a spoonable consistency. Turn off the heat; the porridge thickens as it stands, so reserve a little milk for the final adjustment.",
+    "Slice the banana and chop the almonds. Divide the hot porridge among four bowls, loosen with the reserved milk, and top each with banana, berries and almonds. Drizzle the measured maple syrup evenly over the bowls and serve while warm."
+  ],
+  "tips": [
+    "Use whole amaranth seeds rather than popped amaranth in this version. Stir often near the end because milk-rich porridge can catch on the pan."
+  ],
+  "allergens": [
+    "milk",
+    "tree nuts"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/amaranth-porridge.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "राजगिरा दलिया",
+      "ingredients": [
+        "साबुत राजगिरा दाने",
+        "पीने का पानी",
+        "दूध",
+        "केला",
+        "मिली-जुली बेरी",
+        "बादाम",
+        "मेपल सिरप",
+        "पिसी दालचीनी"
+      ],
+      "steps": [
+        "साबुत राजगिरा दानों को बहुत बारीक छलनी में धोएँ ताकि दाने बह न जाएँ। भारी पैन में नापा हुआ पीने का पानी और आधा दूध डालकर दाने मिलाएँ। हल्का उबाल लाएँ, फिर धीमी आँच पर पकाएँ।",
+        "आधा ढककर 20–25 मिनट पकाएँ, हर कुछ मिनट में चलाएँ और तली खुरचें। छोटे दाने भीतर तक नरम हों और मलाईदार दलिये में दिखें, कड़े न रहें। पैन सूखने लगे तो बचे नापे दूध में से थोड़ा डालें।",
+        "पिसी दालचीनी और बचे दूध का अधिकतर भाग मिलाएँ। 2–3 मिनट उबालकर चम्मच से खाने लायक गाढ़ापन लाएँ। आँच बंद करें; रखा रहने पर दलिया गाढ़ा होता है, इसलिए अंत के लिए थोड़ा दूध बचाएँ।",
+        "केला काटें और बादाम चोप करें। गरम दलिया चार कटोरियों में बाँटें, बचे दूध से जरूरत अनुसार पतला करें और ऊपर केला, बेरी व बादाम रखें। नापा मेपल सिरप बराबर बाँटकर गरम परोसें।"
+      ],
+      "tips": [
+        "इस रूप में फूले हुए नहीं, साबुत राजगिरा दाने लें। अंत में बार-बार चलाएँ क्योंकि दूध वाला दलिया पैन में लग सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "રાજગરાની લાપસી",
+      "ingredients": [
+        "આખા રાજગરાના દાણા",
+        "પીવાનું પાણી",
+        "દૂધ",
+        "કેળું",
+        "મિશ્ર બેરી",
+        "બદામ",
+        "મેપલ સિરપ",
+        "દળેલી તજ"
+      ],
+      "steps": [
+        "આખા રાજગરાના દાણાને બહુ ઝીણી ચાળણીમાં ધોવો જેથી દાણા વહી ન જાય. ભારે પેનમાં માપેલું પીવાનું પાણી અને અડધું દૂધ લઈ દાણા નાખો. હળવો ઉકળો લાવી તાપ ધીમો કરો.",
+        "અડધું ઢાંકીને 20–25 મિનિટ રાંધો, દર થોડી મિનિટે હલાવી તળિયું ઉખેડો. નાના દાણા અંદર સુધી નરમ થાય અને ક્રીમી લાપસીમાં દેખાય, કઠણ ન રહે. પેન સૂકાવા લાગે તો બાકી માપેલા દૂધમાંથી થોડું નાખો.",
+        "દળેલી તજ અને બાકી દૂધનો મોટાભાગનો હિસ્સો ભેળવો. 2–3 મિનિટ ઉકાળી ચમચીથી ખાઈ શકાય તેવી ઘટ્ટતા લાવો. તાપ બંધ કરો; ઊભું રહેતાં લાપસી ઘટ્ટ થાય છે, એટલે અંત માટે થોડું દૂધ સાચવો.",
+        "કેળું સમારો અને બદામ ટુકડા કરો. ગરમ લાપસી ચાર વાટકામાં વહેંચો, સાચવેલા દૂધથી જરૂર પ્રમાણે પાતળી કરો અને ઉપર કેળું, બેરી તથા બદામ મૂકો. માપેલો મેપલ સિરપ સરખો રેડી ગરમ પીરસો."
+      ],
+      "tips": [
+        "આ રૂપમાં ફુલાવેલા નહીં પરંતુ આખા રાજગરાના દાણા લો. અંતે વારંવાર હલાવો કારણ કે દૂધવાળી લાપસી પેનને લાગી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.wholefoodsmarket.com/recipes/amaranth-banana-breakfast-porridge",
+    "use": "Whole-amaranth porridge identity and simmering method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "sourceReviewId": "R0094",
+  "id": "baghrir",
+  "status": "published-first-100-intake-batch",
+  "name": "Baghrir",
+  "cuisine": "Moroccan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small pancakes",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Batter rises for 30–45 minutes.",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 520,
+      "unit": "ml"
+    },
+    {
+      "name": "dry yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery syrup",
+      "qty": 80,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Blend semolina, flour, warm water, yeast, baking powder, sugar and salt into a smooth pourable batter.",
+    "Cover and leave in a warm place for 30–45 minutes until slightly bubbly, then stir gently.",
+    "Heat a nonstick pan on medium heat. Pour one eighth of the batter into a 14 cm round. Cook only on one side for 2–3 minutes until many tiny holes form and the surface dries.",
+    "Slide off without flipping. Repeat, spacing pancakes so they do not stick while cooling.",
+    "Melt butter and mix with jaggery syrup; spoon over the warm baghrir and serve."
+  ],
+  "tips": [
+    "Baghrir is traditionally honeyed; this vegetarian version uses jaggery syrup instead."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बाघरीर",
+      "passiveTime": "घोल 30–45 मिनट उठने दें।",
+      "ingredients": [
+        "बारीक सूजी",
+        "मैदा",
+        "गुनगुना पानी",
+        "सूखा खमीर",
+        "बेकिंग पाउडर",
+        "चीनी",
+        "नमक",
+        "मक्खन",
+        "गुड़ की चाशनी"
+      ],
+      "steps": [
+        "सूजी, मैदा, गुनगुना पानी, खमीर, बेकिंग पाउडर, चीनी और नमक चिकना बहने वाला घोल बनने तक ब्लेंड करें।",
+        "ढककर गरम जगह 30–45 मिनट हल्के बुलबुले आने तक रखें, फिर धीरे हिलाएँ।",
+        "नॉनस्टिक पैन मध्यम आँच पर गरम करें। घोल का आठवाँ भाग 14 सेमी गोल डालें। सिर्फ एक तरफ 2–3 मिनट पकाएँ, जब तक कई छोटे छेद बनें और ऊपर सूख जाए।",
+        "बिना पलटे उतारें। बाकी बनाएँ और ठंडा होते समय अलग रखें ताकि चिपकें नहीं।",
+        "मक्खन पिघलाकर गुड़ की चाशनी मिलाएँ; गरम बाघरीर पर डालकर परोसें।"
+      ],
+      "tips": [
+        "इस शाकाहारी रूप में शहद के बदले गुड़ की चाशनी है।"
+      ]
+    },
+    "gu": {
+      "name": "બાઘરીર",
+      "passiveTime": "ખીરું 30–45 મિનિટ ફૂલવા દો.",
+      "ingredients": [
+        "ઝીણી સોજી",
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "સૂકો યીસ્ટ",
+        "બેકિંગ પાવડર",
+        "ખાંડ",
+        "મીઠું",
+        "માખણ",
+        "ગોળની ચાસણી"
+      ],
+      "steps": [
+        "સોજી, મેંદો, હૂંફાળું પાણી, યીસ્ટ, બેકિંગ પાવડર, ખાંડ અને મીઠું લીસું રેડી શકાય એવું ખીરું થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "ઢાંકી ગરમ જગ્યાએ 30–45 મિનિટ થોડા પરપોટા આવે ત્યાં સુધી રાખો, પછી હળવેથી હલાવો.",
+        "નોનસ્ટિક પેન મધ્યમ તાપે ગરમ કરો. ખીરાનો આઠમો ભાગ 14 સેમી ગોળ રેડો. માત્ર એક બાજુ 2–3 મિનિટ અનેક નાના છિદ્રો બને અને ઉપર સુકાય ત્યાં સુધી શેકો.",
+        "પલટ્યા વગર ઉતારો. બાકી બનાવો અને ઠંડા થતાં અલગ રાખો જેથી ચોંટે નહીં.",
+        "માખણ ઓગાળી ગોળની ચાસણી ભેળવો; ગરમ બાઘરીર પર રેડી પીરસો."
+      ],
+      "tips": [
+        "આ શાકાહારી રૂપમાં મધને બદલે ગોળની ચાસણી છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/baghrir.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

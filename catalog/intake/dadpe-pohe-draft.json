@@ -1,0 +1,145 @@
+{
+  "sourceReviewId": "R0051",
+  "id": "dadpe-pohe",
+  "status": "published-first-100-intake-batch",
+  "name": "Dadpe Pohe",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 20,
+  "passiveTime": "Rest the assembled poha covered for 10 minutes.",
+  "ingredients": [
+    {
+      "name": "thin flattened rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Use thin poha that softens without cooking. Put it in a wide bowl, briefly sprinkle with a little water if very dry, and gently separate the flakes with fingertips; do not soak or boil it.",
+    "Finely chop onion, green chilli and coriander. Mix them with fresh coconut, lemon juice, salt and sugar, then toss through the poha until evenly distributed.",
+    "Heat oil in a small pan, splutter mustard and curry leaves, and pour the hot tempering over the poha. Toss once more without crushing the flakes.",
+    "Cover the bowl for 10 minutes so the onion, coconut and lemon moisture softens the flattened rice. Taste a flake; it should be pliable yet light, not wet or mushy.",
+    "Fluff with a fork and serve in four bowls at room temperature. This is an uncooked poha preparation apart from the brief tempering."
+  ],
+  "tips": [
+    "Do not use thick poha that needs cooking; dadpe pohe relies on thin flakes softening under cover."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/dadpe-pohe.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "दड़पे पोहे",
+      "passiveTime": "मिले पोहे 10 मिनट ढककर रखें।",
+      "ingredients": [
+        "पतला पोहा",
+        "ताज़ा कसा नारियल",
+        "प्याज़",
+        "हरी मिर्च",
+        "नींबू रस",
+        "हरा धनिया",
+        "नमक",
+        "चीनी",
+        "साधारण वनस्पति तेल",
+        "राई",
+        "करी पत्ता"
+      ],
+      "steps": [
+        "पतला पोहा लें जो बिना पकाए नरम होता है। चौड़े कटोरे में डालें, बहुत सूखा हो तो थोड़ा पानी छिड़कें और उँगलियों से पत्तियाँ अलग करें; भिगोएँ या उबालें नहीं।",
+        "प्याज़, हरी मिर्च और धनिया बारीक काटें। ताज़ा नारियल, नींबू रस, नमक और चीनी के साथ मिलाकर पोहे में बराबर उलटें।",
+        "छोटे पैन में तेल गरम कर राई और करी पत्ता चटकाएँ और गरम तड़का पोहे पर डालें। पत्तियाँ मसले बिना फिर धीरे मिलाएँ।",
+        "कटोरा 10 मिनट ढकें ताकि प्याज़, नारियल और नींबू की नमी पोहा नरम करे। एक पत्ती चखें; लचीली पर हल्की हो, गीली लुगदी नहीं।",
+        "काँटे से फुलाकर चार कटोरियों में सामान्य ताप पर परोसें। थोड़े तड़के के अलावा यह बिना पकाया पोहा है।"
+      ],
+      "tips": [
+        "पकाने वाले मोटे पोहे न लें; दड़पे पोहे में पतली पत्तियाँ ढककर नरम होती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "દડપે પૌંઆ",
+      "passiveTime": "ભેળવેલા પૌંઆ 10 મિનિટ ઢાંકી રાખો.",
+      "ingredients": [
+        "પાતળા પૌંઆ",
+        "તાજું ખમણેલું નાળિયેર",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "લીંબુનો રસ",
+        "લીલી કોથમીર",
+        "મીઠું",
+        "ખાંડ",
+        "સાદું વનસ્પતિ તેલ",
+        "રાઈ",
+        "લીમડાના પાન"
+      ],
+      "steps": [
+        "પાતળા પૌંઆ લો જે રાંધ્યા વગર નરમ થાય. પહોળી વાટકામાં નાખો, બહુ સૂકા હોય તો થોડું પાણી છાંટો અને આંગળીઓથી પાંખડીઓ અલગ કરો; પલાળો કે ઉકાળો નહીં.",
+        "ડુંગળી, લીલું મરચું અને કોથમીર બારીક સમારો. તાજું નાળિયેર, લીંબુનો રસ, મીઠું અને ખાંડ સાથે ભેળવી પૌંઆમાં સરખું ઉલટાવો.",
+        "નાની કઢાઈમાં તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો અને ગરમ વઘાર પૌંઆ પર રેડો. પાંખડીઓ મસળ્યા વગર ફરી હળવેથી ભેળવો.",
+        "વાટકો 10 મિનિટ ઢાંકો જેથી ડુંગળી, નાળિયેર અને લીંબુનો ભેજ પૌંઆ નરમ કરે. એક પાંખડી ચાખો; વળે એવી પણ હળવી હોય, ભીનો છૂંદો નહીં.",
+        "કાંટાથી ફુલાવી ચાર વાટકામાં સામાન્ય તાપે પીરસો. થોડા વઘાર સિવાય આ રાંધ્યા વગરની પૌંઆ વાનગી છે."
+      ],
+      "tips": [
+        "રાંધવાના જાડા પૌંઆ ન લો; દડપે પૌંઆમાં પાતળી પાંખડીઓ ઢાંકીને નરમ થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/dadpe-pohe-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

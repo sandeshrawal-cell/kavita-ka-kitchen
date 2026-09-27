@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0008",
+  "id": "moong-dal-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Moong Dal Idli",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "yield": "About twelve small idlis",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Soak yellow moong dal for 2 hours.",
+  "ingredients": [
+    {
+      "name": "yellow moong dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse the yellow moong dal until the water runs mostly clear. Cover with plenty of fresh water for 2 hours, then drain very well. Blend with the measured curd, ginger, green chilli and only enough of the measured drinking water to make a thick, smooth batter.",
+    "Heat 10 ml of the oil in a small pan. Let the mustard seeds pop, then briefly sizzle the curry leaves. Fold this tempering and the salt into the dal batter. Bring water to a steady boil in an idli steamer and lightly grease twelve moulds with the remaining oil.",
+    "Just before steaming, mix the baking soda and lemon juice into the batter; it should foam lightly. Spoon the batter promptly into the prepared moulds, filling each about three-quarters full. Do not leave the aerated batter waiting on the counter.",
+    "Steam covered over medium heat for 12–15 minutes. Insert a skewer into the centre of a thick idli; it should come out clean with no wet raw batter. Turn off the heat and rest the steamer for 3 minutes before loosening the idlis.",
+    "Serve three warm moong dal idlis per person. Refrigerate leftovers promptly and re-steam until hot rather than leaving cooked idlis at room temperature."
+  ],
+  "tips": [
+    "The batter must be thick enough to hold the gas from lemon and soda. Add the leavening only when the steamer is already boiling."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "dietaryFacts": {
+    "overnightFermentation": false,
+    "yeast": false
+  },
+  "photoDraft": "catalog/intake/photos/moong-dal-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मूंग दाल इडली",
+      "passiveTime": "पीली मूंग दाल 2 घंटे भिगोएँ।",
+      "ingredients": [
+        "पीली मूंग दाल",
+        "सादा दही",
+        "पीने का पानी",
+        "अदरक",
+        "हरी मिर्च",
+        "साधारण वनस्पति तेल",
+        "राई",
+        "कड़ी पत्ते",
+        "नमक",
+        "खाने का सोडा",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "पीली मूंग दाल को पानी लगभग साफ होने तक धोएँ। भरपूर ताज़े पानी में 2 घंटे भिगोकर अच्छी तरह छानें। नापे हुए दही, अदरक, हरी मिर्च और नापे हुए पीने के पानी में से बस आवश्यक मात्रा के साथ पीसकर गाढ़ा चिकना घोल बनाएँ।",
+        "छोटे पैन में 10 मिली तेल गरम करें। राई चटकाएँ और कड़ी पत्ते थोड़ी देर भूनें। यह तड़का और नमक दाल के घोल में मिलाएँ। इडली स्टीमर का पानी लगातार उबालें और बचा तेल लगाकर बारह साँचे हल्के चिकने करें।",
+        "भाप में रखने से ठीक पहले खाने का सोडा और नींबू रस घोल में मिलाएँ; हल्का झाग उठेगा। तुरंत तैयार साँचों में घोल लगभग तीन-चौथाई भरें। हवा भरे घोल को काउंटर पर इंतज़ार न कराएँ।",
+        "ढककर मध्यम आँच पर 12–15 मिनट भाप में पकाएँ। मोटी इडली के बीच में सींक डालें; गीला कच्चा घोल चिपके बिना साफ निकले। आँच बंद कर 3 मिनट रखें, फिर इडली निकालें।",
+        "प्रति व्यक्ति तीन गरम मूंग दाल इडली परोसें। बची इडली तुरंत फ्रिज में रखें और कमरे के तापमान पर छोड़ने के बजाय दोबारा गरम भाप में पकाएँ।"
+      ],
+      "tips": [
+        "घोल इतना गाढ़ा हो कि नींबू और सोडे से बनी हवा थाम सके। स्टीमर का पानी उबलने लगे तभी फुलाने वाली सामग्री डालें।"
+      ]
+    },
+    "gu": {
+      "name": "મગની દાળ ઇડલી",
+      "passiveTime": "પીળી મગની દાળ 2 કલાક પલાળો.",
+      "ingredients": [
+        "પીળી મગની દાળ",
+        "સાદું દહીં",
+        "પીવાનું પાણી",
+        "આદુ",
+        "લીલું મરચું",
+        "સાદું વનસ્પતિ તેલ",
+        "રાઈ",
+        "મીઠા લીમડાના પાન",
+        "મીઠું",
+        "ખાવાનો સોડા",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "પીળી મગની દાળને પાણી લગભગ સ્વચ્છ થાય ત્યાં સુધી ધોવો. પુષ્કળ તાજા પાણીમાં 2 કલાક પલાળી સારી રીતે નિતારો. માપેલા દહીં, આદુ, લીલા મરચાં અને માપેલા પીવાના પાણીમાંથી ફક્ત જરૂરી પાણી સાથે પીસીને ઘટ્ટ સરસ ખીરું બનાવો.",
+        "નાના પેનમાં 10 મિલી તેલ ગરમ કરો. રાઈ તતડાવો અને મીઠા લીમડાના પાન થોડું સાંતળો. આ વઘાર અને મીઠું દાળના ખીરામાં ભેળવો. ઇડલીના વાસણમાં પાણી સતત ઉકળવા દો અને બાકી તેલ લગાવી બાર સાંચા હળવા ચીકણા કરો.",
+        "વરાળમાં મૂકતાં પહેલાં જ ખાવાનો સોડા અને લીંબુનો રસ ખીરામાં ભેળવો; થોડો ફીણ આવશે. તરત તૈયાર સાંચા લગભગ ત્રણ-ચોથા ભરો. હવા ભરેલું ખીરું બહાર રાહ જોવા ન દો.",
+        "ઢાંકીને મધ્યમ તાપે 12–15 મિનિટ વરાળમાં રાંધો. જાડી ઇડલીના મધ્યમાં સળી નાખો; ભીનું કાચું ખીરું ચોંટ્યા વગર સ્વચ્છ નીકળવી જોઈએ. તાપ બંધ કરી 3 મિનિટ રાખો, પછી ઇડલી કાઢો.",
+        "વ્યક્તિ દીઠ ત્રણ ગરમ મગની દાળ ઇડલી પીરસો. વધેલી ઇડલી તરત ફ્રિજમાં રાખો અને ઓરડાના તાપે મૂકવાને બદલે ફરી ગરમ વરાળમાં શેકો."
+      ],
+      "tips": [
+        "ખીરું એટલું ઘટ્ટ હોવું જોઈએ કે લીંબુ અને સોડાથી બનેલી હવા ટકી રહે. સ्टीમરનું પાણી ઉકળે ત્યારે જ ફુલાવનાર સામગ્રી નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.zaykakatadka.com/recipe/moong-dal-idli-instant-idli/",
+    "use": "Moong-dal idli identity, two-hour soak and instant steaming; independently authored quantities and directions."
+  }
+}

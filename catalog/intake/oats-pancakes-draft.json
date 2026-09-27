@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0012",
+  "id": "oats-pancakes",
+  "status": "published-first-100-intake-batch",
+  "name": "Oats Pancakes",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small pancakes",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the batter for 10 minutes so the oat flour hydrates.",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "plain curd",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 40,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk the oat flour, baking powder, sugar and salt in a large bowl. In a separate bowl whisk the milk, curd and vanilla until smooth, then pour the wet mixture into the dry ingredients and fold just until no flour pockets remain.",
+    "Leave the batter for 10 minutes so the oat flour absorbs moisture. It should be thick but drop from a spoon; if it becomes stiff, mix in a small splash of water. Avoid beating it after the rest or the pancakes may become heavy.",
+    "Heat a non-stick or well-seasoned griddle over medium-low heat. Brush with a little of the measured oil and pour about one-eighth of the batter for each pancake, leaving room for it to spread into a small round.",
+    "Cook for 2–3 minutes until bubbles appear and the edges look set. Turn gently and cook for another 1–2 minutes until the centre springs back and there is no wet batter. Repeat with the remaining batter and oil, lowering the heat if the surface darkens too quickly.",
+    "Stack two warm pancakes per person. Divide the washed berries over the four plates and drizzle the measured maple syrup evenly over them. Serve promptly while the pancakes are fluffy."
+  ],
+  "tips": [
+    "Oat flour absorbs liquid as it rests, so judge batter thickness just before cooking. Use fresh baking powder for a light texture."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/oats-pancakes.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ओट्स पैनकेक",
+      "passiveTime": "ओट्स का आटा पानी सोख ले इसलिए घोल 10 मिनट रखें।",
+      "ingredients": [
+        "ओट्स का आटा",
+        "दूध",
+        "सादा दही",
+        "बेकिंग पाउडर",
+        "चीनी",
+        "वनीला अर्क",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "मिली-जुली बेरी",
+        "मेपल सिरप"
+      ],
+      "steps": [
+        "बड़े कटोरे में ओट्स का आटा, बेकिंग पाउडर, चीनी और नमक फेंटकर मिलाएँ। अलग कटोरे में दूध, दही और वनीला चिकना होने तक फेंटें, फिर सूखी सामग्री में डालकर आटे की सूखी जेबें मिटने तक ही मिलाएँ।",
+        "घोल 10 मिनट रखें ताकि ओट्स का आटा नमी सोखे। वह गाढ़ा हो पर चम्मच से गिरे; बहुत कड़ा हो तो थोड़ा पानी मिलाएँ। आराम के बाद ज्यादा न फेंटें, वरना पैनकेक भारी हो सकते हैं।",
+        "नॉन-स्टिक या तैयार तवा मध्यम-धीमी आँच पर गरम करें। थोड़ा नापा तेल लगाएँ और हर पैनकेक के लिए घोल का लगभग आठवाँ हिस्सा डालें, छोटे गोल फैलने की जगह छोड़ें।",
+        "2–3 मिनट पकाएँ जब तक बुलबुले आएँ और किनारे जमे दिखें। धीरे पलटकर 1–2 मिनट और पकाएँ, बीच दबाने पर वापस उभरे और गीला घोल न रहे। बचे घोल और तेल से दोहराएँ; जल्दी गहरा हो तो आँच घटाएँ।",
+        "प्रति व्यक्ति दो गरम पैनकेक रखें। धुली बेरी चार प्लेटों में बाँटें और नापा मेपल सिरप बराबर ऊपर डालें। पैनकेक फूले रहते ही तुरंत परोसें।"
+      ],
+      "tips": [
+        "रखने पर ओट्स का आटा तरल सोखता है, इसलिए पकाने से ठीक पहले घोल की गाढ़ाई जाँचें। हल्के पैनकेक के लिए ताज़ा बेकिंग पाउडर लें।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ પેનકેક",
+      "passiveTime": "ઓટ્સનો લોટ ભેજ શોષે તેથી ખીરું 10 મિનિટ રાખો.",
+      "ingredients": [
+        "ઓટ્સનો લોટ",
+        "દૂધ",
+        "સાદું દહીં",
+        "બેકિંગ પાઉડર",
+        "ખાંડ",
+        "વેનિલા અર્ક",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "મિશ્ર બેરી",
+        "મેપલ સિરપ"
+      ],
+      "steps": [
+        "મોટી વાટકામાં ઓટ્સનો લોટ, બેકિંગ પાઉડર, ખાંડ અને મીઠું ભેળવો. બીજી વાટકામાં દૂધ, દહીં અને વેનિલા સરસ થાય ત્યાં સુધી ફેંટો, પછી સૂકા મિશ્રણમાં રેડી લોટના સૂકા ભાગ ન રહે એટલું જ ભેળવો.",
+        "ખીરું 10 મિનિટ રાખો જેથી ઓટ્સનો લોટ ભેજ શોષે. તે ઘટ્ટ પણ ચમચીમાંથી પડે એવું હોવું જોઈએ; બહુ કઠણ થાય તો થોડું પાણી ભેળવો. આરામ પછી વધારે ફેંટશો નહીં, પેનકેક ભારે થઈ શકે.",
+        "નોન-સ્ટિક કે તૈયાર તવો મધ્યમથી ધીમા તાપે ગરમ કરો. થોડું માપેલું તેલ લગાવી દરેક પેનકેક માટે ખીરાનો આશરે આઠમો ભાગ રેડો, નાનો ગોળ ફેલાય એટલી જગ્યા રાખો.",
+        "2–3 મિનિટ શેકો, પરપોટા આવે અને કિનારી બંધાય ત્યાં સુધી. હળવેથી ફેરવી 1–2 મિનિટ વધુ શેકો, મધ્ય દબાવતાં પાછું ઊભરે અને ભીનું ખીરું ન રહે. બાકી ખીરું અને તેલથી આમ જ બનાવો; ઝડપથી ઘેરું થાય તો તાપ ઘટાડો.",
+        "વ્યક્તિ દીઠ બે ગરમ પેનકેક મૂકો. ધોયેલી બેરી ચાર થાળીમાં વહેંચો અને માપેલો મેપલ સિરપ સરખો ઉપર રેડો. પેનકેક ફૂલેલા હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "ઊભું રહેતાં ઓટ્સનો લોટ પ્રવાહી શોષે છે, એટલે શેકતાં પહેલાં ખીરાની ઘટ્ટતા તપાસો. હળવા પેનકેક માટે તાજું બેકિંગ પાઉડર લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.kuchpakrahahai.in/eggless-oats-pancakes-recipe/",
+    "use": "Eggless oat-flour pancake identity and baking-powder method; quantities and wording independently authored."
+  }
+}

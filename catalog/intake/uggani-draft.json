@@ -1,0 +1,184 @@
+{
+  "sourceReviewId": "R0003",
+  "id": "uggani",
+  "status": "published-first-100-intake-batch",
+  "name": "Uggani",
+  "aliases": [
+    "Borugula Upma",
+    "Vaggani"
+  ],
+  "cuisine": "Rayalaseema",
+  "categories": [
+    "Breakfast",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "passiveTime": null,
+  "ingredients": [
+    {
+      "name": "plain puffed rice",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "water for rinsing",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "roasted chickpeas (dalia)",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "dry coconut",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "split urad dal",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pulse the roasted chickpeas and dry coconut to a fine powder and set aside. Pick over the puffed rice so no hard bits remain. Have the chopped onion, chilli and coriander ready before wetting the rice; it softens quickly.",
+    "Pour the measured water into a large bowl, dip the puffed rice in it for only 1–2 minutes, then lift it out by handfuls and squeeze gently to remove excess water. Put the damp grains in a sieve. They should feel soft but remain separate, not soggy.",
+    "Heat the oil in a wide pan over medium heat. Add mustard seeds; when they pop, add cumin and split urad dal. Stir until the dal turns light gold, then add curry leaves and green chilli for a few seconds. Add the onion and cook for 5–6 minutes until softened but not browned.",
+    "Stir in turmeric and the drained puffed rice. Sprinkle over the chickpea-coconut powder and salt, then fold gently for 1–2 minutes so the yellow seasoning coats the grains without crushing them. Turn off the heat as soon as everything is hot.",
+    "Fold in the roasted peanuts and lemon juice. Divide among four bowls and finish with chopped coriander. Serve warm immediately; holding it covered for long makes the puffed rice heavy."
+  ],
+  "tips": [
+    "The short soak and firm squeeze matter more than extra cooking. Do not substitute raw chana flour for roasted chickpea powder."
+  ],
+  "allergens": [
+    "peanut"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/uggani.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "उग्गानी",
+      "ingredients": [
+        "सादे मुरमुरे",
+        "धोने के लिए पानी",
+        "प्याज",
+        "भुना चना दालिया",
+        "भुनी मूंगफली",
+        "सूखा नारियल",
+        "हरी मिर्च",
+        "कड़ी पत्ते",
+        "राई",
+        "जीरा",
+        "धुली उड़द दाल",
+        "हल्दी पाउडर",
+        "साधारण वनस्पति तेल",
+        "नींबू का रस",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "भुने चने और सूखे नारियल को पीसकर महीन चूर्ण बनाएँ और अलग रखें। मुरमुरों में से कड़े टुकड़े निकाल दें। चावल भिगोने से पहले कटे प्याज, मिर्च और धनिया तैयार रखें, क्योंकि मुरमुरे जल्दी नरम होते हैं।",
+        "नापा हुआ पानी बड़े कटोरे में डालें। मुरमुरे सिर्फ 1–2 मिनट उसमें डुबोएँ, फिर मुट्ठी-मुट्ठी निकालकर अतिरिक्त पानी हल्के से निचोड़ें। नम दाने छलनी में रखें। वे नरम पर अलग-अलग होने चाहिए, गीली लुगदी नहीं।",
+        "चौड़े पैन में मध्यम आँच पर तेल गरम करें। राई चटकने पर जीरा और उड़द दाल डालें। दाल हल्की सुनहरी होने तक चलाएँ, फिर कड़ी पत्ते और हरी मिर्च कुछ सेकंड भूनें। प्याज डालकर 5–6 मिनट नरम होने तक पकाएँ, भूरा न करें।",
+        "हल्दी और छने मुरमुरे मिलाएँ। ऊपर से चना-नारियल चूर्ण और नमक डालकर 1–2 मिनट हल्के हाथ से पलटें, ताकि पीला मसाला दानों पर लगे और वे टूटें नहीं। सब गरम होते ही आँच बंद करें।",
+        "भुनी मूंगफली और नींबू का रस मिलाएँ। चार कटोरियों में बाँटकर कटा हरा धनिया डालें। तुरंत गरम परोसें; देर तक ढककर रखने से मुरमुरे भारी हो जाते हैं।"
+      ],
+      "tips": [
+        "थोड़ी देर भिगोना और पानी अच्छी तरह निचोड़ना अतिरिक्त पकाने से ज्यादा जरूरी है। भुने चने के चूर्ण की जगह कच्चा बेसन न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ઉગ્ગાની",
+      "ingredients": [
+        "સાદા મમરા",
+        "ધોવા માટે પાણી",
+        "ડુંગળી",
+        "શેકેલા ચણા દાળિયા",
+        "શેકેલી મગફળી",
+        "સૂકું નાળિયેર",
+        "લીલું મરચું",
+        "મીઠા લીમડાના પાન",
+        "રાઈ",
+        "જીરું",
+        "ફાડેલી અડદની દાળ",
+        "હળદર પાઉડર",
+        "સાદું વનસ્પતિ તેલ",
+        "લીંબુનો રસ",
+        "કોથમીર",
+        "મીઠું"
+      ],
+      "steps": [
+        "શેકેલા ચણા અને સૂકા નાળિયેરનો ઝીણો ભૂકો બનાવી અલગ રાખો. મમરામાંથી કઠણ ટુકડા વીણી કાઢો. મમરા ભીંજવતાં પહેલાં સમારેલી ડુંગળી, મરચાં અને કોથમીર તૈયાર રાખો, કારણ કે મમરા જલદી નરમ થાય છે.",
+        "માપેલું પાણી મોટા વાસણમાં લો. મમરા ફક્ત 1–2 મિનિટ તેમાં બોળો, પછી મુઠ્ઠી-મુઠ્ઠી કાઢીને વધારાનું પાણી હળવેથી નીચોવો. ભીના દાણા ચાળણીમાં મૂકો. તે નરમ પણ છૂટા હોવા જોઈએ, ચીકણા નહીં.",
+        "પહોળી કડાઈમાં મધ્યમ તાપે તેલ ગરમ કરો. રાઈ તતડે પછી જીરું અને ફાડેલી અડદની દાળ નાખો. દાળ આછા સોનેરી રંગની થાય ત્યાં સુધી હલાવો, પછી મીઠા લીમડાના પાન અને લીલું મરચું થોડી સેકંડ શેકો. ડુંગળી નાખીને 5–6 મિનિટ નરમ થાય ત્યાં સુધી રાંધો, ભૂરું ન કરો.",
+        "હળદર અને નિતારેલા મમરા ભેળવો. ઉપરથી ચણા-નાળિયેરનો ભૂકો અને મીઠું નાખીને 1–2 મિનિટ હળવે હાથે ફેરવો જેથી પીળો મસાલો દાણાને ચોંટે પણ દાણા તૂટે નહીં. બધું ગરમ થાય એટલે તાપ બંધ કરો.",
+        "શેકેલી મગફળી અને લીંબુનો રસ ભેળવો. ચાર વાટકામાં વહેંચી સમારેલી કોથમીર નાખો. તરત ગરમ પીરસો; લાંબો સમય ઢાંકી રાખવાથી મમરા ભારે બને છે."
+      ],
+      "tips": [
+        "ટૂંકું પલાળવું અને પાણી સારી રીતે નીચોવવું વધારાના રાંધવા કરતાં વધુ જરૂરી છે. શેકેલા ચણાના ભૂકાને બદલે કાચો ચણાનો લોટ ન વાપરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.sailusfood.com/uggani-recipe-puffed-rice-snack",
+    "use": "Regional dish identity and key roasted-chickpea preparation; quantities and wording independently authored."
+  }
+}

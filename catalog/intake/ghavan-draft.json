@@ -1,0 +1,103 @@
+{
+  "sourceReviewId": "R0061",
+  "id": "ghavan",
+  "status": "published-first-100-intake-batch",
+  "name": "Ghavan",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pancakes",
+  "prepAndCookMinutes": 25,
+  "passiveTime": "Rest the rice-flour batter for 15 minutes.",
+  "ingredients": [
+    {
+      "name": "fine rice flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk fine rice flour, measured water and salt until smooth and thin, without dry lumps. Rest 15 minutes, then stir thoroughly because rice flour settles at the bottom.",
+    "Heat a flat seasoned pan on medium-high and brush very lightly with oil. The pan should be hot enough for batter to sizzle but not smoke.",
+    "Pour a ladle of thin batter from the outer edge toward the centre, letting it form a lacy crepe. Do not spread forcefully with the ladle or the delicate sheet may tear.",
+    "Cover for about 1 minute until the top turns opaque, then uncover and cook 1–2 minutes until the edges lift. Flip only briefly if needed; keep the ghavan mostly soft and pale.",
+    "Fold carefully and serve two warm ghavans per person with coconut chutney. Stir the batter before each pour to preserve the thin even texture."
+  ],
+  "tips": [
+    "The pan must be hot and the batter thin to make ghavan's lace-like holes."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "घावन",
+      "passiveTime": "चावल के आटे का घोल 15 मिनट रखें।",
+      "ingredients": [
+        "बारीक चावल का आटा",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "बारीक चावल का आटा, नापा पानी और नमक गुठलीरहित पतला फेंटें। 15 मिनट रखें, फिर अच्छी तरह चलाएँ क्योंकि आटा नीचे बैठता है।",
+        "सपाट तैयार तवा मध्यम-तेज आँच पर गरम कर बहुत हल्का तेल लगाएँ। घोल डालने पर छनके पर धुआँ न निकले।",
+        "पतला घोल करछी से बाहर से बीच की ओर डालें और जालीदार चीला बनने दें। जोर से न फैलाएँ वरना नाज़ुक परत फट सकती है।",
+        "लगभग 1 मिनट ढकें जब तक ऊपर अपारदर्शी हो, फिर खोलकर 1–2 मिनट किनारे उठने तक पकाएँ। जरूरत हो तभी थोड़ा पलटें; घावन अधिकतर नरम और हल्का रखें।",
+        "सावधानी से मोड़कर हर व्यक्ति को दो गरम घावन नारियल चटनी के साथ दें। हर बार घोल चलाएँ ताकि पतली बराबर बनावट रहे।"
+      ],
+      "tips": [
+        "घावन के जालीदार छेद के लिए गरम तवा और पतला घोल जरूरी है।"
+      ]
+    },
+    "gu": {
+      "name": "ઘાવન",
+      "passiveTime": "ચોખાના લોટનું ખીરું 15 મિનિટ રાખો.",
+      "ingredients": [
+        "બારીક ચોખાનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "બારીક ચોખાનો લોટ, માપેલું પાણી અને મીઠું ગાંઠ વગર પાતળું ફેંટો. 15 મિનિટ રાખી સારી રીતે હલાવો કારણ કે લોટ નીચે બેસે છે.",
+        "સપાટ તૈયાર તવો મધ્યમ-ઊંચા તાપે ગરમ કરી બહુ થોડું તેલ લગાવો. ખીરું નાખતાં ચમકે પણ ધુમાડો ન થાય.",
+        "પાતળું ખીરું કડછીથી બહારથી મધ્ય તરફ રેડી જાળીદાર ચીલો બનવા દો. જોરથી ન પાથરો નહિતર નાજુક પડ ફાટી શકે.",
+        "આશરે 1 મિનિટ ઢાંકો, ઉપર અપારદર્શક થાય ત્યારે ખોલી 1–2 મિનિટ કિનારી ઊઠે ત્યાં સુધી શેકો. જરૂર હોય તો જ થોડું ફેરવો; ઘાવન મોટે ભાગે નરમ અને આછું રાખો.",
+        "કાળજીથી વાળી દરેકને બે ગરમ ઘાવન નાળિયેરની ચટણી સાથે આપો. દરેક વખતે ખીરું હલાવો જેથી પાતળી સરખી બનાવટ રહે."
+      ],
+      "tips": [
+        "ઘાવનનાં જાળીદાર કાણા માટે ગરમ તવો અને પાતળું ખીરું જરૂરી છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/ghavan-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/ghavan.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

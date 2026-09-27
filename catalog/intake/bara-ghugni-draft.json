@@ -1,0 +1,152 @@
+{
+  "sourceReviewId": "R0068",
+  "id": "bara-ghugni",
+  "status": "published-first-100-intake-batch",
+  "name": "Bara Ghugni",
+  "cuisine": "Odia",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight bara with four portions of ghugni",
+  "prepAndCookMinutes": 75,
+  "passiveTime": "Soak yellow peas overnight and urad dal for 4 hours.",
+  "ingredients": [
+    {
+      "name": "skinned urad dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "dried yellow peas",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak yellow peas overnight. Drain and simmer in fresh water until tender, about 40–60 minutes, reserving 350 ml cooking liquid for the ghugni.",
+    "Soak urad dal for 4 hours, drain well and grind with only the measured water to a thick smooth batter. Beat for 3 minutes until airy and mix in half the salt.",
+    "Heat 25 ml of the oil, splutter cumin, then soften half the chopped onion and ginger. Add tomato, turmeric, chilli and remaining salt; cook until thick. Add peas and reserved liquid and simmer 10 minutes.",
+    "Heat the remaining oil to about 175°C. Drop small spoonfuls of urad batter and fry 4–5 minutes, turning, until each bara is crisp golden and fully cooked. Drain on a rack.",
+    "Divide warm yellow-pea ghugni into four bowls or plates and add two fresh bara to each. Top with remaining finely chopped raw onion and coriander just before serving."
+  ],
+  "tips": [
+    "Keep the bara batter thick and airy so the fritters stay light inside."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बरा घुगनी",
+      "passiveTime": "पीले मटर रात भर और उड़द दाल 4 घंटे भिगोएँ।",
+      "ingredients": [
+        "धुली उड़द दाल",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "सूखे पीले मटर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पीले मटर रात भर भिगोएँ। छानकर नए पानी में लगभग 40–60 मिनट नरम उबालें; घुगनी के लिए पकाने का 350 मिली पानी बचाएँ।",
+        "उड़द दाल 4 घंटे भिगोकर अच्छी तरह छानें और केवल नापे पानी से गाढ़ा चिकना घोल पीसें। 3 मिनट हल्का होने तक फेंटकर आधा नमक मिलाएँ।",
+        "25 मिली तेल में जीरा चटकाएँ, फिर कटे प्याज़ का आधा भाग और अदरक नरम करें। टमाटर, हल्दी, मिर्च और बाकी नमक डालकर गाढ़ा पकाएँ। मटर और बचा पानी डालकर 10 मिनट उबालें।",
+        "बचा तेल लगभग 175°C गरम करें। उड़द घोल की छोटी चम्मच डालकर 4–5 मिनट पलटते हुए हर बरा कुरकुरा सुनहरा और भीतर तक पका तलें। जाली पर निथारें।",
+        "गरम पीली-मटर घुगनी चार कटोरियों या प्लेटों में बाँटकर हर एक में दो ताज़े बरा रखें। बचे बारीक कच्चे प्याज़ और धनिया परोसने से ठीक पहले ऊपर डालें।"
+      ],
+      "tips": [
+        "बरा का घोल गाढ़ा और हवादार रखें ताकि पकौड़े भीतर हल्के रहें।"
+      ]
+    },
+    "gu": {
+      "name": "બરા ઘુગની",
+      "passiveTime": "પીળા વટાણા રાતભર અને અડદ દાળ 4 કલાક પલાળો.",
+      "ingredients": [
+        "ધોળી અડદ દાળ",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "સૂકા પીળા વટાણા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાવડર",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "પીળા વટાણા રાતભર પલાળો. નિતારી નવા પાણીમાં આશરે 40–60 મિનિટ નરમ બાફો; ઘુગની માટે બાફેલું 350 મિલી પાણી રાખો.",
+        "અડદ દાળ 4 કલાક પલાળી સારી રીતે નિતારી માત્ર માપેલા પાણીથી ઘટ્ટ સુંવાળું ખીરું વાટો. 3 મિનિટ હળવું થાય ત્યાં સુધી ફેંટીને અડધું મીઠું ભેળવો.",
+        "25 મિલી તેલમાં જીરું તતડાવો, પછી સમારેલી ડુંગળીનો અડધો ભાગ અને આદુ નરમ કરો. ટામેટાં, હળદર, મરચું અને બાકી મીઠું નાખી ઘટ્ટ રાંધો. વટાણા અને રાખેલું પાણી નાખી 10 મિનિટ ઉકાળો.",
+        "બાકી તેલ આશરે 175°C ગરમ કરો. અડદ ખીરાની નાની ચમચીઓ નાખી 4–5 મિનિટ ફેરવતા દરેક બરા કરકરા સોનેરી અને અંદર સુધી પાકે ત્યાં સુધી તળો. જાળી પર નિતારો.",
+        "ગરમ પીળા વટાણાની ઘુગની ચાર વાટકા કે થાળીમાં વહેંચી દરેકમાં બે તાજા બરા મૂકો. બાકી બારીક કાચી ડુંગળી અને કોથમીર પીરસતાં પહેલાં જ ઉપર નાખો."
+      ],
+      "tips": [
+        "બરાનું ખીરું ઘટ્ટ અને હવાવાળું રાખો જેથી વડા અંદર હળવા રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/bara-ghugni-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/bara-ghugni.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

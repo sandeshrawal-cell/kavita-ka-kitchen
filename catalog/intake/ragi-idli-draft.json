@@ -1,0 +1,124 @@
+{
+  "sourceReviewId": "R0041",
+  "id": "ragi-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Ragi Idli",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Twelve idlis",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak the rice and urad dal for 5 hours and ferment the batter overnight.",
+  "ingredients": [
+    {
+      "name": "finger millet flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "idli rice",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak idli rice, urad dal and fenugreek for 5 hours. Drain and grind with most of the measured water until smooth and airy.",
+    "Whisk finger millet flour with the remaining water to remove dry lumps, then fold it into the ground batter. Cover loosely and ferment overnight until risen and gently tangy.",
+    "Stir in salt without knocking out the air. Brush idli moulds lightly with oil and pour batter to about three-quarters of each cup; bring steamer water to a full boil.",
+    "Steam for 12–15 minutes until the brown idlis spring back and a skewer comes out clean. Rest two minutes before unmoulding to avoid tearing the soft crumb.",
+    "Serve three warm ragi idlis per person with coconut chutney. Keep the batter thick enough to hold air; adding too much water makes flat idlis."
+  ],
+  "tips": [
+    "Ragi flour darkens the idlis naturally; it does not mean they are overcooked."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/ragi-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "रागी इडली",
+      "passiveTime": "चावल और उड़द दाल 5 घंटे भिगोकर घोल रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "रागी का आटा",
+        "इडली चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "इडली चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। छानकर अधिकतर नापे पानी से चिकना और हल्का पीसें।",
+        "रागी का आटा बचे पानी से गुठलीरहित फेंटें, फिर पिसे घोल में मिलाएँ। ढीला ढककर रात भर फूलने और हल्की खटास आने तक खमीर उठाएँ।",
+        "हवा निकाले बिना नमक मिलाएँ। इडली साँचे में हल्का तेल लगाकर हर कप तीन-चौथाई भरें; स्टीमर का पानी खूब उबालें।",
+        "12–15 मिनट भाप दें, जब तक भूरे इडली दबाने पर वापस उभरें और सींक साफ निकले। नरम बनावट न फटे इसलिए निकालने से पहले दो मिनट रखें।",
+        "हर व्यक्ति को तीन गरम रागी इडली नारियल चटनी के साथ दें। हवा रोकने लायक गाढ़ा घोल रखें; बहुत पानी से इडली चपटी होंगी।"
+      ],
+      "tips": [
+        "रागी से इडली स्वाभाविक भूरी होती हैं; यह ज्यादा पकने का संकेत नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "રાગી ઈડલી",
+      "passiveTime": "ચોખા અને અડદ દાળ 5 કલાક પલાળી ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "રાગીનો લોટ",
+        "ઈડલીના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ઈડલીના ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. નિતારી માપેલા મોટા ભાગના પાણીથી સુંવાળું અને હળવું વાટો.",
+        "રાગીનો લોટ બાકી પાણીથી ગાંઠ વગર ફેંટો, પછી વાટેલા ખીરામાં ભેળવો. ઢીલું ઢાંકી રાતભર ફૂલે અને હળવી ખટાશ આવે ત્યાં સુધી આથો આવવા દો.",
+        "હવા કાઢ્યા વગર મીઠું ભેળવો. ઈડલી બીબામાં થોડું તેલ લગાવી દરેક ખાનું ત્રણ-ચતુર્થાંશ ભરો; સ્ટીમરનું પાણી સારી રીતે ઉકાળો.",
+        "12–15 મિનિટ વરાળમાં બાફો, ભૂરી ઈડલી દબાવતાં પાછી ઊઠે અને સળી ચોખ્ખી નીકળે ત્યાં સુધી. નરમ બનાવટ ન તૂટે માટે કાઢતાં પહેલાં બે મિનિટ રાખો.",
+        "દરેકને ત્રણ ગરમ રાગી ઈડલી નાળિયેરની ચટણી સાથે આપો. હવા રાખે એવું ઘટ્ટ ખીરું રાખો; વધારે પાણીથી ઈડલી સપાટ થશે."
+      ],
+      "tips": [
+        "રાગીથી ઈડલી કુદરતી રીતે ભૂરી થાય છે; તે વધુ પાકી હોવાનું ચિહ્ન નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/ragi-idli-recipe-finger-millet-idli/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

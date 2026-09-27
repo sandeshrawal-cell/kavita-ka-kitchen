@@ -1,0 +1,131 @@
+{
+  "sourceReviewId": "R0022",
+  "id": "set-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Set Dosa",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Twelve small dosas",
+  "prepAndCookMinutes": 65,
+  "passiveTime": "Soak for 5 hours and ferment the batter overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "flattened rice",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared vegetable sagu",
+      "qty": 480,
+      "unit": "g"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak the rice, urad dal and fenugreek for 5 hours. Soak the poha briefly, then grind everything with the measured water to a smooth, slightly thick batter.",
+    "Cover loosely and ferment overnight until light and bubbly. Add salt gently; do not beat out all the air. The batter should fall slowly from a ladle, unlike thin rava-dosa batter.",
+    "Heat a griddle on medium and brush lightly with oil. Pour a small ladleful for each dosa and let it settle into a thick 10–12 cm round without spreading it paper-thin.",
+    "Cover for about 2 minutes until many holes form and the top sets. Flip briefly for 30–45 seconds, keeping the dosa pale, soft and spongy; repeat to make twelve small dosas.",
+    "Warm the prepared vegetable sagu. Serve three dosas per person with a quarter of the sagu and coconut chutney, while the dosas are still pillowy."
+  ],
+  "tips": [
+    "Set dosa should stay thick and soft, with many steam holes; do not flatten it into a crisp plain dosa."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/set-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "सेट डोसा",
+      "passiveTime": "5 घंटे भिगोकर घोल रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "पोहा",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार वेजिटेबल सागु",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। पोहा थोड़ी देर भिगोएँ, फिर सबको नापे पानी के साथ चिकने, थोड़े गाढ़े घोल में पीसें।",
+        "ढीला ढककर रात भर हल्का और बुलबुलेदार होने तक खमीर उठाएँ। नमक धीरे मिलाएँ; सारी हवा न निकालें। घोल करछी से धीरे गिरे, रवा डोसे जैसा पतला न हो।",
+        "मध्यम आँच पर तवा गरम कर हल्का तेल लगाएँ। हर डोसे के लिए छोटी करछी घोल डालें और 10–12 सेमी मोटे गोल में अपने आप बैठने दें; कागज़ जितना पतला न फैलाएँ।",
+        "लगभग 2 मिनट ढकें, कई छेद बनें और ऊपर जम जाए। 30–45 सेकंड हल्का पलटकर पकाएँ, डोसा हल्का, नरम और स्पंजी रखें; ऐसे बारह छोटे डोसे बनाएँ।",
+        "तैयार वेजिटेबल सागु गरम करें। हर व्यक्ति को तीन डोसे, चौथाई सागु और नारियल चटनी गरम नरम रहते परोसें।"
+      ],
+      "tips": [
+        "सेट डोसा मोटा, नरम और भाप के कई छेद वाला रखें; पतला कुरकुरा डोसा न बनाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "સેટ ડોસા",
+      "passiveTime": "5 કલાક પલાળી ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "પૌંઆ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર વેજીટેબલ સાગુ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. પૌંઆ થોડા સમય પલાળી બધું માપેલા પાણીથી સુંવાળું, થોડું ઘટ્ટ ખીરું વાટો.",
+        "ઢીલું ઢાંકી રાતભર હળવું અને પરપોટાવાળું થાય ત્યાં સુધી આથો આવવા દો. મીઠું હળવેથી ભેળવો; બધી હવા કાઢશો નહીં. ખીરું કડછીમાંથી ધીમે પડે, રવા ડોસા જેવું પાતળું ન હોય.",
+        "મધ્યમ તાપે તવો ગરમ કરી થોડું તેલ લગાવો. દરેક ડોસા માટે નાની કડછી ખીરું રેડી પોતે 10–12 સેમીના જાડા ગોળમાં બેસવા દો; કાગળ જેવું પાતળું ન પાથરો.",
+        "આશરે 2 મિનિટ ઢાંકો, ઘણાં કાણા પડે અને ઉપર ચડી જાય. 30–45 સેકન્ડ હળવેથી ફેરવો, ડોસો આછો, નરમ અને સ્પોન્જ જેવો રાખો; આવા બાર નાના ડોસા બનાવો.",
+        "તૈયાર વેજીટેબલ સાગુ ગરમ કરો. દરેકને ત્રણ ડોસા, ચોથા ભાગનું સાગુ અને નાળિયેરની ચટણી ગરમ અને નરમ હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "સેટ ડોસો જાડો, નરમ અને વરાળનાં ઘણાં કાણાવાળો રાખો; પાતળો કરકરો ડોસો ન બનાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/set-dosa-recipe-sponge-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

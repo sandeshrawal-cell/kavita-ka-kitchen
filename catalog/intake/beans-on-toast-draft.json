@@ -1,0 +1,123 @@
+{
+  "sourceReviewId": "R0097",
+  "id": "beans-on-toast",
+  "status": "published-first-100-intake-batch",
+  "name": "Beans on Toast",
+  "cuisine": "British",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "cooked white beans",
+      "qty": 480,
+      "unit": "g"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "sliced bread",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "fresh parsley",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oil in a saucepan and soften finely chopped onion for 4 minutes.",
+    "Add tomato passata, brown sugar, salt and pepper. Simmer 5 minutes, then fold in cooked white beans.",
+    "Cook another 5–6 minutes until the sauce coats the beans; stir gently so they remain whole.",
+    "Toast four thick bread slices until crisp. Spoon beans generously over the toast, scatter parsley and serve immediately."
+  ],
+  "tips": [
+    "Check packaged beans for meat stock or Worcestershire sauce; this version makes the sauce from scratch."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बीन्स ऑन टोस्ट",
+      "ingredients": [
+        "पकी सफेद बीन्स",
+        "टमाटर प्यूरी",
+        "प्याज़",
+        "सादा तेल",
+        "भूरी चीनी",
+        "नमक",
+        "काली मिर्च",
+        "ब्रेड स्लाइस",
+        "ताज़ा पार्सले"
+      ],
+      "steps": [
+        "सॉसपैन में तेल गरम कर बारीक कटा प्याज़ 4 मिनट नरम करें।",
+        "टमाटर प्यूरी, भूरी चीनी, नमक और काली मिर्च डालें। 5 मिनट उबालें, फिर पकी सफेद बीन्स मिलाएँ।",
+        "5–6 मिनट और पकाएँ, जब तक सॉस बीन्स पर चढ़ जाए; दाने साबुत रखने के लिए धीरे हिलाएँ।",
+        "ब्रेड की चार मोटी स्लाइस कुरकुरी टोस्ट करें। ऊपर भरपूर बीन्स डालें, पार्सले बिखेरें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "पैक बीन्स में मांस का स्टॉक या वुर्स्टरशायर सॉस जाँचें; यह चटनी घर पर बनी है।"
+      ]
+    },
+    "gu": {
+      "name": "બીન્સ ઓન ટોસ્ટ",
+      "ingredients": [
+        "રાંધેલા સફેદ બીન્સ",
+        "ટામેટાંની પ્યુરી",
+        "ડુંગળી",
+        "સાદું તેલ",
+        "ભૂરી ખાંડ",
+        "મીઠું",
+        "કાળા મરી",
+        "બ્રેડની સ્લાઈસ",
+        "તાજું પાર્સલી"
+      ],
+      "steps": [
+        "સોસપેનમાં તેલ ગરમ કરી ઝીણી સમારેલી ડુંગળી 4 મિનિટ નરમ કરો.",
+        "ટામેટાંની પ્યુરી, ભૂરી ખાંડ, મીઠું અને કાળા મરી ઉમેરો. 5 મિનિટ ઉકાળી પછી રાંધેલા સફેદ બીન્સ ભેળવો.",
+        "વધુ 5–6 મિનિટ રાંધો, ચટણી બીન્સ પર ચડી જાય ત્યાં સુધી; દાણા આખા રહે માટે હળવેથી હલાવો.",
+        "બ્રેડની ચાર જાડી સ્લાઈસ કરકરી શેકો. ઉપર પૂરતા બીન્સ મૂકી પાર્સલી છાંટો અને તરત પીરસો."
+      ],
+      "tips": [
+        "પેક કરેલા બીન્સમાં માંસનો સ્ટોક કે વુસ્ટરશાયર સોસ તપાસો; અહીં ચટણી ઘરે બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/beans-on-toast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

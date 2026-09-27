@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R0037",
+  "id": "kal-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Kal Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak rice and dal for 5 hours; ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 460,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared tomato chutney",
+      "qty": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with the measured water to a smooth thick batter, cover loosely and ferment overnight until light and bubbly.",
+    "Stir in salt gently. Heat a thick stone or cast-iron griddle on medium; oil the surface lightly. The griddle should cook slowly and evenly, not scorch the batter.",
+    "Pour a ladleful of batter and spread only once into a thick 12–14 cm circle. Leave the middle substantial so it can steam into the soft home-style texture.",
+    "Cover and cook 2–3 minutes until the top looks set and the underside is lightly golden. Flip for a further minute; remove while still soft, never dry and brittle.",
+    "Serve two hot kal dosas per person with tomato chutney. Keep cooked dosas under a cloth briefly to retain softness."
+  ],
+  "tips": [
+    "Kal dosa is deliberately thick and soft, unlike paper dosa."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/kal-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "कल डोसा",
+      "passiveTime": "चावल और दाल 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार टमाटर चटनी"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी से चिकना गाढ़ा घोल पीसें, ढीला ढकें और रात भर हल्का बुलबुलेदार होने तक खमीर उठाएँ।",
+        "नमक धीरे मिलाएँ। मोटा पत्थर या लोहे का तवा मध्यम आँच पर गरम कर हल्का तेल लगाएँ। तवा धीरे बराबर पकाए, घोल जलाए नहीं।",
+        "एक करछी घोल डालकर सिर्फ एक बार 12–14 सेमी मोटे गोल में फैलाएँ। बीच पर्याप्त मोटा रखें ताकि भाप से घर-शैली की नरम बनावट बने।",
+        "2–3 मिनट ढककर ऊपर जमने और नीचे हल्का सुनहरा होने तक पकाएँ। पलटकर एक मिनट और पकाएँ; नरम रहते निकालें, सूखा भंगुर न बनाएँ।",
+        "हर व्यक्ति को दो गरम कल डोसे टमाटर चटनी के साथ दें। पके डोसे थोड़ी देर कपड़े से ढककर रखें ताकि नरम रहें।"
+      ],
+      "tips": [
+        "कल डोसा जान-बूझकर मोटा और नरम होता है, पेपर डोसे जैसा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "કલ ડોસા",
+      "passiveTime": "ચોખા અને દાળ 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર ટામેટાંની ચટણી"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા પાણીથી સુંવાળું ઘટ્ટ ખીરું વાટો, ઢીલું ઢાંકી રાતભર હળવું પરપોટાવાળું થાય ત્યાં સુધી આથો આવવા દો.",
+        "મીઠું હળવેથી ભેળવો. જાડો પથ્થર કે લોખંડનો તવો મધ્યમ તાપે ગરમ કરી થોડું તેલ લગાવો. તવો ધીમે સરખું શેકે, ખીરું બાળે નહીં.",
+        "એક કડછી ખીરું રેડી માત્ર એક વાર 12–14 સેમી જાડા ગોળમાં પાથરો. મધ્ય પૂરતો જાડો રાખો જેથી વરાળથી ઘરેલું નરમ બનાવટ મળે.",
+        "2–3 મિનિટ ઢાંકી ઉપર ચડે અને નીચે આછું સોનેરી થાય ત્યાં સુધી શેકો. ફેરવી એક મિનિટ વધુ શેકો; નરમ હોય ત્યારે કાઢો, સૂકો અને બરડ ન બનાવો.",
+        "દરેકને બે ગરમ કલ ડોસા ટામેટાંની ચટણી સાથે આપો. પકેલા ડોસા થોડા સમય કપડાં નીચે રાખો જેથી નરમ રહે."
+      ],
+      "tips": [
+        "કલ ડોસો જાણબૂઝીને જાડો અને નરમ હોય છે, પેપર ડોસા જેવો નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/kal-dosa-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

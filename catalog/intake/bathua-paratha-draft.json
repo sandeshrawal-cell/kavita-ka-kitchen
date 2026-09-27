@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0073",
+  "id": "bathua-paratha",
+  "status": "published-first-100-intake-batch",
+  "name": "Bathua Paratha",
+  "cuisine": "North Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight parathas",
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "bathua leaves",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 140,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pick and wash bathua leaves thoroughly. Blanch for 2 minutes, drain well, squeeze dry and finely chop.",
+    "Combine flour, bathua, minced chilli, cumin and salt. Add water gradually and knead into a smooth soft dough; rest covered for 15 minutes.",
+    "Divide into eight balls and roll each into a 17 cm circle, dusting lightly. Fold once and roll again if you prefer layers.",
+    "Cook on a medium-hot tawa until small bubbles appear. Flip, brush with a little ghee, flip again and cook until both sides are brown-spotted.",
+    "Serve hot with yogurt; cool completely before packing."
+  ],
+  "tips": [
+    "Dry the blanched greens well so the parathas do not tear."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बथुआ पराठा",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "बथुआ पत्ते",
+        "हरी मिर्च",
+        "जीरा",
+        "नमक",
+        "पानी",
+        "घी"
+      ],
+      "steps": [
+        "बथुआ चुनकर अच्छी तरह धोएँ। 2 मिनट उबालकर छानें, निचोड़ें और बारीक काटें।",
+        "आटा, बथुआ, कटी मिर्च, जीरा और नमक मिलाएँ। धीरे-धीरे पानी डालकर मुलायम चिकना आटा गूँधें; ढककर 15 मिनट रखें।",
+        "आठ लोइयाँ बनाकर हल्का आटा लगाते हुए 17 सेमी गोल बेलें। परतें चाहें तो एक बार मोड़कर फिर बेलें।",
+        "मध्यम गरम तवे पर छोटे बुलबुले आने तक सेंकें। पलटकर थोड़ा घी लगाएँ, फिर पलटें और दोनों ओर भूरे चित्ते होने तक पकाएँ।",
+        "दही के साथ गरम परोसें; डिब्बे में रखने से पहले पूरी तरह ठंडा करें।"
+      ],
+      "tips": [
+        "उबले पत्ते अच्छी तरह निचोड़ें ताकि पराठे न फटें।"
+      ]
+    },
+    "gu": {
+      "name": "બથુઆ પરાઠા",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "બથુઆના પાન",
+        "લીલા મરચાં",
+        "જીરું",
+        "મીઠું",
+        "પાણી",
+        "ઘી"
+      ],
+      "steps": [
+        "બથુઆના પાન વીણી સારી રીતે ધુઓ. 2 મિનિટ ઉકાળી નિતારી દબાવી પાણી કાઢો અને ઝીણા સમારો.",
+        "લોટ, બથુઆ, સમારેલાં મરચાં, જીરું અને મીઠું ભેળવો. ધીમે ધીમે પાણી ઉમેરી નરમ મસૃણ લોટ બાંધો; ઢાંકી 15 મિનિટ રાખો.",
+        "આઠ લૂવા કરી થોડો સૂકો લોટ લગાવતા 17 સેમી ગોળ વણો. પડવાળી રોટલી ગમે તો એક વાર વાળી ફરી વણો.",
+        "મધ્યમ ગરમ તવા પર નાના પરપોટા આવે ત્યાં સુધી શેકો. પલટી થોડું ઘી લગાવો, ફરી પલટી બંને બાજુ ભૂરા ડાઘ પડે ત્યાં સુધી શેકો.",
+        "દહીં સાથે ગરમ પીરસો; ડબ્બામાં મૂકતાં પહેલાં સાવ ઠંડા કરો."
+      ],
+      "tips": [
+        "બાફેલા પાન સારી રીતે નિચોવો જેથી પરાઠા ન ફાટે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bathua-paratha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

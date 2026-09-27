@@ -1,0 +1,171 @@
+{
+  "sourceReviewId": "R0013",
+  "id": "trini-doubles",
+  "status": "published-first-100-intake-batch",
+  "name": "Trini Doubles",
+  "cuisine": "Trinidadian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight filled doubles",
+  "prepAndCookMinutes": 80,
+  "passiveTime": "Rest the bara dough for 30 minutes.",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 235,
+      "unit": "ml"
+    },
+    {
+      "name": "dried chickpeas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak the chickpeas overnight, drain, then simmer in fresh water until very tender, about 50–70 minutes. Reserve 300 ml of their cooking liquid.",
+    "Mix flour, yeast, turmeric and 4 g salt. Add 235 ml water and knead into a soft tacky dough. Cover and rest for 30 minutes, then divide into 16 small balls.",
+    "Blend coriander and green chilli with a little water into a spoonable green sauce. Loosen the tamarind pulp with warm water to make a thin tangy sauce.",
+    "Heat 20 ml oil in a pan. Soften the chopped onion and garlic, stir in cumin and curry powder, then add cooked chickpeas, reserved liquid and remaining salt. Simmer until the channa is saucy; lightly mash some chickpeas.",
+    "Oil fingertips, stretch each dough ball into a thin small round, and fry in the remaining oil over medium heat for roughly 40 seconds per side, until puffed and just golden. Drain briefly.",
+    "Place one warm bara under a second, spoon channa between them and finish with a little tamarind and green sauce. Make eight doubles and serve immediately while the bara stays soft."
+  ],
+  "tips": [
+    "Keep the fried bara pale and soft; crisp bread will not fold around the channa."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/trini-doubles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ट्रिनी डबल्स",
+      "passiveTime": "बारा के आटे को 30 मिनट आराम दें।",
+      "ingredients": [
+        "मैदा",
+        "इंस्टेंट यीस्ट",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "सूखे चने",
+        "प्याज़",
+        "लहसुन",
+        "पिसा जीरा",
+        "करी पाउडर",
+        "साधारण वनस्पति तेल",
+        "इमली का गूदा",
+        "हरा धनिया",
+        "हरी मिर्च"
+      ],
+      "steps": [
+        "चने रात भर भिगोएँ, छानें और नए पानी में बहुत नरम होने तक लगभग 50–70 मिनट पकाएँ। पकाने का 300 मिली पानी बचाएँ।",
+        "मैदा, यीस्ट, हल्दी और 4 ग्राम नमक मिलाएँ। 235 मिली पानी डालकर नरम चिपचिपा आटा गूँधें। ढककर 30 मिनट रखें और 16 छोटी लोइयाँ बनाएँ।",
+        "धनिया और हरी मिर्च को थोड़े पानी के साथ पीसकर डालने योग्य चटनी बनाएँ। इमली के गूदे को गरम पानी से पतली खट्टी चटनी बनाएँ।",
+        "पैन में 20 मिली तेल गरम करें। कटा प्याज़ और लहसुन नरम करें, जीरा और करी पाउडर मिलाएँ, फिर पके चने, बचा पानी और बाकी नमक डालें। रसदार होने तक उबालें; कुछ चने हल्के मसलें।",
+        "उँगलियों पर तेल लगाकर हर लोई को छोटे पतले गोल में फैलाएँ और बचे तेल में मध्यम आँच पर हर तरफ लगभग 40 सेकंड तलें, जब तक थोड़ा फूलकर सुनहरे हों। तेल निथारें।",
+        "एक गरम बारा पर चने रखें और दूसरा बारा ऊपर रखें। थोड़ा इमली और हरी चटनी डालें। ऐसे आठ डबल्स बनाकर बारा नरम रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "बारा को हल्का सुनहरा और नरम रखें; कुरकुरा होने पर चनों के चारों ओर नहीं मुड़ेगा।"
+      ]
+    },
+    "gu": {
+      "name": "ટ્રિની ડબલ્સ",
+      "passiveTime": "બારાના લોટને 30 મિનિટ આરામ આપો.",
+      "ingredients": [
+        "મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "સૂકા ચણા",
+        "ડુંગળી",
+        "લસણ",
+        "જીરું પાવડર",
+        "કરી પાઉડર",
+        "સાદું વનસ્પતિ તેલ",
+        "આમલીનો ગર",
+        "લીલી કોથમીર",
+        "લીલું મરચું"
+      ],
+      "steps": [
+        "ચણા રાતભર પલાળો, નિતારી નવા પાણીમાં ખૂબ નરમ થાય ત્યાં સુધી આશરે 50–70 મિનિટ બાફો. બાફેલું 300 મિલી પાણી રાખો.",
+        "મેંદો, યીસ્ટ, હળદર અને 4 ગ્રામ મીઠું ભેળવો. 235 મિલી પાણી નાખી નરમ ચીકણો લોટ બાંધો. ઢાંકી 30 મિનિટ રાખી 16 નાની લૂઈ બનાવો.",
+        "કોથમીર અને લીલું મરચું થોડા પાણી સાથે વાટી રેડી શકાય એવી ચટણી બનાવો. આમલીના ગરમ પાણીથી પાતળી ખાટી ચટણી બનાવો.",
+        "કઢાઈમાં 20 મિલી તેલ ગરમ કરો. સમારેલી ડુંગળી અને લસણ નરમ કરો, જીરું અને કરી પાઉડર ભેળવો, પછી બાફેલા ચણા, રાખેલું પાણી અને બાકી મીઠું ઉમેરો. રસાદાર થાય ત્યાં સુધી ઉકાળો; થોડા ચણા મસળો.",
+        "આંગળીએ તેલ લગાવી દરેક લૂઈને નાના પાતળા ગોળમાં પાથરો અને બાકી તેલમાં મધ્યમ તાપે દરેક બાજુ આશરે 40 સેકન્ડ તળો, થોડા ફૂલી સોનેરી થાય ત્યાં સુધી. તેલ નિતારો.",
+        "એક ગરમ બારા પર ચણા મૂકી બીજો બારા ઉપર મૂકો. થોડી આમલી અને લીલી ચટણી રેડો. આવા આઠ ડબલ્સ બનાવી બારા નરમ હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "બારા આછા સોનેરી અને નરમ રાખો; કડક થશે તો ચણાની આસપાસ વાળી શકાશે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://visittrinidad.tt/blog/street-food-favourites-how-to-make-trini-doubles/",
+    "use": "Dish identity and preparation method; quantities and wording independently authored."
+  }
+}

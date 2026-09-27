@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0020",
+  "id": "rava-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Rava Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pieces or four servings",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Rest the thin batter for 20 minutes.",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix semolina, rice flour, plain flour, curd and salt. Whisk in the measured water to make a very thin flowing batter, then add cumin, finely chopped chilli and ginger.",
+    "Rest for 20 minutes. Stir well because the semolina settles; add a small splash of water if it has thickened so it pours almost like thin buttermilk.",
+    "Heat a well-seasoned flat griddle until a drop of water sizzles. Stir the batter, then splash a ladleful from the outside towards the middle, leaving the characteristic tiny gaps instead of spreading it with the ladle.",
+    "Drizzle some of the measured oil into the gaps and around the edge. Cook over medium-high heat for 3–4 minutes until the underside is golden and the edges lift; avoid flipping unless the top remains wet.",
+    "Fold carefully and serve crisp with the prepared coconut chutney. Stir the batter before every dosa to keep the semolina evenly suspended."
+  ],
+  "tips": [
+    "A hot pan and very thin batter produce the lacy gaps that distinguish rava dosa."
+  ],
+  "allergens": [
+    "milk",
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/rava-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "रवा डोसा",
+      "passiveTime": "पतला घोल 20 मिनट रखें।",
+      "ingredients": [
+        "सूजी",
+        "चावल का आटा",
+        "मैदा",
+        "सादा दही",
+        "पानी",
+        "जीरा",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "सूजी, चावल का आटा, मैदा, दही और नमक मिलाएँ। नापा पानी फेंटकर बहुत पतला बहता घोल बनाएँ, फिर जीरा, बारीक मिर्च और अदरक डालें।",
+        "20 मिनट रखें। सूजी नीचे बैठती है इसलिए अच्छी तरह चलाएँ; गाढ़ा हो तो थोड़ा पानी डालें ताकि पतली छाछ जैसा बहे।",
+        "अच्छी तरह तैयार तवा इतना गरम करें कि पानी की बूँद छनके। घोल चलाकर करछी से बाहर से बीच की ओर छिड़कते हुए डालें; खास छोटे छेद छोड़ें, करछी से फैलाएँ नहीं।",
+        "नापे तेल में से थोड़ा छेदों और किनारों पर डालें। मध्यम-तेज आँच पर 3–4 मिनट तले सुनहरे और किनारे उठने तक पकाएँ; ऊपर गीला न हो तो पलटने की जरूरत नहीं।",
+        "सावधानी से मोड़कर तैयार नारियल चटनी के साथ कुरकुरा परोसें। सूजी बराबर रहे इसके लिए हर डोसे से पहले घोल चलाएँ।"
+      ],
+      "tips": [
+        "गरम तवा और बहुत पतला घोल रवा डोसे के खास जालीदार छेद बनाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "રવા ડોસા",
+      "passiveTime": "પાતળું ખીરું 20 મિનિટ રાખો.",
+      "ingredients": [
+        "રવો",
+        "ચોખાનો લોટ",
+        "મેંદો",
+        "સાદું દહીં",
+        "પાણી",
+        "જીરું",
+        "લીલું મરચું",
+        "આદુ",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "રવો, ચોખાનો લોટ, મેંદો, દહીં અને મીઠું ભેળવો. માપેલું પાણી ફેંટીને બહુ પાતળું વહેતું ખીરું બનાવો, પછી જીરું, બારીક મરચું અને આદુ નાખો.",
+        "20 મિનિટ રાખો. રવો નીચે બેસે છે એટલે સારી રીતે હલાવો; ઘટ્ટ થાય તો થોડું પાણી ઉમેરો જેથી પાતળી છાશ જેવું વહે.",
+        "તૈયાર તવો એટલો ગરમ કરો કે પાણીનું ટીપું ચમકે. ખીરું હલાવી કડછીએ બહારથી મધ્ય તરફ છાંટતા રેડો; નાનાં કાણા રહેવા દો, કડછીએ ફેલાવશો નહીં.",
+        "માપેલા તેલમાંથી થોડું કાણામાં અને કિનારે નાખો. મધ્યમ-ઊંચા તાપે 3–4 મિનિટ નીચે સોનેરી અને કિનારી ઊંચી થાય ત્યાં સુધી શેકો; ઉપર ભીનું ન રહે તો ફેરવવાની જરૂર નથી.",
+        "કાળજીથી વાળી તૈયાર નાળિયેરની ચટણી સાથે કરકરું પીરસો. રવો સરખો રહે તે માટે દરેક ડોસા પહેલાં ખીરું હલાવો."
+      ],
+      "tips": [
+        "ગરમ તવો અને બહુ પાતળું ખીરું રવા ડોસાનાં ખાસ જાળીદાર કાણા બનાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/rava-dosa-recipe-suji-ka-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

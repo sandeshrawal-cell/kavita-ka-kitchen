@@ -1,0 +1,171 @@
+{
+  "sourceReviewId": "R0069",
+  "id": "dahi-bara-aloo-dum",
+  "status": "published-first-100-intake-batch",
+  "name": "Dahi Bara Aloo Dum",
+  "cuisine": "Odia",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four composed servings",
+  "prepAndCookMinutes": 90,
+  "passiveTime": "Soak urad dal for 4 hours and yellow peas overnight.",
+  "ingredients": [
+    {
+      "name": "skinned urad dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "plain curd",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried yellow peas",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak yellow peas overnight and urad dal for 4 hours. Cook drained peas in fresh water until tender, reserving 200 ml liquid; boil potatoes separately until tender, then cut them into chunks.",
+    "Grind drained urad dal with measured water to a thick batter and beat until airy. Mix in 4 g salt. Heat most of the oil to about 175°C and fry small spoonfuls for 4–5 minutes until golden; drain.",
+    "Soak the hot bara in warm water for 5 minutes, squeeze gently, then arrange in a shallow dish. Whisk curd with 2 g salt and pour over the soft bara; chill briefly while making the curry.",
+    "In the remaining 25 ml oil, toast cumin, soften chopped onion and ginger, then cook tomato with chilli, turmeric and the remaining salt until thick. Add potato and a little water and simmer 10 minutes to a rich aloo dum.",
+    "Warm the cooked yellow peas with their reserved liquid and a spoonful of the potato masala to make a light ghugni. Do not blend; the peas should remain visible.",
+    "Divide yogurt-soaked bara among four plates. Spoon hot aloo dum and a little ghugni over each, finish with coriander and serve promptly so the cool curd and hot curry contrast."
+  ],
+  "tips": [
+    "Soaking and squeezing fried bara makes them soft enough to absorb yogurt without becoming oily."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "दही बरा आलू दम",
+      "passiveTime": "उड़द दाल 4 घंटे और पीले मटर रात भर भिगोएँ।",
+      "ingredients": [
+        "धुली उड़द दाल",
+        "पानी",
+        "साधारण वनस्पति तेल",
+        "सादा दही",
+        "नमक",
+        "आलू",
+        "टमाटर",
+        "प्याज़",
+        "अदरक",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "जीरा",
+        "सूखे पीले मटर",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पीले मटर रात भर और उड़द दाल 4 घंटे भिगोएँ। छने मटर नए पानी में नरम पकाकर 200 मिली पानी बचाएँ; आलू अलग नरम उबालकर टुकड़े करें।",
+        "छनी उड़द दाल नापे पानी से गाढ़ी पीसकर हल्की होने तक फेंटें। 4 ग्राम नमक मिलाएँ। अधिकतर तेल लगभग 175°C गरम कर छोटे चम्मच घोल 4–5 मिनट सुनहरे तलें; निथारें।",
+        "गरम बरा 5 मिनट गुनगुने पानी में भिगोकर धीरे निचोड़ें और उथले बर्तन में रखें। दही में 2 ग्राम नमक फेंटकर नरम बरा पर डालें; करी बनाते समय थोड़ी देर ठंडा रखें।",
+        "बचे 25 मिली तेल में जीरा भूनें, कटा प्याज़ और अदरक नरम करें, फिर टमाटर मिर्च, हल्दी और बाकी नमक के साथ गाढ़ा पकाएँ। आलू और थोड़ा पानी डालकर 10 मिनट भरपूर आलू दम उबालें।",
+        "पके पीले मटर को बचा पानी और एक चम्मच आलू मसाले से गरम करके हल्की घुगनी बनाएँ। पीसें नहीं; मटर दिखें।",
+        "दही में भीगे बरा चार प्लेटों में बाँटें। हर एक पर गरम आलू दम और थोड़ी घुगनी डालें, धनिया छिड़ककर तुरंत परोसें ताकि ठंडे दही और गरम करी का अंतर रहे।"
+      ],
+      "tips": [
+        "तले बरा भिगोकर निचोड़ने से वे तेल छोड़कर दही सोखने लायक नरम होते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "દહીં બરા આલુ દમ",
+      "passiveTime": "અડદ દાળ 4 કલાક અને પીળા વટાણા રાતભર પલાળો.",
+      "ingredients": [
+        "ધોળી અડદ દાળ",
+        "પાણી",
+        "સાદું વનસ્પતિ તેલ",
+        "સાદું દહીં",
+        "મીઠું",
+        "બટાકા",
+        "ટામેટાં",
+        "ડુંગળી",
+        "આદુ",
+        "લાલ મરચું પાવડર",
+        "હળદર",
+        "જીરું",
+        "સૂકા પીળા વટાણા",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "પીળા વટાણા રાતભર અને અડદ દાળ 4 કલાક પલાળો. નિતારેલા વટાણા નવા પાણીમાં નરમ બાફી 200 મિલી પાણી રાખો; બટાકા અલગ નરમ બાફી ટુકડા કરો.",
+        "નિતારેલી અડદ દાળ માપેલા પાણીથી ઘટ્ટ વાટી હળવી થાય ત્યાં સુધી ફેંટો. 4 ગ્રામ મીઠું ભેળવો. મોટાભાગનું તેલ આશરે 175°C ગરમ કરી નાની ચમચી ખીરું 4–5 મિનિટ સોનેરી તળો; નિતારો.",
+        "ગરમ બરા 5 મિનિટ હૂંફાળા પાણીમાં પલાળી હળવેથી નીચોવી છીછરા વાસણમાં મૂકો. દહીંમાં 2 ગ્રામ મીઠું ફેંટીને નરમ બરા પર રેડો; કરી બનાવતાં થોડું ઠંડું રાખો.",
+        "બાકી 25 મિલી તેલમાં જીરું શેકો, સમારેલી ડુંગળી અને આદુ નરમ કરો, પછી ટામેટાં મરચું, હળદર અને બાકી મીઠા સાથે ઘટ્ટ રાંધો. બટાકા અને થોડું પાણી નાખી 10 મિનિટ ભરપૂર આલુ દમ ઉકાળો.",
+        "બાફેલા પીળા વટાણાને રાખેલા પાણી અને એક ચમચી બટાકાના મસાલા સાથે ગરમ કરી હળવી ઘુગની બનાવો. વાટશો નહીં; વટાણા દેખાય.",
+        "દહીંમાં ભીંજેલા બરા ચાર થાળીમાં વહેંચો. દરેક પર ગરમ આલુ દમ અને થોડી ઘુગની નાખી કોથમીર છાંટી તરત પીરસો જેથી ઠંડા દહીં અને ગરમ કરીનો ફેર રહે."
+      ],
+      "tips": [
+        "તળેલા બરા પલાળી નીચોવવાથી તેલ છોડીને દહીં શોષે એટલા નરમ થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/dahi-bara-aloo-dum-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dahi-bara-aloo-dum.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

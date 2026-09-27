@@ -1,0 +1,103 @@
+{
+  "sourceReviewId": "R0025",
+  "id": "idiyappam",
+  "status": "published-first-100-intake-batch",
+  "name": "Idiyappam",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight rice-noodle nests",
+  "prepAndCookMinutes": 45,
+  "passiveTime": "Rest the hot rice dough covered for 5 minutes.",
+  "ingredients": [
+    {
+      "name": "fine rice flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 340,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut vegetable stew",
+      "qty": 520,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast the rice flour for 2 minutes over low heat, stirring continuously, without browning it. Bring measured water, salt and oil to a full boil.",
+    "Pour the boiling liquid over the flour and stir firmly until no dry patches remain. Cover for 5 minutes; when safe to handle, knead to a smooth soft dough without cracks.",
+    "Fill an idiyappam press fitted with a fine-holed plate. Squeeze thin strands in loose spirals onto lightly oiled steamer plates, making about eight small nests.",
+    "Steam over boiling water for 8–10 minutes until the nests are set and no raw flour smell remains. Lift carefully and let them cool for a minute so the strands release cleanly.",
+    "Warm the prepared coconut vegetable stew and divide it into four bowls. Serve two white rice-noodle nests per person with stew alongside, keeping the noodles fluffy rather than packed."
+  ],
+  "tips": [
+    "The water must be boiling when it meets the flour; lukewarm water makes strands break in the press."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/idiyappam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "इडियप्पम",
+      "passiveTime": "गरम चावल का आटा ढककर 5 मिनट रखें।",
+      "ingredients": [
+        "बारीक चावल का आटा",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल सब्ज़ी स्टू"
+      ],
+      "steps": [
+        "चावल का आटा धीमी आँच पर लगातार चलाते हुए 2 मिनट सूखा भूनें, भूरा न करें। नापा पानी, नमक और तेल खूब उबालें।",
+        "उबलता तरल आटे पर डालकर जोर से चलाएँ ताकि सूखा भाग न रहे। 5 मिनट ढकें; हाथ लगाने योग्य होने पर दराररहित नरम चिकना आटा गूँधें।",
+        "बारीक छेद वाली इडियप्पम प्रेस में आटा भरें। हल्के तेल लगे स्टीमर प्लेटों पर पतली लच्छियाँ ढीले गोल में दबाएँ; लगभग आठ छोटे घोंसले बनाएँ।",
+        "उबलते पानी की भाप में 8–10 मिनट पकाएँ, जब तक घोंसले जम जाएँ और कच्चे आटे की गंध न रहे। धीरे निकालकर एक मिनट ठंडा करें ताकि लच्छियाँ साफ छूटें।",
+        "तैयार नारियल सब्ज़ी स्टू गरम कर चार कटोरियों में बाँटें। हर व्यक्ति को दो सफेद चावल-नूडल घोंसले स्टू के साथ दें; नूडल दबाकर न रखें।"
+      ],
+      "tips": [
+        "आटे में डालते समय पानी उबलता हो; गुनगुने पानी से प्रेस में लच्छियाँ टूट सकती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઇડિયપ્પમ",
+      "passiveTime": "ગરમ ચોખાનો લોટ ઢાંકી 5 મિનિટ રાખો.",
+      "ingredients": [
+        "બારીક ચોખાનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરનું શાક સ્ટ્યૂ"
+      ],
+      "steps": [
+        "ચોખાનો લોટ ધીમા તાપે સતત હલાવતા 2 મિનિટ કોરો શેકો, ભૂરો ન કરો. માપેલું પાણી, મીઠું અને તેલ સારી રીતે ઉકાળો.",
+        "ઉકળતું પ્રવાહી લોટ પર રેડી જોરથી હલાવો જેથી સૂકો ભાગ ન રહે. 5 મિનિટ ઢાંકો; હાથ લગાડી શકાય ત્યારે તિરાડ વગરનો નરમ સુંવાળો લોટ બાંધો.",
+        "ઝીણા કાણાવાળી ઇડિયપ્પમ પ્રેસમાં લોટ ભરો. હળવું તેલ લગાવેલી સ્ટીમર થાળીમાં પાતળી સેર ઢીલા ગોળમાં દબાવો; આશરે આઠ નાના માળા બનાવો.",
+        "ઉકળતા પાણીની વરાળમાં 8–10 મિનિટ બાફો, માળા બંધાય અને કાચા લોટની વાસ ન રહે ત્યાં સુધી. હળવેથી કાઢી એક મિનિટ ઠંડા કરો જેથી સેર સહેલાઈથી છૂટે.",
+        "તૈયાર નાળિયેરનું શાક સ્ટ્યૂ ગરમ કરી ચાર વાટકામાં વહેંચો. દરેકને બે સફેદ ચોખા-નૂડલ માળા સ્ટ્યૂ સાથે આપો; નૂડલ દબાવીને ન રાખો."
+      ],
+      "tips": [
+        "લોટમાં નાખતી વખતે પાણી ઉકળતું હોવું જોઈએ; હૂંફાળા પાણીથી પ્રેસમાં સેર તૂટી શકે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/idiyappam-recipe-nool-puttu/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

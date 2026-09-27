@@ -1,0 +1,159 @@
+{
+  "sourceReviewId": "R0064",
+  "id": "dhuska",
+  "status": "published-first-100-intake-batch",
+  "name": "Dhuska",
+  "cuisine": "Jharkhand",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 70,
+  "passiveTime": "Soak rice and dals for 4 hours; soak dried yellow peas overnight.",
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "dried yellow peas",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak yellow peas overnight. Drain and simmer in fresh water until tender, about 40–60 minutes; reserve 250 ml of their cooking liquid.",
+    "Soak rice, chana dal and urad dal for 4 hours, drain and grind with the measured water to a thick smooth batter. Stir in half the salt and rest 15 minutes.",
+    "For ghugni, heat 20 ml of the oil, soften chopped onion and ginger, add tomato, cumin and turmeric, and cook until the tomato breaks down. Add peas, reserved liquid and remaining salt; simmer until spoonable.",
+    "Heat the remaining oil in a deep pan to about 175°C. Drop a small ladle of batter for each dhuska and fry 2–3 minutes per side until puffed, deep golden and cooked in the centre; drain.",
+    "Serve two hot dhuskas per person with a bowl of yellow-pea ghugni and chopped coriander. The fried breads should be crisp outside and soft within."
+  ],
+  "tips": [
+    "Fry a test dhuska first; if it spreads flat, the batter is too thin."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "धुस्का",
+      "passiveTime": "चावल-दाल 4 घंटे और सूखे पीले मटर रात भर भिगोएँ।",
+      "ingredients": [
+        "चावल",
+        "चना दाल",
+        "धुली उड़द दाल",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "सूखे पीले मटर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "पिसा जीरा",
+        "हल्दी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पीले मटर रात भर भिगोएँ। छानकर नए पानी में लगभग 40–60 मिनट नरम उबालें; पकाने का 250 मिली पानी बचाएँ।",
+        "चावल, चना दाल और उड़द दाल 4 घंटे भिगोकर छानें और नापे पानी से गाढ़ा चिकना घोल पीसें। आधा नमक डालकर 15 मिनट रखें।",
+        "घुगनी के लिए 20 मिली तेल में कटा प्याज़ और अदरक नरम करें, टमाटर, जीरा और हल्दी डालकर टमाटर गलाएँ। मटर, बचा पानी और बाकी नमक डालकर चम्मच से परोसने लायक उबालें।",
+        "बचा तेल गहरे पैन में लगभग 175°C गरम करें। हर धुस्का के लिए छोटी करछी घोल डालें और हर तरफ 2–3 मिनट फूला, गहरा सुनहरा और बीच तक पका होने तक तलें; निथारें।",
+        "हर व्यक्ति को दो गरम धुस्के पीली-मटर घुगनी और कटे धनिया के साथ दें। तली रोटी बाहर कुरकुरी और भीतर नरम होनी चाहिए।"
+      ],
+      "tips": [
+        "पहले एक धुस्का तलकर जाँचें; चपटा फैले तो घोल बहुत पतला है।"
+      ]
+    },
+    "gu": {
+      "name": "ધુસ્કા",
+      "passiveTime": "ચોખા-દાળ 4 કલાક અને સૂકા પીળા વટાણા રાતભર પલાળો.",
+      "ingredients": [
+        "ચોખા",
+        "ચણા દાળ",
+        "ધોળી અડદ દાળ",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "સૂકા પીળા વટાણા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "જીરું પાવડર",
+        "હળદર",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "પીળા વટાણા રાતભર પલાળો. નિતારી નવા પાણીમાં આશરે 40–60 મિનિટ નરમ બાફો; બાફેલું 250 મિલી પાણી રાખો.",
+        "ચોખા, ચણા દાળ અને અડદ દાળ 4 કલાક પલાળી નિતારો અને માપેલા પાણીથી ઘટ્ટ સુંવાળું ખીરું વાટો. અડધું મીઠું નાખી 15 મિનિટ રાખો.",
+        "ઘુગની માટે 20 મિલી તેલમાં સમારેલી ડુંગળી અને આદુ નરમ કરો, ટામેટાં, જીરું અને હળદર નાખી ટામેટાં ગાળો. વટાણા, રાખેલું પાણી અને બાકી મીઠું ઉમેરી ચમચીથી પીરસી શકાય ત્યાં સુધી ઉકાળો.",
+        "બાકી તેલ ઊંડા વાસણમાં આશરે 175°C ગરમ કરો. દરેક ધુસ્કા માટે નાની કડછી ખીરું નાખી દરેક બાજુ 2–3 મિનિટ ફૂલે, ઘેરું સોનેરી અને મધ્ય સુધી પાકે ત્યાં સુધી તળો; નિતારો.",
+        "દરેકને બે ગરમ ધુસ્કા પીળા વટાણાની ઘુગની અને સમારેલી કોથમીર સાથે આપો. તળેલી રોટી બહાર કરકરી અને અંદર નરમ હોવી જોઈએ."
+      ],
+      "tips": [
+        "પહેલા એક ધુસ્કા તળી તપાસો; સપાટ ફેલાય તો ખીરું બહુ પાતળું છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/dhuska-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dhuska.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

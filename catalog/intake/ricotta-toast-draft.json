@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0099",
+  "id": "ricotta-toast",
+  "status": "published-first-100-intake-batch",
+  "name": "Ricotta Toast",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four toasts",
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "artisan bread",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ricotta cheese",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "fresh figs",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "pistachios",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toast four thick bread slices until golden and crisp.",
+    "Stir ricotta briefly until creamy; divide and spread thickly over the warm toast.",
+    "Wash and slice figs and berries. Arrange them evenly over the ricotta.",
+    "Drizzle each toast with maple syrup, scatter chopped pistachios and serve immediately."
+  ],
+  "tips": [
+    "Use fresh ripe figs; substitute sliced pear when figs are unavailable."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy",
+    "nuts"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "रिकोटा टोस्ट",
+      "ingredients": [
+        "कारीगर ब्रेड",
+        "रिकोटा चीज़",
+        "ताज़े अंजीर",
+        "मिश्रित बेरी",
+        "मेपल सिरप",
+        "पिस्ता"
+      ],
+      "steps": [
+        "ब्रेड की चार मोटी स्लाइस सुनहरी और कुरकुरी टोस्ट करें।",
+        "रिकोटा को थोड़ी देर चलाकर मलाईदार करें; गरम टोस्ट पर बराबर मोटी परत में फैलाएँ।",
+        "अंजीर और बेरी धोकर काटें। रिकोटा पर बराबर सजाएँ।",
+        "हर टोस्ट पर मेपल सिरप डालें, कटे पिस्ता बिखेरें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "पके ताज़े अंजीर लें; न मिलें तो कटे नाशपाती लें।"
+      ]
+    },
+    "gu": {
+      "name": "રિકોટા ટોસ્ટ",
+      "ingredients": [
+        "કારીગર બ્રેડ",
+        "રિકોટા ચીઝ",
+        "તાજા અંજીર",
+        "મિશ્ર બેરી",
+        "મેપલ સિરપ",
+        "પિસ્તા"
+      ],
+      "steps": [
+        "બ્રેડની ચાર જાડી સ્લાઈસ સોનેરી અને કરકરી શેકો.",
+        "રિકોટાને થોડું હલાવી મલાઈદાર કરો; ગરમ ટોસ્ટ પર સરખું જાડું પાથરો.",
+        "અંજીર અને બેરી ધોઈ કાપો. રિકોટા પર સરખા ગોઠવો.",
+        "દરેક ટોસ્ટ પર મેપલ સિરપ રેડી સમારેલા પિસ્તા છાંટો અને તરત પીરસો."
+      ],
+      "tips": [
+        "પાકેલા તાજા અંજીર લો; ન મળે તો કાપેલું નાસપતી લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/ricotta-toast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

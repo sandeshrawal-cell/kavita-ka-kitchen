@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0093",
+  "id": "cachapas",
+  "status": "published-first-100-intake-batch",
+  "name": "Cachapas",
+  "cuisine": "Venezuelan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four corn pancakes",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fresh sweet corn kernels",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fine cornmeal",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "soft white cheese",
+      "qty": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pulse corn kernels with milk just until a coarse, spoonable batter forms; leave some kernels intact.",
+    "Mix in cornmeal, sugar and salt. Rest 10 minutes so the cornmeal absorbs moisture.",
+    "Melt a little butter in a medium-hot pan. Spoon one quarter of the batter into a thick 16 cm round and cook 4–5 minutes until the base is deep golden and the top begins to set.",
+    "Flip carefully and cook 3–4 minutes. Add one quarter of the cheese, fold in half and warm 1 minute until the cheese softens. Repeat for four.",
+    "Serve hot while the edges are golden and the center remains tender."
+  ],
+  "tips": [
+    "Fresh corn provides the sweet flavor and coarse texture; do not puree it smooth."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "कचापास",
+      "ingredients": [
+        "ताज़े मीठे मक्के के दाने",
+        "बारीक मक्के का आटा",
+        "दूध",
+        "चीनी",
+        "नमक",
+        "मक्खन",
+        "नरम सफेद चीज़"
+      ],
+      "steps": [
+        "मक्के के दाने दूध के साथ थोड़े पल्स करें, जब तक मोटा चम्मच से डालने योग्य घोल बने; कुछ दाने साबुत रखें।",
+        "मक्के का आटा, चीनी और नमक मिलाएँ। आटा नमी सोखे इसलिए 10 मिनट रखें।",
+        "मध्यम गरम पैन में थोड़ा मक्खन पिघलाएँ। एक चौथाई घोल 16 सेमी मोटे गोल में डालें और नीचे गहरा सुनहरा तथा ऊपर जमना शुरू होने तक 4–5 मिनट पकाएँ।",
+        "सावधानी से पलटकर 3–4 मिनट पकाएँ। एक चौथाई चीज़ डालें, आधा मोड़ें और चीज़ नरम होने तक 1 मिनट गरम करें। चार बनाएँ।",
+        "किनारे सुनहरे और बीच नरम रहते गरम परोसें।"
+      ],
+      "tips": [
+        "ताज़ा मक्का मिठास और मोटी बनावट देता है; इसे पूरी तरह चिकना न पीसें।"
+      ]
+    },
+    "gu": {
+      "name": "કાચાપાસ",
+      "ingredients": [
+        "તાજી મીઠી મકાઈના દાણા",
+        "ઝીણો મકાઈનો લોટ",
+        "દૂધ",
+        "ખાંડ",
+        "મીઠું",
+        "માખણ",
+        "નરમ સફેદ ચીઝ"
+      ],
+      "steps": [
+        "મકાઈના દાણા દૂધ સાથે થોડા પલ્સ કરો, મોટા કણવાળું ચમચીથી રેડી શકાય એવું ખીરું બને ત્યાં સુધી; થોડા દાણા આખા રાખો.",
+        "મકાઈનો લોટ, ખાંડ અને મીઠું ભેળવો. લોટ ભીનાશ શોષે માટે 10 મિનિટ રાખો.",
+        "મધ્યમ ગરમ પેનમાં થોડું માખણ ઓગાળો. ખીરાનો ચોથો ભાગ 16 સેમીના જાડા ગોળમાં રેડી 4–5 મિનિટ તળિયું ઘેરું સોનેરી અને ઉપરની સપાટી જામવા લાગે ત્યાં સુધી શેકો.",
+        "સાવચેતીથી પલટી 3–4 મિનિટ શેકો. ચોથો ભાગ ચીઝ મૂકી અડધું વાળો અને ચીઝ નરમ થાય ત્યાં સુધી 1 મિનિટ ગરમ કરો. ચાર બનાવો.",
+        "કિનારી સોનેરી અને મધ્ય ભાગ નરમ હોય ત્યારે ગરમ પીરસો."
+      ],
+      "tips": [
+        "તાજી મકાઈ મીઠાશ અને મોટા કણની બનાવટ આપે છે; સાવ લીસું ન પીસો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cachapas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

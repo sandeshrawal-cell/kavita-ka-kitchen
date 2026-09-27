@@ -1,0 +1,110 @@
+{
+  "sourceReviewId": "R0084",
+  "id": "semolina-porridge",
+  "status": "published-first-100-intake-batch",
+  "name": "Semolina Porridge",
+  "cuisine": "European",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 18,
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 850,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "berry jam",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Warm milk and water with salt in a heavy saucepan until steaming but not rapidly boiling.",
+    "Rain in semolina slowly while whisking constantly so it does not form lumps.",
+    "Cook on low heat for 7–9 minutes, stirring along the base, until smooth and thickened. Stir in sugar and half the butter.",
+    "Divide among four bowls; add remaining butter and a spoon of berry jam to each. Serve warm."
+  ],
+  "tips": [
+    "Whisk continuously while adding the semolina; lumps are hard to remove later."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "सूजी का दलिया",
+      "ingredients": [
+        "बारीक सूजी",
+        "दूध",
+        "पानी",
+        "चीनी",
+        "मक्खन",
+        "बेरी जैम",
+        "नमक"
+      ],
+      "steps": [
+        "भारी सॉसपैन में दूध, पानी और नमक भाप उठने तक गरम करें, तेज उबाल न आने दें।",
+        "लगातार फेंटते हुए सूजी धीरे-धीरे बारिश की तरह डालें ताकि गांठें न बनें।",
+        "धीमी आँच पर 7–9 मिनट तली से चलाते हुए चिकना और गाढ़ा होने तक पकाएँ। चीनी और आधा मक्खन मिलाएँ।",
+        "चार कटोरियों में बाँटें; हर कटोरी में बचा मक्खन और एक चम्मच बेरी जैम डालें। गरम परोसें।"
+      ],
+      "tips": [
+        "सूजी डालते समय लगातार फेंटें; बाद में गांठें हटाना कठिन होता है।"
+      ]
+    },
+    "gu": {
+      "name": "સોજીનો પોરિજ",
+      "ingredients": [
+        "ઝીણી સોજી",
+        "દૂધ",
+        "પાણી",
+        "ખાંડ",
+        "માખણ",
+        "બેરી જામ",
+        "મીઠું"
+      ],
+      "steps": [
+        "જાડા તળિયાના સોસપેનમાં દૂધ, પાણી અને મીઠું વરાળ નીકળે ત્યાં સુધી ગરમ કરો, જોરથી ન ઉકાળો.",
+        "સતત ફેંટતા સોજી ધીમે ધીમે વરસાદની જેમ ઉમેરો જેથી ગાંઠ ન પડે.",
+        "ધીમા તાપે 7–9 મિનિટ તળિયેથી હલાવતા લીસું અને ઘટ્ટ થાય ત્યાં સુધી રાંધો. ખાંડ અને અડધું માખણ ભેળવો.",
+        "ચાર વાટકામાં વહેંચો; દરેકમાં બાકી માખણ અને એક ચમચી બેરી જામ ઉમેરો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "સોજી ઉમેરતી વખતે સતત ફેંટો; પછી ગાંઠ દૂર કરવી મુશ્કેલ છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/semolina-porridge.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

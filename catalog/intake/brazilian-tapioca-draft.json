@@ -1,0 +1,98 @@
+{
+  "sourceReviewId": "R0092",
+  "id": "brazilian-tapioca",
+  "status": "published-first-100-intake-batch",
+  "name": "Brazilian Tapioca",
+  "cuisine": "Brazilian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four stuffed tapioca crepes",
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "hydrated tapioca starch",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "grated cheese",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Use moist, hydrated tapioca starch sold for Brazilian tapioca, or moisten dry tapioca starch gradually until it forms crumbly damp granules; pass through a sieve.",
+    "Heat a dry nonstick 20 cm pan over medium-low heat. Sift one quarter of the starch evenly across the base, covering gaps.",
+    "Cook 2–3 minutes until the granules bond into a flexible white crepe; do not brown or flip.",
+    "Scatter one quarter of the cheese, thin tomato slices, a pinch of salt and oregano on half. Fold over and cook 1 more minute until cheese melts.",
+    "Repeat for four crepes and serve immediately while warm and chewy."
+  ],
+  "tips": [
+    "Ordinary dry tapioca flour needs hydration and sieving before it will bind in the pan."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "ब्राज़ीली टैपिओका",
+      "ingredients": [
+        "नम टैपिओका स्टार्च",
+        "कद्दूकस चीज़",
+        "टमाटर",
+        "नमक",
+        "सूखा ओरिगैनो"
+      ],
+      "steps": [
+        "ब्राज़ीली टैपिओका के लिए मिलने वाला नम स्टार्च लें, या सूखे स्टार्च में थोड़ा-थोड़ा पानी डालकर नम भुरभुरे दाने बनाएँ; छलनी से छानें।",
+        "सूखा नॉनस्टिक 20 सेमी पैन मध्यम-धीमी आँच पर गरम करें। स्टार्च का एक चौथाई भाग छानकर तली पर बराबर फैलाएँ, खाली जगह भरें।",
+        "2–3 मिनट पकाएँ, जब तक दाने जुड़कर लचीला सफेद क्रेप न बनें; भूरा न करें और पलटें नहीं।",
+        "आधे हिस्से पर एक चौथाई चीज़, पतले टमाटर, थोड़ा नमक और ओरिगैनो डालें। मोड़कर चीज़ पिघलने तक 1 मिनट और पकाएँ।",
+        "चार क्रेप ऐसे बनाएँ और गरम तथा चबाने योग्य रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "सादा सूखा टैपिओका आटा तवे पर जुड़ने से पहले नम करके छानना पड़ता है।"
+      ]
+    },
+    "gu": {
+      "name": "બ્રાઝિલિયન ટેપિયોકા",
+      "ingredients": [
+        "ભીનું ટેપિયોકા સ્ટાર્ચ",
+        "છીણેલું ચીઝ",
+        "ટામેટાં",
+        "મીઠું",
+        "સૂકું ઓરેગાનો"
+      ],
+      "steps": [
+        "બ્રાઝિલિયન ટેપિયોકા માટે મળતું ભીનું સ્ટાર્ચ લો, અથવા સૂકા સ્ટાર્ચમાં થોડું-થોડું પાણી ઉમેરી ભીના ભૂકા દાણા બનાવો; ચાળી લો.",
+        "સૂકો નોનસ્ટિક 20 સેમી પેન મધ્યમ-ધીમા તાપે ગરમ કરો. સ્ટાર્ચનો ચોથો ભાગ ચાળી તળિયે સરખો ફેલાવો, ખાલી જગ્યા પૂરો.",
+        "2–3 મિનિટ દાણા જોડાઈ લવચીક સફેદ ક્રેપ બને ત્યાં સુધી શેકો; ભૂરો ન કરો અને પલટો નહીં.",
+        "અડધા ભાગ પર ચોથો ભાગ ચીઝ, પાતળાં ટામેટાં, થોડું મીઠું અને ઓરેગાનો નાખો. વાળી ચીઝ ઓગળે ત્યાં સુધી વધુ 1 મિનિટ શેકો.",
+        "આ રીતે ચાર ક્રેપ બનાવી ગરમ અને ચવાય એવા હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "સાદો સૂકો ટેપિયોકા લોટ તવા પર જોડાય તે પહેલાં ભીનો કરી ચાળવો પડે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/brazilian-tapioca.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

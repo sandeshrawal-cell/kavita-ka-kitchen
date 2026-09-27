@@ -1,0 +1,99 @@
+{
+  "sourceReviewId": "R0088",
+  "id": "genfo",
+  "status": "published-first-100-intake-batch",
+  "name": "Genfo",
+  "cuisine": "Ethiopian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four portions",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "barley flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "berbere spice blend",
+      "qty": 18,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Bring measured water and salt to a brisk boil in a sturdy saucepan.",
+    "Sprinkle barley flour into the boiling water while stirring vigorously with a strong wooden spoon. Lower the heat.",
+    "Stir and fold for 12–15 minutes, scraping the base, until no dry flour remains and the stiff porridge is fully cooked.",
+    "Melt butter in a small pan and warm berbere in it for 30 seconds. Mound the genfo on a platter, make a central well and pour in the spiced butter.",
+    "Serve immediately, dividing into four portions. Keep extra hot water nearby if the porridge becomes too stiff to stir."
+  ],
+  "tips": [
+    "Choose a berbere blend without meat stock or animal ingredients."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "गेन्फो",
+      "ingredients": [
+        "जौ का आटा",
+        "पानी",
+        "नमक",
+        "मक्खन",
+        "बर्बेरे मसाला"
+      ],
+      "steps": [
+        "मजबूत सॉसपैन में मापा पानी और नमक तेज उबालें।",
+        "उबलते पानी में जौ का आटा छिड़कते हुए मजबूत लकड़ी के चम्मच से तेजी से चलाएँ। आँच कम करें।",
+        "12–15 मिनट तली खुरचते हुए चलाएँ और मोड़ें, जब तक सूखा आटा न बचे और गाढ़ा दलिया पूरी तरह पक न जाए।",
+        "छोटे पैन में मक्खन पिघलाएँ और उसमें बर्बेरे 30 सेकंड गरम करें। गेन्फो को थाली में ढेर करें, बीच में गड्ढा बनाकर मसालेदार मक्खन डालें।",
+        "तुरंत चार भागों में परोसें। दलिया चलाने में बहुत कड़ा हो तो थोड़ा अतिरिक्त गरम पानी पास रखें।"
+      ],
+      "tips": [
+        "ऐसा बर्बेरे मसाला लें जिसमें मांस का स्टॉक या पशु सामग्री न हो।"
+      ]
+    },
+    "gu": {
+      "name": "ગેન્ફો",
+      "ingredients": [
+        "જવનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "માખણ",
+        "બર્બેરે મસાલો"
+      ],
+      "steps": [
+        "મજબૂત સોસપેનમાં માપેલું પાણી અને મીઠું જોરથી ઉકાળો.",
+        "ઉકળતા પાણીમાં જવનો લોટ છાંટતાં મજબૂત લાકડાની ચમચીથી ઝડપથી હલાવો. તાપ ઓછો કરો.",
+        "12–15 મિનિટ તળિયું ખોતરતાં હલાવો અને ફેરવો, સૂકો લોટ ન રહે અને જાડું પોરિજ પૂરેપૂરું પાકે ત્યાં સુધી.",
+        "નાની કઢાઈમાં માખણ ઓગાળી તેમાં બર્બેરે 30 સેકન્ડ ગરમ કરો. ગેન્ફોને થાળીમાં ઢગલો કરી વચ્ચે ખાડો બનાવો અને મસાલાવાળું માખણ રેડો.",
+        "તરત ચાર ભાગમાં પીરસો. પોરિજ હલાવવા બહુ કડક થાય તો થોડું વધારાનું ગરમ પાણી પાસે રાખો."
+      ],
+      "tips": [
+        "માંસનો સ્ટોક કે પ્રાણીજન્ય સામગ્રી વિનાનો બર્બેરે મસાલો પસંદ કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/genfo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

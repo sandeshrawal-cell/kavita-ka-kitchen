@@ -6,6 +6,6 @@ export function dishPhoto(d,large=false){
 }
 export function photoCredit(d){
  const p=d?.photo;if(!p?.src||p.status!=='reviewed')return '';
- if(p.kind==='generated')return `<details class="photo-credit"><summary>AI-generated image</summary><p>A realistic serving illustration created for this recipe. Serving presentation may differ from your finished dish.</p></details>`;
+ if(p.kind==='generated')return `<details class="photo-credit"><summary>AI-generated photo</summary><p>A realistic food photograph created for this recipe. Serving presentation may differ from your finished dish.</p></details>`;
  return `<details class="photo-credit"><summary>Photograph credit</summary><p><a href="${esc(p.source)}" target="_blank" rel="noopener">${esc(p.title.replace(/^File:/,''))}</a> by ${esc(p.author)} · <a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener">${esc(p.license)}</a>.</p><p>${esc(p.changes)} Serving presentation may differ from the recipe.</p></details>`;
 }

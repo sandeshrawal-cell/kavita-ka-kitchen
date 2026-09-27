@@ -1,0 +1,183 @@
+{
+  "sourceReviewId": "R0021",
+  "id": "mysore-masala-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Mysore Masala Dosa",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pieces or four servings",
+  "prepAndCookMinutes": 85,
+  "passiveTime": "Soak rice and dal for 5 hours; ferment the batter overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "flattened rice",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potato",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilli",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "roasted chana dal",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak rice, urad dal and fenugreek separately for 5 hours. Grind with the soaked poha and enough measured water into a smooth pourable batter. Cover loosely and ferment overnight until bubbly; then stir in half the salt.",
+    "For the red chutney, soak dried chillies in hot water and blend with garlic, roasted chana dal and a little of the measured water to a thick spreadable paste.",
+    "Heat 20 ml oil, splutter mustard and curry leaves, soften chopped onion, then add turmeric, mashed boiled potato and remaining salt. Cook until the filling is hot and fairly dry.",
+    "Spread a ladle of fermented batter thinly on a hot griddle. Drizzle some remaining oil around it, cook until the base turns golden, then smear a thin layer of red chutney and a little butter across the top.",
+    "Place potato masala down the middle, fold the dosa around it and cook briefly until crisp. Repeat for four large dosas and serve at once; keep the chutney layer thin so it does not overpower the filling."
+  ],
+  "tips": [
+    "The red chutney belongs inside the dosa; apply it only after the underside has set."
+  ],
+  "allergens": [
+    "milk",
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/mysore-masala-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मैसूर मसाला डोसा",
+      "passiveTime": "चावल और दाल 5 घंटे भिगोएँ; घोल रात भर खमीर उठने दें।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पोहा",
+        "पानी",
+        "नमक",
+        "उबला आलू",
+        "प्याज़",
+        "राई",
+        "हल्दी",
+        "करी पत्ता",
+        "सूखी लाल मिर्च",
+        "लहसुन",
+        "भुनी चना दाल",
+        "साधारण वनस्पति तेल",
+        "मक्खन"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी अलग-अलग 5 घंटे भिगोएँ। भीगे पोहे और नापे पानी से चिकना बहता घोल पीसें। ढीला ढककर रात भर बुलबुले आने तक खमीर उठाएँ; फिर आधा नमक मिलाएँ।",
+        "लाल चटनी के लिए सूखी मिर्च गरम पानी में भिगोकर लहसुन, भुनी चना दाल और थोड़े नापे पानी के साथ गाढ़ी फैलाने योग्य पेस्ट पीसें।",
+        "20 मिली तेल गरम कर राई और करी पत्ता चटकाएँ, कटा प्याज़ नरम करें, फिर हल्दी, मसला उबला आलू और बाकी नमक डालें। भरावन गरम और काफी सूखी होने तक पकाएँ।",
+        "गरम तवे पर खमीरी घोल की एक करछी पतली फैलाएँ। बचे तेल में से थोड़ा किनारों पर डालें, तला सुनहरा होने दें, फिर ऊपर लाल चटनी की पतली परत और थोड़ा मक्खन लगाएँ।",
+        "बीच में आलू मसाला रखें, डोसा मोड़ें और कुरकुरा होने तक थोड़ा और सेंकें। चार बड़े डोसे ऐसे बनाकर तुरंत परोसें; चटनी की परत पतली रखें ताकि भरावन का स्वाद रहे।"
+      ],
+      "tips": [
+        "लाल चटनी डोसे के अंदर लगती है; तला जमने के बाद ही लगाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "મૈસૂર મસાલા ડોસા",
+      "passiveTime": "ચોખા અને દાળ 5 કલાક પલાળો; ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પૌંઆ",
+        "પાણી",
+        "મીઠું",
+        "બાફેલા બટાકા",
+        "ડુંગળી",
+        "રાઈ",
+        "હળદર",
+        "લીમડાના પાન",
+        "સૂકું લાલ મરચું",
+        "લસણ",
+        "શેકેલી ચણા દાળ",
+        "સાદું વનસ્પતિ તેલ",
+        "માખણ"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી અલગ 5 કલાક પલાળો. પલાળેલા પૌંઆ અને માપેલા પાણીથી સુંવાળું વહેતું ખીરું વાટો. ઢીલું ઢાંકી રાતભર પરપોટા આવે ત્યાં સુધી આથો આવવા દો; પછી અડધું મીઠું ભેળવો.",
+        "લાલ ચટણી માટે સૂકા મરચાં ગરમ પાણીમાં પલાળી લસણ, શેકેલી ચણા દાળ અને થોડા માપેલા પાણી સાથે ઘટ્ટ પાથરી શકાય એવી પેસ્ટ વાટો.",
+        "20 મિલી તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, સમારેલી ડુંગળી નરમ કરો, પછી હળદર, છૂંદેલા બાફેલા બટાકા અને બાકી મીઠું નાખો. પૂરણ ગરમ અને લગભગ સૂકું થાય ત્યાં સુધી રાંધો.",
+        "ગરમ તવા પર આથેલા ખીરાની એક કડછી પાતળી પાથરો. બાકી તેલમાંથી થોડું કિનારે નાખો, નીચે સોનેરી થાય પછી ઉપર લાલ ચટણીની પાતળી પરત અને થોડું માખણ લગાવો.",
+        "વચ્ચે બટાકાનું પૂરણ મૂકી ડોસો વાળો અને કરકરો થાય ત્યાં સુધી થોડો વધુ શેકો. ચાર મોટા ડોસા બનાવી તરત પીરસો; ચટણીની પરત પાતળી રાખો જેથી પૂરણનો સ્વાદ દબાય નહીં."
+      ],
+      "tips": [
+        "લાલ ચટણી ડોસાની અંદર લગાડાય છે; નીચેનો ભાગ ચડે પછી જ લગાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/mysore-masala-dosa-recipe-mysore-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

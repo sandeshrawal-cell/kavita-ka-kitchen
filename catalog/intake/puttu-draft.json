@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R0026",
+  "id": "puttu",
+  "status": "published-first-100-intake-batch",
+  "name": "Puttu",
+  "cuisine": "Kerala",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak the black chickpeas overnight.",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "dried black chickpeas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak black chickpeas overnight. Drain and pressure-cook or simmer in fresh water until tender, reserving 300 ml cooking liquid for the curry.",
+    "Rub the rice flour with half the salt and the measured water little by little until it resembles damp crumbs that hold briefly when squeezed; it must not become a paste.",
+    "Layer a little coconut, damp flour and more coconut in a puttu cylinder, keeping the layers loose. Steam over boiling water for 8–10 minutes until steam rises through the top and the flour is cooked; make four cylinders.",
+    "For kadala curry, heat oil, soften chopped onion, ginger and garlic, add curry leaves, tomato, coriander, turmeric and garam masala, and cook until tomato breaks down. Add cooked chickpeas and reserved liquid; simmer 10 minutes and season with the remaining salt.",
+    "Slide the hot puttu from its mould without compressing it. Divide the chickpea curry into four bowls and serve alongside, breaking the crumbly rice-and-coconut cylinder into the sauce as you eat."
+  ],
+  "tips": [
+    "Correctly moistened puttu flour feels sandy, not kneadable like chapati dough."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/puttu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पुट्टू",
+      "passiveTime": "काले चने रात भर भिगोएँ।",
+      "ingredients": [
+        "चावल का आटा",
+        "ताज़ा कसा नारियल",
+        "पानी",
+        "नमक",
+        "सूखे काले चने",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "साधारण वनस्पति तेल",
+        "करी पत्ता",
+        "पिसा धनिया",
+        "हल्दी",
+        "गरम मसाला"
+      ],
+      "steps": [
+        "काले चने रात भर भिगोएँ। छानकर नए पानी में प्रेशर कुक या उबालकर नरम करें; करी के लिए पकाने का 300 मिली पानी बचाएँ।",
+        "चावल के आटे में आधा नमक और नापा पानी थोड़ा-थोड़ा उँगलियों से मिलाएँ, जब तक नम चूरा बने जो दबाने पर कुछ देर जुड़े; पेस्ट न बनाएँ।",
+        "पुट्टू सिलिंडर में थोड़ा नारियल, नम आटा और फिर नारियल ढीली परतों में भरें। उबलते पानी की भाप में 8–10 मिनट ऊपर से भाप निकलने और आटा पकने तक पकाएँ; चार सिलिंडर बनाएँ।",
+        "कडला करी के लिए तेल गरम कर कटा प्याज़, अदरक और लहसुन नरम करें, करी पत्ता, टमाटर, धनिया, हल्दी और गरम मसाला डालकर टमाटर गलाएँ। पके चने और बचा पानी डालकर 10 मिनट उबालें, बाकी नमक मिलाएँ।",
+        "गरम पुट्टू को दबाए बिना साँचे से निकालें। चने की करी चार कटोरियों में बाँटकर साथ परोसें; खाते समय चावल-नारियल की भुरभुरी बेलन करी में तोड़ें।"
+      ],
+      "tips": [
+        "ठीक नम पुट्टू का आटा रेतीला लगेगा, चपाती के आटे जैसा गूँथा नहीं जाएगा।"
+      ]
+    },
+    "gu": {
+      "name": "પુટ્ટુ",
+      "passiveTime": "કાળા ચણા રાતભર પલાળો.",
+      "ingredients": [
+        "ચોખાનો લોટ",
+        "તાજું ખમણેલું નાળિયેર",
+        "પાણી",
+        "મીઠું",
+        "સૂકા કાળા ચણા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "સાદું વનસ્પતિ તેલ",
+        "લીમડાના પાન",
+        "ધાણા પાવડર",
+        "હળદર",
+        "ગરમ મસાલો"
+      ],
+      "steps": [
+        "કાળા ચણા રાતભર પલાળો. નિતારી નવા પાણીમાં પ્રેશર કુક કે ઉકાળી નરમ કરો; કરી માટે બાફેલું 300 મિલી પાણી રાખો.",
+        "ચોખાના લોટમાં અડધું મીઠું અને માપેલું પાણી થોડું થોડું આંગળીઓથી ભેળવો, ભીના ભૂકા જેવું થાય અને દબાવતાં થોડી વાર જોડાય ત્યાં સુધી; પેસ્ટ ન બનાવો.",
+        "પુટ્ટુના નળાકાર વાસણમાં થોડું નાળિયેર, ભીનો લોટ અને ફરી નાળિયેર ઢીલા પડમાં ભરો. ઉકળતા પાણીની વરાળમાં 8–10 મિનિટ ઉપરથી વરાળ નીકળે અને લોટ પાકે ત્યાં સુધી બાફો; ચાર નળાકાર બનાવો.",
+        "કડલા કરી માટે તેલ ગરમ કરી સમારેલી ડુંગળી, આદુ અને લસણ નરમ કરો, લીમડાના પાન, ટામેટાં, ધાણા, હળદર અને ગરમ મસાલો નાખી ટામેટાં ગાળો. બાફેલા ચણા અને રાખેલું પાણી ઉમેરી 10 મિનિટ ઉકાળો, બાકી મીઠું ભેળવો.",
+        "ગરમ પુટ્ટુ દબાવ્યા વગર બીબામાંથી કાઢો. ચણાની કરી ચાર વાટકામાં વહેંચી સાથે પીરસો; ખાતાં ચોખા-નાળિયેરનો ભુરભુરો નળાકાર કરીમાં તોડો."
+      ],
+      "tips": [
+        "બરાબર ભીનો પુટ્ટુનો લોટ રેતીલો લાગે, રોટલીના લોટ જેવો ગૂંથાય નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/puttu-recipe-kerala-puttu/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

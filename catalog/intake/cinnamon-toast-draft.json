@@ -1,0 +1,89 @@
+{
+  "sourceReviewId": "R0100",
+  "id": "cinnamon-toast",
+  "status": "published-first-100-intake-batch",
+  "name": "Cinnamon Toast",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four toasts",
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "sliced bread",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "softened butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix softened butter, sugar and cinnamon into an even paste.",
+    "Spread the cinnamon butter all the way to the edges of four bread slices.",
+    "Toast buttered side up under a preheated grill or in an oven at 200°C for 5–7 minutes until the sugar bubbles and the bread edges turn crisp.",
+    "Rest 1 minute so the topping sets. Cut diagonally and serve warm."
+  ],
+  "tips": [
+    "Watch closely near the end; cinnamon sugar can burn quickly."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "दालचीनी टोस्ट",
+      "ingredients": [
+        "ब्रेड स्लाइस",
+        "नरम मक्खन",
+        "चीनी",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "नरम मक्खन, चीनी और दालचीनी मिलाकर समान पेस्ट बनाएँ।",
+        "दालचीनी वाला मक्खन ब्रेड की चार स्लाइस के किनारों तक फैलाएँ।",
+        "मक्खन वाली तरफ ऊपर रखकर पहले से गरम ग्रिल या 200°C ओवन में 5–7 मिनट टोस्ट करें, जब तक चीनी में बुलबुले और ब्रेड किनारे कुरकुरे न हों।",
+        "टॉपिंग जमने के लिए 1 मिनट रखें। तिरछा काटकर गरम परोसें।"
+      ],
+      "tips": [
+        "अंत में ध्यान से देखें; दालचीनी-चीनी जल्दी जल सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "તજ ટોસ્ટ",
+      "ingredients": [
+        "બ્રેડની સ્લાઈસ",
+        "નરમ માખણ",
+        "ખાંડ",
+        "તજ પાવડર"
+      ],
+      "steps": [
+        "નરમ માખણ, ખાંડ અને તજ ભેળવી સરખી પેસ્ટ બનાવો.",
+        "તજવાળું માખણ બ્રેડની ચાર સ્લાઈસની કિનારી સુધી પાથરો.",
+        "માખણવાળી બાજુ ઉપર રાખી પહેલેથી ગરમ ગ્રિલ અથવા 200°C ઓવનમાં 5–7 મિનિટ શેકો, ખાંડમાં પરપોટા અને બ્રેડની કિનારી કરકરી થાય ત્યાં સુધી.",
+        "ઉપરનું પડ જામી જાય માટે 1 મિનિટ રાખો. ત્રાંસા કાપી ગરમ પીરસો."
+      ],
+      "tips": [
+        "અંતે ધ્યાન રાખો; તજ-ખાંડ ઝડપથી બળી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cinnamon-toast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

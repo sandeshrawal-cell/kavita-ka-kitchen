@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0042",
+  "id": "poha-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Poha Idli",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Twelve idlis",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "Rest the poha-semolina batter for 15 minutes.",
+  "ingredients": [
+    {
+      "name": "thick flattened rice",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fruit salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse poha quickly, drain and let it soften for 5 minutes. Pulse it into a coarse paste rather than a completely smooth liquid.",
+    "Dry-roast semolina for 2–3 minutes without browning. Mix it with poha, curd, measured water and salt into a thick batter; rest 15 minutes so both grains hydrate.",
+    "Set the steamer water to boil and oil the idli moulds. Stir the batter; add a small splash of water only if it is too stiff to spoon.",
+    "Just before steaming, fold in fruit salt gently and fill moulds three-quarters full. Steam for 12–15 minutes until a skewer comes out clean; do not open the lid in the first 10 minutes.",
+    "Rest the idlis for 2 minutes, unmould and serve three soft poha idlis per person with coconut chutney. Add fruit salt only when the steamer is ready."
+  ],
+  "tips": [
+    "A little coarse poha texture makes these idlis softer than using only semolina."
+  ],
+  "allergens": [
+    "wheat",
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/poha-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पोहा इडली",
+      "passiveTime": "पोहा-सूजी का घोल 15 मिनट रखें।",
+      "ingredients": [
+        "मोटा पोहा",
+        "सूजी",
+        "सादा दही",
+        "पानी",
+        "नमक",
+        "फ्रूट सॉल्ट",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "पोहा जल्दी धोकर छानें और 5 मिनट नरम करें। बिल्कुल पतला पीसने के बजाय मोटा पेस्ट बनाएँ।",
+        "सूजी 2–3 मिनट बिना भूरा किए सूखी भूनें। पोहा, दही, नापा पानी और नमक से गाढ़ा घोल मिलाएँ; दोनों अनाज नमी सोखें इसलिए 15 मिनट रखें।",
+        "स्टीमर का पानी उबालें और इडली साँचे में तेल लगाएँ। घोल चलाएँ; चम्मच से न गिरे तभी थोड़ा पानी मिलाएँ।",
+        "भाप में पकाने से ठीक पहले फ्रूट सॉल्ट धीरे मिलाकर साँचे तीन-चौथाई भरें। 12–15 मिनट सींक साफ निकलने तक भाप दें; पहले 10 मिनट ढक्कन न खोलें।",
+        "इडली 2 मिनट रखकर निकालें और हर व्यक्ति को तीन नरम पोहा इडली नारियल चटनी के साथ दें। फ्रूट सॉल्ट स्टीमर तैयार होने पर ही डालें।"
+      ],
+      "tips": [
+        "पोहा की हल्की मोटी बनावट सिर्फ सूजी वाली इडली से अधिक नरमी देती है।"
+      ]
+    },
+    "gu": {
+      "name": "પૌંઆ ઈડલી",
+      "passiveTime": "પૌંઆ-રવાનું ખીરું 15 મિનિટ રાખો.",
+      "ingredients": [
+        "જાડા પૌંઆ",
+        "રવો",
+        "સાદું દહીં",
+        "પાણી",
+        "મીઠું",
+        "ફ્રૂટ સોલ્ટ",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "પૌંઆ ઝડપથી ધોઈ નિતારી 5 મિનિટ નરમ થવા દો. એકદમ પાતળું પીસવાને બદલે જાડી પેસ્ટ બનાવો.",
+        "રવો 2–3 મિનિટ ભૂરો કર્યા વગર કોરો શેકો. પૌંઆ, દહીં, માપેલું પાણી અને મીઠું ભેળવી ઘટ્ટ ખીરું બનાવો; બંને ધાન્ય ભેજ શોષે તે માટે 15 મિનિટ રાખો.",
+        "સ્ટીમરનું પાણી ઉકાળો અને ઈડલી બીબામાં તેલ લગાવો. ખીરું હલાવો; ચમચીથી ન પડે તો જ થોડું પાણી નાખો.",
+        "વરાળમાં બાફતાં પહેલાં જ ફ્રૂટ સોલ્ટ હળવેથી ભેળવી બીબા ત્રણ-ચતુર્થાંશ ભરો. 12–15 મિનિટ સળી ચોખ્ખી નીકળે ત્યાં સુધી બાફો; પહેલી 10 મિનિટ ઢાંકણું ન ખોલો.",
+        "ઈડલી 2 મિનિટ રાખી કાઢો અને દરેકને ત્રણ નરમ પૌંઆ ઈડલી નાળિયેરની ચટણી સાથે આપો. ફ્રૂટ સોલ્ટ સ્ટીમર તૈયાર હોય ત્યારે જ નાખો."
+      ],
+      "tips": [
+        "પૌંઆની થોડી જાડી બનાવટ માત્ર રવાવાળી ઈડલી કરતાં વધારે નરમાઈ આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/poha-idli-recipe-instant-aval-idli/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

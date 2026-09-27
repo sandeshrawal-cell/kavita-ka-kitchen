@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0056",
+  "id": "oats-chilla",
+  "status": "published-first-100-intake-batch",
+  "name": "Oats Chilla",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight chillas",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the oat batter for 10 minutes.",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 260,
+      "unit": "ml"
+    },
+    {
+      "name": "carrot",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared green chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk oat flour, curd, measured water and salt to a smooth, thick batter. Rest 10 minutes so the oat flour hydrates instead of forming dry pockets on the griddle.",
+    "Grate carrot and finely chop onion, chilli and coriander. Fold them and cumin into the batter; add a tablespoon of water only if it no longer spreads with a spoon.",
+    "Heat a lightly oiled flat griddle over medium heat. Spoon one-eighth of the batter into a medium round and spread gently to about 5 mm thick.",
+    "Cook 2–3 minutes until the base is golden and the edges look set. Turn and cook a further 2 minutes until the middle is firm and the vegetables are tender.",
+    "Make eight chillas, using the measured oil a little at a time. Serve two per person with green chutney while warm."
+  ],
+  "tips": [
+    "Oat batter thickens as it rests; adjust only at cooking time."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/oats-chilla.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ओट्स चीला",
+      "passiveTime": "ओट्स का घोल 10 मिनट रखें।",
+      "ingredients": [
+        "ओट्स का आटा",
+        "सादा दही",
+        "पानी",
+        "गाजर",
+        "प्याज़",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "जीरा",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार हरी चटनी"
+      ],
+      "steps": [
+        "ओट्स का आटा, दही, नापा पानी और नमक फेंटकर चिकना गाढ़ा घोल बनाएँ। 10 मिनट रखें ताकि ओट्स पानी सोखें, तवे पर सूखी गांठ न बने।",
+        "गाजर कसें और प्याज़, मिर्च व धनिया बारीक काटें। जीरे के साथ घोल में मिलाएँ; चम्मच से न फैले तभी एक चम्मच पानी डालें।",
+        "सपाट तवा मध्यम आँच पर हल्के तेल से गरम करें। घोल का आठवाँ भाग मध्यम गोल में डालकर लगभग 5 मिमी मोटा धीरे फैलाएँ।",
+        "तला सुनहरा और किनारे जमे होने तक 2–3 मिनट पकाएँ। पलटकर 2 मिनट और पकाएँ जब तक बीच सख्त और सब्ज़ियाँ नरम हों।",
+        "नापा तेल थोड़ा-थोड़ा लगाकर आठ चीले बनाएँ। हर व्यक्ति को दो गरम चीले हरी चटनी के साथ दें।"
+      ],
+      "tips": [
+        "ओट्स का घोल रखने पर गाढ़ा होता है; पकाते समय ही गाढ़ाई ठीक करें।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ ચીલા",
+      "passiveTime": "ઓટ્સનું ખીરું 10 મિનિટ રાખો.",
+      "ingredients": [
+        "ઓટ્સનો લોટ",
+        "સાદું દહીં",
+        "પાણી",
+        "ગાજર",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "લીલી કોથમીર",
+        "જીરું",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર લીલી ચટણી"
+      ],
+      "steps": [
+        "ઓટ્સનો લોટ, દહીં, માપેલું પાણી અને મીઠું ફેંટીને સુંવાળું ઘટ્ટ ખીરું બનાવો. 10 મિનિટ રાખો જેથી ઓટ્સ પાણી શોષે, તવા પર સૂકી ગાંઠ ન બને.",
+        "ગાજર છીણો અને ડુંગળી, મરચું તથા કોથમીર બારીક સમારો. જીરા સાથે ખીરામાં ભેળવો; ચમચીથી ન પથરાય તો જ એક ચમચી પાણી નાખો.",
+        "સપાટ તવો મધ્યમ તાપે થોડું તેલ લગાવી ગરમ કરો. ખીરાનો આઠમો ભાગ મધ્યમ ગોળમાં રેડી આશરે 5 મિમી જાડો હળવેથી પાથરો.",
+        "નીચે સોનેરી અને કિનારી ચડે ત્યાં સુધી 2–3 મિનિટ શેકો. ફેરવી 2 મિનિટ વધુ શેકો, મધ્ય મજબૂત અને શાક નરમ થાય ત્યાં સુધી.",
+        "માપેલું તેલ થોડું થોડું વાપરી આઠ ચીલા બનાવો. દરેકને બે ગરમ ચીલા લીલી ચટણી સાથે આપો."
+      ],
+      "tips": [
+        "ઓટ્સનું ખીરું રાખતાં ઘટ્ટ થાય છે; શેકતી વખતે જ ઘટ્ટતા સુધારો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/oats-chilla-recipe-oats-cheela/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

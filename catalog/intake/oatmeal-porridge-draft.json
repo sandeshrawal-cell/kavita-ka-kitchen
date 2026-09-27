@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0077",
+  "id": "oatmeal-porridge",
+  "status": "published-first-100-intake-batch",
+  "name": "Oatmeal Porridge",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "banana",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Bring milk and water to a gentle simmer in a saucepan.",
+    "Stir in rolled oats and cinnamon. Cook over low heat for 7–9 minutes, stirring often, until the oats are tender and the porridge is creamy.",
+    "Turn off the heat and rest for 2 minutes; add a splash of water if it thickens too much.",
+    "Divide into four bowls. Top each with sliced banana, berries and chopped almonds, and serve warm."
+  ],
+  "tips": [
+    "Rolled oats keep texture better than instant oats."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy",
+    "nuts"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "ओटमील दलिया",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "दूध",
+        "पानी",
+        "केला",
+        "मिश्रित बेरी",
+        "बादाम",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "सॉसपैन में दूध और पानी हल्का उबालें।",
+        "रोल्ड ओट्स और दालचीनी मिलाएँ। धीमी आँच पर 7–9 मिनट बार-बार चलाते हुए पकाएँ, जब तक ओट्स नरम और दलिया मलाईदार न हो।",
+        "आँच बंद करके 2 मिनट रखें; बहुत गाढ़ा हो तो थोड़ा पानी मिलाएँ।",
+        "चार कटोरियों में बाँटें। हर कटोरी पर कटे केले, बेरी और बादाम डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "इंस्टेंट ओट्स के मुकाबले रोल्ड ओट्स की बनावट बेहतर रहती है।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટમીલ પોરિજ",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "દૂધ",
+        "પાણી",
+        "કેળાં",
+        "મિશ્ર બેરી",
+        "બદામ",
+        "તજ પાવડર"
+      ],
+      "steps": [
+        "સોસપેનમાં દૂધ અને પાણી ધીમે ઉકાળો.",
+        "રોલ્ડ ઓટ્સ અને તજ ભેળવો. ધીમા તાપે 7–9 મિનિટ વારંવાર હલાવતા રાંધો, ઓટ્સ નરમ અને પોરિજ મલાઈદાર થાય ત્યાં સુધી.",
+        "તાપ બંધ કરી 2 મિનિટ રાખો; બહુ ઘટ્ટ થાય તો થોડું પાણી ઉમેરો.",
+        "ચાર વાટકામાં વહેંચો. દરેક પર કાપેલાં કેળાં, બેરી અને બદામ નાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ઇન્સ્ટન્ટ ઓટ્સ કરતાં રોલ્ડ ઓટ્સની બનાવટ સારી રહે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/oatmeal-porridge.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

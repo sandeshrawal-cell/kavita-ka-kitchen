@@ -1,0 +1,119 @@
+{
+  "sourceReviewId": "R0017",
+  "id": "mandazi",
+  "status": "published-first-100-intake-batch",
+  "name": "Mandazi",
+  "cuisine": "East African",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 75,
+  "passiveTime": "Rest the kneaded dough for 30 minutes.",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 350,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk the flour, sugar, baking powder, cardamom and salt so the raising agent is evenly distributed. Pour in the coconut milk and mix to a soft dough.",
+    "Knead briefly until smooth, adding only a dusting of flour if very sticky. Cover and rest for 30 minutes; this makes the dough easier to roll without toughening it.",
+    "Roll the dough to about 8 mm thick. Cut into squares, then diagonally into roughly 16 triangles; keep the pieces covered while the oil heats.",
+    "Heat the oil in a deep pan to about 170°C. Fry a few triangles at a time for 2–3 minutes per side, turning once, until puffed and evenly golden with no raw centre.",
+    "Lift out and drain on a rack or paper. Serve warm; split one to check its breadlike crumb before serving the whole batch."
+  ],
+  "tips": [
+    "Keep the oil moderately hot: very hot oil browns the outside before the centre cooks."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/mandazi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मंडाज़ी",
+      "passiveTime": "ગૂંથેલા લોટને 30 મિનિટ આરામ આપો.",
+      "ingredients": [
+        "मैदा",
+        "चीनी",
+        "बेकिंग पाउडर",
+        "पिसी इलायची",
+        "नमक",
+        "नारियल दूध",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "मैदा, चीनी, बेकिंग पाउडर, इलायची और नमक फेंटकर मिलाएँ ताकि फुलाने वाला पाउडर बराबर फैले। नारियल दूध डालकर नरम आटा बनाएँ।",
+        "चिकना होने तक थोड़ा गूँधें; बहुत चिपके तभी थोड़ा मैदा छिड़कें। ढककर 30 मिनट रखें ताकि बिना सख्त हुए बेलना आसान हो।",
+        "आटा लगभग 8 मिमी मोटा बेलें। चौकोर काटें, फिर तिरछा काटकर लगभग 16 त्रिकोण बनाएँ; तेल गरम होने तक ढककर रखें।",
+        "गहरे पैन में तेल लगभग 170°C तक गरम करें। कुछ त्रिकोण एक बार में हर तरफ 2–3 मिनट तलें, एक बार पलटें, जब तक फूले और बराबर सुनहरे हों तथा बीच कच्चा न रहे।",
+        "निकालकर जाली या कागज़ पर तेल निथारें। गरम परोसें; पूरा बैच देने से पहले एक तोड़कर भीतर की ब्रेड जैसी बनावट जाँचें।"
+      ],
+      "tips": [
+        "बहुत तेज तेल से बाहर जल्दी भूरा हो जाएगा और बीच कच्चा रह सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "માંડાઝી",
+      "passiveTime": "गूँधे आटे को 30 मिनट आराम दें।",
+      "ingredients": [
+        "મેંદો",
+        "ખાંડ",
+        "બેકિંગ પાઉડર",
+        "ઈલાયચી પાવડર",
+        "મીઠું",
+        "નાળિયેરનું દૂધ",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "મેંદો, ખાંડ, બેકિંગ પાઉડર, ઈલાયચી અને મીઠું ભેળવો જેથી ફુલાવનાર પાઉડર સરખો ફેલાય. નાળિયેરનું દૂધ રેડી નરમ લોટ બાંધો.",
+        "સરસ થાય ત્યાં સુધી થોડો ગૂંથો; બહુ ચોંટે તો જ થોડો મેંદો છાંટો. ઢાંકી 30 મિનિટ રાખો જેથી કડક થયા વગર વણાય.",
+        "લોટ આશરે 8 મિમી જાડો વણો. ચોરસ કાપી ત્રાંસા કાપથી આશરે 16 ત્રિકોણ કરો; તેલ ગરમ થાય ત્યાં સુધી ઢાંકી રાખો.",
+        "ઊંડા વાસણમાં તેલ આશરે 170°C ગરમ કરો. થોડા ત્રિકોણ એક વખતે દરેક બાજુ 2–3 મિનિટ તળો, એક વાર ફેરવો, ફૂલી સરખા સોનેરી થાય અને અંદર કાચા ન રહે ત્યાં સુધી.",
+        "બહાર કાઢી જાળી કે કાગળ પર તેલ નિતારો. ગરમ પીરસો; આખો જથ્થો આપતાં પહેલાં એક તોડી અંદર બ્રેડ જેવી બનાવટ તપાસો."
+      ],
+      "tips": [
+        "ખૂબ ગરમ તેલમાં બહાર ઝડપથી ભૂરો થાય અને અંદર કાચું રહી શકે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.africanbites.com/mandazi/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

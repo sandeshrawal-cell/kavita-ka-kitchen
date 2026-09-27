@@ -1,0 +1,173 @@
+{
+  "sourceReviewId": "R0067",
+  "id": "nagori-halwa",
+  "status": "published-first-100-intake-batch",
+  "name": "Nagori Halwa",
+  "cuisine": "Delhi",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Sixteen small puris with halwa and sabzi",
+  "prepAndCookMinutes": 80,
+  "passiveTime": "Rest the puri dough for 20 minutes.",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 190,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix plain flour with 50 g of the semolina, 4 g salt and 20 ml oil. Add just enough of the measured water to knead a firm puri dough; cover and rest for 20 minutes.",
+    "Boil potatoes until tender and break them into chunks. Heat 20 ml oil, toast cumin and ginger, cook chopped tomato with turmeric, chilli and remaining salt, then add potato and 200 ml water. Simmer into a spoonable aloo sabzi.",
+    "For halwa, roast the remaining semolina in ghee over low heat until aromatic and lightly golden. Boil 350 ml of the measured water with sugar, then add to the roasted semolina slowly while stirring.",
+    "Cook the halwa until thick and glossy, about 5 minutes. Toast cashews in a little ghee taken from the measured amount and scatter over the halwa.",
+    "Roll the rested dough into 16 small thin discs. Heat the remaining oil to about 175°C and fry each puri briefly on both sides until puffed and lightly golden; drain on a rack.",
+    "Serve four crisp mini puris per person with a separate portion of warm halwa and potato sabzi. Keep sweet and savory components distinct on the plate."
+  ],
+  "tips": [
+    "Prepare the halwa and potato sabzi before frying the puris so the puris arrive crisp."
+  ],
+  "allergens": [
+    "wheat",
+    "milk",
+    "cashew"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "नागोरी हलवा",
+      "passiveTime": "पूरी का आटा 20 मिनट रखें।",
+      "ingredients": [
+        "मैदा",
+        "सूजी",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "चीनी",
+        "घी",
+        "काजू",
+        "आलू",
+        "टमाटर",
+        "अदरक",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर"
+      ],
+      "steps": [
+        "मैदा में 50 ग्राम सूजी, 4 ग्राम नमक और 20 मिली तेल मिलाएँ। नापे पानी में से जरूरत भर डालकर सख्त पूरी का आटा गूँधें; ढककर 20 मिनट रखें।",
+        "आलू नरम उबालकर टुकड़े करें। 20 मिली तेल में जीरा और अदरक भूनें, कटे टमाटर को हल्दी, मिर्च और बाकी नमक के साथ पकाएँ, फिर आलू और 200 मिली पानी डालें। चम्मच से परोसने लायक आलू सब्ज़ी उबालें।",
+        "हलवे के लिए बची सूजी घी में धीमी आँच पर सुगंध और हल्का सुनहरा होने तक भूनें। नापे पानी में से 350 मिली चीनी के साथ उबालें, फिर चलाते हुए भुनी सूजी में धीरे मिलाएँ।",
+        "हलवा लगभग 5 मिनट गाढ़ा चमकदार होने तक पकाएँ। नापे घी में से थोड़ा लेकर काजू भूनें और हलवे पर डालें।",
+        "आराम किए आटे की 16 छोटी पतली पूरियाँ बेलें। बचा तेल लगभग 175°C गरम कर हर पूरी दोनों तरफ थोड़ी देर फूलने और हल्की सुनहरी होने तक तलें; जाली पर निथारें।",
+        "हर व्यक्ति को चार कुरकुरी छोटी पूरियाँ अलग गरम हलवे और आलू सब्ज़ी के साथ दें। प्लेट में मीठा और नमकीन अलग रखें।"
+      ],
+      "tips": [
+        "पूरियाँ कुरकुरी परोसने के लिए तलने से पहले हलवा और आलू सब्ज़ी तैयार रखें।"
+      ]
+    },
+    "gu": {
+      "name": "નાગોરી હલવો",
+      "passiveTime": "પૂરીનો લોટ 20 મિનિટ રાખો.",
+      "ingredients": [
+        "મેંદો",
+        "રવો",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "ખાંડ",
+        "ઘી",
+        "કાજુ",
+        "બટાકા",
+        "ટામેટાં",
+        "આદુ",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાવડર"
+      ],
+      "steps": [
+        "મેંદામાં 50 ગ્રામ રવો, 4 ગ્રામ મીઠું અને 20 મિલી તેલ ભેળવો. માપેલા પાણીમાંથી જરૂર જેટલું નાખી કઠણ પૂરીનો લોટ બાંધો; ઢાંકી 20 મિનિટ રાખો.",
+        "બટાકા નરમ બાફી ટુકડા કરો. 20 મિલી તેલમાં જીરું અને આદુ શેકો, સમારેલા ટામેટાં હળદર, મરચું અને બાકી મીઠા સાથે રાંધો, પછી બટાકા અને 200 મિલી પાણી નાખો. ચમચીથી પીરસી શકાય એવું બટાકાનું શાક ઉકાળો.",
+        "હલવા માટે બાકી રવો ઘીમાં ધીમા તાપે સુગંધ અને આછો સોનેરી થાય ત્યાં સુધી શેકો. માપેલા પાણીમાંથી 350 મિલી ખાંડ સાથે ઉકાળો, પછી હલાવતા શેકેલા રવામાં ધીમે ભેળવો.",
+        "હલવો આશરે 5 મિનિટ ઘટ્ટ ચમકદાર થાય ત્યાં સુધી પકાવો. માપેલા ઘીમાંથી થોડું લઈ કાજુ શેકી હલવા ઉપર નાખો.",
+        "આરામ કરેલા લોટની 16 નાની પાતળી પૂરી વણો. બાકી તેલ આશરે 175°C ગરમ કરી દરેક પૂરી બંને બાજુ થોડા સમય ફૂલે અને આછી સોનેરી થાય ત્યાં સુધી તળો; જાળી પર નિતારો.",
+        "દરેકને ચાર કરકરી નાની પૂરી અલગ ગરમ હલવા અને બટાકાના શાક સાથે આપો. થાળીમાં મીઠું અને ખારું અલગ રાખો."
+      ],
+      "tips": [
+        "પૂરી કરકરી પીરસવા તળતાં પહેલાં હલવો અને બટાકાનું શાક તૈયાર રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/nagori-halwa-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/nagori-halwa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0089",
+  "id": "eggless-buttermilk-pancakes",
+  "status": "published-first-100-intake-batch",
+  "name": "Eggless Buttermilk Pancakes",
+  "cuisine": "American",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small pancakes",
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "buttermilk",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "melted butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk flour, baking powder, baking soda, sugar and salt in a large bowl.",
+    "Whisk buttermilk with 25 g melted butter, then fold into the dry mix just until no dry flour remains; small lumps are fine. Rest 5 minutes.",
+    "Warm a nonstick pan over medium-low heat and brush with some remaining butter. Pour eight small pancakes in batches.",
+    "Cook each 2–3 minutes until bubbles appear and the edges set; flip and cook 1–2 minutes until golden and cooked through.",
+    "Stack warm pancakes and serve with maple syrup and berries."
+  ],
+  "tips": [
+    "Do not overmix; it makes the pancakes tough."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे के छाछ पैनकेक",
+      "ingredients": [
+        "मैदा",
+        "छाछ",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "चीनी",
+        "नमक",
+        "पिघला मक्खन",
+        "मेपल सिरप",
+        "मिश्रित बेरी"
+      ],
+      "steps": [
+        "बड़े कटोरे में मैदा, बेकिंग पाउडर, सोडा, चीनी और नमक फेंटें।",
+        "छाछ में 25 ग्राम पिघला मक्खन मिलाएँ, फिर सूखे मिश्रण में बस सूखा आटा खत्म होने तक मिलाएँ; छोटी गांठें ठीक हैं। 5 मिनट रखें।",
+        "नॉनस्टिक पैन मध्यम-धीमी आँच पर गरम कर बचे मक्खन में से थोड़ा लगाएँ। बैचों में आठ छोटे पैनकेक डालें।",
+        "हर एक को 2–3 मिनट बुलबुले और किनारे जमने तक पकाएँ; पलटकर 1–2 मिनट सुनहरा और अंदर तक पकाएँ।",
+        "गरम पैनकेक ढेर करके मेपल सिरप और बेरी के साथ परोसें।"
+      ],
+      "tips": [
+        "घोल बहुत न फेंटें; पैनकेक सख्त हो जाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાના છાશ પેનકેક",
+      "ingredients": [
+        "મેંદો",
+        "છાશ",
+        "બેકિંગ પાવડર",
+        "બેકિંગ સોડા",
+        "ખાંડ",
+        "મીઠું",
+        "ઓગાળેલું માખણ",
+        "મેપલ સિરપ",
+        "મિશ્ર બેરી"
+      ],
+      "steps": [
+        "મોટી વાટકીમાં મેંદો, બેકિંગ પાવડર, સોડા, ખાંડ અને મીઠું ફેંટો.",
+        "છાશમાં 25 ગ્રામ ઓગાળેલું માખણ ભેળવો, પછી સૂકા મિશ્રણમાં સૂકો લોટ ન રહે એટલું જ ભેળવો; નાની ગાંઠ ચાલે. 5 મિનિટ રાખો.",
+        "નોનસ્ટિક પેન મધ્યમ-ધીમા તાપે ગરમ કરી બાકી માખણમાંથી થોડું લગાવો. ભાગે ભાગે આઠ નાના પેનકેક રેડો.",
+        "દરેકને 2–3 મિનિટ પરપોટા અને કિનારી જામી જાય ત્યાં સુધી રાંધો; પલટી 1–2 મિનિટ સોનેરી અને અંદર સુધી પાકે ત્યાં સુધી શેકો.",
+        "ગરમ પેનકેક ગોઠવી મેપલ સિરપ અને બેરી સાથે પીરસો."
+      ],
+      "tips": [
+        "ખીરું વધુ ન હલાવો; પેનકેક કડક થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-buttermilk-pancakes.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

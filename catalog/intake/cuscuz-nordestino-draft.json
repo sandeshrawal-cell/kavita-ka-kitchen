@@ -1,0 +1,105 @@
+{
+  "sourceReviewId": "R0014",
+  "id": "cuscuz-nordestino",
+  "status": "published-first-100-intake-batch",
+  "name": "Cuscuz Nordestino",
+  "cuisine": "Brazilian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four small cornmeal domes",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Hydrate the cornmeal for 10 minutes before steaming.",
+  "ingredients": [
+    {
+      "name": "coarse flaked cornmeal (flocão)",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "fresh white cheese",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix the coarse flaked cornmeal and salt in a bowl. Sprinkle in the water gradually, rubbing through the grains with fingertips so all are moist but not submerged.",
+    "Cover the moistened grains and leave for 10 minutes. Fluff with a fork and break any large lumps; the grains should hold together lightly when squeezed.",
+    "Fill the bottom of a couscous steamer with water. Loosely spoon the hydrated cornmeal into its perforated upper basket without pressing it down, leaving room for steam to circulate.",
+    "Cover and steam over steadily simmering water for about 15 minutes, until the grains are tender and the top is hot throughout. Add water below if the pan dries; do not let the meal touch the water.",
+    "Turn the cuscuz out onto a plate or divide into four small domes. Top each with a little butter and crumbled fresh white cheese, letting the butter melt into the hot grains. Serve warm."
+  ],
+  "tips": [
+    "Use flocão or another coarse pre-flaked cornmeal; fine corn flour becomes pasty."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/cuscuz-nordestino.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "कुस्कुस नॉरदेस्टिनो",
+      "passiveTime": "भाप में पकाने से पहले मक्के के दाने 10 मिनट भिगोएँ।",
+      "ingredients": [
+        "मोटा परतदार मक्के का आटा",
+        "पानी",
+        "नमक",
+        "मक्खन",
+        "ताज़ा सफेद चीज़"
+      ],
+      "steps": [
+        "कटोरे में मोटा परतदार मक्के का आटा और नमक मिलाएँ। पानी धीरे-धीरे छिड़ककर उँगलियों से दानों में मिलाएँ ताकि सब नम हों, पर पानी में डूबें नहीं।",
+        "भीगे दानों को ढककर 10 मिनट रखें। काँटे से फुलाएँ और बड़ी गुठलियाँ तोड़ें; दबाने पर दाने हल्के से जुड़ने चाहिए।",
+        "कुस्कुस स्टीमर के नीचे पानी भरें। ऊपर के छेददार भाग में नम मक्के का मिश्रण बिना दबाए ढीला भरें ताकि भाप घूम सके।",
+        "ढककर लगातार उबलते पानी की भाप में लगभग 15 मिनट पकाएँ, जब तक दाने नरम और ऊपर तक गरम हों। नीचे पानी कम हो तो बढ़ाएँ; मिश्रण पानी से न छुए।",
+        "कुस्कुस प्लेट पर पलटें या चार छोटे ढेर बनाएँ। हर भाग पर थोड़ा मक्खन और चूरा किया ताज़ा सफेद चीज़ डालें, जिससे मक्खन गरम दानों में पिघले। गरम परोसें।"
+      ],
+      "tips": [
+        "फ्लोकाओ या दूसरा मोटा परतदार मक्के का आटा लें; बारीक मक्के का आटा चिपचिपा हो जाएगा।"
+      ]
+    },
+    "gu": {
+      "name": "કુસ્કુસ નોર્ડેસ્ટિનો",
+      "passiveTime": "વરાળમાં બાફતાં પહેલાં મકાઈના દાણા 10 મિનિટ ભીના રાખો.",
+      "ingredients": [
+        "જાડો મકાઈનો ફ્લેક લોટ",
+        "પાણી",
+        "મીઠું",
+        "માખણ",
+        "તાજું સફેદ ચીઝ"
+      ],
+      "steps": [
+        "વાટકામાં જાડો મકાઈનો ફ્લેક લોટ અને મીઠું ભેળવો. પાણી ધીમે ધીમે છાંટી આંગળીઓથી દાણામાં ભેળવો જેથી બધું ભીનું થાય પણ પાણીમાં ડૂબે નહીં.",
+        "ભીના દાણાને ઢાંકી 10 મિનિટ રાખો. કાંટાથી ફુલાવી મોટી ગાંઠો તોડો; દબાવતાં દાણા હળવેથી ભેગા રહેવા જોઈએ.",
+        "કુસ્કુસ સ્ટીમરના નીચે પાણી ભરો. ઉપરની છિદ્રવાળી ટોપલીમાં ભીનો મકાઈનો લોટ દબાવ્યા વગર ઢીલો ભરો જેથી વરાળ ફરી શકે.",
+        "ઢાંકી ઉકળતા પાણીની વરાળમાં આશરે 15 મિનિટ બાફો, દાણા નરમ અને ઉપર સુધી ગરમ થાય ત્યાં સુધી. નીચે પાણી ઘટે તો ઉમેરો; લોટ પાણીને ન અડે.",
+        "કુસ્કુસ થાળીમાં પલટો અથવા ચાર નાના ઢગલા કરો. દરેક પર થોડું માખણ અને ભૂકો કરેલું તાજું સફેદ ચીઝ મૂકો જેથી માખણ ગરમ દાણામાં ઓગળે. ગરમ પીરસો."
+      ],
+      "tips": [
+        "ફ્લોકાઓ કે બીજો જાડો ફ્લેક મકાઈનો લોટ લો; બારીક મકાઈનો લોટ ચીકણો થઈ જશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.uol.com.br/nossa/cozinha/receitas/2016/12/12/cuscuz-nordestino.htm",
+    "use": "Dish identity and preparation method; quantities and wording independently authored."
+  }
+}

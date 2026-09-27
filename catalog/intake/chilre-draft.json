@@ -1,0 +1,98 @@
+{
+  "sourceReviewId": "R0076",
+  "id": "chilre",
+  "status": "published-first-100-intake-batch",
+  "name": "Chilre",
+  "cuisine": "Himalayan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight thin pancakes",
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 560,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk buckwheat flour, rice flour and salt together. Add measured water gradually to make a pourable batter without lumps.",
+    "Rest the batter for 10 minutes, then stir again; buckwheat settles quickly.",
+    "Heat a lightly oiled flat pan over medium heat. Pour one eighth of the batter and tilt or spread thinly into a 17 cm round.",
+    "Cook 2 minutes until the surface sets, loosen the edge, flip and cook 1 minute more. Repeat with the remaining batter, adding a little oil each time.",
+    "Serve folded with a simple vegetable chutney."
+  ],
+  "tips": [
+    "A thin batter makes the lacy edges characteristic of chilre."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चिलरे",
+      "ingredients": [
+        "कुट्टू का आटा",
+        "चावल का आटा",
+        "पानी",
+        "नमक",
+        "सादा तेल"
+      ],
+      "steps": [
+        "कुट्टू और चावल का आटा तथा नमक मिलाएँ। मापा हुआ पानी धीरे-धीरे डालकर बिना गांठ का बहने वाला घोल बनाएँ।",
+        "घोल 10 मिनट रखें और फिर हिलाएँ; कुट्टू जल्दी नीचे बैठता है।",
+        "हल्के तेल लगे तवे को मध्यम आँच पर गरम करें। घोल का आठवाँ भाग डालकर तवा झुकाते या फैलाते हुए 17 सेमी पतला गोल बनाएँ।",
+        "ऊपर की सतह जमने तक 2 मिनट पकाएँ, किनारा छुड़ाकर पलटें और 1 मिनट और सेंकें। बाकी घोल भी ऐसे ही पकाएँ और हर बार थोड़ा तेल डालें।",
+        "मोड़कर साधारण सब्ज़ी की चटनी के साथ परोसें।"
+      ],
+      "tips": [
+        "पतले घोल से चिलरे के खास जालीदार किनारे बनते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચિલરે",
+      "ingredients": [
+        "કુટ્ટુનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "કુટ્ટુનો અને ચોખાનો લોટ તથા મીઠું ભેળવો. માપેલું પાણી ધીમે ધીમે ઉમેરી ગાંઠ વિનાનું રેડી શકાય એવું ખીરું બનાવો.",
+        "ખીરું 10 મિનિટ રહેવા દો અને ફરી હલાવો; કુટ્ટુ ઝડપથી નીચે બેસે છે.",
+        "હળવા તેલવાળો તવો મધ્યમ તાપે ગરમ કરો. ખીરાનો આઠમો ભાગ રેડી તવો ફેરવી અથવા ફેલાવી 17 સેમીનું પાતળું ગોળ બનાવો.",
+        "ઉપરની સપાટી જામી જાય ત્યાં સુધી 2 મિનિટ શેકો, કિનારી છોડાવી પલટો અને વધુ 1 મિનિટ શેકો. બાકી ખીરું પણ એમ જ શેકો અને દરેક વખતે થોડું તેલ ઉમેરો.",
+        "વાળી સાદી શાકની ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "પાતળા ખીરાથી ચિલરેની ખાસ જાળીદાર કિનારી બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/chilre.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

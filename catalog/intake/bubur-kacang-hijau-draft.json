@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0086",
+  "id": "bubur-kacang-hijau",
+  "status": "published-first-100-intake-batch",
+  "name": "Bubur Kacang Hijau",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 65,
+  "passiveTime": "Soak mung beans for 4 hours.",
+  "ingredients": [
+    {
+      "name": "whole green mung beans",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 950,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "pandan leaf",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse mung beans and soak for 4 hours, then drain. Put them in a pot with measured water, sliced ginger and pandan leaf.",
+    "Bring to a boil, then simmer covered for 35–45 minutes until the beans are tender but still whole; stir occasionally.",
+    "Remove pandan and ginger. Stir in palm sugar and salt until dissolved, then pour in coconut milk.",
+    "Warm gently for 4–5 minutes without a hard boil. Divide into four bowls and serve warm or chilled."
+  ],
+  "tips": [
+    "Coconut milk can split at a rolling boil; add it near the end."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बुबुर कचांग हिजाउ",
+      "passiveTime": "मूंग 4 घंटे भिगोएँ।",
+      "ingredients": [
+        "साबुत हरी मूंग",
+        "पानी",
+        "नारियल दूध",
+        "ताड़ गुड़",
+        "ताज़ा अदरक",
+        "पांडन पत्ता",
+        "नमक"
+      ],
+      "steps": [
+        "मूंग धोकर 4 घंटे भिगोएँ और छानें। मापे पानी, कटे अदरक और पांडन पत्ते के साथ बर्तन में डालें।",
+        "उबालकर ढकें और 35–45 मिनट धीमी आँच पर पकाएँ, जब तक दाने नरम पर साबुत रहें; बीच-बीच में हिलाएँ।",
+        "पांडन और अदरक निकालें। ताड़ गुड़ और नमक घुलने तक मिलाएँ, फिर नारियल दूध डालें।",
+        "बिना तेज उबाले 4–5 मिनट हल्का गरम करें। चार कटोरियों में बाँटकर गरम या ठंडा परोसें।"
+      ],
+      "tips": [
+        "तेज उबाल से नारियल दूध फट सकता है; इसे अंत में डालें।"
+      ]
+    },
+    "gu": {
+      "name": "બુબુર કચાંગ હિજાઉ",
+      "passiveTime": "મગ 4 કલાક પલાળો.",
+      "ingredients": [
+        "આખા લીલા મગ",
+        "પાણી",
+        "નાળિયેરનું દૂધ",
+        "તાડનો ગોળ",
+        "તાજું આદુ",
+        "પાંડનનું પાન",
+        "મીઠું"
+      ],
+      "steps": [
+        "મગ ધોઈ 4 કલાક પલાળી નિતારો. માપેલા પાણી, સમારેલા આદુ અને પાંડનના પાન સાથે વાસણમાં નાખો.",
+        "ઉકાળી ઢાંકી ધીમા તાપે 35–45 મિનિટ રાંધો, દાણા નરમ પણ આખા રહે ત્યાં સુધી; વચ્ચે હલાવો.",
+        "પાંડન અને આદુ કાઢો. તાડનો ગોળ અને મીઠું ઓગળે ત્યાં સુધી ભેળવી પછી નાળિયેરનું દૂધ ઉમેરો.",
+        "જોરથી ઉકાળ્યા વગર 4–5 મિનિટ હળવેથી ગરમ કરો. ચાર વાટકામાં વહેંચી ગરમ કે ઠંડું પીરસો."
+      ],
+      "tips": [
+        "જોરદાર ઉકાળે નાળિયેરનું દૂધ ફાટી શકે; તેને અંતે ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bubur-kacang-hijau.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,159 @@
+{
+  "sourceReviewId": "R0048",
+  "id": "oats-upma",
+  "status": "published-first-100-intake-batch",
+  "name": "Oats Upma",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "No passive preparation required.",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 430,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-toast rolled oats over low heat for 3 minutes until fragrant, then remove them promptly so the flakes stay separate.",
+    "Heat the measured oil in a wide pan, splutter mustard and curry leaves, then soften chopped onion, chilli and ginger for 4–5 minutes over medium heat.",
+    "Add diced carrot and peas to the softened onion mixture and cook for 4 minutes, adding a spoonful of water only if the pan catches.",
+    "Add the toasted oats, 430 ml hot water and salt. Cover for 3–4 minutes until the flakes soften but retain shape; stir gently rather than mashing them.",
+    "Switch off the heat, fluff gently and finish with chopped coriander. Divide into four bowls and serve warm; avoid packing down the grains. Finish with the measured lemon juice."
+  ],
+  "tips": [
+    "Add only enough water to hydrate rolled oats; too much makes porridge instead of upma."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/oats-upma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ओट्स उपमा",
+      "passiveTime": "अतिरिक्त विराम नहीं चाहिए।",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "हरा धनिया",
+        "गाजर",
+        "हरे मटर",
+        "नींबू रस"
+      ],
+      "steps": [
+        "रोल्ड ओट्स धीमी आँच पर 3 मिनट सुगंध आने तक सूखे भूनें, फिर तुरंत निकालें ताकि पत्तियाँ अलग रहें।",
+        "चौड़े पैन में नापा तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कटा प्याज़, मिर्च और अदरक मध्यम आँच पर 4–5 मिनट नरम करें।",
+        "नरम प्याज़ मिश्रण में कटी गाजर और मटर डालकर 4 मिनट पकाएँ; पैन चिपके तो ही एक चम्मच पानी दें।",
+        "भुने ओट्स, 430 मिली गरम पानी और नमक डालें। 3–4 मिनट ढकें जब तक पत्तियाँ नरम पर आकार में रहें; मसलने के बजाय धीरे चलाएँ।",
+        "आँच बंद कर धीरे फुलाएँ और कटा धनिया डालें। चार कटोरियों में बाँटकर गरम परोसें; दानों को दबाएँ नहीं। नापा नींबू रस अंत में मिलाएँ।"
+      ],
+      "tips": [
+        "ओट्स को नम करने भर पानी लें; अधिक से उपमा के बजाय दलिया बनेगा।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ ઉપમા",
+      "passiveTime": "વધારાનો વિરામ જરૂરી નથી.",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "ગાજર",
+        "લીલા વટાણા",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "રોલ્ડ ઓટ્સ ધીમા તાપે 3 મિનિટ સુગંધ આવે ત્યાં સુધી કોરા શેકી તરત કાઢો જેથી પાંખડીઓ અલગ રહે.",
+        "પહોળી કઢાઈમાં માપેલું તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી સમારેલી ડુંગળી, મરચું અને આદુ મધ્યમ તાપે 4–5 મિનિટ નરમ કરો.",
+        "નરમ ડુંગળીના મિશ્રણમાં સમારેલી ગાજર અને વટાણા નાખી 4 મિનિટ રાંધો; તળિયે ચોંટે તો જ એક ચમચી પાણી નાખો.",
+        "શેકેલા ઓટ્સ, 430 મિલી ગરમ પાણી અને મીઠું નાખો. 3–4 મિનિટ ઢાંકો, પાંખડીઓ નરમ પણ આકારમાં રહે ત્યાં સુધી; મસળવાને બદલે હળવેથી હલાવો.",
+        "તાપ બંધ કરી હળવેથી ફુલાવો અને સમારેલી કોથમીર નાખો. ચાર વાટકામાં વહેંચી ગરમ પીરસો; દાણાને દબાવશો નહીં. માપેલો લીંબુનો રસ અંતે ભેળવો."
+      ],
+      "tips": [
+        "ઓટ્સ ભીના કરવા જેટલું જ પાણી લો; વધુથી ઉપમાને બદલે પોરીજ બનશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/oats-upma-recipe-oats-for-breakfast/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R0006",
+  "id": "poha-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Poha Dosa",
+  "aliases": [
+    "Aval Dosa",
+    "Aval Dosai"
+  ],
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast",
+    "Dinner",
+    "No Onion-Garlic"
+  ],
+  "baseServings": 4,
+  "yield": "About eight small, soft dosas",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "Soak for 2–3 hours, then ferment the batter for 4–6 hours in a warm place.",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "thick flattened rice (poha)",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "split urad dal",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh plain curd",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk the fresh curd with the measured drinking water to make a thin buttermilk. Rinse the idli rice, thick poha and split urad dal in a sieve, drain, then cover them with the buttermilk in a deep bowl.",
+    "Soak for 2–3 hours until the rice can be broken between your fingers. Drain the mixture, reserving all the soaking liquid. Blend the grains with that liquid in batches to a smooth, moderately thick batter.",
+    "Transfer to a roomy clean vessel and stir in the salt. Cover loosely and leave in a warm place for 4–6 hours until the batter looks bubbly and smells pleasantly fermented. Do not use it if it smells rotten or shows discoloration.",
+    "Heat a seasoned griddle over medium heat and brush it with a little measured oil. Pour a small ladle of batter and spread gently into a slightly thick circle; do not press out the bubbles. Drizzle a little oil around the edge.",
+    "Cover and cook for 2–3 minutes until the underside is lightly golden and the top is set but still soft and porous. Flip for about 30 seconds only if the top needs it. Repeat with the remaining batter and oil, serving two warm dosas per person."
+  ],
+  "tips": [
+    "The fermented poha-and-rice batter should make tender, porous dosas rather than crisp paper dosas. The tomato chutney shown in the photo is an optional side, not part of this measured recipe."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "dietaryFacts": {
+    "overnightFermentation": false,
+    "yeast": false
+  },
+  "photoDraft": "catalog/intake/photos/poha-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पोहा डोसा",
+      "passiveTime": "2–3 घंटे भिगोएँ, फिर घोल को गरम जगह पर 4–6 घंटे खमीर उठने दें।",
+      "ingredients": [
+        "इडली वाले चावल",
+        "मोटा पोहा",
+        "धुली उड़द दाल",
+        "ताज़ा सादा दही",
+        "पीने का पानी",
+        "नमक",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "ताज़े दही को नापे हुए पीने के पानी के साथ फेंटकर पतली छाछ बनाएँ। इडली चावल, मोटा पोहा और उड़द दाल को छलनी में धोकर छानें, फिर गहरे कटोरे में छाछ से ढक दें।",
+        "2–3 घंटे भिगोएँ, जब तक चावल का दाना उँगलियों के बीच टूटे। मिश्रण छानें और भिगोने का सारा तरल बचाएँ। दानों को उसी तरल के साथ थोड़ी-थोड़ी मात्रा में पीसकर चिकना, मध्यम गाढ़ा घोल बनाएँ।",
+        "बड़े साफ बर्तन में डालकर नमक मिलाएँ। ढीला ढककर गरम जगह पर 4–6 घंटे रखें, जब तक बुलबुले दिखें और अच्छी खमीर की गंध आए। सड़ी गंध या बदला रंग दिखे तो इस्तेमाल न करें।",
+        "तैयार तवा मध्यम आँच पर गरम करके थोड़ा नापा तेल लगाएँ। छोटी करछुल घोल डालकर हल्के से थोड़ा मोटा गोल फैलाएँ; बुलबुले दबाएँ नहीं। किनारे पर थोड़ा तेल डालें।",
+        "ढककर 2–3 मिनट पकाएँ जब तक नीचे हल्का सुनहरा और ऊपर से पका पर नरम व झरझरा रहे। ऊपर जरूरत हो तो ही पलटकर लगभग 30 सेकंड पकाएँ। बचे घोल और तेल से इसी तरह बनाएँ और प्रति व्यक्ति दो गरम डोसे परोसें।"
+      ],
+      "tips": [
+        "खमीर उठे पोहा-चावल के घोल से नरम, छेददार डोसे बनने चाहिए, कागज़ जैसे कुरकुरे नहीं। फोटो की टमाटर चटनी वैकल्पिक साथ है, इस नापी हुई रेसिपी का हिस्सा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પૌંઆ ઢોસા",
+      "passiveTime": "2–3 કલાક પલાળો, પછી ખીરાને ગરમ જગ્યાએ 4–6 કલાક આથો આવવા દો.",
+      "ingredients": [
+        "ઇડલીના ચોખા",
+        "જાડા પૌંઆ",
+        "ફાડેલી અડદની દાળ",
+        "તાજું સાદું દહીં",
+        "પીવાનું પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "તાજા દહીંને માપેલા પીવાના પાણી સાથે ફેંટીને પાતળી છાશ બનાવો. ઇડલીના ચોખા, જાડા પૌંઆ અને અડદની દાળને ચાળણીમાં ધોઈ નિતારો, પછી ઊંડી વાટકામાં છાશથી ઢાંકો.",
+        "2–3 કલાક પલાળો, ચોખાનો દાણો આંગળીઓ વચ્ચે તૂટે ત્યાં સુધી. મિશ્રણ નિતારી પલાળેલું બધું પ્રવાહી સાચવો. દાણાને એ જ પ્રવાહી સાથે થોડા-થોડા પીસીને સરસ, મધ્યમ ઘટ્ટ ખીરું બનાવો.",
+        "મોટા સ્વચ્છ વાસણમાં રેડી મીઠું ભેળવો. ઢીલું ઢાંકી ગરમ જગ્યાએ 4–6 કલાક મૂકો, પરપોટા દેખાય અને સારા આથાની સુગંધ આવે ત્યાં સુધી. સડેલી વાસ કે બદલાયેલો રંગ હોય તો વાપરશો નહીં.",
+        "તૈયાર તવો મધ્યમ તાપે ગરમ કરી થોડું માપેલું તેલ લગાવો. નાનો ચમચો ખીરું રેડી હળવેથી થોડો જાડો ગોળ ઢોસો ફેલાવો; પરપોટા દબાવો નહીં. કિનારે થોડું તેલ નાખો.",
+        "ઢાંકીને 2–3 મિનિટ શેકો, નીચે આછો સોનેરી અને ઉપરથી શેકાયેલો પણ નરમ અને છિદ્રાળુ રહે ત્યાં સુધી. ઉપર જરૂર હોય તો જ ફેરવી આશરે 30 સેકંડ શેકો. બાકી ખીરું અને તેલથી આમ જ બનાવો અને વ્યક્તિ દીઠ બે ગરમ ઢોસા પીરસો."
+      ],
+      "tips": [
+        "આથો આવેલા પૌંઆ-ચોખાના ખીરાથી નરમ, છિદ્રાળુ ઢોસા બનવા જોઈએ, કાગળ જેવા કરકરા નહીં. ફોટાની ટામેટાની ચટણી વૈકલ્પિક છે, આ માપેલી રેસિપીનો ભાગ નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/poha-dosa-poha-dosa-recipe/",
+    "use": "Dish identity and rice-poha-curd-urad fermentation method; quantities and wording independently authored."
+  }
+}

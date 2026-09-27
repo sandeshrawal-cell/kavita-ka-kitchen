@@ -1,0 +1,131 @@
+{
+  "sourceReviewId": "R0060",
+  "id": "dibba-rotti",
+  "status": "published-first-100-intake-batch",
+  "name": "Dibba Rotti",
+  "cuisine": "Andhra",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Two thick rottis",
+  "prepAndCookMinutes": 65,
+  "passiveTime": "Soak urad dal for 4 hours; rest the mixed batter for 30 minutes.",
+  "ingredients": [
+    {
+      "name": "skinned urad dal",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice rava",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak urad dal for 4 hours, drain and grind with some measured water to a thick fluffy paste. Rinse rice rava briefly and drain well.",
+    "Combine urad paste, rice rava, remaining water, salt, cumin, finely chopped chilli and ginger. Rest 30 minutes so the coarse rice hydrates; the batter should be thick enough to mound.",
+    "Heat half the oil in a heavy small pan. Spread half the batter into a thick 2–3 cm disc, cover and cook over very low heat for 12–15 minutes until the bottom forms a deep golden crust.",
+    "Drizzle a little oil over the top, flip carefully and cook uncovered for 8–10 minutes until the second side is crusty and the middle cooked. Repeat with the rest of the batter and oil.",
+    "Cut each thick rotti into wedges and serve warm with coconut chutney. The crisp outer crust and soft coarse-grained middle are essential."
+  ],
+  "tips": [
+    "Do not rush the thick centre over high heat; it needs slow covered cooking."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "डिब्बा रोटी",
+      "passiveTime": "उड़द दाल 4 घंटे भिगोएँ; मिला घोल 30 मिनट रखें।",
+      "ingredients": [
+        "धुली उड़द दाल",
+        "चावल रवा",
+        "पानी",
+        "नमक",
+        "जीरा",
+        "हरी मिर्च",
+        "अदरक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "उड़द दाल 4 घंटे भिगोकर छानें और थोड़े नापे पानी से गाढ़ी फूली पेस्ट पीसें। चावल रवा जल्दी धोकर अच्छी तरह छानें।",
+        "उड़द पेस्ट, चावल रवा, बचा पानी, नमक, जीरा, बारीक मिर्च और अदरक मिलाएँ। मोटा चावल नमी सोखे इसलिए 30 मिनट रखें; घोल ढेर की तरह गाढ़ा हो।",
+        "भारी छोटे पैन में आधा तेल गरम करें। आधा घोल 2–3 सेमी मोटे गोल में फैलाकर ढकें और बहुत धीमी आँच पर 12–15 मिनट नीचे गहरी सुनहरी परत बनने तक पकाएँ।",
+        "ऊपर थोड़ा तेल डालकर सावधानी से पलटें और बिना ढके 8–10 मिनट दूसरी तरफ कुरकुरी और बीच पकी होने तक सेंकें। बचे घोल और तेल से दोहराएँ।",
+        "हर मोटी रोटी के टुकड़े काटकर नारियल चटनी के साथ गरम परोसें। बाहर की कुरकुरी परत और भीतर का नरम दरदरा भाग जरूरी है।"
+      ],
+      "tips": [
+        "तेज आँच पर मोटा बीच जल्दी न पकाएँ; धीमी ढकी आँच चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "ડિબ્બા રોટી",
+      "passiveTime": "અડદ દાળ 4 કલાક પલાળો; ભેળવેલું ખીરું 30 મિનિટ રાખો.",
+      "ingredients": [
+        "ધોળી અડદ દાળ",
+        "ચોખાનો રવો",
+        "પાણી",
+        "મીઠું",
+        "જીરું",
+        "લીલું મરચું",
+        "આદુ",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "અડદ દાળ 4 કલાક પલાળી નિતારી માપેલા થોડા પાણીથી ઘટ્ટ ફૂલેલી પેસ્ટ વાટો. ચોખાનો રવો ઝડપથી ધોઈ સારી રીતે નિતારો.",
+        "અડદની પેસ્ટ, ચોખાનો રવો, બાકી પાણી, મીઠું, જીરું, બારીક મરચું અને આદુ ભેળવો. જાડા ચોખા ભેજ શોષે તે માટે 30 મિનિટ રાખો; ખીરું ઢગલા જેવું ઘટ્ટ હોય.",
+        "જાડા તળિયાવાળી નાની કઢાઈમાં અડધું તેલ ગરમ કરો. અડધું ખીરું 2–3 સેમી જાડા ગોળમાં પાથરી ઢાંકો અને બહુ ધીમા તાપે 12–15 મિનિટ નીચે ઘેરી સોનેરી પોપડી થાય ત્યાં સુધી શેકો.",
+        "ઉપર થોડું તેલ નાખી કાળજીથી ફેરવો અને ઢાંક્યા વગર 8–10 મિનિટ બીજી બાજુ કરકરી અને મધ્ય પાકે ત્યાં સુધી શેકો. બાકી ખીરું અને તેલથી ફરી કરો.",
+        "દરેક જાડી રોટીના કટકા કરી નાળિયેરની ચટણી સાથે ગરમ પીરસો. બહારની કરકરી પોપડી અને અંદરનો નરમ બરછટ ભાગ જરૂરી છે."
+      ],
+      "tips": [
+        "ઊંચા તાપે જાડો મધ્ય ભાગ ઉતાવળે ન શેકો; ધીમો ઢાંકેલો તાપ જોઈએ."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/dibba-rotti-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dibba-rotti.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,175 @@
+{
+  "sourceReviewId": "R0070",
+  "id": "goan-bhaji-pao",
+  "status": "published-first-100-intake-batch",
+  "name": "Goan Bhaji Pao",
+  "cuisine": "Goan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls with pao",
+  "prepAndCookMinutes": 65,
+  "passiveTime": "Soak chickpeas overnight.",
+  "ingredients": [
+    {
+      "name": "dried chickpeas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Goan pao bread",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "lime",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak dried chickpeas overnight, drain and simmer in fresh water until tender, about 50–70 minutes. Reserve 300 ml cooking liquid; boil potatoes until tender and cube them.",
+    "Heat oil in a broad pan, splutter mustard, then soften chopped onion, ginger and garlic over medium heat for 6 minutes.",
+    "Add chopped tomato, coriander powder, turmeric, chilli and salt. Cook 7–8 minutes until the tomato thickens and the oil begins to separate.",
+    "Fold in chickpeas, cubed potato and reserved chickpea liquid. Simmer 10 minutes, mashing a few potato pieces to make a thick but spoonable bhaji.",
+    "Split and warm the Goan pao. Divide the bhaji into four bowls, top with coriander and serve with two pieces of pao and a lime wedge per person."
+  ],
+  "tips": [
+    "A moist bhaji needs the reserved chickpea liquid; plain water makes it less flavorful."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "गोअन भाजी पाव",
+      "passiveTime": "चने रात भर भिगोएँ।",
+      "ingredients": [
+        "सूखे चने",
+        "आलू",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "साधारण वनस्पति तेल",
+        "राई",
+        "पिसा धनिया",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "हरा धनिया",
+        "गोअन पाव",
+        "नींबू"
+      ],
+      "steps": [
+        "सूखे चने रात भर भिगोकर छानें और नए पानी में लगभग 50–70 मिनट नरम पकाएँ। पकाने का 300 मिली पानी बचाएँ; आलू नरम उबालकर टुकड़े करें।",
+        "चौड़े पैन में तेल गरम कर राई चटकाएँ, फिर कटा प्याज़, अदरक और लहसुन मध्यम आँच पर 6 मिनट नरम करें।",
+        "कटा टमाटर, पिसा धनिया, हल्दी, मिर्च और नमक डालें। 7–8 मिनट टमाटर गाढ़ा और तेल अलग होने तक पकाएँ।",
+        "चने, कटे आलू और बचा चने का पानी मिलाएँ। 10 मिनट उबालें, कुछ आलू मसलकर गाढ़ी पर चम्मच से परोसने योग्य भाजी बनाएँ।",
+        "गोअन पाव काटकर गरम करें। भाजी चार कटोरियों में बाँटकर धनिया डालें और हर व्यक्ति को दो पाव टुकड़े तथा नींबू के साथ दें।"
+      ],
+      "tips": [
+        "नम भाजी में बचा चने का पानी लें; सादे पानी से स्वाद कम होगा।"
+      ]
+    },
+    "gu": {
+      "name": "ગોઅન ભાજી પાવ",
+      "passiveTime": "ચણા રાતભર પલાળો.",
+      "ingredients": [
+        "સૂકા ચણા",
+        "બટાકા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "સાદું વનસ્પતિ તેલ",
+        "રાઈ",
+        "ધાણા પાવડર",
+        "હળદર",
+        "લાલ મરચું પાવડર",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "ગોઅન પાવ",
+        "લીંબુ"
+      ],
+      "steps": [
+        "સૂકા ચણા રાતભર પલાળી નિતારી નવા પાણીમાં આશરે 50–70 મિનિટ નરમ બાફો. બાફેલું 300 મિલી પાણી રાખો; બટાકા નરમ બાફી ટુકડા કરો.",
+        "પહોળી કઢાઈમાં તેલ ગરમ કરી રાઈ તતડાવો, પછી સમારેલી ડુંગળી, આદુ અને લસણ મધ્યમ તાપે 6 મિનિટ નરમ કરો.",
+        "સમારેલા ટામેટાં, ધાણા પાવડર, હળદર, મરચું અને મીઠું નાખો. 7–8 મિનિટ ટામેટાં ઘટ્ટ અને તેલ અલગ થાય ત્યાં સુધી રાંધો.",
+        "ચણા, સમારેલા બટાકા અને રાખેલું ચણાનું પાણી ભેળવો. 10 મિનિટ ઉકાળો, થોડા બટાકા મસળી ઘટ્ટ પણ ચમચીથી પીરસી શકાય એવું શાક બનાવો.",
+        "ગોઅન પાવ કાપી ગરમ કરો. ભાજી ચાર વાટકામાં વહેંચી કોથમીર નાખો અને દરેકને પાવના બે ટુકડા તથા લીંબુ સાથે આપો."
+      ],
+      "tips": [
+        "ભેજવાળી ભાજીમાં રાખેલું ચણાનું પાણી લો; સાદા પાણીથી સ્વાદ ઓછો થશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/goan-bhaji-pao-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/goan-bhaji-pao.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

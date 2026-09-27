@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0033",
+  "id": "paneer-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Paneer Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "paneer",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with the measured water to a smooth batter, cover loosely and ferment overnight until visibly risen.",
+    "Stir in salt without flattening the batter. Heat a broad seasoned griddle; a drop of water should dance and evaporate quickly.",
+    "Crumble paneer and finely chop onion, tomato, green chilli and coriander. In 15 ml oil, soften onion, add chilli, turmeric and tomato, and cook until excess tomato liquid evaporates.",
+    "Fold in paneer and coriander and heat for 2 minutes without drying it. Spread the fermented batter into eight medium dosas on a hot griddle, adding the remaining oil around the edges.",
+    "Cook each dosa until the base is golden and the top set. Spoon paneer filling along the middle, fold and serve immediately with coconut chutney; avoid overcooking the paneer."
+  ],
+  "tips": [
+    "Keep the paneer filling moist but not runny, so it stays inside the folded dosa."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/paneer-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पनीर डोसा",
+      "passiveTime": "अनाज 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "हरी मिर्च",
+        "हल्दी",
+        "हरा धनिया",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी से चिकना घोल पीसकर ढीला ढकें और रात भर साफ फूला दिखने तक खमीर उठाएँ।",
+        "नमक मिलाएँ, पर घोल की हवा न निकालें। चौड़ा तैयार तवा गरम करें; पानी की बूँद नाचकर जल्दी सूखनी चाहिए।",
+        "पनीर मसलें और प्याज़, टमाटर, हरी मिर्च और धनिया बारीक काटें। 15 मिली तेल में प्याज़ नरम करें, फिर मिर्च, हल्दी और टमाटर डालकर अतिरिक्त पानी सूखने तक पकाएँ।",
+        "पनीर और धनिया मिलाकर बिना सुखाए 2 मिनट गरम करें। गरम तवे पर खमीरी घोल से आठ मध्यम डोसे फैलाएँ और बचे तेल को किनारों पर डालें।",
+        "हर डोसे का तला सुनहरा और ऊपर जमा होने तक पकाएँ। बीच में पनीर भरावन रखें, मोड़ें और नारियल चटनी के साथ तुरंत परोसें; पनीर ज्यादा न पकाएँ।"
+      ],
+      "tips": [
+        "पनीर भरावन नम रखें पर पानीदार नहीं, ताकि मोड़े डोसे में रहे।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ડોસા",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "પનીર",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલું મરચું",
+        "હળદર",
+        "લીલી કોથમીર",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા પાણીથી સુંવાળું ખીરું વાટી ઢીલું ઢાંકો અને રાતભર સ્પષ્ટ ફૂલે ત્યાં સુધી આથો આવવા દો.",
+        "મીઠું ભેળવો, પણ ખીરાની હવા ન કાઢો. પહોળો તૈયાર તવો ગરમ કરો; પાણીનું ટીપું નાચીને ઝડપથી સુકાવું જોઈએ.",
+        "પનીર ભૂકો કરી ડુંગળી, ટામેટાં, લીલું મરચું અને કોથમીર બારીક સમારો. 15 મિલી તેલમાં ડુંગળી નરમ કરો, પછી મરચું, હળદર અને ટામેટાં નાખી વધારાનું પાણી સૂકાય ત્યાં સુધી રાંધો.",
+        "પનીર અને કોથમીર ભેળવી સુકાવ્યા વગર 2 મિનિટ ગરમ કરો. ગરમ તવા પર આથેલા ખીરાથી આઠ મધ્યમ ડોસા પાથરો અને બાકી તેલ કિનારે નાખો.",
+        "દરેક ડોસાનું તળિયું સોનેરી અને ઉપર ચડી જાય ત્યાં સુધી શેકો. મધ્યમાં પનીરનું પૂરણ મૂકી વાળો અને નાળિયેરની ચટણી સાથે તરત પીરસો; પનીર વધુ ન રાંધો."
+      ],
+      "tips": [
+        "પનીરનું પૂરણ ભેજવાળું પણ પાણીવાળું નહીં રાખો જેથી વાળેલા ડોસામાં રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/paneer-dosa-recipe-paneer-masala-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

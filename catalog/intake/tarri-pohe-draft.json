@@ -1,0 +1,242 @@
+{
+  "sourceReviewId": "R0001",
+  "id": "tarri-pohe",
+  "status": "published-first-100-intake-batch",
+  "name": "Tarri Pohe",
+  "cuisine": "Maharashtrian (Nagpur)",
+  "categories": [
+    "Breakfast",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "passiveTime": "Soak the black chickpeas for 8–12 hours before cooking.",
+  "ingredients": [
+    {
+      "name": "dried black chickpeas",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "thick flattened rice (poha)",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "peanuts",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "dry coconut",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri red chilli powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fine sev",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak the black chickpeas in plenty of water for 8–12 hours, then drain. Put them in a pressure cooker with 650 ml of the measured fresh water and 4 g salt. Cook until completely tender, about 20–25 minutes at pressure, allowing the pressure to release naturally. Keep both the chickpeas and their cooking liquid.",
+    "While the chickpeas cook, toast the dry coconut and sesame seeds in a dry pan over medium-low heat for 2–3 minutes. Blend them with half the onion, the ginger, garlic, half the green chilli, red chilli powder, ground coriander and a little of the chickpea liquid into a smooth, pourable paste.",
+    "Heat 35 ml oil in a deep pan. Add half the cumin seeds, then the remaining onion; cook for 5–6 minutes until golden. Add the spice paste and cook for 7–8 minutes, stirring often, until the raw smell fades and oil glistens at the edges. Add the chopped tomato, turmeric and garam masala; cook for 4 minutes until the tomato softens.",
+    "Add the tender chickpeas and their liquid. Pour in the remaining measured water and simmer for 12–15 minutes, until the gravy is thin enough to ladle over poha but tastes fully cooked. Season with another 4 g salt; if it reduces too far, add a small splash of hot water.",
+    "Rinse the poha briefly in a sieve and drain for 8–10 minutes; the flakes should soften without turning mushy. Heat the remaining oil in a wide pan and fry the peanuts until crisp. Add mustard seeds, remaining cumin, diced potato, remaining green chilli and curry leaves. Cook for 8–10 minutes until the potato is tender, then fold in the poha, 4 g salt and half the coriander. Cover and steam over low heat for 3 minutes.",
+    "Divide the hot poha among four bowls. Ladle the hot chickpea tarri over each portion, then finish with the remaining coriander, fine sev and a little lemon juice. Serve immediately so the poha stays fluffy and the sev remains crisp."
+  ],
+  "tips": [
+    "Keep the tarri thinner than a typical chana curry so it moistens the poha without burying its texture. Increase the chilli only after tasting the finished gravy."
+  ],
+  "allergens": [
+    "peanut",
+    "sesame"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/tarri-pohe.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "तर्री पोहे",
+      "passiveTime": "पकाने से पहले काले चने 8–12 घंटे भिगोएँ।",
+      "ingredients": [
+        "सूखे काले चने",
+        "मोटा पोहा",
+        "पानी",
+        "प्याज",
+        "टमाटर",
+        "आलू",
+        "मूंगफली",
+        "सूखा नारियल",
+        "सफेद तिल",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "साधारण वनस्पति तेल",
+        "जीरा",
+        "राई",
+        "हल्दी पाउडर",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "कड़ी पत्ते",
+        "हरा धनिया",
+        "नींबू का रस",
+        "बारीक सेव",
+        "नमक"
+      ],
+      "steps": [
+        "काले चनों को भरपूर पानी में 8–12 घंटे भिगोकर पानी निकाल दें। उन्हें प्रेशर कुकर में नापे हुए ताज़े पानी में से 650 मिली पानी और 4 ग्राम नमक के साथ डालें। दबाव बनने के बाद लगभग 20–25 मिनट, पूरी तरह नरम होने तक पकाएँ। दबाव अपने आप उतरने दें और चने तथा उनका पकाने वाला पानी दोनों बचाकर रखें।",
+        "चना पकते समय सूखे नारियल और सफेद तिल को सूखी कड़ाही में मध्यम-धीमी आँच पर 2–3 मिनट भूनें। इन्हें आधे प्याज, अदरक, लहसुन, आधी हरी मिर्च, लाल मिर्च पाउडर, धनिया पाउडर और चने के थोड़े पानी के साथ पीसकर चिकना, बहने लायक पेस्ट बनाएँ।",
+        "गहरे पैन में 35 मिली तेल गरम करें। आधा जीरा डालें, फिर बचा प्याज डालकर 5–6 मिनट सुनहरा होने तक पकाएँ। मसाले का पेस्ट मिलाकर 7–8 मिनट चलाते हुए पकाएँ, जब तक कच्ची गंध खत्म हो और किनारों पर तेल दिखे। कटा टमाटर, हल्दी और गरम मसाला डालें; टमाटर नरम होने तक लगभग 4 मिनट पकाएँ।",
+        "पके चने उनके पानी सहित डालें। बचा नापा हुआ पानी मिलाएँ और 12–15 मिनट धीमी आँच पर पकाएँ। तरी इतनी पतली हो कि पोहे पर डाली जा सके, लेकिन मसाला अच्छी तरह पका हुआ लगे। और 4 ग्राम नमक डालें; बहुत गाढ़ी हो जाए तो थोड़ा गरम पानी मिलाएँ।",
+        "पोहे को छलनी में जल्दी से धोकर 8–10 मिनट छानें; दाने नरम हों पर लुगदी न बनें। चौड़ी कड़ाही में बचा तेल गरम करके मूंगफली कुरकुरी तलें। राई, बचा जीरा, छोटे कटे आलू, बची हरी मिर्च और कड़ी पत्ते डालें। आलू नरम होने तक 8–10 मिनट पकाएँ, फिर पोहा, 4 ग्राम नमक और आधा हरा धनिया हल्के हाथ से मिलाएँ। ढककर धीमी आँच पर 3 मिनट भाप में पकाएँ।",
+        "गरम पोहा चार कटोरियों में बाँटें। हर हिस्से पर गरम चने की तरी डालें और ऊपर से बचा हरा धनिया, बारीक सेव और थोड़ा नींबू रस डालें। तुरंत परोसें ताकि पोहा फूला हुआ और सेव कुरकुरी रहे।"
+      ],
+      "tips": [
+        "तरी को सामान्य चना करी से पतला रखें ताकि पोहा नम हो, पर उसकी बनावट बनी रहे। तैयार तरी चखने के बाद ही मिर्च बढ़ाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "તરી પોહે",
+      "passiveTime": "રાંધતાં પહેલાં કાળા ચણાને 8–12 કલાક પલાળો.",
+      "ingredients": [
+        "સૂકા કાળા ચણા",
+        "જાડા પૌંઆ",
+        "પાણી",
+        "ડુંગળી",
+        "ટામેટાં",
+        "બટાકા",
+        "મગફળી",
+        "સૂકું નાળિયેર",
+        "સફેદ તલ",
+        "આદુ",
+        "લસણ",
+        "લીલું મરચું",
+        "સાદું વનસ્પતિ તેલ",
+        "જીરું",
+        "રાઈ",
+        "હળદર પાઉડર",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠા લીમડાના પાન",
+        "કોથમીર",
+        "લીંબુનો રસ",
+        "ઝીણી સેવ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કાળા ચણાને પુષ્કળ પાણીમાં 8–12 કલાક પલાળી પાણી કાઢી નાખો. પ્રેશર કૂકરમાં માપેલા તાજા પાણીમાંથી 650 મિલી પાણી અને 4 ગ્રામ મીઠા સાથે ચણા નાખો. દબાણ આવ્યા પછી આશરે 20–25 મિનિટ સંપૂર્ણ નરમ થાય ત્યાં સુધી રાંધો. દબાણ આપોઆપ ઊતરે પછી ચણા અને તેમનું રાંધેલું પાણી બંને સાચવો.",
+        "ચણા રંધાય ત્યાં સુધી સૂકું નાળિયેર અને સફેદ તલને સૂકી કડાઈમાં મધ્યમથી ધીમા તાપે 2–3 મિનિટ શેકો. અડધી ડુંગળી, આદુ, લસણ, અડધું લીલું મરચું, લાલ મરચું પાઉડર, ધાણા પાઉડર અને ચણાના થોડા પાણી સાથે પીસીને સરસ, રેડી શકાય તેવી પેસ્ટ બનાવો.",
+        "ઊંડી કડાઈમાં 35 મિલી તેલ ગરમ કરો. અડધું જીરું નાખો, પછી બાકી ડુંગળી નાખીને 5–6 મિનિટ સોનેરી થાય ત્યાં સુધી રાંધો. મસાલાની પેસ્ટ ઉમેરી 7–8 મિનિટ વારંવાર હલાવતા રાંધો, કાચી વાસ જતી રહે અને કિનારે તેલ દેખાય ત્યાં સુધી. સમારેલાં ટામેટાં, હળદર અને ગરમ મસાલો નાખો; ટામેટાં નરમ થાય ત્યાં સુધી આશરે 4 મિનિટ રાંધો.",
+        "રાંધેલા ચણા તેમનાં પાણી સાથે નાખો. બાકીનું માપેલું પાણી ઉમેરી 12–15 મિનિટ ધીમે ઉકાળો. તરી એટલી પાતળી રાખો કે પૌંઆ પર રેડી શકાય, પણ મસાલો પૂરો રંધાયેલો લાગે. બીજા 4 ગ્રામ મીઠું નાખો; વધારે ઘટ્ટ થઈ જાય તો થોડું ગરમ પાણી ઉમેરો.",
+        "પૌંઆને ચાળણીમાં ઝડપથી ધોઈ 8–10 મિનિટ નિતારો; દાણા નરમ થાય પણ ચીકણા ન થાય. પહોળી કડાઈમાં બાકી તેલ ગરમ કરી મગફળી કરકરી શેકો. રાઈ, બાકી જીરું, નાના સમારેલા બટાકા, બાકી લીલું મરચું અને મીઠા લીમડાના પાન નાખો. બટાકા નરમ થાય ત્યાં સુધી 8–10 મિનિટ રાંધો, પછી પૌંઆ, 4 ગ્રામ મીઠું અને અડધી કોથમીર હળવે હાથે ભેળવો. ઢાંકીને ધીમા તાપે 3 મિનિટ બાફો.",
+        "ગરમ પૌંઆ ચાર વાટકામાં વહેંચો. દરેક પર ગરમ ચણાની તરી રેડો અને બાકી કોથમીર, ઝીણી સેવ તથા થોડો લીંબુનો રસ નાખો. તરત પીરસો જેથી પૌંઆ ફૂલેલા અને સેવ કરકરી રહે."
+      ],
+      "tips": [
+        "તરીને સામાન્ય ચણા કરી કરતાં પાતળી રાખો જેથી પૌંઆ ભીના થાય પણ તેમની રચના જળવાય. તૈયાર તરી ચાખ્યા પછી જ મરચું વધારો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://ranveerbrar.com/recipes/nagpuri-tarri-poha/",
+    "use": "Regional dish identity and preparation sequence; measured quantities and directions here are independently authored."
+  }
+}

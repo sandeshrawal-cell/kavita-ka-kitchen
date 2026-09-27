@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0015",
+  "id": "adasi",
+  "status": "published-first-100-intake-batch",
+  "name": "Adasi",
+  "cuisine": "Iranian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four breakfast bowls",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak lentils for 20 minutes while preparing the aromatics.",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 950,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "flatbread",
+      "qty": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pick over and rinse the brown lentils; soak for 20 minutes, then drain. Dice the onion finely and crush the garlic.",
+    "Heat 20 ml olive oil in a heavy pan. Cook the onion over medium heat for 7–8 minutes until golden at the edges. Stir in garlic, cumin and turmeric for 30 seconds without burning them.",
+    "Add drained lentils and the measured water. Bring to a boil, then cover loosely and simmer 25–35 minutes, stirring occasionally, until the lentils are soft but still visible. Add a little hot water only if the pan is drying.",
+    "Mash a few spoonfuls of cooked lentils against the side of the pan to thicken the stew. Add salt and pepper; simmer uncovered for 3–5 minutes until spoonable rather than watery.",
+    "Ladle into four bowls. Drizzle the remaining olive oil over the stew, add lemon wedges and serve with flatbread. Let each person squeeze lemon into their warm bowl to taste."
+  ],
+  "tips": [
+    "Brown lentils keep their shape and make a hearty Adasi; red split lentils cook into a different texture."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/adasi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "अदासी",
+      "passiveTime": "दाल को 20 मिनट भिगोएँ और उसी दौरान बाकी सामग्री तैयार करें।",
+      "ingredients": [
+        "साबुत भूरी मसूर",
+        "प्याज़",
+        "लहसुन",
+        "जैतून का तेल",
+        "पिसा जीरा",
+        "हल्दी",
+        "पिसी काली मिर्च",
+        "नमक",
+        "पानी",
+        "नींबू",
+        "सादी रोटी"
+      ],
+      "steps": [
+        "भूरी साबुत मसूर छाँटकर धोएँ; 20 मिनट भिगोकर छानें। प्याज़ बारीक काटें और लहसुन कुचलें।",
+        "भारी पैन में 20 मिली जैतून का तेल गरम करें। मध्यम आँच पर प्याज़ 7–8 मिनट किनारे सुनहरे होने तक पकाएँ। लहसुन, जीरा और हल्दी 30 सेकंड भूनें, जलने न दें।",
+        "छनी दाल और नापा पानी डालें। उबाल आने पर ढक्कन अधखुला रखकर 25–35 मिनट बीच-बीच में चलाते हुए पकाएँ, जब तक दाल नरम हो पर दाने दिखें। पैन सूखने लगे तभी थोड़ा गरम पानी डालें।",
+        "पकी दाल के कुछ चम्मच पैन के किनारे मसलें ताकि गाढ़ी हो। नमक और काली मिर्च डालें; बिना ढके 3–5 मिनट पकाएँ जब तक पतली न रहकर चम्मच से परोसने योग्य हो।",
+        "चार कटोरियों में बाँटें। बचा जैतून तेल ऊपर डालें, नींबू के टुकड़े दें और रोटी के साथ परोसें। हर व्यक्ति अपने गरम कटोरे में स्वादानुसार नींबू निचोड़े।"
+      ],
+      "tips": [
+        "साबुत भूरी मसूर आकार बनाए रखती है और गाढ़ी अदासी देती है; छिली लाल दाल की बनावट अलग होगी।"
+      ]
+    },
+    "gu": {
+      "name": "અદાસી",
+      "passiveTime": "દાળને 20 મિનિટ પલાળો અને તે દરમિયાન બાકીની સામગ્રી તૈયાર કરો.",
+      "ingredients": [
+        "આખી ભૂરી મસૂર",
+        "ડુંગળી",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "જીરું પાવડર",
+        "હળદર",
+        "કાળા મરીનો ભૂકો",
+        "મીઠું",
+        "પાણી",
+        "લીંબુ",
+        "સાદી રોટલી"
+      ],
+      "steps": [
+        "આખી ભૂરી મસૂર વીણી ધોઈ લો; 20 મિનિટ પલાળી નિતારો. ડુંગળી બારીક સમારો અને લસણ કચડો.",
+        "જાડા તળિયાવાળા વાસણમાં 20 મિલી ઓલિવ તેલ ગરમ કરો. મધ્યમ તાપે ડુંગળીની કિનારી સોનેરી થાય ત્યાં સુધી 7–8 મિનિટ પકાવો. લસણ, જીરું અને હળદર 30 સેકન્ડ સાંતળો, બળવા ન દો.",
+        "નિતારેલી દાળ અને માપેલું પાણી ઉમેરો. ઉકળે પછી ઢાંકણું થોડું ખુલ્લું રાખી 25–35 મિનિટ વચ્ચે હલાવતા રાંધો, દાળ નરમ થાય પણ દાણા દેખાય ત્યાં સુધી. વાસણ સૂકાય તો જ થોડું ગરમ પાણી ઉમેરો.",
+        "પકેલી દાળના થોડા ચમચા વાસણની બાજુએ મસળો જેથી ઘટ્ટ બને. મીઠું અને કાળા મરી નાખો; ઢાંક્યા વગર 3–5 મિનિટ રાંધો, પાણી જેવી નહીં પણ ચમચાથી પીરસી શકાય એવી થાય ત્યાં સુધી.",
+        "ચાર વાટકામાં ભરો. બાકી ઓલિવ તેલ ઉપર રેડો, લીંબુના ટુકડા આપો અને રોટલી સાથે પીરસો. દરેક વ્યક્તિ પોતાના ગરમ વાટકામાં સ્વાદ મુજબ લીંબુ નીચોવે."
+      ],
+      "tips": [
+        "આખી ભૂરી મસૂર આકાર રાખે છે અને ભરપૂર અદાસી બને છે; છોલેલી લાલ દાળની બનાવટ જુદી થશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://saffronandherbs.com/2022/07/02/adasi/",
+    "use": "Dish identity and preparation method; quantities and wording independently authored."
+  }
+}

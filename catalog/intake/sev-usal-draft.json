@@ -1,0 +1,175 @@
+{
+  "sourceReviewId": "R0066",
+  "id": "sev-usal",
+  "status": "published-first-100-intake-batch",
+  "name": "Sev Usal",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 70,
+  "passiveTime": "Soak dried white peas overnight.",
+  "ingredients": [
+    {
+      "name": "dried white peas",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fine sev",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "pav bread",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "lemon",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak white peas overnight, drain and simmer in fresh water until soft but intact, roughly 40–60 minutes. Reserve 350 ml cooking liquid.",
+    "Heat oil in a broad pan, toast cumin, soften half the chopped onion with ginger and garlic, then add tomato, chilli powder, coriander powder, turmeric and salt.",
+    "Cook the masala 7–8 minutes until the tomato breaks down. Add cooked peas and reserved liquid and simmer 10 minutes into a spicy spoonable usal; lightly mash a few peas to thicken.",
+    "Divide hot usal among four bowls. Add remaining raw onion, fresh coriander and a generous layer of fine sev only just before serving so the topping remains crisp.",
+    "Serve with lemon wedges and soft pav, allowing each person to squeeze lemon to taste. Keep the peas visible rather than blending the curry smooth."
+  ],
+  "tips": [
+    "Add sev at the last moment or it dissolves into the hot pea gravy."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "सेव उसल",
+      "passiveTime": "सूखे सफेद मटर रात भर भिगोएँ।",
+      "ingredients": [
+        "सूखे सफेद मटर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "साधारण वनस्पति तेल",
+        "जीरा",
+        "लाल मिर्च पाउडर",
+        "पिसा धनिया",
+        "हल्दी",
+        "नमक",
+        "बारीक सेव",
+        "हरा धनिया",
+        "पाव",
+        "नींबू"
+      ],
+      "steps": [
+        "सफेद मटर रात भर भिगोकर छानें और नए पानी में लगभग 40–60 मिनट नरम पर साबुत रहने तक पकाएँ। पकाने का 350 मिली पानी बचाएँ।",
+        "चौड़े पैन में तेल गरम कर जीरा भूनें, कटे प्याज़ का आधा भाग अदरक-लहसुन के साथ नरम करें, फिर टमाटर, लाल मिर्च, पिसा धनिया, हल्दी और नमक डालें।",
+        "मसाला 7–8 मिनट टमाटर गलने तक पकाएँ। पके मटर और बचा पानी डालकर 10 मिनट मसालेदार चम्मच से परोसने योग्य उसल बनाएँ; गाढ़ा करने को कुछ मटर मसलें।",
+        "गरम उसल चार कटोरियों में बाँटें। बचे कच्चे प्याज़, धनिया और खूब बारीक सेव परोसने से ठीक पहले डालें ताकि कुरकुरी रहे।",
+        "नींबू के टुकड़े और नरम पाव के साथ दें, हर व्यक्ति स्वादानुसार नींबू निचोड़े। मटर दिखते रहें, करी को चिकना न पीसें।"
+      ],
+      "tips": [
+        "सेव आखिरी समय डालें, नहीं तो गरम मटर की ग्रेवी में घुल जाएगी।"
+      ]
+    },
+    "gu": {
+      "name": "સેવ ઉસળ",
+      "passiveTime": "સૂકા સફેદ વટાણા રાતભર પલાળો.",
+      "ingredients": [
+        "સૂકા સફેદ વટાણા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "સાદું વનસ્પતિ તેલ",
+        "જીરું",
+        "લાલ મરચું પાવડર",
+        "ધાણા પાવડર",
+        "હળદર",
+        "મીઠું",
+        "ઝીણી સેવ",
+        "લીલી કોથમીર",
+        "પાવ",
+        "લીંબુ"
+      ],
+      "steps": [
+        "સફેદ વટાણા રાતભર પલાળી નિતારી નવા પાણીમાં આશરે 40–60 મિનિટ નરમ પણ આખા રહે ત્યાં સુધી બાફો. બાફેલું 350 મિલી પાણી રાખો.",
+        "પહોળી કઢાઈમાં તેલ ગરમ કરી જીરું શેકો, સમારેલી ડુંગળીનો અડધો ભાગ આદુ-લસણ સાથે નરમ કરો, પછી ટામેટાં, લાલ મરચું, ધાણા પાવડર, હળદર અને મીઠું નાખો.",
+        "મસાલો 7–8 મિનિટ ટામેટાં ગળે ત્યાં સુધી રાંધો. બાફેલા વટાણા અને રાખેલું પાણી નાખી 10 મિનિટ મસાલેદાર ચમચીથી પીરસી શકાય એવું ઉસળ બનાવો; ઘટ્ટ કરવા થોડા વટાણા મસળો.",
+        "ગરમ ઉસળ ચાર વાટકામાં વહેંચો. બાકી કાચી ડુંગળી, કોથમીર અને ભરપૂર ઝીણી સેવ પીરસતાં પહેલાં જ નાખો જેથી કરકરી રહે.",
+        "લીંબુના ટુકડા અને નરમ પાવ સાથે આપો, દરેક સ્વાદ મુજબ લીંબુ નીચોવે. વટાણા દેખાય એવા રાખો, કરી સુંવાળી વાટી ન નાખો."
+      ],
+      "tips": [
+        "સેવ છેલ્લે નાખો, નહિતર ગરમ વટાણાની ગ્રેવીમાં ઓગળી જશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/sev-usal-recipe-vadodara-sev-usal/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/sev-usal.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

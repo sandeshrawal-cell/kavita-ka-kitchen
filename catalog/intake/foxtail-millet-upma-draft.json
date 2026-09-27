@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R0050",
+  "id": "foxtail-millet-upma",
+  "status": "published-first-100-intake-batch",
+  "name": "Foxtail Millet Upma",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "No passive preparation required.",
+  "ingredients": [
+    {
+      "name": "foxtail millet",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse foxtail millet two or three times and drain well. Leave it in the sieve while preparing the vegetables so the grains do not become waterlogged.",
+    "Heat the measured oil in a wide pan, splutter mustard and curry leaves, then soften chopped onion, chilli and ginger for 4–5 minutes over medium heat.",
+    "Dice carrot and beans small, then cook with peas in the softened onion mixture for 4 minutes until the vegetables are bright but not mushy.",
+    "Add drained millet, 650 ml hot water and salt. Cover and simmer 12–15 minutes until the grains are tender and the water absorbed; rest covered for 5 minutes before fluffing.",
+    "Switch off the heat, fluff gently and finish with chopped coriander. Divide into four bowls and serve warm; avoid packing down the grains. Finish with the measured lemon juice."
+  ],
+  "tips": [
+    "Resting the covered millet separates the small grains without drying them."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/foxtail-millet-upma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "कंगनी उपमा",
+      "passiveTime": "अतिरिक्त विराम नहीं चाहिए।",
+      "ingredients": [
+        "कंगनी बाजरा",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "हरा धनिया",
+        "गाजर",
+        "हरे मटर",
+        "हरी फलियाँ",
+        "नींबू रस"
+      ],
+      "steps": [
+        "कंगनी दो-तीन बार धोकर अच्छी तरह छानें। सब्ज़ियाँ तैयार करते समय छलनी में रखें ताकि दाने पानी से भारी न हों।",
+        "चौड़े पैन में नापा तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कटा प्याज़, मिर्च और अदरक मध्यम आँच पर 4–5 मिनट नरम करें।",
+        "गाजर और फलियाँ छोटे टुकड़ों में काटकर नरम प्याज़ मिश्रण में मटर के साथ 4 मिनट चटक रंग रहने और गलने से पहले तक पकाएँ।",
+        "छनी कंगनी, 650 मिली गरम पानी और नमक डालें। ढककर 12–15 मिनट दाने नरम और पानी सोखने तक पकाएँ; फुलाने से पहले 5 मिनट ढका रखें।",
+        "आँच बंद कर धीरे फुलाएँ और कटा धनिया डालें। चार कटोरियों में बाँटकर गरम परोसें; दानों को दबाएँ नहीं। नापा नींबू रस अंत में मिलाएँ।"
+      ],
+      "tips": [
+        "ढकी कंगनी को रखने से छोटे दाने बिना सूखे अलग होते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કાંગ ઉપમા",
+      "passiveTime": "વધારાનો વિરામ જરૂરી નથી.",
+      "ingredients": [
+        "કાંગ",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "ગાજર",
+        "લીલા વટાણા",
+        "લીલા ફણસી",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "કાંગ બે-ત્રણ વાર ધોઈ સારી રીતે નિતારો. શાક તૈયાર કરો ત્યારે ચાળણીમાં રાખો જેથી દાણા પાણીથી ભારે ન થાય.",
+        "પહોળી કઢાઈમાં માપેલું તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી સમારેલી ડુંગળી, મરચું અને આદુ મધ્યમ તાપે 4–5 મિનિટ નરમ કરો.",
+        "ગાજર અને ફણસી નાની કાપી નરમ ડુંગળીના મિશ્રણમાં વટાણા સાથે 4 મિનિટ રંગ ચમકે પણ ગળી ન જાય ત્યાં સુધી રાંધો.",
+        "નિતારેલી કાંગ, 650 મિલી ગરમ પાણી અને મીઠું નાખો. ઢાંકી 12–15 મિનિટ દાણા નરમ અને પાણી શોષાય ત્યાં સુધી રાંધો; ફુલાવતા પહેલાં 5 મિનિટ ઢાંકેલું રાખો.",
+        "તાપ બંધ કરી હળવેથી ફુલાવો અને સમારેલી કોથમીર નાખો. ચાર વાટકામાં વહેંચી ગરમ પીરસો; દાણાને દબાવશો નહીં. માપેલો લીંબુનો રસ અંતે ભેળવો."
+      ],
+      "tips": [
+        "ઢાંકેલી કાંગને આરામ આપવાથી નાના દાણા સુકાયા વગર અલગ થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.indianhealthyrecipes.com/millet-upma-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

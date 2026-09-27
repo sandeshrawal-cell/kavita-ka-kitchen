@@ -1,0 +1,156 @@
+{
+  "sourceReviewId": "R0009",
+  "id": "cabbage-paratha",
+  "status": "published-first-100-intake-batch",
+  "name": "Cabbage Paratha",
+  "aliases": [
+    "Patta Gobhi Paratha"
+  ],
+  "cuisine": "North Indian",
+  "categories": [
+    "Breakfast",
+    "Lunch",
+    "Breads",
+    "No Onion-Garlic"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small stuffed parathas",
+  "prepAndCookMinutes": 55,
+  "passiveTime": "Rest the wheat dough for 20 minutes.",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dry mango powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix the whole wheat flour with 4 g salt and 10 ml oil. Add the measured water gradually and knead for 6–7 minutes into a smooth, pliable dough. Cover and rest for 20 minutes while making the filling.",
+    "Grate the cabbage finely, toss with 3 g salt and leave for 10 minutes. Squeeze out its liquid firmly so the filling will not tear the dough. Finely chop the green chilli, ginger and coriander.",
+    "Heat 10 ml oil in a pan and briefly toast the cumin. Add the squeezed cabbage, chilli, ginger and turmeric; cook for 4–5 minutes until the raw cabbage smell fades and the pan looks dry. Turn off the heat, stir in dry mango powder, coriander and remaining 3 g salt, then cool completely.",
+    "Divide the dough and filling into eight portions. Roll each dough ball into a small disc, put one portion of cool filling in the middle, pinch the edges closed and gently flatten. Dust with a little of the measured flour if needed, then roll to about 15 cm without exposing the filling.",
+    "Heat a heavy griddle over medium heat. Cook a paratha until small spots appear, flip, brush with some of the remaining oil and cook until golden patches form. Flip again, brush the other side and press the edges so the wheat dough cooks all the way through.",
+    "Cook the remaining parathas with the remaining oil. Serve two hot parathas per person; cut one open to verify the cabbage filling is warm and the inner dough is not raw."
+  ],
+  "tips": [
+    "Drying and cooling the cabbage filling prevents torn, soggy parathas. The plain curd in the photo is an optional accompaniment, not part of the measured recipe."
+  ],
+  "allergens": [
+    "gluten"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/cabbage-paratha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पत्ता गोभी पराठा",
+      "passiveTime": "गेहूँ का आटा गूँधकर 20 मिनट रखें।",
+      "ingredients": [
+        "साबुत गेहूँ का आटा",
+        "पीने का पानी",
+        "पत्ता गोभी",
+        "साधारण वनस्पति तेल",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "हल्दी पाउडर",
+        "अमचूर पाउडर",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "साबुत गेहूँ के आटे में 4 ग्राम नमक और 10 मिली तेल मिलाएँ। नापा हुआ पानी धीरे-धीरे डालकर 6–7 मिनट गूँधें, चिकना नरम आटा बने। ढककर 20 मिनट रखें और इस बीच भरावन बनाएँ।",
+        "पत्ता गोभी बारीक कसें, 3 ग्राम नमक मिलाकर 10 मिनट रखें। उसका पानी मजबूती से निचोड़ें ताकि भरावन आटा न फाड़े। हरी मिर्च, अदरक और हरा धनिया बारीक काटें।",
+        "पैन में 10 मिली तेल गरम करके जीरा थोड़ी देर भूनें। निचोड़ी गोभी, मिर्च, अदरक और हल्दी डालकर 4–5 मिनट पकाएँ, कच्ची गंध जाए और पैन सूखा लगे तब तक। आँच बंद करके अमचूर, धनिया और बचा 3 ग्राम नमक मिलाएँ; पूरी तरह ठंडा करें।",
+        "आटे और भरावन के आठ-आठ हिस्से करें। हर आटे की लोई छोटी बेलकर बीच में ठंडी भरावन रखें, किनारे बंद करके हल्के से दबाएँ। जरूरत हो तो नापे आटे में से थोड़ा छिड़ककर लगभग 15 सेमी बेलें, भरावन बाहर न निकले।",
+        "भारी तवा मध्यम आँच पर गरम करें। पराठे पर छोटे धब्बे आने तक सेकें, पलटें, बचे तेल में से थोड़ा लगाकर सुनहरे धब्बे आने तक पकाएँ। फिर पलटकर दूसरी ओर तेल लगाएँ और किनारे दबाएँ ताकि आटा अंदर तक पक जाए।",
+        "बचे पराठे बचे तेल से सेकें। प्रति व्यक्ति दो गरम पराठे परोसें; एक काटकर जाँचें कि गोभी गरम और अंदर का आटा कच्चा न हो।"
+      ],
+      "tips": [
+        "गोभी की भरावन सूखी और ठंडी रखने से पराठा फटता या गीला नहीं होता। फोटो में सादा दही केवल वैकल्पिक साथ है, नापी हुई रेसिपी का हिस्सा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "કોબી પરાઠા",
+      "passiveTime": "ઘઉંનો લોટ બાંધી 20 મિનિટ રાખો.",
+      "ingredients": [
+        "આખા ઘઉંનો લોટ",
+        "પીવાનું પાણી",
+        "કોબી",
+        "સાદું વનસ્પતિ તેલ",
+        "લીલું મરચું",
+        "આદુ",
+        "જીરું",
+        "હળદર પાઉડર",
+        "આમચૂર પાઉડર",
+        "કોથમીર",
+        "મીઠું"
+      ],
+      "steps": [
+        "આખા ઘઉંના લોટમાં 4 ગ્રામ મીઠું અને 10 મિલી તેલ ભેળવો. માપેલું પાણી ધીમે-ધીમે ઉમેરી 6–7 મિનિટ બાંધી સરસ નરમ લોટ બનાવો. ઢાંકીને 20 મિનિટ રાખો અને તે દરમિયાન પૂરણ બનાવો.",
+        "કોબી ઝીણી છીણી 3 ગ્રામ મીઠું ભેળવી 10 મિનિટ રાખો. તેનું પાણી બરાબર નીચોવો જેથી પૂરણ લોટને ફાડે નહીં. લીલું મરચું, આદુ અને કોથમીર ઝીણાં સમારો.",
+        "પેનમાં 10 મિલી તેલ ગરમ કરી જીરું થોડું શેકો. નીચોવેલી કોબી, મરચું, આદુ અને હળદર નાખી 4–5 મિનિટ રાંધો, કાચી વાસ જાય અને પેન સૂકું લાગે ત્યાં સુધી. તાપ બંધ કરી આમચૂર, કોથમીર અને બાકી 3 ગ્રામ મીઠું ભેળવો; સંપૂર્ણ ઠંડું કરો.",
+        "લોટ અને પૂરણના આઠ-આઠ ભાગ કરો. દરેક લૂવો નાનો વણી વચ્ચે ઠંડું પૂરણ મૂકો, કિનારી બંધ કરી હળવેથી દબાવો. જરૂર પડે તો માપેલા લોટમાંથી થોડો છાંટી આશરે 15 સેમી વણો, પૂરણ બહાર ન નીકળે.",
+        "ભારે તવો મધ્યમ તાપે ગરમ કરો. પરાઠા પર નાના ડાઘ પડે ત્યાં સુધી શેકો, ફેરવો, બાકી તેલમાંથી થોડું લગાવી સોનેરી ડાઘ પડે ત્યાં સુધી શેકો. ફરી ફેરવી બીજી બાજુ તેલ લગાવો અને કિનારી દબાવો જેથી લોટ અંદર સુધી શેકાય.",
+        "બાકીના પરાઠા બાકી તેલથી શેકો. વ્યક્તિ દીઠ બે ગરમ પરાઠા પીરસો; એક કાપીને તપાસો કે કોબી ગરમ અને અંદરનો લોટ કાચો ન હોય."
+      ],
+      "tips": [
+        "કોબીનું પૂરણ સૂકું અને ઠંડું રાખવાથી પરાઠા ફાટતા કે ભીના થતા નથી. ફોટામાં સાદું દહીં ફક્ત વૈકલ્પિક સાથે પીરસવાનું છે, માપેલી રેસિપીનો ભાગ નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/cabbage-paratha-recipe/",
+    "use": "Stuffed paratha dish identity and moisture-control technique; quantities and wording independently authored."
+  }
+}

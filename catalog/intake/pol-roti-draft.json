@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0075",
+  "id": "pol-roti",
+  "status": "published-first-100-intake-batch",
+  "name": "Pol Roti",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight coconut rotis",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, grated coconut, finely chopped onion and chilli, and salt in a bowl.",
+    "Add water gradually and knead just until a soft dough forms. Add only enough of the measured water to bind; rest covered for 10 minutes.",
+    "Divide into eight pieces. Pat each between lightly oiled hands to a thick 12 cm round; do not roll paper thin.",
+    "Cook on a medium-hot dry tawa for 3–4 minutes a side until brown spots form and the center cooks through. Brush lightly with oil near the end.",
+    "Serve hot with a vegetarian onion-and-chilli sambol."
+  ],
+  "tips": [
+    "Fresh coconut gives the characteristic tender crumb; desiccated coconut needs more water."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "पोल रोटी",
+      "ingredients": [
+        "मैदा",
+        "ताज़ा कद्दूकस नारियल",
+        "प्याज़",
+        "हरी मिर्च",
+        "नमक",
+        "पानी",
+        "सादा तेल"
+      ],
+      "steps": [
+        "कटोरे में मैदा, कद्दूकस नारियल, बारीक कटा प्याज़ और मिर्च तथा नमक मिलाएँ।",
+        "धीरे-धीरे पानी डालकर बस मुलायम आटा बनाएँ। मापे हुए पानी में से जितना बँधने के लिए चाहिए उतना ही लें; ढककर 10 मिनट रखें।",
+        "आठ भाग करें। हल्के तेल लगे हाथों से हर भाग की 12 सेमी मोटी रोटी थपथपाएँ; बहुत पतली न करें।",
+        "मध्यम गरम सूखे तवे पर हर ओर 3–4 मिनट सेंकें, जब तक भूरे चित्ते और अंदर तक पकावट न हो। अंत में हल्का तेल लगाएँ।",
+        "शाकाहारी प्याज़-मिर्च सम्बोल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "ताज़ा नारियल से रोटी नरम बनती है; सूखे नारियल में अधिक पानी लगेगा।"
+      ]
+    },
+    "gu": {
+      "name": "પોલ રોટી",
+      "ingredients": [
+        "મેંદો",
+        "તાજું છીણેલું નાળિયેર",
+        "ડુંગળી",
+        "લીલા મરચાં",
+        "મીઠું",
+        "પાણી",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "વાટકામાં મેંદો, છીણેલું નાળિયેર, ઝીણી સમારેલી ડુંગળી-મરચાં અને મીઠું ભેળવો.",
+        "ધીમે ધીમે પાણી ઉમેરી નરમ લોટ બાંધો. માપેલા પાણીમાંથી બાંધવા જેટલું જ લો; ઢાંકી 10 મિનિટ રાખો.",
+        "આઠ ભાગ કરો. હળવા તેલવાળા હાથથી દરેકની 12 સેમીની જાડી રોટલી થાપો; બહુ પાતળી ન કરો.",
+        "મધ્યમ ગરમ સૂકા તવા પર દરેક બાજુ 3–4 મિનિટ શેકો, ભૂરા ડાઘ પડે અને અંદર સુધી પાકે ત્યાં સુધી. અંતે થોડું તેલ લગાવો.",
+        "શાકાહારી ડુંગળી-મરચાં સંબોલ સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "તાજા નાળિયેરથી રોટલી નરમ બને છે; સૂકા નાળિયેરમાં વધુ પાણી જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pol-roti.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,138 @@
+{
+  "sourceReviewId": "R0031",
+  "id": "schezwan-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Schezwan Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian Schezwan sauce",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "capsicum",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with the measured water to a smooth batter, cover loosely and ferment overnight until visibly risen.",
+    "Stir in salt without flattening the batter. Heat a broad seasoned griddle; a drop of water should dance and evaporate quickly.",
+    "Shred cabbage, carrot and capsicum into thin strips. Heat 15 ml oil and stir-fry the vegetables over high heat for 3–4 minutes so they stay a little crisp.",
+    "Heat a griddle and spread fermented batter into eight medium-thin dosas. Drizzle the remaining oil around each and cook until the underside is golden.",
+    "Spread a thin layer of vegetarian Schezwan sauce over the set top, add the hot vegetables and fold. Serve immediately; use a sauce whose label confirms vegetarian ingredients."
+  ],
+  "tips": [
+    "Use a confirmed vegetarian sauce: some bottled chilli sauces contain seafood."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/schezwan-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "शेज़वान डोसा",
+      "passiveTime": "अनाज 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "शाकाहारी शेज़वान सॉस",
+        "पत्ता गोभी",
+        "गाजर",
+        "शिमला मिर्च",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी से चिकना घोल पीसकर ढीला ढकें और रात भर साफ फूला दिखने तक खमीर उठाएँ।",
+        "नमक मिलाएँ, पर घोल की हवा न निकालें। चौड़ा तैयार तवा गरम करें; पानी की बूँद नाचकर जल्दी सूखनी चाहिए।",
+        "पत्ता गोभी, गाजर और शिमला मिर्च पतली लंबी कतरन में काटें। 15 मिली तेल गरम कर तेज आँच पर 3–4 मिनट भूनें ताकि हल्का कुरकुरापन रहे।",
+        "तवा गरम कर खमीरी घोल से आठ मध्यम-पतले डोसे फैलाएँ। बचे तेल को हर डोसे के किनारे डालें और तला सुनहरा होने तक पकाएँ।",
+        "जमे हुए ऊपरी भाग पर शाकाहारी शेज़वान सॉस की पतली परत लगाएँ, गरम सब्ज़ी रखें और मोड़ें। तुरंत परोसें; ऐसी सॉस लें जिसके लेबल पर शाकाहारी सामग्री की पुष्टि हो।"
+      ],
+      "tips": [
+        "पक्की शाकाहारी सॉस लें; कुछ बोतलबंद चिली सॉस में समुद्री भोजन होता है।"
+      ]
+    },
+    "gu": {
+      "name": "સેઝવાન ડોસા",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "શાકાહારી સેઝવાન સોસ",
+        "કોબી",
+        "ગાજર",
+        "કેપ્સિકમ",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા પાણીથી સુંવાળું ખીરું વાટી ઢીલું ઢાંકો અને રાતભર સ્પષ્ટ ફૂલે ત્યાં સુધી આથો આવવા દો.",
+        "મીઠું ભેળવો, પણ ખીરાની હવા ન કાઢો. પહોળો તૈયાર તવો ગરમ કરો; પાણીનું ટીપું નાચીને ઝડપથી સુકાવું જોઈએ.",
+        "કોબી, ગાજર અને કેપ્સિકમ પાતળી લાંબી પટ્ટીમાં કાપો. 15 મિલી તેલ ગરમ કરી ઊંચા તાપે 3–4 મિનિટ સાંતળો જેથી થોડું કરકરું રહે.",
+        "તવો ગરમ કરી આથેલા ખીરાથી આઠ મધ્યમ-પાતળા ડોસા પાથરો. બાકી તેલ દરેકની કિનારે નાખી તળિયું સોનેરી થાય ત્યાં સુધી શેકો.",
+        "ચડેલી ઉપરની સપાટી પર શાકાહારી સેઝવાન સોસની પાતળી પરત લગાવો, ગરમ શાક મૂકી વાળો. તરત પીરસો; લેબલ પર શાકાહારી સામગ્રીની ખાતરીવાળો સોસ લો."
+      ],
+      "tips": [
+        "ખાતરીવાળી શાકાહારી સોસ લો; કેટલીક બોટલવાળી ચીલી સોસમાં સમુદ્રી ખોરાક હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/schezwan-dosa-recipe-schezwan-masala-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "sourceReviewId": "R0085",
+  "id": "champorado",
+  "status": "published-first-100-intake-batch",
+  "name": "Champorado",
+  "cuisine": "Filipino",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse glutinous rice briefly. Bring it and measured water to a boil in a heavy pot.",
+    "Reduce heat and simmer 20–25 minutes, stirring often, until the rice is very tender and the mixture is thick.",
+    "Whisk cocoa with a little hot liquid from the pot until smooth, then stir it back with brown sugar and salt. Cook 3 more minutes.",
+    "Spoon into four bowls and drizzle each with milk. Serve warm."
+  ],
+  "tips": [
+    "Stir frequently near the end because the sticky rice catches easily."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चंपोराडो",
+      "ingredients": [
+        "चिपचिपे चावल",
+        "पानी",
+        "बिना मीठा कोको पाउडर",
+        "भूरी चीनी",
+        "दूध",
+        "नमक"
+      ],
+      "steps": [
+        "चिपचिपे चावल जल्दी धोएँ। भारी बर्तन में इन्हें मापे पानी के साथ उबालें।",
+        "आँच धीमी कर 20–25 मिनट बार-बार चलाते हुए पकाएँ, जब तक चावल बहुत नरम और मिश्रण गाढ़ा न हो।",
+        "कोको में बर्तन का थोड़ा गरम पानी मिलाकर चिकना घोल बनाएँ, फिर इसे भूरी चीनी और नमक सहित वापस मिलाएँ। 3 मिनट और पकाएँ।",
+        "चार कटोरियों में डालें और हर कटोरी पर दूध डालें। गरम परोसें।"
+      ],
+      "tips": [
+        "अंत में बार-बार चलाएँ; चिपचिपे चावल जल्दी तले में लगते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચંપોરાડો",
+      "ingredients": [
+        "ચીકણા ચોખા",
+        "પાણી",
+        "મીઠાશ વગરનો કોકો પાવડર",
+        "ભૂરી ખાંડ",
+        "દૂધ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચીકણા ચોખા ઝડપથી ધુઓ. જાડા વાસણમાં માપેલા પાણી સાથે ઉકાળો.",
+        "તાપ ઓછો કરી 20–25 મિનિટ વારંવાર હલાવતા રાંધો, ચોખા ખૂબ નરમ અને મિશ્રણ ઘટ્ટ થાય ત્યાં સુધી.",
+        "કોકોને વાસણના થોડા ગરમ પ્રવાહી સાથે લીસું ફેંટો, પછી ભૂરી ખાંડ અને મીઠા સાથે પાછું ઉમેરો. વધુ 3 મિનિટ રાંધો.",
+        "ચાર વાટકામાં ભરો અને દરેક પર દૂધ રેડો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "અંતે વારંવાર હલાવો; ચીકણા ચોખા તળિયે જલદી ચોંટે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/champorado.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

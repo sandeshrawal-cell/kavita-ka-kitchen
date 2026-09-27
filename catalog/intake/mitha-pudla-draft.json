@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0058",
+  "id": "mitha-pudla",
+  "status": "published-first-100-intake-batch",
+  "name": "Mitha Pudla",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pancakes",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the wheat-jaggery batter for 15 minutes.",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 330,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dissolve grated jaggery in half the measured warm water and strain away any grit. Whisk whole wheat flour, cardamom and salt in a bowl.",
+    "Pour in the jaggery liquid and remaining water gradually, whisking until a smooth pourable batter forms. Rest for 15 minutes so the flour hydrates; stir again before cooking.",
+    "Heat a flat griddle over medium-low heat and brush with a little ghee. Pour one-eighth of the batter and spread into a small round about 4 mm thick.",
+    "Cook for 2–3 minutes until the edges set and brown spots appear. Flip and cook another 1–2 minutes until the centre is cooked; use the measured ghee sparingly across the batch.",
+    "Serve two warm sweet pudlas per person. They should be tender and lightly caramelized, not as crisp as a plain dosa."
+  ],
+  "tips": [
+    "Use a moderate flame because jaggery browns faster than plain batter."
+  ],
+  "allergens": [
+    "wheat",
+    "milk"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "मीठा पुडला",
+      "passiveTime": "गेहूँ-गुड़ का घोल 15 मिनट रखें।",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "गुड़",
+        "पानी",
+        "पिसी इलायची",
+        "नमक",
+        "घी"
+      ],
+      "steps": [
+        "कसा गुड़ नापे गुनगुने पानी के आधे हिस्से में घोलकर किरकिरी छानें। कटोरे में गेहूँ का आटा, इलायची और नमक मिलाएँ।",
+        "गुड़ का तरल और बचा पानी धीरे फेंटते डालकर चिकना बहता घोल बनाएँ। आटा नमी सोखे इसलिए 15 मिनट रखें; पकाने से पहले फिर चलाएँ।",
+        "सपाट तवा मध्यम-धीमी आँच पर गरम कर थोड़ा घी लगाएँ। घोल का आठवाँ भाग डालकर लगभग 4 मिमी मोटा छोटा गोल फैलाएँ।",
+        "2–3 मिनट किनारे जमने और भूरे धब्बे आने तक पकाएँ। पलटकर 1–2 मिनट बीच पकने तक सेंकें; नापा घी पूरे बैच में थोड़ा-थोड़ा लगाएँ।",
+        "हर व्यक्ति को दो गरम मीठे पुडले दें। वे नरम और हल्के कैरामेल जैसे हों, सादे डोसे जितने कुरकुरे नहीं।"
+      ],
+      "tips": [
+        "गुड़ सादे घोल से जल्दी भूरा होता है, इसलिए मध्यम आँच रखें।"
+      ]
+    },
+    "gu": {
+      "name": "મીઠા પૂડલા",
+      "passiveTime": "ઘઉં-ગોળનું ખીરું 15 મિનિટ રાખો.",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "ગોળ",
+        "પાણી",
+        "ઈલાયચી પાવડર",
+        "મીઠું",
+        "ઘી"
+      ],
+      "steps": [
+        "ખમણેલો ગોળ માપેલા હૂંફાળા પાણીના અડધા ભાગમાં ઓગાળી કણ ગાળી લો. વાટકામાં ઘઉંનો લોટ, ઈલાયચી અને મીઠું ભેળવો.",
+        "ગોળનું પ્રવાહી અને બાકી પાણી ધીમે ફેંટતા રેડી સુંવાળું વહેતું ખીરું બનાવો. લોટ ભેજ શોષે તે માટે 15 મિનિટ રાખો; શેકતાં પહેલાં ફરી હલાવો.",
+        "સપાટ તવો મધ્યમ-ધીમા તાપે ગરમ કરી થોડું ઘી લગાવો. ખીરાનો આઠમો ભાગ રેડી આશરે 4 મિમી જાડો નાનો ગોળ પાથરો.",
+        "2–3 મિનિટ કિનારી ચડે અને ભૂરી છાંટ પડે ત્યાં સુધી શેકો. ફેરવી 1–2 મિનિટ મધ્ય પાકે ત્યાં સુધી શેકો; માપેલું ઘી આખા જથ્થામાં થોડું થોડું વાપરો.",
+        "દરેકને બે ગરમ મીઠા પૂડલા આપો. તે નરમ અને થોડા કેરામેલ જેવા હોય, સાદા ડોસા જેટલા કરકરા નહીં."
+      ],
+      "tips": [
+        "ગોળ સાદા ખીરા કરતાં ઝડપથી ભૂરો થાય છે, એટલે મધ્યમ તાપ રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.gujaratirecipes.in/mitha-pudla-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/mitha-pudla.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

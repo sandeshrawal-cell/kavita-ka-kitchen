@@ -1,0 +1,187 @@
+{
+  "sourceReviewId": "R0043",
+  "id": "mini-tiffin",
+  "status": "published-first-100-intake-batch",
+  "name": "Mini Tiffin",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four breakfast plates",
+  "prepAndCookMinutes": 100,
+  "passiveTime": "Soak rice and urad dal for 5 hours, then ferment the batter overnight.",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "short-grain rice",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "split moong dal",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "prepared sambar",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak idli rice, urad dal and fenugreek for 5 hours, grind with enough of the measured water to a smooth thick batter, and ferment overnight until risen. Add half the salt; reserve half the batter for mini idlis and thin the rest slightly for dosas.",
+    "Oil mini-idli moulds, fill them three-quarters with batter and steam over boiling water for 8–10 minutes. Rest briefly and unmould; make about twelve mini idlis.",
+    "For pongal, rinse short-grain rice and moong dal, then simmer with about 360 ml of the measured water until very soft, 20–25 minutes. Heat 25 g ghee, toast cumin and crushed pepper, then fold into the soft rice-dal mixture with a pinch of salt.",
+    "For kesari, roast semolina in 20 g ghee until fragrant. Bring 250 ml of the measured water with sugar to a boil, add roasted semolina slowly while stirring, and cook until thick and glossy. Fry cashews in 10 g ghee and scatter on top.",
+    "Heat a flat griddle and make four small dosas from the reserved batter, using the measured oil around the edges; cook until lightly crisp and golden. Warm the prepared sambar.",
+    "Arrange three mini idlis, one small dosa, a spoonful of pongal and a separate spoonful of sweet kesari on each of four plates. Add coconut chutney and sambar alongside so the sweet portion stays distinct."
+  ],
+  "tips": [
+    "Keep the sweet kesari in its own section so it does not soak up sambar."
+  ],
+  "allergens": [
+    "wheat",
+    "milk",
+    "cashew"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/mini-tiffin.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मिनी टिफ़िन",
+      "passiveTime": "चावल और उड़द दाल 5 घंटे भिगोकर घोल रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "इडली चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "छोटे दाने का चावल",
+        "धुली मूँग दाल",
+        "काली मिर्च के दाने",
+        "जीरा",
+        "सूजी",
+        "चीनी",
+        "घी",
+        "काजू",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी",
+        "तैयार सांभर"
+      ],
+      "steps": [
+        "इडली चावल, उड़द दाल और मेथी 5 घंटे भिगोकर नापे पानी में से जरूरत भर से चिकना गाढ़ा घोल पीसें और रात भर फूलने तक खमीर उठाएँ। आधा नमक मिलाएँ; आधा घोल मिनी इडली के लिए रखें और बाकी डोसे के लिए थोड़ा पतला करें।",
+        "मिनी-इडली साँचे में तेल लगाएँ, तीन-चौथाई घोल भरें और उबलते पानी की भाप में 8–10 मिनट पकाएँ। थोड़ा रखकर निकालें; लगभग बारह मिनी इडली बनाएँ।",
+        "पोंगल के लिए छोटे चावल और मूँग दाल धोकर नापे पानी में से लगभग 360 मिली में 20–25 मिनट बहुत नरम पकाएँ। 25 ग्राम घी में जीरा और कुटी काली मिर्च भूनकर नरम चावल-दाल में चुटकी नमक के साथ मिलाएँ।",
+        "केसरी के लिए सूजी 20 ग्राम घी में सुगंध आने तक भूनें। नापे पानी में से 250 मिली चीनी के साथ उबालें, भुनी सूजी धीरे चलाते हुए डालें और गाढ़ा चमकदार होने तक पकाएँ। काजू 10 ग्राम घी में तलकर ऊपर डालें।",
+        "सपाट तवा गरम कर बचे घोल से चार छोटे डोसे बनाएँ, नापा तेल किनारों पर डालें; हल्के कुरकुरे सुनहरे होने तक पकाएँ। तैयार सांभर गरम करें।",
+        "चार प्लेटों में हर एक पर तीन मिनी इडली, एक छोटा डोसा, थोड़ा पोंगल और अलग थोड़ा मीठा केसरी रखें। नारियल चटनी और सांभर साथ में दें ताकि मीठा हिस्सा अलग रहे।"
+      ],
+      "tips": [
+        "मीठे केसरी को अलग रखें ताकि सांभर उसमें न सोखे।"
+      ]
+    },
+    "gu": {
+      "name": "મિની ટિફિન",
+      "passiveTime": "ચોખા અને અડદ દાળ 5 કલાક પલાળી ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ઈડલીના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "ટૂંકા દાણાવાળા ચોખા",
+        "ધોળી મગની દાળ",
+        "કાળા મરીના દાણા",
+        "જીરું",
+        "રવો",
+        "ખાંડ",
+        "ઘી",
+        "કાજુ",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી",
+        "તૈયાર સાંભાર"
+      ],
+      "steps": [
+        "ઈડલીના ચોખા, અડદ દાળ અને મેથી 5 કલાક પલાળી માપેલા પાણીમાંથી જરૂર જેટલાથી સુંવાળું ઘટ્ટ ખીરું વાટો અને રાતભર ફૂલે ત્યાં સુધી આથો આવવા દો. અડધું મીઠું ભેળવો; અડધું ખીરું મિની ઈડલી માટે રાખી બાકી ડોસા માટે થોડું પાતળું કરો.",
+        "મિની-ઈડલી બીબામાં તેલ લગાવો, ત્રણ-ચતુર્થાંશ ખીરું ભરી ઉકળતા પાણીની વરાળમાં 8–10 મિનિટ બાફો. થોડું રાખી કાઢો; આશરે બાર મિની ઈડલી બનાવો.",
+        "પોંગલ માટે ટૂંકા ચોખા અને મગની દાળ ધોઈ માપેલા પાણીમાંથી આશરે 360 મિલીમાં 20–25 મિનિટ બહુ નરમ રાંધો. 25 ગ્રામ ઘીમાં જીરું અને કચડેલા મરી શેકી નરમ ચોખા-દાળમાં ચપટી મીઠા સાથે ભેળવો.",
+        "કેસરી માટે રવો 20 ગ્રામ ઘીમાં સુગંધ આવે ત્યાં સુધી શેકો. માપેલા પાણીમાંથી 250 મિલી ખાંડ સાથે ઉકાળો, શેકેલો રવો ધીમે હલાવતા નાખો અને ઘટ્ટ ચમકદાર થાય ત્યાં સુધી પકાવો. કાજુ 10 ગ્રામ ઘીમાં તળી ઉપર નાખો.",
+        "સપાટ તવો ગરમ કરી બાકી ખીરાથી ચાર નાના ડોસા બનાવો, માપેલું તેલ કિનારે નાખો; હળવા કરકરા સોનેરી થાય ત્યાં સુધી શેકો. તૈયાર સાંભાર ગરમ કરો.",
+        "ચાર થાળીમાં દરેક પર ત્રણ મિની ઈડલી, એક નાનો ડોસો, થોડું પોંગલ અને અલગ થોડું મીઠું કેસરી મૂકો. નાળિયેરની ચટણી અને સાંભાર સાથે આપો જેથી મીઠો ભાગ અલગ રહે."
+      ],
+      "tips": [
+        "મીઠું કેસરી અલગ રાખો જેથી સાંભાર તેમાં ન ભીંજાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/mini-tiffin-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

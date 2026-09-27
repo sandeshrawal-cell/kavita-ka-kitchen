@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0065",
+  "id": "ukadpendi",
+  "status": "published-first-100-intake-batch",
+  "name": "Ukadpendi",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "No long resting time required.",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast whole wheat flour over low heat for 7–9 minutes, stirring continuously, until nutty and lightly golden. Spread it on a plate so it stops cooking; do not leave raw-flour patches.",
+    "Heat oil in a broad pan, splutter mustard and cumin, then cook finely chopped onion and green chilli until the onion softens. Stir in turmeric and salt.",
+    "Bring measured water to a boil in the pan. Lower the heat and sprinkle in the roasted flour gradually while stirring firmly to prevent lumps.",
+    "Cover and steam over low heat for 5–7 minutes, stirring once, until the flour is cooked and forms moist small crumbs rather than dry powder or a sticky paste.",
+    "Fluff with a fork, add lemon juice and coriander, and divide into four bowls. Serve warm while the crumbly texture is distinct."
+  ],
+  "tips": [
+    "Roast the flour thoroughly before adding water; raw flour cannot be fixed after steaming."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "उकड़पेंडी",
+      "passiveTime": "लंबा विराम नहीं चाहिए।",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "राई",
+        "जीरा",
+        "हल्दी",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "हरा धनिया",
+        "नींबू रस"
+      ],
+      "steps": [
+        "गेहूँ का आटा धीमी आँच पर लगातार चलाते हुए 7–9 मिनट मेवेदार खुशबू और हल्के सुनहरे रंग तक सूखा भूनें। पकना रोकने को प्लेट पर फैलाएँ; कच्चे आटे की जगह न रहे।",
+        "चौड़े पैन में तेल गरम कर राई और जीरा चटकाएँ, फिर बारीक प्याज़ और हरी मिर्च प्याज़ नरम होने तक पकाएँ। हल्दी और नमक मिलाएँ।",
+        "पैन में नापा पानी उबालें। आँच घटाकर भुना आटा धीरे छिड़कते हुए जोर से चलाएँ ताकि गांठ न बने।",
+        "ढककर धीमी आँच पर 5–7 मिनट बीच में एक बार चलाकर भाप दें, जब तक आटा पककर नम छोटे चूरे बने, सूखा पाउडर या चिपचिपा पेस्ट नहीं।",
+        "काँटे से फुलाकर नींबू रस और धनिया मिलाएँ और चार कटोरियों में बाँटें। चूरा अलग रहते गरम परोसें।"
+      ],
+      "tips": [
+        "पानी से पहले आटा अच्छी तरह भूनें; भाप के बाद कच्चा आटा नहीं सुधरेगा।"
+      ]
+    },
+    "gu": {
+      "name": "ઉકદપેંડી",
+      "passiveTime": "લાંબો વિરામ જરૂરી નથી.",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "રાઈ",
+        "જીરું",
+        "હળદર",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ઘઉંનો લોટ ધીમા તાપે સતત હલાવતા 7–9 મિનિટ મેવા જેવી સુગંધ અને આછા સોનેરી રંગ સુધી કોરો શેકો. પાકવું અટકાવવા થાળીમાં ફેલાવો; કાચા લોટના ભાગ ન રહે.",
+        "પહોળી કઢાઈમાં તેલ ગરમ કરી રાઈ અને જીરું તતડાવો, પછી બારીક ડુંગળી અને લીલું મરચું ડુંગળી નરમ થાય ત્યાં સુધી શેકો. હળદર અને મીઠું ભેળવો.",
+        "કઢાઈમાં માપેલું પાણી ઉકાળો. તાપ ઘટાડીને શેકેલો લોટ ધીમે છાંટતા જોરથી હલાવો જેથી ગાંઠ ન પડે.",
+        "ઢાંકી ધીમા તાપે 5–7 મિનિટ વચ્ચે એક વાર હલાવી વરાળ આપો, લોટ પાકી ભેજવાળા નાના ભૂકા બને ત્યાં સુધી, સૂકો પાવડર કે ચીકણી પેસ્ટ નહીં.",
+        "કાંટાથી ફુલાવી લીંબુનો રસ અને કોથમીર ભેળવો અને ચાર વાટકામાં વહેંચો. ભૂકા અલગ હોય ત્યારે ગરમ પીરસો."
+      ],
+      "tips": [
+        "પાણી પહેલાં લોટ સારી રીતે શેકો; વરાળ પછી કાચો લોટ સુધરશે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/ukadpendi-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/ukadpendi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

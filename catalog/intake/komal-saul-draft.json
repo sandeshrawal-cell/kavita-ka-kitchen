@@ -1,0 +1,105 @@
+{
+  "sourceReviewId": "R0002",
+  "id": "komal-saul",
+  "status": "published-first-100-intake-batch",
+  "name": "Komal Saul",
+  "aliases": [
+    "Komol Saul Jolpan"
+  ],
+  "cuisine": "Assamese",
+  "categories": [
+    "Breakfast",
+    "No Onion-Garlic"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "passiveTime": "Soak genuine komol saul soft rice for 30–45 minutes; follow the producer's directions if they differ.",
+  "ingredients": [
+    {
+      "name": "komol saul soft rice",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "plain curd",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "banana",
+      "qty": 240,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Check that the rice is genuine Assamese komol saul (soft rice), which softens in room-temperature water; ordinary raw rice cannot safely be served this way. Pick out any debris, then rinse the grains gently in a sieve until the water is mostly clear.",
+    "Put the rinsed soft rice in a clean bowl with the measured drinking water. Cover and soak for 30–45 minutes, or for the time on the package, until a grain is tender all the way through and has no hard centre. Drain thoroughly; do not boil this special rice.",
+    "Whisk the plain curd briefly until smooth. Break the jaggery into small pieces and slice the bananas just before serving so they stay fresh. Divide the drained soft rice evenly among four bowls.",
+    "Spoon the curd over each bowl, add banana slices and sprinkle the jaggery on top. Serve immediately while cool. If holding for later, keep the soaked rice and curd refrigerated separately and assemble just before eating."
+  ],
+  "tips": [
+    "Komol saul is a specific soft-rice variety, not ordinary rice or flattened poha. Buy a clearly labelled product and follow its soaking guidance."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/komal-saul.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "कोमल साउल",
+      "passiveTime": "असली कोमल साउल नरम चावल 30–45 मिनट भिगोएँ; पैकेट पर अलग समय दिया हो तो उसका पालन करें।",
+      "ingredients": [
+        "कोमल साउल नरम चावल",
+        "पीने का पानी",
+        "सादा दही",
+        "गुड़",
+        "केला"
+      ],
+      "steps": [
+        "जाँचें कि चावल असली असमिया कोमल साउल है, जो सामान्य तापमान के पानी में नरम होता है; साधारण कच्चा चावल इस तरह परोसना सुरक्षित नहीं है। कंकड़ आदि निकालें, फिर छलनी में धीरे-धीरे धोएँ जब तक पानी लगभग साफ न हो जाए।",
+        "धुले नरम चावल को साफ कटोरे में नापे हुए पीने के पानी के साथ रखें। ढककर 30–45 मिनट, या पैकेट पर बताए समय तक भिगोएँ। दाना अंदर तक नरम हो और बीच में कड़ापन न रहे। अच्छी तरह छानें; इस विशेष चावल को उबालें नहीं।",
+        "सादा दही हल्का फेंटकर चिकना करें। गुड़ के छोटे टुकड़े करें और केले परोसने से ठीक पहले काटें ताकि ताज़े रहें। छने नरम चावल चार कटोरियों में बराबर बाँटें।",
+        "हर कटोरी में दही डालें, केले के टुकड़े रखें और ऊपर से गुड़ छिड़कें। ठंडा रहते ही परोसें। बाद में परोसना हो तो भीगे चावल और दही अलग-अलग फ्रिज में रखें और खाने से ठीक पहले मिलाएँ।"
+      ],
+      "tips": [
+        "कोमल साउल एक खास नरम चावल है, साधारण चावल या पोहा नहीं। साफ लेबल वाला उत्पाद खरीदें और उसके भिगोने के निर्देश मानें।"
+      ]
+    },
+    "gu": {
+      "name": "કોમલ સાઉલ",
+      "passiveTime": "અસલી કોમોલ સાઉલ નરમ ચોખાને 30–45 મિનિટ પલાળો; પેકેટ પર જુદી સૂચના હોય તો તે અનુસરો.",
+      "ingredients": [
+        "કોમોલ સાઉલ નરમ ચોખા",
+        "પીવાનું પાણી",
+        "સાદું દહીં",
+        "ગોળ",
+        "કેળું"
+      ],
+      "steps": [
+        "ખાતરી કરો કે ચોખા અસલી આસામી કોમોલ સાઉલ છે, જે ઓરડાના તાપમાનના પાણીમાં નરમ થાય છે; સામાન્ય કાચા ચોખા આ રીતે પીરસવા સલામત નથી. કાંકરા વગેરે કાઢીને ચાળણીમાં હળવેથી ધોવો, પાણી લગભગ સ્વચ્છ નીકળે ત્યાં સુધી.",
+        "ધોયેલા નરમ ચોખાને સ્વચ્છ વાટકામાં માપેલા પીવાના પાણી સાથે મૂકો. ઢાંકીને 30–45 મિનિટ, અથવા પેકેટ પર જણાવેલા સમય સુધી પલાળો. દાણા અંદર સુધી નરમ થાય અને મધ્યમાં કઠણ ન રહે. સારી રીતે નિતારો; આ ખાસ ચોખાને ઉકાળો નહીં.",
+        "સાદું દહીં થોડું ફેંટીને સરસ કરો. ગોળના નાના ટુકડા કરો અને કેળાં પીરસતાં પહેલાં જ કાપો જેથી તાજાં રહે. નિતારેલા નરમ ચોખા ચાર વાટકામાં સરખા વહેંચો.",
+        "દરેક વાટકામાં દહીં નાખો, કેળાની કતરણ મૂકો અને ઉપર ગોળ છાંટો. ઠંડું હોય ત્યારે તરત પીરસો. પછી પીરસવું હોય તો પલાળેલા ચોખા અને દહીં અલગ-અલગ ફ્રિજમાં રાખો અને ખાતાં પહેલાં ભેળવો."
+      ],
+      "tips": [
+        "કોમોલ સાઉલ ખાસ નરમ ચોખાની જાત છે, સામાન્ય ચોખા કે પૌંઆ નહીં. સ્પષ્ટ લેબલવાળું ઉત્પાદન લો અને પલાળવાની તેની સૂચના અનુસરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://desifoodkhazana.com/recipes/kumol-saul-jolpan",
+    "use": "Soft-rice identity and customary curd/jaggery serving; recipe wording and quantities independently authored."
+  }
+}

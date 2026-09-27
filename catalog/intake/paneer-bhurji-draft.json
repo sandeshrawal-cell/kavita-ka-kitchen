@@ -1,0 +1,162 @@
+{
+  "sourceReviewId": "R0018",
+  "id": "paneer-bhurji",
+  "status": "published-first-100-intake-batch",
+  "name": "Paneer Bhurji",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 25,
+  "passiveTime": "No passive preparation required.",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "pav bread",
+      "qty": 240,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Crumble the paneer into pea-sized pieces with clean fingers. Finely chop onion, tomato, green chilli, ginger and coriander; keep the tomato separate.",
+    "Heat oil in a broad pan, add cumin and let it sizzle. Cook the onion over medium heat for 5–6 minutes until soft, then add ginger and green chilli for one minute.",
+    "Stir in tomato, turmeric, chilli powder and salt. Cook uncovered for 5–7 minutes until the tomato breaks down and its excess moisture evaporates.",
+    "Fold in the crumbled paneer and garam masala. Toss gently for 2–3 minutes until heated through; do not simmer long or the paneer will become rubbery.",
+    "Finish with coriander. Toast the pav cut-side down on a dry pan and serve the hot bhurji with bread, dividing it into four portions."
+  ],
+  "tips": [
+    "Add paneer only after the tomato mixture has thickened so the bhurji stays crumbly rather than watery."
+  ],
+  "allergens": [
+    "milk",
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/paneer-bhurji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "पनीर भुर्जी",
+      "passiveTime": "વિરામ વગર બનાવી શકાય છે.",
+      "ingredients": [
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "हरी मिर्च",
+        "अदरक",
+        "साधारण वनस्पति तेल",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "हरा धनिया",
+        "पाव"
+      ],
+      "steps": [
+        "पनीर को साफ उँगलियों से मटर जितने टुकड़ों में मसलें। प्याज़, टमाटर, हरी मिर्च, अदरक और धनिया बारीक काटें; टमाटर अलग रखें।",
+        "चौड़े पैन में तेल गरम कर जीरा चटकाएँ। प्याज़ मध्यम आँच पर 5–6 मिनट नरम होने तक पकाएँ, फिर अदरक और हरी मिर्च एक मिनट भूनें।",
+        "टमाटर, हल्दी, लाल मिर्च और नमक मिलाएँ। बिना ढके 5–7 मिनट पकाएँ जब तक टमाटर गल जाए और अतिरिक्त पानी सूख जाए।",
+        "मसला पनीर और गरम मसाला धीरे मिलाएँ। 2–3 मिनट गर्म होने तक उलटें; ज्यादा न उबालें, वरना पनीर रबड़ जैसा होगा।",
+        "धनिया छिड़कें। कटे पाव का अंदरूनी भाग सूखे तवे पर सेंकें और गरम भुर्जी को चार हिस्सों में बाँटकर परोसें।"
+      ],
+      "tips": [
+        "टमाटर का मिश्रण गाढ़ा होने पर ही पनीर डालें ताकि भुर्जी दानेदार रहे।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ભુર્જી",
+      "passiveTime": "बिना रुके बनाया जा सकता है।",
+      "ingredients": [
+        "પનીર",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલું મરચું",
+        "આદુ",
+        "સાદું વનસ્પતિ તેલ",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાવડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "પાવ"
+      ],
+      "steps": [
+        "પનીરને ચોખ્ખી આંગળીઓથી વટાણાના દાણા જેટલા ભૂકામાં કરો. ડુંગળી, ટામેટાં, લીલું મરચું, આદુ અને કોથમીર બારીક સમારો; ટામેટાં અલગ રાખો.",
+        "પહોળી કઢાઈમાં તેલ ગરમ કરી જીરું તતડાવો. ડુંગળી મધ્યમ તાપે 5–6 મિનિટ નરમ થાય ત્યાં સુધી શેકો, પછી આદુ અને લીલું મરચું એક મિનિટ શેકો.",
+        "ટામેટાં, હળદર, લાલ મરચું અને મીઠું ભેળવો. ઢાંક્યા વગર 5–7 મિનિટ રાંધો, ટામેટાં ગળી વધારાનું પાણી સૂકાય ત્યાં સુધી.",
+        "ભૂકો કરેલું પનીર અને ગરમ મસાલો હળવેથી ભેળવો. 2–3 મિનિટ ગરમ થાય ત્યાં સુધી હલાવો; લાંબો સમય ન ઉકાળો, નહિતર પનીર રબર જેવું થશે.",
+        "કોથમીર છાંટો. કાપેલા પાવની અંદરની બાજુ સૂકા તવા પર શેકો અને ગરમ ભુર્જી ચાર ભાગમાં વહેંચી પીરસો."
+      ],
+      "tips": [
+        "ટામેટાંનું મિશ્રણ ઘટ્ટ થાય પછી જ પનીર ઉમેરો જેથી ભુર્જી દાણાદાર રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-bhurji-scrambled-cottage-cheese/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

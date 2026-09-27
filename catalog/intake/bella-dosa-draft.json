@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0005",
+  "id": "bella-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Bella Dosa",
+  "aliases": [
+    "Bellada Dose",
+    "Sihi Dose"
+  ],
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast",
+    "Desserts",
+    "No Onion-Garlic"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small sweet dosas",
+  "prepAndCookMinutes": 40,
+  "passiveTime": "Soak the rice and chana dal for 5–6 hours.",
+  "ingredients": [
+    {
+      "name": "raw rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cardamom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the rice and chana dal until the water runs mostly clear. Put them in a deep bowl with 350 ml of the measured water and soak for 5–6 hours, until both grains are soft enough to grind. Keep the soaking liquid.",
+    "Drain, reserving the liquid. Grind the soaked rice and dal with fresh coconut and cardamom to a smooth batter. Add the reserved liquid gradually so the batter pours from a ladle but is thicker than a thin crepe batter.",
+    "Break up the jaggery and dissolve it in the remaining 100 ml measured water over low heat. Strain out grit, cool until just warm, then stir it into the batter. Rest the batter for 10 minutes and check that it still pours in a thick ribbon.",
+    "Heat a flat griddle over medium-low heat and rub with a little measured ghee. Pour a small ladle of batter and spread gently to a circle about 12 cm wide. Drizzle a little more ghee around the edge and cook for 2–3 minutes until the underside is golden and the top has set.",
+    "Lift the dosa carefully; flip for about 30 seconds only if the top remains damp. Repeat with the remaining batter and ghee, lowering the heat if jaggery darkens too quickly. Serve two warm sweet dosas per person."
+  ],
+  "tips": [
+    "Jaggery browns faster than plain dosa batter, so keep the pan at medium-low heat. The coconut is ground into the batter; no sweet filling is required."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/bella-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "बेल्ला डोसा",
+      "passiveTime": "चावल और चना दाल 5–6 घंटे भिगोएँ।",
+      "ingredients": [
+        "कच्चे चावल",
+        "चना दाल",
+        "ताज़ा कसा नारियल",
+        "गुड़",
+        "इलायची के दाने",
+        "पीने का पानी",
+        "घी"
+      ],
+      "steps": [
+        "चावल और चना दाल को पानी लगभग साफ होने तक धोएँ। गहरे कटोरे में नापे हुए पानी में से 350 मिली पानी डालकर 5–6 घंटे भिगोएँ, जब तक दोनों दाने पीसने लायक नरम हों। भिगोने वाला पानी बचाकर रखें।",
+        "भीगा मिश्रण छानकर पानी बचाएँ। चावल और दाल को ताज़े नारियल और इलायची के साथ चिकना पीसें। बचा पानी धीरे-धीरे मिलाएँ ताकि घोल करछुल से डले, लेकिन पतली क्रेप के घोल से गाढ़ा रहे।",
+        "गुड़ तोड़कर बचे 100 मिली नापे हुए पानी में धीमी आँच पर घोलें। किरकिरापन छानें, हल्का गरम रहने तक ठंडा करें, फिर घोल में मिलाएँ। घोल 10 मिनट रखें और देखें कि वह मोटी धार में गिरता हो।",
+        "चपटा तवा मध्यम-धीमी आँच पर गरम करके थोड़ा नापा घी लगाएँ। छोटी करछुल घोल डालकर लगभग 12 सेमी का गोल डोसा हल्के से फैलाएँ। किनारे पर थोड़ा और घी डालकर 2–3 मिनट पकाएँ, नीचे सुनहरा हो और ऊपर से पक जाए तब तक।",
+        "डोसा सावधानी से उठाएँ; ऊपर नम हो तो ही पलटकर लगभग 30 सेकंड पकाएँ। बचे घोल और घी से इसी तरह बनाएँ, गुड़ जल्दी गहरा होने लगे तो आँच घटाएँ। प्रति व्यक्ति दो गरम मीठे डोसे परोसें।"
+      ],
+      "tips": [
+        "गुड़ वाला घोल सामान्य डोसे से जल्दी भूरा होता है, इसलिए तवा मध्यम-धीमी आँच पर रखें। नारियल घोल में पिसता है; अलग मीठी भराई जरूरी नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "બેલ્લા ઢોસા",
+      "passiveTime": "ચોખા અને ચણાની દાળ 5–6 કલાક પલાળો.",
+      "ingredients": [
+        "કાચા ચોખા",
+        "ચણાની દાળ",
+        "તાજું ખમણેલું નાળિયેર",
+        "ગોળ",
+        "એલચીના દાણા",
+        "પીવાનું પાણી",
+        "ઘી"
+      ],
+      "steps": [
+        "ચોખા અને ચણાની દાળનું પાણી લગભગ સ્વચ્છ થાય ત્યાં સુધી ધોવો. ઊંડી વાટકામાં માપેલા પાણીમાંથી 350 મિલી પાણી સાથે 5–6 કલાક પલાળો, બંને દાણા પીસી શકાય એટલા નરમ થાય ત્યાં સુધી. પલાળેલું પાણી સાચવો.",
+        "પલાળેલું મિશ્રણ નિતારી પાણી સાચવો. ચોખા અને દાળને તાજા નાળિયેર તથા એલચી સાથે સરસ પીસો. સાચવેલું પાણી ધીમે-ધીમે ઉમેરો જેથી ખીરું ચમચીમાંથી રેડી શકાય, પણ પાતળી ક્રેપના ખીરા કરતાં ઘટ્ટ રહે.",
+        "ગોળના ટુકડા કરીને બાકી 100 મિલી માપેલા પાણીમાં ધીમા તાપે ઓગાળો. કચરો ગાળી કાઢો, થોડું ગરમ રહે ત્યાં સુધી ઠંડું કરો અને ખીરામાં ભેળવો. 10 મિનિટ રાખી જુઓ કે ખીરું જાડી ધારામાં પડે.",
+        "સપાટ તવો મધ્યમથી ધીમા તાપે ગરમ કરી થોડું માપેલું ઘી લગાવો. નાનો ચમચો ખીરું રેડી આશરે 12 સેમીનો ગોળ ઢોસો હળવેથી ફેલાવો. કિનારે થોડું ઘી નાખી 2–3 મિનિટ શેકો, નીચે સોનેરી અને ઉપરથી શેકાઈ જાય ત્યાં સુધી.",
+        "ઢોસો કાળજીથી ઊંચકો; ઉપર ભીનાશ હોય તો જ ફેરવી આશરે 30 સેકંડ શેકો. બાકી ખીરું અને ઘીથી આમ જ બનાવો; ગોળ ઝડપથી ઘેરો થાય તો તાપ ઘટાડો. વ્યક્તિ દીઠ બે ગરમ મીઠા ઢોસા પીરસો."
+      ],
+      "tips": [
+        "ગોળવાળું ખીરું સામાન્ય ઢોસા કરતાં વહેલું ભૂરું થાય છે, તેથી તવો મધ્યમથી ધીમા તાપે રાખો. નાળિયેર ખીરામાં પીસાય છે; અલગ મીઠો ભરાવો જરૂરી નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://jyothisimplifiescooking.blogspot.com/2015/10/bellada-dose-jaggery-dosasweet-crepe.html",
+    "use": "Karnataka sweet dosa identity and rice-coconut-jaggery composition; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "sourceReviewId": "R0081",
+  "id": "yogurt-parfait",
+  "status": "published-first-100-intake-batch",
+  "name": "Yogurt Parfait",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four glasses",
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "thick plain yogurt",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "homemade granola",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash berries and dry them thoroughly; halve any large strawberries.",
+    "Spoon one quarter of the yogurt into four clear glasses, then add half the granola and half the berries in even layers.",
+    "Add the remaining yogurt, then remaining granola and berries. Drizzle maple syrup evenly over the four glasses.",
+    "Serve immediately so the granola stays crisp, or keep the granola separate until serving."
+  ],
+  "tips": [
+    "Use unsweetened yogurt to balance the fruit and syrup."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "योगर्ट पार्फे",
+      "ingredients": [
+        "गाढ़ा सादा दही",
+        "घर का ग्रेनोला",
+        "मिश्रित बेरी",
+        "मेपल सिरप"
+      ],
+      "steps": [
+        "बेरी धोकर अच्छी तरह सुखाएँ; बड़ी स्ट्रॉबेरी आधी काटें।",
+        "चार साफ गिलासों में दही का एक चौथाई भाग बाँटें, फिर आधा ग्रेनोला और आधी बेरी बराबर परतों में डालें।",
+        "बचा दही, फिर बचा ग्रेनोला और बेरी डालें। चारों गिलासों पर बराबर मेपल सिरप डालें।",
+        "ग्रेनोला कुरकुरा रहे इसलिए तुरंत परोसें; या परोसने तक ग्रेनोला अलग रखें।"
+      ],
+      "tips": [
+        "फल और सिरप का संतुलन रखने के लिए बिना मीठा दही लें।"
+      ]
+    },
+    "gu": {
+      "name": "યોગર્ટ પારફે",
+      "ingredients": [
+        "ઘટ્ટ સાદું દહીં",
+        "ઘરનું ગ્રેનોલા",
+        "મિશ્ર બેરી",
+        "મેપલ સિરપ"
+      ],
+      "steps": [
+        "બેરી ધોઈ સારી રીતે સૂકવો; મોટી સ્ટ્રોબેરી અડધી કરો.",
+        "ચાર ચોખ્ખા ગ્લાસમાં દહીંનો ચોથો ભાગ વહેંચો, પછી અડધું ગ્રેનોલા અને અડધી બેરી સરખા પડમાં નાખો.",
+        "બાકી દહીં, પછી બાકી ગ્રેનોલા અને બેરી ઉમેરો. ચારેય ગ્લાસમાં સરખું મેપલ સિરપ રેડો.",
+        "ગ્રેનોલા કરકરું રહે માટે તરત પીરસો; અથવા પીરસતાં સુધી ગ્રેનોલા અલગ રાખો."
+      ],
+      "tips": [
+        "ફળ અને સિરપનું સંતુલન રાખવા મીઠાશ વગરનું દહીં લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/yogurt-parfait.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

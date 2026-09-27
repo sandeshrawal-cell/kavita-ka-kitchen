@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R0087",
+  "id": "cheese-grits",
+  "status": "published-first-100-intake-batch",
+  "name": "Cheese Grits",
+  "cuisine": "American Southern",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "coarse corn grits",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Bring water and milk to a gentle boil in a heavy saucepan; add salt.",
+    "Whisk in grits in a thin stream. Reduce to low heat and cover loosely.",
+    "Cook 20–25 minutes, stirring and scraping the bottom every few minutes, until the grains are tender and creamy.",
+    "Turn off the heat and stir in grated cheddar, butter and black pepper. Rest 2 minutes, then divide into four warm bowls."
+  ],
+  "tips": [
+    "Use actual coarse corn grits, not cornflour, for the proper texture."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चीज़ ग्रिट्स",
+      "ingredients": [
+        "मोटा मक्का दलिया",
+        "पानी",
+        "दूध",
+        "कद्दूकस चेडर चीज़",
+        "मक्खन",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "भारी सॉसपैन में पानी और दूध हल्का उबालें; नमक डालें।",
+        "लगातार फेंटते हुए मक्का दलिया पतली धार में डालें। आँच धीमी करें और ढक्कन थोड़ा खुला रखें।",
+        "20–25 मिनट कुछ-कुछ मिनट में तला चलाते हुए पकाएँ, जब तक दाने नरम और मलाईदार न हो जाएँ।",
+        "आँच बंद कर कद्दूकस चीज़, मक्खन और काली मिर्च मिलाएँ। 2 मिनट रखकर चार गरम कटोरियों में बाँटें।"
+      ],
+      "tips": [
+        "सही बनावट के लिए मोटा मक्का दलिया लें, कॉर्नफ्लोर नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ચીઝ ગ્રિટ્સ",
+      "ingredients": [
+        "મોટા મકાઈના દાણા",
+        "પાણી",
+        "દૂધ",
+        "છીણેલું ચેડર ચીઝ",
+        "માખણ",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "જાડા તળિયાના સોસપેનમાં પાણી અને દૂધ હળવેથી ઉકાળો; મીઠું ઉમેરો.",
+        "સતત ફેંટતા મકાઈના દાણા પાતળી ધારામાં ઉમેરો. તાપ ધીમો કરો અને ઢાંકણ થોડું ખુલ્લું રાખો.",
+        "20–25 મિનિટ દર થોડી મિનિટે તળિયેથી હલાવતા રાંધો, દાણા નરમ અને મલાઈદાર થાય ત્યાં સુધી.",
+        "તાપ બંધ કરી છીણેલું ચીઝ, માખણ અને કાળા મરી ભેળવો. 2 મિનિટ રાખી ચાર ગરમ વાટકામાં વહેંચો."
+      ],
+      "tips": [
+        "યોગ્ય બનાવટ માટે મોટા મકાઈના દાણા લો, કોર્નફ્લોર નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cheese-grits.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0078",
+  "id": "ragi-porridge",
+  "status": "published-first-100-intake-batch",
+  "name": "Ragi Porridge",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 18,
+  "ingredients": [
+    {
+      "name": "ragi flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "jaggery",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk ragi flour into 250 ml cold water until completely smooth; this prevents lumps.",
+    "Heat the remaining 200 ml water with milk in a heavy saucepan. Pour in the ragi slurry while whisking continuously.",
+    "Cook over low-medium heat for 8–10 minutes, stirring and scraping the base, until the raw flour taste disappears and the porridge thickens.",
+    "Turn off the heat. Stir in jaggery and cardamom until dissolved; divide into four bowls and garnish with chopped almonds."
+  ],
+  "tips": [
+    "Add jaggery only after switching off the heat to keep the milk smooth."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy",
+    "nuts"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "रागी दलिया",
+      "ingredients": [
+        "रागी का आटा",
+        "पानी",
+        "दूध",
+        "गुड़",
+        "इलायची पाउडर",
+        "बादाम"
+      ],
+      "steps": [
+        "रागी के आटे को 250 मिली ठंडे पानी में पूरी तरह घोलें; इससे गांठें नहीं बनेंगी।",
+        "भारी सॉसपैन में बचा 200 मिली पानी और दूध गरम करें। लगातार फेंटते हुए रागी का घोल डालें।",
+        "धीमी-मध्यम आँच पर 8–10 मिनट तली चलाते हुए पकाएँ, जब तक कच्चे आटे का स्वाद न जाए और दलिया गाढ़ा न हो।",
+        "आँच बंद करें। गुड़ और इलायची घुलने तक मिलाएँ; चार कटोरियों में बाँटकर कटे बादाम डालें।"
+      ],
+      "tips": [
+        "दूध को चिकना रखने के लिए आँच बंद करने के बाद ही गुड़ डालें।"
+      ]
+    },
+    "gu": {
+      "name": "રાગી પોરિજ",
+      "ingredients": [
+        "રાગીનો લોટ",
+        "પાણી",
+        "દૂધ",
+        "ગોળ",
+        "એલચી પાવડર",
+        "બદામ"
+      ],
+      "steps": [
+        "રાગીનો લોટ 250 મિલી ઠંડા પાણીમાં ગાંઠ વિના ફેંટો; આમ ગાંઠ નહીં પડે.",
+        "જાડા તળિયાના સોસપેનમાં બાકી 200 મિલી પાણી અને દૂધ ગરમ કરો. સતત ફેંટતા રાગીનું ખીરું રેડો.",
+        "ધીમા-મધ્યમ તાપે 8–10 મિનિટ તળિયેથી હલાવતા રાંધો, કાચા લોટનો સ્વાદ જાય અને પોરિજ ઘટ્ટ થાય ત્યાં સુધી.",
+        "તાપ બંધ કરો. ગોળ અને એલચી ઓગળે ત્યાં સુધી ભેળવો; ચાર વાટકામાં વહેંચી સમારેલા બદામ નાખો."
+      ],
+      "tips": [
+        "દૂધ સરખું રહે તે માટે તાપ બંધ કર્યા પછી જ ગોળ ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/ragi-porridge.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

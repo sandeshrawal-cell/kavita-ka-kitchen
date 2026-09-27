@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0052",
+  "id": "chura-matar",
+  "status": "published-first-100-intake-batch",
+  "name": "Chura Matar",
+  "cuisine": "Banarasi",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Drain rinsed poha for 10 minutes before cooking.",
+  "ingredients": [
+    {
+      "name": "thick flattened rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse thick chura briefly in a sieve, drain 10 minutes and fluff. It should soften but retain distinct broad flakes; never leave it immersed in water.",
+    "Heat half the ghee in a wide pan, toast cumin, then soften chopped onion, ginger and chilli. Add peas and cook for 5–6 minutes until tender and bright green.",
+    "Pour in milk and simmer briefly. Fold in softened chura and salt, then cover over very low heat for 3–4 minutes so the flakes absorb the pea flavors without becoming yellow or mashed.",
+    "Switch off heat, add remaining ghee and lemon juice, and toss gently. Let stand covered for 2 minutes, then fluff with a fork.",
+    "Scatter coriander and serve warm in four bowls. This Banarasi dish should remain pale, moist and strongly studded with peas, unlike turmeric-yellow poha."
+  ],
+  "tips": [
+    "Use fresh winter peas when available; this preparation showcases peas rather than spice powder."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चूड़ा मटर",
+      "passiveTime": "धोए पोहे 10 मिनट छानकर रखें।",
+      "ingredients": [
+        "मोटा चूड़ा पोहा",
+        "हरे मटर",
+        "घी",
+        "प्याज़",
+        "अदरक",
+        "हरी मिर्च",
+        "जीरा",
+        "दूध",
+        "नमक",
+        "हरा धनिया",
+        "नींबू रस"
+      ],
+      "steps": [
+        "मोटे चूड़े को छलनी में जल्दी धोकर 10 मिनट छानें और फुलाएँ। चौड़ी पत्तियाँ नरम पर अलग रहें; पानी में डुबोकर न छोड़ें।",
+        "चौड़े पैन में आधा घी गरम कर जीरा भूनें, फिर कटा प्याज़, अदरक और मिर्च नरम करें। मटर डालकर 5–6 मिनट नरम और हरे रहने तक पकाएँ।",
+        "दूध डालकर थोड़ा उबालें। नरम चूड़ा और नमक धीरे मिलाएँ, फिर बहुत धीमी आँच पर 3–4 मिनट ढकें ताकि पत्तियाँ मटर का स्वाद लें, पीली या मसली न हों।",
+        "आँच बंद कर बचा घी और नींबू रस डालकर धीरे मिलाएँ। 2 मिनट ढककर रखें, फिर काँटे से फुलाएँ।",
+        "धनिया छिड़ककर चार कटोरियों में गरम परोसें। बनारसी चूड़ा मटर हल्का रंग, नम और खूब मटर वाला रहता है, हल्दी-पीला पोहा नहीं।"
+      ],
+      "tips": [
+        "मौसम में ताज़े मटर लें; इस व्यंजन में पिसे मसालों से अधिक मटर का स्वाद है।"
+      ]
+    },
+    "gu": {
+      "name": "ચૂડા મટર",
+      "passiveTime": "ધોયેલા પૌંઆ 10 મિનિટ નિતારી રાખો.",
+      "ingredients": [
+        "જાડા ચૂડા પૌંઆ",
+        "લીલા વટાણા",
+        "ઘી",
+        "ડુંગળી",
+        "આદુ",
+        "લીલું મરચું",
+        "જીરું",
+        "દૂધ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "જાડા ચૂડાને ચાળણીમાં ઝડપથી ધોઈ 10 મિનિટ નિતારી ફુલાવો. પહોળી પાંખડીઓ નરમ પણ અલગ રહે; પાણીમાં ડૂબાડી ન રાખો.",
+        "પહોળી કઢાઈમાં અડધું ઘી ગરમ કરી જીરું શેકો, પછી સમારેલી ડુંગળી, આદુ અને મરચું નરમ કરો. વટાણા નાખી 5–6 મિનિટ નરમ અને લીલા રહે ત્યાં સુધી પકાવો.",
+        "દૂધ નાખી થોડું ઉકાળો. નરમ ચૂડા અને મીઠું હળવેથી ભેળવો, પછી બહુ ધીમા તાપે 3–4 મિનિટ ઢાંકો જેથી પાંખડીઓ વટાણાનો સ્વાદ લે, પીળી કે મસળાય નહીં.",
+        "તાપ બંધ કરી બાકી ઘી અને લીંબુનો રસ નાખી હળવેથી ભેળવો. 2 મિનિટ ઢાંકી રાખી કાંટાથી ફુલાવો.",
+        "કોથમીર છાંટી ચાર વાટકામાં ગરમ પીરસો. બનારસી ચૂડા મટર આછા રંગના, ભેજવાળા અને ભરપૂર વટાણાવાળા રહે છે, હળદર-પીળા પૌંઆ જેવા નહીં."
+      ],
+      "tips": [
+        "મોસમમાં તાજા વટાણા લો; આ વાનગીમાં પાવડર મસાલા કરતાં વટાણાનો સ્વાદ મુખ્ય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chura-matar-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/chura-matar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

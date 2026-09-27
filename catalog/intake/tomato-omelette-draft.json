@@ -1,0 +1,138 @@
+{
+  "sourceReviewId": "R0057",
+  "id": "tomato-omelette",
+  "status": "published-first-100-intake-batch",
+  "name": "Tomato Besan Chilla",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight chillas",
+  "prepAndCookMinutes": 25,
+  "passiveTime": "Rest the gram-flour batter for 5 minutes.",
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared green chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk gram flour, turmeric and salt with measured water until no lumps remain. Leave it 5 minutes so the flour hydrates; this omelette-style pancake contains no eggs.",
+    "Finely chop tomato, onion, chilli and coriander. Fold them into the batter, distributing the tomato evenly without crushing it into a watery puree.",
+    "Heat a seasoned griddle over medium heat and brush with a little measured oil. Pour one-eighth of the batter and spread into a thin but sturdy round.",
+    "Cook 2–3 minutes until the base sets and browns lightly. Turn carefully and cook another 2 minutes until the gram flour is fully cooked and the centre is no longer wet.",
+    "Make eight pancakes and serve two per person, folded with green chutney. Keep the heat moderate so the tomato pieces cook without scorching the base."
+  ],
+  "tips": [
+    "Despite its name, Mumbai tomato omelette is traditionally an eggless gram-flour pancake."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/tomato-omelette.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "टमाटर बेसन चीला",
+      "passiveTime": "बेसन का घोल 5 मिनट रखें।",
+      "ingredients": [
+        "बेसन",
+        "टमाटर",
+        "प्याज़",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "पानी",
+        "हल्दी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार हरी चटनी"
+      ],
+      "steps": [
+        "बेसन, हल्दी और नमक को नापे पानी से गुठलीरहित फेंटें। आटा पानी सोखे इसलिए 5 मिनट रखें; इस ऑमलेट जैसे चीले में अंडा नहीं है।",
+        "टमाटर, प्याज़, मिर्च और धनिया बारीक काटें। टमाटर को पानीदार प्यूरी बनाए बिना घोल में बराबर मिलाएँ।",
+        "तैयार तवा मध्यम आँच पर गरम कर थोड़ा नापा तेल लगाएँ। घोल का आठवाँ भाग डालकर पतला पर मजबूत गोल फैलाएँ।",
+        "2–3 मिनट तला जमने और हल्का भूरा होने तक पकाएँ। सावधानी से पलटकर 2 मिनट और पकाएँ जब तक बेसन पूरी तरह पके और बीच गीला न रहे।",
+        "आठ चीले बनाकर हर व्यक्ति को दो हरी चटनी के साथ मोड़कर दें। आँच मध्यम रखें ताकि तला जले बिना टमाटर के टुकड़े पकें।"
+      ],
+      "tips": [
+        "नाम ऑमलेट है, पर मुंबई का टमाटर ऑमलेट पारंपरिक बेसन का बिना अंडे वाला चीला है।"
+      ]
+    },
+    "gu": {
+      "name": "ટામેટાં બેસન ચીલા",
+      "passiveTime": "ચણાના લોટનું ખીરું 5 મિનિટ રાખો.",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "ટામેટાં",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "લીલી કોથમીર",
+        "પાણી",
+        "હળદર",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર લીલી ચટણી"
+      ],
+      "steps": [
+        "ચણાનો લોટ, હળદર અને મીઠું માપેલા પાણીથી ગાંઠ વગર ફેંટો. લોટ પાણી શોષે તે માટે 5 મિનિટ રાખો; આ ઓમલેટ જેવા ચીલામાં ઈંડાં નથી.",
+        "ટામેટાં, ડુંગળી, મરચું અને કોથમીર બારીક સમારો. ટામેટાંને પાણીવાળી પ્યુરી બનાવ્યા વગર ખીરામાં સરખાં ભેળવો.",
+        "તૈયાર તવો મધ્યમ તાપે ગરમ કરી થોડું માપેલું તેલ લગાવો. ખીરાનો આઠમો ભાગ રેડી પાતળો પણ મજબૂત ગોળ પાથરો.",
+        "2–3 મિનિટ તળિયું ચડે અને આછું ભૂરૂં થાય ત્યાં સુધી શેકો. કાળજીથી ફેરવી 2 મિનિટ વધુ શેકો, ચણાનો લોટ પૂરો પાકે અને મધ્ય ભીનું ન રહે ત્યાં સુધી.",
+        "આઠ ચીલા બનાવી દરેકને બે લીલી ચટણી સાથે વાળી આપો. તાપ મધ્યમ રાખો જેથી તળિયું બળ્યા વગર ટામેટાંના ટુકડા પાકે."
+      ],
+      "tips": [
+        "નામ ઓમલેટ છે, પણ મુંબઈનું ટામેટાં ઓમલેટ પરંપરાગત ઈંડા વગરનું ચણાના લોટનું ચીલું છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/tomato-omelette-recipe-eggless/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R0082",
+  "id": "quinoa-porridge",
+  "status": "published-first-100-intake-batch",
+  "name": "Quinoa Porridge",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "dry quinoa",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "banana",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse quinoa in a fine sieve under cold water for 1 minute to remove bitterness; drain.",
+    "Bring quinoa and water to a boil. Cover and simmer gently for 15 minutes until the grains open and most water is absorbed.",
+    "Add milk and cinnamon. Cook uncovered 5–7 minutes, stirring, until creamy but individual quinoa grains remain visible.",
+    "Divide into four bowls; top with sliced banana, berries and maple syrup. Serve warm."
+  ],
+  "tips": [
+    "Rinse well; the natural coating can taste bitter."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "क्विनोआ दलिया",
+      "ingredients": [
+        "सूखा क्विनोआ",
+        "पानी",
+        "दूध",
+        "केले",
+        "मिश्रित बेरी",
+        "दालचीनी पाउडर",
+        "मेपल सिरप"
+      ],
+      "steps": [
+        "कड़वाहट हटाने के लिए बारीक छलनी में क्विनोआ 1 मिनट ठंडे पानी से धोकर छानें।",
+        "क्विनोआ और पानी उबालें। ढककर धीमी आँच पर 15 मिनट पकाएँ, जब तक दाने खुलें और अधिकतर पानी सोख लें।",
+        "दूध और दालचीनी डालें। बिना ढके 5–7 मिनट चलाते हुए मलाईदार होने तक पकाएँ, लेकिन अलग क्विनोआ दाने दिखाई दें।",
+        "चार कटोरियों में बाँटें; कटे केले, बेरी और मेपल सिरप डालें। गरम परोसें।"
+      ],
+      "tips": [
+        "अच्छी तरह धोएँ; बाहरी प्राकृतिक परत कड़वी लग सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "ક્વિનોઆ પોરિજ",
+      "ingredients": [
+        "સૂકી ક્વિનોઆ",
+        "પાણી",
+        "દૂધ",
+        "કેળાં",
+        "મિશ્ર બેરી",
+        "તજ પાવડર",
+        "મેપલ સિરપ"
+      ],
+      "steps": [
+        "કડવાશ દૂર કરવા ઝીણી ચાળણીમાં ક્વિનોઆને 1 મિનિટ ઠંડા પાણીથી ધોઈ નિતારો.",
+        "ક્વિનોઆ અને પાણી ઉકાળો. ઢાંકી ધીમા તાપે 15 મિનિટ રાંધો, દાણા ખૂલે અને મોટાભાગનું પાણી શોષાય ત્યાં સુધી.",
+        "દૂધ અને તજ ઉમેરો. ઢાંક્યા વગર 5–7 મિનિટ હલાવતા મલાઈદાર થાય ત્યાં સુધી રાંધો, પરંતુ અલગ ક્વિનોઆ દાણા દેખાવા જોઈએ.",
+        "ચાર વાટકામાં વહેંચો; કાપેલાં કેળાં, બેરી અને મેપલ સિરપ નાખો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "સારી રીતે ધુઓ; બહારનું કુદરતી પડ કડવું લાગી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/quinoa-porridge.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

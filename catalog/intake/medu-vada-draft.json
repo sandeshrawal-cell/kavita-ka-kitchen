@@ -1,0 +1,145 @@
+{
+  "sourceReviewId": "R0019",
+  "id": "medu-vada",
+  "status": "published-first-100-intake-batch",
+  "name": "Medu Vada",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pieces or four servings",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak the urad dal for 4 hours.",
+  "ingredients": [
+    {
+      "name": "skinned urad dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "prepared sambar",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and soak urad dal for 4 hours, then drain very well. Grind in batches with just enough of the measured water to make a thick smooth batter; too much water stops the vadas holding shape.",
+    "Beat the batter by hand for 3–4 minutes to aerate it. Fold in finely chopped onion, chilli, ginger and curry leaves with crushed pepper and salt.",
+    "Heat oil in a deep pan to around 175°C. Wet your fingers, shape a small portion of batter into a thick ring with a central hole and slip it carefully into the oil.",
+    "Fry in small batches, turning once or twice, for 4–5 minutes until the vadas are deep golden and cooked through. Drain on a rack; keep the oil temperature steady between batches.",
+    "Warm the prepared sambar, portion the coconut chutney, and serve two crisp vadas per person immediately with both accompaniments."
+  ],
+  "tips": [
+    "If a spoonful of batter floats in water, it has enough air for light vadas."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/medu-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मेदू वड़ा",
+      "passiveTime": "उड़द दाल 4 घंटे भिगोएँ।",
+      "ingredients": [
+        "धुली उड़द दाल",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ता",
+        "काली मिर्च के दाने",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी",
+        "तैयार सांभर"
+      ],
+      "steps": [
+        "उड़द दाल धोकर 4 घंटे भिगोएँ, फिर बहुत अच्छी तरह छानें। नापे पानी में से बस जितना चाहिए उतना डालकर गाढ़ा चिकना घोल पीसें; ज्यादा पानी से वड़े आकार नहीं रखेंगे।",
+        "घोल को हाथ से 3–4 मिनट फेंटकर हल्का करें। बारीक कटे प्याज़, मिर्च, अदरक और करी पत्ते के साथ कुटी काली मिर्च और नमक मिलाएँ।",
+        "गहरे पैन में तेल लगभग 175°C गरम करें। उँगलियाँ गीली कर घोल का थोड़ा भाग मोटे छल्ले में बनाएँ, बीच में छेद रखें और सावधानी से तेल में डालें।",
+        "थोड़े-थोड़े वड़े एक बार में 4–5 मिनट बीच में पलटकर गहरे सुनहरे और भीतर तक पके होने तक तलें। जाली पर निथारें; अगला बैच डालने से पहले तेल का ताप ठीक रखें।",
+        "तैयार सांभर गरम करें, नारियल चटनी बाँटें और हर व्यक्ति को दो कुरकुरे वड़े दोनों साथ में तुरंत परोसें।"
+      ],
+      "tips": [
+        "एक चम्मच घोल पानी में तैरे तो हल्के वड़ों के लिए पर्याप्त हवा है।"
+      ]
+    },
+    "gu": {
+      "name": "મેદુ વડા",
+      "passiveTime": "અડદ દાળ 4 કલાક પલાળો.",
+      "ingredients": [
+        "ધોળી અડદ દાળ",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "લીમડાના પાન",
+        "કાળા મરીના દાણા",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી",
+        "તૈયાર સાંભાર"
+      ],
+      "steps": [
+        "અડદ દાળ ધોઈ 4 કલાક પલાળો, પછી સારી રીતે નિતારો. માપેલા પાણીમાંથી જરૂર જેટલું જ નાખી ઘટ્ટ સુંવાળું ખીરું વાટો; વધારે પાણીથી વડા આકાર રાખશે નહીં.",
+        "ખીરાને હાથથી 3–4 મિનિટ ફેંટીને હળવું કરો. બારીક સમારેલી ડુંગળી, મરચું, આદુ, લીમડાના પાન, કચડેલા મરી અને મીઠું ભેળવો.",
+        "ઊંડા વાસણમાં તેલ આશરે 175°C ગરમ કરો. આંગળીઓ ભીની કરી ખીરાનો નાનો ભાગ મધ્યમાં કાણાવાળી જાડી રિંગ બનાવો અને કાળજીથી તેલમાં મૂકો.",
+        "થોડા થોડા વડા એક વખતે 4–5 મિનિટ એકાદ વાર ફેરવી ઘેરા સોનેરી અને અંદર સુધી પાકે ત્યાં સુધી તળો. જાળી પર નિતારો; વચ્ચે તેલનો તાપ જાળવો.",
+        "તૈયાર સાંભાર ગરમ કરો, નાળિયેરની ચટણી વહેંચો અને દરેકને બે કરકરા વડા બંને સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "એક ચમચી ખીરું પાણીમાં તરે તો હળવા વડા માટે પૂરતી હવા છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/medu-vada-recipe-medu-vada/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

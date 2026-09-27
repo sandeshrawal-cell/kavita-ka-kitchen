@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R0044",
+  "id": "chow-chow-bath",
+  "status": "published-first-100-intake-batch",
+  "name": "Chow Chow Bath",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four breakfast plates",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "No long resting time; prepare savory and sweet halves separately.",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Divide the semolina into two equal portions. Roast each separately over low heat until fragrant but not brown; keep the savory and sweet batches apart.",
+    "For khara bath, heat oil, splutter mustard and curry leaves, then soften chopped onion and chilli. Add diced carrot and peas and cook for 3 minutes.",
+    "Pour in 450 ml boiling water and salt, then slowly add one semolina portion while stirring. Cover and cook 4–5 minutes until soft and moist; fluff and keep warm.",
+    "For kesari bath, boil the remaining water with sugar. Stir in the second roasted semolina portion gradually and cook until thick, then fold in ghee, cardamom and cashews toasted in a little of that ghee.",
+    "Spoon equal mounds of savory khara bath and sweet kesari bath side by side on four plates. Serve warm, keeping the two flavors distinct until eating."
+  ],
+  "tips": [
+    "The two semolina dishes share a plate but are cooked in separate pans."
+  ],
+  "allergens": [
+    "wheat",
+    "milk",
+    "cashew"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/chow-chow-bath.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "चाउ चाउ बाथ",
+      "passiveTime": "लंबा विराम नहीं; नमकीन और मीठे भाग अलग बनाएँ।",
+      "ingredients": [
+        "सूजी",
+        "पानी",
+        "प्याज़",
+        "गाजर",
+        "हरे मटर",
+        "हरी मिर्च",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "चीनी",
+        "घी",
+        "काजू",
+        "इलायची",
+        "नमक"
+      ],
+      "steps": [
+        "सूजी को दो बराबर भागों में बाँटें। हर भाग धीमी आँच पर अलग-अलग सुगंध आने तक भूनें, भूरा न करें; नमकीन और मीठा भाग अलग रखें।",
+        "खारा बाथ के लिए तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कटा प्याज़ और मिर्च नरम करें। कटी गाजर और मटर डालकर 3 मिनट पकाएँ।",
+        "450 मिली उबलता पानी और नमक डालें, फिर सूजी का एक भाग धीरे चलाते हुए डालें। ढककर 4–5 मिनट नरम और नम होने तक पकाएँ; फुलाकर गरम रखें।",
+        "केसरी बाथ के लिए बचा पानी चीनी के साथ उबालें। भुनी सूजी का दूसरा भाग धीरे मिलाकर गाढ़ा पकाएँ, फिर घी, इलायची और उसी घी में भुने काजू मिलाएँ।",
+        "चार प्लेटों में नमकीन खारा बाथ और मीठा केसरी बाथ बराबर ढेरों में साथ-साथ रखें। गरम परोसें, खाने तक दोनों स्वाद अलग रखें।"
+      ],
+      "tips": [
+        "दोनों सूजी व्यंजन एक प्लेट में होते हैं, पर अलग पैन में पकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચૌ ચૌ બાથ",
+      "passiveTime": "લાંબો વિરામ નથી; ખારો અને મીઠો ભાગ અલગ બનાવો.",
+      "ingredients": [
+        "રવો",
+        "પાણી",
+        "ડુંગળી",
+        "ગાજર",
+        "લીલા વટાણા",
+        "લીલું મરચું",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "ખાંડ",
+        "ઘી",
+        "કાજુ",
+        "ઈલાયચી",
+        "મીઠું"
+      ],
+      "steps": [
+        "રવાને બે સરખા ભાગમાં વહેંચો. દરેક ભાગ ધીમા તાપે અલગ સુગંધ આવે ત્યાં સુધી શેકો, ભૂરો ન કરો; ખારો અને મીઠો ભાગ અલગ રાખો.",
+        "ખારા બાથ માટે તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી સમારેલી ડુંગળી અને મરચું નરમ કરો. સમારેલી ગાજર અને વટાણા નાખી 3 મિનિટ શેકો.",
+        "450 મિલી ઉકળતું પાણી અને મીઠું નાખો, પછી રવાનો એક ભાગ ધીમે હલાવતા ઉમેરો. ઢાંકી 4–5 મિનિટ નરમ અને ભેજવાળું થાય ત્યાં સુધી પકાવો; ફુલાવી ગરમ રાખો.",
+        "કેસરી બાથ માટે બાકી પાણી ખાંડ સાથે ઉકાળો. શેકેલા રવાનો બીજો ભાગ ધીમે ભેળવી ઘટ્ટ પકાવો, પછી ઘી, ઈલાયચી અને એ જ ઘીમાં શેકેલા કાજુ ભેળવો.",
+        "ચાર થાળીમાં ખારા બાથ અને મીઠા કેસરી બાથના સરખા ઢગલા બાજુબાજુ મૂકો. ગરમ પીરસો, ખાતાં સુધી બંને સ્વાદ અલગ રાખો."
+      ],
+      "tips": [
+        "બંને રવાના વ્યંજન એક થાળીમાં હોય છે, પણ અલગ વાસણમાં પાકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/chow-chow-bath-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

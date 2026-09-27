@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R0095",
+  "id": "msemen",
+  "status": "published-first-100-intake-batch",
+  "name": "Msemen",
+  "cuisine": "Moroccan",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight square flatbreads",
+  "prepAndCookMinutes": 55,
+  "passiveTime": "Rest dough 30 minutes.",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fine semolina",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 55,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, 100 g semolina and salt. Add warm water gradually and knead 8–10 minutes into a smooth elastic dough.",
+    "Divide into eight balls, lightly oil each and rest covered for 30 minutes.",
+    "Mix remaining 60 g semolina with melted butter. On an oiled surface, stretch one ball very thin, brush with some butter mixture and fold all four sides toward the center into a square.",
+    "Flatten gently, then cook in a lightly oiled pan over medium heat for 3–4 minutes per side, turning until both sides have brown spots and the layers cook through.",
+    "Repeat with the other seven balls and serve warm."
+  ],
+  "tips": [
+    "Keep the dough covered during shaping so the thin layers do not dry out."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "मसेमन",
+      "passiveTime": "आटा 30 मिनट रखें।",
+      "ingredients": [
+        "मैदा",
+        "बारीक सूजी",
+        "गुनगुना पानी",
+        "नमक",
+        "सादा तेल",
+        "मक्खन"
+      ],
+      "steps": [
+        "मैदा, 100 ग्राम सूजी और नमक मिलाएँ। गुनगुना पानी धीरे डालकर 8–10 मिनट चिकना लचीला आटा गूँधें।",
+        "आठ लोइयाँ करें, हर एक पर हल्का तेल लगाएँ और ढककर 30 मिनट रखें।",
+        "बची 60 ग्राम सूजी को पिघले मक्खन में मिलाएँ। तेल लगी सतह पर एक लोई बहुत पतली फैलाएँ, कुछ मक्खन मिश्रण लगाएँ और चारों तरफ से बीच की ओर मोड़कर चौकोर बनाएँ।",
+        "धीरे चपटा करके हल्के तेल लगे पैन में मध्यम आँच पर हर तरफ 3–4 मिनट भूरे चित्ते और परतें अंदर तक पकने तक सेंकें।",
+        "बाकी सात लोइयों से भी ऐसे बनाएँ और गरम परोसें।"
+      ],
+      "tips": [
+        "बेलते समय आटा ढका रखें ताकि पतली परतें न सूखें।"
+      ]
+    },
+    "gu": {
+      "name": "મસેમેન",
+      "passiveTime": "લોટ 30 મિનિટ રાખો.",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી સોજી",
+        "હૂંફાળું પાણી",
+        "મીઠું",
+        "સાદું તેલ",
+        "માખણ"
+      ],
+      "steps": [
+        "મેંદો, 100 ગ્રામ સોજી અને મીઠું ભેળવો. હૂંફાળું પાણી ધીમે ઉમેરી 8–10 મિનિટ લીસો લવચીક લોટ બાંધો.",
+        "આઠ લૂવા કરો, દરેક પર થોડું તેલ લગાવી ઢાંકી 30 મિનિટ રાખો.",
+        "બાકી 60 ગ્રામ સોજી ઓગાળેલા માખણમાં ભેળવો. તેલવાળી સપાટી પર એક લૂવો ખૂબ પાતળો ખેંચો, માખણનું મિશ્રણ લગાવી ચારેય બાજુ વચ્ચેથી વાળી ચોરસ બનાવો.",
+        "હળવેથી સપાટ કરી થોડા તેલવાળા પેનમાં મધ્યમ તાપે દરેક બાજુ 3–4 મિનિટ ભૂરા ડાઘ અને પડ અંદર સુધી પાકે ત્યાં સુધી શેકો.",
+        "બાકી સાત લૂવા પણ એમ જ બનાવી ગરમ પીરસો."
+      ],
+      "tips": [
+        "વણતી વખતે લોટ ઢાંકી રાખો જેથી પાતળા પડ સુકાય નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/msemen.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

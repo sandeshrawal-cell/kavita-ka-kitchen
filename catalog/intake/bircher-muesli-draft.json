@@ -1,0 +1,114 @@
+{
+  "sourceReviewId": "R0079",
+  "id": "bircher-muesli",
+  "status": "published-first-100-intake-batch",
+  "name": "Bircher Muesli",
+  "cuisine": "Swiss",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 15,
+  "passiveTime": "Chill overnight or for at least 4 hours.",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "apple",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "almonds",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "mixed berries",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix oats, milk and yogurt in a covered bowl; refrigerate at least 4 hours or overnight until the oats soften.",
+    "Grate half the apple and toss it with lemon juice to prevent browning. Stir it into the soaked oats.",
+    "If the mixture is very thick, loosen with a little milk. Divide among four bowls.",
+    "Slice the remaining apple, then top the bowls with apple, chopped almonds and berries. Serve cold."
+  ],
+  "tips": [
+    "Add crunchy nuts and fruit only at serving time."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy",
+    "nuts"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बिर्चर म्यूसली",
+      "passiveTime": "रात भर या कम से कम 4 घंटे ठंडा करें।",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "दूध",
+        "सादा दही",
+        "सेब",
+        "नींबू का रस",
+        "बादाम",
+        "मिश्रित बेरी"
+      ],
+      "steps": [
+        "ओट्स, दूध और दही ढक्कन वाले कटोरे में मिलाकर कम से कम 4 घंटे या रात भर ठंडा रखें ताकि ओट्स नरम हों।",
+        "आधा सेब कद्दूकस करके काला पड़ने से रोकने के लिए नींबू रस मिलाएँ। इसे भीगे ओट्स में मिलाएँ।",
+        "मिश्रण बहुत गाढ़ा हो तो थोड़ा दूध मिलाएँ। चार कटोरियों में बाँटें।",
+        "बचा सेब काटें और कटोरियों पर सेब, कटे बादाम और बेरी डालें। ठंडा परोसें।"
+      ],
+      "tips": [
+        "करारे मेवे और फल परोसते समय ही डालें।"
+      ]
+    },
+    "gu": {
+      "name": "બિર્ચર મ્યુઝલી",
+      "passiveTime": "રાતભર અથવા ઓછામાં ઓછા 4 કલાક ઠંડું રાખો.",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "દૂધ",
+        "સાદું દહીં",
+        "સફરજન",
+        "લીંબુનો રસ",
+        "બદામ",
+        "મિશ્ર બેરી"
+      ],
+      "steps": [
+        "ઓટ્સ, દૂધ અને દહીં ઢાંકણવાળી વાટકીમાં ભેળવી ઓછામાં ઓછા 4 કલાક અથવા રાતભર ફ્રિજમાં રાખો જેથી ઓટ્સ નરમ થાય.",
+        "અડધું સફરજન છીણી કાળું ન પડે માટે લીંબુનો રસ ભેળવો. તેને પલાળેલા ઓટ્સમાં ઉમેરો.",
+        "મિશ્રણ બહુ ઘટ્ટ હોય તો થોડું દૂધ ઉમેરો. ચાર વાટકામાં વહેંચો.",
+        "બાકી સફરજનના કટકા કરી વાટકાઓ પર સફરજન, સમારેલા બદામ અને બેરી નાખો. ઠંડું પીરસો."
+      ],
+      "tips": [
+        "કરકરા બદામ અને ફળ પીરસતી વખતે જ ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bircher-muesli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

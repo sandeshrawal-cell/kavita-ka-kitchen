@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R0004",
+  "id": "coconut-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Coconut Dosa",
+  "aliases": [
+    "Kayi Dosa"
+  ],
+  "cuisine": "Karnataka",
+  "categories": [
+    "Breakfast",
+    "Dinner",
+    "No Onion-Garlic"
+  ],
+  "baseServings": 4,
+  "yield": "About eight small, thick dosas",
+  "prepAndCookMinutes": 45,
+  "passiveTime": "Soak rice and poha for 4–5 hours, then ferment the batter for 10–12 hours in a warm place.",
+  "ingredients": [
+    {
+      "name": "raw rice",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "thin flattened rice (poha)",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse the rice, poha and fenugreek separately, then combine in a bowl with the measured water. Soak for 4–5 hours until a rice grain breaks easily when pressed. Reserve the soaking water.",
+    "Drain, keeping the water. Grind the rice mixture in batches with the fresh coconut, adding only enough reserved water to make a smooth, thick batter that falls slowly from a ladle.",
+    "Pour the batter into a roomy clean vessel, cover loosely and leave in a warm place for 10–12 hours. It should rise, show small bubbles and smell pleasantly fermented. Discard batter with an off smell.",
+    "Gently mix in the salt. Heat a seasoned flat griddle over medium heat and brush with a little of the measured oil. Pour a small ladle of batter into a thick circle about 12 cm across; do not spread thin.",
+    "Drizzle oil around the edge, cover and cook for 2–3 minutes until the top is set and the underside has light golden spots. Lift with a spatula; flipping is unnecessary if the top is fully cooked. Repeat with the remaining batter and oil.",
+    "Serve two small dosas per person while warm. Cool any leftover batter promptly, refrigerate it in a covered container and stir gently before the next use."
+  ],
+  "tips": [
+    "Fresh coconut and a thick batter give this dosa its soft, porous texture. The photo includes coconut chutney only as an optional serving suggestion."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "dietaryFacts": {
+    "overnightFermentation": true,
+    "yeast": false
+  },
+  "photoDraft": "catalog/intake/photos/coconut-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "नारियल डोसा",
+      "passiveTime": "चावल और पोहा 4–5 घंटे भिगोएँ, फिर घोल को गरम स्थान पर 10–12 घंटे खमीर उठने दें।",
+      "ingredients": [
+        "कच्चे चावल",
+        "पतला पोहा",
+        "ताज़ा कसा नारियल",
+        "मेथी दाना",
+        "पीने का पानी",
+        "नमक",
+        "साधारण वनस्पति तेल"
+      ],
+      "steps": [
+        "चावल, पोहा और मेथी अलग-अलग धोकर कटोरे में नापे हुए पानी के साथ मिलाएँ। 4–5 घंटे भिगोएँ, जब तक चावल का दाना दबाने पर आसानी से टूटे। भिगोने वाला पानी बचाकर रखें।",
+        "मिश्रण छानें और पानी बचाएँ। ताज़े नारियल के साथ थोड़ी-थोड़ी मात्रा में पीसें। बचा पानी बस इतना डालें कि चिकना, गाढ़ा घोल बने जो करछुल से धीरे गिरे।",
+        "घोल को बड़े साफ बर्तन में डालकर ढीला ढकें और गरम जगह पर 10–12 घंटे रखें। घोल फूल जाए, छोटे बुलबुले दिखें और हल्की खमीर की अच्छी सुगंध आए। खराब गंध वाला घोल फेंक दें।",
+        "नमक हल्के से मिलाएँ। तैयार चपटा तवा मध्यम आँच पर गरम करके थोड़ा नापा हुआ तेल लगाएँ। छोटी करछुल घोल डालकर लगभग 12 सेमी का मोटा गोल डोसा बनाएँ; पतला न फैलाएँ।",
+        "किनारे पर थोड़ा तेल डालें, ढककर 2–3 मिनट पकाएँ जब तक ऊपर से पक जाए और नीचे हल्के सुनहरे धब्बे हों। ऊपर पूरी तरह पक गया हो तो पलटना जरूरी नहीं। बचा घोल और तेल इसी तरह उपयोग करें।",
+        "प्रति व्यक्ति दो छोटे डोसे गरम परोसें। बचा घोल तुरंत ठंडा करके ढके बर्तन में फ्रिज में रखें और अगली बार इस्तेमाल से पहले हल्के से चलाएँ।"
+      ],
+      "tips": [
+        "ताज़ा नारियल और गाढ़ा घोल डोसे को नरम व झरझरा बनाते हैं। फोटो में नारियल की चटनी केवल वैकल्पिक परोसने का सुझाव है।"
+      ]
+    },
+    "gu": {
+      "name": "નાળિયેર ઢોસા",
+      "passiveTime": "ચોખા અને પૌંઆને 4–5 કલાક પલાળો, પછી ખીરાને ગરમ જગ્યાએ 10–12 કલાક આથો આવવા દો.",
+      "ingredients": [
+        "કાચા ચોખા",
+        "પાતળા પૌંઆ",
+        "તાજું ખમણેલું નાળિયેર",
+        "મેથીના દાણા",
+        "પીવાનું પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "ચોખા, પૌંઆ અને મેથી અલગ-અલગ ધોઈને વાટકામાં માપેલા પાણી સાથે ભેળવો. 4–5 કલાક પલાળો, ચોખાનો દાણો દબાવતાં સહેલાઈથી તૂટે ત્યાં સુધી. પલાળેલું પાણી સાચવો.",
+        "મિશ્રણ નિતારી પાણી સાચવો. તાજા નાળિયેર સાથે થોડા-થોડા પીસો. સાચવેલું પાણી ફક્ત એટલું ઉમેરો કે સરસ ઘટ્ટ ખીરું બને અને ચમચીમાંથી ધીમે પડે.",
+        "ખીરું મોટા સ્વચ્છ વાસણમાં રેડી ઢીલું ઢાંકો અને ગરમ જગ્યાએ 10–12 કલાક મૂકો. તે ફૂલે, નાના પરપોટા દેખાય અને સારો આથો આવેલો સુગંધ આવે. ખરાબ વાસવાળું ખીરું ફેંકી દો.",
+        "મીઠું હળવેથી ભેળવો. તૈયાર સપાટ તવો મધ્યમ તાપે ગરમ કરી થોડું માપેલું તેલ લગાવો. નાનો ચમચો ખીરું રેડી આશરે 12 સેમીનો જાડો ગોળ ઢોસો બનાવો; પાતળો ન ફેલાવો.",
+        "કિનારે થોડું તેલ નાખો, ઢાંકીને 2–3 મિનિટ શેકો, ઉપરથી શેકાઈ જાય અને નીચે આછા સોનેરી ડાઘ પડે ત્યાં સુધી. ઉપરથી પૂરો શેકાયો હોય તો ફેરવવાની જરૂર નથી. બાકી ખીરું અને તેલથી આમ જ બનાવો.",
+        "વ્યક્તિ દીઠ બે નાના ઢોસા ગરમ પીરસો. વધેલું ખીરું તરત ઠંડું કરી ઢાંકેલા ડબ્બામાં ફ્રિજમાં રાખો અને ફરી વાપરતાં પહેલાં હળવેથી હલાવો."
+      ],
+      "tips": [
+        "તાજું નાળિયેર અને ઘટ્ટ ખીરું ઢોસાને નરમ તથા છિદ્રાળુ બનાવે છે. ફોટામાં નાળિયેરની ચટણી ફક્ત વૈકલ્પિક પીરસવાનો વિચાર છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://chitrasfoodbook.com/coconut-dosa-recipe-karnataka-style/",
+    "use": "Karnataka dish identity, rice-poha-coconut batter and fermentation; quantities and wording independently authored."
+  }
+}

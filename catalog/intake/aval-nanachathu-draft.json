@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R0054",
+  "id": "aval-nanachathu",
+  "status": "published-first-100-intake-batch",
+  "name": "Aval Nanachathu",
+  "cuisine": "Kerala",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 15,
+  "passiveTime": "Rest the dressed flattened rice for 10 minutes.",
+  "ingredients": [
+    {
+      "name": "medium flattened rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "banana",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the flattened rice very briefly and drain thoroughly. Leave it 5 minutes so the flakes soften without disintegrating; use a medium thickness rather than the very thin uncooked-poha type.",
+    "Dissolve grated jaggery in the measured warm water, strain if gritty, and stir in cardamom and a tiny pinch of salt. This should be a light coating, not a pool of syrup.",
+    "Toss the softened aval with fresh grated coconut and the jaggery liquid. Fold gently until every flake is lightly coated.",
+    "Cover for 10 minutes so the coconut and jaggery moisture penetrates the aval. Slice bananas just before serving to avoid browning.",
+    "Divide into four bowls and top with banana slices. Serve at room temperature; this is a moist, sweet breakfast, not a cooked porridge."
+  ],
+  "tips": [
+    "Adjust softness with a tablespoon of water only if the flakes remain hard after resting."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "अवल ननाचथु",
+      "passiveTime": "मिले पोहे 10 मिनट रखें।",
+      "ingredients": [
+        "मध्यम पोहा",
+        "ताज़ा कसा नारियल",
+        "गुड़",
+        "केला",
+        "पानी",
+        "पिसी इलायची",
+        "नमक"
+      ],
+      "steps": [
+        "पोहा बहुत जल्दी धोकर अच्छी तरह छानें। 5 मिनट रखें ताकि पत्तियाँ टूटे बिना नरम हों; बहुत पतला कच्चा-पोहा प्रकार न लें।",
+        "कसा गुड़ नापे गरम पानी में घोलें, किरकिरा हो तो छानें और इलायची तथा चुटकी नमक मिलाएँ। यह हल्की परत बने, चाशनी का पोखर नहीं।",
+        "नरम अवल को ताज़ा कसे नारियल और गुड़ के तरल के साथ मिलाएँ। धीरे उलटें ताकि हर पत्ती पर हल्की परत लगे।",
+        "10 मिनट ढकें ताकि नारियल और गुड़ की नमी अवल में जाए। केले परोसने से ठीक पहले काटें ताकि भूरे न हों।",
+        "चार कटोरियों में बाँटकर केले के टुकड़े ऊपर रखें। सामान्य ताप पर परोसें; यह नम मीठा नाश्ता है, पका दलिया नहीं।"
+      ],
+      "tips": [
+        "रखने के बाद पत्तियाँ कड़ी रहें तभी एक चम्मच पानी से नरमी बढ़ाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "અવલ નનાચથુ",
+      "passiveTime": "ભેળવેલા પૌંઆ 10 મિનિટ રાખો.",
+      "ingredients": [
+        "મધ્યમ પૌંઆ",
+        "તાજું ખમણેલું નાળિયેર",
+        "ગોળ",
+        "કેળાં",
+        "પાણી",
+        "ઈલાયચી પાવડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "પૌંઆ બહુ ઝડપથી ધોઈ સારી રીતે નિતારો. 5 મિનિટ રાખો જેથી પાંખડીઓ તૂટ્યા વગર નરમ થાય; બહુ પાતળા કાચા-પૌંઆ પ્રકાર ન લો.",
+        "ખમણેલો ગોળ માપેલા ગરમ પાણીમાં ઓગાળો, કણ હોય તો ગાળો અને ઈલાયચી તથા ચપટી મીઠું ભેળવો. આ હળવું પડ બને, ચાસણીનું ખાબોચિયું નહીં.",
+        "નરમ અવલને તાજા ખમણેલા નાળિયેર અને ગોળના પ્રવાહી સાથે ભેળવો. હળવેથી ઉલટાવો જેથી દરેક પાંખડી પર આછું પડ લાગે.",
+        "10 મિનિટ ઢાંકો જેથી નાળિયેર અને ગોળનો ભેજ અવલમાં જાય. કેળાં પીરસતાં પહેલાં જ કાપો જેથી ભૂરા ન થાય.",
+        "ચાર વાટકામાં વહેંચી કેળાંની કતરણ ઉપર મૂકો. સામાન્ય તાપે પીરસો; આ ભેજવાળો મીઠો નાસ્તો છે, રાંધેલો પોરીજ નહીં."
+      ],
+      "tips": [
+        "રાખ્યા પછી પાંખડીઓ કઠણ રહે તો જ એક ચમચી પાણીથી નરમ કરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/aval-nanachathu-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/aval-nanachathu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

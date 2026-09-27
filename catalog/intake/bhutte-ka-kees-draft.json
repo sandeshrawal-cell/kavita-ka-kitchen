@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0071",
+  "id": "bhutte-ka-kees",
+  "status": "published-first-100-intake-batch",
+  "name": "Bhutte ka Kees",
+  "cuisine": "Madhya Pradesh",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four small bowls",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "sweet corn kernels",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Coarsely grate or pulse the corn, keeping a few kernels whole for texture; finely chop the chilli and ginger.",
+    "Warm ghee in a heavy pan. Splutter mustard and cumin, then fry chilli and ginger for 30 seconds.",
+    "Add grated corn, turmeric and salt. Stir over medium heat for 7 minutes until the raw aroma fades.",
+    "Pour in milk and cook 10–12 minutes, stirring often, until creamy and thick enough to mound on a spoon.",
+    "Turn off the heat, stir in lime juice and coriander, and serve warm in four bowls."
+  ],
+  "tips": [
+    "Use fresh tender corn; older kernels need a little extra milk."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "भुट्टे का कीस",
+      "ingredients": [
+        "मीठे मक्के के दाने",
+        "दूध",
+        "घी",
+        "राई",
+        "जीरा",
+        "हरी मिर्च",
+        "अदरक",
+        "हल्दी",
+        "नमक",
+        "नींबू का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मक्के को मोटा कद्दूकस या पल्स करें और बनावट के लिए थोड़े दाने साबुत रखें; मिर्च और अदरक बारीक काटें।",
+        "भारी पैन में घी गरम करें। राई और जीरा चटकाकर मिर्च और अदरक 30 सेकंड भूनें।",
+        "कद्दूकस मक्का, हल्दी और नमक डालें। मध्यम आँच पर 7 मिनट चलाएँ, जब तक कच्ची महक न जाए।",
+        "दूध डालकर 10–12 मिनट बार-बार चलाते हुए पकाएँ, जब तक मिश्रण मलाईदार और चम्मच पर टिकने लायक गाढ़ा न हो।",
+        "आँच बंद कर नींबू का रस और धनिया मिलाएँ; चार कटोरियों में गरम परोसें।"
+      ],
+      "tips": [
+        "नरम ताज़ा मक्का लें; पुराने दानों को थोड़ा अधिक दूध चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "ભુટ્ટે કા કીસ",
+      "ingredients": [
+        "મીઠી મકાઈના દાણા",
+        "દૂધ",
+        "ઘી",
+        "રાઈ",
+        "જીરું",
+        "લીલા મરચાં",
+        "આદુ",
+        "હળદર",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "મકાઈને મોટા કણમાં છીણી અથવા પલ્સ કરો અને થોડી દાણા આખી રાખો; મરચાં અને આદુ ઝીણા સમારો.",
+        "જાડા તળિયાની કઢાઈમાં ઘી ગરમ કરો. રાઈ અને જીરું તતડાવી મરચાં અને આદુ 30 સેકન્ડ સાંતળો.",
+        "છીણેલી મકાઈ, હળદર અને મીઠું ઉમેરો. કાચી સુગંધ જાય ત્યાં સુધી મધ્યમ તાપે 7 મિનિટ હલાવો.",
+        "દૂધ ઉમેરી વારંવાર હલાવતા 10–12 મિનિટ રાંધો, મિશ્રણ મલાઈદાર અને ચમચી પર ટકી રહે એટલું ઘટ્ટ થાય ત્યાં સુધી.",
+        "તાપ બંધ કરી લીંબુનો રસ અને કોથમીર ભેળવો; ચાર વાટકામાં ગરમ પીરસો."
+      ],
+      "tips": [
+        "કુમળી તાજી મકાઈ લો; જૂના દાણાને થોડું વધારે દૂધ જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bhutte-ka-kees.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

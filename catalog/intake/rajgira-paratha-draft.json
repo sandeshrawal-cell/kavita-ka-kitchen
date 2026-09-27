@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R0010",
+  "id": "rajgira-paratha",
+  "status": "published-first-100-intake-batch",
+  "name": "Rajgira Paratha",
+  "cuisine": "North Indian (Vrat)",
+  "categories": [
+    "Breakfast",
+    "Vrat/Fasting",
+    "Breads"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small flatbreads",
+  "prepAndCookMinutes": 45,
+  "passiveTime": "Allow the boiled potato to cool before making the dough.",
+  "ingredients": [
+    {
+      "name": "rajgira (amaranth) flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "drinking water",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "rock salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil the whole potatoes in a separate pan until a knife passes through the middle, about 20–25 minutes. Drain, cool enough to handle, peel and mash until smooth with no large lumps. The potatoes must not be watery.",
+    "Mix the rajgira flour, mashed potato, finely chopped green chilli, cumin, coriander and rock salt. Knead gently, adding the measured water a spoonful at a time only as needed, until the mixture holds together as a soft dough.",
+    "Divide the dough into eight balls. Flatten each between two sheets of baking parchment lightly greased with the measured ghee into a circle about 12 cm wide; rajgira contains no gluten, so pressing is safer than rolling hard. Peel away the upper sheet.",
+    "Heat a heavy griddle over medium heat. Invert one flatbread onto it, remove the remaining sheet and cook until the surface begins to dry. Turn carefully, brush with a little measured ghee and cook for 2–3 minutes until browned patches appear.",
+    "Brush the other side with ghee and cook until both faces are firm and the potato-amaranth centre is hot, not sticky. Repeat with the remaining dough and ghee. Serve two warm parathas per person; fasting rules vary by household, so check every ingredient against the household's own practice."
+  ],
+  "tips": [
+    "Use genuine rajgira flour, not wheat flour. If the dough cracks, add a little of the measured water and press between parchment instead of stretching it."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/rajgira-paratha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "राजगिरा पराठा",
+      "passiveTime": "आटा बनाने से पहले उबले आलू को ठंडा होने दें।",
+      "ingredients": [
+        "राजगिरा का आटा",
+        "आलू",
+        "पीने का पानी",
+        "घी",
+        "हरी मिर्च",
+        "जीरा",
+        "हरा धनिया",
+        "सेंधा नमक"
+      ],
+      "steps": [
+        "साबुत आलू अलग पैन में लगभग 20–25 मिनट उबालें, जब तक चाकू बीच से आसानी से निकल जाए। पानी निकालें, हाथ से संभालने लायक ठंडा करें, छीलें और बड़े टुकड़े न रहें तब तक मसलें। आलू गीले नहीं होने चाहिए।",
+        "राजगिरा आटा, मसले आलू, बारीक कटी हरी मिर्च, जीरा, धनिया और सेंधा नमक मिलाएँ। नापा हुआ पानी केवल जरूरत के अनुसार चम्मच-चम्मच डालकर हल्के से गूँधें, जब तक नरम आटा एक साथ बँध जाए।",
+        "आटे की आठ लोइयाँ बनाएँ। हर लोई को नापे घी से हल्के चिकने किए बेकिंग कागज़ की दो चादरों के बीच लगभग 12 सेमी गोल दबाएँ। राजगिरा में ग्लूटेन नहीं होता, इसलिए जोर से बेलने से बेहतर दबाना है। ऊपर का कागज़ हटाएँ।",
+        "भारी तवा मध्यम आँच पर गरम करें। एक पराठा उस पर उलटकर रखें, दूसरा कागज़ हटाएँ और सतह सूखने तक सेकें। सावधानी से पलटें, थोड़ा नापा घी लगाएँ और 2–3 मिनट सुनहरे धब्बे आने तक पकाएँ।",
+        "दूसरी ओर भी घी लगाकर सेकें, जब तक दोनों तरफ पराठा पक्का और आलू-राजगिरा का बीच गरम हो, चिपचिपा न रहे। बचे आटे और घी से ऐसे ही बनाएँ। प्रति व्यक्ति दो गरम पराठे परोसें; उपवास के नियम घर-घर बदलते हैं, इसलिए हर सामग्री अपने घर की प्रथा से जाँचें।"
+      ],
+      "tips": [
+        "असली राजगिरा आटा लें, गेहूँ का नहीं। आटा फटे तो नापे पानी में से थोड़ा मिलाकर कागज़ के बीच दबाएँ, खींचें नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "રાજગરાનો પરાઠો",
+      "passiveTime": "લોટ બાંધતાં પહેલાં બાફેલા બટાકા ઠંડા થવા દો.",
+      "ingredients": [
+        "રાજગરાનો લોટ",
+        "બટાકા",
+        "પીવાનું પાણી",
+        "ઘી",
+        "લીલું મરચું",
+        "જીરું",
+        "કોથમીર",
+        "સિંધવ મીઠું"
+      ],
+      "steps": [
+        "આખા બટાકા અલગ પેનમાં આશરે 20–25 મિનિટ બાફો, મધ્યમાંથી છરી સહેલાઈથી પસાર થાય ત્યાં સુધી. પાણી કાઢી હાથથી પકડી શકાય એટલા ઠંડા કરો, છોલી મોટી ગાંઠ ન રહે એમ મસળો. બટાકા પાણીવાળા ન હોવા જોઈએ.",
+        "રાજગરાનો લોટ, મસળેલા બટાકા, ઝીણું સમારેલું લીલું મરચું, જીરું, કોથમીર અને સિંધવ મીઠું ભેળવો. માપેલું પાણી ફક્ત જરૂર પ્રમાણે ચમચી-ચમચી ઉમેરી હળવેથી બાંધો, નરમ લોટ ભેગો થાય ત્યાં સુધી.",
+        "લોટના આઠ લૂવા બનાવો. દરેકને માપેલા ઘીથી હળવા ચીકણા કરેલા બેકિંગ કાગળની બે ચાદર વચ્ચે આશરે 12 સેમી ગોળ દબાવો. રાજગરામાં ગ્લૂટેન નથી, તેથી જોરથી વણવા કરતાં દબાવવું સારું. ઉપરનો કાગળ કાઢો.",
+        "ભારે તવો મધ્યમ તાપે ગરમ કરો. એક પરાઠો તેના પર ઊંધો મૂકી બીજો કાગળ કાઢો અને સપાટી સૂકાય ત્યાં સુધી શેકો. કાળજીથી ફેરવી થોડું માપેલું ઘી લગાવો અને 2–3 મિનિટ સોનેરી ડાઘ પડે ત્યાં સુધી શેકો.",
+        "બીજી બાજુ પણ ઘી લગાવી શેકો, બંને બાજુ પાકી અને બટાકા-રાજગરાનું મધ્ય ગરમ થાય, ચીકણું ન રહે ત્યાં સુધી. બાકી લોટ અને ઘીથી આમ જ બનાવો. વ્યક્તિ દીઠ બે ગરમ પરાઠા પીરસો; ઉપવાસના નિયમો ઘરે ઘરે બદલાય છે, એટલે દરેક સામગ્રી પોતાના ઘરની પ્રથા મુજબ તપાસો."
+      ],
+      "tips": [
+        "અસલી રાજગરાનો લોટ લો, ઘઉંનો નહીં. લોટ તૂટે તો માપેલા પાણીમાંથી થોડું ઉમેરી કાગળ વચ્ચે દબાવો, ખેંચશો નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/rajgira-paratha-recipe/",
+    "use": "Rajgira-potato flatbread identity and handling technique; quantities and wording independently authored."
+  }
+}

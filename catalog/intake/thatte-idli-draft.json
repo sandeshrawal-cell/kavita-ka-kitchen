@@ -1,0 +1,131 @@
+{
+  "sourceReviewId": "R0038",
+  "id": "thatte-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Thatte Idli",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four plate-sized idlis",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "flattened rice",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "prepared sambar",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and soak idli rice, urad dal and fenugreek for 5 hours. Soak poha briefly and grind it with the drained grains and measured water into a thick, smooth batter.",
+    "Cover loosely and ferment overnight until the batter has visibly risen. Gently fold in salt; avoid beating out the air that makes the large idlis soft.",
+    "Lightly oil four wide, flat thatte-idli plates. Pour the batter about 2 cm deep into each, leaving a little room at the rim for expansion.",
+    "Steam over actively boiling water for 12–15 minutes, until a skewer inserted at the centre comes out clean. Rest for 2 minutes before lifting each broad idli from its plate.",
+    "Serve one plate-sized idli per person with warm prepared sambar and coconut chutney. Its broad, flat shape is the defining feature; do not use small round idli moulds."
+  ],
+  "tips": [
+    "The batter should be thick enough to rise, but pourable into a flat plate."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/thatte-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "थट्टे इडली",
+      "passiveTime": "अनाज 5 घंटे भिगोकर घोल रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "इडली चावल",
+        "धुली उड़द दाल",
+        "पोहा",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी",
+        "तैयार सांभर"
+      ],
+      "steps": [
+        "इडली चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। पोहा थोड़ी देर भिगोकर छने अनाज और नापे पानी के साथ गाढ़ा चिकना घोल पीसें।",
+        "ढीला ढककर रात भर घोल साफ फूला दिखने तक खमीर उठाएँ। नमक धीरे मिलाएँ; बड़े इडली नरम बनाने वाली हवा न निकालें।",
+        "चार चौड़ी सपाट थट्टे-इडली प्लेटों में हल्का तेल लगाएँ। हर प्लेट में लगभग 2 सेमी गहराई तक घोल डालें, फूलने के लिए किनारे पर जगह छोड़ें।",
+        "तेजी से उबलते पानी की भाप में 12–15 मिनट पकाएँ, जब तक बीच में डाली सींक साफ निकले। हर चौड़ी इडली निकालने से पहले 2 मिनट रखें।",
+        "हर व्यक्ति को प्लेट जितनी एक इडली गरम तैयार सांभर और नारियल चटनी के साथ दें। इसका चौड़ा सपाट आकार खास है; छोटे गोल इडली साँचे न लें।"
+      ],
+      "tips": [
+        "घोल फूलने लायक गाढ़ा पर सपाट प्लेट में डालने योग्य हो।"
+      ]
+    },
+    "gu": {
+      "name": "થટ્ટે ઇડલી",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ઈડલીના ચોખા",
+        "ધોળી અડદ દાળ",
+        "પૌંઆ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી",
+        "તૈયાર સાંભાર"
+      ],
+      "steps": [
+        "ઈડલીના ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. પૌંઆ થોડા સમય પલાળી નિતારેલા ધાન્ય અને માપેલા પાણી સાથે ઘટ્ટ સુંવાળું ખીરું વાટો.",
+        "ઢીલું ઢાંકી રાતભર ખીરું સ્પષ્ટ ફૂલે ત્યાં સુધી આથો આવવા દો. મીઠું હળવેથી ભેળવો; મોટી ઈડલી નરમ કરતી હવા ન કાઢો.",
+        "ચાર પહોળી સપાટ થટ્ટે-ઈડલી થાળીમાં થોડું તેલ લગાવો. દરેકમાં આશરે 2 સેમી ઊંડે ખીરું રેડો, ફૂલવા કિનારે જગ્યા છોડો.",
+        "જોરથી ઉકળતા પાણીની વરાળમાં 12–15 મિનિટ બાફો, મધ્યમાં નાખેલી સળી ચોખ્ખી નીકળે ત્યાં સુધી. દરેક પહોળી ઈડલી કાઢતાં પહેલાં 2 મિનિટ રાખો.",
+        "દરેકને થાળી જેટલી એક ઈડલી ગરમ તૈયાર સાંભાર અને નાળિયેરની ચટણી સાથે આપો. તેનો પહોળો સપાટ આકાર ખાસ છે; નાના ગોળ ઈડલી બીબા ન લો."
+      ],
+      "tips": [
+        "ખીરું ફૂલવા જેટલું ઘટ્ટ પણ સપાટ થાળીમાં રેડી શકાય એવું હોવું જોઈએ."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/thatte-idli-recipe-plate-idli/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "sourceReviewId": "R0045",
+  "id": "tomato-bath",
+  "status": "published-first-100-intake-batch",
+  "name": "Tomato Bath",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "No passive preparation required.",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast semolina for 4 minutes until fragrant but pale, then spread it on a plate to cool.",
+    "Heat the measured oil in a wide pan, splutter mustard and curry leaves, then soften chopped onion, chilli and ginger for 4–5 minutes over medium heat.",
+    "Add chopped tomato and turmeric to the softened aromatics and cook for 6–8 minutes until the tomatoes collapse into a thick red base; toast cashews separately.",
+    "Add 650 ml boiling water and the measured salt. Sprinkle in roasted semolina slowly while stirring, cover and cook 4–5 minutes until the grains are soft but not gluey.",
+    "Switch off the heat, fluff gently and finish with chopped coriander. Divide into four bowls and serve warm; avoid packing down the grains. Top each bowl with the toasted cashews."
+  ],
+  "tips": [
+    "Cook the tomatoes down before adding water for a concentrated tomato flavor."
+  ],
+  "allergens": [
+    "wheat",
+    "cashew"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/tomato-bath.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "टमाटर बाथ",
+      "passiveTime": "अतिरिक्त विराम नहीं चाहिए।",
+      "ingredients": [
+        "सूजी",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "राई",
+        "करी पत्ता",
+        "साधारण वनस्पति तेल",
+        "नमक",
+        "हरा धनिया",
+        "टमाटर",
+        "हल्दी",
+        "काजू"
+      ],
+      "steps": [
+        "सूजी 4 मिनट सुगंध आने तक पर हल्की रंग की रहने तक सूखी भूनकर प्लेट पर ठंडी करें।",
+        "चौड़े पैन में नापा तेल गरम कर राई और करी पत्ता चटकाएँ, फिर कटा प्याज़, मिर्च और अदरक मध्यम आँच पर 4–5 मिनट नरम करें।",
+        "नरम तड़के में कटे टमाटर और हल्दी डालकर 6–8 मिनट गाढ़ा लाल आधार बनने तक पकाएँ; काजू अलग भूनें।",
+        "650 मिली उबलता पानी और नापा नमक डालें। भुनी सूजी धीरे चलाते हुए छिड़कें, ढककर 4–5 मिनट दाने नरम पर चिपचिपे न होने तक पकाएँ।",
+        "आँच बंद कर धीरे फुलाएँ और कटा धनिया डालें। चार कटोरियों में बाँटकर गरम परोसें; दानों को दबाएँ नहीं। हर कटोरी पर भुने काजू डालें।"
+      ],
+      "tips": [
+        "गाढ़े टमाटर स्वाद के लिए पानी से पहले टमाटर अच्छी तरह पकाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટામેટાં બાથ",
+      "passiveTime": "વધારાનો વિરામ જરૂરી નથી.",
+      "ingredients": [
+        "રવો",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "આદુ",
+        "રાઈ",
+        "લીમડાના પાન",
+        "સાદું વનસ્પતિ તેલ",
+        "મીઠું",
+        "લીલી કોથમીર",
+        "ટામેટાં",
+        "હળદર",
+        "કાજુ"
+      ],
+      "steps": [
+        "રવો 4 મિનિટ સુગંધ આવે પણ આછો રહે ત્યાં સુધી કોરો શેકી થાળીમાં ઠંડો કરો.",
+        "પહોળી કઢાઈમાં માપેલું તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી સમારેલી ડુંગળી, મરચું અને આદુ મધ્યમ તાપે 4–5 મિનિટ નરમ કરો.",
+        "નરમ વઘારમાં સમારેલા ટામેટાં અને હળદર નાખી 6–8 મિનિટ ઘટ્ટ લાલ આધાર બને ત્યાં સુધી રાંધો; કાજુ અલગ શેકો.",
+        "650 મિલી ઉકળતું પાણી અને માપેલું મીઠું નાખો. શેકેલો રવો ધીમે હલાવતા છાંટો, ઢાંકી 4–5 મિનિટ દાણા નરમ પણ ચીકણા ન થાય ત્યાં સુધી પકાવો.",
+        "તાપ બંધ કરી હળવેથી ફુલાવો અને સમારેલી કોથમીર નાખો. ચાર વાટકામાં વહેંચી ગરમ પીરસો; દાણાને દબાવશો નહીં. દરેક વાટકા પર શેકેલા કાજુ નાખો."
+      ],
+      "tips": [
+        "ઘાટા ટામેટાંના સ્વાદ માટે પાણી પહેલાં ટામેટાં સારી રીતે રાંધો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/tomato-bath-recipe-tomato-upma/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

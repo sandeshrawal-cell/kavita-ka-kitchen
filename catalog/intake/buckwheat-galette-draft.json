@@ -1,0 +1,122 @@
+{
+  "sourceReviewId": "R0091",
+  "id": "buckwheat-galette",
+  "status": "published-first-100-intake-batch",
+  "name": "Buckwheat Galette",
+  "cuisine": "French",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four filled galettes",
+  "prepAndCookMinutes": 45,
+  "passiveTime": "Rest batter 30 minutes.",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "mushrooms",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "grated cheese",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk buckwheat flour, half the salt and water into a thin smooth batter. Cover and rest 30 minutes.",
+    "Sauté sliced mushrooms in 15 g butter for 6 minutes; add spinach and cook 2 minutes until wilted. Season with remaining salt and pepper.",
+    "Heat a lightly buttered 24 cm pan over medium heat. Pour one quarter of the batter and swirl thinly; cook 2 minutes, then flip.",
+    "Scatter one quarter of the cheese and mushroom-spinach mixture in the center. Fold four sides inward to form a square, leaving the center visible.",
+    "Cook 2 minutes more until cheese melts. Repeat for four galettes, using remaining butter; serve hot."
+  ],
+  "tips": [
+    "Buckwheat batter is delicate; turn only after the edges release easily."
+  ],
+  "allergens": [
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "कुट्टू गैलेट",
+      "passiveTime": "घोल 30 मिनट रखें।",
+      "ingredients": [
+        "कुट्टू का आटा",
+        "पानी",
+        "नमक",
+        "मशरूम",
+        "पालक",
+        "कद्दूकस चीज़",
+        "मक्खन",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "कुट्टू के आटे, आधे नमक और पानी को पतला चिकना घोल बनाएँ। ढककर 30 मिनट रखें।",
+        "कटे मशरूम 15 ग्राम मक्खन में 6 मिनट भूनें; पालक डालकर 2 मिनट मुरझाने तक पकाएँ। बचे नमक और काली मिर्च से स्वाद दें।",
+        "हल्के मक्खन लगे 24 सेमी पैन को मध्यम आँच पर गरम करें। एक चौथाई घोल डालकर पतला फैलाएँ; 2 मिनट पकाकर पलटें।",
+        "बीच में एक चौथाई चीज़ और मशरूम-पालक रखें। बीच खुला छोड़ते हुए चारों किनारे अंदर मोड़कर चौकोर बनाएँ।",
+        "चीज़ पिघलने तक 2 मिनट और पकाएँ। बचे मक्खन से चार गैलेट बनाएँ; गरम परोसें।"
+      ],
+      "tips": [
+        "कुट्टू का घोल नाज़ुक होता है; किनारे आसानी से छूटें तभी पलटें।"
+      ]
+    },
+    "gu": {
+      "name": "કુટ્ટુ ગેલેટ",
+      "passiveTime": "ખીરું 30 મિનિટ રાખો.",
+      "ingredients": [
+        "કુટ્ટુનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "મશરૂમ",
+        "પાલક",
+        "છીણેલું ચીઝ",
+        "માખણ",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "કુટ્ટુનો લોટ, અડધું મીઠું અને પાણી ફેંટીને પાતળું લીસું ખીરું બનાવો. ઢાંકી 30 મિનિટ રાખો.",
+        "કાપેલા મશરૂમને 15 ગ્રામ માખણમાં 6 મિનિટ સાંતળો; પાલક ઉમેરી 2 મિનિટ ઢીલો પડે ત્યાં સુધી રાંધો. બાકી મીઠું અને કાળા મરી ઉમેરો.",
+        "હળવા માખણવાળો 24 સેમી પેન મધ્યમ તાપે ગરમ કરો. ખીરાનો ચોથો ભાગ રેડી પાતળું ફેલાવો; 2 મિનિટ શેકી પલટો.",
+        "વચ્ચે ચોથો ભાગ ચીઝ અને મશરૂમ-પાલક મૂકો. મધ્ય ભાગ દેખાય તેમ ચારેય બાજુ અંદર વાળી ચોરસ બનાવો.",
+        "ચીઝ ઓગળે ત્યાં સુધી વધુ 2 મિનિટ શેકો. બાકી માખણથી ચાર ગેલેટ બનાવો; ગરમ પીરસો."
+      ],
+      "tips": [
+        "કુટ્ટુનું ખીરું નાજુક છે; કિનારી સહેલાઈથી છૂટે ત્યારે જ પલટો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/buckwheat-galette.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

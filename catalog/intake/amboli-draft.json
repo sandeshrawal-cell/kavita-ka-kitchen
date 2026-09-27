@@ -1,0 +1,124 @@
+{
+  "sourceReviewId": "R0062",
+  "id": "amboli",
+  "status": "published-first-100-intake-batch",
+  "name": "Amboli",
+  "cuisine": "Malvani",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pancakes",
+  "prepAndCookMinutes": 45,
+  "passiveTime": "Soak grains for 5 hours and ferment batter overnight.",
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sorghum flour",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 470,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with most of the measured water to a smooth thick batter; whisk sorghum flour with the rest of the water and fold it in.",
+    "Cover loosely and ferment overnight until the batter rises and develops bubbles. Add salt gently and keep the consistency thick enough for a soft pancake.",
+    "Heat a seasoned griddle on medium and brush lightly with oil. Pour a ladle of batter into a thick 12 cm circle without spreading it paper-thin.",
+    "Cover for 2–3 minutes until the surface pores open and the top sets. Flip for roughly 1 minute and remove while the amboli is still soft, with light golden patches.",
+    "Make eight soft ambolis and serve two per person with coconut chutney. Do not use high heat, which hardens the outside before the middle steams."
+  ],
+  "tips": [
+    "A properly fermented thick batter gives amboli its characteristic soft porous top."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "अंबोली",
+      "passiveTime": "अनाज 5 घंटे भिगोकर घोल रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "चावल",
+        "धुली उड़द दाल",
+        "ज्वार का आटा",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी के अधिक भाग से चिकना गाढ़ा घोल पीसें; बचे पानी से ज्वार का आटा फेंटकर मिलाएँ।",
+        "ढीला ढककर रात भर फूलने और बुलबुले आने तक खमीर उठाएँ। नमक धीरे मिलाएँ और नरम पैनकेक के लिए घोल गाढ़ा रखें।",
+        "तैयार तवा मध्यम आँच पर गरम कर हल्का तेल लगाएँ। एक करछी घोल लगभग 12 सेमी मोटे गोल में डालें, कागज़ जितना पतला न फैलाएँ।",
+        "2–3 मिनट ढकें जब तक ऊपर छेद खुलें और परत जमे। लगभग 1 मिनट पलटकर हल्के सुनहरे धब्बों वाली नरम अंबोली निकालें।",
+        "आठ नरम अंबोलियाँ बनाकर हर व्यक्ति को दो नारियल चटनी के साथ दें। तेज आँच न लें, इससे बीच भाप में पकने से पहले बाहर सख्त हो जाएगा।"
+      ],
+      "tips": [
+        "ठीक खमीरी गाढ़ा घोल अंबोली का खास नरम छेददार ऊपरी भाग देता है।"
+      ]
+    },
+    "gu": {
+      "name": "આંબોલી",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી ખીરું રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ચોખા",
+        "ધોળી અડદ દાળ",
+        "જુવારનો લોટ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા મોટાભાગના પાણીથી સુંવાળું ઘટ્ટ ખીરું વાટો; બાકી પાણીથી જુવારનો લોટ ફેંટીને ભેળવો.",
+        "ઢીલું ઢાંકી રાતભર ફૂલે અને પરપોટા આવે ત્યાં સુધી આથો આવવા દો. મીઠું હળવેથી ભેળવી નરમ પેનકેક માટે ખીરું ઘટ્ટ રાખો.",
+        "તૈયાર તવો મધ્યમ તાપે ગરમ કરી થોડું તેલ લગાવો. એક કડછી ખીરું આશરે 12 સેમીના જાડા ગોળમાં રેડો, કાગળ જેવું પાતળું ન પાથરો.",
+        "2–3 મિનિટ ઢાંકો, ઉપર કાણા ખૂલે અને પડ ચડે ત્યાં સુધી. આશરે 1 મિનિટ ફેરવી આછા સોનેરી ડાઘવાળી નરમ આંબોલી કાઢો.",
+        "આઠ નરમ આંબોલી બનાવી દરેકને બે નાળિયેરની ચટણી સાથે આપો. ઊંચો તાપ ન લો, તે મધ્ય વરાળમાં પાકે પહેલાં બહાર કઠણ કરશે."
+      ],
+      "tips": [
+        "બરાબર આથેલું ઘટ્ટ ખીરું આંબોલીની ખાસ નરમ કાણાવાળી ઉપરની સપાટી આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/amboli-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/amboli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0034",
+  "id": "oats-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Oats Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Rest the batter for 15 minutes.",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk oat flour, rice flour, semolina, curd, salt and water into a thin smooth batter. Add cumin, minced ginger and green chilli.",
+    "Rest for 15 minutes. Stir again; oats and semolina absorb water, so loosen with a little extra water if the batter no longer pours freely.",
+    "Heat a seasoned griddle over medium-high heat. Pour batter from the outside towards the centre, making a thin lacy round; do not press or spread it like a thick pancake.",
+    "Drizzle a little measured oil around the edges and cook for 3–4 minutes until the underside is golden and the top dry. Flip for 20–30 seconds only if needed.",
+    "Fold and serve immediately with coconut chutney. Stir the batter before every dosa so the oat solids stay evenly distributed."
+  ],
+  "tips": [
+    "Use a thin batter; oats thicken rapidly as they sit."
+  ],
+  "allergens": [
+    "wheat",
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/oats-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "ओट्स डोसा",
+      "passiveTime": "घोल 15 मिनट रखें।",
+      "ingredients": [
+        "ओट्स का आटा",
+        "चावल का आटा",
+        "सूजी",
+        "सादा दही",
+        "पानी",
+        "जीरा",
+        "अदरक",
+        "हरी मिर्च",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "ओट्स का आटा, चावल का आटा, सूजी, दही, नमक और पानी फेंटकर पतला चिकना घोल बनाएँ। जीरा, बारीक अदरक और हरी मिर्च डालें।",
+        "15 मिनट रखें। फिर चलाएँ; ओट्स और सूजी पानी सोखते हैं, इसलिए घोल स्वतंत्र न बहे तो थोड़ा और पानी मिलाएँ।",
+        "तैयार तवा मध्यम-तेज आँच पर गरम करें। बाहर से बीच की ओर घोल डालकर पतला जालीदार गोल बनाएँ; मोटे पैनकेक की तरह दबाकर न फैलाएँ।",
+        "थोड़ा नापा तेल किनारों पर डालें और तला सुनहरा तथा ऊपर सूखा होने तक 3–4 मिनट पकाएँ। जरूरत हो तभी 20–30 सेकंड पलटें।",
+        "मोड़कर नारियल चटनी के साथ तुरंत परोसें। हर डोसे से पहले घोल चलाएँ ताकि ओट्स बराबर रहें।"
+      ],
+      "tips": [
+        "पतला घोल लें; ओट्स रखने पर जल्दी गाढ़े होते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ ડોસા",
+      "passiveTime": "ખીરું 15 મિનિટ રાખો.",
+      "ingredients": [
+        "ઓટ્સનો લોટ",
+        "ચોખાનો લોટ",
+        "રવો",
+        "સાદું દહીં",
+        "પાણી",
+        "જીરું",
+        "આદુ",
+        "લીલું મરચું",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ઓટ્સનો લોટ, ચોખાનો લોટ, રવો, દહીં, મીઠું અને પાણી ફેંટીને પાતળું સુંવાળું ખીરું બનાવો. જીરું, બારીક આદુ અને લીલું મરચું ઉમેરો.",
+        "15 મિનિટ રાખો. ફરી હલાવો; ઓટ્સ અને રવો પાણી શોષે છે, તેથી ખીરું સરળતાથી ન વહે તો થોડું વધુ પાણી નાખો.",
+        "તૈયાર તવો મધ્યમ-ઊંચા તાપે ગરમ કરો. બહારથી મધ્ય તરફ ખીરું રેડી પાતળો જાળીદાર ગોળ બનાવો; જાડા પેનકેકની જેમ દબાવી પાથરશો નહીં.",
+        "થોડું માપેલું તેલ કિનારે નાખી નીચે સોનેરી અને ઉપર સૂકું થાય ત્યાં સુધી 3–4 મિનિટ શેકો. જરૂર પડે તો જ 20–30 સેકન્ડ ફેરવો.",
+        "વાળી નાળિયેરની ચટણી સાથે તરત પીરસો. દરેક ડોસા પહેલાં ખીરું હલાવો જેથી ઓટ્સ સરખા રહે."
+      ],
+      "tips": [
+        "પાતળું ખીરું રાખો; ઓટ્સ ઊભાં રહેતાં ઝડપથી ઘટ્ટ થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/oats-dosa-recipe-instant-oats-rava-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

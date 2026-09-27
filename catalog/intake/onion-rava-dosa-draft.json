@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0024",
+  "id": "onion-rava-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Onion Rava Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Rest the batter for 20 minutes.",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 740,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk semolina, rice flour, plain flour and salt with the measured water into a very thin batter. Add cumin and finely minced ginger; leave it for 20 minutes.",
+    "Finely dice onion and green chilli. Stir them into the batter just before cooking, then stir again before each dosa because semolina sinks and onion floats.",
+    "Heat a well-seasoned griddle until hot. Splash a ladleful of batter from outside towards the centre, allowing many tiny holes to remain; do not spread it like an ordinary dosa.",
+    "Drizzle a little of the measured oil into the holes and around the edges. Cook for 3–4 minutes until crisp and deep golden underneath, loosening the edges carefully.",
+    "Fold each dosa and serve at once with prepared coconut chutney. Add a splash of water if the final batter becomes thick; it must flow freely for a lacy crust."
+  ],
+  "tips": [
+    "Dice onion very small so pieces adhere to the thin lace instead of tearing it."
+  ],
+  "allergens": [
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/onion-rava-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "प्याज़ रवा डोसा",
+      "passiveTime": "घोल 20 मिनट रखें।",
+      "ingredients": [
+        "सूजी",
+        "चावल का आटा",
+        "मैदा",
+        "पानी",
+        "प्याज़",
+        "हरी मिर्च",
+        "जीरा",
+        "अदरक",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "सूजी, चावल का आटा, मैदा और नमक को नापे पानी के साथ बहुत पतले घोल में फेंटें। जीरा और बारीक अदरक डालकर 20 मिनट रखें।",
+        "प्याज़ और हरी मिर्च बारीक काटें। पकाने से ठीक पहले घोल में मिलाएँ, फिर हर डोसे से पहले चलाएँ क्योंकि सूजी नीचे और प्याज़ ऊपर आता है।",
+        "अच्छी तरह तैयार तवा गरम करें। करछी भर घोल बाहर से बीच की ओर छिड़कें, बहुत छोटे छेद रहने दें; सामान्य डोसे जैसा न फैलाएँ।",
+        "थोड़ा नापा तेल छेदों और किनारों में डालें। नीचे कुरकुरा गहरा सुनहरा होने तक 3–4 मिनट पकाएँ और किनारे धीरे छुड़ाएँ।",
+        "हर डोसा मोड़कर तैयार नारियल चटनी के साथ तुरंत परोसें। आखिर में घोल गाढ़ा हो तो थोड़ा पानी डालें; जालीदार परत के लिए स्वतंत्र बहना चाहिए।"
+      ],
+      "tips": [
+        "प्याज़ बहुत बारीक काटें ताकि पतली जाली से चिपके, उसे फाड़े नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ડુંગળી રવા ડોસા",
+      "passiveTime": "ખીરું 20 મિનિટ રાખો.",
+      "ingredients": [
+        "રવો",
+        "ચોખાનો લોટ",
+        "મેંદો",
+        "પાણી",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "જીરું",
+        "આદુ",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "રવો, ચોખાનો લોટ, મેંદો અને મીઠું માપેલા પાણીમાં ફેંટીને બહુ પાતળું ખીરું બનાવો. જીરું અને બારીક આદુ નાખી 20 મિનિટ રાખો.",
+        "ડુંગળી અને લીલું મરચું બારીક સમારો. બનાવતાં પહેલાં જ ખીરામાં ભેળવો, પછી દરેક ડોસા પહેલાં હલાવો કારણ કે રવો નીચે અને ડુંગળી ઉપર આવે છે.",
+        "સારી રીતે તૈયાર તવો ગરમ કરો. કડછીભર ખીરું બહારથી મધ્ય તરફ છાંટો, ઘણાં નાનાં કાણા રહેવા દો; સામાન્ય ડોસાની જેમ પાથરશો નહીં.",
+        "થોડું માપેલું તેલ કાણા અને કિનારે નાખો. નીચે કરકરું ઘેરું સોનેરી થાય ત્યાં સુધી 3–4 મિનિટ શેકી કિનારી હળવેથી છોડાવો.",
+        "દરેક ડોસો વાળી તૈયાર નાળિયેરની ચટણી સાથે તરત પીરસો. અંતે ખીરું ઘટ્ટ થાય તો થોડું પાણી નાખો; જાળીદાર પડ માટે સરળતાથી વહેવું જોઈએ."
+      ],
+      "tips": [
+        "ડુંગળી બહુ બારીક સમારો જેથી પાતળી જાળી સાથે ચોંટે, તેને ફાડે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/onion-rava-dosa-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

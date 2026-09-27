@@ -6,6 +6,7 @@ import {VERSION,MODES,MEALS,CATEGORIES,norm,slug,dayKey,addDays,monday,esc,curre
 import {KitchenStore,supabaseRemote} from './storage.js';
 import {cachedJSON,loadCategory,loadCategories,dishes,getRecipe} from './catalog.js';
 import {dishPhoto,photoCredit} from './photos.js';
+import {chooseInspiration} from './inspiration.js';
 import {shoppingList,skillStep} from './intelligence.js';
 import {installFeatures} from './features.js';
 let features;
@@ -17,6 +18,7 @@ let party=household.party,filters={category:'Dinner',cuisine:'Any',time:0,effort
 let currentView='today',client,user,store,config,authEpoch=0,authMode='login',manifest,aliases={},week=monday(),results=[],visible=12,basket=[],syncState={},installPrompt,activeRecipe,recipeParty,step=0,timers=[],saveCallback,planTarget,searchVersion=0;
 let searchCompleted=false;
 const explicitFilters=new Set();
+let inspirationSignature='',inspirationIds=[];
 const icon={today:'⌂',discover:'✦',planner:'▦',combos:'♡',pantry:'◉',family:'♧',insights:'◴',settings:'⚙',more:'•••'};
 const navs={today:'Today',discover:'Discover',planner:'My week',combos:'My menus',pantry:'Pantry',family:'Family',insights:'Insights',settings:'Settings',more:'More'};
 const emoji=d=>d?.method==='coffee'?'☕':d?.method==='tea'?'🍵':d?.method==='blend'?'🥭':d?.method==='dessert'?'🍨':d?.method==='dal'?'🥣':d?.method==='flatbread'?'🫓':d?.method==='rice'?'🍚':d?.method==='assemble'?'🥗':'🍲';
@@ -52,6 +54,16 @@ async function finishWelcome(signup=false){
 }
 function maybeWelcome(){if(household.introDone||$('#dialog').open||location.pathname!=='/'||user&&!store)return;showWelcomeKitchen();}
 function currentFilters(){return {...filters,jainRules:household.jainRules,party,budget:party.budget,equipment:store?.value('config:equipment',[])||[],weather:store?.value('config:weather',{kind:'pleasant'})?.kind};}
+function homeInspirations(candidates){
+ const signature=candidates.map(d=>d.id).join('|');
+ if(signature!==inspirationSignature){
+  const key='kkk-home-inspiration-history-v1';let recent=[];
+  try{recent=JSON.parse(localStorage.getItem(key)||'[]');if(!Array.isArray(recent))recent=[];}catch{}
+  const selected=chooseInspiration(candidates,recent,4);inspirationIds=selected.map(d=>d.id);inspirationSignature=signature;
+  try{localStorage.setItem(key,JSON.stringify([...recent,...inspirationIds].slice(-200)));}catch{}
+ }
+ const byId=new Map(candidates.map(d=>[d.id,d]));return inspirationIds.map(id=>byId.get(id)).filter(Boolean);
+}
 function notify(text){$('#toast').textContent=text;$('#toast').classList.add('show');clearTimeout(notify.timer);notify.timer=setTimeout(()=>$('#toast').classList.remove('show'),5000);}
 function error(e){notify(e?.message||String(e));}
 function modal(title,body){$('#dialogBody').innerHTML=`<div class="modal-heading"><div><span class="eyebrow">KAVITA KA KITCHEN</span><h2 id="dialogTitle">${esc(title)}</h2></div>${languageControl()}<button class="icon-btn" data-action="close" aria-label="Close dialog">×</button></div>${body}`;if(!$('#dialog').open)$('#dialog').showModal();features?.decorateModal();}
@@ -71,7 +83,7 @@ function render(){
 function heading(kicker,title,copy,actions=''){return `<div class="page-heading"><div><span class="eyebrow">${kicker}</span><h1>${title}</h1><p>${copy}</p></div>${actions}</div>`;}
 function renderToday(){
  const name=store?.value('profile:me',{})?.name||'',hour=new Date().getHours(),greeting=hour<12?'Good morning':hour<17?'Good afternoon':'Good evening';
- const s=state(),featured=(manifest?.featured||[]).filter(d=>eligible(d,currentFilters(),s)),today=s.plans.filter(p=>p.date===dayKey());
+ const s=state(),featured=homeInspirations((manifest?.featured||[]).filter(d=>eligible(d,currentFilters(),s))),today=s.plans.filter(p=>p.date===dayKey());
  return `<div class="welcome"><div><span class="eyebrow">A LITTLE PLANNING. A LOT OF JOY.</span><h1><span>${greeting}</span>${name?', <span data-user-content>'+esc(name)+'</span>':''}<span class="sun"> ✺</span></h1><p>Something delicious starts here.</p></div><span class="date-label">${new Date().toLocaleDateString('en-IN',{weekday:'long',day:'numeric',month:'long'})}</span></div>
  ${welcomeHero({signedIn:!!user})}
  <div class="quick-grid"><button class="quick-card" data-action="headcount"><span class="quick-icon peach">♧</span><span><small>YOUR KITCHEN</small><b>${esc(MODES[party.mode])}</b><span>${headcount(party).servings} servings · Edit headcount</span></span><i>↗</i></button><button class="quick-card" data-nav="planner"><span class="quick-icon sage">▦</span><span><small>MAKE ROOM FOR YOUR WEEK</small><b>Plan once. Eat well.</b><span>${s.plans.length?'Your calendar is taking shape':'A calmer week starts with a plan'}</span></span><i>↗</i></button><button class="quick-card" data-nav="pantry"><span class="quick-icon lavender">♻</span><span><small>A LITTLE LESS WASTE</small><b>Use what you have</b><span>${s.pantry.length+s.leftovers.length} pantry & leftover items</span></span><i>↗</i></button></div>

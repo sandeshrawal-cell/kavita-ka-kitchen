@@ -1,0 +1,134 @@
+{
+  "sourceReviewId": "R0035",
+  "id": "godhuma-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Godhuma Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the batter for 10 minutes.",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk whole wheat flour and rice flour with the measured water until smooth and pourable. Mix in cumin, finely chopped chilli, grated ginger and salt.",
+    "Leave the batter for 10 minutes, then stir thoroughly. Whole wheat flour settles; keep the mixture as thin as buttermilk by adding a small splash of water if needed.",
+    "Heat a lightly oiled griddle. Pour a ladle of batter in a quick circular motion from the edge inward, leaving the small lacy holes that form naturally.",
+    "Drizzle a little of the remaining oil around each dosa. Cook over medium heat until the edges are crisp and the underside is brown, 3–4 minutes; flip briefly if the top is still damp.",
+    "Fold the hot wheat dosas and serve with coconut chutney. Stir before each pour to keep the flour suspended."
+  ],
+  "tips": [
+    "The rice flour helps crisp the otherwise soft whole-wheat batter."
+  ],
+  "allergens": [
+    "wheat",
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/godhuma-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "गोधुमा डोसा",
+      "passiveTime": "घोल 10 मिनट रखें।",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "चावल का आटा",
+        "पानी",
+        "जीरा",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "गेहूँ का आटा और चावल का आटा नापे पानी से चिकना बहता घोल बनाएँ। जीरा, बारीक मिर्च, कसा अदरक और नमक मिलाएँ।",
+        "घोल 10 मिनट रखें, फिर अच्छी तरह चलाएँ। गेहूँ का आटा नीचे बैठता है; जरूरत हो तो थोड़ा पानी डालकर पतली छाछ जैसा रखें।",
+        "हल्के तेल लगे तवे को गरम करें। एक करछी घोल किनारे से बीच की ओर तेजी से गोल डालें, स्वाभाविक बनने वाले छोटे जालीदार छेद रहने दें।",
+        "हर डोसे के किनारे थोड़ा बचा तेल डालें। मध्यम आँच पर किनारे कुरकुरे और तला भूरा होने तक 3–4 मिनट पकाएँ; ऊपर नम हो तो थोड़ा पलटें।",
+        "गरम गेहूँ डोसे मोड़कर नारियल चटनी के साथ दें। आटा बराबर रखने के लिए हर बार डालने से पहले घोल चलाएँ।"
+      ],
+      "tips": [
+        "चावल का आटा नरम गेहूँ के घोल को कुरकुरा बनाने में मदद करता है।"
+      ]
+    },
+    "gu": {
+      "name": "ગોધુમા ડોસા",
+      "passiveTime": "ખીરું 10 મિનિટ રાખો.",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "જીરું",
+        "લીલું મરચું",
+        "આદુ",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ઘઉંનો લોટ અને ચોખાનો લોટ માપેલા પાણીથી સુંવાળું વહેતું ખીરું બનાવો. જીરું, બારીક મરચું, છીણેલું આદુ અને મીઠું ભેળવો.",
+        "ખીરું 10 મિનિટ રાખી સારી રીતે હલાવો. ઘઉંનો લોટ નીચે બેસે છે; જરૂર હોય તો થોડું પાણી નાખી પાતળી છાશ જેવું રાખો.",
+        "થોડું તેલ લગાવેલો તવો ગરમ કરો. એક કડછી ખીરું કિનારેથી મધ્ય તરફ ઝડપથી ગોળ રેડો, કુદરતી બનતા નાનાં જાળીદાર કાણા રહેવા દો.",
+        "દરેક ડોસાની કિનારે થોડું બાકી તેલ નાખો. મધ્યમ તાપે કિનારી કરકરી અને તળિયું ભૂરું થાય ત્યાં સુધી 3–4 મિનિટ શેકો; ઉપર ભીનું હોય તો થોડું ફેરવો.",
+        "ગરમ ઘઉંના ડોસા વાળી નાળિયેરની ચટણી સાથે આપો. લોટ સરખો રહે તે માટે દરેક વખતે રેડતાં પહેલાં ખીરું હલાવો."
+      ],
+      "tips": [
+        "ચોખાનો લોટ નરમ ઘઉંના ખીરાને કરકરું બનાવવામાં મદદ કરે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/wheat-dosa-recipe-godhuma-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

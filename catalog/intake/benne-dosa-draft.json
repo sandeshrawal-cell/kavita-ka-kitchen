@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0029",
+  "id": "benne-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Benne Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potato",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice, urad dal and fenugreek for 5 hours. Grind with the measured water to a smooth batter, cover loosely and ferment overnight until visibly risen.",
+    "Stir in salt without flattening the batter. Heat a broad seasoned griddle; a drop of water should dance and evaporate quickly.",
+    "Mash the boiled potato. Melt 15 g butter in a small pan, splutter mustard, soften chopped onion, then stir in turmeric and potato to make a warm, fairly dry palya.",
+    "Heat a griddle on medium. Spread a ladle of fermented batter into a moderately thick round, thinner than a set dosa but thicker than paper dosa. Dot generously with some of the remaining butter.",
+    "Cook until the base is golden and the top nearly set, then flip briefly. Serve hot with a spoonful of potato palya, a small pat of remaining butter and coconut chutney; make eight dosas."
+  ],
+  "tips": [
+    "Benne means butter; its generous butter and soft-crisp centre distinguish this dosa."
+  ],
+  "allergens": [
+    "milk"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/benne-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "बेन्ने डोसा",
+      "passiveTime": "अनाज 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "मक्खन",
+        "उबला आलू",
+        "प्याज़",
+        "हल्दी",
+        "राई",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल, उड़द दाल और मेथी धोकर 5 घंटे भिगोएँ। नापे पानी से चिकना घोल पीसकर ढीला ढकें और रात भर साफ फूला दिखने तक खमीर उठाएँ।",
+        "नमक मिलाएँ, पर घोल की हवा न निकालें। चौड़ा तैयार तवा गरम करें; पानी की बूँद नाचकर जल्दी सूखनी चाहिए।",
+        "उबला आलू मसलें। छोटे पैन में 15 ग्राम मक्खन पिघलाकर राई चटकाएँ, कटा प्याज़ नरम करें, फिर हल्दी और आलू मिलाकर गरम, काफी सूखा पल्या बनाएँ।",
+        "मध्यम आँच पर तवा गरम करें। खमीरी घोल की करछी मध्यम मोटे गोल में फैलाएँ, सेट डोसे से पतला पर पेपर डोसे से मोटा। बचे मक्खन में से उदारता से छोटे टुकड़े ऊपर रखें।",
+        "तला सुनहरा और ऊपर लगभग जमा होने तक सेंकें, फिर थोड़ा पलटें। आलू पल्या, बचे मक्खन की छोटी डली और नारियल चटनी के साथ गरम परोसें; आठ डोसे बनाएँ।"
+      ],
+      "tips": [
+        "बेन्ने का अर्थ मक्खन है; भरपूर मक्खन और नरम-कुरकुरा बीच इसकी पहचान है।"
+      ]
+    },
+    "gu": {
+      "name": "બેન્ને ડોસા",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "માખણ",
+        "બાફેલા બટાકા",
+        "ડુંગળી",
+        "હળદર",
+        "રાઈ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા, અડદ દાળ અને મેથી ધોઈ 5 કલાક પલાળો. માપેલા પાણીથી સુંવાળું ખીરું વાટી ઢીલું ઢાંકો અને રાતભર સ્પષ્ટ ફૂલે ત્યાં સુધી આથો આવવા દો.",
+        "મીઠું ભેળવો, પણ ખીરાની હવા ન કાઢો. પહોળો તૈયાર તવો ગરમ કરો; પાણીનું ટીપું નાચીને ઝડપથી સુકાવું જોઈએ.",
+        "બાફેલા બટાકા છૂંદો. નાની કઢાઈમાં 15 ગ્રામ માખણ ઓગાળી રાઈ તતડાવો, સમારેલી ડુંગળી નરમ કરો, પછી હળદર અને બટાકા ભેળવી ગરમ, લગભગ સૂકું પલ્યા બનાવો.",
+        "મધ્યમ તાપે તવો ગરમ કરો. આથેલા ખીરાની કડછી મધ્યમ જાડા ગોળમાં પાથરો, સેટ ડોસાથી પાતળો પણ પેપર ડોસાથી જાડો. બાકી માખણમાંથી સારી માત્રામાં નાની ડેલીઓ ઉપર મૂકો.",
+        "નીચે સોનેરી અને ઉપર લગભગ ચડી જાય ત્યાં સુધી શેકો, પછી થોડો સમય ફેરવો. બટાકા પલ્યા, બાકી માખણની નાની ડેલી અને નાળિયેરની ચટણી સાથે ગરમ પીરસો; આઠ ડોસા બનાવો."
+      ],
+      "tips": [
+        "બેન્નેનો અર્થ માખણ છે; ભરપૂર માખણ અને નરમ-કરકરો મધ્ય ભાગ તેની ઓળખ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/davangere-benne-dosa-recipe-butter-dosa/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0074",
+  "id": "cheese-paratha",
+  "status": "published-first-100-intake-batch",
+  "name": "Cheese Paratha",
+  "cuisine": "North Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight small parathas",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour, water and 4 g salt into a soft dough; rest covered for 15 minutes.",
+    "Mix grated cheese with minced chilli, chopped coriander and the remaining 3 g salt. Divide into eight portions.",
+    "Divide dough into eight balls. Roll each to 10 cm, put one cheese portion in the middle, gather and seal edges, then gently roll to 15 cm.",
+    "Cook each on a medium-hot tawa until brown spots appear, turning and brushing with a little ghee on both sides. The cheese must melt and the dough cook through.",
+    "Rest 1 minute before cutting; serve warm with yogurt."
+  ],
+  "tips": [
+    "Seal tightly and roll gently to stop melted cheese leaking onto the tawa."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चीज़ पराठा",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "नमक",
+        "कद्दूकस चेडर चीज़",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "घी"
+      ],
+      "steps": [
+        "आटा, पानी और 4 ग्राम नमक गूँधकर मुलायम आटा बनाएँ; ढककर 15 मिनट रखें।",
+        "कद्दूकस चीज़ में कटी मिर्च, धनिया और बचा 3 ग्राम नमक मिलाएँ। आठ भाग करें।",
+        "आटे की आठ लोइयाँ बनाकर हर एक 10 सेमी बेलें, बीच में एक भाग चीज़ रखें, किनारे बंद करें और धीरे से 15 सेमी बेलें।",
+        "मध्यम गरम तवे पर चित्ते आने तक पकाएँ, पलटते हुए दोनों ओर थोड़ा घी लगाएँ। चीज़ पिघले और आटा पूरी तरह पके।",
+        "काटने से पहले 1 मिनट रखें; दही के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "चीज़ तवे पर न निकले, इसलिए किनारे अच्छी तरह बंद कर धीरे बेलें।"
+      ]
+    },
+    "gu": {
+      "name": "ચીઝ પરાઠા",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "છીણેલું ચેડર ચીઝ",
+        "લીલા મરચાં",
+        "લીલી કોથમીર",
+        "ઘી"
+      ],
+      "steps": [
+        "લોટ, પાણી અને 4 ગ્રામ મીઠું ભેળવી નરમ લોટ બાંધો; ઢાંકી 15 મિનિટ રાખો.",
+        "છીણેલા ચીઝમાં સમારેલાં મરચાં, કોથમીર અને બાકી 3 ગ્રામ મીઠું ભેળવો. આઠ ભાગ કરો.",
+        "લોટના આઠ લૂવા કરી દરેકને 10 સેમી વણો, વચ્ચે ચીઝનો એક ભાગ મૂકી કિનારી બંધ કરો અને હળવેથી 15 સેમી વણો.",
+        "મધ્યમ ગરમ તવા પર ડાઘ પડે ત્યાં સુધી શેકો, પલટાવતા બંને બાજુ થોડું ઘી લગાવો. ચીઝ ઓગળે અને લોટ પૂરો પાકે.",
+        "કાપતાં પહેલાં 1 મિનિટ રાખો; દહીં સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "ચીઝ તવા પર ન નીકળે માટે કિનારી બરાબર બંધ કરી હળવેથી વણો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cheese-paratha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

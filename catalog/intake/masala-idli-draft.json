@@ -1,0 +1,152 @@
+{
+  "sourceReviewId": "R0039",
+  "id": "masala-idli",
+  "status": "published-first-100-intake-batch",
+  "name": "Masala Idli",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 25,
+  "passiveTime": "No passive preparation required when cooked idlis are ready.",
+  "ingredients": [
+    {
+      "name": "cooked idlis",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Let the cooked idlis cool until firm, then cut them into bite-sized cubes. Chop onion, tomato, green chilli, ginger and coriander separately.",
+    "Heat oil in a wide pan, splutter mustard and curry leaves, then cook onion, ginger and chilli for 4–5 minutes until the onion softens.",
+    "Add tomato, turmeric, chilli powder and salt. Cook uncovered for 6–8 minutes, stirring, until the tomato becomes a thick coating rather than a watery sauce.",
+    "Add the idli cubes and toss gently for 2–3 minutes to coat all sides without breaking them. Cover for one minute so the centres heat through.",
+    "Scatter coriander over the hot idli and serve at once. Using cooled idlis helps each cube hold its shape in the masala."
+  ],
+  "tips": [
+    "This is a useful fresh preparation for cooled idlis, but the cubes must be heated fully before serving."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/masala-idli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मसाला इडली",
+      "passiveTime": "पकी इडली तैयार हो तो अतिरिक्त विराम नहीं।",
+      "ingredients": [
+        "पकी इडली",
+        "प्याज़",
+        "टमाटर",
+        "हरी मिर्च",
+        "अदरक",
+        "साधारण वनस्पति तेल",
+        "राई",
+        "करी पत्ता",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पकी इडली ठंडी कर थोड़ा सख्त होने दें, फिर छोटे कौर जितने टुकड़े काटें। प्याज़, टमाटर, हरी मिर्च, अदरक और धनिया अलग-अलग काटें।",
+        "चौड़े पैन में तेल गरम कर राई और करी पत्ता चटकाएँ, फिर प्याज़, अदरक और मिर्च 4–5 मिनट प्याज़ नरम होने तक पकाएँ।",
+        "टमाटर, हल्दी, लाल मिर्च और नमक डालें। बिना ढके 6–8 मिनट चलाते हुए पकाएँ जब तक टमाटर पानीदार सॉस की जगह गाढ़ी परत बने।",
+        "इडली के टुकड़े डालकर 2–3 मिनट धीरे उलटें ताकि टूटे बिना हर ओर मसाला लगे। एक मिनट ढककर बीच तक गरम करें।",
+        "गरम इडली पर धनिया छिड़ककर तुरंत परोसें। ठंडी इडली लेने से हर टुकड़ा मसाले में आकार बनाए रखता है।"
+      ],
+      "tips": [
+        "ठंडी इडली की नई तैयारी है, पर परोसने से पहले टुकड़े पूरी तरह गरम करें।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા ઈડલી",
+      "passiveTime": "પાકેલી ઈડલી તૈયાર હોય તો વધારાનો વિરામ નથી.",
+      "ingredients": [
+        "પાકેલી ઈડલી",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલું મરચું",
+        "આદુ",
+        "સાદું વનસ્પતિ તેલ",
+        "રાઈ",
+        "લીમડાના પાન",
+        "હળદર",
+        "લાલ મરચું પાવડર",
+        "મીઠું",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "પાકેલી ઈડલી ઠંડી કરી થોડી મજબૂત થવા દો, પછી કોળિયા જેટલા ટુકડા કાપો. ડુંગળી, ટામેટાં, લીલું મરચું, આદુ અને કોથમીર અલગ સમારો.",
+        "પહોળી કઢાઈમાં તેલ ગરમ કરી રાઈ અને લીમડાના પાન તતડાવો, પછી ડુંગળી, આદુ અને મરચું 4–5 મિનિટ ડુંગળી નરમ થાય ત્યાં સુધી શેકો.",
+        "ટામેટાં, હળદર, લાલ મરચું અને મીઠું નાખો. ઢાંક્યા વગર 6–8 મિનિટ હલાવતા રાંધો, ટામેટાં પાણીવાળી સોસને બદલે ઘટ્ટ પડ બને ત્યાં સુધી.",
+        "ઈડલીના ટુકડા નાખી 2–3 મિનિટ હળવેથી ઉલટાવો જેથી તૂટ્યા વગર ચારે બાજુ મસાલો ચડે. એક મિનિટ ઢાંકી મધ્ય સુધી ગરમ કરો.",
+        "ગરમ ઈડલી પર કોથમીર છાંટી તરત પીરસો. ઠંડી ઈડલી લેવાથી દરેક ટુકડો મસાલામાં આકાર રાખે છે."
+      ],
+      "tips": [
+        "ઠંડી ઈડલીની નવી વાનગી છે, પણ પીરસતાં પહેલાં ટુકડા પૂરેપૂરા ગરમ કરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/masala-idli-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

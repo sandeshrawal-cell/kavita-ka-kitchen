@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0072",
+  "id": "lauki-thepla",
+  "status": "published-first-100-intake-batch",
+  "name": "Lauki Thepla",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight thin theplas",
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "bottle gourd, grated",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Squeeze grated bottle gourd lightly, keeping its juice. Mix flour, gourd, yogurt, chopped coriander and chilli, turmeric, cumin, salt and 10 ml oil.",
+    "Knead to a soft nonsticky dough, adding retained gourd juice a spoonful at a time only if needed. Rest covered for 15 minutes.",
+    "Divide into eight balls. Dust lightly with flour and roll each into a thin 16–18 cm circle.",
+    "Cook each on a hot tawa until spots appear, turn, brush with some remaining oil, and cook both sides until golden spots form.",
+    "Stack in a clean cloth to keep soft. Serve warm with plain yogurt."
+  ],
+  "tips": [
+    "Do not add water before checking the moisture released by the gourd."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "लौकी थेपला",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "कद्दूकस लौकी",
+        "सादा दही",
+        "हरा धनिया",
+        "हरी मिर्च",
+        "हल्दी",
+        "जीरा",
+        "नमक",
+        "सादा तेल"
+      ],
+      "steps": [
+        "कद्दूकस लौकी हल्के से निचोड़ें और रस बचाएँ। आटा, लौकी, दही, कटा धनिया-मिर्च, हल्दी, जीरा, नमक और 10 मिली तेल मिलाएँ।",
+        "ज़रूरत पर बचा लौकी का रस थोड़ा-थोड़ा डालकर मुलायम, न चिपकने वाला आटा गूँधें। ढककर 15 मिनट रखें।",
+        "आठ लोइयाँ बनाएँ। हल्का सूखा आटा लगाकर हर लोई की पतली 16–18 सेमी रोटी बेलें।",
+        "गरम तवे पर चित्तियाँ आने तक सेंकें, पलटकर बचे तेल में से थोड़ा लगाएँ और दोनों ओर सुनहरी चित्तियाँ होने तक पकाएँ।",
+        "मुलायम रखने के लिए साफ कपड़े में रखें। सादे दही के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "लौकी की नमी जाँचे बिना पानी न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "દૂધીના થેપલા",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "છીણેલું દૂધી",
+        "સાદું દહીં",
+        "લીલી કોથમીર",
+        "લીલા મરચાં",
+        "હળદર",
+        "જીરું",
+        "મીઠું",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "છીણેલી દૂધી હળવી નિચોવી તેનો રસ રાખો. લોટ, દૂધી, દહીં, સમારેલી કોથમીર-મરચાં, હળદર, જીરું, મીઠું અને 10 મિલી તેલ ભેળવો.",
+        "જરૂર હોય તો રાખેલો દૂધીનો રસ થોડો-થોડો ઉમેરી ન ચોંટે એવો નરમ લોટ બાંધો. ઢાંકી 15 મિનિટ આરામ આપો.",
+        "આઠ લૂવા બનાવો. થોડો સૂકો લોટ લગાવી દરેકની 16–18 સેમીની પાતળી રોટલી વણો.",
+        "ગરમ તવા પર ડાઘ પડે ત્યાં સુધી શેકો, પલટી બાકી તેલમાંથી થોડું લગાવો અને બંને બાજુ સોનેરી ડાઘ પડે ત્યાં સુધી શેકો.",
+        "નરમ રહે તે માટે ચોખ્ખા કપડામાં રાખો. સાદા દહીં સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "દૂધીની ભીનાશ જોયા વગર પાણી ન ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/lauki-thepla.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

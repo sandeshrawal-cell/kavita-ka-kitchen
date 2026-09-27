@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0016",
+  "id": "natto-gohan",
+  "status": "published-first-100-intake-batch",
+  "name": "Natto Gohan",
+  "cuisine": "Japanese",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Soak rice for 15 minutes before cooking.",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 390,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared natto",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "Japanese mustard",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the rice until the water runs nearly clear, then soak it in the measured water for 15 minutes. Cook covered over low heat for about 15 minutes and rest off heat for 10 minutes without lifting the lid.",
+    "Open the prepared natto and stir it vigorously with chopsticks or a fork for 30–60 seconds until sticky threads develop and the beans turn creamy.",
+    "Mix soy sauce and mustard into the natto. Slice the spring onion thinly; do not heat the natto, which is traditionally added after the rice is cooked.",
+    "Fluff the hot rice and divide between four small bowls. Spoon a quarter of the seasoned natto over each bowl and scatter the spring onion on top.",
+    "Serve immediately while the rice is hot. Stir the beans through each bowl just before eating so every mouthful has rice and natto."
+  ],
+  "tips": [
+    "Check the natto seasoning packet before using it: some prepared sauces contain fish stock; this recipe uses plain soy sauce instead."
+  ],
+  "allergens": [
+    "soy",
+    "wheat"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/natto-gohan.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "नात्तो गोहान",
+      "passiveTime": "चावल पकाने से पहले 15 मिनट भिगोएँ।",
+      "ingredients": [
+        "छोटे दाने का चावल",
+        "पानी",
+        "तैयार नात्तो",
+        "सोया सॉस",
+        "जापानी सरसों पेस्ट",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "चावल का पानी लगभग साफ होने तक धोएँ, फिर नापे पानी में 15 मिनट भिगोएँ। ढककर धीमी आँच पर लगभग 15 मिनट पकाएँ और ढक्कन खोले बिना आँच से हटाकर 10 मिनट रखें।",
+        "तैयार नात्तो खोलकर चॉपस्टिक या काँटे से 30–60 सेकंड तेज चलाएँ, जब तक चिपचिपे धागे बनें और दाने मलाईदार लगें।",
+        "नात्तो में सोया सॉस और जापानी सरसों मिलाएँ। हरा प्याज़ बारीक काटें; नात्तो को गरम न करें, इसे पके चावल पर ही डालते हैं।",
+        "गरम चावल फुलाकर चार छोटी कटोरियों में बाँटें। हर कटोरी पर मसालेदार नात्तो का चौथाई हिस्सा डालें और हरा प्याज़ छिड़कें।",
+        "चावल गरम रहते तुरंत परोसें। खाने से ठीक पहले दाने चावल में मिलाएँ ताकि हर कौर में दोनों हों।"
+      ],
+      "tips": [
+        "तैयार नात्तो की सॉस जाँचें: कुछ में मछली का शोरबा होता है; यहाँ सादी सोया सॉस लें।"
+      ]
+    },
+    "gu": {
+      "name": "નાત્તો ગોહાન",
+      "passiveTime": "ચોખા રાંધતાં પહેલાં 15 મિનિટ પલાળો.",
+      "ingredients": [
+        "ટૂંકા દાણાવાળા ચોખા",
+        "પાણી",
+        "તૈયાર નાત્તો",
+        "સોયા સોસ",
+        "જાપાની રાઈની પેસ્ટ",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "ચોખાનું પાણી લગભગ ચોખ્ખું આવે ત્યાં સુધી ધોઈ માપેલા પાણીમાં 15 મિનિટ પલાળો. ઢાંકી ધીમા તાપે આશરે 15 મિનિટ રાંધો અને ઢાંકણું ખોલ્યા વગર તાપ પરથી ઉતારી 10 મિનિટ રાખો.",
+        "તૈયાર નાત્તો ખોલી ચોપસ્ટિક કે કાંટાથી 30–60 સેકન્ડ ઝડપથી હલાવો, ચીકણા તાર બને અને દાણા મલાઈદાર લાગે ત્યાં સુધી.",
+        "નાત્તોમાં સોયા સોસ અને જાપાની રાઈ ભેળવો. લીલી ડુંગળી ઝીણી સમારો; નાત્તોને ગરમ ન કરો, તેને રાંધેલા ચોખા પર ઉમેરાય છે.",
+        "ગરમ ચોખા ફુલાવી ચાર નાની વાટકામાં વહેંચો. દરેક પર મસાલેદાર નાત્તોનો ચોથો ભાગ મૂકો અને લીલી ડુંગળી છાંટો.",
+        "ચોખા ગરમ હોય ત્યારે તરત પીરસો. ખાતાં પહેલાં દાણા ચોખામાં ભેળવો જેથી દરેક કોળિયામાં બંને આવે."
+      ],
+      "tips": [
+        "તૈયાર નાત્તોની સોસ તપાસો: કેટલીક સોસમાં માછલીનો રસ હોય છે; અહીં સાદો સોયા સોસ લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.justonecookbook.com/natto/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

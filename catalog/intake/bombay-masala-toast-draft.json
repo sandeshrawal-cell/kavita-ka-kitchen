@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0096",
+  "id": "bombay-masala-toast",
+  "status": "published-first-100-intake-batch",
+  "name": "Bombay Masala Toast",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four sandwiches",
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "sliced bread",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chutney",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil potatoes until tender, peel and mash coarsely. Mix with cumin, chilli powder and 5 g salt.",
+    "Spread green chutney on four bread slices. Add one quarter of potato mash to each, then thin tomato and onion slices. Sprinkle remaining salt.",
+    "Top with the other four bread slices. Brush the outsides with butter.",
+    "Toast in a sandwich press or heavy pan, pressing lightly, for 4–5 minutes per side until crisp with deep grill marks and the filling is hot.",
+    "Cut diagonally and serve immediately with extra chutney if desired."
+  ],
+  "tips": [
+    "Use a thick green chutney so the bread remains crisp."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "बॉम्बे मसाला टोस्ट",
+      "ingredients": [
+        "ब्रेड स्लाइस",
+        "आलू",
+        "टमाटर",
+        "प्याज़",
+        "हरी चटनी",
+        "मक्खन",
+        "पिसा जीरा",
+        "मिर्च पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "आलू नरम होने तक उबालकर छीलें और मोटा मसलें। जीरा, मिर्च पाउडर और 5 ग्राम नमक मिलाएँ।",
+        "चार ब्रेड स्लाइस पर हरी चटनी लगाएँ। हर एक पर चौथाई आलू, फिर पतले टमाटर और प्याज़ रखें। बचा नमक छिड़कें।",
+        "बाकी चार ब्रेड स्लाइस ऊपर रखें। बाहर की तरफ मक्खन लगाएँ।",
+        "सैंडविच प्रेस या भारी पैन में हल्का दबाते हुए हर ओर 4–5 मिनट गहरी ग्रिल धारियाँ और गरम भरावन होने तक टोस्ट करें।",
+        "तिरछा काटकर तुरंत परोसें; चाहें तो और चटनी दें।"
+      ],
+      "tips": [
+        "ब्रेड कुरकुरी रखने के लिए गाढ़ी हरी चटनी लें।"
+      ]
+    },
+    "gu": {
+      "name": "બોમ્બે મસાલા ટોસ્ટ",
+      "ingredients": [
+        "બ્રેડની સ્લાઈસ",
+        "બટાકા",
+        "ટામેટાં",
+        "ડુંગળી",
+        "લીલી ચટણી",
+        "માખણ",
+        "જીરું પાવડર",
+        "મરચું પાવડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા નરમ થાય ત્યાં સુધી બાફી છોલી મોટા કણમાં મસળો. જીરું, મરચું પાવડર અને 5 ગ્રામ મીઠું ભેળવો.",
+        "ચાર બ્રેડ સ્લાઈસ પર લીલી ચટણી લગાવો. દરેક પર ચોથો ભાગ બટાકા, પછી પાતળાં ટામેટાં અને ડુંગળી મૂકો. બાકી મીઠું છાંટો.",
+        "બાકી ચાર બ્રેડ સ્લાઈસ ઉપર મૂકો. બહાર માખણ લગાવો.",
+        "સેન્ડવિચ પ્રેસ અથવા જાડા પેનમાં હળવું દબાવતા દરેક બાજુ 4–5 મિનિટ ઘેરા ગ્રિલ ડાઘ પડે અને ભરાવન ગરમ થાય ત્યાં સુધી શેકો.",
+        "ત્રાંસા કાપી તરત પીરસો; ગમે તો વધુ ચટણી આપો."
+      ],
+      "tips": [
+        "બ્રેડ કરકરી રાખવા ઘટ્ટ લીલી ચટણી લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bombay-masala-toast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

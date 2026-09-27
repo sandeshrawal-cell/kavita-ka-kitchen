@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0055",
+  "id": "rava-chilla",
+  "status": "published-first-100-intake-batch",
+  "name": "Rava Chilla",
+  "cuisine": "Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight chillas",
+  "prepAndCookMinutes": 35,
+  "passiveTime": "Rest the semolina-curd batter for 15 minutes.",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared green chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk semolina, curd, measured water and salt into a thick spoonable batter. Cover for 15 minutes so the semolina hydrates evenly.",
+    "Finely chop onion, green chilli and coriander and grate carrot. Fold them into the batter; if the semolina has thickened too much, add a small splash of water so it spreads with a spoon.",
+    "Heat a non-stick or seasoned griddle over medium heat and brush with a little measured oil. Spoon one-eighth of the batter into a small thick round and spread gently.",
+    "Cook 2–3 minutes until the underside is golden and the top nearly set. Flip carefully and cook another 2 minutes until the centre is firm with no raw semolina.",
+    "Make eight chillas and serve two per person with prepared green chutney. Keep the heat moderate so the vegetables and middle cook before the outside browns."
+  ],
+  "tips": [
+    "Let the batter hydrate before judging its thickness; dry semolina keeps absorbing water."
+  ],
+  "allergens": [
+    "wheat",
+    "milk"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "रवा चीला",
+      "passiveTime": "सूजी-दही का घोल 15 मिनट रखें।",
+      "ingredients": [
+        "सूजी",
+        "सादा दही",
+        "पानी",
+        "प्याज़",
+        "गाजर",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार हरी चटनी"
+      ],
+      "steps": [
+        "सूजी, दही, नापा पानी और नमक फेंटकर गाढ़ा चम्मच से गिरने वाला घोल बनाएँ। ढककर 15 मिनट रखें ताकि सूजी बराबर नमी सोखे।",
+        "प्याज़, हरी मिर्च और धनिया बारीक काटें, गाजर कसें। घोल में मिलाएँ; सूजी बहुत गाढ़ी हो तो थोड़ा पानी डालें ताकि चम्मच से फैल सके।",
+        "नॉन-स्टिक या तैयार तवा मध्यम आँच पर गरम कर थोड़ा नापा तेल लगाएँ। घोल का आठवाँ भाग छोटे मोटे गोल में डालकर धीरे फैलाएँ।",
+        "2–3 मिनट तला सुनहरा और ऊपर लगभग जमा होने तक पकाएँ। सावधानी से पलटकर 2 मिनट और पकाएँ, जब तक बीच सख्त हो और कच्ची सूजी न रहे।",
+        "आठ चीले बनाएँ और हर व्यक्ति को दो तैयार हरी चटनी के साथ दें। आँच मध्यम रखें ताकि बाहर भूरा होने से पहले सब्ज़ी और बीच पकें।"
+      ],
+      "tips": [
+        "गाढ़ाई जाँचने से पहले घोल रखें; सूजी पानी सोखती रहती है।"
+      ]
+    },
+    "gu": {
+      "name": "રવા ચીલા",
+      "passiveTime": "રવા-દહીંનું ખીરું 15 મિનિટ રાખો.",
+      "ingredients": [
+        "રવો",
+        "સાદું દહીં",
+        "પાણી",
+        "ડુંગળી",
+        "ગાજર",
+        "લીલું મરચું",
+        "લીલી કોથમીર",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર લીલી ચટણી"
+      ],
+      "steps": [
+        "રવો, દહીં, માપેલું પાણી અને મીઠું ફેંટીને ચમચીથી પડે એવું ઘટ્ટ ખીરું બનાવો. ઢાંકી 15 મિનિટ રાખો જેથી રવો સરખો ભેજ શોષે.",
+        "ડુંગળી, લીલું મરચું અને કોથમીર બારીક સમારો, ગાજર છીણો. ખીરામાં ભેળવો; રવો બહુ ઘટ્ટ થાય તો થોડું પાણી નાખો જેથી ચમચીથી પાથરી શકાય.",
+        "નોન-સ્ટિક કે તૈયાર તવો મધ્યમ તાપે ગરમ કરી થોડું માપેલું તેલ લગાવો. ખીરાનો આઠમો ભાગ નાના જાડા ગોળમાં રેડી હળવેથી પાથરો.",
+        "2–3 મિનિટ નીચે સોનેરી અને ઉપર લગભગ ચડે ત્યાં સુધી શેકો. કાળજીથી ફેરવી 2 મિનિટ વધુ શેકો, મધ્ય મજબૂત અને કાચો રવો ન રહે ત્યાં સુધી.",
+        "આઠ ચીલા બનાવી દરેકને બે તૈયાર લીલી ચટણી સાથે આપો. તાપ મધ્યમ રાખો જેથી બહાર ભૂરો થાય પહેલાં શાક અને મધ્ય પાકે."
+      ],
+      "tips": [
+        "ઘટ્ટતા તપાસતાં પહેલાં ખીરું રાખો; રવો પાણી શોષતો રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/rava-chilla-recipe-sooji-cheela/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/rava-chilla.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

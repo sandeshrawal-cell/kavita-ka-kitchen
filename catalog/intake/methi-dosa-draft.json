@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R0036",
+  "id": "methi-dosa",
+  "status": "published-first-100-intake-batch",
+  "name": "Methi Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight dosas",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak grains for 5 hours and ferment overnight.",
+  "ingredients": [
+    {
+      "name": "dosa rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 470,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash rice and urad dal. Soak them with fenugreek seeds for 5 hours, then grind with the measured water to a smooth, slightly thick batter.",
+    "Cover loosely and ferment overnight until risen and bubbly. Stir in salt gently; the pronounced fenugreek quantity gives this dosa its distinct aroma.",
+    "Heat a flat griddle over medium heat and oil lightly. Pour a ladle of batter and spread into a medium-thick round, leaving enough depth for a soft spongy centre.",
+    "Cover for 2 minutes until bubbles form and the top sets. Flip for about 30 seconds, keeping the dosa pale golden rather than roasting it crisp; repeat for eight dosas.",
+    "Serve two warm soft methi dosas per person with coconut chutney. Avoid stacking them tightly so steam does not make them gummy."
+  ],
+  "tips": [
+    "Use fenugreek seeds, not leaves, in the soaking batter for this version."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/methi-dosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "मेथी डोसा",
+      "passiveTime": "अनाज 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "डोसा चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल और उड़द दाल धोएँ। मेथी दाने के साथ 5 घंटे भिगोकर नापे पानी में चिकना, थोड़ा गाढ़ा घोल पीसें।",
+        "ढीला ढककर रात भर फूलने और बुलबुले बनने तक खमीर उठाएँ। नमक धीरे मिलाएँ; मेथी की अच्छी मात्रा इस डोसे को अलग सुगंध देती है।",
+        "मध्यम आँच पर सपाट तवा गरम कर हल्का तेल लगाएँ। करछी घोल डालकर मध्यम मोटा गोल फैलाएँ, नरम स्पंजी बीच के लिए मोटाई रखें।",
+        "2 मिनट ढकें जब तक बुलबुले आएँ और ऊपर जम जाए। लगभग 30 सेकंड पलटें, डोसे को कुरकुरा सेंकने के बजाय हल्का सुनहरा रखें; आठ डोसे बनाएँ।",
+        "हर व्यक्ति को दो गरम नरम मेथी डोसे नारियल चटनी के साथ दें। कसकर एक पर एक न रखें ताकि भाप से चिपचिपे न हों।"
+      ],
+      "tips": [
+        "इस रूप में भिगोने वाले घोल में मेथी दाने लें, पत्ते नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "મેથી ડોસા",
+      "passiveTime": "ધાન્ય 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ડોસાના ચોખા",
+        "ધોળી અડદ દાળ",
+        "મેથી દાણા",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા અને અડદ દાળ ધોઈ લો. મેથી દાણા સાથે 5 કલાક પલાળી માપેલા પાણીથી સુંવાળું, થોડું ઘટ્ટ ખીરું વાટો.",
+        "ઢીલું ઢાંકી રાતભર ફૂલે અને પરપોટા આવે ત્યાં સુધી આથો આવવા દો. મીઠું હળવેથી ભેળવો; મેથીની સારી માત્રા આ ડોસાને જુદી સુગંધ આપે છે.",
+        "મધ્યમ તાપે સપાટ તવો ગરમ કરી થોડું તેલ લગાવો. કડછી ખીરું રેડી મધ્યમ જાડો ગોળ પાથરો, નરમ સ્પોન્જ જેવા મધ્ય માટે જાડાઈ રાખો.",
+        "2 મિનિટ ઢાંકો, પરપોટા આવે અને ઉપર ચડે ત્યાં સુધી. આશરે 30 સેકન્ડ ફેરવો, કરકરો શેકવાને બદલે આછો સોનેરી રાખો; આઠ ડોસા બનાવો.",
+        "દરેકને બે ગરમ નરમ મેથી ડોસા નાળિયેરની ચટણી સાથે આપો. ચુસ્ત એક પર એક ન મૂકો જેથી વરાળથી ચીકણા ન થાય."
+      ],
+      "tips": [
+        "આ આવૃત્તિના પલાળેલા ખીરામાં મેથી દાણા લો, પાન નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/methi-dosa-recipe-menthe-dose/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

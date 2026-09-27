@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0027",
+  "id": "indori-poha",
+  "status": "published-first-100-intake-batch",
+  "name": "Indori Poha",
+  "cuisine": "Indore",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Drain rinsed poha for 10 minutes to soften.",
+  "ingredients": [
+    {
+      "name": "thick flattened rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "jeeravan spice blend",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "fine sev",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate arils",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the thick poha briefly in a sieve without soaking it in a bowl. Drain for 10 minutes until the flakes bend without breaking, then gently mix in turmeric, sugar and half the salt.",
+    "Heat oil, splutter mustard and soften half the finely chopped onion with green chilli for 3 minutes. Add the seasoned poha and remaining salt, toss gently, then cover and steam on very low heat for 4–5 minutes.",
+    "Switch off the heat and fold in lemon juice. Fluff with a fork so the poha stays separate and soft rather than becoming a mashed lump.",
+    "Divide into four shallow bowls. Scatter the remaining raw onion, jeeravan, fine sev, pomegranate arils and coriander over each portion in that order.",
+    "Serve immediately while the poha is warm and the sev is crisp. Offer extra lemon if desired; add the sev only at the table, never during steaming."
+  ],
+  "tips": [
+    "Jeeravan and fine sev give Indori poha its particular tangy-crisp finish."
+  ],
+  "allergens": [
+    "chickpea"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/indori-poha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "इंदौरी पोहा",
+      "passiveTime": "धोए पोहे 10 मिनट छानकर नरम होने दें।",
+      "ingredients": [
+        "मोटा पोहा",
+        "प्याज़",
+        "हरी मिर्च",
+        "साधारण वनस्पति तेल",
+        "राई",
+        "हल्दी",
+        "चीनी",
+        "नमक",
+        "नींबू रस",
+        "जीरावन मसाला",
+        "बारीक सेव",
+        "अनार दाने",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मोटा पोहा छलनी में जल्दी धोएँ, कटोरे में भिगोएँ नहीं। 10 मिनट छानें जब तक पत्तियाँ बिना टूटे मुड़ें, फिर हल्दी, चीनी और आधा नमक धीरे मिलाएँ।",
+        "तेल गरम कर राई चटकाएँ और बारीक प्याज़ का आधा भाग हरी मिर्च के साथ 3 मिनट नरम करें। मसालेदार पोहा और बाकी नमक डालकर धीरे मिलाएँ, ढककर बहुत धीमी आँच पर 4–5 मिनट भाप दें।",
+        "आँच बंद कर नींबू रस मिलाएँ। काँटे से फुलाएँ ताकि पोहा अलग और नरम रहे, मसला ढेर न बने।",
+        "चार उथली कटोरियों में बाँटें। हर हिस्से पर बचे कच्चे प्याज़, जीरावन, बारीक सेव, अनार दाने और धनिया इसी क्रम में डालें।",
+        "पोहा गरम और सेव कुरकुरी रहते तुरंत परोसें। चाहें तो और नींबू दें; सेव मेज़ पर ही डालें, भाप में कभी नहीं।"
+      ],
+      "tips": [
+        "जीरावन और बारीक सेव इंदौरी पोहे को खास खट्टा-कुरकुरा स्वाद देते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈન્દોરી પૌંઆ",
+      "passiveTime": "ધોયેલા પૌંઆ 10 મિનિટ નિતારી નરમ થવા દો.",
+      "ingredients": [
+        "જાડા પૌંઆ",
+        "ડુંગળી",
+        "લીલું મરચું",
+        "સાદું વનસ્પતિ તેલ",
+        "રાઈ",
+        "હળદર",
+        "ખાંડ",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "જીરાવન મસાલો",
+        "ઝીણી સેવ",
+        "દાડમના દાણા",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "જાડા પૌંઆ ચાળણીમાં ઝડપથી ધોઈ લો, વાટકામાં પલાળશો નહીં. 10 મિનિટ નિતારો, પાંખડી તૂટ્યા વગર વળે ત્યારે હળદર, ખાંડ અને અડધું મીઠું હળવેથી ભેળવો.",
+        "તેલ ગરમ કરી રાઈ તતડાવો અને ઝીણી ડુંગળીનો અડધો ભાગ લીલા મરચાં સાથે 3 મિનિટ નરમ કરો. મસાલેદાર પૌંઆ અને બાકી મીઠું નાખી હળવેથી ભેળવો, ઢાંકી બહુ ધીમા તાપે 4–5 મિનિટ વરાળ આપો.",
+        "તાપ બંધ કરી લીંબુનો રસ ભેળવો. કાંટાથી ફુલાવો જેથી પૌંઆ અલગ અને નરમ રહે, છૂંદેલો ઢગલો ન બને.",
+        "ચાર છીછરી વાટકામાં વહેંચો. દરેક પર બાકી કાચી ડુંગળી, જીરાવન, ઝીણી સેવ, દાડમના દાણા અને કોથમીર આ ક્રમમાં નાખો.",
+        "પૌંઆ ગરમ અને સેવ કરકરી હોય ત્યારે તરત પીરસો. ઇચ્છો તો વધુ લીંબુ આપો; સેવ પીરસતી વખતે જ નાખો, વરાળમાં નહીં."
+      ],
+      "tips": [
+        "જીરાવન અને ઝીણી સેવ ઈન્દોરી પૌંઆને ખાસ ખટ્ટો-કરકરો સ્વાદ આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/indori-poha-recipe-indori-pohe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

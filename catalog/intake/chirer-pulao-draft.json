@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0053",
+  "id": "chirer-pulao",
+  "status": "published-first-100-intake-batch",
+  "name": "Chirer Pulao",
+  "cuisine": "Bengali",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four servings",
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Drain rinsed chire for 10 minutes.",
+  "ingredients": [
+    {
+      "name": "thick flattened rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse thick chire in a sieve and drain for 10 minutes. Fluff gently so the flattened rice softens without collapsing into a paste.",
+    "Dice carrot and potato small. Heat half the oil, fry cashews until golden and raisins until plump, then lift both out before they burn.",
+    "Heat remaining oil with cumin, cook carrot, potato and peas for 6–8 minutes until tender. Add turmeric, sugar and salt, stirring to coat the vegetables.",
+    "Fold in drained chire and cook covered on low heat for 3–4 minutes until warmed through. Stir very gently so the flakes stay distinct.",
+    "Return cashews and raisins, scatter coriander and serve warm. The little sweetness and nuts distinguish Bengali chirer pulao from a plain savory poha."
+  ],
+  "tips": [
+    "Fry the raisins briefly: they plump in seconds and burn if left in hot oil."
+  ],
+  "allergens": [
+    "cashew"
+  ],
+  "jainVerified": false,
+  "photoDraft": "catalog/intake/photos/chirer-pulao.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27.",
+  "translations": {
+    "hi": {
+      "name": "चिरेर पुलाव",
+      "passiveTime": "धोए चिरे 10 मिनट छानकर रखें।",
+      "ingredients": [
+        "मोटा चिरे पोहा",
+        "हरे मटर",
+        "गाजर",
+        "आलू",
+        "काजू",
+        "किशमिश",
+        "साधारण वनस्पति तेल",
+        "जीरा",
+        "हल्दी",
+        "चीनी",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मोटे चिरे को छलनी में धोकर 10 मिनट छानें। धीरे फुलाएँ ताकि पोहा पेस्ट बने बिना नरम हो।",
+        "गाजर और आलू छोटे काटें। आधे तेल में काजू सुनहरे और किशमिश फूलने तक भूनें, फिर जलने से पहले दोनों निकालें।",
+        "बचे तेल में जीरा डालें, गाजर, आलू और मटर 6–8 मिनट नरम होने तक पकाएँ। हल्दी, चीनी और नमक डालकर सब्ज़ियों पर मिलाएँ।",
+        "छना चिरे मिलाकर धीमी आँच पर 3–4 मिनट ढककर गरम करें। पत्तियाँ अलग रखने के लिए बहुत धीरे चलाएँ।",
+        "काजू और किशमिश वापस डालें, धनिया छिड़कें और गरम परोसें। हल्की मिठास और मेवे बंगाली चिरेर पुलाव को साधारण नमकीन पोहे से अलग करते हैं।"
+      ],
+      "tips": [
+        "किशमिश थोड़ी देर भूनें; वे सेकंडों में फूलकर गरम तेल में जल सकती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચિરેર પુલાવ",
+      "passiveTime": "ધોયેલા ચિરે 10 મિનિટ નિતારી રાખો.",
+      "ingredients": [
+        "જાડા ચિરે પૌંઆ",
+        "લીલા વટાણા",
+        "ગાજર",
+        "બટાકા",
+        "કાજુ",
+        "કિસમિસ",
+        "સાદું વનસ્પતિ તેલ",
+        "જીરું",
+        "હળદર",
+        "ખાંડ",
+        "મીઠું",
+        "લીલી કોથમીર"
+      ],
+      "steps": [
+        "જાડા ચિરે ચાળણીમાં ધોઈ 10 મિનિટ નિતારો. હળવેથી ફુલાવો જેથી પૌંઆ પેસ્ટ બન્યા વગર નરમ થાય.",
+        "ગાજર અને બટાકા નાના કાપો. અડધા તેલમાં કાજુ સોનેરી અને કિસમિસ ફૂલે ત્યાં સુધી શેકી બળે તે પહેલાં બંને કાઢો.",
+        "બાકી તેલમાં જીરું નાખી ગાજર, બટાકા અને વટાણા 6–8 મિનિટ નરમ થાય ત્યાં સુધી પકાવો. હળદર, ખાંડ અને મીઠું નાખી શાક પર ભેળવો.",
+        "નિતારેલા ચિરે ભેળવી ધીમા તાપે 3–4 મિનિટ ઢાંકી ગરમ કરો. પાંખડીઓ અલગ રહે માટે બહુ હળવેથી હલાવો.",
+        "કાજુ અને કિસમિસ પાછા નાખી કોથમીર છાંટો અને ગરમ પીરસો. થોડી મીઠાશ અને મેવા બંગાળી ચિરેર પુલાવને સાદા ખારા પૌંઆથી જુદા કરે છે."
+      ],
+      "tips": [
+        "કિસમિસ થોડા સમય શેકો; તે સેકન્ડોમાં ફૂલે અને ગરમ તેલમાં બળી શકે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chirer-pulao-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  }
+}

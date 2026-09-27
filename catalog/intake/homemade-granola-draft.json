@@ -1,0 +1,110 @@
+{
+  "sourceReviewId": "R0080",
+  "id": "homemade-granola",
+  "status": "published-first-100-intake-batch",
+  "name": "Homemade Granola",
+  "cuisine": "Global",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "About 600 g; eight small portions",
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin seeds",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160°C and line a large baking tray with parchment.",
+    "Mix oats, chopped almonds, pumpkin seeds, cinnamon and salt. Pour in maple syrup and oil and stir until everything is coated.",
+    "Spread evenly on the tray and press into a thin layer. Bake 25–30 minutes, turning the tray halfway but leaving the clusters mostly undisturbed, until golden.",
+    "Cool completely on the tray so the granola crisps, then break into clusters. Store airtight for up to two weeks; serve with yogurt or milk."
+  ],
+  "tips": [
+    "Do not judge crispness while warm; it firms as it cools."
+  ],
+  "allergens": [
+    "wheat",
+    "nuts"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "घर का ग्रेनोला",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "बादाम",
+        "कद्दू के बीज",
+        "मेपल सिरप",
+        "सादा तेल",
+        "दालचीनी पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 160°C पर गरम करें और बड़ी बेकिंग ट्रे पर पार्चमेंट बिछाएँ।",
+        "ओट्स, कटे बादाम, कद्दू के बीज, दालचीनी और नमक मिलाएँ। मेपल सिरप और तेल डालकर सब कुछ अच्छी तरह कोट करें।",
+        "ट्रे पर पतली समान परत में फैलाकर दबाएँ। 25–30 मिनट सुनहरा होने तक बेक करें; बीच में ट्रे घुमाएँ लेकिन गुच्छे ज्यादा न हिलाएँ।",
+        "ट्रे पर पूरी तरह ठंडा करके कुरकुरा करें, फिर गुच्छे तोड़ें। दो सप्ताह तक हवा बंद डिब्बे में रखें; दही या दूध के साथ परोसें।"
+      ],
+      "tips": [
+        "गरम रहते कुरकुरापन न आँकें; ठंडा होने पर सख्त होता है।"
+      ]
+    },
+    "gu": {
+      "name": "ઘરનું ગ્રેનોલા",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "બદામ",
+        "કોળાના બીજ",
+        "મેપલ સિરપ",
+        "સાદું તેલ",
+        "તજ પાવડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 160°C પર ગરમ કરો અને મોટી બેકિંગ ટ્રે પર પાર્ચમેન્ટ પાથરો.",
+        "ઓટ્સ, સમારેલા બદામ, કોળાના બીજ, તજ અને મીઠું ભેળવો. મેપલ સિરપ અને તેલ ઉમેરી બધે ચોપડો.",
+        "ટ્રે પર સરખું પાતળું પાથરી દબાવો. 25–30 મિનિટ સોનેરી થાય ત્યાં સુધી બેક કરો; વચ્ચે ટ્રે ફેરવો પણ ગૂંચળાં બહુ ન હલાવો.",
+        "ટ્રે પર સાવ ઠંડું કરી કરકરું બનાવો, પછી ગૂંચળાં તોડો. હવાચુસ્ત ડબ્બામાં બે અઠવાડિયા રાખો; દહીં કે દૂધ સાથે પીરસો."
+      ],
+      "tips": [
+        "ગરમ હોય ત્યારે કરકરાપણું ન આંકો; ઠંડું થતાં કડક બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/homemade-granola.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

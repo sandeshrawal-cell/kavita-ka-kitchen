@@ -1,0 +1,110 @@
+{
+  "sourceReviewId": "R0059",
+  "id": "chakuli-pitha",
+  "status": "published-first-100-intake-batch",
+  "name": "Chakuli Pitha",
+  "cuisine": "Odia",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Eight pancakes",
+  "prepAndCookMinutes": 50,
+  "passiveTime": "Soak rice and dal for 5 hours; ferment overnight.",
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "skinned urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared coconut chutney",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and soak rice and urad dal separately for 5 hours. Drain and grind with the measured water to a smooth batter slightly thicker than ordinary dosa batter.",
+    "Cover loosely and ferment overnight until expanded and bubbly. Fold in salt gently; leave the batter airy instead of beating it flat.",
+    "Heat a lightly oiled griddle over medium heat. Pour a ladleful and spread into a medium round, thinner than an uttapam but not paper-thin.",
+    "Cover for about 2 minutes until the top shows pores and sets. Flip briefly for 30–45 seconds, keeping the pitha soft with pale golden patches; repeat to make eight.",
+    "Serve two warm chakuli pithas per person with coconut chutney. The fermentation and soft texture distinguish them from instant flour crepes."
+  ],
+  "tips": [
+    "Let the batter ferment sufficiently; under-fermented batter cooks dense."
+  ],
+  "allergens": [],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "चकुली पीठा",
+      "passiveTime": "चावल और दाल 5 घंटे भिगोकर रात भर खमीर उठाएँ।",
+      "ingredients": [
+        "चावल",
+        "धुली उड़द दाल",
+        "पानी",
+        "नमक",
+        "साधारण वनस्पति तेल",
+        "तैयार नारियल चटनी"
+      ],
+      "steps": [
+        "चावल और उड़द दाल अलग धोकर 5 घंटे भिगोएँ। छानकर नापे पानी से सामान्य डोसे से थोड़ा गाढ़ा चिकना घोल पीसें।",
+        "ढीला ढककर रात भर फूलने और बुलबुले आने तक खमीर उठाएँ। नमक धीरे मिलाएँ; जोर से फेंटकर हवा न निकालें।",
+        "हल्के तेल लगे तवे को मध्यम आँच पर गरम करें। करछी घोल डालकर मध्यम गोल फैलाएँ, उत्तपम से पतला पर पेपर डोसे जितना नहीं।",
+        "लगभग 2 मिनट ढकें जब तक ऊपर छेद दिखें और जम जाए। 30–45 सेकंड हल्का पलटें, पीठा हल्के सुनहरे धब्बों वाला नरम रखें; आठ बनाएँ।",
+        "हर व्यक्ति को दो गरम चकुली पीठे नारियल चटनी के साथ दें। खमीर और नरम बनावट इन्हें तुरंत बने आटे के चीलों से अलग करती है।"
+      ],
+      "tips": [
+        "घोल पर्याप्त खमीर उठाएँ; कम खमीरी घोल भारी पकता है।"
+      ]
+    },
+    "gu": {
+      "name": "ચકુલી પીઠા",
+      "passiveTime": "ચોખા અને દાળ 5 કલાક પલાળી રાતભર આથો આવવા દો.",
+      "ingredients": [
+        "ચોખા",
+        "ધોળી અડદ દાળ",
+        "પાણી",
+        "મીઠું",
+        "સાદું વનસ્પતિ તેલ",
+        "તૈયાર નાળિયેરની ચટણી"
+      ],
+      "steps": [
+        "ચોખા અને અડદ દાળ અલગ ધોઈ 5 કલાક પલાળો. નિતારી માપેલા પાણીથી સામાન્ય ડોસાથી થોડું ઘટ્ટ સુંવાળું ખીરું વાટો.",
+        "ઢીલું ઢાંકી રાતભર ફૂલે અને પરપોટા આવે ત્યાં સુધી આથો આવવા દો. મીઠું હળવેથી ભેળવો; જોરથી ફેંટીને હવા ન કાઢો.",
+        "થોડું તેલ લગાવેલો તવો મધ્યમ તાપે ગરમ કરો. કડછી ખીરું રેડી મધ્યમ ગોળ પાથરો, ઉત્તપમથી પાતળો પણ પેપર ડોસા જેટલો નહીં.",
+        "આશરે 2 મિનિટ ઢાંકો, ઉપર કાણા દેખાય અને ચડે ત્યાં સુધી. 30–45 સેકન્ડ હળવેથી ફેરવો, પીઠા આછા સોનેરી ડાઘવાળો નરમ રાખો; આઠ બનાવો.",
+        "દરેકને બે ગરમ ચકુલી પીઠા નાળિયેરની ચટણી સાથે આપો. આથો અને નરમ બનાવટ તેને તરત બનેલા લોટના ચીલાથી જુદા કરે છે."
+      ],
+      "tips": [
+        "ખીરું પૂરતું આથો આવવા દો; ઓછા આથાવાળું ખીરું ભારે પાકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chakuli-pitha-recipe/",
+    "use": "Dish identity and core method; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/chakuli-pitha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}

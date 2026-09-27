@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R0083",
+  "id": "kasha",
+  "status": "published-first-100-intake-batch",
+  "name": "Kasha",
+  "cuisine": "Eastern European",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "yield": "Four bowls",
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "toasted buckwheat groats",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 520,
+      "unit": "ml"
+    },
+    {
+      "name": "mushrooms",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "fresh parsley",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the toasted buckwheat groats quickly and drain. Bring measured water and half the salt to a boil.",
+    "Add buckwheat, cover and simmer gently for 15–18 minutes until tender and liquid is absorbed. Rest covered 5 minutes, then fluff with a fork.",
+    "Meanwhile melt butter in a wide pan and brown chopped onion and sliced mushrooms for 8–10 minutes until their moisture evaporates.",
+    "Fold mushrooms into the buckwheat. Season with remaining salt and black pepper, scatter parsley and serve warm in four bowls."
+  ],
+  "tips": [
+    "Use whole toasted groats, not buckwheat flour, for a fluffy kasha."
+  ],
+  "allergens": [
+    "wheat",
+    "dairy"
+  ],
+  "jainVerified": false,
+  "translations": {
+    "hi": {
+      "name": "काशा",
+      "ingredients": [
+        "भुना कुट्टू दलिया",
+        "पानी",
+        "मशरूम",
+        "प्याज़",
+        "मक्खन",
+        "नमक",
+        "काली मिर्च",
+        "ताज़ा पार्सले"
+      ],
+      "steps": [
+        "भुने कुट्टू दाने जल्दी धोकर छानें। मापा पानी और आधा नमक उबालें।",
+        "कुट्टू डालकर ढकें और धीमी आँच पर 15–18 मिनट नरम होने तथा पानी सोखने तक पकाएँ। 5 मिनट ढका रखें, फिर कांटे से फुलाएँ।",
+        "इसी बीच चौड़े पैन में मक्खन पिघलाकर कटा प्याज़ और कटे मशरूम 8–10 मिनट भूरा तथा उनकी नमी सूखने तक भूनें।",
+        "मशरूम कुट्टू में मिलाएँ। बचे नमक और काली मिर्च से स्वाद दें, पार्सले बिखेरकर चार कटोरियों में गरम परोसें।"
+      ],
+      "tips": [
+        "फूली काशा के लिए भुने साबुत दाने लें, कुट्टू का आटा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "કાશા",
+      "ingredients": [
+        "શેકેલા કુટ્ટુના દાણા",
+        "પાણી",
+        "મશરૂમ",
+        "ડુંગળી",
+        "માખણ",
+        "મીઠું",
+        "કાળા મરી",
+        "તાજું પાર્સલી"
+      ],
+      "steps": [
+        "શેકેલા કુટ્ટુના દાણા ઝડપથી ધોઈ નિતારો. માપેલું પાણી અને અડધું મીઠું ઉકાળો.",
+        "કુટ્ટુ ઉમેરી ઢાંકી ધીમા તાપે 15–18 મિનિટ નરમ થાય અને પાણી શોષાય ત્યાં સુધી રાંધો. 5 મિનિટ ઢાંકી રાખી કાંટાથી છૂટું કરો.",
+        "એ દરમિયાન પહોળી કઢાઈમાં માખણ ઓગાળી સમારેલી ડુંગળી અને મશરૂમ 8–10 મિનિટ ભૂરા થાય અને ભીનાશ ઊડી જાય ત્યાં સુધી સાંતળો.",
+        "મશરૂમ કુટ્ટુમાં ભેળવો. બાકી મીઠું અને કાળા મરી નાખી પાર્સલી છાંટો અને ચાર વાટકામાં ગરમ પીરસો."
+      ],
+      "tips": [
+        "છૂટક કાશા માટે શેકેલા આખા દાણા લો, કુટ્ટુનો લોટ નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kasha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-09-27."
+}
