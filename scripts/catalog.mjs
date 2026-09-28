@@ -97,6 +97,7 @@ for(const file of (await fs.readdir(approvedDir)).filter(f=>f.endsWith('.json'))
   errors.push(...duplicates([...db.values()].map(dish=>({dish})).concat(entry)));
   if(errors.length)throw Error(errors.join('\n'));
   const d={...entry.dish,aliases:entry.aliases||[],dietaryFacts:recipeDietaryFacts(entry.recipe)};
+  correctCategories(d);
   if(photos[d.id]?.status==='reviewed'){d.photo=photos[d.id];entry.recipe.photo=d.photo;}
   db.set(d.id,d);recipeMap.set(d.id,entry.recipe);
   for(const alias of entry.aliases||[]){const key=slug(alias);if((aliases[key]&&aliases[key]!==d.id)||(db.has(key)&&key!==d.id))throw Error('Alias collision: '+alias);aliases[key]=d.id;}
@@ -124,7 +125,7 @@ for(const [alias,target] of Object.entries(aliases))if(alias!==target&&existingR
 }
 for(const [id,r] of recipeMap)await fs.writeFile(new URL(`public/data/recipes/${id}.json`,root),JSON.stringify(r));
 const counts={};for(const cat of CATEGORIES){const rows=all.filter(d=>d.categories.includes(cat));counts[cat]=rows.length;await fs.writeFile(new URL(`public/data/categories/${slug(cat)}.json`,root),JSON.stringify(rows));}
-await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.2',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo))}));
+await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.2.2',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo))}));
 const quote=s=>"'"+String(s).replaceAll("'","''")+"'";
 const sql=['-- Generated master catalogue. Existing private records are untouched.','begin;'];
 for(const d of all)sql.push(`insert into public.kkk_dishes(id,canonical_id,name,cuisine,categories,vegetarian,eggless,metadata,published) values(${quote(d.id)},${quote(d.canonicalId)},${quote(d.name)},${quote(d.cuisine)},array[${d.categories.map(quote).join(',')}],true,true,${quote(JSON.stringify(d))}::jsonb,true) on conflict(id) do update set name=excluded.name,cuisine=excluded.cuisine,categories=excluded.categories,metadata=excluded.metadata,published=true;`);

@@ -25,8 +25,13 @@ export function correctCategories(d){
  }
  if(d.method==='chaat')d.categories.push('Chaats','Snacks');
  if(/soup|minestrone|rasam/.test(d.id))d.categories.push('Soups');
+ if(d.id==='fresh-lime-soda'){d.categories=d.categories.filter(c=>c!=='Salads');d.categories.push('Cold Drinks');}
  const drinks=d.categories.some(c=>['Coffee','Tea','Shakes','Smoothies','Juices','Mocktails','Hot Drinks','Cold Drinks'].includes(c));
+ if(drinks)d.categories=d.categories.filter(c=>c!=='Salads');
+ if(d.id.endsWith('-bowl'))d.categories=d.categories.filter(c=>c!=='Wraps');
  if(drinks||d.categories.includes('Desserts'))d.categories=d.categories.filter(c=>!['Breakfast','Lunch','Dinner','Light Meals','Lunchbox'].includes(c));
+ // This filter presents guest-ready dishes for building a menu, not duplicate recipes.
+ if(d.recipeStatus==='complete'&&(d.categories.includes('Party Food')||d.categories.includes('Festival Food')||(d.categories.includes('Sabzi/Curries')&&d.bulkScore>=8)))d.categories.push('Guest Menus');
  if(d.advancePrep)d.categories=d.categories.filter(c=>c!=='Quick Meals');
  d.categories=[...new Set(d.categories)];
 }

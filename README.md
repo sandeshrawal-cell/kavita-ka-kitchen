@@ -1,4 +1,4 @@
-# Kavita ka Kitchen · v3.2.1
+# Kavita ka Kitchen · v3.2.2
 
 English, Gujarati and Hindi throughout the app and all 516 built-in recipes. The catalogue includes measured multi-step methods and corrected meal categories. See [the saved image queue](catalog/pending-images.json) and [photo credits](docs/PHOTO_CREDITS.md). Cloud AI remains disabled.
 
