@@ -1,4 +1,4 @@
-import {welcomeHero} from './welcome-hero.js';
+import {createHeroPreview,welcomeHero} from './welcome-hero.js';
 import {readHousehold,writeHousehold} from './household.js';
 import {householdQuantity} from './household-units.js';
 import {readGuestPlans,saveGuestPlan,removeGuestPlan,readGuestGrocery,saveGuestGrocery} from './guest-plans.js';
@@ -24,7 +24,7 @@ let searchCompleted=false;
 let recipeReturnURL=null;
 let proposalContext=null;
 const explicitFilters=new Set();
-let inspirationSignature='',inspirationIds=[];
+let inspirationSignature='',inspirationIds=[],previewSignature='',previewId='';
 const icon={today:'⌂',discover:'✦',planner:'▦',combos:'♡',pantry:'◉',family:'♧',insights:'◴',settings:'⚙',more:'•••'};
 const navs={today:'Home',discover:'Recipes',planner:'Meal plan',combos:'My menus',pantry:'Pantry',family:'Family',insights:'Insights',settings:'Settings',more:'More'};
 const emoji=d=>d?.method==='coffee'?'☕':d?.method==='tea'?'🍵':d?.method==='blend'?'🥭':d?.method==='dessert'?'🍨':d?.method==='dal'?'🥣':d?.method==='flatbread'?'🫓':d?.method==='rice'?'🍚':d?.method==='assemble'?'🥗':'🍲';
@@ -90,6 +90,16 @@ function homeInspirations(candidates){
  }
  const byId=new Map(candidates.map(d=>[d.id,d]));return inspirationIds.map(id=>byId.get(id)).filter(Boolean);
 }
+function homePreviewIdea(candidates){
+ const signature=candidates.map(d=>d.id).join('|');
+ if(signature!==previewSignature){
+  const key='kkk-home-preview-history-v1';let recent=[];
+  try{recent=JSON.parse(localStorage.getItem(key)||'[]');if(!Array.isArray(recent))recent=[];}catch{}
+  previewId=chooseInspiration(candidates,recent,1)[0]?.id||'';previewSignature=signature;
+  if(previewId)try{localStorage.setItem(key,JSON.stringify([...recent,previewId].slice(-200)));}catch{}
+ }
+ return candidates.find(d=>d.id===previewId);
+}
 function inspirationFitsMode(d){
  if(party.mode==='home')return true;
  if(party.mode==='event')return d.categories.includes('Guest Menus');
@@ -115,8 +125,11 @@ function heading(kicker,title,copy,actions=''){return `<div class="page-heading"
 function renderToday(){
  const name=store?.value('profile:me',{})?.name||'',hour=new Date().getHours(),greeting=hour<12?'Good morning':hour<17?'Good afternoon':'Good evening';
  const s=state(),featured=homeInspirations((manifest?.featured||[]).filter(d=>d.photo&&eligible(d,currentFilters(),s)&&inspirationFitsMode(d))),today=s.plans.filter(p=>p.date===dayKey());
+ const upcoming=s.plans.filter(p=>p.date>=dayKey()&&p.dishIds?.some(id=>dishes.get(canonical(id))?.photo?.status==='reviewed')).sort((a,b)=>a.date.localeCompare(b.date)||MEALS.indexOf(a.meal)-MEALS.indexOf(b.meal))[0];
+ const previewPool=(manifest?.featured||[]).filter(d=>d.photo?.status==='reviewed'&&d.recipeStatus==='complete'&&!d.side&&d.categories.some(c=>c==='Lunch'||c==='Dinner')&&!featured.some(f=>f.id===d.id)&&eligible(d,currentFilters(),s)&&inspirationFitsMode(d));
+ const preview=createHeroPreview(upcoming&&{...upcoming,dishIds:upcoming.dishIds.map(canonical)},dishes,upcoming?null:homePreviewIdea(previewPool));
  return `<div class="welcome"><div><span class="eyebrow">A LITTLE PLANNING. A LOT OF JOY.</span><h1><span>${greeting}</span>${name?', <span data-user-content>'+esc(name)+'</span>':''}<span class="sun"> ✺</span></h1><p>Something delicious starts here.</p></div><span class="date-label">${new Date().toLocaleDateString('en-IN',{weekday:'long',day:'numeric',month:'long'})}</span></div>
- ${welcomeHero({dish:featured[4],mode:party.mode})}
+ ${welcomeHero({dish:featured[4],mode:party.mode,preview})}
  <div class="quick-grid" aria-label="Three easy steps"><button class="quick-card" data-nav="discover"><span class="quick-icon peach">⌕</span><span><small>1 · FIND A DISH</small><b>Search recipes</b><span>Find by name or ingredient</span></span><i>→</i></button><button class="quick-card" data-action="combo-new"><span class="quick-icon sage">＋</span><span><small>2 · MAKE IT YOURS</small><b>Create or change a menu</b><span>Choose dishes and swap a side</span></span><i>→</i></button><button class="quick-card" data-nav="planner"><span class="quick-icon lavender">▦</span><span><small>3 · PLAN THE WEEK</small><b>See your meal plan</b><span>Save meals and make a shopping list</span></span><i>→</i></button></div>
  <section class="section"><div class="section-title"><div><span class="eyebrow">YOUR DAILY RHYTHM</span><h2>On the table today</h2></div><button class="text-btn" data-nav="planner">See my week →</button></div><div class="today-grid">${MEALS.map((meal,i)=>{const entry=today.find(x=>x.meal===meal);return `<button class="today-meal" data-action="today-meal" data-value="${meal}"><span class="meal-label">${['☀','◒','☾'][i]} ${meal}</span><b>${esc(entry?.name||'A delicious possibility')}</b><span>${entry?`${headcount(entry.party||party).servings} servings`:'＋ Add a little inspiration'}</span></button>`;}).join('')}</div></section>
  <section class="section"><div class="section-title"><div><span class="eyebrow">SIMPLE THINGS, DONE WELL</span><h2>A little inspiration</h2><p>Recipes to make your everyday a little more delicious.</p></div><button class="text-btn" data-nav="discover">Explore all dishes →</button></div><div class="inspiration-grid">${featured.slice(0,4).map(card).join('')||'<p>Loading inspiration…</p>'}</div></section>

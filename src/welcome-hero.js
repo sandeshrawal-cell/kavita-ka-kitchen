@@ -1,7 +1,26 @@
 import {esc} from './core.js';
 
-/** The preview is illustrative; it never implies that a guest has saved a plan. */
-export function welcomeHero({dish,mode='home'}={}) {
+const usefulIngredient=name=>!/^\s*(?:water|salt|oil|ghee|butter|cumin|turmeric|black pepper|red chilli powder)\s*$/i.test(name);
+
+export function createHeroPreview(plan, catalogue, idea) {
+  const planned=(plan?.dishIds||[]).map(id=>catalogue.get(id)).filter(Boolean);
+  const plannedPhoto=planned.find(d=>d.photo?.src&&d.photo?.status==='reviewed');
+  const featured=plannedPhoto||idea;
+  if(!featured?.photo?.src||featured.photo.status!=='reviewed')return null;
+  const isPlan=Boolean(plannedPhoto);
+  const ingredients=[...new Set((isPlan?planned:[featured]).flatMap(d=>d.ingredients||[]).filter(x=>typeof x==='string'&&usefulIngredient(x)))].slice(0,3);
+  const weekday=isPlan?new Date(plan.date+'T12:00:00').toLocaleDateString('en-IN',{weekday:'long'}):'';
+  return {
+    photo:featured.photo.small||featured.photo.src,
+    alt:featured.photo.alt||featured.name,
+    name:isPlan?(plan.name||planned.map(d=>d.name).join(' + ')):featured.name,
+    badge:isPlan?'My plan':'Meal idea',
+    when:isPlan?`${weekday} · ${plan.meal}`:featured.categories?.includes('Dinner')?'Dinner idea':'Lunch idea',
+    ingredients
+  };
+}
+
+export function welcomeHero({dish,mode='home',preview}={}) {
   const photo=dish?.photo;
   const name=esc(dish?.name||'Achari Paneer');
   const full=esc(photo?.src||'/photos/achari-paneer-1200.webp');
@@ -18,7 +37,7 @@ export function welcomeHero({dish,mode='home'}={}) {
     </div>
     <div class="welcome-hero-visual">
       <figure class="welcome-hero-food"><img src="${full}" srcset="${small} 600w, ${full} 1200w" sizes="(max-width: 760px) 90vw, 42vw" alt="${alt}" width="1200" height="800" fetchpriority="high"><figcaption><span>Something delicious to look forward to</span><strong>${name}</strong></figcaption></figure>
-      <div class="welcome-hero-preview" aria-label="Example meal plan and shopping list"><div class="welcome-hero-preview-top"><span>Your week, a little easier</span><small>Example plan</small></div><div class="welcome-hero-preview-meal"><img src="/photos/jeera-rice-600.webp" width="52" height="52" alt="Jeera rice" loading="lazy"><div><small>MONDAY · DINNER</small><strong>Paneer + jeera rice</strong></div><span class="welcome-hero-check" aria-hidden="true">✓</span></div><div class="welcome-hero-preview-list"><span>Shopping, sorted</span><span>Paneer</span><span>Rice</span><span>Tomatoes</span></div></div>
+      ${preview?`<div class="welcome-hero-preview" aria-label="${preview.badge==='My plan'?'Your next planned meal':'Meal idea and ingredients'}"><div class="welcome-hero-preview-top"><span>Your week, a little easier</span><small>${esc(preview.badge)}</small></div><div class="welcome-hero-preview-meal"><img src="${esc(preview.photo)}" width="52" height="52" alt="${esc(preview.alt)}" loading="lazy"><div><small>${esc(preview.when)}</small><strong>${esc(preview.name)}</strong></div><span class="welcome-hero-check" aria-hidden="true">✓</span></div><div class="welcome-hero-preview-list"><span>Ingredients to gather</span>${preview.ingredients.map(name=>`<span>${esc(name)}</span>`).join('')}</div></div>`:''}
     </div>
   </section>`;
 }
