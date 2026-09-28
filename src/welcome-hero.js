@@ -1,7 +1,7 @@
 import {esc} from './core.js';
 
 /** The preview is illustrative; it never implies that a guest has saved a plan. */
-export function welcomeHero({signedIn=false,dish}={}) {
+export function welcomeHero({dish,mode='home'}={}) {
   const photo=dish?.photo;
   const name=esc(dish?.name||'Achari Paneer');
   const full=esc(photo?.src||'/photos/achari-paneer-1200.webp');
@@ -11,8 +11,8 @@ export function welcomeHero({signedIn=false,dish}={}) {
     <div class="welcome-hero-copy">
       <span class="welcome-hero-eyebrow"><img src="/art/kavita-mark.svg" width="30" height="30" alt="">A little inspiration. Every day.</span>
       <h2 id="welcomeHeroTitle">What’s cooking today?<br><em>Let’s make it easy.</em></h2>
-      <p class="welcome-hero-intro">Discover dishes your family will love. Plan meals, use what’s at home, and make shopping simpler.</p>
-      <div class="welcome-hero-actions">${signedIn?'<button class="welcome-hero-primary" data-nav="planner">Plan my week <span aria-hidden="true">↗</span></button>':'<button class="welcome-hero-primary" data-action="welcome-start">Create my kitchen <span aria-hidden="true">↗</span></button>'}<button class="welcome-hero-secondary" data-nav="discover">Find a recipe <span aria-hidden="true">→</span></button></div>
+      <p class="welcome-hero-intro">${mode==='home'?'Discover dishes your family will love. Plan meals, use what’s at home, and make shopping simpler.':mode==='factory'?'Plan dependable canteen meals across your shifts. Find recipes, adjust serving quantities, and shop from one clear list.':mode==='office'?'Plan good meals for your team. Find recipes, adjust portions, and shop from one clear list.':'Plan a memorable menu for your guests. Find recipes, adjust portions, and shop from one clear list.'}</p>
+      <div class="welcome-hero-actions"><button class="welcome-hero-primary" data-nav="planner">Plan my week <span aria-hidden="true">↗</span></button><button class="welcome-hero-secondary" data-nav="discover">Find a recipe <span aria-hidden="true">→</span></button></div>
       <div class="welcome-hero-search"><label for="welcomeQuery">Already craving something?</label><form id="heroSearch" class="search-box"><span aria-hidden="true">⌕</span><input id="welcomeQuery" name="query" aria-label="What do you feel like eating?" placeholder="What do you feel like eating?" maxlength="200"><button type="submit" aria-label="Find food ideas" class="search-go">→</button></form></div>
       <div class="welcome-hero-benefits"><span>Recipes for your tastes</span><span>A plan for your week</span><span>One simple shopping list</span></div>
     </div>

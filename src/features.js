@@ -17,10 +17,10 @@ export function installFeatures(ctx){
  function decorate(){
   const main=document.querySelector('#main');if(!main||main.querySelector('.feature-tools'))return;
   const view=ctx.view();let html='';
-  if(view==='discover')html=button('map','Explore the food map')+button('swipe','Swipe for dinner')+button('assistant','Kitchen assistant')+button('new','Cook something new')+(ctx.party().mode==='home'?'':button('event','Plan an event'));
-  if(view==='planner')html=button('recurrences','Recurring menus')+button('shelf','Open dish shelf')+(ctx.party().mode==='home'?'':button('event','Event menus'));
+  if(view==='discover')html=button('map','Explore the food map')+button('swipe','Swipe for dinner')+button('assistant','Kitchen assistant')+button('new','Cook something new')+(ctx.party().mode==='event'?button('event','Plan an event'):'');
+  if(view==='planner')html=(ctx.user()?button('recurrences','Recurring menus'):'')+button('shelf','Open dish shelf')+(ctx.party().mode==='event'?button('event','Event menus'):'');
   if(view==='pantry')html=button('scan','Scan pantry photo')+button('consumption','Record food used or wasted');
-  if(view==='insights')html=button('consumption','Record consumption')+button('portions','Record meal portions')+button('taste','Household tastes');
+  if(view==='insights')html=button('consumption','Record consumption')+button('portions','Record meal portions')+(ctx.party().mode==='home'?button('taste','Household tastes'):'');
   if(view==='family')html=button('taste','Household tastes');
   if(view==='settings'&&ctx.party().mode!=='home')html=button('capacity','Production capacity');
   if(html){const target=main.querySelector('.discover-tools,.calendar-toolbar,.page-heading')||main.firstElementChild;target.insertAdjacentHTML('afterend',`<div class="feature-tools">${html}</div>`);}

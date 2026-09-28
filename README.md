@@ -1,6 +1,6 @@
-# Kavita ka Kitchen · v3.2
+# Kavita ka Kitchen · v3.2.1
 
-English, Gujarati and Hindi throughout the app and all 356 built-in recipes. The catalogue includes measured multi-step methods, corrected meal categories and 250 reviewed dish images. A further 106 images are explicitly deferred at the owner’s request; see [the saved image queue](catalog/pending-images.json) and [photo credits](docs/PHOTO_CREDITS.md). Cloud AI remains disabled.
+English, Gujarati and Hindi throughout the app and all 516 built-in recipes. The catalogue includes measured multi-step methods and corrected meal categories. See [the saved image queue](catalog/pending-images.json) and [photo credits](docs/PHOTO_CREDITS.md). Cloud AI remains disabled.
 
 
 A working upgrade of the existing vegetarian kitchen planner, with private accounts, four kitchen modes, saved combinations, a weekly calendar and offline-aware sync.
@@ -30,10 +30,11 @@ Open http://127.0.0.1:4173. Guest discovery works without account configuration.
 
 ## What is implemented
 
-- Immediate public guest browsing; saving requires sign-in. Public signup, sign-in, password recovery, profile and sign-out screens use the existing Supabase Auth project.
+- Guests can save menus, plan and edit a week, and check a grocery list on their device. On sign-in, guest plans move into the account; conflicting meal slots ask which version to keep.
+- Existing-account sign-in, password recovery, profile and sign-out use the existing Supabase Auth project. Public signup remains closed in the UI until confirmation email delivery is configured and verified; the app never silently disables confirmation.
 - Private per-user IndexedDB stores and RLS-protected cloud records. Versioned writes, durable offline changes, conflict choices, tombstone deletes, retry idempotence and protection against account-switch races.
 - One-time owner-scoped import from the old `kitchen_state` cloud row. Old cloud data is retained. Unowned browser-wide local data is not silently imported into an account.
-- Home, Office, Factory and Event modes; adults/kids/guests, attendance buffers, dietary count, ingredient budget and event/service inputs.
+- Home, Office, Factory and Event modes have separate headcount forms: household adults/children/guests, office team/visitors, factory serving shifts, and event guests/service details.
 - Shared recommendation rules for discovery and generated plans: eggless vegetarian checks, strict Jain ingredient checks, exclusions, hidden dishes, 8-day rotation and canonical deduplication. Up to 70 logical results; 12 cards rendered at a time.
 - Saved menus: name, notes, cuisine, occasion, tags, favourite, edit, duplicate, explicit sharing, reuse, delete. Reuse recalculates portions and ingredient estimates.
 - Dated weekly calendar, previous/next weeks, automatic generation, copy previous week, duplicate/clear day, editable slots, grocery aggregation and checks.

@@ -17,7 +17,7 @@ Optionally apply `supabase/seed-catalog.sql` for database-backed master discover
 
 ## 3. Verify existing authentication settings
 
-In the same Supabase project, enable email/password signup, configure production SMTP and email confirmation, and retain existing users. Set the Site URL and permitted recovery/confirmation redirects to the existing production domain. Use an explicit allowed URL rather than a broad unrelated-domain wildcard.
+In the same Supabase project, enable email/password signup, configure production SMTP and keep email confirmation required. Retain existing users. Set the Site URL and permitted recovery/confirmation redirects to the existing production domain. Use an explicit allowed URL rather than a broad unrelated-domain wildcard. Public signup stays unavailable in the app until confirmation delivery to an ordinary address has been verified and `EMAIL_SIGNUP_READY=true` is set in Vercel.
 
 Test with disposable users A and B before inviting public users. Check SELECT, INSERT, UPDATE and DELETE denial across accounts, including direct requests to the API rather than only UI tests.
 
@@ -32,6 +32,7 @@ Retain the current project and domain. Set:
 | `ACCOUNT_DELETION_BACKEND` | `supabase`, after deploying `supabase/functions/delete-account` |
 | `SUPABASE_SERVICE_ROLE_KEY` | Only for the legacy Vercel deletion backend; not needed with the Supabase backend |
 | `APP_ORIGIN` | `https://kavita-kitchen-v2.vercel.app` |
+| `EMAIL_SIGNUP_READY` | `true` only after public confirmation email delivery succeeds; otherwise `false` or unset |
 | `CATALOG_SOURCE` | `static`, or `supabase` only after the seed succeeds |
 
 Never put a secret/service-role key into browser code, public JSON, `VITE_*`, or `NEXT_PUBLIC_*` variables. `/api/config` rejects secret keys and JWTs whose role is not `anon`.

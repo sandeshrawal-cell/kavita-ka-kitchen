@@ -1,4 +1,4 @@
-export const VERSION = '3.2.0';
+export const VERSION = '3.2.1';
 export const MODES = {home:'Home Kitchen',office:'Corporate / Office',factory:'Factory / Canteen',event:'Wedding / Event'};
 export const MEALS = ['Breakfast','Lunch','Dinner'];
 export const CATEGORIES = ['Breakfast','Lunch','Dinner','Snacks','Street Food','Sabzi/Curries','Dal/Legumes','Rice','Breads','One-Pot Meals','Soups','Salads','Chaats','Sandwiches','Wraps','Desserts','Indian Sweets','Cakes & Bakes','Shakes','Smoothies','Juices','Mocktails','Coffee','Tea','Hot Drinks','Cold Drinks','Kids Meals','Lunchbox','Quick Meals','High Protein Vegetarian','Light Meals','Jain','No Onion-Garlic','Vrat/Fasting','Guest Menus','Party Food','Festival Food','Leftover Recipes'];
@@ -25,7 +25,7 @@ export function headcount(p){
   const buffer=Number(p.buffer||0);if(!Number.isFinite(buffer)||buffer<0||buffer>50)throw new Error('Buffer must be between 0% and 50%.');
   if(!total||total>100000)throw new Error('Enter between 1 and 100,000 people.');
   const jainMeals=num(p.jainMeals,'Jain meals');if(jainMeals>total)throw new Error('Jain meals are included in total attendance and cannot exceed it.');
-  return {adults,kids,guests,total,jainMeals,buffer,servings:Math.ceil(total*(1+buffer/100)),equivalent:(adults+guests+kids*0.6)*(1+buffer/100)};
+  return {adults,kids,guests,total,jainMeals,buffer,servings:Math.ceil(total*(1+buffer/100)-1e-9),equivalent:(adults+guests+kids*0.6)*(1+buffer/100)};
 }
 export function lockedUntil(d,history=[],at=Date.now()){
   if(d.side||COMMON_SIDES.has(norm(d.name)))return null;
@@ -180,7 +180,7 @@ export function planWeek(dishes,start,party,filters,state,existing={}){
     const at=new Date(date+'T23:59:59').getTime();
     const candidates=recommend(dishes,{...filters,category:meal,party},{...state,history:virtualHistory},70,at);
     const recurring=(state.recurrences||[]).find(r=>r.weekday===new Date(date+'T12:00:00').getDay()&&r.meal===meal);
-    const pick=(recurring?candidates.find(d=>(recurring.dishIds||[]).includes(d.id)):null)||candidates[0];if(!pick){unfilled++;continue;}
+    const pick=(recurring?candidates.find(d=>(recurring.dishIds||[]).includes(d.id)):null)||candidates.find(d=>!d.side&&!COMMON_SIDES.has(norm(d.name)));if(!pick){unfilled++;continue;}
     plan[key]={date,meal,name:pick.name,dishIds:[pick.id],canonicalIds:[pick.canonicalId],party:{...party}};
     virtualHistory.push({...plan[key],date:date+'T12:00:00'});
   }
