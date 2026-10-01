@@ -1,0 +1,808 @@
+{
+  "batch": "friend-list-second100",
+  "source": "Kavita_ka_Kitchen_dishes_with_batch1.xlsx",
+  "range": "R0101–R0200",
+  "publicationStatus": "draft",
+  "items": [
+    {
+      "id": "spaghetti-alla-carrettiera",
+      "name": "Spaghetti alla Carrettiera",
+      "sourceReviewId": "R0101",
+      "sourceRow": 102,
+      "status": "draft-recipe-translations-and-photo-ready",
+      "matches": []
+    },
+    {
+      "id": "pesto-rosso-pasta",
+      "name": "Pesto Rosso Pasta",
+      "sourceReviewId": "R0102",
+      "sourceRow": 103,
+      "status": "draft-recipe-translations-and-photo-ready",
+      "matches": []
+    },
+    {
+      "id": "pasta-alla-trapanese",
+      "name": "Pasta alla Trapanese",
+      "sourceReviewId": "R0103",
+      "sourceRow": 104,
+      "status": "draft-recipe-translations-and-photo-ready",
+      "matches": []
+    },
+    {
+      "id": "pasta-ai-quattro-formaggi",
+      "name": "Pasta ai Quattro Formaggi",
+      "sourceReviewId": "R0104",
+      "sourceRow": 105,
+      "status": "draft-recipe-translations-and-photo-ready",
+      "matches": []
+    },
+    {
+      "id": "lemon-ricotta-pasta",
+      "name": "Lemon Ricotta Pasta",
+      "sourceReviewId": "R0105",
+      "sourceRow": 106,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "gnocchi-burro-e-salvia",
+      "name": "Gnocchi Burro e Salvia",
+      "sourceReviewId": "R0106",
+      "sourceRow": 107,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "gnocchi-gorgonzola",
+      "name": "Gnocchi Gorgonzola",
+      "sourceReviewId": "R0107",
+      "sourceRow": 108,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "wafu-pasta",
+      "name": "Wafu Pasta",
+      "sourceReviewId": "R0108",
+      "sourceRow": 109,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "schezwan-pasta",
+      "name": "Schezwan Pasta",
+      "sourceReviewId": "R0109",
+      "sourceRow": 110,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pizza-bianca",
+      "name": "Pizza Bianca",
+      "sourceReviewId": "R0110",
+      "sourceRow": 111,
+      "status": "reviewed-photo-ready-recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pizza-ortolana",
+      "name": "Pizza Ortolana",
+      "sourceReviewId": "R0111",
+      "sourceRow": 112,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pizza-funghi",
+      "name": "Pizza Funghi",
+      "sourceReviewId": "R0112",
+      "sourceRow": 113,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pinsa-romana",
+      "name": "Pinsa Romana",
+      "sourceReviewId": "R0113",
+      "sourceRow": 114,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "fugazzeta",
+      "name": "Fugazzeta",
+      "sourceReviewId": "R0114",
+      "sourceRow": 115,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "focaccia-di-recco",
+      "name": "Focaccia di Recco",
+      "sourceReviewId": "R0115",
+      "sourceRow": 116,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "french-bread-pizza",
+      "name": "French Bread Pizza",
+      "sourceReviewId": "R0116",
+      "sourceRow": 117,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pizza-paratha",
+      "name": "Pizza Paratha",
+      "sourceReviewId": "R0117",
+      "sourceRow": 118,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "kibbeh-batata",
+      "name": "Kibbeh Batata",
+      "sourceReviewId": "R0118",
+      "sourceRow": 119,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "homity-pie",
+      "name": "Homity Pie",
+      "sourceReviewId": "R0119",
+      "sourceRow": 120,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "lobiani",
+      "name": "Lobiani",
+      "sourceReviewId": "R0120",
+      "sourceRow": 121,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "jamaican-vegetable-patty",
+      "name": "Jamaican Vegetable Patty",
+      "sourceReviewId": "R0121",
+      "sourceRow": 122,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "black-bean-burger",
+      "name": "Black Bean Burger",
+      "sourceReviewId": "R0122",
+      "sourceRow": 123,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "tofu-katsu-sando",
+      "name": "Tofu Katsu Sando",
+      "sourceReviewId": "R0123",
+      "sourceRow": 124,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "bombay-frankie",
+      "name": "Bombay Frankie",
+      "sourceReviewId": "R0124",
+      "sourceRow": 125,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "soya-chaap-roll",
+      "name": "Soya Chaap Roll",
+      "sourceReviewId": "R0125",
+      "sourceRow": 126,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pan-fried-noodles",
+      "name": "Pan-Fried Noodles",
+      "sourceReviewId": "R0126",
+      "sourceRow": 127,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetarian-zhajiangmian",
+      "name": "Vegetarian Zhajiangmian",
+      "sourceReviewId": "R0127",
+      "sourceRow": 128,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetarian-jajangmyeon",
+      "name": "Vegetarian Jajangmyeon",
+      "sourceReviewId": "R0128",
+      "sourceRow": 129,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "yaki-udon",
+      "name": "Yaki Udon",
+      "sourceReviewId": "R0129",
+      "sourceRow": 130,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "rabokki",
+      "name": "Rabokki",
+      "sourceReviewId": "R0130",
+      "sourceRow": 131,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "chao-nian-gao",
+      "name": "Chao Nian Gao",
+      "sourceReviewId": "R0131",
+      "sourceRow": 132,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pad-med-mamuang",
+      "name": "Pad Med Mamuang",
+      "sourceReviewId": "R0132",
+      "sourceRow": 133,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pad-prik-khing",
+      "name": "Pad Prik Khing",
+      "sourceReviewId": "R0133",
+      "sourceRow": 134,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "chinese-chopsuey",
+      "name": "Chinese Chopsuey",
+      "sourceReviewId": "R0134",
+      "sourceRow": 135,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetables-in-black-bean-sauce",
+      "name": "Vegetables in Black Bean Sauce",
+      "sourceReviewId": "R0135",
+      "sourceRow": 136,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "white-sauce-pasta",
+      "name": "White Sauce Pasta",
+      "sourceReviewId": "R0136",
+      "sourceRow": 137,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pesto-pasta",
+      "name": "Pesto Pasta",
+      "sourceReviewId": "R0137",
+      "sourceRow": 138,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "spaghetti-aglio-e-olio",
+      "name": "Spaghetti Aglio e Olio",
+      "sourceReviewId": "R0138",
+      "sourceRow": 139,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "masala-pasta",
+      "name": "Masala Pasta",
+      "sourceReviewId": "R0139",
+      "sourceRow": 140,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "chilli-garlic-noodles",
+      "name": "Chilli Garlic Noodles",
+      "sourceReviewId": "R0140",
+      "sourceRow": 141,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "schezwan-noodles",
+      "name": "Schezwan Noodles",
+      "sourceReviewId": "R0141",
+      "sourceRow": 142,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "cacio-e-pepe",
+      "name": "Cacio e Pepe",
+      "sourceReviewId": "R0142",
+      "sourceRow": 143,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "spaghetti-pomodoro",
+      "name": "Spaghetti Pomodoro",
+      "sourceReviewId": "R0143",
+      "sourceRow": 144,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pasta-alla-norma",
+      "name": "Pasta alla Norma",
+      "sourceReviewId": "R0144",
+      "sourceRow": 145,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "creamy-mushroom-pasta",
+      "name": "Creamy Mushroom Pasta",
+      "sourceReviewId": "R0145",
+      "sourceRow": 146,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "lentil-bolognese",
+      "name": "Lentil Bolognese",
+      "sourceReviewId": "R0146",
+      "sourceRow": 147,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pasta-al-limone",
+      "name": "Pasta al Limone",
+      "sourceReviewId": "R0147",
+      "sourceRow": 148,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "spaghetti-alla-nerano",
+      "name": "Spaghetti alla Nerano",
+      "sourceReviewId": "R0148",
+      "sourceRow": 149,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pasta-alla-checca",
+      "name": "Pasta alla Checca",
+      "sourceReviewId": "R0149",
+      "sourceRow": 150,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "polenta-e-funghi",
+      "name": "Polenta e Funghi",
+      "sourceReviewId": "R0150",
+      "sourceRow": 151,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pizza-marinara",
+      "name": "Pizza Marinara",
+      "sourceReviewId": "R0151",
+      "sourceRow": 152,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "quattro-formaggi-pizza",
+      "name": "Quattro Formaggi Pizza",
+      "sourceReviewId": "R0152",
+      "sourceRow": 153,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "stromboli",
+      "name": "Stromboli",
+      "sourceReviewId": "R0153",
+      "sourceRow": 154,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "panzerotti",
+      "name": "Panzerotti",
+      "sourceReviewId": "R0154",
+      "sourceRow": 155,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "bean-burrito",
+      "name": "Bean Burrito",
+      "sourceReviewId": "R0155",
+      "sourceRow": 156,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "chimichanga",
+      "name": "Chimichanga",
+      "sourceReviewId": "R0156",
+      "sourceRow": 157,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "sopes",
+      "name": "Sopes",
+      "sourceReviewId": "R0157",
+      "sourceRow": 158,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "gorditas",
+      "name": "Gorditas",
+      "sourceReviewId": "R0158",
+      "sourceRow": 159,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "chalupas",
+      "name": "Chalupas",
+      "sourceReviewId": "R0159",
+      "sourceRow": 160,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "huaraches",
+      "name": "Huaraches",
+      "sourceReviewId": "R0160",
+      "sourceRow": 161,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "enfrijoladas",
+      "name": "Enfrijoladas",
+      "sourceReviewId": "R0161",
+      "sourceRow": 162,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "budin-azteca",
+      "name": "Budín Azteca",
+      "sourceReviewId": "R0162",
+      "sourceRow": 163,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetable-pasty",
+      "name": "Vegetable Pasty",
+      "sourceReviewId": "R0163",
+      "sourceRow": 164,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "cheese-and-onion-pie",
+      "name": "Cheese and Onion Pie",
+      "sourceReviewId": "R0164",
+      "sourceRow": 165,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pumpkin-kibbeh",
+      "name": "Pumpkin Kibbeh",
+      "sourceReviewId": "R0165",
+      "sourceRow": 166,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "halloumi-wrap",
+      "name": "Halloumi Wrap",
+      "sourceReviewId": "R0166",
+      "sourceRow": 167,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "cauliflower-shawarma",
+      "name": "Cauliflower Shawarma",
+      "sourceReviewId": "R0167",
+      "sourceRow": 168,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "beyaynetu",
+      "name": "Beyaynetu",
+      "sourceReviewId": "R0168",
+      "sourceRow": 169,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "bunny-chow",
+      "name": "Bunny Chow",
+      "sourceReviewId": "R0169",
+      "sourceRow": 170,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "buddha-bowl",
+      "name": "Buddha Bowl",
+      "sourceReviewId": "R0170",
+      "sourceRow": 171,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "tofu-poke-bowl",
+      "name": "Tofu Poke Bowl",
+      "sourceReviewId": "R0171",
+      "sourceRow": 172,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "mediterranean-quinoa-bowl",
+      "name": "Mediterranean Quinoa Bowl",
+      "sourceReviewId": "R0172",
+      "sourceRow": 173,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "singapore-noodles",
+      "name": "Singapore Noodles",
+      "sourceReviewId": "R0173",
+      "sourceRow": 174,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "lo-mein",
+      "name": "Lo Mein",
+      "sourceReviewId": "R0174",
+      "sourceRow": 175,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetarian-dan-dan-noodles",
+      "name": "Vegetarian Dan Dan Noodles",
+      "sourceReviewId": "R0175",
+      "sourceRow": 176,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "sesame-noodles",
+      "name": "Sesame Noodles",
+      "sourceReviewId": "R0176",
+      "sourceRow": 177,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "biang-biang-noodles",
+      "name": "Biang Biang Noodles",
+      "sourceReviewId": "R0177",
+      "sourceRow": 178,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "yakisoba",
+      "name": "Yakisoba",
+      "sourceReviewId": "R0178",
+      "sourceRow": 179,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "bibim-guksu",
+      "name": "Bibim Guksu",
+      "sourceReviewId": "R0179",
+      "sourceRow": 180,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetarian-pad-see-ew",
+      "name": "Vegetarian Pad See Ew",
+      "sourceReviewId": "R0180",
+      "sourceRow": 181,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "drunken-noodles",
+      "name": "Drunken Noodles",
+      "sourceReviewId": "R0181",
+      "sourceRow": 182,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "pad-woon-sen",
+      "name": "Pad Woon Sen",
+      "sourceReviewId": "R0182",
+      "sourceRow": 183,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "thai-peanut-noodles",
+      "name": "Thai Peanut Noodles",
+      "sourceReviewId": "R0183",
+      "sourceRow": 184,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "mee-goreng",
+      "name": "Mee Goreng",
+      "sourceReviewId": "R0184",
+      "sourceRow": 185,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "atho",
+      "name": "Atho",
+      "sourceReviewId": "R0185",
+      "sourceRow": 186,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "general-tso-s-tofu",
+      "name": "General Tso's Tofu",
+      "sourceReviewId": "R0186",
+      "sourceRow": 187,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "sweet-and-sour-tofu",
+      "name": "Sweet and Sour Tofu",
+      "sourceReviewId": "R0187",
+      "sourceRow": 188,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "black-pepper-tofu",
+      "name": "Black Pepper Tofu",
+      "sourceReviewId": "R0188",
+      "sourceRow": 189,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "tofu-bulgogi",
+      "name": "Tofu Bulgogi",
+      "sourceReviewId": "R0189",
+      "sourceRow": 190,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "tteokbokki",
+      "name": "Tteokbokki",
+      "sourceReviewId": "R0190",
+      "sourceRow": 191,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "kathi-roll",
+      "name": "Kathi Roll",
+      "sourceReviewId": "R0191",
+      "sourceRow": 192,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "veggie-burger",
+      "name": "Veggie Burger",
+      "sourceReviewId": "R0192",
+      "sourceRow": 193,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "aloo-tikki-burger",
+      "name": "Aloo Tikki Burger",
+      "sourceReviewId": "R0193",
+      "sourceRow": 194,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "grilled-cheese-sandwich",
+      "name": "Grilled Cheese Sandwich",
+      "sourceReviewId": "R0194",
+      "sourceRow": 195,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "caprese-sandwich",
+      "name": "Caprese Sandwich",
+      "sourceReviewId": "R0195",
+      "sourceRow": 196,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "tofu-banh-mi",
+      "name": "Tofu Banh Mi",
+      "sourceReviewId": "R0196",
+      "sourceRow": 197,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "vegetable-panini",
+      "name": "Vegetable Panini",
+      "sourceReviewId": "R0197",
+      "sourceRow": 198,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "paneer-steak",
+      "name": "Paneer Steak",
+      "sourceReviewId": "R0198",
+      "sourceRow": 199,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "jacket-potato",
+      "name": "Jacket Potato",
+      "sourceReviewId": "R0199",
+      "sourceRow": 200,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "alplermagronen",
+      "name": "Älplermagronen",
+      "sourceReviewId": "R0200",
+      "sourceRow": 201,
+      "status": "recipe-needed",
+      "matches": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "sourceReviewId": "R0102",
+  "id": "pesto-rosso-pasta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Pesto Rosso Pasta",
+  "cuisine": "Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": null,
+  "ingredients": [
+    {"name": "eggless dried rigatoni", "qty": 360, "unit": "g"},
+    {"name": "sun-dried tomatoes in oil, drained", "qty": 150, "unit": "g"},
+    {"name": "almonds", "qty": 70, "unit": "g"},
+    {"name": "fresh basil", "qty": 30, "unit": "g"},
+    {"name": "garlic", "qty": 10, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 55, "unit": "ml"},
+    {"name": "vegetarian hard cheese", "qty": 35, "unit": "g"},
+    {"name": "salt", "qty": 9, "unit": "g"},
+    {"name": "water", "qty": 3000, "unit": "ml"}
+  ],
+  "steps": [
+    "Bring the measured water to a boil in a large pot. Meanwhile, drain the sun-dried tomatoes well, wash and dry the basil, and peel the garlic. Toast the almonds in a dry pan over medium-low heat for 3–4 minutes until fragrant, then cool briefly.",
+    "Pulse the tomatoes, almonds and garlic in a food processor to a coarse paste. Add basil, vegetarian hard cheese and olive oil, then pulse again only until combined. Scrape down the bowl. The pesto should retain small almond pieces rather than become completely smooth.",
+    "Add 7 g salt and rigatoni to the boiling water. Stir and cook to the package's al dente point, usually 10–12 minutes; a cut piece should have no dry white core but still feel firm. Reserve 200 ml starchy pasta water before draining.",
+    "Put the drained pasta into a warm wide pan off the heat. Add the pesto and toss for 1 minute. Add reserved pasta water a few spoonfuls at a time until the sauce becomes glossy and coats the pasta without pooling underneath. Do not fry the basil pesto.",
+    "Taste and add some or all of the remaining 2 g salt only if needed; preserved tomatoes and cheese can be salty. Divide into four bowls and serve warm with a few visible basil leaves and almond pieces."
+  ],
+  "tips": ["Use drained oil-packed sun-dried tomatoes for a deep red, concentrated pesto. Choose cheese made with vegetarian rennet, and add salt only after tasting the finished sauce."],
+  "translations": {
+    "hi": {
+      "name": "पेस्टो रोसो पास्ता",
+      "ingredients": ["बिना अंडे की सूखी रिगाटोनी", "तेल में रखे धूप में सूखे टमाटर, छाने हुए", "बादाम", "ताज़ी बेसिल", "लहसुन", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "शाकाहारी हार्ड चीज़", "नमक", "पानी"],
+      "steps": [
+        "नापा हुआ पानी बड़े बर्तन में उबालें। इसी बीच सूखे टमाटर अच्छी तरह छानें, बेसिल धोकर सुखाएँ और लहसुन छीलें। बादाम सूखी कड़ाही में मध्यम-धीमी आँच पर 3–4 मिनट महक आने तक भूनें, फिर थोड़े ठंडे करें।",
+        "टमाटर, बादाम और लहसुन को फूड प्रोसेसर में दरदरा पीसें। बेसिल, शाकाहारी हार्ड चीज़ और ऑलिव तेल डालकर बस मिलने तक चलाएँ। किनारे खुरचें। पेस्टो में बादाम के छोटे टुकड़े दिखें; इसे पूरी तरह चिकना न करें।",
+        "उबलते पानी में 7 ग्राम नमक और रिगाटोनी डालें। हिलाकर पैकेट के अनुसार आमतौर पर 10–12 मिनट अल दंते पकाएँ। काटने पर बीच में सूखा सफेद भाग न रहे, लेकिन पास्ता हल्का सख्त लगे। छानने से पहले 200 मिली स्टार्च वाला पानी बचाएँ।",
+        "छाना पास्ता आँच से उतरे गरम चौड़े पैन में डालें। पेस्टो मिलाकर 1 मिनट उछालें। बचा पास्ता पानी कुछ चम्मच करके डालें, जब तक सॉस चमकदार होकर पास्ता पर चिपक जाए और नीचे जमा न हो। बेसिल पेस्टो को तलें नहीं।",
+        "चखें और ज़रूरत हो तभी बचा 2 ग्राम नमक कुछ या पूरा डालें; सूखे टमाटर और चीज़ पहले से नमकीन हो सकते हैं। चार बाउल में बाँटकर ऊपर बेसिल और बादाम के टुकड़ों के साथ गरम परोसें।"
+      ],
+      "tips": ["गहरे लाल और गाढ़े पेस्टो के लिए तेल में रखे सूखे टमाटर छानकर लें। शाकाहारी रेनेट से बनी चीज़ चुनें और तैयार सॉस चखने के बाद ही नमक बढ़ाएँ।"]
+    },
+    "gu": {
+      "name": "પેસ્ટો રોસો પાસ્તા",
+      "ingredients": ["ઇંડા વગરની સૂકી રિગાટોની", "તેલમાં રાખેલાં તડકામાં સુકવેલાં ટામેટાં, નિતારેલાં", "બદામ", "તાજી બેસિલ", "લસણ", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "શાકાહારી હાર્ડ ચીઝ", "મીઠું", "પાણી"],
+      "steps": [
+        "માપેલું પાણી મોટા વાસણમાં ઉકાળો. તે દરમિયાન સુકવેલાં ટામેટાં સારી રીતે નિતારો, બેસિલ ધોઈને સૂકવો અને લસણ છોલો. બદામને સૂકી કડાઈમાં મધ્યમથી ધીમા તાપે 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો, પછી થોડાં ઠંડાં કરો.",
+        "ટામેટાં, બદામ અને લસણને ફૂડ પ્રોસેસરમાં કરકરું પીસો. બેસિલ, શાકાહારી હાર્ડ ચીઝ અને ઓલિવ તેલ નાખીને માત્ર ભેળાય ત્યાં સુધી પલ્સ કરો. બાજુઓ ખુરચો. પેસ્ટોમાં બદામના નાના ટુકડા રહેવા જોઈએ; એકદમ લીસું ન કરો.",
+        "ઉકળતા પાણીમાં 7 ગ્રામ મીઠું અને રિગાટોની નાખો. હલાવીને પેકેટ મુજબ સામાન્ય રીતે 10–12 મિનિટ અલ દંતે રાંધો. કાપતાં વચ્ચે સૂકો સફેદ ભાગ ન રહે, પણ પાસ્તા થોડો મજબૂત લાગે. નિતારતાં પહેલાં 200 મિલી સ્ટાર્ચવાળું પાણી સાચવો.",
+        "નિતારેલા પાસ્તાને તાપ પરથી ઉતારેલી ગરમ પહોળી કડાઈમાં નાખો. પેસ્ટો ઉમેરી 1 મિનિટ ભેળવો. સાચવેલું પાસ્તાનું પાણી થોડા ચમચા કરીને ઉમેરો, જ્યાં સુધી સોસ ચમકદાર બની પાસ્તા પર ચોંટે અને નીચે જમા ન થાય. બેસિલ પેસ્ટો તળશો નહીં.",
+        "ચાખીને જરૂર હોય તો જ બાકીનું 2 ગ્રામ મીઠું થોડું કે પૂરું ઉમેરો; સુકવેલાં ટામેટાં અને ચીઝ પહેલેથી ખારાં હોઈ શકે. ચાર વાટકામાં વહેંચીને ઉપર બેસિલ અને બદામના ટુકડા સાથે ગરમ પીરસો."
+      ],
+      "tips": ["ઘેરા લાલ અને ઘટ્ટ પેસ્ટો માટે તેલમાં રાખેલાં સુકવેલાં ટામેટાં નિતારીને લો. શાકાહારી રેનેટથી બનેલી ચીઝ પસંદ કરો અને તૈયાર સોસ ચાખ્યા પછી જ મીઠું વધારો."]
+    }
+  },
+  "reference": {"url": "https://www.basilicogenovese.it/cucina/ricettario/pesto-rosso-con-pomodorini-e-mandorle/", "use": "Sun-dried tomato, almond and basil pesto identity; recipe quantities and directions independently authored."}
+}

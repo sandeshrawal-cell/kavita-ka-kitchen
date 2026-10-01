@@ -1,0 +1,58 @@
+{
+  "sourceReviewId": "R0103",
+  "id": "pasta-alla-trapanese",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Pasta alla Trapanese",
+  "cuisine": "Sicilian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "passiveTime": null,
+  "ingredients": [
+    {"name": "eggless dried busiate pasta", "qty": 360, "unit": "g"},
+    {"name": "ripe tomatoes", "qty": 450, "unit": "g"},
+    {"name": "blanched almonds", "qty": 70, "unit": "g"},
+    {"name": "fresh basil", "qty": 35, "unit": "g"},
+    {"name": "garlic", "qty": 10, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 65, "unit": "ml"},
+    {"name": "vegetarian hard cheese", "qty": 45, "unit": "g"},
+    {"name": "salt", "qty": 9, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "water", "qty": 3000, "unit": "ml"}
+  ],
+  "steps": [
+    "Wash and dry the tomatoes and basil. Core and roughly chop the tomatoes, keeping their juice. Lightly toast the blanched almonds in a dry pan for 3–4 minutes until fragrant, then cool. Peel the garlic and grate the vegetarian hard cheese.",
+    "Crush the almonds and garlic to a coarse crumb in a mortar or food processor. Add basil and pulse briefly, then add the fresh tomatoes, their juice, 5 g salt and black pepper. Add the olive oil gradually and pulse only until a rustic, spoonable raw pesto forms; do not cook it or turn it completely smooth.",
+    "Bring the measured water to a rolling boil, add the remaining 4 g salt and busiate, and stir to separate the twists. Cook according to the pack, usually 10–13 minutes, until tender with a slight bite and no dry centre. Reserve 150 ml cooking water, then drain.",
+    "In a large bowl off the heat, toss the hot pasta with the raw tomato-almond pesto and half the grated cheese. Add reserved cooking water a spoonful at a time until the pesto lightly coats the twists; the sauce should stay fresh and textured, not watery.",
+    "Taste and adjust seasoning. Divide into four warm bowls, scatter over the remaining vegetarian cheese and a few basil leaves, and serve immediately."
+  ],
+  "tips": ["Fresh ripe tomatoes, almonds and basil distinguish this Trapani pesto from concentrated sun-dried tomato pesto. Busiate is traditional; if unavailable, use another eggless short twisted pasta."],
+  "translations": {
+    "hi": {
+      "name": "पास्ता आला त्रापानेज़े",
+      "ingredients": ["बिना अंडे का सूखा बुसियाते पास्ता", "पके टमाटर", "छिलके उतरे बादाम", "ताज़ी बेसिल", "लहसुन", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "शाकाहारी हार्ड चीज़", "नमक", "काली मिर्च", "पानी"],
+      "steps": [
+        "टमाटर और बेसिल धोकर सुखाएँ। टमाटर का कड़ा हिस्सा निकालकर मोटा काटें और उनका रस बचाएँ। छिलके उतरे बादाम सूखी कड़ाही में 3–4 मिनट हल्की महक आने तक भूनें, फिर ठंडे करें। लहसुन छीलें और शाकाहारी हार्ड चीज़ कसें।",
+        "बादाम और लहसुन को ओखली या फूड प्रोसेसर में दरदरा कूटें। बेसिल डालकर थोड़ी देर पीसें, फिर ताज़े टमाटर, उनका रस, 5 ग्राम नमक और काली मिर्च डालें। ऑलिव तेल धीरे-धीरे डालते हुए इतना ही चलाएँ कि देहाती, चम्मच से डाला जा सकने वाला कच्चा पेस्टो बने; इसे पकाएँ या पूरी तरह चिकना न करें।",
+        "नापा हुआ पानी तेज़ उबाल तक लाएँ। बचा 4 ग्राम नमक और बुसियाते डालकर मोड़ अलग करने के लिए हिलाएँ। पैकेट के अनुसार आमतौर पर 10–13 मिनट पकाएँ, जब तक पास्ता नरम हो पर हल्का काटने का एहसास रहे और बीच में सूखा भाग न हो। 150 मिली पानी बचाकर पास्ता छानें।",
+        "आँच से दूर बड़े बाउल में गरम पास्ता, कच्चा टमाटर-बादाम पेस्टो और आधी कसी चीज़ मिलाएँ। बचा पकाने वाला पानी चम्मच भर करके डालें, बस इतना कि पेस्टो पास्ता के मोड़ों पर हल्के से चिपक जाए; सॉस ताज़ा और दरदरा रहे, पानीदार न हो।",
+        "चखकर मसाला समायोजित करें। चार गरम बाउल में बाँटें, ऊपर बची शाकाहारी चीज़ और कुछ बेसिल पत्ते डालकर तुरंत परोसें।"
+      ],
+      "tips": ["ताज़े पके टमाटर, बादाम और बेसिल इस त्रापानी पेस्टो को सूखे टमाटर वाले गाढ़े पेस्टो से अलग बनाते हैं। बुसियाते पारंपरिक है; न मिले तो बिना अंडे का दूसरा छोटा मुड़ा हुआ पास्ता लें।"]
+    },
+    "gu": {
+      "name": "પાસ્તા આલા ત્રાપાનેઝે",
+      "ingredients": ["ઇંડા વગરનો સૂકો બુસિયાતે પાસ્તા", "પાકેલા ટામેટાં", "છાલ ઉતારેલા બદામ", "તાજી બેસિલ", "લસણ", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "શાકાહારી હાર્ડ ચીઝ", "મીઠું", "કાળી મરી", "પાણી"],
+      "steps": [
+        "ટામેટાં અને બેસિલ ધોઈને સૂકવો. ટામેટાંનો કઠણ ભાગ કાઢી મોટા ટુકડા કરો અને રસ સાચવો. છાલ ઉતારેલા બદામને સૂકી કડાઈમાં 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો, પછી ઠંડાં કરો. લસણ છોલો અને શાકાહારી હાર્ડ ચીઝ ખમણો.",
+        "બદામ અને લસણને ખાંડણિયામાં અથવા ફૂડ પ્રોસેસરમાં કરકરું પીસો. બેસિલ નાખીને થોડું પલ્સ કરો, પછી તાજાં ટામેટાં, તેમનો રસ, 5 ગ્રામ મીઠું અને કાળી મરી ઉમેરો. ઓલિવ તેલ ધીમે ધીમે નાખીને માત્ર એટલું પીસો કે ચમચીથી લઈ શકાય એવો કાચો, કરકરો પેસ્ટો બને; તેને રાંધશો કે એકદમ લીસો કરશો નહીં.",
+        "માપેલું પાણી પૂરતું ઉકાળો. બાકીનું 4 ગ્રામ મીઠું અને બુસિયાતે નાખીને વળાંકો અલગ કરવા હલાવો. પેકેટ મુજબ સામાન્ય રીતે 10–13 મિનિટ રાંધો, જ્યાં સુધી પાસ્તા નરમ પણ થોડો ચાવવાનો લાગે અને વચ્ચે સૂકો ભાગ ન રહે. 150 મિલી પાણી સાચવીને પાસ્તા નિતારો.",
+        "તાપથી દૂર મોટા વાસણમાં ગરમ પાસ્તા, કાચા ટામેટાં-બદામનો પેસ્ટો અને અડધું ખમણેલું ચીઝ ભેળવો. સાચવેલું રાંધવાનું પાણી ચમચીભર કરીને ઉમેરો, એટલું જ કે પેસ્ટો પાસ્તાના વળાંક પર હળવેથી ચોંટે; સોસ તાજો અને કરકરો રહે, પાણીવાળો ન બને.",
+        "ચાખીને મસાલો ગોઠવો. ચાર ગરમ વાટકામાં વહેંચો, ઉપર બાકીનું શાકાહારી ચીઝ અને થોડાં બેસિલ પાન નાખીને તરત પીરસો."
+      ],
+      "tips": ["તાજાં પાકેલાં ટામેટાં, બદામ અને બેસિલ આ ત્રાપાની પેસ્ટોને ઘટ્ટ સુકવેલાં ટામેટાંના પેસ્ટોથી અલગ પાડે છે. બુસિયાતે પરંપરાગત છે; ન મળે તો ઇંડા વગરનો બીજો ટૂંકો વળાંકવાળો પાસ્તા લો."]
+    }
+  },
+  "reference": {"url": "https://www.lacucinaitaliana.com/italian-food/italian-dishes/traditional-sicilian-pasta-recipe-busiate-with-pesto-trapanese", "use": "Traditional busiate with uncooked tomato, almond and basil pesto; quantities and directions independently authored."}
+}

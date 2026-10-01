@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0101",
+  "id": "spaghetti-alla-carrettiera",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Spaghetti alla Carrettiera",
+  "cuisine": "Sicilian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": "Rest the raw tomato dressing for 15 minutes while the pasta water heats.",
+  "ingredients": [
+    {"name": "dried spaghetti", "qty": 360, "unit": "g"},
+    {"name": "ripe tomatoes", "qty": 500, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 60, "unit": "ml"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "flat-leaf parsley", "qty": 25, "unit": "g"},
+    {"name": "dried red chilli flakes", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 10, "unit": "g"},
+    {"name": "water", "qty": 3000, "unit": "ml"}
+  ],
+  "steps": [
+    "Wash and dry the tomatoes and parsley. Core and finely dice the tomatoes, mince the garlic and chop the parsley. Keep the tomato juices; they help the raw dressing coat the spaghetti.",
+    "In a wide serving bowl, mix the tomatoes and their juice with garlic, parsley, chilli flakes, olive oil and 3 g of the salt. Rest for 15 minutes at room temperature while the water heats so the flavours mingle. The tomatoes should remain fresh, not be cooked into a sauce.",
+    "Bring the measured water to a rolling boil in a large pot. Add the remaining 7 g salt and spaghetti, stir well, and cook according to the pack until al dente, usually 8–11 minutes. The strands should be tender with a slight bite. Reserve 150 ml starchy cooking water before draining.",
+    "Add the hot drained spaghetti to the raw tomato mixture. Toss vigorously for 1 minute, adding reserved cooking water a spoonful at a time only until the oil and tomato juices lightly cling to every strand. Do not make it soupy.",
+    "Taste and adjust chilli or salt if needed. Divide among four warm plates and serve immediately with the visible fresh tomato and parsley on top."
+  ],
+  "tips": ["Use fully ripe, room-temperature tomatoes. Add the hot pasta to the raw dressing just before serving; long holding makes the pasta soft and the herbs dull."],
+  "translations": {
+    "hi": {
+      "name": "स्पेगेटी आला कारेत्तिएरा",
+      "ingredients": ["सूखी स्पेगेटी", "पके टमाटर", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "लहसुन", "चपटी पत्ती वाला पार्सले", "सूखी लाल मिर्च के टुकड़े", "नमक", "पानी"],
+      "passiveTime": "पास्ता का पानी गरम होते समय कच्चे टमाटर की ड्रेसिंग को 15 मिनट रखें।",
+      "steps": [
+        "टमाटर और पार्सले धोकर सुखाएँ। टमाटर का कड़ा हिस्सा निकालकर बारीक काटें, लहसुन कूटें और पार्सले काटें। टमाटर का रस बचाएँ; वही कच्ची ड्रेसिंग को स्पेगेटी से चिपकाने में मदद करेगा।",
+        "चौड़े सर्विंग बाउल में टमाटर और उसका रस, लहसुन, पार्सले, लाल मिर्च, ऑलिव तेल और 3 ग्राम नमक मिलाएँ। पानी गरम होने तक 15 मिनट कमरे के तापमान पर रखें। टमाटर ताज़ा रहने चाहिए; उन्हें पकाकर सॉस न बनाएँ।",
+        "नापा हुआ पानी बड़े बर्तन में तेज़ उबाल तक लाएँ। बचा 7 ग्राम नमक और स्पेगेटी डालकर हिलाएँ। पैकेट के अनुसार, आमतौर पर 8–11 मिनट, अल दंते पकाएँ: रेशे नरम हों लेकिन हल्का काटने का एहसास रहे। पानी निकालने से पहले 150 मिली स्टार्च वाला पानी बचाएँ।",
+        "गरम छानी स्पेगेटी कच्चे टमाटर में डालें। 1 मिनट अच्छी तरह मिलाएँ। ज़रूरत के अनुसार बचा पकाने वाला पानी चम्मच भर डालें, बस इतना कि तेल और टमाटर का रस हर रेशे पर हल्के से चिपक जाए; डिश में पानी जमा न हो।",
+        "चखकर ज़रूरत हो तो मिर्च या नमक बदलें। चार गरम प्लेटों में बाँटें और ऊपर ताज़ा टमाटर व पार्सले दिखाते हुए तुरंत परोसें।"
+      ],
+      "tips": ["पूरी तरह पके, कमरे के तापमान वाले टमाटर लें। गरम पास्ता परोसने से ठीक पहले कच्ची ड्रेसिंग में मिलाएँ; देर तक रखने से पास्ता नरम और हरी पत्तियाँ फीकी हो जाती हैं।"]
+    },
+    "gu": {
+      "name": "સ્પેગેટી આલા કારેટેરા",
+      "ingredients": ["સૂકી સ્પેગેટી", "પાકેલા ટામેટાં", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "લસણ", "સપાટ પાનવાળી પાર્સલી", "સૂકા લાલ મરચાંના ટુકડા", "મીઠું", "પાણી"],
+      "passiveTime": "પાસ્તાનું પાણી ગરમ થાય ત્યાં સુધી કાચા ટામેટાંની ડ્રેસિંગ 15 મિનિટ રહેવા દો.",
+      "steps": [
+        "ટામેટાં અને પાર્સલી ધોઈને સૂકવો. ટામેટાંનો કઠણ ભાગ કાઢીને બારીક સમારો, લસણ ઝીણું સમારો અને પાર્સલી સમારો. ટામેટાંનો રસ સાચવો; તે કાચી ડ્રેસિંગને સ્પેગેટી પર ચોંટવામાં મદદ કરે છે.",
+        "પહોળા પીરસવાના વાસણમાં ટામેટાં અને તેમનો રસ, લસણ, પાર્સલી, મરચાંના ટુકડા, ઓલિવ તેલ અને 3 ગ્રામ મીઠું ભેળવો. પાણી ગરમ થાય ત્યાં સુધી 15 મિનિટ ઓરડાના તાપમાને રાખો. ટામેટાં તાજાં રહેવા જોઈએ; તેમને પકાવીને સોસ ન બનાવો.",
+        "માપેલું પાણી મોટા વાસણમાં પૂરતું ઉકાળો. બાકીનું 7 ગ્રામ મીઠું અને સ્પેગેટી નાખીને હલાવો. પેકેટ મુજબ સામાન્ય રીતે 8–11 મિનિટ અલ દંતે રાંધો: રેસા નરમ હોય પણ થોડો ચાવવાનો અનુભવ રહે. પાણી નિતારતાં પહેલાં 150 મિલી સ્ટાર્ચવાળું પાણી સાચવો.",
+        "ગરમ નિતારેલી સ્પેગેટી કાચા ટામેટાંના મિશ્રણમાં નાખો. 1 મિનિટ જોરથી ભેળવો. જરૂર હોય તો સાચવેલું રાંધવાનું પાણી ચમચીભર ઉમેરો, એટલું જ કે તેલ અને ટામેટાંનો રસ દરેક રેસા પર હળવેથી ચોંટે; પાણીવાળું ન થાય.",
+        "ચાખીને જરૂર હોય તો મરચું કે મીઠું ગોઠવો. ચાર ગરમ પ્લેટમાં વહેંચો અને ઉપર તાજાં ટામેટાં તથા પાર્સલી દેખાય તેમ તરત પીરસો."
+      ],
+      "tips": ["પૂરાં પાકેલાં, ઓરડાના તાપમાનનાં ટામેટાં લો. ગરમ પાસ્તાને પીરસતાં પહેલાં જ કાચી ડ્રેસિંગમાં ભેળવો; લાંબો સમય રાખવાથી પાસ્તા નરમ અને પાન ફિક્કાં થઈ જાય છે."]
+    }
+  },
+  "reference": {
+    "url": "https://www.lacucinaitaliana.com/italian-food/italian-dishes/spaghetti-alla-carrettiera-authentic-sicilian-recipe",
+    "use": "Traditional Sicilian identity and raw tomato variation; quantities and directions independently authored."
+  }
+}
