@@ -1,0 +1,60 @@
+{
+  "sourceReviewId": "R0116",
+  "id": "french-bread-pizza",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "French Bread Pizza",
+  "cuisine": "American",
+  "categories": ["Lunch", "Dinner", "Quick Meals"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": null,
+  "ingredients": [
+    {"name": "eggless French baguettes", "qty": 600, "unit": "g"},
+    {"name": "tomato passata", "qty": 260, "unit": "g"},
+    {"name": "vegetarian mozzarella", "qty": 250, "unit": "g"},
+    {"name": "button mushrooms", "qty": 150, "unit": "g"},
+    {"name": "red bell pepper", "qty": 100, "unit": "g"},
+    {"name": "yellow bell pepper", "qty": 100, "unit": "g"},
+    {"name": "fresh basil", "qty": 15, "unit": "g"},
+    {"name": "garlic", "qty": 8, "unit": "g"},
+    {"name": "olive oil", "qty": 25, "unit": "ml"},
+    {"name": "dried oregano", "qty": 2, "unit": "g"},
+    {"name": "salt", "qty": 4, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Split the two baguettes lengthwise to make four long halves. Place them cut-side up on a baking tray. Brush the cut surfaces with 15 ml olive oil and toast for 5 minutes until the surface feels dry and lightly crisp; this keeps the sauce from soaking into the bread.",
+    "While the bread toasts, wipe and thinly slice the mushrooms. Dice both peppers into small pieces and finely mince the garlic. Heat the remaining 10 ml oil in a pan. Cook the mushrooms and peppers over medium-high heat for 4–5 minutes until mushroom moisture evaporates; add the garlic for the final 30 seconds.",
+    "Mix the passata with oregano, 3 g salt and black pepper. Drain and blot the mozzarella, then shred or tear it into small pieces. Spread a quarter of the tomato mixture on each toasted baguette half, stopping short of the crust; avoid a thick wet layer.",
+    "Divide the mozzarella and cooked vegetables evenly among the four halves. Bake at 220°C for 8–10 minutes until the cheese has melted and the exposed bread edge is golden. If the cheese needs more colour, grill for only 1 minute while watching closely.",
+    "Scatter the basil over the hot bread and taste before using the remaining 1 g salt. Cut each half into manageable pieces and serve one half per person while crisp. The underside of the baguette should remain firm, with no watery sauce underneath."
+  ],
+  "tips": ["Pre-toasting the baguette is the key to a crisp base. Use eggless bread and mozzarella made without animal rennet. Chop vegetables small and cook off their moisture before topping."],
+  "translations": {
+    "hi": {
+      "name": "फ्रेंच ब्रेड पिज़्ज़ा",
+      "ingredients": ["बिना अंडे की फ्रेंच बगेट", "टमाटर की छनी प्यूरी", "शाकाहारी मोत्ज़ारेला", "बटन मशरूम", "लाल शिमला मिर्च", "पीली शिमला मिर्च", "ताज़ी बेसिल", "लहसुन", "ऑलिव तेल", "सूखा ओरिगैनो", "नमक", "काली मिर्च"],
+      "steps": [
+        "ओवन को 220°C गरम करें। दो बगेट लंबाई में चीरकर चार लंबे आधे हिस्से बनाएँ। कटी तरफ ऊपर रखकर बेकिंग ट्रे में रखें। कटी सतहों पर 15 मिली ऑलिव तेल लगाएँ और 5 मिनट टोस्ट करें, जब तक सतह सूखी और हल्की कुरकुरी हो; इससे सॉस ब्रेड में नहीं समाएगा।",
+        "ब्रेड टोस्ट होते समय मशरूम पोंछकर पतले काटें। दोनों शिमला मिर्च छोटे टुकड़ों में और लहसुन बारीक काटें। पैन में बचा 10 मिली तेल गरम करें। मशरूम और मिर्च मध्यम-तेज़ आँच पर 4–5 मिनट पकाएँ, जब तक मशरूम की नमी सूख जाए; आखिरी 30 सेकंड लहसुन डालें।",
+        "टमाटर प्यूरी में ओरिगैनो, 3 ग्राम नमक और काली मिर्च मिलाएँ। मोत्ज़ारेला छानकर सुखाएँ, फिर छोटे टुकड़े करें। हर टोस्ट किए बगेट आधे पर चौथाई टमाटर मिश्रण फैलाएँ और किनारा खाली रखें; मोटी गीली परत न लगाएँ।",
+        "मोत्ज़ारेला और पकी सब्ज़ियाँ चारों आधों पर समान बाँटें। 220°C पर 8–10 मिनट बेक करें, जब तक चीज़ पिघल जाए और खुले ब्रेड के किनारे सुनहरे हों। चीज़ को और रंग चाहिए तो ध्यान रखते हुए केवल 1 मिनट ग्रिल करें।",
+        "गरम ब्रेड पर बेसिल डालें और बचा 1 ग्राम नमक इस्तेमाल करने से पहले चखें। हर आधे हिस्से को पकड़ने योग्य टुकड़ों में काटें और प्रति व्यक्ति एक आधा कुरकुरा रहते परोसें। बगेट का नीचे का हिस्सा सख्त रहे और नीचे पतला सॉस जमा न हो।"
+      ],
+      "tips": ["बगेट पहले टोस्ट करना कुरकुरे तले की कुंजी है। बिना अंडे की ब्रेड और पशु रेनेट के बिना बना मोत्ज़ारेला लें। सब्ज़ियाँ छोटी काटें और टॉपिंग से पहले उनकी नमी पकाकर सुखाएँ।"]
+    },
+    "gu": {
+      "name": "ફ્રેન્ચ બ્રેડ પિઝા",
+      "ingredients": ["ઇંડા વગરની ફ્રેન્ચ બેગેટ", "ગાળેલી ટમેટાની પ્યુરી", "શાકાહારી મોઝેરેલા", "બટન મશરૂમ", "લાલ શિમલા મરચું", "પીળું શિમલા મરચું", "તાજું બેસિલ", "લસણ", "ઓલિવ તેલ", "સૂકો ઓરેગાનો", "મીઠું", "કાળી મરી"],
+      "steps": [
+        "ઓવનને 220°C ગરમ કરો. બે બેગેટને લંબાઈમાં ચીરી ચાર લાંબા અડધા ભાગ બનાવો. કપાયેલી બાજુ ઉપર રાખીને બેકિંગ ટ્રેમાં મૂકો. કપાયેલી સપાટી પર 15 મિલી ઓલિવ તેલ લગાવી 5 મિનિટ ટોસ્ટ કરો, જ્યાં સુધી સપાટી સૂકી અને હળવી કરકરી થાય; આમ સોસ બ્રેડમાં નહીં શોષાય.",
+        "બ્રેડ ટોસ્ટ થાય ત્યારે મશરૂમ લૂછી પાતળા કાપો. બંને શિમલા મરચાંના નાના ટુકડા અને લસણ બારીક સમારો. કડાઈમાં બાકીનું 10 મિલી તેલ ગરમ કરો. મશરૂમ અને મરચાંને મધ્યમથી તેજ તાપે 4–5 મિનિટ રાંધો, જ્યાં સુધી મશરૂમનો ભેજ સૂકાય; છેલ્લી 30 સેકંડ લસણ નાખો.",
+        "ટમેટાની પ્યુરીમાં ઓરેગાનો, 3 ગ્રામ મીઠું અને કાળી મરી ભેળવો. મોઝેરેલા નિતારીને સૂકવો, પછી નાના ટુકડા કરો. દરેક ટોસ્ટ કરેલી અડધી બેગેટ પર ટમેટાના મિશ્રણનો ચોથો ભાગ પાથરો અને કિનારી ખાલી રાખો; જાડો ભીનો પડ ન કરો.",
+        "મોઝેરેલા અને રાંધેલું શાક ચારેય ભાગ પર સરખું વહેંચો. 220°C પર 8–10 મિનિટ બેક કરો, જ્યાં સુધી ચીઝ પીગળે અને ખુલ્લી બ્રેડની કિનારી સોનેરી થાય. ચીઝને વધુ રંગ જોઈએ તો નજર રાખીને માત્ર 1 મિનિટ ગ્રિલ કરો.",
+        "ગરમ બ્રેડ પર બેસિલ નાખો અને બાકીનું 1 ગ્રામ મીઠું વાપરતાં પહેલાં ચાખો. દરેક અડધા ભાગના હાથમાં પકડી શકાય એવા ટુકડા કરો અને વ્યક્તિદીઠ એક અડધો ભાગ કરકરો હોય ત્યારે પીરસો. બેગેટનો નીચેનો ભાગ મજબૂત રહે અને નીચે પાતળો સોસ એકઠો ન થાય."
+      ],
+      "tips": ["કરકરા તળિયા માટે બેગેટ પહેલાં ટોસ્ટ કરો. ઇંડા વગરની બ્રેડ અને પ્રાણી રેનેટ વગરનું મોઝેરેલા લો. શાક નાનું કાપો અને ટોપિંગ કરતાં પહેલાં તેનો ભેજ રાંધીને સૂકવો."]
+    }
+  },
+  "reference": {"url": "https://www.kitchenstories.com/en/recipes/french-bread-pizza", "use": "Baguette-half pizza method; vegetarian topping, quantities and directions independently authored."}
+}

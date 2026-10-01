@@ -1,0 +1,63 @@
+{
+  "sourceReviewId": "R0114",
+  "id": "fugazzeta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Fugazzeta",
+  "cuisine": "Argentinian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "90 minutes dough rising",
+  "ingredients": [
+    {"name": "strong wheat flour", "qty": 500, "unit": "g"},
+    {"name": "lukewarm water", "qty": 310, "unit": "ml"},
+    {"name": "instant dry yeast", "qty": 6, "unit": "g"},
+    {"name": "salt", "qty": 10, "unit": "g"},
+    {"name": "olive oil", "qty": 45, "unit": "ml"},
+    {"name": "onions", "qty": 450, "unit": "g"},
+    {"name": "vegetarian mozzarella", "qty": 350, "unit": "g"},
+    {"name": "vegetarian mild soft cheese", "qty": 150, "unit": "g"},
+    {"name": "dried oregano", "qty": 3, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Mix the flour, yeast and lukewarm water until a shaggy dough forms. Add 8 g salt and 20 ml olive oil, then knead 8–10 minutes until smooth. Cover in a lightly oiled bowl and let rise in a warm place for about 90 minutes, until doubled in volume.",
+    "Peel and thinly slice the onions. Heat 15 ml olive oil in a wide pan over medium heat. Cook the onions with the remaining 2 g salt for 12–15 minutes, stirring often, until soft and lightly golden but not dark. Add oregano and black pepper, then spread on a plate to cool so they do not make the dough wet.",
+    "Heat the oven to 230°C with a heavy baking tray inside for at least 25 minutes. Divide the risen dough into a larger two-thirds piece for the base and a one-third piece for the lid. Roll the base to a roughly 30-cm round on baking paper, leaving a slight lip. Drain and cut both vegetarian cheeses into small pieces.",
+    "Distribute the mozzarella and soft cheese evenly over the base, leaving a 2-cm bare border. Roll the smaller dough piece into a thin 30-cm lid, lay it over the cheese, press out trapped air and pinch the two edges tightly together. Make three small slits in the lid for steam.",
+    "Spread the cooled onions all over the lid and drizzle with the remaining 10 ml oil. Slide the pizza and paper onto the hot tray. Bake 20–25 minutes until the top onion edges are caramelized, the thick rim is golden, and the centre of the dough is cooked; cover loosely with foil if onions brown too quickly.",
+    "Rest for 5 minutes before cutting into four generous portions. Serve hot, with the melted cheese enclosed between two distinct dough layers and onions on top. Check that both cheeses use vegetable or microbial rennet."
+  ],
+  "tips": ["This is a cheese-stuffed, onion-topped pizza with no tomato sauce. Cooling the onions and sealing the two dough sheets prevents a soggy or leaking centre. Use a heavy tray so the bottom cooks through."],
+  "translations": {
+    "hi": {
+      "name": "फुगाज़ेटा",
+      "passiveTime": "लोई फूलने के लिए 90 मिनट",
+      "ingredients": ["ब्रेड के लिए मज़बूत गेहूँ का आटा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "नमक", "ऑलिव तेल", "प्याज़", "शाकाहारी मोत्ज़ारेला", "शाकाहारी हल्का सॉफ्ट चीज़", "सूखा ओरिगैनो", "काली मिर्च"],
+      "steps": [
+        "आटा, यीस्ट और गुनगुना पानी मिलाकर खुरदरी लोई बनाएँ। 8 ग्राम नमक और 20 मिली ऑलिव तेल डालकर 8–10 मिनट चिकना गूँधें। हल्का तेल लगे बाउल में ढककर गरम जगह लगभग 90 मिनट रखें, जब तक आकार दोगुना हो।",
+        "प्याज़ छीलकर पतले काटें। चौड़े पैन में 15 मिली ऑलिव तेल मध्यम आँच पर गरम करें। प्याज़ को बचा 2 ग्राम नमक डालकर 12–15 मिनट बार-बार हिलाते हुए नरम और हल्का सुनहरा पकाएँ, गहरा भूरा न करें। ओरिगैनो और काली मिर्च डालें, फिर प्लेट में ठंडा फैलाएँ ताकि लोई गीली न हो।",
+        "ओवन को अंदर भारी बेकिंग ट्रे समेत कम-से-कम 25 मिनट पहले 230°C तक गरम करें। फूली लोई का बड़ा दो-तिहाई हिस्सा तले के लिए और छोटा एक-तिहाई ढक्कन के लिए करें। बेकिंग पेपर पर बड़ा हिस्सा लगभग 30-सेमी गोल बेलें और हल्का किनारा रखें। दोनों शाकाहारी चीज़ छानकर छोटे टुकड़े करें।",
+        "मोत्ज़ारेला और सॉफ्ट चीज़ तले पर समान फैलाएँ और 2-सेमी खाली किनारा रखें। छोटे लोई हिस्से को पतला 30-सेमी ढक्कन बेलें, चीज़ पर रखें, अंदर की हवा निकालें और दोनों किनारे कसकर बंद करें। भाप निकलने को ढक्कन में तीन छोटे चीरे लगाएँ।",
+        "ठंडे प्याज़ पूरे ढक्कन पर फैलाएँ और बचा 10 मिली तेल छिड़कें। पिज़्ज़ा पेपर समेत गरम ट्रे पर सरकाएँ। 20–25 मिनट बेक करें, जब तक प्याज़ के किनारे सुनहरे भूरे, मोटा किनारा सुनहरा और बीच की लोई पकी हो; प्याज़ जल्दी काला हो तो ढीली फॉइल से ढकें।",
+        "चार बड़े हिस्से काटने से पहले 5 मिनट ठहराएँ। गरम परोसें; पिघला चीज़ दो अलग लोई परतों के बीच और प्याज़ ऊपर रहें। दोनों चीज़ वनस्पति या माइक्रोबियल रेनेट से बने हों, यह जाँचें।"
+      ],
+      "tips": ["यह बिना टमाटर सॉस का चीज़ भरा और प्याज़ चढ़ा पिज़्ज़ा है। प्याज़ ठंडे करने और दोनों लोई परतें बंद करने से बीच गीला नहीं होता और चीज़ नहीं बहता। भारी ट्रे से तला पूरा पकता है।"]
+    },
+    "gu": {
+      "name": "ફુગાઝેટા",
+      "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ",
+      "ingredients": ["બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકું યીસ્ટ", "મીઠું", "ઓલિવ તેલ", "ડુંગળી", "શાકાહારી મોઝેરેલા", "શાકાહારી હળવું સોફ્ટ ચીઝ", "સૂકો ઓરેગાનો", "કાળી મરી"],
+      "steps": [
+        "લોટ, યીસ્ટ અને હૂંફાળું પાણી ભેળવી ખરબચડો લોટ બનાવો. 8 ગ્રામ મીઠું અને 20 મિલી ઓલિવ તેલ નાખીને 8–10 મિનિટ લીસો મસળો. હળવું તેલ લગાવેલી વાટકીમાં ઢાંકીને ગરમ જગ્યાએ લગભગ 90 મિનિટ રાખો, જ્યાં સુધી કદ બમણું થાય.",
+        "ડુંગળી છોલીને પાતળી કાપો. પહોળી કડાઈમાં 15 મિલી ઓલિવ તેલ મધ્યમ તાપે ગરમ કરો. ડુંગળીને બાકીનું 2 ગ્રામ મીઠું નાખીને 12–15 મિનિટ વારંવાર હલાવતા નરમ અને હળવી સોનેરી રાંધો, ઘેરી બદામી ન કરો. ઓરેગાનો અને કાળી મરી નાખો, પછી થાળીમાં ઠંડી પાથરો જેથી લોટ ભીનો ન થાય.",
+        "ઓવનને અંદર ભારે બેકિંગ ટ્રે સાથે ઓછામાં ઓછી 25 મિનિટ પહેલાં 230°C સુધી ગરમ કરો. ફૂલેલા લોટનો મોટો બે-તૃતીયાંશ ભાગ તળિયા માટે અને નાનો એક-તૃતીયાંશ ઢાંકણ માટે કરો. બેકિંગ પેપર પર મોટો ભાગ લગભગ 30-સેમી ગોળ વણો અને હળવી કિનારી રાખો. બંને શાકાહારી ચીઝ નિતારીને નાના ટુકડા કરો.",
+        "મોઝેરેલા અને સોફ્ટ ચીઝ તળિયા પર સરખું પાથરો અને 2-સેમી કિનારી ખાલી રાખો. નાના લોટને પાતળું 30-સેમી ઢાંકણ વણો, ચીઝ પર મૂકો, અંદરની હવા કાઢો અને બંને કિનારીઓ ચુસ્ત બંધ કરો. વરાળ માટે ઢાંકણમાં ત્રણ નાના ચીરા કરો.",
+        "ઠંડી ડુંગળી આખા ઢાંકણ પર પાથરો અને બાકીનું 10 મિલી તેલ છાંટો. પિઝાને પેપર સાથે ગરમ ટ્રે પર સરકાવો. 20–25 મિનિટ બેક કરો, જ્યાં સુધી ડુંગળીની કિનારી સોનેરી બદામી, જાડી કિનારી સોનેરી અને વચ્ચેનો લોટ પાકેલો હોય; ડુંગળી ઝડપથી કાળી થાય તો ઢીલા ફોઇલથી ઢાંકો.",
+        "ચાર મોટા ભાગ કાપતાં પહેલાં 5 મિનિટ થોભાવો. ગરમ પીરસો; પીગળેલું ચીઝ લોટના બે જુદા પડ વચ્ચે અને ડુંગળી ઉપર રહે. બંને ચીઝ વનસ્પતિ કે માઇક્રોબિયલ રેનેટથી બનેલાં છે તેની ખાતરી કરો."
+      ],
+      "tips": ["આ ટમેટાના સોસ વગરનો ચીઝ ભરેલો અને ડુંગળી ચડાવેલો પિઝા છે. ડુંગળી ઠંડી કરીને લોટના બંને પડ બંધ કરવાથી વચ્ચે ભેજ કે ચીઝનું લીકેજ થતું નથી. ભારે ટ્રેથી તળિયો પૂરો પાકે છે."]
+    }
+  },
+  "reference": {"url": "https://cocinerosargentinos.com/recetas/pizzas/pizza-fugazzeta", "use": "Argentine cheese-filled, onion-topped fugazzeta structure; vegetarian ingredients and measured directions independently authored."}
+}
