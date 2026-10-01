@@ -1,0 +1,62 @@
+{
+  "sourceReviewId": "R0108",
+  "id": "wafu-pasta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Wafu Pasta",
+  "cuisine": "Japanese",
+  "categories": ["Lunch", "Dinner", "Quick Meals"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": null,
+  "ingredients": [
+    {"name": "eggless dried spaghetti", "qty": 360, "unit": "g"},
+    {"name": "shiitake mushrooms", "qty": 200, "unit": "g"},
+    {"name": "button mushrooms", "qty": 200, "unit": "g"},
+    {"name": "unsalted butter", "qty": 50, "unit": "g"},
+    {"name": "soy sauce", "qty": 55, "unit": "ml"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "spring onion greens", "qty": 40, "unit": "g"},
+    {"name": "nori seaweed", "qty": 8, "unit": "g"},
+    {"name": "neutral oil", "qty": 20, "unit": "ml"},
+    {"name": "salt", "qty": 7, "unit": "g"},
+    {"name": "water", "qty": 3000, "unit": "ml"}
+  ],
+  "steps": [
+    "Clean the mushrooms with a damp cloth and slice them thinly. Mince the garlic, finely slice the spring onion greens and cut the nori into thin strips. Keep the nori dry until serving so it stays aromatic.",
+    "Bring the measured water to a rolling boil. Add 5 g salt and the spaghetti; stir and cook until al dente according to the packet, usually 8–11 minutes. Reserve 250 ml of starchy cooking water before draining.",
+    "While the pasta cooks, heat a wide pan over medium-high heat. Add the neutral oil and mushrooms in an even layer. Leave them undisturbed for 2 minutes, then stir and cook another 4–5 minutes until their moisture evaporates and the edges brown. Cook in two batches if the pan is crowded.",
+    "Reduce the heat to medium. Add the minced garlic and stir for 30 seconds without burning it. Add the soy sauce and 100 ml reserved pasta water; scrape the browned mushroom bits into the sauce. Add the butter and swirl until it melts into a glossy emulsion.",
+    "Add the drained spaghetti and toss for 1–2 minutes, adding more reserved water a little at a time until every strand is coated. Taste before adding the remaining 2 g salt because soy sauces vary in saltiness.",
+    "Divide among four warm bowls. Scatter spring onion greens and nori strips over each portion and serve immediately. The mushrooms should remain visible and lightly browned, with no pool of liquid at the bottom."
+  ],
+  "tips": ["Use an eggless pasta and a vegetarian soy sauce; this version uses mushrooms for savoury depth and contains no fish-based dashi or bonito. Browning the mushrooms before adding soy sauce prevents a watery sauce."],
+  "translations": {
+    "hi": {
+      "name": "जापानी वाफू मशरूम पास्ता",
+      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "शिटाके मशरूम", "बटन मशरूम", "बिना नमक का मक्खन", "सोया सॉस", "लहसुन", "हरे प्याज़ का हरा भाग", "नोरी समुद्री शैवाल", "बिना तेज़ स्वाद वाला तेल", "नमक", "पानी"],
+      "steps": [
+        "नम कपड़े से मशरूम साफ़ करके पतले काटें। लहसुन बारीक काटें, हरे प्याज़ के पत्ते पतले काटें और नोरी की पतली पट्टियाँ बनाएँ। परोसने तक नोरी सूखी रखें ताकि उसकी सुगंध बनी रहे।",
+        "नापा हुआ पानी तेज़ उबाल तक लाएँ। 5 ग्राम नमक और स्पेगेटी डालकर हिलाएँ। पैकेट के अनुसार आमतौर पर 8–11 मिनट अल दंते पकाएँ। छानने से पहले 250 मिली स्टार्च वाला पकाने का पानी बचाएँ।",
+        "पास्ता पकते समय चौड़ा पैन मध्यम-तेज़ आँच पर गरम करें। तेल डालें और मशरूम एक परत में फैलाएँ। 2 मिनट बिना हिलाए छोड़ें, फिर 4–5 मिनट हिलाते हुए पकाएँ ताकि नमी उड़ जाए और किनारे भूरे हों। पैन छोटा हो तो दो बार में पकाएँ।",
+        "आँच मध्यम करें। कटा लहसुन डालकर बिना जलाए 30 सेकंड हिलाएँ। सोया सॉस और 100 मिली बचा पास्ता पानी डालें; पैन में चिपके भूरे मशरूम के कण खुरचकर सॉस में मिलाएँ। मक्खन डालकर घुमाएँ ताकि चमकदार सॉस बने।",
+        "छानी हुई स्पेगेटी डालकर 1–2 मिनट उछालें। बचा पानी थोड़ा-थोड़ा डालें जब तक हर रेशा सॉस से ढक न जाए। बाकी 2 ग्राम नमक डालने से पहले चखें, क्योंकि सोया सॉस की नमकीनता बदलती है।",
+        "चार गरम बाउल में बाँटें। हर हिस्से पर हरे प्याज़ और नोरी की पट्टियाँ डालकर तुरंत परोसें। मशरूम साफ़ दिखाई दें और हल्के भूरे हों; नीचे पानी जमा न हो।"
+      ],
+      "tips": ["बिना अंडे का पास्ता और शाकाहारी सोया सॉस लें। इस संस्करण में स्वाद की गहराई मशरूम से आती है; मछली वाला दाशी या बोनितो नहीं है। सोया सॉस डालने से पहले मशरूम भूनने पर सॉस पतला नहीं होता।"]
+    },
+    "gu": {
+      "name": "જાપાની વાફૂ મશરૂમ પાસ્તા",
+      "ingredients": ["ઇંડા વગરની સૂકી સ્પેગેટી", "શીટાકે મશરૂમ", "બટન મશરૂમ", "મીઠું વગરનું માખણ", "સોયા સોસ", "લસણ", "લીલી ડુંગળીનો લીલો ભાગ", "નોરી સમુદ્રી શેવાળ", "તટસ્થ સ્વાદનું તેલ", "મીઠું", "પાણી"],
+      "steps": [
+        "ભીના કપડાથી મશરૂમ સાફ કરીને પાતળા કાપો. લસણ બારીક સમારો, લીલી ડુંગળીનો લીલો ભાગ પાતળો કાપો અને નોરીની પાતળી પટ્ટીઓ બનાવો. સુગંધ જળવાય તે માટે પીરસતાં સુધી નોરી સૂકી રાખો.",
+        "માપેલું પાણી પૂરતું ઉકાળો. 5 ગ્રામ મીઠું અને સ્પેગેટી નાખીને હલાવો. પેકેટ મુજબ સામાન્ય રીતે 8–11 મિનિટ અલ દંતે રાંધો. નિતારતાં પહેલાં 250 મિલી સ્ટાર્ચવાળું રાંધવાનું પાણી સાચવો.",
+        "પાસ્તા રંધાય ત્યારે પહોળી કડાઈ મધ્યમથી તેજ તાપે ગરમ કરો. તેલ નાખીને મશરૂમ એક પડમાં પાથરો. 2 મિનિટ હલાવ્યા વગર રાખો, પછી 4–5 મિનિટ હલાવીને રાંધો જેથી ભેજ ઊડી જાય અને કિનારી બદામી થાય. કડાઈ નાની હોય તો બે વખત રાંધો.",
+        "તાપ મધ્યમ કરો. સમારેલું લસણ નાખીને બળે નહીં તેમ 30 સેકંડ હલાવો. સોયા સોસ અને 100 મિલી સાચવેલું પાસ્તાનું પાણી નાખો; કડાઈને ચોંટેલા બદામી મશરૂમના ટુકડા ખોતરીને સોસમાં ભેળવો. માખણ નાખીને ફેરવો જેથી ચમકતો સોસ બને.",
+        "નિતારેલી સ્પેગેટી નાખીને 1–2 મિનિટ ભેળવો. બાકીનું પાણી થોડું-થોડું ઉમેરો જેથી દરેક રેસો સોસથી ઢંકાય. બાકીનું 2 ગ્રામ મીઠું ઉમેરતાં પહેલાં ચાખો, કારણ કે સોયા સોસની ખારાશ બદલાય છે.",
+        "ચાર ગરમ વાટકામાં વહેંચો. દરેક ભાગ પર લીલી ડુંગળી અને નોરીની પટ્ટીઓ નાખીને તરત પીરસો. મશરૂમ સ્પષ્ટ દેખાવા જોઈએ અને હળવા બદામી હોવા જોઈએ; તળિયે પાણી ભરાયેલું ન રહે."
+      ],
+      "tips": ["ઇંડા વગરનો પાસ્તા અને શાકાહારી સોયા સોસ લો. આ આવૃત્તિમાં ઊંડો સ્વાદ મશરૂમથી આવે છે; માછલીવાળું દાશી કે બોનિટો નથી. સોયા સોસ નાખતાં પહેલાં મશરૂમ શેકવાથી સોસ પાતળો થતો નથી."]
+    }
+  },
+  "reference": {"url": "https://veganjapanese.com/japanese-mushroom-spaghetti/", "use": "Vegetarian Japanese mushroom-spaghetti flavour direction; quantities and instructions independently authored."}
+}

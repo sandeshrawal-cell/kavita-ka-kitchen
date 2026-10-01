@@ -41,7 +41,7 @@
       "name": "Lemon Ricotta Pasta",
       "sourceReviewId": "R0105",
       "sourceRow": 106,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -49,7 +49,7 @@
       "name": "Gnocchi Burro e Salvia",
       "sourceReviewId": "R0106",
       "sourceRow": 107,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -57,7 +57,8 @@
       "name": "Gnocchi Gorgonzola",
       "sourceReviewId": "R0107",
       "sourceRow": 108,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "reviewed-photo-vegetarian-name-adaptation-needed",
+      "note": "Gorgonzola PDO specifies calf rennet. Use a clearly named vegetarian blue-cheese adaptation or replace this candidate; do not publish under the protected cheese name with a substitute.",
       "matches": []
     },
     {
@@ -65,7 +66,7 @@
       "name": "Wafu Pasta",
       "sourceReviewId": "R0108",
       "sourceRow": 109,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -73,7 +74,7 @@
       "name": "Schezwan Pasta",
       "sourceReviewId": "R0109",
       "sourceRow": 110,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -81,7 +82,7 @@
       "name": "Pizza Bianca",
       "sourceReviewId": "R0110",
       "sourceRow": 111,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -89,7 +90,7 @@
       "name": "Pizza Ortolana",
       "sourceReviewId": "R0111",
       "sourceRow": 112,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -97,7 +98,7 @@
       "name": "Pizza Funghi",
       "sourceReviewId": "R0112",
       "sourceRow": 113,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -105,7 +106,7 @@
       "name": "Pinsa Romana",
       "sourceReviewId": "R0113",
       "sourceRow": 114,
-      "status": "recipe-needed",
+      "status": "reviewed-photo-ready-recipe-needed",
       "matches": []
     },
     {

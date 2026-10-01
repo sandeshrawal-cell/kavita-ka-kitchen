@@ -8621,5 +8621,53 @@
     "sourceWidth": 1448,
     "sourceHeight": 1086,
     "reviewedAt": "2026-10-01"
+  },
+  "pizza-ortolana": {
+    "name": "Pizza Ortolana",
+    "src": "/photos/pizza-ortolana-1200.webp",
+    "small": "/photos/pizza-ortolana-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pizza Ortolana served ready to eat",
+    "kind": "generated",
+    "title": "Pizza Ortolana",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "pizza-funghi": {
+    "name": "Pizza Funghi",
+    "src": "/photos/pizza-funghi-1200.webp",
+    "small": "/photos/pizza-funghi-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pizza Funghi served ready to eat",
+    "kind": "generated",
+    "title": "Pizza Funghi",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "pinsa-romana": {
+    "name": "Pinsa Romana",
+    "src": "/photos/pinsa-romana-1200.webp",
+    "small": "/photos/pinsa-romana-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pinsa Romana served ready to eat",
+    "kind": "generated",
+    "title": "Pinsa Romana",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
