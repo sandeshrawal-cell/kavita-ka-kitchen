@@ -32,11 +32,11 @@ test('Gujarati and Hindi meal searches preserve counts and hard exclusions',()=>
  assert.equal(toEnglishSearch('પૌંઆ'),'Poha');
  assert.equal(toEnglishSearch('બેસન ચીલા'),'Besan Chilla');
  let result=parseSearch(toEnglishSearch('૪ પુખ્ત માટે હળવો નાસ્તો'));
- assert.equal(result.category,'Breakfast');assert.equal(result.adults,4);
+ assert.equal(result.category,'Any');assert.deepEqual(result.categoryGroup,['Breakfast','Snacks']);assert.equal(result.adults,4);
  result=parseSearch(toEnglishSearch('ડુંગળી વગર'));
  assert.deepEqual(result.exclusions,['onion']);
  result=parseSearch(toEnglishSearch('નાસ્તો ડુંગળી વગર'));
- assert.deepEqual(result.exclusions,['onion']);assert.equal(result.category,'Breakfast');
+ assert.deepEqual(result.exclusions,['onion']);assert.equal(result.category,'Any');assert.deepEqual(result.categoryGroup,['Breakfast','Snacks']);
  result=parseSearch(toEnglishSearch('बिना लहसुन'));
  assert.deepEqual(result.exclusions,['garlic']);
  result=parseSearch(toEnglishSearch('४ वयस्क के लिए रात का खाना'));

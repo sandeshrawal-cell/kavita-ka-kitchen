@@ -111,11 +111,17 @@ for(const file of (await fs.readdir(approvedDir)).filter(f=>f.endsWith('.json'))
   await fs.writeFile(file,JSON.stringify(translations));
  }
 }
+const searchTranslations=await Promise.all(['hi','gu'].map(async lang=>JSON.parse(await fs.readFile(new URL(`public/data/locales/${lang}-recipes.json`,root),'utf8'))));
+for(const d of db.values()){
+ d.searchNames=[...new Set(searchTranslations.flatMap(dict=>[dict[d.name],...(d.aliases||[]).map(alias=>dict[alias])]).filter(Boolean))];
+ d.searchIngredients=[...new Set(searchTranslations.flatMap(dict=>d.ingredients.map(name=>dict[name]).filter(Boolean)))];
+}
 const all=[...db.values()].sort((a,b)=>a.name.localeCompare(b.name));
 await fs.mkdir(new URL('catalog/generated',root),{recursive:true});
 await fs.mkdir(new URL('public/data/recipes',root),{recursive:true});
 await fs.mkdir(new URL('public/data/categories',root),{recursive:true});
 await fs.writeFile(new URL('catalog/generated/dishes.json',root),JSON.stringify(all));
+await fs.writeFile(new URL('public/data/all-dishes.json',root),JSON.stringify(all));
 await fs.writeFile(new URL('public/data/aliases.json',root),JSON.stringify(aliases));
 // Old recipe URLs must serve the completed canonical method, never stale outlines.
 const existingRecipeFiles=new Set(await fs.readdir(new URL('public/data/recipes',root)));
@@ -125,7 +131,7 @@ for(const [alias,target] of Object.entries(aliases))if(alias!==target&&existingR
 }
 for(const [id,r] of recipeMap)await fs.writeFile(new URL(`public/data/recipes/${id}.json`,root),JSON.stringify(r));
 const counts={};for(const cat of CATEGORIES){const rows=all.filter(d=>d.categories.includes(cat));counts[cat]=rows.length;await fs.writeFile(new URL(`public/data/categories/${slug(cat)}.json`,root),JSON.stringify(rows));}
-await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.2.2',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo))}));
+await fs.writeFile(new URL('public/data/manifest.json',root),JSON.stringify({version:'3.2.3',photos:all.filter(d=>d.photo).length,total:all.length,completeRecipes:all.filter(d=>d.recipeStatus==='complete').length,categories:counts,cuisines:[...new Set(all.map(d=>d.cuisine))].sort(),featured:all.filter(d=>d.recipeStatus==='complete').sort((a,b)=>Number(!!b.photo)-Number(!!a.photo))}));
 const quote=s=>"'"+String(s).replaceAll("'","''")+"'";
 const sql=['-- Generated master catalogue. Existing private records are untouched.','begin;'];
 for(const d of all)sql.push(`insert into public.kkk_dishes(id,canonical_id,name,cuisine,categories,vegetarian,eggless,metadata,published) values(${quote(d.id)},${quote(d.canonicalId)},${quote(d.name)},${quote(d.cuisine)},array[${d.categories.map(quote).join(',')}],true,true,${quote(JSON.stringify(d))}::jsonb,true) on conflict(id) do update set name=excluded.name,cuisine=excluded.cuisine,categories=excluded.categories,metadata=excluded.metadata,published=true;`);

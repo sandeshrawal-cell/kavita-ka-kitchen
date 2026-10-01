@@ -32,3 +32,9 @@ test('meal labels exclude drinks, desserts and snack-only dishes',()=>{
  assert.ok(dishes.find(d=>d.id==='pav-bhaji').categories.includes('Dinner'));
  assert.ok(!dishes.find(d=>d.id==='iced-latte').categories.includes('Hot Drinks'));
 });
+test('fasting recipes do not silently include ordinary salt or turmeric',async()=>{
+ for(const d of dishes.filter(d=>d.categories.includes('Vrat/Fasting'))){
+  const r=JSON.parse(await fs.readFile(new URL('../public/data/recipes/'+d.id+'.json',import.meta.url)));
+  assert.ok(!r.ingredients.some(i=>['salt','turmeric powder'].includes(i.name)),d.id);
+ }
+});

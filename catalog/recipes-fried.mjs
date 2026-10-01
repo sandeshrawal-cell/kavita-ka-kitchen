@@ -1,6 +1,6 @@
 export const friedRecipes={};
 const add=(id,ingredients,steps,time=50,tip='Frying oil is the working amount needed in the pan, not the quantity absorbed. Keep a deep stable pan less than half full and fry in small batches.')=>friedRecipes[id]={ingredients,steps,time,tip};
-for(const id of ['puri','rajgira-puri'])add(id,(id==='puri'?'whole wheat flour:320:g|water:170:ml':'amaranth flour:280:g|boiled potato:200:g|water:40:ml')+'|oil:20:ml|salt:4:g|oil for frying:600:ml',[
+for(const id of ['puri','rajgira-puri'])add(id,(id==='puri'?'whole wheat flour:320:g|water:170:ml':'amaranth flour:280:g|boiled potato:200:g|water:40:ml')+`|oil:20:ml|${id==='rajgira-puri'?'rock salt':'salt'}:4:g|oil for frying:600:ml`,[
  id==='puri'?'Mix wheat flour, salt and 20 ml oil. Add water gradually to make a firm smooth dough; rest covered for 15 minutes.':'Mash peeled boiled potato very smoothly. Mix with amaranth flour, salt and 20 ml oil; add only enough water to make a firm pliable dough.',
  'Divide dough into 16 small balls. Keep covered so the surface does not dry out.',
  id==='puri'?'Roll each ball with a little oil on the board into an even 10 cm round, about 2 mm thick.':'Pat or roll each ball between lightly oiled parchment sheets into a 9 cm round; lift carefully because amaranth dough is delicate.',

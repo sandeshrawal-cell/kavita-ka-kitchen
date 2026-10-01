@@ -166,10 +166,10 @@ const khichdiProfiles={
  'vegetable-dalia':['broken wheat:260:g|peas:150:g|carrot:150:g|tomato:150:g','Dry-roast the broken wheat over medium-low heat for 4 minutes, stirring, before beginning the tempering. Dice the vegetables.'],
  'sama-rice-khichdi':['barnyard millet:260:g|potato:300:g','Rinse the barnyard millet and peel and dice the potatoes. Use ingredients acceptable to your own fasting practice.']
 };
-for(const [id,[main,special]] of Object.entries(khichdiProfiles))add(id,`${main}|ghee:20:g|cumin:3:g|turmeric powder:1:g|salt:5:g|water:1200:ml`,[
+for(const [id,[main,special]] of Object.entries(khichdiProfiles))add(id,`${main}|ghee:20:g|cumin:3:g${id==='sama-rice-khichdi'?'':'|turmeric powder:1:g'}|${id==='sama-rice-khichdi'?'rock salt':'salt'}:5:g|water:1200:ml`,[
  id==='vegetable-dalia'?'Pick over the clean packaged broken wheat and dry-roast it for 4 minutes, stirring; set aside. Measure the water.':'Pick over and rinse the grains and any lentils, then drain. Measure the fresh cooking water.',
  id==='palak-khichdi'?'Wash spinach thoroughly, chop it and reserve for the final 8 minutes of cooking.':'Wash and dice the listed vegetables into small even pieces. Peel potato or carrot where used and thaw frozen peas if necessary.',
- `Heat ghee in a deep saucepan, sizzle cumin and add turmeric on low heat. ${id==='palak-khichdi'?'Keep the spinach aside for later.':'Add the prepared vegetables and cook for 3 minutes.'} Add the prepared grains and any lentils and stir for 1 minute.`,
+ id==='sama-rice-khichdi'?'Heat ghee in a deep saucepan, let cumin sizzle, then add the diced potato and cook for 3 minutes. Stir in the rinsed barnyard millet for 1 minute.':`Heat ghee in a deep saucepan, sizzle cumin and add turmeric on low heat. ${id==='palak-khichdi'?'Keep the spinach aside for later.':'Add the prepared vegetables and cook for 3 minutes.'} Add the prepared grains and any lentils and stir for 1 minute.`,
  'Add measured water and salt, bring to a boil, then cover loosely and simmer on low heat for 25–35 minutes, stirring occasionally.',
  'Add any reserved spinach near the end. Check that the grains and lentils are completely soft; if firm or dry, add boiling water and continue cooking.',
  'Stir to the desired soft, spoonable consistency, rest covered for 5 minutes and serve hot. The mixture thickens as it stands.'

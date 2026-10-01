@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {recommend, parseSearch, textMatchScore, searchSummary} from '../src/core.js';
+import {toEnglishSearch} from '../src/i18n.js';
 
 const catalog=JSON.parse(await fs.readFile(new URL('../catalog/generated/dishes.json',import.meta.url)));
 const party={mode:'home',adults:4,kids:0};
@@ -101,4 +102,33 @@ test('plain-language filters preserve dish search words while removing structure
   assert.equal(parsed.category,'Dinner');
   assert.equal(parsed.adults,4);
   assert.deepEqual(parsed.exclusions,['potato']);
+});
+
+test('ingredient search reaches every meal and keeps the chosen meal filter',()=>{
+ const query=parseSearch('Potato');
+ const all=recommend(catalog,{category:'Any',query:query.query,party},{},Infinity);
+ assert.ok(all.length>=30);
+ assert.ok(all.some(d=>d.id==='aloo-paratha'));
+ assert.ok(all.some(d=>d.id==='aloo-gobi'));
+ assert.ok(!all.some(d=>d.id==='sweet-potato-chaat'));
+ assert.ok(all.every(d=>d.exact));
+ const dinner=recommend(catalog,{category:'Dinner',query:query.query,party},{},Infinity);
+ assert.ok(dinner.length>0&&dinner.every(d=>d.categories.includes('Dinner')));
+});
+
+test('native-script dish queries and regional category words find the intended dishes',()=>{
+ for(const [query,id] of [['ઢોકળા','khaman-dhokla'],['खिचड़ी','masala-khichdi'],['दाल','dal-tadka']]){
+  const parsed=parseSearch(toEnglishSearch(query));
+  assert.ok(recommend(catalog,{category:'Any',query:parsed.query,party},{},Infinity).some(d=>d.id===id),query);
+ }
+ for(const [word,category] of [['shaak','Sabzi/Curries'],['farsan','Snacks'],['kathol','Dal/Legumes'],['bhaat','Rice']]){
+  const parsed=parseSearch(word);
+  assert.equal(parsed.category,category);
+  assert.ok(recommend(catalog,{...parsed,party},{},Infinity).every(d=>d.categories.includes(category)));
+ }
+ const nasta=parseSearch('nasta');
+ assert.deepEqual(nasta.categoryGroup,['Breakfast','Snacks']);
+ const results=recommend(catalog,{...nasta,party},{},Infinity);
+ assert.ok(results.length>0&&results.every(d=>d.categories.some(c=>nasta.categoryGroup.includes(c))));
+ assert.equal(textMatchScore(dish('pasta',{name:'Pasta Primavera',ingredients:['tomato']}),'nasta'),0);
 });

@@ -1,4 +1,4 @@
-export const VERSION = '3.2.2';
+export const VERSION = '3.2.3';
 export const MODES = {home:'Home Kitchen',office:'Corporate / Office',factory:'Factory / Canteen',event:'Wedding / Event'};
 export const MEALS = ['Breakfast','Lunch','Dinner'];
 export const CATEGORIES = ['Breakfast','Lunch','Dinner','Snacks','Street Food','Sabzi/Curries','Dal/Legumes','Rice','Breads','One-Pot Meals','Soups','Salads','Chaats','Sandwiches','Wraps','Desserts','Indian Sweets','Cakes & Bakes','Shakes','Smoothies','Juices','Mocktails','Coffee','Tea','Hot Drinks','Cold Drinks','Kids Meals','Lunchbox','Quick Meals','High Protein Vegetarian','Light Meals','Jain','No Onion-Garlic','Vrat/Fasting','Guest Menus','Party Food','Festival Food','Leftover Recipes'];
@@ -44,12 +44,12 @@ export function recipeDietaryFacts(recipe){
  // Fermentation instructions, unlike soaking or resting alone, require review.
  return {yeast:/\byeast\b/i.test(ingredients),overnightFermentation:! /ferment/i.test(text)?false:/overnight/i.test(text)?true:null};
 }
-export const JAIN_CHOICES = [['onionGarlic','Onion and garlic'],['roots','Roots and tubers'],['freshGinger','Fresh ginger'],['driedGinger','Dried ginger'],['peanuts','Peanuts'],['tapioca','Sabudana / tapioca'],['honey','Honey'],['mushrooms','Mushrooms'],['yeast','Yeast'],['overnightFermentation','Overnight fermentation']];
+export const JAIN_CHOICES = [['onionGarlic','Onion and garlic'],['roots','Roots and tubers'],['brinjal','Brinjal / aubergine'],['freshGinger','Fresh ginger'],['driedGinger','Dried ginger'],['peanuts','Peanuts'],['tapioca','Sabudana / tapioca'],['honey','Honey'],['mushrooms','Mushrooms'],['yeast','Yeast'],['overnightFermentation','Overnight fermentation']];
 export function confirmedJainRules(r){return r?.confirmed===true&&JAIN_CHOICES.every(([key])=>typeof r[key]==='boolean');}
 export function matchesJainRules(d,r){
  if(!confirmedJainRules(r)||!d.ingredientsComplete)return false;
  const names=d.ingredients.map(x=>ingredientKey(typeof x==='string'?x:x.name));
- const checks={onionGarlic:/\b(onions?|garlic|shallots?|leeks?|scallions?|chives?|pyaz|pyaaz|kanda|lasun|lahsun)\b/i,roots:/\b(potato(?:es)?|carrots?|beetroots?|radish|turnips?|yams?|cassava|arrowroot|arbi|taro|suran|aloo|batata|bateta|gajar|mooli|fresh turmeric)\b/i,peanuts:/\b(peanuts?|groundnuts?|shengdana)\b/i,tapioca:/\b(sabudana|tapioca|sago)\b/i,honey:/\bhoney\b/i,mushrooms:/\bmushrooms?\b/i,yeast:/\byeast\b/i};
+ const checks={onionGarlic:/\b(onions?|garlic|shallots?|leeks?|scallions?|chives?|pyaz|pyaaz|kanda|lasun|lahsun)\b/i,roots:/\b(potato(?:es)?|carrots?|beetroots?|radish|turnips?|yams?|cassava|arrowroot|arbi|taro|suran|aloo|batata|bateta|gajar|mooli|fresh turmeric)\b/i,brinjal:/\b(brinjal|aubergine|eggplant|baingan|ringan|vangi)\b/i,peanuts:/\b(peanuts?|groundnuts?|shengdana)\b/i,tapioca:/\b(sabudana|tapioca|sago)\b/i,honey:/\bhoney\b/i,mushrooms:/\bmushrooms?\b/i,yeast:/\byeast\b/i};
  for(const [key,re] of Object.entries(checks))if(r[key]&&names.some(n=>re.test(n)))return false;
  for(const n of names)if(/\b(ginger|adrak|sonth|saunth)\b/i.test(n)){const dried=/dried|dry|powder|sonth|saunth/i.test(n);if(r[dried?'driedGinger':'freshGinger'])return false;}
  if(r.yeast&&d.dietaryFacts?.yeast===true)return false;
@@ -87,7 +87,7 @@ const overlap=(a=[],b=[])=>a.filter(x=>b.some(y=>ingredientKey(y).includes(ingre
 const DISH_ALIASES = {'paneer-butter-masala':['paneer makhani','butter paneer'],'dal-makhani':['maa ki dal'],'chole':['chana masala','chickpea curry'],'vegetable-biryani':['veg biryani'],'besan-chilla':['besan cheela','gram flour pancake'],'poha':['pohe','flattened rice'],'gulab-jamun':['gulab jamoon']};
 const searchTokens = value => norm(value).replace(/[^\p{L}\p{N}]+/gu,' ').trim().split(/\s+/).filter(Boolean);
 function oneEdit(a,b){
- if(a===b)return true;if(a.length<4||b.length<4||Math.abs(a.length-b.length)>1)return false;
+ if(a===b)return true;if(a.length<4||b.length<4||a[0]!==b[0]||Math.abs(a.length-b.length)>1)return false;
  let i=0,j=0,edits=0;
  while(i<a.length&&j<b.length){if(a[i]===b[j]){i++;j++;continue;}if(++edits>1)return false;
  if(a.length===b.length){if(a[i]===b[j+1]&&a[i+1]===b[j]){i+=2;j+=2;}else{i++;j++;}}
@@ -96,8 +96,9 @@ function oneEdit(a,b){
 }
 export function textMatchScore(d,query){
  const words=searchTokens(query);if(!words.length)return 1;
- const names=[d.name,d.baseName,...(Array.isArray(d.aliases)?d.aliases:[]),...(DISH_ALIASES[d.id]||[])].filter(Boolean).map(searchTokens);
- const ingredients=searchTokens((d.ingredients||[]).map(ingredientKey).join(' '));
+ if(words.length===1&&ingredientKey(words[0])==='potato'&&!((d.ingredients||[]).some(name=>/\bpotato(?:es)?\b/i.test(name)&&!/\bsweet potato(?:es)?\b/i.test(name))))return 0;
+ const names=[d.name,d.baseName,...(Array.isArray(d.aliases)?d.aliases:[]),...(d.searchNames||[]),...(DISH_ALIASES[d.id]||[])].filter(Boolean).map(searchTokens);
+ const ingredients=searchTokens([...(d.ingredients||[]).map(ingredientKey),...(d.searchIngredients||[])].join(' '));
  const targets=[...names.flat(),...ingredients];
  const normalized=searchTokens(words.map(ingredientKey).join(' '));
  if(!normalized.every(w=>targets.some(t=>ingredientKey(t)===w||oneEdit(w,t))))return 0;
@@ -115,7 +116,7 @@ export function searchSummary(results,visible){
 export function recommend(dishes,f={},s={},limit=70,at=Date.now()){
   const category=f.category||'Dinner',seen=new Set(),rows=[];
   for(const d of dishes){
-    if((category!=='Jain'&&category!=='Any'&&!d.categories.includes(category))||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
+    if((f.categoryGroup?.length?!f.categoryGroup.some(c=>d.categories.includes(c)):(category!=='Jain'&&category!=='Any'&&!d.categories.includes(category)))||!eligible(d,f,s,at))continue;if(f.newOnly&&(s.history||[]).some(h=>(h.dishIds||[h.dishId]).includes(d.id)))continue;
     const textScore=textMatchScore(d,f.query);
     const fits=(!f.cuisine||f.cuisine==='Any'||d.cuisine===f.cuisine)&&(!f.time||(!d.advancePrep&&d.time<=f.time))&&(!f.effort||d.effort===f.effort)&&(!f.kids||d.kids)&&(!f.pantry||overlap(s.pantry,d.ingredients)>0)&&(!f.leftovers||overlap(s.leftovers,d.leftoverUses)>0);
     if(!fits)continue;
@@ -146,12 +147,18 @@ export function parseSearch(text){
   if(available)f.available=available[1].split(/,|\band\b/).map(ingredientKey).filter(x=>x&&!/^\d|minutes|adults|kids/.test(x));
   for(const c of ['Punjabi','Gujarati','Rajasthani','Italian','Mexican','Thai','South Indian','North Indian'])if(q.includes(norm(c)))f.cuisine=c;
   for(const c of MEALS)if(q.includes(norm(c)))f.category=c;
+  const categoryWords=[[/\b(?:sabzi|sabji|shaak)\b/,'Sabzi/Curries'],[/\b(?:farsan)\b/,'Snacks'],[/\b(?:tiffin)\b/,'Lunchbox'],[/\b(?:kathol)\b/,'Dal/Legumes'],[/\b(?:bhaat)\b/,'Rice']];
+  if(!f.category){
+   if(/\b(?:nasta|nashta)\b/.test(q)){f.category='Any';f.categoryGroup=['Breakfast','Snacks'];}
+   else for(const [pattern,category] of categoryWords)if(pattern.test(q)){f.category=category;break;}
+  }
   if(/\blight\b/.test(q)&&!f.category)f.category='Light Meals';
   // Remove only understood request clauses; keep the actual dish/ingredient query.
   let remaining=q;
   for(const match of [time,adults,kids,people,budget,available])if(match)remaining=remaining.replace(match[0],' ');
   remaining=remaining.replace(/(?:\bno|\bwithout|\bexclude|don't want|do not want)\s+([a-z]+(?:\s+(?:nuts|foods))?(?:\s*(?:,|and)\s*[a-z]+)*)/g,' ');
   for(const label of [f.cuisine,f.category])if(label)remaining=remaining.replace(norm(label),' ');
+  remaining=remaining.replace(/\b(?:sabzi|sabji|shaak|farsan|tiffin|kathol|bhaat|nasta|nashta)\b/g,' ');
   f.query=remaining.replace(/\b(jain|for|please|show|find|me|ideas|dishes|recipes|something|light|and|we|want|i|need|have|are|available)\b/g,' ').replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');
   return f;
 }

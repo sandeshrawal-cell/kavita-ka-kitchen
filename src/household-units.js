@@ -63,6 +63,11 @@ export function householdQuantity(ingredient, metric = false) {
       ? approximate(cups * 16, 'tbsp', ingredient)
       : approximate(cups, 'cup', ingredient);
   }
-  if (gramsPerMediumPiece.has(name)) return approximate(grams / gramsPerMediumPiece.get(name), 'medium pieces', ingredient);
+  if (gramsPerMediumPiece.has(name)) {
+    const pieces=grams / gramsPerMediumPiece.get(name);
+    if(pieces<1)return quantity(ingredient);
+    const count=Math.ceil(pieces);
+    return `≈ ${count} medium ${count===1?'piece':'pieces'}`;
+  }
   return quantity(ingredient);
 }

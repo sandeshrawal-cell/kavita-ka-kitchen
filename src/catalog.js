@@ -9,8 +9,8 @@ export async function cachedJSON(url){
 export async function loadCategory(category){
  if(categories.has(category))return categories.get(category);
  let all=[];
- try{let offset=0;do{const data=await cachedJSON('/api/catalog?'+new URLSearchParams({category,offset,limit:100}));all.push(...data.items);offset=data.next;}while(offset!==null&&all.length<1000);}
- catch{all=await cachedJSON('/data/categories/'+slug(category)+'.json');}
+ try{let offset=0;do{const data=await cachedJSON('/api/catalog?'+new URLSearchParams({category,offset,limit:100}));all.push(...data.items);offset=data.next;}while(offset!==null&&all.length<50000);}
+ catch{all=await cachedJSON(category==='Any'||category==='Jain'?'/data/all-dishes.json':'/data/categories/'+slug(category)+'.json');}
  all.forEach(d=>dishes.set(d.id,d));categories.set(category,all);return all;
 }
 export async function loadCategories(names){await Promise.all([...new Set(names)].map(loadCategory));return [...dishes.values()];}

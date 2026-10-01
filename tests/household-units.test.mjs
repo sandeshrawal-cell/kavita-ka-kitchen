@@ -20,6 +20,8 @@ test('common staples, liquids and whole vegetables use household measures',()=>{
   assert.equal(measure('milk',120,'ml'),'≈ ½ cup');
   assert.equal(measure('milk',0.24,'l'),'≈ 1 cup');
   assert.equal(measure('onions',300),'≈ 2 medium pieces');
+  assert.equal(measure('tomato',450),'≈ 4 medium pieces');
+  assert.equal(measure('tomato',60),'60 g');
 });
 
 test('unknown densities and existing household units retain the source quantity',()=>{

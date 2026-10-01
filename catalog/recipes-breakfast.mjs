@@ -7,7 +7,7 @@ const batters={
  'ragi-dosa':['ragi flour:180:g|rice flour:100:g|semolina:40:g|cumin:3:g|curd:100:g','Whisk flours, semolina, cumin and curd with 650 ml water to make a thin, lump-free batter.','Rest for 20 minutes. Stir before every dosa because the flour settles; thin with water if it no longer pours freely.','Pour from the outside towards the centre, leaving small holes. Cook for 3–4 minutes until crisp and releasing easily; flip briefly if the centre is still soft.'],
  'kuttu-chilla':['buckwheat flour:260:g|potato:180:g|cumin:3:g|coriander:15:g','Boil the potato until tender, peel and mash smoothly. Mix with buckwheat flour, cumin and about 350 ml water.','Add chopped coriander and beat to a smooth thick batter. If making this for a fast, choose salt and ingredients permitted by your practice.','Spread into small 12 cm pancakes that will be easy to turn. Cook for 3 minutes on each side until firm and lightly browned.']
 };
-for(const [id,[ingredients,prep,mix,cook]] of Object.entries(batters))add(id,ingredients+'|water:700:ml|oil:30:ml|salt:5:g',[
+for(const [id,[ingredients,prep,mix,cook]] of Object.entries(batters))add(id,ingredients+`|water:700:ml|oil:30:ml|${id==='kuttu-chilla'?'rock salt':'salt'}:5:g`,[
  prep,mix,'Mix in salt. Reserve unused measured water for adjusting the batter; soaking water is discarded and is additional.',
  'Heat a flat non-stick or well-seasoned tawa over medium heat. Brush lightly with some of the measured oil; the batter should sizzle gently on contact.',
  cook+' Drizzle a little oil around each pancake as it cooks.',
