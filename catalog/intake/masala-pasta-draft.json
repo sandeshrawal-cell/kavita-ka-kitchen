@@ -1,0 +1,65 @@
+{
+  "sourceReviewId": "R0139",
+  "id": "masala-pasta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Masala Pasta",
+  "cuisine": "Indian Fusion",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless dry penne pasta", "qty": 320, "unit": "g"},
+    {"name": "water", "qty": 2200, "unit": "ml"},
+    {"name": "oil", "qty": 30, "unit": "ml"},
+    {"name": "onion", "qty": 150, "unit": "g"},
+    {"name": "tomatoes", "qty": 350, "unit": "g"},
+    {"name": "green peas", "qty": 100, "unit": "g"},
+    {"name": "green bell pepper", "qty": 100, "unit": "g"},
+    {"name": "carrot", "qty": 80, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "green chilli", "qty": 8, "unit": "g"},
+    {"name": "red chilli powder", "qty": 3, "unit": "g"},
+    {"name": "turmeric powder", "qty": 2, "unit": "g"},
+    {"name": "coriander powder", "qty": 5, "unit": "g"},
+    {"name": "garam masala", "qty": 3, "unit": "g"},
+    {"name": "tomato paste", "qty": 25, "unit": "g"},
+    {"name": "fresh coriander leaves", "qty": 20, "unit": "g"},
+    {"name": "salt", "qty": 12, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the dry penne is eggless. Boil 2200 ml water with 8 g salt in a large pot. Add the pasta, stir well and cook until just al dente, following the packet time. Reserve 150 ml cooking water, then drain the pasta without rinsing it. Meanwhile finely chop the onion, tomatoes, ginger, garlic and chilli; dice the bell pepper and carrot into small, even pieces.",
+    "Heat 30 ml oil in a wide pan over medium heat. Add the onion and cook for 4–5 minutes until softened and lightly golden. Add ginger, garlic and green chilli; stir for 1 minute until fragrant. Add diced carrot and peas with 50 ml reserved pasta water, cover and cook for 4 minutes until the carrot starts to soften.",
+    "Stir in turmeric, chilli powder and coriander powder for 20 seconds. Add chopped tomatoes and tomato paste. Cook uncovered for 7–9 minutes, stirring and pressing the tomatoes, until they break down into a thick, cohesive masala and the raw tomato smell fades. Add the bell pepper and cook for 2 minutes so it stays slightly crisp.",
+    "Fold the drained penne into the masala with 50–100 ml reserved pasta water, adding only enough to coat every piece without making the sauce watery. Add garam masala and the remaining 4 g salt, then simmer together for 2 minutes. Taste and adjust seasoning; the finished pasta should be moist and well coated, not swimming in sauce.",
+    "Turn off the heat, scatter chopped coriander leaves over the pasta and serve hot in four bowls. Divide the visible peas, carrot and bell pepper evenly among the servings."
+  ],
+  "tips": ["The reviewed dish photo shows red onion-tomato masala clinging to penne with peas, green bell pepper, carrot and coriander. Keep this as a savory Indian masala pasta, without cream or cheese. Reserve pasta water before draining so the masala coats the pasta evenly."],
+  "translations": {
+    "hi": {
+      "name": "मसाला पास्ता",
+      "ingredients": ["बिना अंडे का सूखा पेने पास्ता", "पानी", "तेल", "प्याज़", "टमाटर", "हरे मटर", "हरी शिमला मिर्च", "गाजर", "अदरक", "लहसुन", "हरी मिर्च", "लाल मिर्च पाउडर", "हल्दी पाउडर", "धनिया पाउडर", "गरम मसाला", "टमाटर पेस्ट", "ताज़ा हरा धनिया", "नमक"],
+      "steps": [
+        "जाँचें कि सूखे पेने पास्ता में अंडा न हो। बड़े बर्तन में 2200 मिली पानी और 8 ग्राम नमक उबालें। पास्ता डालकर अच्छी तरह चलाएँ और पैकेट के समय के अनुसार बस अल दंते होने तक पकाएँ। 150 मिली पकाने का पानी अलग रखें, फिर पास्ता बिना धोए छान लें। इसी बीच प्याज़, टमाटर, अदरक, लहसुन और हरी मिर्च बारीक काटें; शिमला मिर्च और गाजर छोटे बराबर टुकड़ों में काटें।",
+        "चौड़े पैन में मध्यम आँच पर 30 मिली तेल गरम करें। प्याज़ डालकर 4–5 मिनट नरम और हल्का सुनहरा होने तक पकाएँ। अदरक, लहसुन और हरी मिर्च डालकर 1 मिनट सुगंध आने तक चलाएँ। गाजर और मटर के साथ 50 मिली बचा पास्ता पानी डालें, ढककर 4 मिनट गाजर थोड़ा नरम होने तक पकाएँ।",
+        "हल्दी, लाल मिर्च और धनिया पाउडर डालकर 20 सेकंड चलाएँ। कटे टमाटर और टमाटर पेस्ट मिलाएँ। बिना ढके 7–9 मिनट पकाएँ; चलाते और टमाटर दबाते रहें, जब तक गाढ़ा मसाला बन जाए और कच्चे टमाटर की गंध न रहे। शिमला मिर्च डालकर 2 मिनट पकाएँ ताकि उसमें हल्का कुरकुरापन रहे।",
+        "छाने पेने को मसाले में 50–100 मिली बचा पास्ता पानी डालकर मिलाएँ; उतना ही पानी लें जिससे हर टुकड़े पर मसाला चढ़े, सॉस पतली न हो। गरम मसाला और बचे 4 ग्राम नमक डालें, फिर 2 मिनट साथ पकाएँ। चखकर मसाला ठीक करें; पास्ता नम और अच्छी तरह लिपटा हो, पानी में डूबा नहीं।",
+        "आँच बंद करें, कटा हरा धनिया छिड़कें और चार कटोरियों में गरम परोसें। दिखाई देने वाले मटर, गाजर और शिमला मिर्च सभी में बराबर बाँटें।"
+      ],
+      "tips": ["समीक्षित तस्वीर में पेने पर लाल प्याज़-टमाटर मसाला, मटर, हरी शिमला मिर्च, गाजर और धनिया है। इसे बिना क्रीम या चीज़ वाला नमकीन भारतीय मसाला पास्ता रखें। पास्ता छानने से पहले उसका पानी बचाएँ ताकि मसाला समान रूप से चिपके।"]
+    },
+    "gu": {
+      "name": "મસાલા પાસ્તા",
+      "ingredients": ["ઇંડા વગરનો સૂકો પેને પાસ્તા", "પાણી", "તેલ", "ડુંગળી", "ટામેટાં", "લીલા વટાણા", "લીલું શિમલા મરચું", "ગાજર", "આદુ", "લસણ", "લીલું મરચું", "લાલ મરચું પાઉડર", "હળદર પાઉડર", "ધાણા પાઉડર", "ગરમ મસાલો", "ટામેટાંની પેસ્ટ", "તાજા લીલા ધાણા", "મીઠું"],
+      "steps": [
+        "સૂકા પેને પાસ્તામાં ઇંડું ન હોય તે તપાસો. મોટા વાસણમાં 2200 મિલી પાણી અને 8 ગ્રામ મીઠું ઉકાળો. પાસ્તા નાખી સારી રીતે હલાવો અને પેકેટના સમય પ્રમાણે માત્ર અલ દંતે થાય ત્યાં સુધી રાંધો. 150 મિલી રાંધવાનું પાણી અલગ રાખી પાસ્તા ધોયા વગર નિતારો. આ દરમિયાન ડુંગળી, ટામેટાં, આદુ, લસણ અને લીલું મરચું બારીક સમારો; શિમલા મરચું અને ગાજર નાના સરખા ટુકડા કરો.",
+        "પહોળી કડાઈમાં મધ્યમ તાપે 30 મિલી તેલ ગરમ કરો. ડુંગળી નાખી 4–5 મિનિટ નરમ અને હળવી સોનેરી થાય ત્યાં સુધી રાંધો. આદુ, લસણ અને લીલું મરચું નાખી 1 મિનિટ સુગંધ આવે ત્યાં સુધી હલાવો. ગાજર અને વટાણા સાથે 50 મિલી સાચવેલું પાસ્તાનું પાણી નાખી ઢાંકી 4 મિનિટ ગાજર થોડું નરમ થાય ત્યાં સુધી રાંધો.",
+        "હળદર, લાલ મરચું અને ધાણા પાઉડર નાખી 20 સેકંડ હલાવો. સમારેલા ટામેટાં અને ટામેટાંની પેસ્ટ ભેળવો. ઢાંક્યા વગર 7–9 મિનિટ રાંધો; હલાવતા અને ટામેટાં દબાવતા રહો જેથી ઘટ્ટ મસાલો બને અને કાચા ટામેટાંની વાસ જાય. શિમલા મરચું નાખી 2 મિનિટ રાંધો જેથી સહેજ કરકરું રહે.",
+        "નિતારેલા પેનેને મસાલામાં 50–100 મિલી સાચવેલું પાસ્તાનું પાણી સાથે ભેળવો; દરેક ટુકડા પર મસાલો ચડે એટલું જ પાણી નાખો, સોસ પાતળી ન થાય. ગરમ મસાલો અને બાકીનું 4 ગ્રામ મીઠું નાખી 2 મિનિટ સાથે રાંધો. ચાખી મસાલો ગોઠવો; પાસ્તા ભીનાં અને સારી રીતે મસાલાથી ઢંકાયેલાં હોય, પાણીમાં તરતાં ન હોય.",
+        "તાપ બંધ કરી સમારેલા લીલા ધાણા છાંટો અને ચાર વાટકામાં ગરમ પીરસો. દેખાતા વટાણા, ગાજર અને શિમલા મરચું બધી વાટકીમાં સરખું વહેંચો."
+      ],
+      "tips": ["તપાસેલા ફોટામાં પેને પર લાલ ડુંગળી-ટામેટાંનો મસાલો, વટાણા, લીલું શિમલા મરચું, ગાજર અને ધાણા છે. તેને ક્રીમ કે ચીઝ વગરનો સ્વાદિષ્ટ ભારતીય મસાલા પાસ્તા રાખો. પાસ્તા નિતારતાં પહેલાં તેનું પાણી સાચવો જેથી મસાલો બધે સરખો ચોંટે."]
+    }
+  },
+  "reference": {"url": "https://www.vegrecipesofindia.com/masala-pasta-recipe/", "use": "Indian onion-tomato masala pasta technique; measured method and wording independently authored to match the reviewed photo."}
+}
