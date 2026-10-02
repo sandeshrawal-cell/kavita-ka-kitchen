@@ -1,0 +1,65 @@
+{
+  "sourceReviewId": "R0124",
+  "id": "bombay-frankie",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Bombay Frankie",
+  "cuisine": "Indian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "passiveTime": "15 minutes dough resting",
+  "ingredients": [
+    {"name": "whole wheat flour", "qty": 240, "unit": "g"},
+    {"name": "water", "qty": 185, "unit": "ml"},
+    {"name": "neutral oil", "qty": 45, "unit": "ml"},
+    {"name": "potatoes", "qty": 450, "unit": "g"},
+    {"name": "paneer", "qty": 220, "unit": "g"},
+    {"name": "red onion", "qty": 150, "unit": "g"},
+    {"name": "fresh coriander", "qty": 35, "unit": "g"},
+    {"name": "fresh mint", "qty": 20, "unit": "g"},
+    {"name": "green chilli", "qty": 10, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "lemon juice", "qty": 35, "unit": "ml"},
+    {"name": "ground cumin", "qty": 5, "unit": "g"},
+    {"name": "chaat masala", "qty": 6, "unit": "g"},
+    {"name": "Kashmiri chilli powder", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 9, "unit": "g"}
+  ],
+  "steps": [
+    "Mix the flour with 3 g salt, 10 ml oil and 135 ml water. Knead for 5 minutes to a soft dough, adding the remaining 20 ml water only if needed. Cover and rest 15 minutes. Boil the potatoes until a knife slips through, drain completely, peel and crush coarsely. Cut paneer into small cubes and slice the onion thinly.",
+    "For the green chutney, blend 25 g coriander, all the mint, green chilli, ginger, 20 ml lemon juice, 1 g salt and the remaining measured 30 ml water. Keep the chutney thick so it does not soak the rotis.",
+    "Heat 20 ml oil in a wide pan over medium heat. Brown the paneer cubes lightly for 2 minutes and lift them out. Add the crushed potato, ground cumin, Kashmiri chilli and 4 g salt; stir and cook for 4–5 minutes until hot and fairly dry. Fold the paneer back in with 10 g chopped coriander and 3 g chaat masala. Divide the filling into four equal portions.",
+    "Divide the rested dough into four balls and roll each into a thin 20–22 cm round. Cook on a hot dry tawa for about 1 minute on each side until spotted and cooked through. Brush each warm roti with a little of the remaining 15 ml oil and keep covered so it stays flexible.",
+    "Spread one quarter of the green chutney on each roti. Put one filling portion down the middle and scatter the sliced onion over it. Sprinkle the remaining 3 g chaat masala, 1 g salt and 15 ml lemon juice evenly across all four rolls. Fold the bottom edge over the filling, roll tightly and wrap the lower half in food-safe paper. Serve hot, one frankie per person."
+  ],
+  "tips": ["The photograph shows the paneer-and-potato version of this Mumbai-style roll. For a milder family meal, remove the chilli seeds before blending. Check that packaged chaat masala is vegetarian and contains no ingredients your household avoids."],
+  "translations": {
+    "hi": {
+      "name": "बॉम्बे फ्रेंकी",
+      "passiveTime": "आटा रखने के लिए 15 मिनट",
+      "ingredients": ["गेहूँ का आटा", "पानी", "बिना तेज़ स्वाद वाला तेल", "आलू", "पनीर", "लाल प्याज़", "ताज़ा धनिया", "ताज़ा पुदीना", "हरी मिर्च", "अदरक", "नींबू का रस", "पिसा जीरा", "चाट मसाला", "कश्मीरी मिर्च पाउडर", "नमक"],
+      "steps": [
+        "आटे में 3 ग्राम नमक, 10 मिली तेल और 135 मिली पानी मिलाएँ। 5 मिनट गूँथकर नरम आटा बनाएँ; ज़रूरत हो तभी बचा 20 मिली पानी डालें। ढककर 15 मिनट रखें। आलू चाकू आसानी से घुसने तक उबालें, पूरी तरह छानें, छीलें और मोटा मसलें। पनीर छोटे टुकड़ों में और प्याज़ पतले लच्छों में काटें।",
+        "हरी चटनी के लिए 25 ग्राम धनिया, सारा पुदीना, हरी मिर्च, अदरक, 20 मिली नींबू रस, 1 ग्राम नमक और नापे हुए पानी में से बचे 30 मिली पानी को पीसें। चटनी गाढ़ी रखें ताकि रोटी गीली न हो।",
+        "चौड़े पैन में मध्यम आँच पर 20 मिली तेल गरम करें। पनीर को 2 मिनट हल्का सुनहरा करके निकालें। मसले आलू, पिसा जीरा, कश्मीरी मिर्च और 4 ग्राम नमक डालकर 4–5 मिनट गरम और काफ़ी सूखा होने तक भूनें। पनीर, 10 ग्राम कटा धनिया और 3 ग्राम चाट मसाला मिलाएँ। भरावन चार बराबर भागों में बाँटें।",
+        "रखे हुए आटे के चार गोले बनाकर हर गोले की पतली 20–22 सेमी रोटी बेलें। गरम सूखे तवे पर हर तरफ़ लगभग 1 मिनट चित्तीदार और पूरी तरह पकी होने तक सेकें। गरम रोटियों पर बचे 15 मिली तेल में से थोड़ा लगाकर ढकें ताकि वे नरम रहें।",
+        "हर रोटी पर एक-चौथाई हरी चटनी लगाएँ। बीच में एक भाग भरावन रखें और ऊपर प्याज़ फैलाएँ। बचा 3 ग्राम चाट मसाला, 1 ग्राम नमक और 15 मिली नींबू रस चारों पर समान बाँटें। नीचे का किनारा भरावन पर मोड़ें, कसकर रोल करें और नीचे का आधा हिस्सा खाने योग्य साफ़ कागज़ में लपेटें। हर व्यक्ति को एक गरम फ्रेंकी परोसें।"
+      ],
+      "tips": ["चित्र में मुंबई शैली का पनीर-आलू रोल है। परिवार के लिए कम तीखा चाहिए तो पीसने से पहले हरी मिर्च के बीज हटा दें। तैयार चाट मसाला शाकाहारी हो और आपके घर में वर्जित चीज़ें न हों, जाँच लें।"]
+    },
+    "gu": {
+      "name": "બોમ્બે ફ્રેન્કી",
+      "passiveTime": "લોટ આરામ આપવા 15 મિનિટ",
+      "ingredients": ["ઘઉંનો લોટ", "પાણી", "તટસ્થ સ્વાદનું તેલ", "બટાકા", "પનીર", "લાલ ડુંગળી", "તાજી કોથમીર", "તાજો ફુદીનો", "લીલું મરચું", "આદુ", "લીંબુનો રસ", "વાટેલું જીરું", "ચાટ મસાલો", "કાશ્મીરી મરચાંનો ભૂકો", "મીઠું"],
+      "steps": [
+        "લોટમાં 3 ગ્રામ મીઠું, 10 મિલી તેલ અને 135 મિલી પાણી ભેળવો. 5 મિનિટ મસળી નરમ લોટ બાંધો; જરૂર પડે તો જ બાકીનું 20 મિલી પાણી ઉમેરો. ઢાંકીને 15 મિનિટ રાખો. બટાકા છરી સરળતાથી ઘૂસી જાય ત્યાં સુધી બાફો, સંપૂર્ણ નિતારો, છોલીને મોટા મસળો. પનીર નાના ટુકડા અને ડુંગળી પાતળી કાપો.",
+        "લીલી ચટણી માટે 25 ગ્રામ કોથમીર, આખો ફુદીનો, લીલું મરચું, આદુ, 20 મિલી લીંબુનો રસ, 1 ગ્રામ મીઠું અને માપેલા પાણીમાંથી બાકી રહેલું 30 મિલી પાણી વાટી લો. ચટણી ઘટ્ટ રાખો જેથી રોટલી ભીંજાય નહીં.",
+        "પહોળી કડાઈમાં મધ્યમ તાપે 20 મિલી તેલ ગરમ કરો. પનીર 2 મિનિટ હળવું બદામી કરીને કાઢો. મસળેલા બટાકા, વાટેલું જીરું, કાશ્મીરી મરચું અને 4 ગ્રામ મીઠું નાખી 4–5 મિનિટ ગરમ અને પ્રમાણમાં સૂકું થાય ત્યાં સુધી શેકો. પનીર, 10 ગ્રામ સમારેલી કોથમીર અને 3 ગ્રામ ચાટ મસાલો ભેળવો. પૂરણ ચાર સરખા ભાગમાં વહેંચો.",
+        "આરામ આપેલા લોટના ચાર લૂવા બનાવી દરેકને પાતળી 20–22 સેમી રોટલી વણો. ગરમ સૂકા તવા પર દરેક બાજુ આશરે 1 મિનિટ ટપકાં પડે અને સંપૂર્ણ શેકાય ત્યાં સુધી શેકો. ગરમ રોટલી પર બાકીનું 15 મિલી તેલ થોડું થોડું લગાવી ઢાંકી રાખો જેથી નરમ રહે.",
+        "દરેક રોટલી પર ચટણીનો ચોથો ભાગ લગાવો. વચ્ચે પૂરણનો એક ભાગ મૂકી ઉપર ડુંગળી પાથરો. બાકીનો 3 ગ્રામ ચાટ મસાલો, 1 ગ્રામ મીઠું અને 15 મિલી લીંબુનો રસ ચારેયમાં સરખો વહેંચો. નીચલો ભાગ પૂરણ પર વાળો, ચુસ્ત રોલ કરો અને નીચલો અડધો ભાગ ખાવા યોગ્ય સ્વચ્છ કાગળમાં લપેટો. દરેકને એક ગરમ ફ્રેન્કી પીરસો."
+      ],
+      "tips": ["ફોટામાં મુંબઈ શૈલીનો પનીર-બટાકાનો રોલ છે. ઘર માટે ઓછું તીખું જોઈએ તો વાટતાં પહેલાં મરચાંનાં બી કાઢો. તૈયાર ચાટ મસાલો શાકાહારી હોય અને ઘરમાં ટાળાતી વસ્તુઓ તેમાં ન હોય તે તપાસો."]
+    }
+  },
+  "reference": {"url": "https://www.spiceupthecurry.com/frankie-recipe/", "use": "Mumbai potato-roti-chutney assembly reference; paneer version and all quantities and text independently authored to match the reviewed photograph."}
+}

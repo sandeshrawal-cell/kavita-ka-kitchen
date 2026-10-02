@@ -8797,5 +8797,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "black-bean-burger": {
+    "name": "Black Bean Burger",
+    "src": "/photos/black-bean-burger-1200.webp",
+    "small": "/photos/black-bean-burger-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Black Bean Burger served ready to eat",
+    "kind": "generated",
+    "title": "Black Bean Burger",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "tofu-katsu-sando": {
+    "name": "Tofu Katsu Sando",
+    "src": "/photos/tofu-katsu-sando-1200.webp",
+    "small": "/photos/tofu-katsu-sando-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Tofu Katsu Sando served ready to eat",
+    "kind": "generated",
+    "title": "Tofu Katsu Sando",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "bombay-frankie": {
+    "name": "Bombay Frankie",
+    "src": "/photos/bombay-frankie-1200.webp",
+    "small": "/photos/bombay-frankie-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Bombay Frankie served ready to eat",
+    "kind": "generated",
+    "title": "Bombay Frankie",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }

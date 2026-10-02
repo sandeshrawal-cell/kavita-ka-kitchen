@@ -1,0 +1,65 @@
+{
+  "sourceReviewId": "R0122",
+  "id": "black-bean-burger",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Black Bean Burger",
+  "cuisine": "American",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "15 minutes patty chilling",
+  "ingredients": [
+    {"name": "cooked black beans, drained", "qty": 600, "unit": "g"},
+    {"name": "rolled oats", "qty": 90, "unit": "g"},
+    {"name": "red onion", "qty": 200, "unit": "g"},
+    {"name": "red bell pepper", "qty": 100, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "ground cumin", "qty": 3, "unit": "g"},
+    {"name": "smoked paprika", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 8, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "neutral oil", "qty": 35, "unit": "ml"},
+    {"name": "eggless burger buns", "qty": 320, "unit": "g"},
+    {"name": "tomatoes", "qty": 350, "unit": "g"},
+    {"name": "lettuce", "qty": 80, "unit": "g"},
+    {"name": "fresh coriander", "qty": 20, "unit": "g"},
+    {"name": "lime juice", "qty": 25, "unit": "ml"}
+  ],
+  "steps": [
+    "Rinse and thoroughly drain the cooked black beans, then pat dry. Spread them in a wide dry pan over medium heat for 5–6 minutes, stirring until surface moisture evaporates; cool. Pulse the oats to a coarse meal, not a fine flour. Finely dice 100 g of the red onion and all the pepper; mince the garlic.",
+    "Heat 10 ml oil in the pan. Cook the diced onion and pepper for 4–5 minutes until softened and dry, adding garlic for the final 30 seconds. Roughly mash three-quarters of the beans, leaving the rest visibly whole. Mix beans, oats, cooked vegetables, cumin, paprika, 6 g salt and black pepper until the mixture holds when squeezed.",
+    "Divide into four equal thick patties about as wide as the buns. Press firmly and chill for 15 minutes so the oats absorb moisture. If a patty still crumbles, press the mixture again rather than adding water. Meanwhile, dice 200 g tomatoes and 50 g onion for salsa; mix with chopped coriander, lime juice and remaining 2 g salt.",
+    "Heat 20 ml oil in a non-stick or well-seasoned pan over medium heat. Cook patties for 4–5 minutes on each side, flipping only once, until a brown crust forms and the centre is hot. Do not move them early. Slice the remaining 150 g tomato and 50 g onion into thin rounds.",
+    "Split the four buns and toast their cut sides in the pan with the remaining 5 ml oil for 1–2 minutes. Put lettuce and a patty on each bottom bun, then tomato and onion slices and a spoonful of salsa. Close the buns and serve at once, with any extra salsa alongside rather than soaking the bread."
+  ],
+  "tips": ["Drying the beans and chilling the eggless patties helps them hold together. Keep some whole beans for a distinct bean texture rather than a smooth paste. Check buns are eggless and that the smoked paprika contains no meat flavouring."],
+  "translations": {
+    "hi": {
+      "name": "ब्लैक बीन बर्गर",
+      "passiveTime": "पैटी ठंडी करने के लिए 15 मिनट",
+      "ingredients": ["पकी और छानी काली बीन्स", "जई के रोल्ड फ्लेक्स", "लाल प्याज़", "लाल शिमला मिर्च", "लहसुन", "पिसा जीरा", "स्मोक्ड पाप्रिका", "नमक", "काली मिर्च", "बिना तेज़ स्वाद वाला तेल", "बिना अंडे के बर्गर बन", "टमाटर", "लेट्यूस पत्ते", "ताज़ा धनिया", "नींबू का रस"],
+      "steps": [
+        "पकी काली बीन्स धोकर अच्छी तरह छानें और थपथपाकर सुखाएँ। चौड़े सूखे पैन में मध्यम आँच पर 5–6 मिनट हिलाते हुए फैलाकर उनकी सतह की नमी उड़ाएँ; ठंडा करें। जई को मोटे चूरे में पीसें, महीन आटा नहीं। 100 ग्राम लाल प्याज़ और सारी शिमला मिर्च बारीक, लहसुन बहुत बारीक काटें।",
+        "पैन में 10 मिली तेल गरम करें। कटा प्याज़ और मिर्च 4–5 मिनट नरम और सूखा पकाएँ, आखिरी 30 सेकंड लहसुन डालें। तीन-चौथाई बीन्स मोटी मैश करें और बाकी साफ़ साबुत रखें। बीन्स, जई, पकी सब्ज़ियाँ, जीरा, पाप्रिका, 6 ग्राम नमक और काली मिर्च मिलाएँ, जब तक दबाने पर मिश्रण जुड़ा रहे।",
+        "चार बराबर मोटी पैटी बनाएँ, लगभग बन की चौड़ाई की। मज़बूती से दबाकर 15 मिनट ठंडा रखें ताकि जई नमी सोख ले। पैटी टूटे तो पानी डालने के बजाय फिर दबाएँ। इस बीच 200 ग्राम टमाटर और 50 ग्राम प्याज़ छोटे काटकर कटा धनिया, नींबू रस और बचा 2 ग्राम नमक मिलाकर सालसा बनाएँ।",
+        "नॉन-स्टिक या अच्छी तरह पके पैन में 20 मिली तेल मध्यम आँच पर गरम करें। पैटी हर ओर 4–5 मिनट पकाएँ और केवल एक बार पलटें, जब तक भूरी परत बने और बीच गरम हो। जल्दी हिलाएँ नहीं। बचा 150 ग्राम टमाटर और 50 ग्राम प्याज़ पतले गोल काटें।",
+        "चार बन चीरकर कटी तरफ बचा 5 मिली तेल लगाकर पैन में 1–2 मिनट टोस्ट करें। हर निचले बन पर लेट्यूस और पैटी रखें, फिर टमाटर-प्याज़ के स्लाइस और एक चम्मच सालसा। ऊपर का बन लगाकर तुरंत परोसें; अतिरिक्त सालसा साथ दें ताकि ब्रेड गीली न हो।"
+      ],
+      "tips": ["बीन्स सुखाने और बिना अंडे की पैटी ठंडी करने से वे जुड़ी रहती हैं। कुछ साबुत बीन्स रखें ताकि पूरी तरह चिकने पेस्ट की जगह बीन्स की बनावट दिखे। बन बिना अंडे के हों और स्मोक्ड पाप्रिका में मांस का फ्लेवर न हो।"]
+    },
+    "gu": {
+      "name": "બ્લેક બીન બર્ગર",
+      "passiveTime": "પેટી ઠંડી કરવા 15 મિનિટ",
+      "ingredients": ["રાંધેલા અને નિતારેલા કાળા બીન્સ", "રોલ્ડ ઓટ્સ", "લાલ ડુંગળી", "લાલ શિમલા મરચું", "લસણ", "વાટેલું જીરું", "સ્મોક્ડ પાપ્રિકા", "મીઠું", "કાળી મરી", "તટસ્થ સ્વાદનું તેલ", "ઇંડા વગરના બર્ગર બન", "ટમેટાં", "લેટસનાં પાન", "તાજી કોથમીર", "લીંબુનો રસ"],
+      "steps": [
+        "રાંધેલા કાળા બીન્સ ધોઈ સારી રીતે નિતારી થપથપાવી સૂકવો. પહોળી સૂકી કડાઈમાં મધ્યમ તાપે 5–6 મિનિટ હલાવતા પાથરી સપાટીનો ભેજ ઉડાડો; ઠંડા કરો. ઓટ્સને મોટા ચૂરામાં વાટો, ઝીણો લોટ નહીં. 100 ગ્રામ લાલ ડુંગળી અને આખું શિમલા મરચું બારીક તથા લસણ ખૂબ બારીક સમારો.",
+        "કડાઈમાં 10 મિલી તેલ ગરમ કરો. સમારેલી ડુંગળી અને મરચું 4–5 મિનિટ નરમ અને સૂકું રાંધો, છેલ્લી 30 સેકંડ લસણ નાખો. ત્રણ-ચતુર્થાંશ બીન્સ મોટા મસળો અને બાકીના સ્પષ્ટ આખા રાખો. બીન્સ, ઓટ્સ, રાંધેલું શાક, જીરું, પાપ્રિકા, 6 ગ્રામ મીઠું અને કાળી મરી ભેળવો, જ્યાં સુધી દબાવતાં મિશ્રણ જોડાયેલું રહે.",
+        "બન જેટલી પહોળી ચાર સરખી જાડી પેટી બનાવો. મજબૂત દબાવી 15 મિનિટ ઠંડી રાખો જેથી ઓટ્સ ભેજ શોષે. પેટી તૂટે તો પાણી નાખવાને બદલે ફરી દબાવો. આ દરમિયાન 200 ગ્રામ ટમેટાં અને 50 ગ્રામ ડુંગળી નાના સમારી કોથમીર, લીંબુનો રસ અને બાકીનું 2 ગ્રામ મીઠું ભેળવી સાલસા બનાવો.",
+        "નોન-સ્ટિક કે સારી રીતે તૈયાર કડાઈમાં 20 મિલી તેલ મધ્યમ તાપે ગરમ કરો. પેટી દરેક બાજુ 4–5 મિનિટ રાંધો અને માત્ર એક વાર પલટો, જ્યાં સુધી બદામી પડ બને અને અંદર ગરમ થાય. વહેલી ન હલાવો. બાકીનું 150 ગ્રામ ટમેટાં અને 50 ગ્રામ ડુંગળી પાતળાં ગોળ કાપો.",
+        "ચાર બન ચીરી કપાયેલી બાજુ બાકીનું 5 મિલી તેલ લગાવી કડાઈમાં 1–2 મિનિટ ટોસ્ટ કરો. દરેક નીચેના બન પર લેટસ અને પેટી મૂકો, પછી ટમેટાં-ડુંગળીના કાપા અને એક ચમચી સાલસા. ઉપરનું બન મૂકી તરત પીરસો; વધારાનું સાલસા સાથે આપો જેથી બ્રેડ ભીની ન થાય."
+      ],
+      "tips": ["બીન્સ સૂકવવાથી અને ઇંડા વગરની પેટી ઠંડી રાખવાથી તે જોડાયેલી રહે છે. થોડા આખા બીન્સ રાખો જેથી સંપૂર્ણ લીસા પેસ્ટને બદલે બીન્સની રચના દેખાય. બન ઇંડા વગરના હોય અને સ્મોક્ડ પાપ્રિકામાં માંસનો સ્વાદ ન હોય તેની ખાતરી કરો."]
+    }
+  },
+  "reference": {"url": "https://mindovermunch.com/recipes/meals/sandwiches/vegan-black-bean-burgers/", "use": "Eggless black-bean-and-oat patty approach; measured seasoning, salsa and assembly independently authored."}
+}

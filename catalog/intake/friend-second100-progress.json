@@ -179,7 +179,7 @@
       "name": "Black Bean Burger",
       "sourceReviewId": "R0122",
       "sourceRow": 123,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -187,7 +187,7 @@
       "name": "Tofu Katsu Sando",
       "sourceReviewId": "R0123",
       "sourceRow": 124,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -195,7 +195,7 @@
       "name": "Bombay Frankie",
       "sourceReviewId": "R0124",
       "sourceRow": 125,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -203,7 +203,8 @@
       "name": "Soya Chaap Roll",
       "sourceReviewId": "R0125",
       "sourceRow": 126,
-      "status": "recipe-needed",
+      "status": "photo-rejected-recipe-needed",
+      "note": "Two generated photos made the soy filling resemble chicken. Neither was accepted; retry with a clearly identifiable vegetarian chaap photo later.",
       "matches": []
     },
     {

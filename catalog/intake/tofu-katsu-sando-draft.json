@@ -1,0 +1,63 @@
+{
+  "sourceReviewId": "R0123",
+  "id": "tofu-katsu-sando",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Tofu Katsu Sando",
+  "cuisine": "Japanese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "20 minutes tofu pressing",
+  "ingredients": [
+    {"name": "extra-firm tofu", "qty": 600, "unit": "g"},
+    {"name": "plain wheat flour", "qty": 100, "unit": "g"},
+    {"name": "water", "qty": 150, "unit": "ml"},
+    {"name": "eggless panko breadcrumbs", "qty": 160, "unit": "g"},
+    {"name": "salt", "qty": 7, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "neutral oil", "qty": 120, "unit": "ml"},
+    {"name": "eggless soft white sandwich bread", "qty": 400, "unit": "g"},
+    {"name": "green cabbage", "qty": 180, "unit": "g"},
+    {"name": "tomato ketchup", "qty": 80, "unit": "g"},
+    {"name": "soy sauce", "qty": 25, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 15, "unit": "ml"},
+    {"name": "brown sugar", "qty": 15, "unit": "g"}
+  ],
+  "steps": [
+    "Drain the tofu, wrap it in a clean cloth and press under a plate and a light weight for 20 minutes. Cut into four equal slabs roughly the size of the sandwich bread and pat dry. Finely shred the cabbage. In a small bowl, stir together ketchup, soy sauce, rice vinegar and brown sugar until the sugar dissolves; this is the vegetarian katsu-style sauce.",
+    "Whisk the flour with the measured water, 5 g salt and black pepper into a smooth batter thick enough to coat a spoon. Put the eggless panko in a separate shallow dish. Dip each tofu slab in batter, let the excess drip off, then press firmly into panko on all sides. Rest the coated pieces for 5 minutes while the oil heats.",
+    "Heat 60 ml oil in a wide heavy pan over medium heat. Fry two tofu slabs for 3–4 minutes on each side until deeply golden and crisp. Move to a wire rack, not paper that traps steam. Add the remaining 60 ml oil as needed and fry the other two slabs. The centre should be hot and the crumb fully browned.",
+    "Lay out eight slices of eggless soft white bread. Spread a thin layer of sauce on each. Divide the shredded cabbage among four slices, add one hot katsu tofu slab to each and spoon over the remaining sauce. Cover with the other bread slices, sauce-side down. Sprinkle the remaining 2 g salt lightly across the cabbage only if needed after tasting the sauce.",
+    "Press each sandwich gently for 1 minute so the layers settle. Trim crusts if desired and cut in half with a sharp knife. Serve one sandwich per person immediately, showing a thick tofu centre, crisp panko ring, cabbage and dark sauce in each cut face."
+  ],
+  "tips": ["Check both bread and panko are eggless. Pressing tofu and resting the coated slabs helps the panko stay attached. This sauce uses no oyster sauce, fish sauce or anchovy-containing Worcestershire sauce."],
+  "translations": {
+    "hi": {
+      "name": "टोफू कात्सु सैंडो",
+      "passiveTime": "टोफू दबाकर पानी निकालने के लिए 20 मिनट",
+      "ingredients": ["अधिक सख्त टोफू", "मैदा", "पानी", "बिना अंडे का पैंको ब्रेड चूरा", "नमक", "काली मिर्च", "बिना तेज़ स्वाद वाला तेल", "बिना अंडे की मुलायम सफेद सैंडविच ब्रेड", "हरी पत्तागोभी", "टमाटर केचप", "सोया सॉस", "चावल का सिरका", "ब्राउन शुगर"],
+      "steps": [
+        "टोफू छानें, साफ़ कपड़े में लपेटकर प्लेट और हल्के भार के नीचे 20 मिनट दबाएँ। ब्रेड जितने आकार के चार बराबर मोटे टुकड़े काटकर सुखाएँ। पत्तागोभी बहुत पतली काटें। छोटे बाउल में केचप, सोया सॉस, चावल सिरका और ब्राउन शुगर घुलने तक मिलाएँ; यह शाकाहारी कात्सु-शैली सॉस है।",
+        "मैदा, नापा पानी, 5 ग्राम नमक और काली मिर्च फेंटकर चम्मच पर चढ़ने लायक चिकना घोल बनाएँ। बिना अंडे का पैंको अलग उथली थाली में रखें। हर टोफू टुकड़ा घोल में डुबोकर अतिरिक्त टपकाएँ, फिर सभी ओर पैंको कसकर दबाएँ। तेल गरम होते समय लिपटे टुकड़े 5 मिनट ठहराएँ।",
+        "चौड़े भारी पैन में 60 मिली तेल मध्यम आँच पर गरम करें। दो टोफू टुकड़े हर ओर 3–4 मिनट गहरे सुनहरे कुरकुरे होने तक तलें। जाली पर निकालें, भाप रोकने वाले पेपर पर नहीं। ज़रूरत अनुसार बचा 60 मिली तेल डालकर दूसरे दो तलें। बीच गरम और ब्रेड चूरा पूरा भूरा हो।",
+        "बिना अंडे की सफेद ब्रेड के आठ स्लाइस रखें। हर स्लाइस पर सॉस की पतली परत लगाएँ। चार स्लाइस पर पत्तागोभी बाँटें, हर एक पर एक गरम कात्सु टोफू रखें और बचा सॉस डालें। बाकी ब्रेड स्लाइस सॉस वाली तरफ नीचे करके ढकें। सॉस चखने के बाद ज़रूरत हो तभी बचा 2 ग्राम नमक पत्तागोभी पर छिड़कें।",
+        "हर सैंडविच 1 मिनट हल्का दबाएँ ताकि परतें जम जाएँ। चाहें तो किनारे काटें और तेज़ चाकू से दो भाग करें। प्रति व्यक्ति एक सैंडविच तुरंत परोसें, जिसकी कटी सतह पर मोटा टोफू, कुरकुरा पैंको, पत्तागोभी और गहरा सॉस दिखे।"
+      ],
+      "tips": ["ब्रेड और पैंको दोनों बिना अंडे के हों। टोफू दबाने और लिपटे टुकड़े ठहराने से पैंको चिपका रहता है। इस सॉस में ऑयस्टर सॉस, मछली सॉस या एन्कोवी वाला वुस्टरशायर सॉस नहीं है।"]
+    },
+    "gu": {
+      "name": "ટોફુ કાત્સુ સાંડો",
+      "passiveTime": "ટોફુ દબાવી પાણી કાઢવા માટે 20 મિનિટ",
+      "ingredients": ["ખૂબ મજબૂત ટોફુ", "મેંદો", "પાણી", "ઇંડા વગરનો પાન્કો બ્રેડનો ભૂકો", "મીઠું", "કાળી મરી", "તટસ્થ સ્વાદનું તેલ", "ઇંડા વગરની નરમ સફેદ સેન્ડવિચ બ્રેડ", "લીલી કોબી", "ટમેટાનો કેચપ", "સોયા સોસ", "ચોખાનો સરકો", "બ્રાઉન સુગર"],
+      "steps": [
+        "ટોફુ નિતારો, સ્વચ્છ કપડામાં લપેટી થાળી અને હળવા વજન નીચે 20 મિનિટ દબાવો. બ્રેડ જેટલા કદના ચાર સરખા જાડા ટુકડા કાપીને સૂકવો. કોબી ખૂબ પાતળી સમારો. નાની વાટકીમાં કેચપ, સોયા સોસ, ચોખાનો સરકો અને બ્રાઉન સુગર ઓગળે ત્યાં સુધી ભેળવો; આ શાકાહારી કાત્સુ-શૈલી સોસ છે.",
+        "મેંદો, માપેલું પાણી, 5 ગ્રામ મીઠું અને કાળી મરી ફેંટીને ચમચીને ચોંટે એવો લીસો ઘોળ બનાવો. ઇંડા વગરનો પાન્કો અલગ છીછરી થાળીમાં રાખો. દરેક ટોફુનો ટુકડો ઘોળમાં ડુબાડી વધારું ટપકાવો, પછી ચારે બાજુ પાન્કો ચુસ્ત દબાવો. તેલ ગરમ થાય ત્યાં સુધી ચોપડેલા ટુકડા 5 મિનિટ થોભાવો.",
+        "પહોળી ભારે કડાઈમાં 60 મિલી તેલ મધ્યમ તાપે ગરમ કરો. બે ટોફુ ટુકડા દરેક બાજુ 3–4 મિનિટ ઘેરા સોનેરી કરકરા થાય ત્યાં સુધી તળો. જાળી પર કાઢો, વરાળ અટકાવતા પેપર પર નહીં. જરૂર મુજબ બાકીનું 60 મિલી તેલ નાખીને બીજા બે તળો. મધ્ય ભાગ ગરમ અને ભૂકો પૂરો બદામી હોય.",
+        "ઇંડા વગરની સફેદ બ્રેડના આઠ સ્લાઇસ મૂકો. દરેક પર સોસનો પાતળો પડ લગાવો. ચાર સ્લાઇસ પર કોબી વહેંચો, દરેક પર એક ગરમ કાત્સુ ટોફુ મૂકો અને બાકીનો સોસ નાખો. બાકીના બ્રેડ સ્લાઇસ સોસવાળી બાજુ નીચે રાખી ઢાંકો. સોસ ચાખ્યા પછી જરૂર હોય તો જ બાકીનું 2 ગ્રામ મીઠું કોબી પર છાંટો.",
+        "દરેક સેન્ડવિચ 1 મિનિટ હળવો દબાવો જેથી પડ સ્થિર થાય. ઇચ્છા હોય તો કિનારી કાપીને ધારદાર છરીથી બે ભાગ કરો. વ્યક્તિદીઠ એક સેન્ડવિચ તરત પીરસો, જેના કપાયેલા ભાગમાં જાડું ટોફુ, કરકરો પાન્કો, કોબી અને ઘેરો સોસ દેખાય."
+      ],
+      "tips": ["બ્રેડ અને પાન્કો બંને ઇંડા વગરના હોવા જોઈએ. ટોફુ દબાવવાથી અને ચોપડેલા ટુકડા થોભાવવાથી પાન્કો ચોંટેલો રહે છે. આ સોસમાં ઓઇસ્ટર સોસ, માછલીનો સોસ કે એન્કોવીવાળો વુસ્ટરશાયર સોસ નથી."]
+    }
+  },
+  "reference": {"url": "https://www.sbfoods-worldwide.com/recipes/297.html", "use": "Tofu katsu sandwich composition with panko, cabbage and sauce; eggless coating and measured recipe independently authored."}
+}
