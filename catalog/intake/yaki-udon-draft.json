@@ -1,0 +1,62 @@
+{
+  "sourceReviewId": "R0129",
+  "id": "yaki-udon",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Yaki Udon",
+  "cuisine": "Japanese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless fresh udon noodles", "qty": 800, "unit": "g"},
+    {"name": "firm tofu", "qty": 300, "unit": "g"},
+    {"name": "green cabbage", "qty": 240, "unit": "g"},
+    {"name": "carrots", "qty": 140, "unit": "g"},
+    {"name": "onion", "qty": 160, "unit": "g"},
+    {"name": "shiitake mushrooms", "qty": 120, "unit": "g"},
+    {"name": "spring onion", "qty": 70, "unit": "g"},
+    {"name": "fresh ginger", "qty": 12, "unit": "g"},
+    {"name": "neutral oil", "qty": 45, "unit": "ml"},
+    {"name": "light soy sauce", "qty": 45, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 15, "unit": "ml"},
+    {"name": "sugar", "qty": 10, "unit": "g"},
+    {"name": "toasted sesame oil", "qty": 10, "unit": "ml"},
+    {"name": "water", "qty": 80, "unit": "ml"},
+    {"name": "black pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Check the udon pack is eggless and the soy sauce contains no fish. Pat the tofu dry and cut into 2 cm cubes. Cut cabbage into bite-size pieces, carrot into thin sticks, onion into thin slices and mushrooms into slices. Finely chop ginger. Slice spring onions, keeping the green tops for garnish.",
+    "Mix soy sauce, rice vinegar, sugar, sesame oil and black pepper in a small bowl until the sugar dissolves. If the udon are tightly packed, loosen them gently under warm running water for 20–30 seconds, then drain; do not boil fresh udon until soft. Keep the measured 80 ml water beside the pan for stir-frying.",
+    "Heat 20 ml neutral oil in a wide non-stick pan over medium-high heat. Add the tofu in one layer and leave it untouched for 2–3 minutes until golden below. Turn and cook another 2 minutes, then lift out onto a plate. Work in two pans or batches if the pan is too small; crowded tofu steams.",
+    "Add the remaining 25 ml oil to the pan. Stir-fry onion and carrot for 2 minutes, then mushrooms, cabbage, ginger and the pale spring-onion pieces for 2–3 minutes. The cabbage should wilt but stay a little crisp. Add the udon and measured water, lift and separate gently with tongs, and toss over high heat for 2 minutes until the water evaporates.",
+    "Return the tofu to the pan. Pour the sauce against the hot side of the pan, let it sizzle for a few seconds, then toss through the noodles for 1–2 minutes until everything is hot and lightly glossy, with a few toasted noodle edges. Divide among four bowls and scatter the green spring-onion tops over each. Serve immediately."
+  ],
+  "tips": ["This is a vegetarian tofu version of Japanese yaki udon; many bottled mentsuyu sauces and bonito garnishes contain fish, so this recipe uses a simple soy-based sauce instead. Handle thick udon gently to avoid breaking them. If using dried udon, cook and drain them according to the packet before stir-frying; 800 g refers to fresh udon."],
+  "translations": {
+    "hi": {
+      "name": "याकी उदोन",
+      "ingredients": ["बिना अंडे के ताज़े उदोन नूडल्स", "सख़्त टोफ़ू", "हरी पत्तागोभी", "गाजर", "प्याज़", "शिटाके मशरूम", "हरा प्याज़", "ताज़ा अदरक", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "चावल का सिरका", "चीनी", "भुने तिल का तेल", "पानी", "काली मिर्च"],
+      "steps": [
+        "जाँचें कि उदोन पैकेट में अंडा न हो और सोया सॉस में मछली न हो। टोफ़ू थपथपाकर सुखाएँ और 2 सेमी टुकड़े करें। पत्तागोभी खाने लायक टुकड़े, गाजर पतली तीली, प्याज़ पतले स्लाइस और मशरूम के स्लाइस काटें। अदरक बारीक काटें। हरे प्याज़ के स्लाइस बनाकर हरा भाग सजाने के लिए अलग रखें।",
+        "छोटे कटोरे में सोया सॉस, चावल का सिरका, चीनी, तिल का तेल और काली मिर्च मिलाएँ जब तक चीनी घुल जाए। उदोन आपस में चिपके हों तो 20–30 सेकंड गुनगुने बहते पानी में हल्के हाथ से अलग करके छानें; ताज़े उदोन को बहुत नरम होने तक न उबालें। नापे हुए 80 मिली पानी को पैन के पास रखें।",
+        "चौड़े नॉन-स्टिक पैन में मध्यम-तेज़ आँच पर 20 मिली साधारण तेल गरम करें। टोफ़ू एक परत में रखें और नीचे सुनहरा होने तक 2–3 मिनट बिना हिलाए पकाएँ। पलटकर 2 मिनट और पकाएँ, फिर प्लेट में निकालें। पैन छोटा हो तो दो बार में पकाएँ; भीड़ में टोफ़ू भाप में पकेगा।",
+        "पैन में बचा 25 मिली तेल डालें। प्याज़ और गाजर 2 मिनट चलाकर पकाएँ, फिर मशरूम, पत्तागोभी, अदरक और हरे प्याज़ का सफ़ेद भाग डालकर 2–3 मिनट पकाएँ। पत्तागोभी नरम पर थोड़ी कुरकुरी रहे। उदोन और नापा पानी डालें, चिमटे से धीरे अलग करते हुए तेज़ आँच पर 2 मिनट चलाएँ जब तक पानी उड़ जाए।",
+        "टोफ़ू पैन में वापस डालें। सॉस को गरम पैन के किनारे पर डालकर कुछ सेकंड चटकने दें, फिर 1–2 मिनट नूडल्स में मिलाएँ जब तक सब गरम और हल्के चमकदार हों तथा कुछ किनारे सिंके दिखें। चार कटोरों में बाँटकर हरे प्याज़ का हरा भाग ऊपर डालें। तुरंत परोसें।"
+      ],
+      "tips": ["यह जापानी याकी उदोन का शाकाहारी टोफ़ू रूप है; कई तैयार मेंत्सुयू सॉस और बोनिटो टॉपिंग में मछली होती है, इसलिए यहाँ साधारण सोया सॉस है। मोटे उदोन को धीरे चलाएँ ताकि टूटें नहीं। सूखे उदोन लें तो पैकेट के अनुसार उबालकर छानें; 800 ग्राम की मात्रा ताज़े उदोन के लिए है।"]
+    },
+    "gu": {
+      "name": "યાકી ઉદોન",
+      "ingredients": ["ઇંડા વગરના તાજા ઉદોન નૂડલ્સ", "મજબૂત ટોફુ", "લીલી કોબી", "ગાજર", "ડુંગળી", "શિટાકે મશરૂમ", "લીલી ડુંગળી", "તાજું આદુ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "ચોખાનો સરકો", "ખાંડ", "શેકેલા તલનું તેલ", "પાણી", "કાળી મરી"],
+      "steps": [
+        "ઉદોનના પેકેટમાં ઇંડું અને સોયા સોસમાં માછલી ન હોય તે તપાસો. ટોફુ થપથપાવી સૂકવી 2 સેમીના ટુકડા કરો. કોબી ખાવા જેવા ટુકડા, ગાજર પાતળી સળીઓ, ડુંગળી અને મશરૂમ પાતળાં કાપો. આદુ બારીક સમારો. લીલી ડુંગળી કાપી તેનો લીલો ભાગ સજાવટ માટે અલગ રાખો.",
+        "નાના વાટકામાં સોયા સોસ, ચોખાનો સરકો, ખાંડ, તલનું તેલ અને કાળી મરી ભેળવો જેથી ખાંડ ઓગળે. ઉદોન ચોંટેલા હોય તો 20–30 સેકંડ નવશેકા વહેતા પાણી નીચે ધીમે છૂટા પાડી નિતારો; તાજા ઉદોનને બહુ નરમ થાય ત્યાં સુધી ન ઉકાળો. માપેલું 80 મિલી પાણી તવા પાસે રાખો.",
+        "પહોળી નોન-સ્ટિક કડાઈમાં મધ્યમ-ઊંચા તાપે 20 મિલી સાદું તેલ ગરમ કરો. ટોફુ એક પડમાં ગોઠવી નીચે સોનેરી થાય ત્યાં સુધી 2–3 મિનિટ હલાવ્યા વગર રાંધો. પલટી વધુ 2 મિનિટ રાંધી થાળીમાં કાઢો. કડાઈ નાની હોય તો બે વાર રાંધો; ભીડમાં ટોફુ વરાળમાં ચડશે.",
+        "કડાઈમાં બાકીનું 25 મિલી તેલ નાખો. ડુંગળી અને ગાજર 2 મિનિટ હલાવી શેકો, પછી મશરૂમ, કોબી, આદુ અને લીલી ડુંગળીનો સફેદ ભાગ નાખી 2–3 મિનિટ રાંધો. કોબી નરમ પણ સહેજ કરકરી રહે. ઉદોન અને માપેલું પાણી નાખી સાણસીથી ધીમે છૂટા કરતાં ઊંચા તાપે 2 મિનિટ પાણી ઊડી જાય ત્યાં સુધી હલાવો.",
+        "ટોફુ પાછું કડાઈમાં નાખો. સોસ ગરમ કડાઈની કિનારે રેડી થોડી સેકંડ ચટકવા દો, પછી 1–2 મિનિટ નૂડલ્સ સાથે ભેળવો જ્યાં સુધી બધું ગરમ અને હળવું ચમકદાર થાય તથા કેટલીક કિનારીઓ શેકાય. ચાર વાટકામાં વહેંચી લીલી ડુંગળીનો લીલો ભાગ ઉપર મૂકો. તરત પીરસો."
+      ],
+      "tips": ["આ જાપાની યાકી ઉદોનનું શાકાહારી ટોફુ રૂપ છે; ઘણાં તૈયાર મેન્ટ્સુયુ સોસ અને બોનિટો ટોપિંગમાં માછલી હોય છે, તેથી અહીં સાદો સોયા આધારિત સોસ છે. જાડા ઉદોન ધીમે હલાવો જેથી તૂટે નહીં. સૂકા ઉદોન લો તો પેકેટ મુજબ ઉકાળી નિતારો; 800 ગ્રામ માપ તાજા ઉદોન માટે છે."]
+    }
+  },
+  "reference": {"url": "https://www.justonecookbook.com/yaki-udon/", "use": "Japanese stir-fried udon technique and vegetarian substitution guidance; tofu version, measurements and wording independently authored."}
+}

@@ -8893,5 +8893,37 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "yaki-udon": {
+    "name": "Yaki Udon",
+    "src": "/photos/yaki-udon-1200.webp",
+    "small": "/photos/yaki-udon-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Yaki Udon served ready to eat",
+    "kind": "generated",
+    "title": "Yaki Udon",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "rabokki": {
+    "name": "Rabokki",
+    "src": "/photos/rabokki-1200.webp",
+    "small": "/photos/rabokki-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Rabokki served ready to eat",
+    "kind": "generated",
+    "title": "Rabokki",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
