@@ -1,0 +1,56 @@
+{
+  "sourceReviewId": "R0148",
+  "id": "spaghetti-alla-nerano",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Spaghetti alla Nerano",
+  "cuisine": "Campanian Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "eggless dry spaghetti", "qty": 400, "unit": "g"},
+    {"name": "water", "qty": 2200, "unit": "ml"},
+    {"name": "zucchini", "qty": 650, "unit": "g"},
+    {"name": "olive oil", "qty": 80, "unit": "ml"},
+    {"name": "vegetarian aged provolone-style cheese made with microbial rennet", "qty": 100, "unit": "g"},
+    {"name": "fresh basil leaves", "qty": 25, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "black pepper", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 11, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the spaghetti is eggless and the aged provolone-style cheese is explicitly made with vegetarian or microbial rennet. Thinly slice zucchini into 3–4 mm rounds and pat dry. Finely grate the cheese, tear the basil leaves and lightly crush the garlic.",
+    "Heat 60 ml olive oil in a wide pan over medium-high heat. Fry zucchini in three batches, turning once, for about 4–5 minutes per batch until the rounds are golden with browned edges but still flexible. Transfer to paper to drain and sprinkle with 2 g salt. Keep a few attractive rounds for topping.",
+    "Bring 2200 ml water and 8 g salt to a rolling boil. Cook spaghetti until about 1 minute short of the packet's al dente time. Reserve 350 ml cloudy pasta water. Meanwhile warm the remaining 20 ml olive oil and crushed garlic in the zucchini pan over low heat for 1 minute, then remove the garlic before it browns.",
+    "Add most of the fried zucchini, most basil and 120 ml reserved pasta water to the pan. Add the almost-cooked spaghetti and toss over medium heat for 1–2 minutes, crushing a few soft zucchini slices into the starchy water to build a light sauce. Turn off the heat and wait 30 seconds. Add 80 g grated cheese in handfuls while tossing vigorously; add warm pasta water a spoonful at a time until the sauce is creamy and clings to each strand, never boiling the cheese.",
+    "Taste and add the last 1 g salt only if needed because the cheese is salty. Divide among four warm bowls, then finish with reserved golden zucchini rounds, 20 g grated cheese, the remaining basil and black pepper. Serve immediately."
+  ],
+  "tips": ["The reviewed photo prominently shows golden zucchini rounds and basil over pale glossy spaghetti. This vegetarian adaptation uses microbial-rennet aged provolone-style cheese instead of assuming traditional Provolone del Monaco is vegetarian. The creaminess comes from zucchini, cheese and pasta water, not cream."],
+  "translations": {
+    "hi": {
+      "name": "स्पेगेटी आला नेरानो",
+      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "पानी", "ज़ुकीनी", "जैतून तेल", "सूक्ष्मजीवी रेननेट से बना शाकाहारी पुराना प्रोवोलोन-जैसा चीज़", "ताज़ी बेसिल पत्तियाँ", "लहसुन", "काली मिर्च", "नमक"],
+      "steps": [
+        "जाँचें कि स्पेगेटी में अंडा न हो और पुराने प्रोवोलोन-जैसे चीज़ पर शाकाहारी या सूक्ष्मजीवी रेननेट स्पष्ट लिखा हो। ज़ुकीनी को 3–4 मिमी पतले गोल टुकड़ों में काटकर सुखाएँ। चीज़ बारीक कद्दूकस करें, बेसिल पत्तियाँ तोड़ें और लहसुन हल्का कूटें।",
+        "चौड़े पैन में 60 मिली जैतून तेल मध्यम-तेज़ आँच पर गरम करें। ज़ुकीनी को तीन हिस्सों में लगभग 4–5 मिनट प्रत्येक, एक बार पलटकर, सुनहरी और किनारे भूरे लेकिन लचीले रहने तक तलें। कागज़ पर निकालकर 2 ग्राम नमक छिड़कें। सजाने के लिए कुछ सुंदर गोल टुकड़े रखें।",
+        "2200 मिली पानी और 8 ग्राम नमक तेज़ उबालें। स्पेगेटी पैकेट के अल दंते समय से लगभग 1 मिनट कम पकाएँ। 350 मिली धुंधला पास्ता पानी बचाएँ। इस बीच ज़ुकीनी वाले पैन में बचा 20 मिली जैतून तेल और कुटा लहसुन धीमी आँच पर 1 मिनट गरम करें, फिर लहसुन भूरा होने से पहले निकाल दें।",
+        "अधिकतर तली ज़ुकीनी, अधिकतर बेसिल और 120 मिली बचा पास्ता पानी पैन में डालें। लगभग पकी स्पेगेटी डालकर मध्यम आँच पर 1–2 मिनट पलटें; कुछ नरम ज़ुकीनी के टुकड़े स्टार्च वाले पानी में मसलकर हल्की सॉस बनाएँ। आँच बंद करके 30 सेकंड रुकें। 80 ग्राम कद्दूकस चीज़ थोड़ा-थोड़ा डालते हुए तेज़ी से पलटें; गरम पास्ता पानी एक-एक बड़ा चम्मच डालें, जब तक क्रीमी सॉस हर तार पर चढ़े; चीज़ न उबालें।",
+        "चखें और ज़रूरत हो तभी बचा 1 ग्राम नमक डालें क्योंकि चीज़ नमकीन है। चार गरम कटोरियों में बाँटें; ऊपर बची सुनहरी ज़ुकीनी, 20 ग्राम कद्दूकस चीज़, शेष बेसिल और काली मिर्च डालें। तुरंत परोसें।"
+      ],
+      "tips": ["समीक्षित तस्वीर में हल्की चमकदार स्पेगेटी पर सुनहरी ज़ुकीनी के गोल टुकड़े और बेसिल स्पष्ट दिखते हैं। यह शाकाहारी रूप सूक्ष्मजीवी रेननेट वाला पुराना प्रोवोलोन-जैसा चीज़ इस्तेमाल करता है; पारंपरिक चीज़ अपने आप शाकाहारी न मानें। मलाईदार बनावट ज़ुकीनी, चीज़ और पास्ता पानी से आती है, क्रीम से नहीं।"]
+    },
+    "gu": {
+      "name": "સ્પાઘેટી આલા નેરાનો",
+      "ingredients": ["ઇંડા વગરની સૂકી સ્પાઘેટી", "પાણી", "ઝુકિની", "ઓલિવ તેલ", "સૂક્ષ્મજીવી રેનેટથી બનેલું શાકાહારી જૂનું પ્રોવોલોન જેવું ચીઝ", "તાજાં બેસિલ પાન", "લસણ", "કાળા મરી", "મીઠું"],
+      "steps": [
+        "સ્પાઘેટીમાં ઇંડું ન હોય અને જૂના પ્રોવોલોન જેવા ચીઝ પર શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટ સ્પષ્ટ લખેલું હોય તે તપાસો. ઝુકિનીને 3–4 મિમી પાતળા ગોળ ટુકડા કરી કોરાં કરો. ચીઝ બારીક છીણો, બેસિલનાં પાન તોડો અને લસણ સહેજ ખાંડો.",
+        "પહોળી કડાઈમાં 60 મિલી ઓલિવ તેલ મધ્યમ-તેજ તાપે ગરમ કરો. ઝુકિનીને ત્રણ હપ્તામાં દરેક આશરે 4–5 મિનિટ, એક વાર ફેરવી, સોનેરી અને ધાર બદામી પણ લચીલી રહે ત્યાં સુધી તળો. કાગળ પર કાઢી 2 ગ્રામ મીઠું છાંટો. ઉપર માટે થોડાં સુંદર ગોળ ટુકડા રાખો.",
+        "2200 મિલી પાણી અને 8 ગ્રામ મીઠું જોરથી ઉકાળો. સ્પાઘેટી પેકેટના અલ દંતે સમય કરતાં આશરે 1 મિનિટ ઓછી રાંધો. 350 મિલી ધૂંધળું પાસ્તાનું પાણી સાચવો. આ દરમિયાન ઝુકિનીવાળી કડાઈમાં બાકીનું 20 મિલી ઓલિવ તેલ અને ખાંડેલું લસણ ધીમા તાપે 1 મિનિટ ગરમ કરી લસણ બદામી થાય તે પહેલાં કાઢી લો.",
+        "મોટાભાગની તળેલી ઝુકિની, મોટાભાગનું બેસિલ અને 120 મિલી સાચવેલું પાસ્તાનું પાણી કડાઈમાં નાખો. લગભગ રંધાયેલી સ્પાઘેટી નાખી મધ્યમ તાપે 1–2 મિનિટ ઉછાળો; થોડી નરમ ઝુકિની સ્ટાર્ચવાળા પાણીમાં મસળી હળવી સોસ બનાવો. તાપ બંધ કરી 30 સેકંડ રાહ જુઓ. 80 ગ્રામ છીણેલું ચીઝ થોડું થોડું નાખી ઝડપથી ઉછાળો; ગરમ પાસ્તાનું પાણી એક-એક મોટો ચમચો નાખી ક્રીમી સોસ દરેક તાર પર ચડે ત્યાં સુધી ભેળવો, ચીઝ ઉકાળો નહીં.",
+        "ચાખીને જરૂર હોય તો જ બાકીનું 1 ગ્રામ મીઠું નાખો કારણ કે ચીઝ ખારું છે. ચાર ગરમ વાટકામાં વહેંચો; ઉપર સાચવેલી સોનેરી ઝુકિની, 20 ગ્રામ છીણેલું ચીઝ, બાકીનું બેસિલ અને કાળા મરી નાખો. તરત પીરસો."
+      ],
+      "tips": ["તપાસેલા ફોટામાં ફિક્કી ચમકતી સ્પાઘેટી પર સોનેરી ઝુકિનીના ગોળ ટુકડા અને બેસિલ સ્પષ્ટ દેખાય છે. આ શાકાહારી રૂપ સૂક્ષ્મજીવી રેનેટવાળું જૂનું પ્રોવોલોન જેવું ચીઝ વાપરે છે; પરંપરાગત ચીઝ આપમેળે શાકાહારી ન માનો. ક્રીમીપણું ઝુકિની, ચીઝ અને પાસ્તાના પાણીથી આવે છે, ક્રીમથી નહીં."]
+    }
+  },
+  "reference": {"url": "https://www.lacucinaitaliana.it/ricetta/primi/spaghetti-alla-nerano/", "use": "Zucchini, aged provolone and basil composition; vegetarian-rennet substitution, measurements and wording independently authored for the reviewed image."}
+}

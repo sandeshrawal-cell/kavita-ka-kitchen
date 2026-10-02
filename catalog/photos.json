@@ -9197,5 +9197,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "spaghetti-alla-nerano": {
+    "name": "Spaghetti alla Nerano",
+    "src": "/photos/spaghetti-alla-nerano-1200.webp",
+    "small": "/photos/spaghetti-alla-nerano-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Spaghetti alla Nerano served ready to eat",
+    "kind": "generated",
+    "title": "Spaghetti alla Nerano",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
