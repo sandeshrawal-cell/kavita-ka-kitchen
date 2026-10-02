@@ -9005,5 +9005,37 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "white-sauce-pasta": {
+    "name": "White Sauce Pasta",
+    "src": "/photos/white-sauce-pasta-1200.webp",
+    "small": "/photos/white-sauce-pasta-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "White Sauce Pasta served ready to eat",
+    "kind": "generated",
+    "title": "White Sauce Pasta",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "pesto-pasta": {
+    "name": "Pesto Pasta",
+    "src": "/photos/pesto-pasta-1200.webp",
+    "small": "/photos/pesto-pasta-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pesto Pasta served ready to eat",
+    "kind": "generated",
+    "title": "Pesto Pasta",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }

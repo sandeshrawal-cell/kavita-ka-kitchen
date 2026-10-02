@@ -1,0 +1,63 @@
+{
+  "sourceReviewId": "R0136",
+  "id": "white-sauce-pasta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "White Sauce Pasta",
+  "cuisine": "Indo-Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {"name": "eggless dry penne pasta", "qty": 400, "unit": "g"},
+    {"name": "water", "qty": 2500, "unit": "ml"},
+    {"name": "whole milk", "qty": 600, "unit": "ml"},
+    {"name": "butter", "qty": 45, "unit": "g"},
+    {"name": "plain wheat flour", "qty": 45, "unit": "g"},
+    {"name": "carrots", "qty": 140, "unit": "g"},
+    {"name": "green peas", "qty": 140, "unit": "g"},
+    {"name": "sweet corn kernels", "qty": 120, "unit": "g"},
+    {"name": "red bell pepper", "qty": 140, "unit": "g"},
+    {"name": "onion", "qty": 120, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "olive oil", "qty": 20, "unit": "ml"},
+    {"name": "dried oregano", "qty": 3, "unit": "g"},
+    {"name": "ground nutmeg", "qty": 1, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "salt", "qty": 12, "unit": "g"}
+  ],
+  "steps": [
+    "Check the penne is made without egg. Bring the 2500 ml water and 8 g of the salt to a rolling boil. Cook pasta to the packet's al dente time, stirring early to prevent sticking. Drain well but do not rinse. Meanwhile dice the carrot, bell pepper and onion into small even pieces, and mince garlic.",
+    "Heat olive oil in a wide pan over medium heat. Cook onion and carrot for 3 minutes, then add peas, sweet corn and bell pepper for another 3 minutes until the vegetables are just tender and still colorful. Add garlic for the final 30 seconds. Move the vegetables to a plate so they do not soften too much in the sauce.",
+    "Warm the milk separately until just lukewarm. In the cleaned pan melt butter over low heat. Stir in flour and cook for 2 minutes while whisking, until it smells lightly nutty but stays pale; do not brown the roux. Gradually add the milk in 4–5 additions, whisking smooth after each one to prevent lumps.",
+    "Cook the white sauce over medium-low heat for 4–5 minutes, stirring the base of the pan, until it coats a spoon but still flows. Season with the remaining 4 g salt, black pepper, oregano and nutmeg. If lumps form, whisk firmly off the heat before returning to a gentle simmer.",
+    "Return the vegetables and drained penne to the sauce. Fold gently over low heat for 1–2 minutes until the sauce coats every tube and everything is hot. Divide into four bowls and serve immediately; the sauce thickens as it sits."
+  ],
+  "tips": ["The photograph shows penne, carrots, peas, sweet corn and red pepper in a béchamel-style white sauce. Keep the flour pale for a clean ivory color. Cheese is not needed; if added separately, choose cheese made with vegetarian rennet."],
+  "translations": {
+    "hi": {
+      "name": "व्हाइट सॉस पास्ता",
+      "ingredients": ["बिना अंडे का सूखा पेने पास्ता", "पानी", "फुल-फैट दूध", "मक्खन", "मैदा", "गाजर", "हरी मटर", "मीठे मकई के दाने", "लाल शिमला मिर्च", "प्याज़", "लहसुन", "जैतून का तेल", "सूखा ओरिगैनो", "पिसा जायफल", "काली मिर्च", "नमक"],
+      "steps": [
+        "जाँचें कि पेने में अंडा न हो। 2500 मिली पानी और 8 ग्राम नमक तेज़ उबालें। पैकेट पर दिए अल दंते समय तक पास्ता पकाएँ; शुरू में चलाएँ ताकि चिपके नहीं। अच्छी तरह छानें पर धोएँ नहीं। इस बीच गाजर, शिमला मिर्च और प्याज़ छोटे समान टुकड़ों में तथा लहसुन बारीक काटें।",
+        "चौड़े पैन में मध्यम आँच पर जैतून का तेल गरम करें। प्याज़ और गाजर 3 मिनट, फिर मटर, मीठी मकई और शिमला मिर्च 3 मिनट और पकाएँ ताकि सब्ज़ियाँ बस नरम और रंगीन रहें। आखिरी 30 सेकंड लहसुन डालें। सब्ज़ियाँ प्लेट में निकालें ताकि सॉस में बहुत नरम न हों।",
+        "दूध अलग बस गुनगुना करें। साफ़ पैन में धीमी आँच पर मक्खन पिघलाएँ। मैदा मिलाकर 2 मिनट लगातार फेंटते हुए पकाएँ, जब तक हल्की भुनी महक आए लेकिन मिश्रण सफ़ेद रहे; भूरा न होने दें। दूध 4–5 हिस्सों में धीरे डालें और हर बार चिकना होने तक फेंटें ताकि गाँठ न बनें।",
+        "व्हाइट सॉस को मध्यम-धीमी आँच पर 4–5 मिनट पैन का तला चलाते हुए पकाएँ जब तक चम्मच पर परत चढ़े लेकिन बहती रहे। बचा 4 ग्राम नमक, काली मिर्च, ओरिगैनो और जायफल मिलाएँ। गाँठ बने तो आँच से हटाकर तेज़ फेंटें, फिर धीमे उबालें।",
+        "सब्ज़ियाँ और छाना पेने सॉस में वापस डालें। धीमी आँच पर 1–2 मिनट हल्के हाथ से मिलाएँ जब तक हर ट्यूब पर सॉस चढ़े और सब गरम हो जाए। चार कटोरों में बाँटकर तुरंत परोसें; रखने से सॉस और गाढ़ी होती है।"
+      ],
+      "tips": ["चित्र में पेने, गाजर, मटर, मीठी मकई और लाल मिर्च बेसमेल जैसी सफ़ेद सॉस में हैं। साफ़ हाथीदाँत रंग के लिए मैदा भूरा न करें। चीज़ ज़रूरी नहीं; अलग से डालें तो शाकाहारी रेनट वाली चीज़ चुनें।"]
+    },
+    "gu": {
+      "name": "વ્હાઇટ સોસ પાસ્તા",
+      "ingredients": ["ઇંડા વગરનો સૂકો પેને પાસ્તા", "પાણી", "પૂર્ણ ચરબીવાળું દૂધ", "માખણ", "મેંદો", "ગાજર", "લીલા વટાણા", "મીઠી મકાઈના દાણા", "લાલ શિમલા મરચું", "ડુંગળી", "લસણ", "ઓલિવ તેલ", "સૂકો ઓરેગાનો", "વાટેલું જાયફળ", "કાળી મરી", "મીઠું"],
+      "steps": [
+        "પેનેમાં ઇંડું ન હોય તે તપાસો. 2500 મિલી પાણી અને 8 ગ્રામ મીઠું જોરથી ઉકાળો. પેકેટ પર આપેલા અલ દંતે સમય સુધી પાસ્તા રાંધો; શરૂઆતમાં હલાવો જેથી ચોંટે નહીં. સારી રીતે નિતારો પણ ધોશો નહીં. દરમિયાન ગાજર, શિમલા મરચું અને ડુંગળી નાના સરખા ટુકડા તથા લસણ બારીક સમારો.",
+        "પહોળી કડાઈમાં મધ્યમ તાપે ઓલિવ તેલ ગરમ કરો. ડુંગળી અને ગાજર 3 મિનિટ, પછી વટાણા, મીઠી મકાઈ અને શિમલા મરચું વધુ 3 મિનિટ રાંધો જેથી શાક માત્ર નરમ અને રંગીન રહે. છેલ્લી 30 સેકંડ લસણ નાખો. શાક થાળીમાં કાઢો જેથી સોસમાં બહુ નરમ ન થાય.",
+        "દૂધ અલગથી માત્ર નવશેકું કરો. સાફ કડાઈમાં ધીમા તાપે માખણ ઓગાળો. મેંદો નાખી 2 મિનિટ સતત ફેંટતા રાંધો જેથી હળવી શેકેલી સુગંધ આવે પણ મિશ્રણ ફિક્કું રહે; બદામી ન થવા દો. દૂધ 4–5 હપ્તામાં ધીમે નાખી દરેક વખતે ગાંઠ વગરનું થાય ત્યાં સુધી ફેંટો.",
+        "વ્હાઇટ સોસને મધ્યમ-ધીમા તાપે 4–5 મિનિટ કડાઈનું તળિયું હલાવતા રાંધો જેથી ચમચી પર ચડે છતાં વહેતો રહે. બાકીનું 4 ગ્રામ મીઠું, કાળી મરી, ઓરેગાનો અને જાયફળ ભેળવો. ગાંઠ થાય તો તાપ પરથી ઉતારી જોરથી ફેંટો, પછી ધીમે ઉકાળો.",
+        "શાક અને નિતારેલો પેને સોસમાં પાછા નાખો. ધીમા તાપે 1–2 મિનિટ હળવેથી ભેળવો જેથી દરેક પાસ્તા પર સોસ ચડે અને બધું ગરમ થાય. ચાર વાટકામાં વહેંચી તરત પીરસો; રાખવાથી સોસ વધુ ઘટ્ટ થાય છે."
+      ],
+      "tips": ["ફોટામાં પેને, ગાજર, વટાણા, મીઠી મકાઈ અને લાલ મરચું બેશામેલ જેવી સફેદ સોસમાં છે. હળવા રંગ માટે મેંદો બદામી ન કરો. ચીઝ જરૂરી નથી; અલગથી નાખો તો શાકાહારી રેનેટવાળી ચીઝ પસંદ કરો."]
+    }
+  },
+  "reference": {"url": "https://www.vegrecipesofindia.com/white-sauce-pasta-recipe/", "use": "Vegetarian béchamel pasta technique and vegetable pairing; all measurements and wording independently authored to match the reviewed image."}
+}
