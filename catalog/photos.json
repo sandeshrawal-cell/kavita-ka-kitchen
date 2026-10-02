@@ -9149,5 +9149,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "creamy-mushroom-pasta": {
+    "name": "Creamy Mushroom Pasta",
+    "src": "/photos/creamy-mushroom-pasta-1200.webp",
+    "small": "/photos/creamy-mushroom-pasta-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Creamy Mushroom Pasta served ready to eat",
+    "kind": "generated",
+    "title": "Creamy Mushroom Pasta",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }

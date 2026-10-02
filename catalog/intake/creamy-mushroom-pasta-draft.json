@@ -1,0 +1,58 @@
+{
+  "sourceReviewId": "R0145",
+  "id": "creamy-mushroom-pasta",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Creamy Mushroom Pasta",
+  "cuisine": "Italian-inspired",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless dry tagliatelle", "qty": 360, "unit": "g"},
+    {"name": "water", "qty": 2300, "unit": "ml"},
+    {"name": "brown button mushrooms", "qty": 500, "unit": "g"},
+    {"name": "cooking cream", "qty": 220, "unit": "ml"},
+    {"name": "butter", "qty": 25, "unit": "g"},
+    {"name": "olive oil", "qty": 20, "unit": "ml"},
+    {"name": "garlic", "qty": 20, "unit": "g"},
+    {"name": "fresh thyme leaves", "qty": 4, "unit": "g"},
+    {"name": "fresh parsley", "qty": 18, "unit": "g"},
+    {"name": "black pepper", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 12, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the dry tagliatelle is eggless. Brush the mushrooms clean rather than soaking them, then slice evenly about 5 mm thick. Mince the garlic, strip the thyme leaves and chop the parsley. Keep the cream measured and ready, because the mushrooms brown quickly.",
+    "Bring 2300 ml water and 8 g salt to a rolling boil. Add the pasta, stir to separate and cook according to its packet until just al dente. Reserve 200 ml cloudy cooking water before draining. Do not rinse the pasta.",
+    "Meanwhile heat 20 ml olive oil and 15 g butter in a wide pan over medium-high heat. Add mushrooms in two batches so they can brown; leave each batch undisturbed for 2 minutes, then turn and cook about 4 minutes more until their water evaporates and edges deepen in colour. Return all mushrooms to the pan, add garlic and thyme, and stir for 45 seconds.",
+    "Lower heat to medium-low. Add the cream, remaining 10 g butter, 4 g salt and black pepper. Simmer gently for 2–3 minutes, stirring, until lightly thickened; do not boil hard or the cream may split. Add drained tagliatelle and 80 ml reserved pasta water. Toss for 1–2 minutes until a smooth sauce clings to the ribbons, adding more pasta water a spoonful at a time only if too thick.",
+    "Turn off the heat and fold in chopped parsley. Divide into four warm bowls and distribute the browned mushrooms evenly. Finish with a little more black pepper if desired and serve immediately while the sauce remains glossy."
+  ],
+  "tips": ["The reviewed photo shows ribbon pasta generously covered with visibly browned button mushrooms and a pale, clinging cream sauce flecked with thyme and parsley. Browning mushrooms before adding cream prevents a watery, grey sauce. No cheese is needed."],
+  "translations": {
+    "hi": {
+      "name": "क्रीमी मशरूम पास्ता",
+      "ingredients": ["बिना अंडे का सूखा टैगलियातेल्ले", "पानी", "भूरे बटन मशरूम", "कुकिंग क्रीम", "मक्खन", "जैतून तेल", "लहसुन", "ताज़ी थाइम पत्तियाँ", "ताज़ा पार्सली", "काली मिर्च", "नमक"],
+      "steps": [
+        "जाँचें कि सूखे टैगलियातेल्ले में अंडा न हो। मशरूम को भिगोने के बजाय ब्रश से साफ करें, फिर लगभग 5 मिमी मोटे बराबर स्लाइस करें। लहसुन बारीक काटें, थाइम पत्तियाँ अलग करें और पार्सली काटें। नापी हुई क्रीम तैयार रखें क्योंकि मशरूम जल्दी भूरे होते हैं।",
+        "2300 मिली पानी और 8 ग्राम नमक तेज़ उबालें। पास्ता डालकर तार अलग करने के लिए चलाएँ और पैकेट के अनुसार बस अल दंते होने तक पकाएँ। छानने से पहले 200 मिली धुंधला पकाने का पानी बचाएँ। पास्ता न धोएँ।",
+        "इसी बीच चौड़े पैन में 20 मिली जैतून तेल और 15 ग्राम मक्खन मध्यम-तेज़ आँच पर गरम करें। मशरूम को दो हिस्सों में भूनें ताकि वे भूरे हों; हर हिस्से को पहले 2 मिनट बिना छेड़े रखें, फिर पलटकर लगभग 4 मिनट और पकाएँ जब तक पानी सूख जाए और किनारे गहरे हों। सारे मशरूम पैन में लौटाएँ, लहसुन और थाइम डालकर 45 सेकंड चलाएँ।",
+        "आँच मध्यम-धीमी करें। क्रीम, बचा 10 ग्राम मक्खन, 4 ग्राम नमक और काली मिर्च डालें। 2–3 मिनट धीरे चलाते हुए थोड़ा गाढ़ा करें; तेज़ न उबालें, वरना क्रीम फट सकती है। छाना टैगलियातेल्ले और 80 मिली बचा पास्ता पानी मिलाएँ। 1–2 मिनट पलटें ताकि चिकनी सॉस हर रिबन पर चढ़े; अधिक गाढ़ी हो तो थोड़ा-थोड़ा पास्ता पानी डालें।",
+        "आँच बंद करके कटा पार्सली मिलाएँ। चार गरम कटोरियों में बाँटें और भूरे मशरूम बराबर दें। चाहें तो थोड़ी और काली मिर्च डालें और सॉस चमकदार रहते तुरंत परोसें।"
+      ],
+      "tips": ["समीक्षित तस्वीर में रिबन पास्ता पर भरपूर स्पष्ट भूरे बटन मशरूम और थाइम-पार्सली के कणों वाली हल्की क्रीम सॉस चिपकी है। क्रीम डालने से पहले मशरूम सुनहरे करने से सॉस पानीदार और धूसर नहीं होती। चीज़ आवश्यक नहीं है।"]
+    },
+    "gu": {
+      "name": "ક્રીમી મશરૂમ પાસ્તા",
+      "ingredients": ["ઇંડા વગરનો સૂકો ટાગ્લિયાતેલ્લે", "પાણી", "ભૂરા બટન મશરૂમ", "રસોઈ માટેની ક્રીમ", "માખણ", "ઓલિવ તેલ", "લસણ", "તાજાં થાઇમ પાન", "તાજું પાર્સલી", "કાળા મરી", "મીઠું"],
+      "steps": [
+        "સૂકા ટાગ્લિયાતેલ્લેમાં ઇંડું ન હોય તે તપાસો. મશરૂમને પલાળવા કરતાં બ્રશથી સાફ કરી આશરે 5 મિમી જાડી સરખી સ્લાઇસ કરો. લસણ બારીક સમારો, થાઇમનાં પાન અલગ કરો અને પાર્સલી સમારો. માપેલી ક્રીમ તૈયાર રાખો કારણ કે મશરૂમ ઝડપથી બદામી થાય છે.",
+        "2300 મિલી પાણી અને 8 ગ્રામ મીઠું જોરથી ઉકાળો. પાસ્તા નાખી તાર છૂટા પડે એમ હલાવો અને પેકેટ પ્રમાણે માત્ર અલ દંતે થાય ત્યાં સુધી રાંધો. નિતારતાં પહેલાં 200 મિલી ધૂંધળું રાંધવાનું પાણી સાચવો. પાસ્તા ધોશો નહીં.",
+        "આ દરમિયાન પહોળી કડાઈમાં 20 મિલી ઓલિવ તેલ અને 15 ગ્રામ માખણ મધ્યમ-તેજ તાપે ગરમ કરો. મશરૂમ બે હપ્તામાં સાંતળો જેથી બદામી થાય; દરેક હપ્તાને પહેલાં 2 મિનિટ ન હલાવો, પછી ફેરવી આશરે 4 મિનિટ વધુ રાંધો જેથી પાણી સુકાય અને ધાર ઘેરી થાય. બધા મશરૂમ કડાઈમાં પાછા નાખી લસણ અને થાઇમ 45 સેકંડ હલાવો.",
+        "તાપ મધ્યમ-ધીમો કરો. ક્રીમ, બાકીનું 10 ગ્રામ માખણ, 4 ગ્રામ મીઠું અને કાળા મરી નાખો. 2–3 મિનિટ ધીમે હલાવી સહેજ ઘટ્ટ કરો; જોરથી ઉકાળો નહીં, નહીં તો ક્રીમ ફાટી શકે. નિતારેલા ટાગ્લિયાતેલ્લે અને 80 મિલી સાચવેલું પાસ્તાનું પાણી ભેળવો. 1–2 મિનિટ ઉછાળો જેથી સુંવાળી સોસ દરેક પટ્ટા પર ચડે; ખૂબ ઘટ્ટ હોય તો થોડું થોડું પાસ્તાનું પાણી નાખો.",
+        "તાપ બંધ કરી સમારેલું પાર્સલી ભેળવો. ચાર ગરમ વાટકામાં વહેંચો અને શેકેલા મશરૂમ સરખા આપો. ઇચ્છા હોય તો થોડા વધુ કાળા મરી નાખી સોસ ચમકતી હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": ["તપાસેલા ફોટામાં પટ્ટાવાળા પાસ્તા પર પુષ્કળ દેખાતાં શેકેલા ભૂરા બટન મશરૂમ અને થાઇમ-પાર્સલીવાળી ફિક્કી ક્રીમ સોસ ચોંટેલી છે. ક્રીમ પહેલાં મશરૂમ શેકવાથી સોસ પાણીદાર કે રાખોડી થતી નથી. ચીઝ જરૂરી નથી."]
+    }
+  },
+  "reference": {"url": "https://www.coop.co.uk/recipes/creamy-mushroom-tagliatelle", "use": "Mushroom, cream and thyme tagliatelle pairing; measured method and wording independently authored for the reviewed image."}
+}
