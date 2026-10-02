@@ -9069,5 +9069,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "chilli-garlic-noodles": {
+    "name": "Chilli Garlic Noodles",
+    "src": "/photos/chilli-garlic-noodles-1200.webp",
+    "small": "/photos/chilli-garlic-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Chilli Garlic Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Chilli Garlic Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
