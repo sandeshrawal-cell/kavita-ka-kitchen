@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0127",
+  "id": "vegetarian-zhajiangmian",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Zhajiangmian",
+  "cuisine": "Chinese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "eggless thick wheat noodles", "qty": 440, "unit": "g"},
+    {"name": "water", "qty": 2200, "unit": "ml"},
+    {"name": "firm tofu", "qty": 250, "unit": "g"},
+    {"name": "shiitake mushrooms", "qty": 220, "unit": "g"},
+    {"name": "fermented yellow soybean paste", "qty": 90, "unit": "g"},
+    {"name": "vegetarian sweet bean sauce", "qty": 50, "unit": "g"},
+    {"name": "onion", "qty": 120, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "neutral oil", "qty": 35, "unit": "ml"},
+    {"name": "light soy sauce", "qty": 15, "unit": "ml"},
+    {"name": "sugar", "qty": 10, "unit": "g"},
+    {"name": "cucumber", "qty": 220, "unit": "g"},
+    {"name": "spring onion", "qty": 60, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the wheat noodles and both bean pastes contain no egg, meat or seafood. Pat the tofu dry and dice it into small 1 cm cubes. Finely chop the shiitake mushrooms and onion; mince garlic and ginger. Cut cucumber into thin matchsticks and slice spring onion, keeping both raw toppings chilled.",
+    "In a bowl, loosen the yellow soybean paste and sweet bean sauce with 100 ml of the measured water, soy sauce and sugar. Heat 20 ml oil in a wide pan over medium heat and cook onion for 3 minutes. Add mushrooms and cook 5–6 minutes until their moisture evaporates and edges brown; add garlic and ginger for the last minute.",
+    "Push the vegetables aside, add the remaining 15 ml oil and the tofu cubes, and brown them for 3 minutes without breaking them up. Pour in the bean-paste mixture and remaining 100 ml water. Stir well and simmer gently for 8–10 minutes until the sauce is thick, glossy and still spoonable, with visible mushroom and tofu pieces. Taste before adding any extra seasoning because the pastes are salty.",
+    "While the sauce simmers, bring the remaining 2000 ml water to a rolling boil. Cook the eggless noodles according to their packet until springy but tender; stir once early to prevent sticking. Drain well and divide among four warm bowls.",
+    "Spoon one quarter of the warm brown bean sauce over each bowl of noodles, then arrange a quarter of the cucumber and spring onion on each. Serve immediately so diners can mix the crisp raw vegetables into the hot noodles and sauce themselves."
+  ],
+  "tips": ["This is a vegetarian Chinese yellow-soybean-paste version with mushroom and tofu; the Korean dish Jajangmyeon uses a different, much darker chunjang sauce. If the paste is exceptionally salty, thin the finished sauce with a spoonful of noodle water. Keep the cucumber raw for contrast."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी झाजियांगमियान",
+      "ingredients": ["बिना अंडे के मोटे गेहूँ के नूडल्स", "पानी", "सख़्त टोफ़ू", "शिटाके मशरूम", "खमीरी पीली सोयाबीन पेस्ट", "शाकाहारी मीठी बीन सॉस", "प्याज़", "लहसुन", "अदरक", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "चीनी", "खीरा", "हरा प्याज़"],
+      "steps": [
+        "जाँचें कि गेहूँ नूडल्स और दोनों बीन पेस्ट में अंडा, मांस या समुद्री पदार्थ न हों। टोफ़ू थपथपाकर सुखाएँ और 1 सेमी के छोटे टुकड़ों में काटें। शिटाके मशरूम और प्याज़ बारीक, लहसुन और अदरक बहुत बारीक काटें। खीरे की पतली तीली और हरे प्याज़ के स्लाइस बनाकर दोनों कच्चे टॉपिंग ठंडे रखें।",
+        "एक कटोरे में पीली सोयाबीन पेस्ट और मीठी बीन सॉस को नापे हुए 100 मिली पानी, सोया सॉस और चीनी से पतला करें। चौड़े पैन में मध्यम आँच पर 20 मिली तेल गरम करके प्याज़ 3 मिनट पकाएँ। मशरूम डालकर 5–6 मिनट नमी सूखने और किनारे भूरे होने तक पकाएँ; आखिरी 1 मिनट लहसुन और अदरक डालें।",
+        "सब्ज़ियाँ एक ओर करें, बचा 15 मिली तेल और टोफ़ू डालकर 3 मिनट बिना तोड़े हल्का भूरा करें। बीन पेस्ट का मिश्रण और बचा 100 मिली पानी डालें। अच्छी तरह मिलाकर 8–10 मिनट धीमी आँच पर पकाएँ जब तक सॉस गाढ़ी, चमकदार और चम्मच से डालने लायक रहे तथा मशरूम-टोफ़ू के टुकड़े दिखें। अतिरिक्त नमक डालने से पहले चखें क्योंकि पेस्ट नमकीन हैं।",
+        "सॉस पकते समय बचा 2000 मिली पानी तेज़ उबालें। बिना अंडे के नूडल्स को पैकेट के अनुसार लचीले और नरम होने तक पकाएँ; चिपकने से रोकने के लिए शुरुआत में एक बार चलाएँ। अच्छी तरह छानकर चार गरम कटोरों में बाँटें।",
+        "हर कटोरे के नूडल्स पर गरम भूरी बीन सॉस का चौथाई भाग डालें, फिर खीरे और हरे प्याज़ का चौथाई भाग सजाएँ। तुरंत परोसें ताकि खाने वाले कच्ची कुरकुरी सब्ज़ियाँ खुद गरम नूडल्स और सॉस में मिला सकें।"
+      ],
+      "tips": ["यह मशरूम और टोफ़ू के साथ चीनी पीली सोयाबीन पेस्ट का शाकाहारी रूप है; कोरियाई जाजांगम्योन में अलग, अधिक काला चुंजांग सॉस होता है। पेस्ट बहुत नमकीन हो तो तैयार सॉस में थोड़ा नूडल पानी मिलाएँ। खीरा कच्चा रखें।"]
+    },
+    "gu": {
+      "name": "શાકાહારી ઝાજિયાંગમિયાન",
+      "ingredients": ["ઇંડા વગરના જાડા ઘઉંના નૂડલ્સ", "પાણી", "મજબૂત ટોફુ", "શિટાકે મશરૂમ", "આથેલી પીળી સોયાબીન પેસ્ટ", "શાકાહારી મીઠી બીન સોસ", "ડુંગળી", "લસણ", "આદુ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "ખાંડ", "કાકડી", "લીલી ડુંગળી"],
+      "steps": [
+        "ઘઉંના નૂડલ્સ અને બંને બીન પેસ્ટમાં ઇંડું, માંસ કે દરિયાઈ પદાર્થ ન હોય તે તપાસો. ટોફુ થપથપાવી સૂકવી 1 સેમીના નાના ટુકડા કરો. શિટાકે મશરૂમ અને ડુંગળી બારીક, લસણ અને આદુ ખૂબ બારીક સમારો. કાકડીની પાતળી સળીઓ અને લીલી ડુંગળીના કાપા બનાવી બંને કાચા ટોપિંગ ઠંડા રાખો.",
+        "વાટકામાં પીળી સોયાબીન પેસ્ટ અને મીઠી બીન સોસને માપેલા 100 મિલી પાણી, સોયા સોસ અને ખાંડથી પાતળાં કરો. પહોળી કડાઈમાં મધ્યમ તાપે 20 મિલી તેલ ગરમ કરી ડુંગળી 3 મિનિટ રાંધો. મશરૂમ નાખી 5–6 મિનિટ ભેજ ઊડી કિનારીઓ બદામી થાય ત્યાં સુધી રાંધો; છેલ્લી 1 મિનિટ લસણ અને આદુ ઉમેરો.",
+        "શાકને એક બાજુ ખસેડી બાકીનું 15 મિલી તેલ અને ટોફુ નાખી 3 મિનિટ તોડ્યા વગર બદામી કરો. બીન પેસ્ટનું મિશ્રણ અને બાકીનું 100 મિલી પાણી રેડો. સારી રીતે હલાવી 8–10 મિનિટ ધીમે તાપે રાંધો જેથી સોસ ઘટ્ટ, ચમકદાર અને ચમચીથી રેડી શકાય તેવો રહે તથા મશરૂમ-ટોફુના ટુકડા દેખાય. પેસ્ટ ખારી હોય છે એટલે વધારાનું મીઠું નાખતાં પહેલાં ચાખો.",
+        "સોસ રંધાય ત્યારે બાકીનું 2000 મિલી પાણી ઉકાળો. ઇંડા વગરના નૂડલ્સ પેકેટ મુજબ નરમ પણ લચીલા થાય ત્યાં સુધી રાંધો; ચોંટે નહીં તે માટે શરૂઆતમાં એક વાર હલાવો. સારી રીતે નિતારી ચાર ગરમ વાટકામાં વહેંચો.",
+        "દરેક વાટકાના નૂડલ્સ પર ગરમ બદામી બીન સોસનો ચોથો ભાગ નાખો, પછી કાકડી અને લીલી ડુંગળીનો ચોથો ભાગ ગોઠવો. તરત પીરસો જેથી જમનાર કાચા કરકરા શાકને ગરમ નૂડલ્સ અને સોસમાં જાતે ભેળવી શકે."
+      ],
+      "tips": ["આ મશરૂમ અને ટોફુવાળું ચાઇનીઝ પીળી સોયાબીન પેસ્ટનું શાકાહારી રૂપ છે; કોરિયન જાજાંગમ્યોનમાં જુદો, વધુ કાળો ચુનજાંગ સોસ હોય છે. પેસ્ટ ખૂબ ખારી હોય તો તૈયાર સોસમાં થોડું નૂડલ્સનું પાણી ભેળવો. કાકડી કાચી રાખો."]
+    }
+  },
+  "reference": {"url": "https://thewoksoflife.com/beijing-fried-sauce-noodles-zha-jiang-mian/", "use": "Beijing-style yellow-bean-paste noodle composition; all vegetarian ingredients, measures and wording independently authored."}
+}

@@ -8845,5 +8845,37 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "pan-fried-noodles": {
+    "name": "Pan-Fried Noodles",
+    "src": "/photos/pan-fried-noodles-1200.webp",
+    "small": "/photos/pan-fried-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pan-Fried Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Pan-Fried Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "vegetarian-zhajiangmian": {
+    "name": "Vegetarian Zhajiangmian",
+    "src": "/photos/vegetarian-zhajiangmian-1200.webp",
+    "small": "/photos/vegetarian-zhajiangmian-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Vegetarian Zhajiangmian served ready to eat",
+    "kind": "generated",
+    "title": "Vegetarian Zhajiangmian",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
