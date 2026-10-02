@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0141",
+  "id": "schezwan-noodles",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Schezwan Noodles",
+  "cuisine": "Indo-Chinese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless dry Hakka noodles", "qty": 360, "unit": "g"},
+    {"name": "water", "qty": 2200, "unit": "ml"},
+    {"name": "neutral oil", "qty": 35, "unit": "ml"},
+    {"name": "vegetarian Schezwan sauce", "qty": 80, "unit": "g"},
+    {"name": "garlic", "qty": 18, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "spring onions", "qty": 80, "unit": "g"},
+    {"name": "cabbage", "qty": 130, "unit": "g"},
+    {"name": "carrot", "qty": 100, "unit": "g"},
+    {"name": "red bell pepper", "qty": 100, "unit": "g"},
+    {"name": "green bell pepper", "qty": 80, "unit": "g"},
+    {"name": "light soy sauce", "qty": 15, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 10, "unit": "ml"},
+    {"name": "salt", "qty": 8, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the Hakka noodles contain no egg and the Schezwan sauce is vegetarian. Bring 2200 ml water and 6 g salt to a rolling boil. Cook the noodles to just tender according to the packet, usually 4–6 minutes. Drain, rinse briefly with cool water to stop cooking, and toss with 5 ml oil so the strands separate.",
+    "Mince garlic and ginger. Thinly shred cabbage, carrot and both bell peppers. Slice spring onions, keeping the white and green parts separate. Set the measured Schezwan sauce, soy sauce and vinegar beside the stove; stir-frying moves quickly.",
+    "Heat the remaining 30 ml oil in a wide wok over medium-high heat. Stir-fry the garlic, ginger and spring onion whites for 30 seconds without burning them. Add carrot, cabbage and peppers; toss briskly for 3–4 minutes until the edges soften while the vegetables still have colour and a little crunch.",
+    "Reduce heat to medium. Add the Schezwan sauce and soy sauce and stir for 30 seconds to distribute the chilli-garlic paste. Add noodles in two handfuls and toss for 1–2 minutes until evenly coated and hot. Add the vinegar and toss once more. Taste before adding up to the remaining 2 g salt; both prepared sauces may already be salty. If necessary, loosen with 15–30 ml hot water rather than making it soupy.",
+    "Turn off the heat and fold in the spring onion greens. Divide the vivid red noodles and vegetables evenly between four bowls and serve immediately, while the noodles are springy and the vegetables are still lightly crisp."
+  ],
+  "tips": ["The reviewed photo shows a spicy red Schezwan coating with cabbage, carrots, red and green pepper and spring onion. Schezwan sauce is the defining ingredient here; plain chilli garlic noodles are a separate dish. The finished noodles should be glossy and dry, with no pool of sauce."],
+  "translations": {
+    "hi": {
+      "name": "शेज़वान नूडल्स",
+      "ingredients": ["बिना अंडे के सूखे हक्का नूडल्स", "पानी", "साधारण तेल", "शाकाहारी शेज़वान सॉस", "लहसुन", "अदरक", "हरा प्याज़", "पत्ता गोभी", "गाजर", "लाल शिमला मिर्च", "हरी शिमला मिर्च", "हल्की सोया सॉस", "चावल का सिरका", "नमक"],
+      "steps": [
+        "जाँचें कि हक्का नूडल्स में अंडा न हो और शेज़वान सॉस शाकाहारी हो। 2200 मिली पानी और 6 ग्राम नमक तेज़ उबालें। पैकेट के अनुसार नूडल्स बस नरम होने तक, आमतौर पर 4–6 मिनट, पकाएँ। छानकर पकना रोकने के लिए थोड़ा ठंडा पानी डालें और 5 मिली तेल से मिलाएँ ताकि तार अलग रहें।",
+        "लहसुन और अदरक बारीक काटें। पत्ता गोभी, गाजर और दोनों शिमला मिर्च पतली काटें। हरे प्याज़ का सफेद और हरा भाग अलग करके काटें। नापी हुई शेज़वान सॉस, सोया सॉस और सिरका चूल्हे के पास रखें; तेज़ भूनते समय देर नहीं करनी चाहिए।",
+        "चौड़ी कड़ाही में बचा 30 मिली तेल मध्यम-तेज़ आँच पर गरम करें। लहसुन, अदरक और हरे प्याज़ का सफेद भाग 30 सेकंड बिना जलाए भूनें। गाजर, पत्ता गोभी और शिमला मिर्च डालकर 3–4 मिनट तेज़ी से पलटें; किनारे नरम हों लेकिन रंग और हल्का कुरकुरापन बना रहे।",
+        "आँच मध्यम करें। शेज़वान और सोया सॉस डालकर 30 सेकंड चलाएँ ताकि मिर्च-लहसुन का पेस्ट फैल जाए। नूडल्स दो हिस्सों में डालकर 1–2 मिनट गरम और समान रूप से लाल सॉस में लिपटने तक पलटें। सिरका डालकर फिर पलटें। बचा 2 ग्राम नमक डालने से पहले चखें; दोनों सॉस नमकीन हो सकती हैं। ज़रूरत हो तो 15–30 मिली गरम पानी डालें, डिश को तरल न करें।",
+        "आँच बंद करके हरे प्याज़ की पत्तियाँ मिलाएँ। लाल नूडल्स और सब्ज़ियाँ चार कटोरियों में बराबर बाँटें और तुरंत परोसें, जब नूडल्स लचीले और सब्ज़ियाँ हल्की कुरकुरी हों।"
+      ],
+      "tips": ["समीक्षित तस्वीर में पत्ता गोभी, गाजर, लाल-हरी शिमला मिर्च और हरे प्याज़ के साथ तीखी लाल शेज़वान परत है। शेज़वान सॉस इसका मुख्य स्वाद है; साधारण चिली गार्लिक नूडल्स अलग डिश हैं। नूडल्स चमकदार और सूखे रहें, नीचे सॉस इकट्ठी न हो।"]
+    },
+    "gu": {
+      "name": "શેઝવાન નૂડલ્સ",
+      "ingredients": ["ઇંડા વગરના સૂકા હક્કા નૂડલ્સ", "પાણી", "સાદું તેલ", "શાકાહારી શેઝવાન સોસ", "લસણ", "આદુ", "લીલી ડુંગળી", "કોબી", "ગાજર", "લાલ શિમલા મરચું", "લીલું શિમલા મરચું", "હળવી સોયા સોસ", "ચોખાનો સરકો", "મીઠું"],
+      "steps": [
+        "હક્કા નૂડલ્સમાં ઇંડું ન હોય અને શેઝવાન સોસ શાકાહારી હોય તે તપાસો. 2200 મિલી પાણી અને 6 ગ્રામ મીઠું જોરથી ઉકાળો. પેકેટ પ્રમાણે નૂડલ્સ માત્ર નરમ થાય ત્યાં સુધી, સામાન્ય રીતે 4–6 મિનિટ, રાંધો. નિતારી રાંધવાનું અટકાવવા સહેજ ઠંડું પાણી ફેરવો અને 5 મિલી તેલ ભેળવો જેથી તાર છૂટા રહે.",
+        "લસણ અને આદુ બારીક સમારો. કોબી, ગાજર અને બંને શિમલા મરચાં પાતળાં કાપો. લીલી ડુંગળીના સફેદ અને લીલા ભાગ અલગ સમારો. માપેલી શેઝવાન સોસ, સોયા સોસ અને સરકો ચૂલાની બાજુમાં રાખો; ઝડપથી સાંતળવામાં વિલંબ ન થવો જોઈએ.",
+        "પહોળી કડાઈમાં બાકીનું 30 મિલી તેલ મધ્યમ-તેજ તાપે ગરમ કરો. લસણ, આદુ અને લીલી ડુંગળીનો સફેદ ભાગ 30 સેકંડ બળે નહીં એમ સાંતળો. ગાજર, કોબી અને શિમલા મરચાં નાખી 3–4 મિનિટ ઝડપથી ઉછાળો; ધાર નરમ થાય પણ રંગ અને સહેજ કરકરાપણું રહે.",
+        "તાપ મધ્યમ કરો. શેઝવાન અને સોયા સોસ નાખી 30 સેકંડ હલાવો જેથી મરચાં-લસણની પેસ્ટ ફેલાય. નૂડલ્સ બે હપ્તામાં નાખી 1–2 મિનિટ ગરમ અને સરખી લાલ સોસથી ઢંકાય ત્યાં સુધી ઉછાળો. સરકો નાખીને ફરી ઉછાળો. બાકીનું 2 ગ્રામ મીઠું નાખતાં પહેલાં ચાખો; બંને સોસ પહેલેથી ખારી હોઈ શકે. જરૂર હોય તો 15–30 મિલી ગરમ પાણી નાખો, વાનગી રસાવાળી ન કરો.",
+        "તાપ બંધ કરી લીલી ડુંગળીનો લીલો ભાગ ભેળવો. લાલ નૂડલ્સ અને શાક ચાર વાટકામાં સરખાં વહેંચી તરત પીરસો, જ્યારે નૂડલ્સ લચીલાં અને શાક સહેજ કરકરાં હોય."
+      ],
+      "tips": ["તપાસેલા ફોટામાં કોબી, ગાજર, લાલ-લીલાં શિમલા મરચાં અને લીલી ડુંગળી સાથે તીખી લાલ શેઝવાનની પરત છે. શેઝવાન સોસ આ વાનગીનો મુખ્ય સ્વાદ છે; સાદા ચિલી ગાર્લિક નૂડલ્સ અલગ છે. નૂડલ્સ ચમકતા અને સૂકા રહે, નીચે સોસ ભેગી ન થાય."]
+    }
+  },
+  "reference": {"url": "https://www.vegrecipesofindia.com/schezwan-noodles-recipe/", "use": "Vegetarian Schezwan noodle composition and technique; measured method and wording independently authored to match the reviewed photo."}
+}

@@ -9085,5 +9085,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "schezwan-noodles": {
+    "name": "Schezwan Noodles",
+    "src": "/photos/schezwan-noodles-1200.webp",
+    "small": "/photos/schezwan-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Schezwan Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Schezwan Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
