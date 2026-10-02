@@ -9037,5 +9037,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "spaghetti-aglio-e-olio": {
+    "name": "Spaghetti Aglio e Olio",
+    "src": "/photos/spaghetti-aglio-e-olio-1200.webp",
+    "small": "/photos/spaghetti-aglio-e-olio-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Spaghetti Aglio e Olio served ready to eat",
+    "kind": "generated",
+    "title": "Spaghetti Aglio e Olio",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
