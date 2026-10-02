@@ -1,0 +1,54 @@
+{
+  "sourceReviewId": "R0143",
+  "id": "spaghetti-pomodoro",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Spaghetti Pomodoro",
+  "cuisine": "Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless dry spaghetti", "qty": 400, "unit": "g"},
+    {"name": "water", "qty": 2500, "unit": "ml"},
+    {"name": "ripe tomatoes", "qty": 900, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 50, "unit": "ml"},
+    {"name": "garlic", "qty": 20, "unit": "g"},
+    {"name": "fresh basil leaves", "qty": 25, "unit": "g"},
+    {"name": "salt", "qty": 14, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the dry spaghetti is eggless. Score a shallow cross on each tomato base. Dip the tomatoes into boiling water for 45–60 seconds, then into cool water; peel and chop them, removing hard cores. Peel and lightly crush the garlic cloves. Tear the basil leaves by hand and keep a few for serving.",
+    "Warm 40 ml olive oil and the crushed garlic in a wide pan over low heat for 2–3 minutes until fragrant but not brown. Add the chopped tomatoes and 4 g salt. Simmer uncovered for 15–20 minutes, stirring and pressing the tomatoes, until they collapse into a bright sauce that lightly holds on a spoon. Remove the garlic if you prefer a smooth sauce.",
+    "While the sauce simmers, boil 2500 ml water with 10 g salt. Cook the spaghetti to about 1 minute less than the packet's al dente time. Before draining, reserve 200 ml cloudy pasta water. Transfer the pasta directly into the tomato pan; do not rinse.",
+    "Add 80 ml reserved pasta water and toss the spaghetti with the sauce over medium heat for 1–2 minutes. Add a little more water only if needed so the tomato and olive oil form a glossy coating rather than a pool. Turn off the heat and fold in most of the torn basil and the remaining 10 ml olive oil.",
+    "Taste and adjust only if needed; the salted pasta water is already seasoned. Divide into four warm bowls, distribute the tomato sauce evenly, top with the remaining basil and serve immediately."
+  ],
+  "tips": ["The reviewed photo shows simple red tomato-coated spaghetti with basil and no cheese. Ripe tomatoes, gentle garlic and a final toss with starchy pasta water provide the fresh pomodoro flavour and sheen. If the tomatoes are watery, reduce the sauce before adding pasta."],
+  "translations": {
+    "hi": {
+      "name": "स्पेगेटी पोमोडोरो",
+      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "पानी", "पके टमाटर", "एक्स्ट्रा-वर्जिन जैतून तेल", "लहसुन", "ताज़ी बेसिल पत्तियाँ", "नमक"],
+      "steps": [
+        "जाँचें कि सूखी स्पेगेटी बिना अंडे की हो। हर टमाटर के नीचे हल्का क्रॉस काटें। टमाटर को 45–60 सेकंड उबलते पानी में, फिर ठंडे पानी में डालें; छिलका उतारकर काटें और सख्त डंठल वाला भाग हटाएँ। लहसुन छीलकर हल्का कूटें। बेसिल पत्तियाँ हाथ से तोड़ें और कुछ सजाने के लिए रखें।",
+        "चौड़े पैन में 40 मिली जैतून तेल और कुटा लहसुन धीमी आँच पर 2–3 मिनट महक आने तक गरम करें, भूरा न करें। कटे टमाटर और 4 ग्राम नमक डालें। बिना ढके 15–20 मिनट पकाएँ, चलाते और दबाते रहें, जब तक चमकीली सॉस चम्मच पर हल्की टिके। चिकनी सॉस चाहिए तो लहसुन निकाल दें।",
+        "सॉस पकते समय 2500 मिली पानी में 10 ग्राम नमक डालकर उबालें। स्पेगेटी पैकेट के अल दंते समय से लगभग 1 मिनट कम पकाएँ। छानने से पहले 200 मिली धुंधला पास्ता पानी बचाएँ। पास्ता सीधे टमाटर वाले पैन में डालें; धोएँ नहीं।",
+        "80 मिली बचा पास्ता पानी डालकर स्पेगेटी को सॉस में मध्यम आँच पर 1–2 मिनट पलटें। ज़रूरत पर थोड़ा और पानी डालें ताकि टमाटर और जैतून तेल चमकदार परत बनाएँ, नीचे तरल जमा न हो। आँच बंद करके अधिकतर तोड़ी बेसिल पत्तियाँ और बचा 10 मिली जैतून तेल मिलाएँ।",
+        "चखकर ज़रूरत हो तभी मसाला ठीक करें; नमकीन पास्ता पानी से स्वाद पहले ही आया है। चार गरम कटोरियों में बाँटें, टमाटर सॉस बराबर दें, बची बेसिल पत्तियाँ ऊपर रखें और तुरंत परोसें।"
+      ],
+      "tips": ["समीक्षित तस्वीर में बेसिल के साथ साधारण लाल टमाटर वाली स्पेगेटी है, चीज़ नहीं। पके टमाटर, धीरे पका लहसुन और स्टार्च वाले पास्ता पानी में अंत में पलटने से ताज़ा स्वाद और चमक मिलती है। टमाटर अधिक पानी छोड़ें तो पास्ता डालने से पहले सॉस गाढ़ी करें।"]
+    },
+    "gu": {
+      "name": "સ્પાઘેટી પોમોડોરો",
+      "ingredients": ["ઇંડા વગરની સૂકી સ્પાઘેટી", "પાણી", "પાકાં ટામેટાં", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "લસણ", "તાજાં બેસિલ પાન", "મીઠું"],
+      "steps": [
+        "સૂકી સ્પાઘેટીમાં ઇંડું ન હોય તે તપાસો. દરેક ટામેટાંના તળિયે છીછરો ક્રોસ કાપો. ટામેટાંને 45–60 સેકંડ ઉકળતા પાણીમાં, પછી ઠંડા પાણીમાં મૂકો; છાલ ઉતારી સમારો અને કઠણ ડીંટાવાળો ભાગ કાઢો. લસણ છોલી સહેજ ખાંડો. બેસિલનાં પાન હાથથી તોડો અને થોડાં ઉપર મૂકવા રાખો.",
+        "પહોળી કડાઈમાં 40 મિલી ઓલિવ તેલ અને ખાંડેલું લસણ ધીમા તાપે 2–3 મિનિટ સુગંધ આવે ત્યાં સુધી ગરમ કરો, બદામી ન કરો. સમારેલા ટામેટાં અને 4 ગ્રામ મીઠું નાખો. ઢાંક્યા વગર 15–20 મિનિટ હલાવતા અને ટામેટાં દબાવતા રાંધો જેથી ચમકતી સોસ ચમચા પર સહેજ ચોંટે. સુંવાળી સોસ જોઈએ તો લસણ કાઢો.",
+        "સોસ રંધાય ત્યારે 2500 મિલી પાણીમાં 10 ગ્રામ મીઠું નાખી ઉકાળો. સ્પાઘેટી પેકેટના અલ દંતે સમય કરતાં આશરે 1 મિનિટ ઓછી રાંધો. નિતારતાં પહેલાં 200 મિલી ધૂંધળું પાસ્તાનું પાણી સાચવો. પાસ્તા સીધા ટામેટાંવાળી કડાઈમાં નાખો; ધોશો નહીં.",
+        "80 મિલી સાચવેલું પાસ્તાનું પાણી નાખી સ્પાઘેટીને સોસમાં મધ્યમ તાપે 1–2 મિનિટ ઉછાળો. જરૂર હોય તો થોડું વધુ પાણી નાખો જેથી ટામેટાં અને ઓલિવ તેલ ચમકદાર પડ બનાવે, નીચે રસ ભેગો ન થાય. તાપ બંધ કરી મોટા ભાગનાં તોડેલાં બેસિલ પાન અને બાકીનું 10 મિલી ઓલિવ તેલ ભેળવો.",
+        "ચાખીને જરૂર હોય તો જ સ્વાદ ગોઠવો; મીઠાવાળા પાસ્તાના પાણીથી સ્વાદ આવી ગયો છે. ચાર ગરમ વાટકામાં વહેંચો, ટામેટાંની સોસ સરખી આપો, બાકીનું બેસિલ ઉપર મૂકો અને તરત પીરસો."
+      ],
+      "tips": ["તપાસેલા ફોટામાં બેસિલ સાથે સાદી લાલ ટામેટાંવાળી સ્પાઘેટી છે, ચીઝ નથી. પાકાં ટામેટાં, ધીમે રાંધેલું લસણ અને સ્ટાર્ચવાળા પાસ્તાના પાણીમાં છેલ્લે ઉછાળવાથી તાજો સ્વાદ અને ચમક મળે છે. ટામેટાં પાણી વધારે છોડે તો પાસ્તા ઉમેરતાં પહેલાં સોસ ઘટ્ટ કરો."]
+    }
+  },
+  "reference": {"url": "https://www.eataly.com/us_en/magazine/recipes/pasta-recipes/spaghetti-al-pomodoro", "use": "Italian tomato, basil and olive-oil composition; measured method and wording independently authored to match the reviewed photo."}
+}

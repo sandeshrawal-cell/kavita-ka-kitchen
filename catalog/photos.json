@@ -9117,5 +9117,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "spaghetti-pomodoro": {
+    "name": "Spaghetti Pomodoro",
+    "src": "/photos/spaghetti-pomodoro-1200.webp",
+    "small": "/photos/spaghetti-pomodoro-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Spaghetti Pomodoro served ready to eat",
+    "kind": "generated",
+    "title": "Spaghetti Pomodoro",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
