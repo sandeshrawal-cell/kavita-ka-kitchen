@@ -54,11 +54,11 @@
     },
     {
       "id": "gnocchi-gorgonzola",
-      "name": "Gnocchi Gorgonzola",
+      "name": "Vegetarian Blue-Cheese Gnocchi",
       "sourceReviewId": "R0107",
       "sourceRow": 108,
-      "status": "reviewed-photo-vegetarian-name-adaptation-needed",
-      "note": "Gorgonzola PDO specifies calf rennet. Use a clearly named vegetarian blue-cheese adaptation or replace this candidate; do not publish under the protected cheese name with a substitute.",
+      "status": "draft-recipe-translations-and-photo-ready",
+      "note": "The source entry is Gnocchi Gorgonzola. This adaptation uses vegetarian blue cheese and is named accordingly; it does not claim to contain protected Gorgonzola.",
       "matches": []
     },
     {
@@ -119,11 +119,11 @@
     },
     {
       "id": "focaccia-di-recco",
-      "name": "Focaccia di Recco",
+      "name": "Ligurian Cheese Focaccia",
       "sourceReviewId": "R0115",
       "sourceRow": 116,
-      "status": "reviewed-photo-protected-name-adaptation-needed",
-      "note": "The full product name Focaccia di Recco col formaggio is an EU protected geographical indication. Publish only with an accurately labelled Recco-style cheese focaccia adaptation, or replace the candidate; do not imply IGP certification.",
+      "status": "draft-recipe-translations-and-photo-ready",
+      "note": "The source entry is Focaccia di Recco. This vegetarian home adaptation is named Ligurian Cheese Focaccia and makes no protected geographical certification claim.",
       "matches": []
     },
     {
@@ -147,7 +147,7 @@
       "name": "Kibbeh Batata",
       "sourceReviewId": "R0118",
       "sourceRow": 119,
-      "status": "recipe-needed",
+      "status": "reviewed-photo-ready-recipe-needed",
       "matches": []
     },
     {
@@ -155,7 +155,7 @@
       "name": "Homity Pie",
       "sourceReviewId": "R0119",
       "sourceRow": 120,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -163,7 +163,7 @@
       "name": "Lobiani",
       "sourceReviewId": "R0120",
       "sourceRow": 121,
-      "status": "recipe-needed",
+      "status": "reviewed-photo-ready-recipe-needed",
       "matches": []
     },
     {
@@ -171,7 +171,7 @@
       "name": "Jamaican Vegetable Patty",
       "sourceReviewId": "R0121",
       "sourceRow": 122,
-      "status": "recipe-needed",
+      "status": "reviewed-photo-ready-recipe-needed",
       "matches": []
     },
     {

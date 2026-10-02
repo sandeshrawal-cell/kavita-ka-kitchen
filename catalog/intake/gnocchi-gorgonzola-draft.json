@@ -1,0 +1,63 @@
+{
+  "sourceReviewId": "R0107",
+  "id": "gnocchi-gorgonzola",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Blue-Cheese Gnocchi",
+  "cuisine": "Italian-inspired",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "passiveTime": "15 minutes cooling the potatoes",
+  "ingredients": [
+    {"name": "starchy potatoes", "qty": 900, "unit": "g"},
+    {"name": "plain wheat flour", "qty": 250, "unit": "g"},
+    {"name": "salt", "qty": 11, "unit": "g"},
+    {"name": "vegetarian blue cheese", "qty": 160, "unit": "g"},
+    {"name": "heavy cream", "qty": 180, "unit": "ml"},
+    {"name": "whole milk", "qty": 80, "unit": "ml"},
+    {"name": "butter", "qty": 20, "unit": "g"},
+    {"name": "walnuts", "qty": 60, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "water", "qty": 5000, "unit": "ml"}
+  ],
+  "steps": [
+    "Boil the whole potatoes in 2000 ml of the measured water for 25–35 minutes, until a knife slides through the centre. Drain, peel while warm and pass through a potato ricer or mash completely smooth. Spread the potato on a tray for 15 minutes so steam escapes; wet potato makes heavy gnocchi.",
+    "Sprinkle the flour and 5 g salt over the cooled potato. Bring together gently into a soft dough without prolonged kneading. Divide into four pieces, roll each into a rope about 2 cm thick and cut into 2-cm pillows. Dust lightly with flour from the measured amount and mark with a fork if desired.",
+    "Toast the walnuts in a dry pan over medium-low heat for 3–4 minutes, stirring until fragrant. Cool and roughly chop. Check the blue cheese label for microbial or vegetable rennet; crumble it. This vegetarian cheese gives the sauce its blue-cheese flavour without using protected Gorgonzola.",
+    "Bring the remaining 3000 ml water to a gentle boil with 5 g salt. Cook gnocchi in batches; once they float, simmer 1 minute more, then lift with a slotted spoon. Reserve 150 ml cooking water. Do not boil the tender gnocchi vigorously or stir roughly.",
+    "While the gnocchi cook, warm the butter, cream and milk in a wide pan over low heat. Add the crumbled vegetarian blue cheese and stir 2–3 minutes until melted and smooth; do not let the sauce boil. Add a little reserved gnocchi water if it is too thick to coat a spoon.",
+    "Gently fold the drained gnocchi into the sauce for 1 minute. Taste before adding the remaining 1 g salt because blue cheeses differ in saltiness. Divide among four warm bowls, top with toasted walnuts and black pepper, and serve immediately while creamy."
+  ],
+  "tips": ["Use a blue cheese explicitly labelled vegetarian; traditional protected Gorgonzola is made with calf rennet and is not used here. Flour needs vary with potato moisture, so keep the dough soft and handle it minimally. Toasted walnuts add crunch but can be omitted for a nut-free household."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी ब्लू-चीज़ न्योकी",
+      "passiveTime": "आलू ठंडे करने के लिए 15 मिनट",
+      "ingredients": ["स्टार्च वाले आलू", "मैदा", "नमक", "शाकाहारी ब्लू चीज़", "गाढ़ी क्रीम", "फुल-क्रीम दूध", "मक्खन", "अखरोट", "काली मिर्च", "पानी"],
+      "steps": [
+        "साबुत आलू को नापे हुए 2000 मिली पानी में 25–35 मिनट उबालें, जब तक चाकू बीच तक आसानी से जाए। छानें, गरम रहते छीलें और आलू दबाने वाले उपकरण से या पूरी तरह चिकने मैश करें। 15 मिनट ट्रे पर फैलाकर भाप निकलने दें; गीले आलू से न्योकी भारी बनती है।",
+        "ठंडे आलू पर मैदा और 5 ग्राम नमक छिड़कें। अधिक गूँधे बिना हल्की मुलायम लोई बनाएँ। चार भाग करें, हर भाग की लगभग 2-सेमी मोटी रस्सी बनाएँ और 2-सेमी तकिए जैसे टुकड़े काटें। नापे हुए मैदे में से थोड़ा छिड़कें और चाहें तो काँटे से निशान बनाएँ।",
+        "अखरोट सूखे पैन में मध्यम-धीमी आँच पर 3–4 मिनट सुगंध आने तक हिलाते हुए सेंकें। ठंडे करके मोटा काटें। ब्लू चीज़ के लेबल पर माइक्रोबियल या वनस्पति रेनेट देखें; चीज़ तोड़ें। यह शाकाहारी चीज़ संरक्षित गॉर्गोन्ज़ोला इस्तेमाल किए बिना सॉस को ब्लू-चीज़ स्वाद देता है।",
+        "बचा 3000 मिली पानी 5 ग्राम नमक के साथ हल्के उबाल पर लाएँ। न्योकी थोड़ी-थोड़ी पकाएँ; ऊपर तैरने के बाद 1 मिनट और धीमे उबालें, फिर छेद वाले चम्मच से निकालें। 150 मिली पकाने का पानी बचाएँ। नरम न्योकी को तेज़ न उबालें और न ज़ोर से हिलाएँ।",
+        "न्योकी पकते समय चौड़े पैन में मक्खन, क्रीम और दूध धीमी आँच पर गरम करें। टूटा शाकाहारी ब्लू चीज़ डालकर 2–3 मिनट चिकना पिघलने तक हिलाएँ; सॉस न उबालें। चम्मच को ढकने लायक ढीला करने के लिए ज़रूरत हो तो थोड़ा बचा न्योकी पानी डालें।",
+        "छानी न्योकी को सॉस में 1 मिनट हल्के हाथ से मिलाएँ। बचा 1 ग्राम नमक डालने से पहले चखें क्योंकि ब्लू चीज़ की नमकीनता बदलती है। चार गरम बाउल में बाँटें, ऊपर सेंके अखरोट और काली मिर्च डालें और मलाईदार रहते तुरंत परोसें।"
+      ],
+      "tips": ["साफ़ शाकाहारी लेबल वाला ब्लू चीज़ लें; पारंपरिक संरक्षित गॉर्गोन्ज़ोला बछड़े के रेनेट से बनता है और यहाँ इस्तेमाल नहीं होता। आलू की नमी के अनुसार मैदा बदलता है, इसलिए लोई मुलायम रखें और कम गूँधें। सेंके अखरोट कुरकुरापन देते हैं; नट-फ्री घर के लिए हटा सकते हैं।"]
+    },
+    "gu": {
+      "name": "શાકાહારી બ્લૂ-ચીઝ ન્યોકી",
+      "passiveTime": "બટાકા ઠંડા કરવા માટે 15 મિનિટ",
+      "ingredients": ["વધુ સ્ટાર્ચવાળા બટાકા", "મેંદો", "મીઠું", "શાકાહારી બ્લૂ ચીઝ", "ઘાટી ક્રીમ", "ફુલ-ક્રીમ દૂધ", "માખણ", "અખરોટ", "કાળી મરી", "પાણી"],
+      "steps": [
+        "આખા બટાકા માપેલા 2000 મિલી પાણીમાં મૂકી 25–35 મિનિટ ઉકાળો, જ્યાં સુધી છરી વચ્ચે સહેલાઈથી જાય. નિતારી, ગરમ હોય ત્યારે છોલી પોટેટો રાઇસરથી અથવા એકદમ લીસા મસળો. 15 મિનિટ ટ્રે પર પાથરી વરાળ નીકળવા દો; ભીના બટાકાથી ન્યોકી ભારે બને છે.",
+        "ઠંડા બટાકા પર મેંદો અને 5 ગ્રામ મીઠું છાંટો. વધુ મસળ્યા વગર નરમ લોટ ભેગો કરો. ચાર ભાગ કરો, દરેકનો લગભગ 2-સેમી જાડો રોલ બનાવો અને 2-સેમીના ગાદલા જેવા ટુકડા કાપો. માપેલા મેંદામાંથી થોડું છાંટો અને ઇચ્છા હોય તો કાંટાથી નિશાન પાડો.",
+        "અખરોટ સૂકી કડાઈમાં મધ્યમથી ધીમા તાપે 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી હલાવતા શેકો. ઠંડા કરીને મોટા સમારો. બ્લૂ ચીઝના લેબલ પર માઇક્રોબિયલ કે વનસ્પતિ રેનેટ છે તેની ખાતરી કરો; ચીઝના ટુકડા કરો. આ શાકાહારી ચીઝ સંરક્ષિત ગોર્ગોન્ઝોલા વાપર્યા વગર સોસને બ્લૂ-ચીઝ સ્વાદ આપે છે.",
+        "બાકીનું 3000 મિલી પાણી 5 ગ્રામ મીઠા સાથે હળવા ઉકળે ત્યાં સુધી ગરમ કરો. ન્યોકીને થોડા-થોડા રાંધો; ઉપર તરવા લાગે પછી વધુ 1 મિનિટ ધીમે ઉકાળો, પછી કાણાવાળા ચમચાથી કાઢો. 150 મિલી રાંધવાનું પાણી સાચવો. નરમ ન્યોકીને તેજ ઉકાળો કે જોરથી હલાવો નહીં.",
+        "ન્યોકી રંધાય ત્યારે પહોળી કડાઈમાં માખણ, ક્રીમ અને દૂધ ધીમા તાપે ગરમ કરો. તોડેલું શાકાહારી બ્લૂ ચીઝ નાખીને 2–3 મિનિટ લીસું પીગળે ત્યાં સુધી હલાવો; સોસ ઉકાળો નહીં. ચમચીને આવરી લે એટલું ઢીલું કરવા જરૂર હોય તો થોડું સાચવેલું ન્યોકીનું પાણી નાખો.",
+        "નિતારેલી ન્યોકીને સોસમાં 1 મિનિટ હળવે ભેળવો. બાકીનું 1 ગ્રામ મીઠું ઉમેરતાં પહેલાં ચાખો, કારણ કે બ્લૂ ચીઝની ખારાશ બદલાય છે. ચાર ગરમ વાટકામાં વહેંચો, ઉપર શેકેલા અખરોટ અને કાળી મરી નાખીને ક્રીમી હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": ["સ્પષ્ટ શાકાહારી લેબલવાળું બ્લૂ ચીઝ લો; પરંપરાગત સંરક્ષિત ગોર્ગોન્ઝોલા વાછરડાના રેનેટથી બને છે અને અહીં વપરાતું નથી. બટાકાના ભેજ પ્રમાણે મેંદો બદલાય છે, તેથી લોટ નરમ રાખો અને ઓછો મસળો. શેકેલા અખરોટ કરકરાપણું આપે છે; નટ-ફ્રી ઘરમાં કાઢી શકાય."]
+    }
+  },
+  "reference": {"url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52016XC0527%2802%29", "use": "Protected Gorgonzola specification used to avoid animal rennet and choose a clearly named vegetarian blue-cheese adaptation; gnocchi and sauce instructions independently authored."}
+}
