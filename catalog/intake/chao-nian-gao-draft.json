@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0131",
+  "id": "chao-nian-gao",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Chao Nian Gao",
+  "cuisine": "Chinese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "fresh sliced oval Chinese rice cakes", "qty": 600, "unit": "g"},
+    {"name": "napa cabbage", "qty": 300, "unit": "g"},
+    {"name": "baby bok choy", "qty": 200, "unit": "g"},
+    {"name": "shiitake mushrooms", "qty": 180, "unit": "g"},
+    {"name": "carrots", "qty": 120, "unit": "g"},
+    {"name": "spring onion", "qty": 60, "unit": "g"},
+    {"name": "garlic", "qty": 15, "unit": "g"},
+    {"name": "neutral oil", "qty": 45, "unit": "ml"},
+    {"name": "water", "qty": 180, "unit": "ml"},
+    {"name": "light soy sauce", "qty": 40, "unit": "ml"},
+    {"name": "vegetarian mushroom stir-fry sauce", "qty": 25, "unit": "g"},
+    {"name": "toasted sesame oil", "qty": 10, "unit": "ml"},
+    {"name": "sugar", "qty": 5, "unit": "g"},
+    {"name": "white pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Check the oval rice cakes and mushroom sauce are vegetarian. Separate the fresh rice-cake slices gently with your fingers and rinse briefly; drain well. Cut napa cabbage into bite-size strips and quarter the baby bok choy, washing between its leaves. Slice the shiitake mushrooms, cut carrot into thin matchsticks, chop garlic and cut spring onion into short pieces.",
+    "Whisk soy sauce, vegetarian mushroom sauce, sugar, white pepper and sesame oil in a small bowl. Heat 25 ml neutral oil in a wide wok or deep pan over medium-high heat. Add mushrooms and carrot and stir-fry for 3 minutes until the mushrooms start to brown; add garlic and the pale parts of spring onion for 30 seconds.",
+    "Add napa cabbage and bok choy stems with the remaining 20 ml oil. Stir-fry 2 minutes until slightly softened, then fold in the bok choy leaves. Spread the vegetables into an even bed and place the drained oval rice cakes over them rather than directly on the hot pan, so the cakes do not stick.",
+    "Pour the measured 180 ml water around the pan, cover and steam over medium heat for 2–3 minutes. Uncover and gently lift the rice cakes apart with a spatula. They should be soft and chewy, not hard in the middle; if necessary, cover for another minute using the liquid already in the pan.",
+    "Pour in the soy-mushroom sauce and stir-fry gently for 1–2 minutes until the liquid reduces to a thin glossy coating on the rice cakes and vegetables. Scatter over the green spring-onion pieces, divide into four warm plates and serve immediately."
+  ],
+  "tips": ["These are thin oval Chinese rice-cake slices, distinct from the short cylindrical Korean cakes in Rabokki. Fresh or refrigerated slices need only brief steaming; dried cakes require the soaking instructions on their packet. Use a mushroom-based vegetarian sauce, never oyster sauce."],
+  "translations": {
+    "hi": {
+      "name": "चाओ नियान गाओ",
+      "ingredients": ["ताज़े अंडाकार कटे चीनी राइस केक", "नापा पत्तागोभी", "बेबी बोक चॉय", "शिटाके मशरूम", "गाजर", "हरा प्याज़", "लहसुन", "बिना तेज़ स्वाद वाला तेल", "पानी", "हल्का सोया सॉस", "शाकाहारी मशरूम स्टिर-फ्राई सॉस", "भुने तिल का तेल", "चीनी", "सफ़ेद मिर्च"],
+      "steps": [
+        "जाँचें कि अंडाकार राइस केक और मशरूम सॉस शाकाहारी हों। ताज़े राइस केक के स्लाइस उँगलियों से धीरे अलग करके जल्दी धोएँ और अच्छी तरह छानें। नापा पत्तागोभी खाने लायक पट्टियों में काटें और बेबी बोक चॉय चौथाई करें, पत्तों के बीच धोएँ। शिटाके मशरूम के स्लाइस, गाजर की पतली तीली, लहसुन बारीक और हरा प्याज़ छोटे टुकड़ों में काटें।",
+        "छोटे कटोरे में सोया सॉस, शाकाहारी मशरूम सॉस, चीनी, सफ़ेद मिर्च और तिल का तेल फेंटें। चौड़ी कड़ाही या गहरे पैन में मध्यम-तेज़ आँच पर 25 मिली साधारण तेल गरम करें। मशरूम और गाजर 3 मिनट चलाकर पकाएँ जब तक मशरूम भूरा होने लगे; लहसुन और हरे प्याज़ का सफ़ेद भाग 30 सेकंड पकाएँ।",
+        "नापा पत्तागोभी और बोक चॉय के डंठल बचा 20 मिली तेल डालकर 2 मिनट हल्के नरम होने तक भूनें, फिर पत्ते मिलाएँ। सब्ज़ियाँ पैन में एक समान परत में फैलाएँ और छाने हुए अंडाकार राइस केक उनके ऊपर रखें, सीधे गरम पैन पर नहीं, ताकि वे चिपकें नहीं।",
+        "नापा हुआ 180 मिली पानी पैन के किनारे डालें, ढककर मध्यम आँच पर 2–3 मिनट भाप में पकाएँ। खोलकर चपटे चम्मच से राइस केक हल्के हाथ से अलग करें। वे नरम और चबाने लायक हों, बीच से सख़्त नहीं; ज़रूरत हो तो पैन में मौजूद तरल से ही 1 मिनट और ढककर पकाएँ।",
+        "सोया-मशरूम सॉस डालकर 1–2 मिनट हल्के हाथ से भूनें जब तक तरल घटकर राइस केक और सब्ज़ियों पर पतली चमकदार परत बन जाए। हरे प्याज़ का हरा भाग ऊपर डालें, चार गरम प्लेटों में बाँटें और तुरंत परोसें।"
+      ],
+      "tips": ["ये पतले अंडाकार चीनी राइस केक हैं, राबोक्की के छोटे बेलनाकार कोरियाई केक से अलग। ताज़े या फ़्रिज में रखे स्लाइस को थोड़ी भाप चाहिए; सूखे केक को पैकेट के अनुसार भिगोएँ। मशरूम से बना शाकाहारी सॉस लें, ऑयस्टर सॉस कभी नहीं।"]
+    },
+    "gu": {
+      "name": "ચાઓ નિયાન ગાઓ",
+      "ingredients": ["તાજા પાતળા અંડાકાર ચાઇનીઝ રાઇસ કેક", "નાપા કોબી", "બેબી બોક ચોય", "શિટાકે મશરૂમ", "ગાજર", "લીલી ડુંગળી", "લસણ", "તટસ્થ સ્વાદનું તેલ", "પાણી", "હળવો સોયા સોસ", "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ", "શેકેલા તલનું તેલ", "ખાંડ", "સફેદ મરી"],
+      "steps": [
+        "અંડાકાર રાઇસ કેક અને મશરૂમ સોસ શાકાહારી હોય તે તપાસો. તાજા રાઇસ કેકના કાપા આંગળીઓથી ધીમે છૂટા પાડી ઝડપથી ધોઈ સારી રીતે નિતારો. નાપા કોબી ખાવા જેવી પટ્ટીમાં કાપો અને બેબી બોક ચોયના ચાર ભાગ કરી પાનની વચ્ચે ધોવો. શિટાકે મશરૂમની સ્લાઇસ, ગાજરની પાતળી સળીઓ, લસણ બારીક અને લીલી ડુંગળી નાના ટુકડામાં કાપો.",
+        "નાના વાટકામાં સોયા સોસ, શાકાહારી મશરૂમ સોસ, ખાંડ, સફેદ મરી અને તલનું તેલ ફેંટો. પહોળી કડાઈમાં મધ્યમ-ઊંચા તાપે 25 મિલી સાદું તેલ ગરમ કરો. મશરૂમ અને ગાજર 3 મિનિટ હલાવી શેકો જ્યાં સુધી મશરૂમ બદામી થવા લાગે; લસણ અને લીલી ડુંગળીનો સફેદ ભાગ 30 સેકંડ રાંધો.",
+        "નાપા કોબી અને બોક ચોયના દાંડા બાકીનું 20 મિલી તેલ નાખીને 2 મિનિટ સહેજ નરમ થાય ત્યાં સુધી શેકો, પછી પાન ભેળવો. શાક કડાઈમાં સરખા પડમાં પાથરો અને નિતારેલા અંડાકાર રાઇસ કેક તેની ઉપર મૂકો, સીધા ગરમ તવા પર નહીં, જેથી ચોંટે નહીં.",
+        "માપેલું 180 મિલી પાણી કડાઈની બાજુથી રેડી ઢાંકી મધ્યમ તાપે 2–3 મિનિટ વરાળમાં રાંધો. ઢાંકણ ખોલી સપાટ ચમચીથી રાઇસ કેક ધીમે છૂટા પાડો. તે નરમ અને ચાવવા જેવા હોવા જોઈએ, વચ્ચે કડક નહીં; જરૂર હોય તો કડાઈમાં રહેલા પાણીથી જ વધુ 1 મિનિટ ઢાંકી રાંધો.",
+        "સોયા-મશરૂમ સોસ રેડી 1–2 મિનિટ ધીમે હલાવી શેકો જ્યાં સુધી પાણી ઘટી રાઇસ કેક અને શાક પર પાતળું ચમકદાર પડ ચડે. લીલી ડુંગળીનો લીલો ભાગ ઉપર નાખી ચાર ગરમ થાળીમાં વહેંચો અને તરત પીરસો."
+      ],
+      "tips": ["આ પાતળા અંડાકાર ચાઇનીઝ રાઇસ કેક છે, રાબોક્કીના નાના નળાકાર કોરિયન કેકથી જુદા. તાજા કે ફ્રિજમાં રાખેલા કાપાને થોડું વરાળમાં રાંધવું પડે; સૂકા કેક પેકેટ પ્રમાણે પલાળો. મશરૂમ આધારિત શાકાહારી સોસ લો, ઓયસ્ટર સોસ નહીં."]
+    }
+  },
+  "reference": {"url": "https://thewoksoflife.com/rice-cakes-mixed-vegetables/", "use": "Vegetarian oval rice-cake stir-fry technique; ingredient mix, measured quantities and text independently authored to match the reviewed photo."}
+}
