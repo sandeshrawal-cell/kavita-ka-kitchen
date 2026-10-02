@@ -1,0 +1,59 @@
+{
+  "sourceReviewId": "R0128",
+  "id": "vegetarian-jajangmyeon",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Jajangmyeon",
+  "cuisine": "Korean",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {"name": "eggless thick wheat noodles", "qty": 440, "unit": "g"},
+    {"name": "water", "qty": 2500, "unit": "ml"},
+    {"name": "Korean chunjang black bean paste", "qty": 110, "unit": "g"},
+    {"name": "potatoes", "qty": 200, "unit": "g"},
+    {"name": "zucchini", "qty": 200, "unit": "g"},
+    {"name": "onion", "qty": 220, "unit": "g"},
+    {"name": "shiitake mushrooms", "qty": 200, "unit": "g"},
+    {"name": "cucumber", "qty": 120, "unit": "g"},
+    {"name": "neutral oil", "qty": 50, "unit": "ml"},
+    {"name": "cornstarch", "qty": 25, "unit": "g"},
+    {"name": "sugar", "qty": 15, "unit": "g"},
+    {"name": "toasted sesame oil", "qty": 10, "unit": "ml"}
+  ],
+  "steps": [
+    "Check the chunjang paste is free of meat or seafood and the noodles are eggless. Peel and cut potatoes into 1 cm cubes. Cut zucchini, onion and mushrooms into similar small pieces so they cook evenly; cut the cucumber into thin matchsticks and keep it raw for serving.",
+    "Heat 20 ml neutral oil in a small pan over medium-low heat. Add the chunjang and stir constantly for 2–3 minutes until fragrant and glossy, without scorching; this reduces its raw bitterness. Scrape the fried paste into a bowl and set aside. The paste is salty, so do not add salt before tasting the finished sauce.",
+    "Heat the remaining 30 ml neutral oil in a wide pan over medium-high heat. Cook onion and mushrooms for 4 minutes, then add potato and zucchini and cook 4 minutes more, stirring often. Stir in the fried chunjang and sugar until all the vegetables are coated. Pour in 400 ml of the measured water, cover loosely and simmer for 10–12 minutes until the potato is tender.",
+    "Mix the cornstarch with the remaining 100 ml water allocated to the sauce, then stream it into the bubbling vegetables while stirring. Simmer for 1–2 minutes until the black sauce is thick and glossy; stir in sesame oil. Meanwhile boil the remaining 2000 ml water in a large pot, cook the eggless noodles as directed on the packet until springy, and drain well.",
+    "Divide noodles among four bowls and ladle one quarter of the hot black-bean vegetable sauce over each. Top with raw cucumber matchsticks and serve immediately; stir the sauce through the noodles at the table."
+  ],
+  "tips": ["Use Korean chunjang, not the Chinese yellow soybean paste used for Zhajiangmian; they give distinctly different sauces. Some chunjang products are pre-fried, so follow the package if it says ready to use. Keep the potato cubes small enough to cook through before thickening the sauce."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी जाजांगम्योन",
+      "ingredients": ["बिना अंडे के मोटे गेहूँ के नूडल्स", "पानी", "कोरियाई चुंजांग काली बीन पेस्ट", "आलू", "ज़ुकीनी", "प्याज़", "शिटाके मशरूम", "खीरा", "बिना तेज़ स्वाद वाला तेल", "कॉर्नस्टार्च", "चीनी", "भुने तिल का तेल"],
+      "steps": [
+        "जाँचें कि चुंजांग पेस्ट में मांस या समुद्री पदार्थ न हों और नूडल्स बिना अंडे के हों। आलू छीलकर 1 सेमी के टुकड़े करें। ज़ुकीनी, प्याज़ और मशरूम भी लगभग इसी आकार में काटें ताकि सब समान पकें; खीरे की पतली तीली बनाकर परोसने के लिए कच्ची रखें।",
+        "छोटे पैन में मध्यम-धीमी आँच पर 20 मिली साधारण तेल गरम करें। चुंजांग डालकर 2–3 मिनट लगातार चलाएँ जब तक महक और चमक आए, पर जलने न दें; इससे कच्ची कड़वाहट कम होती है। भुनी पेस्ट कटोरे में निकालें। पेस्ट नमकीन है, इसलिए तैयार सॉस चखे बिना नमक न डालें।",
+        "चौड़े पैन में मध्यम-तेज़ आँच पर बचा 30 मिली साधारण तेल गरम करें। प्याज़ और मशरूम 4 मिनट, फिर आलू और ज़ुकीनी डालकर 4 मिनट और चलाते हुए पकाएँ। भुनी चुंजांग और चीनी मिलाएँ ताकि सभी सब्ज़ियाँ ढक जाएँ। नापे हुए पानी में से 400 मिली डालें, ढीला ढककर 10–12 मिनट आलू नरम होने तक पकाएँ।",
+        "कॉर्नस्टार्च को सॉस के लिए बचे 100 मिली पानी में घोलें और उबलती सब्ज़ियों में चलाते हुए धीरे डालें। 1–2 मिनट गाढ़ी, चमकदार काली सॉस होने तक पकाएँ; तिल का तेल मिलाएँ। इस बीच बचे 2000 मिली पानी को बड़े बर्तन में उबालें, बिना अंडे के नूडल्स पैकेट के अनुसार लचीले होने तक पकाएँ और अच्छी तरह छानें।",
+        "नूडल्स चार कटोरों में बाँटें और हर कटोरे पर गरम काली बीन-सब्ज़ी सॉस का चौथाई भाग डालें। कच्चे खीरे की तीली ऊपर रखें और तुरंत परोसें; खाते समय सॉस को नूडल्स में मिलाएँ।"
+      ],
+      "tips": ["कोरियाई चुंजांग लें, झाजियांगमियान वाली चीनी पीली सोयाबीन पेस्ट नहीं; दोनों की सॉस अलग होती हैं। कुछ चुंजांग पहले से भुनी होती हैं, इसलिए पैकेट पर उपयोग के निर्देश देखें। आलू छोटे काटें ताकि सॉस गाढ़ी करने से पहले पक जाएँ।"]
+    },
+    "gu": {
+      "name": "શાકાહારી જાજાંગમ્યોન",
+      "ingredients": ["ઇંડા વગરના જાડા ઘઉંના નૂડલ્સ", "પાણી", "કોરિયન ચુનજાંગ કાળી બીન પેસ્ટ", "બટાકા", "ઝુકિની", "ડુંગળી", "શિટાકે મશરૂમ", "કાકડી", "તટસ્થ સ્વાદનું તેલ", "કોર્નસ્ટાર્ચ", "ખાંડ", "શેકેલા તલનું તેલ"],
+      "steps": [
+        "ચુનજાંગ પેસ્ટમાં માંસ કે દરિયાઈ પદાર્થ ન હોય અને નૂડલ્સ ઇંડા વગરના હોય તે તપાસો. બટાકા છોલીને 1 સેમીના ટુકડા કરો. ઝુકિની, ડુંગળી અને મશરૂમ પણ એ જ માપે કાપો જેથી સરખાં રંધાય; કાકડીની પાતળી સળીઓ બનાવી પીરસવા માટે કાચી રાખો.",
+        "નાની કડાઈમાં મધ્યમ-ધીમા તાપે 20 મિલી સાદું તેલ ગરમ કરો. ચુનજાંગ નાખી 2–3 મિનિટ સતત હલાવો જ્યાં સુધી સુગંધ અને ચમક આવે, પણ બળે નહીં; તેનાથી કાચી કડવાશ ઓછી થાય. શેકેલી પેસ્ટ વાટકામાં કાઢો. પેસ્ટ ખારી છે એટલે તૈયાર સોસ ચાખ્યા વગર મીઠું ન નાખો.",
+        "પહોળી કડાઈમાં મધ્યમ-ઊંચા તાપે બાકીનું 30 મિલી સાદું તેલ ગરમ કરો. ડુંગળી અને મશરૂમ 4 મિનિટ, પછી બટાકા અને ઝુકિની ઉમેરી વારંવાર હલાવતા વધુ 4 મિનિટ રાંધો. શેકેલી ચુનજાંગ અને ખાંડ ભેળવી દરેક શાક પર પેસ્ટ ચડાવો. માપેલા પાણીમાંથી 400 મિલી રેડી ઢીલું ઢાંકી 10–12 મિનિટ બટાકા નરમ થાય ત્યાં સુધી રાંધો.",
+        "કોર્નસ્ટાર્ચને સોસ માટે બાકીના 100 મિલી પાણીમાં ઓગાળી ઉકળતા શાકમાં હલાવતા ધીમે રેડો. 1–2 મિનિટ ઘટ્ટ, ચમકદાર કાળો સોસ થાય ત્યાં સુધી ઉકાળો; તલનું તેલ ભેળવો. દરમિયાન બાકીનું 2000 મિલી પાણી મોટા વાસણમાં ઉકાળો, ઇંડા વગરના નૂડલ્સ પેકેટ મુજબ લચીલા થાય ત્યાં સુધી રાંધી સારી રીતે નિતારો.",
+        "નૂડલ્સ ચાર વાટકામાં વહેંચો અને દરેક પર ગરમ કાળી બીન-શાકના સોસનો ચોથો ભાગ રેડો. ઉપર કાચી કાકડીની સળીઓ મૂકી તરત પીરસો; જમતી વખતે સોસ નૂડલ્સમાં ભેળવો."
+      ],
+      "tips": ["કોરિયન ચુનજાંગ લો, ઝાજિયાંગમિયાનમાં વપરાતી ચાઇનીઝ પીળી સોયાબીન પેસ્ટ નહીં; બંનેનાં સોસ જુદાં હોય છે. કેટલીક ચુનજાંગ પહેલેથી શેકેલી હોય છે, તેથી પેકેટની સૂચના જુઓ. બટાકા નાના કાપો જેથી સોસ ઘટ્ટ કરતાં પહેલાં રંધાઈ જાય."]
+    }
+  },
+  "reference": {"url": "https://www.koreanbapsang.com/jajangmyeon-noodles-in-black-bean-sauce/", "use": "Korean chunjang-and-diced-vegetable technique; vegetarian adaptation, measurements and wording independently authored."}
+}
