@@ -9101,5 +9101,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "cacio-e-pepe": {
+    "name": "Cacio e Pepe",
+    "src": "/photos/cacio-e-pepe-1200.webp",
+    "small": "/photos/cacio-e-pepe-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Cacio e Pepe served ready to eat",
+    "kind": "generated",
+    "title": "Cacio e Pepe",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
