@@ -9229,5 +9229,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "polenta-e-funghi": {
+    "name": "Polenta e Funghi",
+    "src": "/photos/polenta-e-funghi-1200.webp",
+    "small": "/photos/polenta-e-funghi-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Polenta e Funghi served ready to eat",
+    "kind": "generated",
+    "title": "Polenta e Funghi",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }
