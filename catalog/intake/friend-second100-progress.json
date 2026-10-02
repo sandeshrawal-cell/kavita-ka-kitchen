@@ -147,7 +147,7 @@
       "name": "Kibbeh Batata",
       "sourceReviewId": "R0118",
       "sourceRow": 119,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -163,7 +163,7 @@
       "name": "Lobiani",
       "sourceReviewId": "R0120",
       "sourceRow": 121,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -171,7 +171,7 @@
       "name": "Jamaican Vegetable Patty",
       "sourceReviewId": "R0121",
       "sourceRow": 122,
-      "status": "reviewed-photo-ready-recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
