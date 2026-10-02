@@ -1,0 +1,66 @@
+{
+  "sourceReviewId": "R0135",
+  "id": "vegetables-in-black-bean-sauce",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetables in Black Bean Sauce",
+  "cuisine": "Indo-Chinese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "10 minutes rice resting",
+  "ingredients": [
+    {"name": "jasmine rice", "qty": 280, "unit": "g"},
+    {"name": "water", "qty": 670, "unit": "ml"},
+    {"name": "broccoli", "qty": 250, "unit": "g"},
+    {"name": "red bell pepper", "qty": 150, "unit": "g"},
+    {"name": "baby corn", "qty": 180, "unit": "g"},
+    {"name": "snow peas", "qty": 150, "unit": "g"},
+    {"name": "button mushrooms", "qty": 180, "unit": "g"},
+    {"name": "onion", "qty": 150, "unit": "g"},
+    {"name": "fermented Chinese black soybeans", "qty": 45, "unit": "g"},
+    {"name": "garlic", "qty": 16, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "neutral oil", "qty": 40, "unit": "ml"},
+    {"name": "light soy sauce", "qty": 30, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 15, "unit": "ml"},
+    {"name": "cornstarch", "qty": 15, "unit": "g"},
+    {"name": "sugar", "qty": 10, "unit": "g"}
+  ],
+  "steps": [
+    "Rinse the jasmine rice. Put it in a lidded saucepan with 420 ml of the measured water, bring to a boil, cover and cook over the lowest heat for 12 minutes. Turn off the heat and rest covered for 10 minutes before fluffing. Cut broccoli into small florets, pepper and onion into bite-size pieces, baby corn in halves, mushrooms into slices, and trim the snow peas.",
+    "Rinse the fermented black soybeans briefly and drain; roughly chop half so their flavor spreads while the other half remain visible. These are salty fermented Chinese soybeans, not ordinary cooked black beans or Korean chunjang paste. Mince garlic and ginger. Whisk the remaining 250 ml water, soy sauce, rice vinegar, cornstarch and sugar until smooth.",
+    "Heat 25 ml oil in a wide wok over medium-high heat. Stir-fry broccoli and baby corn for 3 minutes, then add onion, mushrooms and bell pepper for 2 minutes. Add snow peas and stir-fry another minute. Move the vegetables to a plate while still bright and slightly crisp so they do not overcook in the sauce.",
+    "Add the remaining 15 ml oil to the hot wok. Stir garlic, ginger and the chopped and whole fermented black beans for 30–45 seconds until fragrant without burning. Stir the prepared liquid again to lift the settled starch, pour it in and simmer for 1–2 minutes until glossy and lightly thickened. Taste before adding any salt; the beans and soy sauce are already salty.",
+    "Return all vegetables to the wok and toss for 1 minute until hot and evenly coated, with distinct black-bean flecks still visible. Divide the stir-fry among four bowls and serve with the fluffy jasmine rice separately, as in the photograph."
+  ],
+  "tips": ["Use fermented Chinese black soybeans (douchi), not canned black kidney beans and not Korean black-bean noodle paste. Rinsing moderates their saltiness. The vegetables should stay crisp-tender and the sauce glossy rather than becoming a thick black puree."],
+  "translations": {
+    "hi": {
+      "name": "ब्लैक बीन सॉस में सब्ज़ियाँ",
+      "passiveTime": "चावल ढककर रखने के लिए 10 मिनट",
+      "ingredients": ["जैस्मिन चावल", "पानी", "ब्रोकली", "लाल शिमला मिर्च", "बेबी कॉर्न", "स्नो पीज़", "बटन मशरूम", "प्याज़", "खमीरी चीनी काली सोयाबीन", "लहसुन", "अदरक", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "चावल का सिरका", "कॉर्नस्टार्च", "चीनी"],
+      "steps": [
+        "जैस्मिन चावल धोएँ। ढक्कन वाले बर्तन में चावल और नापे पानी में से 420 मिली डालकर उबालें, ढकें और सबसे धीमी आँच पर 12 मिनट पकाएँ। आँच बंद करके 10 मिनट ढका रखें, फिर फुलाएँ। ब्रोकली छोटे फूल, मिर्च और प्याज़ खाने लायक टुकड़े, बेबी कॉर्न आधा, मशरूम स्लाइस करें और स्नो पीज़ साफ़ करें।",
+        "खमीरी काली सोयाबीन जल्दी धोकर छानें; आधी मोटी काटें ताकि स्वाद फैले और आधी साबुत दिखें। ये नमकीन खमीरी चीनी सोयाबीन हैं, साधारण पकी काली बीन्स या कोरियाई चुंजांग पेस्ट नहीं। लहसुन और अदरक बारीक करें। बचे 250 मिली पानी, सोया सॉस, चावल का सिरका, कॉर्नस्टार्च और चीनी फेंटकर चिकना करें।",
+        "चौड़ी कड़ाही में मध्यम-तेज़ आँच पर 25 मिली तेल गरम करें। ब्रोकली और बेबी कॉर्न 3 मिनट भूनें, फिर प्याज़, मशरूम और शिमला मिर्च 2 मिनट डालें। स्नो पीज़ डालकर 1 मिनट और भूनें। सब्ज़ियाँ अभी चमकीली और हल्की कुरकुरी हों तब प्लेट में निकालें ताकि सॉस में ज़्यादा न पकें।",
+        "गरम कड़ाही में बचा 15 मिली तेल डालें। लहसुन, अदरक और कटी-साबुत खमीरी काली बीन्स 30–45 सेकंड महक आने तक चलाएँ, जलने न दें। नीचे बैठे स्टार्च को मिलाने के लिए तैयार तरल फिर चलाएँ, डालकर 1–2 मिनट चमकदार और थोड़ा गाढ़ा होने तक पकाएँ। नमक डालने से पहले चखें; बीन्स और सोया सॉस पहले से नमकीन हैं।",
+        "सभी सब्ज़ियाँ कड़ाही में वापस डालें और 1 मिनट गरम तथा समान रूप से सॉस में लिपटी होने तक चलाएँ, ताकि काली बीन्स के दाने दिखते रहें। चार कटोरों में स्टिर-फ्राई बाँटें और चित्र की तरह फुले जैस्मिन चावल अलग साथ परोसें।"
+      ],
+      "tips": ["खमीरी चीनी काली सोयाबीन (दौची) लें, डिब्बे की सामान्य काली राजमा या कोरियाई नूडल पेस्ट नहीं। धोने से नमकीनपन कम होता है। सब्ज़ियाँ हल्की कुरकुरी और सॉस चमकदार रखें, गाढ़ा काला पेस्ट नहीं।"]
+    },
+    "gu": {
+      "name": "બ્લેક બીન સોસમાં શાક",
+      "passiveTime": "ભાત ઢાંકી રાખવા 10 મિનિટ",
+      "ingredients": ["જેસ્મિન ચોખા", "પાણી", "બ્રોકોલી", "લાલ શિમલા મરચું", "બેબી કોર્ન", "સ્નો પીઝ", "બટન મશરૂમ", "ડુંગળી", "આથેલા ચાઇનીઝ કાળા સોયાબીન", "લસણ", "આદુ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "ચોખાનો સરકો", "કોર્નસ્ટાર્ચ", "ખાંડ"],
+      "steps": [
+        "જેસ્મિન ચોખા ધોવો. ઢાંકણવાળા વાસણમાં ચોખા અને માપેલા પાણીમાંથી 420 મિલી નાખી ઉકાળો, ઢાંકી સૌથી ધીમા તાપે 12 મિનિટ રાંધો. તાપ બંધ કરી 10 મિનિટ ઢાંકી રાખી ભાત ફુલાવો. બ્રોકોલીનાં નાના ફૂલ, મરચાં અને ડુંગળી ખાવા જેવા ટુકડા, બેબી કોર્ન અડધા, મશરૂમની સ્લાઇસ કરો અને સ્નો પીઝ સાફ કરો.",
+        "આથેલા કાળા સોયાબીન ઝડપથી ધોઈ નિતારો; અડધા મોટા સમારો જેથી સ્વાદ ફેલાય અને અડધા આખા દેખાય. આ ખારા આથેલા ચાઇનીઝ સોયાબીન છે, સાદા રાંધેલા કાળા બીન્સ કે કોરિયન ચુનજાંગ પેસ્ટ નહીં. લસણ-આદુ બારીક સમારો. બાકીનું 250 મિલી પાણી, સોયા સોસ, ચોખાનો સરકો, કોર્નસ્ટાર્ચ અને ખાંડ ફેંટીને એકરસ કરો.",
+        "પહોળી કડાઈમાં મધ્યમ-ઊંચા તાપે 25 મિલી તેલ ગરમ કરો. બ્રોકોલી અને બેબી કોર્ન 3 મિનિટ શેકો, પછી ડુંગળી, મશરૂમ અને શિમલા મરચું 2 મિનિટ ઉમેરો. સ્નો પીઝ નાખી વધુ 1 મિનિટ શેકો. શાક હજી ચમકદાર અને સહેજ કરકરું હોય ત્યારે થાળીમાં કાઢો જેથી સોસમાં વધુ ન રંધાય.",
+        "ગરમ કડાઈમાં બાકીનું 15 મિલી તેલ નાખો. લસણ, આદુ અને સમારેલા-આખા આથેલા કાળા બીન્સ 30–45 સેકંડ સુગંધ આવે ત્યાં સુધી હલાવો, બળવા ન દો. નીચે બેઠેલું સ્ટાર્ચ ભળી જાય એમ તૈયાર પ્રવાહી ફરી હલાવી રેડો અને 1–2 મિનિટ ચમકદાર તથા સહેજ ઘટ્ટ થાય ત્યાં સુધી રાંધો. મીઠું નાખતાં પહેલાં ચાખો; બીન્સ અને સોયા સોસ પહેલેથી ખારા છે.",
+        "બધું શાક કડાઈમાં પાછું નાખી 1 મિનિટ ગરમ અને સોસમાં સરખું લિપટે ત્યાં સુધી હલાવો, જેથી કાળા બીન્સનાં દાણા દેખાતા રહે. સ્ટિર-ફ્રાય ચાર વાટકામાં વહેંચી ફોટાની જેમ ફૂલેલા જેસ્મિન ભાત અલગ પીરસો."
+      ],
+      "tips": ["આથેલા ચાઇનીઝ કાળા સોયાબીન (દૌચી) લો, ડબ્બાવાળા સામાન્ય કાળા બીન્સ કે કોરિયન નૂડલ પેસ્ટ નહીં. ધોવાથી ખારાશ ઘટે છે. શાક સહેજ કરકરું અને સોસ ચમકદાર રાખો, ઘટ્ટ કાળો પેસ્ટ નહીં."]
+    }
+  },
+  "reference": {"url": "https://www.zenrivertemple.org/zrcblog/2018/04/24/chinese-style-black-bean-sauce-with-veggies/", "use": "Vegetarian fermented-black-bean vegetable stir-fry approach; chosen vegetables, measured rice accompaniment and wording independently authored."}
+}

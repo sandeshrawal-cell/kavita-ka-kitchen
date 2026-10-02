@@ -8957,5 +8957,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-02"
+  },
+  "pad-prik-khing": {
+    "name": "Pad Prik Khing",
+    "src": "/photos/pad-prik-khing-1200.webp",
+    "small": "/photos/pad-prik-khing-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pad Prik Khing served ready to eat",
+    "kind": "generated",
+    "title": "Pad Prik Khing",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "chinese-chopsuey": {
+    "name": "Chinese Chopsuey",
+    "src": "/photos/chinese-chopsuey-1200.webp",
+    "small": "/photos/chinese-chopsuey-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Chinese Chopsuey served ready to eat",
+    "kind": "generated",
+    "title": "Chinese Chopsuey",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
+  },
+  "vegetables-in-black-bean-sauce": {
+    "name": "Vegetables in Black Bean Sauce",
+    "src": "/photos/vegetables-in-black-bean-sauce-1200.webp",
+    "small": "/photos/vegetables-in-black-bean-sauce-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Vegetables in Black Bean Sauce served ready to eat",
+    "kind": "generated",
+    "title": "Vegetables in Black Bean Sauce",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-02"
   }
 }

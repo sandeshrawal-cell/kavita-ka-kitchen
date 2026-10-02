@@ -1,0 +1,65 @@
+{
+  "sourceReviewId": "R0134",
+  "id": "chinese-chopsuey",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Chinese Chopsuey",
+  "cuisine": "Indo-Chinese",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {"name": "eggless wheat noodles", "qty": 400, "unit": "g"},
+    {"name": "water", "qty": 2450, "unit": "ml"},
+    {"name": "green cabbage", "qty": 300, "unit": "g"},
+    {"name": "carrots", "qty": 160, "unit": "g"},
+    {"name": "green bell pepper", "qty": 140, "unit": "g"},
+    {"name": "snow peas", "qty": 140, "unit": "g"},
+    {"name": "baby corn", "qty": 160, "unit": "g"},
+    {"name": "button mushrooms", "qty": 160, "unit": "g"},
+    {"name": "onion", "qty": 120, "unit": "g"},
+    {"name": "garlic", "qty": 15, "unit": "g"},
+    {"name": "ginger", "qty": 12, "unit": "g"},
+    {"name": "neutral oil", "qty": 35, "unit": "ml"},
+    {"name": "light soy sauce", "qty": 15, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 20, "unit": "ml"},
+    {"name": "cornstarch", "qty": 30, "unit": "g"},
+    {"name": "sugar", "qty": 8, "unit": "g"},
+    {"name": "salt", "qty": 7, "unit": "g"},
+    {"name": "white pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Check the noodles are eggless. Bring 2000 ml water and 5 g salt to a boil. Cook the noodles just until tender according to the packet, drain and rinse quickly so they stay separate. Do not fry them: this Chinese chopsuey uses soft noodles. Cut cabbage into bite-size pieces, carrot and bell pepper into thin strips, baby corn into short lengths, mushrooms into slices and onion into thin wedges. Trim the snow peas and mince garlic and ginger.",
+    "Whisk the remaining 450 ml water with light soy sauce, rice vinegar, cornstarch, sugar, remaining 2 g salt and white pepper until smooth. The modest soy quantity keeps this vegetable gravy pale rather than dark. Keep the sauce close to the stove because the starch settles quickly.",
+    "Heat 35 ml oil in a large wok over medium-high heat. Stir-fry onion, carrot and baby corn for 2 minutes. Add mushrooms and bell pepper and cook another 2 minutes. Add garlic and ginger for 30 seconds, then cabbage and snow peas for 1–2 minutes; the vegetables should be bright and crisp-tender, not mushy.",
+    "Stir the sauce again and pour it into the wok. Bring it to a gentle boil, stirring constantly for 2–3 minutes until it becomes lightly thickened, pale and glossy and coats the vegetables. If the sauce turns too thick, lower the heat and stir vigorously rather than overcooking the vegetables.",
+    "Divide the warm, soft noodles among four shallow bowls. Ladle a quarter of the hot vegetables and glossy sauce over each bowl, spreading it so the noodles remain visible around the edges. Serve immediately before the noodles absorb all the sauce."
+  ],
+  "tips": ["This soft-noodle, light-gravy Chinese chopsuey follows the source list's description; it is different from red, sweet-tangy American chopsuey and from a crispy noodle nest. Cornstarch must simmer briefly to lose its raw taste. Use a light vegetarian soy sauce, with no fish or oyster extracts."],
+  "translations": {
+    "hi": {
+      "name": "चाइनीज़ चॉप्सी",
+      "ingredients": ["बिना अंडे के गेहूँ के नूडल्स", "पानी", "हरी पत्तागोभी", "गाजर", "हरी शिमला मिर्च", "स्नो पीज़", "बेबी कॉर्न", "बटन मशरूम", "प्याज़", "लहसुन", "अदरक", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "चावल का सिरका", "कॉर्नस्टार्च", "चीनी", "नमक", "सफ़ेद मिर्च"],
+      "steps": [
+        "जाँचें कि नूडल्स बिना अंडे के हों। 2000 मिली पानी में 5 ग्राम नमक डालकर उबालें। पैकेट के अनुसार नूडल्स बस नरम होने तक पकाएँ, छानें और जल्दी धोकर अलग रखें। इन्हें तलें नहीं: इस चाइनीज़ चॉप्सी में नरम नूडल्स हैं। पत्तागोभी खाने लायक, गाजर और शिमला मिर्च पतली पट्टियों, बेबी कॉर्न छोटे टुकड़ों, मशरूम स्लाइस और प्याज़ पतले टुकड़ों में काटें। स्नो पीज़ साफ़ करें और लहसुन-अदरक बारीक करें।",
+        "बचे 450 मिली पानी में हल्का सोया सॉस, चावल का सिरका, कॉर्नस्टार्च, चीनी, बचा 2 ग्राम नमक और सफ़ेद मिर्च फेंटकर चिकना करें। सोया कम होने से सब्ज़ियों की ग्रेवी गहरी नहीं बल्कि हल्की रहेगी। सॉस चूल्हे के पास रखें क्योंकि स्टार्च जल्दी नीचे बैठता है।",
+        "बड़ी कड़ाही में मध्यम-तेज़ आँच पर 35 मिली तेल गरम करें। प्याज़, गाजर और बेबी कॉर्न 2 मिनट भूनें। मशरूम और शिमला मिर्च डालकर 2 मिनट और पकाएँ। लहसुन और अदरक 30 सेकंड डालें, फिर पत्तागोभी और स्नो पीज़ 1–2 मिनट; सब्ज़ियाँ चमकीली और हल्की कुरकुरी रहें, गलें नहीं।",
+        "सॉस फिर चलाकर कड़ाही में डालें। लगातार चलाते हुए 2–3 मिनट हल्का उबालें, जब तक सॉस कुछ गाढ़ी, हल्की और चमकदार होकर सब्ज़ियों को ढक ले। बहुत गाढ़ी हो तो आँच कम करके तेज़ी से चलाएँ, सब्ज़ियाँ ज़्यादा न पकाएँ।",
+        "गरम नरम नूडल्स चार उथले कटोरों में बाँटें। हर कटोरे पर गरम सब्ज़ियों और सॉस का चौथाई भाग डालें ताकि किनारे पर नूडल्स दिखें। नूडल्स पूरी सॉस सोख लें उससे पहले तुरंत परोसें।"
+      ],
+      "tips": ["यह नरम नूडल्स और हल्की ग्रेवी वाली चाइनीज़ चॉप्सी सूची के विवरण के अनुसार है; यह लाल मीठी-खट्टी अमेरिकन चॉप्सी या कुरकुरे नूडल्स से अलग है। कॉर्नस्टार्च का कच्चापन हटाने के लिए थोड़ी देर उबालें। हल्का शाकाहारी सोया सॉस लें, मछली या ऑयस्टर अर्क वाला नहीं।"]
+    },
+    "gu": {
+      "name": "ચાઇનીઝ ચોપ્સી",
+      "ingredients": ["ઇંડા વગરના ઘઉંના નૂડલ્સ", "પાણી", "લીલી કોબી", "ગાજર", "લીલું શિમલા મરચું", "સ્નો પીઝ", "બેબી કોર્ન", "બટન મશરૂમ", "ડુંગળી", "લસણ", "આદુ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "ચોખાનો સરકો", "કોર્નસ્ટાર્ચ", "ખાંડ", "મીઠું", "સફેદ મરી"],
+      "steps": [
+        "નૂડલ્સ ઇંડા વગરના હોય તે તપાસો. 2000 મિલી પાણીમાં 5 ગ્રામ મીઠું નાખી ઉકાળો. નૂડલ્સ પેકેટ મુજબ માત્ર નરમ થાય ત્યાં સુધી રાંધી નિતારો અને ઝડપથી ધોઈ અલગ રાખો. તેમને તળશો નહીં: આ ચાઇનીઝ ચોપ્સીમાં નરમ નૂડલ્સ હોય છે. કોબી ખાવા જેવા, ગાજર અને શિમલા મરચું પાતળી પટ્ટીમાં, બેબી કોર્ન નાના ટુકડા, મશરૂમ સ્લાઇસ અને ડુંગળી પાતળાં કાપો. સ્નો પીઝ સાફ કરી લસણ-આદુ બારીક સમારો.",
+        "બાકીનું 450 મિલી પાણી, હળવો સોયા સોસ, ચોખાનો સરકો, કોર્નસ્ટાર્ચ, ખાંડ, બાકીનું 2 ગ્રામ મીઠું અને સફેદ મરી ફેંટીને એકરસ કરો. સોયા ઓછો હોવાથી શાકનો રસો ઘેરો નહીં પણ હળવો રહેશે. સ્ટાર્ચ જલદી નીચે બેસે છે તેથી સોસ ચૂલા પાસે રાખો.",
+        "મોટી કડાઈમાં મધ્યમ-ઊંચા તાપે 35 મિલી તેલ ગરમ કરો. ડુંગળી, ગાજર અને બેબી કોર્ન 2 મિનિટ શેકો. મશરૂમ અને શિમલા મરચું નાખી વધુ 2 મિનિટ રાંધો. લસણ અને આદુ 30 સેકંડ, પછી કોબી અને સ્નો પીઝ 1–2 મિનિટ નાખો; શાક ચમકદાર અને સહેજ કરકરું રહે, ગળી ન જાય.",
+        "સોસ ફરી હલાવી કડાઈમાં રેડો. સતત હલાવતા 2–3 મિનિટ હળવો ઉકાળો જ્યાં સુધી થોડો ઘટ્ટ, હળવો અને ચમકદાર થઈ શાક પર ચડે. બહુ ઘટ્ટ થાય તો તાપ ઓછો કરી જોરથી હલાવો, શાક વધુ ન રાંધો.",
+        "ગરમ નરમ નૂડલ્સ ચાર છીછરા વાટકામાં વહેંચો. દરેક પર ગરમ શાક અને સોસનો ચોથો ભાગ રેડો જેથી કિનારે નૂડલ્સ દેખાય. નૂડલ્સ આખો સોસ શોષે તે પહેલાં તરત પીરસો."
+      ],
+      "tips": ["આ નરમ નૂડલ્સ અને હળવા રસાવાળી ચાઇનીઝ ચોપ્સી મૂળ યાદીના વર્ણન મુજબ છે; લાલ મીઠી-ખાટી અમેરિકન ચોપ્સી કે કરકરા નૂડલ્સથી જુદી છે. કોર્નસ્ટાર્ચનો કાચો સ્વાદ દૂર કરવા થોડું ઉકાળો. માછલી કે ઓયસ્ટર અર્ક વગરનો હળવો શાકાહારી સોયા સોસ લો."]
+    }
+  },
+  "reference": {"url": "https://rssb.org/pdfs/Creative%20Vegetarian%20Cooking.pdf", "use": "Vegetarian Chinese chop suey composition; soft-noodle, pale-gravy version follows the supplied source-list description, with all measurements and wording independently authored."}
+}
