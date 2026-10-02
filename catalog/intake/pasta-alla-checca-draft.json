@@ -1,0 +1,56 @@
+{
+  "sourceReviewId": "R0149",
+  "id": "pasta-alla-checca",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Pasta alla Checca",
+  "cuisine": "Roman Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name": "eggless dry rigatoni", "qty": 360, "unit": "g"},
+    {"name": "water", "qty": 2300, "unit": "ml"},
+    {"name": "ripe cherry tomatoes", "qty": 550, "unit": "g"},
+    {"name": "fresh vegetarian mozzarella made with microbial rennet", "qty": 180, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 45, "unit": "ml"},
+    {"name": "fresh basil leaves", "qty": 30, "unit": "g"},
+    {"name": "garlic", "qty": 12, "unit": "g"},
+    {"name": "black pepper", "qty": 2, "unit": "g"},
+    {"name": "salt", "qty": 12, "unit": "g"}
+  ],
+  "steps": [
+    "Check that the dry rigatoni contains no egg and the mozzarella label confirms vegetarian or microbial rennet. Halve the cherry tomatoes and put them with their juices in a large serving bowl. Mince the garlic very finely, tear most of the basil by hand and cut the drained mozzarella into 1–2 cm pieces.",
+    "Mix the raw tomatoes with garlic, 35 ml olive oil, 4 g salt, black pepper and the torn basil. Leave at room temperature for 15–20 minutes while the tomatoes release some juice and the basil perfumes the oil. Do not cook this sauce; its fresh character defines the dish.",
+    "Bring 2300 ml water and 8 g salt to a rolling boil. Cook the rigatoni according to the packet until just al dente. Reserve 100 ml cooking water, then drain well. Let the pasta stand for 1 minute so its heat will warm the tomatoes without boiling or melting the cheese completely.",
+    "Tip the warm rigatoni into the raw tomato bowl and toss gently for 1 minute. Add mozzarella pieces and the remaining 10 ml olive oil, then toss once more. Add 15–30 ml reserved pasta water only if the mixture seems too dry; the tomatoes should stay visibly fresh and juicy, not form a cooked red sauce.",
+    "Divide the pasta, tomato halves and mozzarella evenly among four bowls. Top with the remaining basil leaves and serve warm or at room temperature, soon after mixing."
+  ],
+  "tips": ["The reviewed image shows distinct raw cherry tomato halves, soft white mozzarella pieces and basil among short pasta tubes. This is a no-cook sauce, unlike spaghetti pomodoro. Drain the mozzarella well and use only a cheese confirmed vegetarian."],
+  "translations": {
+    "hi": {
+      "name": "पास्ता आला केक्का",
+      "ingredients": ["बिना अंडे का सूखा रिगाटोनी", "पानी", "पके चेरी टमाटर", "सूक्ष्मजीवी रेननेट से बना ताज़ा शाकाहारी मोज़ेरेला", "एक्स्ट्रा-वर्जिन जैतून तेल", "ताज़ी बेसिल पत्तियाँ", "लहसुन", "काली मिर्च", "नमक"],
+      "steps": [
+        "जाँचें कि सूखे रिगाटोनी में अंडा न हो और मोज़ेरेला के लेबल पर शाकाहारी या सूक्ष्मजीवी रेननेट लिखा हो। चेरी टमाटर आधे काटकर रस सहित बड़े परोसने वाले कटोरे में डालें। लहसुन बहुत बारीक काटें, अधिकतर बेसिल हाथ से तोड़ें और छाने मोज़ेरेला को 1–2 सेमी टुकड़ों में काटें।",
+        "कच्चे टमाटर में लहसुन, 35 मिली जैतून तेल, 4 ग्राम नमक, काली मिर्च और तोड़ी बेसिल मिलाएँ। कमरे के तापमान पर 15–20 मिनट रखें ताकि टमाटर कुछ रस छोड़ें और बेसिल तेल को सुगंधित करे। इस सॉस को न पकाएँ; ताज़गी ही डिश की पहचान है।",
+        "2300 मिली पानी और 8 ग्राम नमक तेज़ उबालें। पैकेट के अनुसार रिगाटोनी बस अल दंते होने तक पकाएँ। 100 मिली पकाने का पानी बचाकर पास्ता अच्छी तरह छानें। पास्ता 1 मिनट रखें ताकि उसकी गर्मी टमाटर गरम करे पर चीज़ पूरी तरह उबले या पिघले नहीं।",
+        "गरम रिगाटोनी कच्चे टमाटर वाले कटोरे में डालकर 1 मिनट हल्के हाथ से मिलाएँ। मोज़ेरेला के टुकड़े और बचा 10 मिली जैतून तेल डालें, फिर एक बार मिलाएँ। मिश्रण बहुत सूखा हो तभी 15–30 मिली बचा पास्ता पानी डालें; टमाटर ताज़े और रसदार दिखें, पकी लाल सॉस न बनें।",
+        "पास्ता, टमाटर के आधे टुकड़े और मोज़ेरेला चार कटोरियों में बराबर बाँटें। बची बेसिल पत्तियाँ ऊपर डालें और मिलाने के तुरंत बाद गुनगुना या कमरे के तापमान पर परोसें।"
+      ],
+      "tips": ["समीक्षित तस्वीर में छोटे पास्ता ट्यूबों के बीच अलग कच्चे चेरी टमाटर के आधे टुकड़े, मुलायम सफेद मोज़ेरेला और बेसिल हैं। इसकी सॉस बिना पकाए बनती है, स्पेगेटी पोमोडोरो से अलग। मोज़ेरेला अच्छी तरह छानें और सिर्फ निश्चित शाकाहारी चीज़ लें।"]
+    },
+    "gu": {
+      "name": "પાસ્તા આલા કેક્કા",
+      "ingredients": ["ઇંડા વગરનો સૂકો રિગાટોની", "પાણી", "પાકાં ચેરી ટામેટાં", "સૂક્ષ્મજીવી રેનેટથી બનેલું તાજું શાકાહારી મોઝરેલા", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "તાજાં બેસિલ પાન", "લસણ", "કાળા મરી", "મીઠું"],
+      "steps": [
+        "સૂકા રિગાટોનીમાં ઇંડું ન હોય અને મોઝરેલાના લેબલ પર શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટ લખેલું હોય તે તપાસો. ચેરી ટામેટાં અડધાં કરી રસ સાથે મોટી પીરસવાની વાટકીમાં મૂકો. લસણ બહુ બારીક સમારો, મોટાભાગનાં બેસિલ પાન હાથથી તોડો અને નિતારેલા મોઝરેલાને 1–2 સેમીના ટુકડા કરો.",
+        "કાચાં ટામેટાં સાથે લસણ, 35 મિલી ઓલિવ તેલ, 4 ગ્રામ મીઠું, કાળા મરી અને તોડેલું બેસિલ ભેળવો. ઓરડાના તાપે 15–20 મિનિટ રાખો જેથી ટામેટાં થોડો રસ છોડે અને બેસિલ તેલને સુગંધિત કરે. આ સોસ રાંધશો નહીં; તેની તાજગી જ વાનગીની ઓળખ છે.",
+        "2300 મિલી પાણી અને 8 ગ્રામ મીઠું જોરથી ઉકાળો. પેકેટ પ્રમાણે રિગાટોની માત્ર અલ દંતે થાય ત્યાં સુધી રાંધો. 100 મિલી રાંધવાનું પાણી સાચવી પાસ્તા સારી રીતે નિતારો. પાસ્તા 1 મિનિટ રાખો જેથી તેની ગરમી ટામેટાં હૂંફાળાં કરે પણ ચીઝ સંપૂર્ણ ઉકળે કે ઓગળે નહીં.",
+        "ગરમ રિગાટોની કાચાં ટામેટાંવાળી વાટકીમાં નાખી 1 મિનિટ હળવેથી ભેળવો. મોઝરેલાના ટુકડા અને બાકીનું 10 મિલી ઓલિવ તેલ નાખી ફરી એક વાર ભેળવો. મિશ્રણ બહુ સૂકું લાગે તો જ 15–30 મિલી સાચવેલું પાસ્તાનું પાણી નાખો; ટામેટાં તાજાં અને રસદાર દેખાય, રાંધેલી લાલ સોસ ન બને.",
+        "પાસ્તા, ટામેટાંના અડધા ટુકડા અને મોઝરેલા ચાર વાટકામાં સરખાં વહેંચો. બાકીનું બેસિલ ઉપર મૂકી ભેળવ્યા પછી તરત હૂંફાળું અથવા ઓરડાના તાપે પીરસો."
+      ],
+      "tips": ["તપાસેલા ફોટામાં ટૂંકા પાસ્તાની નળીઓ વચ્ચે અલગ કાચાં ચેરી ટામેટાંના અડધા ટુકડા, નરમ સફેદ મોઝરેલા અને બેસિલ છે. તેની સોસ રાંધ્યા વગર બને છે, સ્પાઘેટી પોમોડોરોથી અલગ. મોઝરેલા સારી રીતે નિતારો અને ખાતરીવાળું શાકાહારી ચીઝ જ લો."]
+    }
+  },
+  "reference": {"url": "https://italoamericano.org/pasta-alla-checca/", "use": "Roman no-cook tomato, basil and mozzarella pasta composition; measured method and wording independently authored for the reviewed photo."}
+}
