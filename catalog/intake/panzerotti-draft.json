@@ -1,0 +1,57 @@
+{
+  "sourceReviewId": "R0154",
+  "id": "panzerotti",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Panzerotti",
+  "cuisine": "Italian",
+  "categories": ["Lunch", "Dinner", "Snack"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 125,
+  "ingredients": [
+    {"name": "plain wheat flour", "qty": 400, "unit": "g"},
+    {"name": "lukewarm water", "qty": 240, "unit": "ml"},
+    {"name": "instant dry yeast", "qty": 5, "unit": "g"},
+    {"name": "fine salt", "qty": 8, "unit": "g"},
+    {"name": "olive oil", "qty": 15, "unit": "ml"},
+    {"name": "thick tomato passata", "qty": 160, "unit": "g"},
+    {"name": "vegetarian mozzarella made with microbial rennet", "qty": 200, "unit": "g"},
+    {"name": "fresh basil leaves", "qty": 10, "unit": "g"},
+    {"name": "dried oregano", "qty": 2, "unit": "g"},
+    {"name": "neutral oil for deep frying", "qty": 700, "unit": "ml"}
+  ],
+  "steps": [
+    "Mix flour, yeast and 240 ml lukewarm water, then add salt and olive oil. Knead for 8–10 minutes until smooth and springy. Cover and rise for 60–75 minutes until doubled. Check the mozzarella label for microbial or other vegetarian rennet.",
+    "While the dough rises, simmer the tomato passata for 8–10 minutes until quite thick, then cool completely. Chop the basil. Cut the mozzarella into small cubes and drain it on kitchen paper for at least 20 minutes; a watery filling can burst the pockets in hot oil.",
+    "Divide the risen dough into eight equal balls. Roll each on a lightly floured surface to a round about 14–15 cm wide, slightly thinner at the edge. Put about 1 tablespoon of cooled tomato, one-eighth of the dry mozzarella and a little basil in the centre of each round. Sprinkle with oregano; leave a 2 cm clean border and do not overfill.",
+    "Fold each round into a half-moon. Press out excess air and pinch the edges tightly, then seal with the tines of a fork. Assemble only as many as can be fried promptly. Heat the neutral oil in a deep, heavy pan to 175–180°C; keep children clear and do not fill the pan beyond halfway.",
+    "Fry two panzerotti at a time for 3–4 minutes, turning carefully, until puffed and evenly golden. Keep the oil near 175–180°C between batches. Lift onto a rack or paper to drain for 2 minutes. Serve warm while the crust is crisp and the tomato-mozzarella centre is molten."
+  ],
+  "tips": ["Use cool, thick tomato and well-drained cheese, and seal every edge before frying. The reviewed image shows small golden fried half-moons, one opened to reveal red tomato and white melted cheese; it is distinct from an oven-baked calzone."],
+  "translations": {
+    "hi": {
+      "name": "पान्ज़ेरोत्ती",
+      "ingredients": ["सादा गेहूँ का मैदा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "बारीक नमक", "जैतून का तेल", "गाढ़ी टमाटर पासाता", "सूक्ष्मजीवी रेननेट वाला शाकाहारी मोज़ेरेला", "ताज़े बेसिल के पत्ते", "सूखा ओरिगैनो", "तलने के लिए हल्का स्वाद वाला तेल"],
+      "steps": [
+        "मैदा, यीस्ट और 240 मिली गुनगुना पानी मिलाएँ, फिर नमक और जैतून तेल डालें। 8–10 मिनट गूँधें ताकि आटा चिकना और लचीला हो। ढककर 60–75 मिनट फूलने दें, जब तक दोगुना हो। मोज़ेरेला के लेबल पर सूक्ष्मजीवी या अन्य शाकाहारी रेननेट जाँचें।",
+        "आटा फूलते समय टमाटर पासाता 8–10 मिनट पकाकर काफ़ी गाढ़ा करें, फिर पूरी तरह ठंडा करें। बेसिल काटें। मोज़ेरेला छोटे टुकड़ों में काटकर कम से कम 20 मिनट किचन पेपर पर पानी निकालें; गीली भरावन गरम तेल में पॉकेट फाड़ सकती है।",
+        "फूले आटे की आठ बराबर लोइयाँ बनाएँ। हर लोई को हल्की मैदे वाली सतह पर लगभग 14–15 सेमी गोल बेलें, किनारा थोड़ा पतला रखें। हर गोले के बीच करीब 1 बड़ा चम्मच ठंडा टमाटर, सूखे मोज़ेरेला का आठवाँ हिस्सा और थोड़ा बेसिल रखें। ओरिगैनो छिड़कें; 2 सेमी साफ़ किनारा छोड़ें और अधिक न भरें।",
+        "हर गोले को मोड़कर आधा चाँद बनाएँ। अतिरिक्त हवा निकालकर किनारे अच्छी तरह दबाएँ, फिर काँटे के दाँतों से सील करें। उतने ही तैयार करें जितने तुरंत तल सकें। गहरे, भारी पैन में तेल 175–180°C तक गरम करें; बच्चों को दूर रखें और पैन आधे से ज़्यादा न भरें।",
+        "एक बार में दो पान्ज़ेरोत्ती 3–4 मिनट तलें, सावधानी से पलटते रहें, जब तक फूलकर बराबर सुनहरे हों। हर बैच के बीच तेल लगभग 175–180°C रखें। जाली या पेपर पर निकालकर 2 मिनट तेल टपकाएँ। पपड़ी कुरकुरी और टमाटर-मोज़ेरेला भीतर पिघला हो, तब गरम परोसें।"
+      ],
+      "tips": ["ठंडा, गाढ़ा टमाटर और अच्छी तरह छाना चीज़ लें; तलने से पहले हर किनारा बंद करें। समीक्षित तस्वीर में छोटे सुनहरे तले हुए अर्धचंद्र हैं, एक खुला हुआ है जिसके भीतर लाल टमाटर और सफेद पिघला चीज़ दिखता है; यह ओवन में पके बड़े कैलज़ोन से अलग है।"]
+    },
+    "gu": {
+      "name": "પાન્ઝેરોટ્ટી",
+      "ingredients": ["સાદો ઘઉંનો મેંદો", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકો યીસ્ટ", "બારીક મીઠું", "ઓલિવ તેલ", "ઘાટી ટામેટાંની પાસાતા", "સૂક્ષ્મજીવી રેનેટવાળું શાકાહારી મોઝરેલા", "તાજાં બેઝિલનાં પાન", "સૂકો ઓરેગાનો", "તળવા માટે હળવા સ્વાદનું તેલ"],
+      "steps": [
+        "મેંદો, યીસ્ટ અને 240 મિલી હૂંફાળું પાણી ભેળવો, પછી મીઠું અને ઓલિવ તેલ નાખો. 8–10 મિનિટ મસળો જેથી લોટ સુંવાળો અને લચીલો થાય. ઢાંકી 60–75 મિનિટ ફૂલવા દો જેથી બમણો થાય. મોઝરેલાના લેબલ પર સૂક્ષ્મજીવી અથવા અન્ય શાકાહારી રેનેટ તપાસો.",
+        "લોટ ફૂલે ત્યાં સુધી ટામેટાંની પાસાતા 8–10 મિનિટ ઉકાળી ઘણી ઘાટી કરો, પછી સાવ ઠંડી કરો. બેઝિલ સમારો. મોઝરેલાના નાના ટુકડા કરી ઓછામાં ઓછી 20 મિનિટ કિચન પેપર પર પાણી નિતારો; ભીનું પૂરણ ગરમ તેલમાં કચોરી ફાડી શકે છે.",
+        "ફૂલેલા લોટના આઠ સરખા ગોળા કરો. દરેકને સહેજ મેંદો છાંટેલી સપાટી પર આશરે 14–15 સેમી ગોળ વણો, ધાર સહેજ પાતળી રાખો. દરેકની વચ્ચે આશરે 1 મોટી ચમચી ઠંડી ટામેટાંની સોસ, નિતારેલા મોઝરેલાનો આઠમો ભાગ અને થોડું બેઝિલ મૂકો. ઓરેગાનો છાંટો; 2 સેમી સાફ ધાર રાખો અને વધુ પૂરણ ન ભરો.",
+        "દરેક ગોળને વાળીને અર્ધચંદ્ર બનાવો. વધારાની હવા કાઢી ધાર મજબૂત દબાવો, પછી કાંટાના દાંતથી સીલ કરો. તરત તળી શકાય એટલા જ બનાવો. ઊંડા ભારે વાસણમાં તેલ 175–180°C સુધી ગરમ કરો; બાળકોને દૂર રાખો અને વાસણ અડધાથી વધુ ન ભરો.",
+        "એક સાથે બે પાન્ઝેરોટ્ટી 3–4 મિનિટ તળો, સાવધાનીથી ફેરવો, જેથી ફૂલીને સરખા સોનેરી થાય. દરેક ખેપ વચ્ચે તેલ આશરે 175–180°C રાખો. જાળી કે પેપર પર કાઢી 2 મિનિટ તેલ નિતારો. બહારનો પડ કરકરો અને અંદર ટામેટાં-મોઝરેલા ઓગળેલું હોય ત્યારે ગરમ પીરસો."
+      ],
+      "tips": ["ઠંડી ઘાટી ટામેટાંની સોસ અને સારી રીતે નિતારેલું ચીઝ લો; તળતાં પહેલાં દરેક ધાર બંધ કરો. તપાસેલા ફોટામાં નાની સોનેરી તળેલી અર્ધચંદ્રાકાર કચોરીઓ છે, એક ખોલેલી છે જેમાં લાલ ટામેટાં અને સફેદ ઓગળેલું ચીઝ દેખાય છે; તે ઓવનમાં શેકાતા મોટા કેલ્ઝોનથી અલગ છે."]
+    }
+  },
+  "reference": {"url": "https://www.lacucinaitaliana.com/italian-food/how-to-cook/panzerotto-original-recipe-from-puglia", "use": "Traditional Puglian tomato-mozzarella filling and fried half-moon form; ingredient measurements, safety details and all wording independently authored."}
+}
