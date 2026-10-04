@@ -9389,5 +9389,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "chalupas": {
+    "name": "Chalupas",
+    "src": "/photos/chalupas-1200.webp",
+    "small": "/photos/chalupas-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Chalupas served ready to eat",
+    "kind": "generated",
+    "title": "Chalupas",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }

@@ -1,0 +1,56 @@
+{
+  "sourceReviewId": "R0159",
+  "id": "chalupas",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Chalupas Poblanas",
+  "cuisine": "Mexican",
+  "categories": ["Lunch", "Dinner", "Snack"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {"name": "masa harina (nixtamalized corn flour)", "qty": 240, "unit": "g"},
+    {"name": "warm water", "qty": 310, "unit": "ml"},
+    {"name": "fine salt", "qty": 5, "unit": "g"},
+    {"name": "neutral oil for shallow frying", "qty": 90, "unit": "ml"},
+    {"name": "cooked potato, diced small", "qty": 160, "unit": "g"},
+    {"name": "thick tomatillo salsa verde", "qty": 120, "unit": "g"},
+    {"name": "thick red chilli-tomato salsa", "qty": 120, "unit": "g"},
+    {"name": "white onion, finely diced", "qty": 70, "unit": "g"},
+    {"name": "vegetarian fresh white cheese made without animal rennet", "qty": 100, "unit": "g"}
+  ],
+  "steps": [
+    "Combine masa harina and 3 g of the salt. Gradually work in the warm water to make a soft dough that does not crack when pressed. Cover and rest for 15 minutes. Meanwhile cook and cool the potato if it is not already prepared; cut it into small dice. Check that the white cheese is made without animal rennet.",
+    "Divide the dough into twelve small balls. Press each between sheets of plastic into a thin oval about 10 × 6 cm. Gently pinch the long sides up just enough to make a shallow boat shape, leaving the centre flat. Keep the ovals covered with a damp cloth while shaping the remainder.",
+    "Heat a wide heavy pan over medium heat with a thin layer of the measured neutral oil. Shallow-fry the ovals in batches for about 1–2 minutes per side until set and lightly golden, replenishing the measured oil as needed. Keep the shells slightly pliable rather than frying them into brittle tostadas; drain briefly on a rack.",
+    "Warm the green and red salsas separately until hot and season the diced potato with the remaining 2 g salt. Spread one tablespoon of green salsa on six warm chalupas and one tablespoon of red salsa on the other six. Divide the cooked potato, finely diced white onion and crumbled vegetarian cheese evenly over the twelve.",
+    "Serve immediately, three small chalupas per person. Alternate the red and green versions on a platter so the thin oval masa boats and modest toppings are visible. This Puebla-style preparation is intentionally smaller and flatter than a thick, loaded, round sope."
+  ],
+  "tips": ["Use vegetable oil rather than lard and verify the cheese label. Both salsas must be thick so they sit on the small oval bases. The reviewed photo shows six thin oval boats alternating red and green salsa with potato, white onion and cheese."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी चालुपास पोब्लानास",
+      "ingredients": ["मासा हारिना (क्षार से संसाधित मक्के का आटा)", "गुनगुना पानी", "बारीक नमक", "हल्का तलने के लिए हल्का स्वाद वाला तेल", "पका आलू, छोटे टुकड़ों में", "गाढ़ा टोमाटीलो हरा साल्सा", "गाढ़ा लाल मिर्च-टमाटर साल्सा", "सफेद प्याज़, बारीक कटा", "पशु रेननेट रहित शाकाहारी ताज़ा सफेद चीज़"],
+      "steps": [
+        "मासा हारिना में 3 ग्राम नमक मिलाएँ। गुनगुना पानी धीरे-धीरे डालकर ऐसा नरम आटा बनाएँ जो दबाने पर फटे नहीं। ढककर 15 मिनट छोड़ें। इस बीच आलू पहले से न पका हो तो पकाकर ठंडा करें; छोटे टुकड़े काटें। जाँचें कि सफेद चीज़ पशु रेननेट के बिना बना है।",
+        "आटे की बारह छोटी लोइयाँ बनाएँ। हर लोई को प्लास्टिक की परतों के बीच दबाकर लगभग 10 × 6 सेमी पतला अंडाकार बनाएँ। लंबी धारों को हल्का ऊपर चुटकी से उठाएँ ताकि उथली नाव बने, बीच सपाट रखें। बाकी बनाते समय बने अंडाकार नम कपड़े से ढकें।",
+        "चौड़ा भारी पैन मध्यम आँच पर नापे तेल की पतली परत के साथ गरम करें। अंडाकारों को बैच में दोनों ओर करीब 1–2 मिनट हल्का तलें, जब तक जमकर हल्के सुनहरे हों; ज़रूरत पर नापे तेल में से और डालें। पूरी तरह भुरभुरे टोस्टाडा बनाने की बजाय थोड़ा लचीला रखें; जाली पर थोड़ी देर तेल टपकाएँ।",
+        "हरे और लाल साल्सा को अलग-अलग गरम करें और कटे आलू में बचा 2 ग्राम नमक मिलाएँ। छह गरम चालुपास पर एक-एक बड़ा चम्मच हरा साल्सा और बाकी छह पर लाल साल्सा लगाएँ। पका आलू, बारीक सफेद प्याज़ और चूरा शाकाहारी चीज़ बारहों पर बराबर बाँटें।",
+        "तुरंत परोसें, प्रति व्यक्ति तीन छोटी चालुपास। थाल में लाल और हरी बारी-बारी रखें ताकि पतले अंडाकार मक्के के आधार और हल्की टॉपिंग दिखें। पोब्ला शैली का यह रूप मोटे, भरे हुए गोल सोपे से जानबूझकर छोटा और चपटा होता है।"
+      ],
+      "tips": ["लार्ड की जगह वनस्पति तेल लें और चीज़ का लेबल जाँचें। दोनों साल्सा गाढ़े हों ताकि छोटे अंडाकार आधार पर टिकें। समीक्षित तस्वीर में छह पतली अंडाकार नावें हैं, बारी-बारी लाल-हरा साल्सा और ऊपर आलू, सफेद प्याज़ व चीज़ है।"]
+    },
+    "gu": {
+      "name": "શાકાહારી ચાલુપાસ પોબ્લાનાસ",
+      "ingredients": ["માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)", "હૂંફાળું પાણી", "બારીક મીઠું", "છીછરું તળવા માટે હળવા સ્વાદનું તેલ", "રાંધેલા બટાકા, નાના કટકા", "ઘાટી ટોમાટિયો લીલી સાલસા", "ઘાટી લાલ મરચાં-ટામેટાંની સાલસા", "સફેદ ડુંગળી, ઝીણી સમારેલી", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી તાજું સફેદ ચીઝ"],
+      "steps": [
+        "માસા હારિનામાં 3 ગ્રામ મીઠું ભેળવો. હૂંફાળું પાણી ધીમે ધીમે નાખી એવો નરમ લોટ બનાવો જે દબાવતાં ફાટે નહીં. ઢાંકી 15 મિનિટ રાખો. દરમિયાન બટાકા અગાઉથી રાંધેલા ન હોય તો રાંધી ઠંડા કરો; નાના કટકા કરો. સફેદ ચીઝ પ્રાણીજન્ય રેનેટ વગર બન્યું છે તે તપાસો.",
+        "લોટના બાર નાના ગોળા કરો. દરેકને પ્લાસ્ટિકનાં પડ વચ્ચે દબાવી આશરે 10 × 6 સેમી પાતળો લંબગોળ બનાવો. લાંબી ધાર સહેજ ચપટીથી ઊંચી કરો જેથી છીછરી નાવ બને, મધ્ય ભાગ સપાટ રાખો. બાકીના બનાવતાં તૈયાર લંબગોળને ભીના કપડાથી ઢાંકો.",
+        "પહોળી ભારે કડાઈ મધ્યમ તાપે માપેલા તેલની પાતળી પરત સાથે ગરમ કરો. લંબગોળને ખેપમાં બંને બાજુ આશરે 1–2 મિનિટ છીછરા તેલમાં તળો જેથી સ્થિર અને આછા સોનેરી થાય; જરૂર મુજબ માપેલા તેલમાંથી વધારો. સાવ ભાંગી જાય એવા ટોસ્ટાડા ન બનાવતાં સહેજ લચીલા રાખો; જાળી પર થોડું તેલ નિતારો.",
+        "લીલી અને લાલ સાલસા અલગ ગરમ કરો અને કાપેલા બટાકામાં બાકીનું 2 ગ્રામ મીઠું ભેળવો. છ ગરમ ચાલુપાસ પર એક-એક મોટી ચમચી લીલી સાલસા અને અન્ય છ પર લાલ સાલસા લગાવો. રાંધેલા બટાકા, ઝીણી સફેદ ડુંગળી અને ભૂકો કરેલું શાકાહારી ચીઝ બારેય પર સરખાં વહેંચો.",
+        "તરત પીરસો, દરેકને ત્રણ નાની ચાલુપાસ. થાળીમાં લાલ અને લીલી વારાફરતી ગોઠવો જેથી પાતળી લંબગોળ મકાઈની નાવ અને હળવું પૂરણ દેખાય. પોબ્લા શૈલીનું આ રૂપ જાડા, ભરેલા ગોળ સોપે કરતાં જાણીજોઈને નાનું અને સપાટ હોય છે."
+      ],
+      "tips": ["પ્રાણીની ચરબીને બદલે વનસ્પતિ તેલ વાપરો અને ચીઝનું લેબલ તપાસો. બંને સાલસા ઘાટી હોવી જોઈએ જેથી નાનાં લંબગોળ પાયા પર ટકે. તપાસેલા ફોટામાં છ પાતળી લંબગોળ નાવ છે, વારાફરતી લાલ-લીલી સાલસા અને ઉપર બટાકા, સફેદ ડુંગળી તથા ચીઝ છે."]
+    }
+  },
+  "reference": {"url": "https://recetasmexas.com/en-gb/guide/chalupas-poblanas", "use": "Puebla-style small oval shallow-fried masa and red/green salsa form; vegetarian potato-cheese topping, measurements and wording independently authored."}
+}
