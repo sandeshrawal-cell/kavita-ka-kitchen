@@ -9373,5 +9373,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "gorditas": {
+    "name": "Gorditas",
+    "src": "/photos/gorditas-1200.webp",
+    "small": "/photos/gorditas-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Gorditas served ready to eat",
+    "kind": "generated",
+    "title": "Gorditas",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
