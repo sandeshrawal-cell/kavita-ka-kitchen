@@ -9277,5 +9277,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-03"
+  },
+  "soya-chaap-roll": {
+    "name": "Soya Chaap Roll",
+    "src": "/photos/soya-chaap-roll-1200.webp",
+    "small": "/photos/soya-chaap-roll-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Soya Chaap Roll served ready to eat",
+    "kind": "generated",
+    "title": "Soya Chaap Roll",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }
