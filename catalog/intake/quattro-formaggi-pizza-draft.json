@@ -1,0 +1,57 @@
+{
+  "sourceReviewId": "R0152",
+  "id": "quattro-formaggi-pizza",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Quattro Formaggi Pizza",
+  "cuisine": "Italian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 180,
+  "ingredients": [
+    {"name": "strong white wheat flour", "qty": 500, "unit": "g"},
+    {"name": "water", "qty": 320, "unit": "ml"},
+    {"name": "instant dry yeast", "qty": 3, "unit": "g"},
+    {"name": "fine salt", "qty": 10, "unit": "g"},
+    {"name": "vegetarian mozzarella made with microbial rennet", "qty": 200, "unit": "g"},
+    {"name": "vegetarian fontina-style melting cheese", "qty": 120, "unit": "g"},
+    {"name": "vegetarian mild blue cheese", "qty": 80, "unit": "g"},
+    {"name": "vegetarian hard grating cheese made with microbial rennet", "qty": 60, "unit": "g"},
+    {"name": "extra-virgin olive oil", "qty": 20, "unit": "ml"},
+    {"name": "black pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Check the labels of all four cheeses separately: each must be made with vegetarian or microbial rennet. Mix flour and yeast, then add 300 ml water and combine into a shaggy dough. Dissolve 10 g salt in the remaining 20 ml water and knead it into the dough for 8–10 minutes until smooth. Cover and rise at room temperature for 90–120 minutes until expanded.",
+    "Divide the dough into four equal balls, cover and rest 30–45 minutes. Drain and tear the mozzarella into small pieces; pat it dry to prevent watery pizza. Coarsely grate the fontina-style cheese, crumble the mild blue cheese and finely grate the hard cheese.",
+    "Put a pizza stone or sturdy upside-down baking tray in the oven and preheat at the highest safe setting, ideally 250–275°C, for at least 30 minutes. On a lightly floured surface, press one dough ball from the middle into a roughly 25 cm round, keeping a raised 1–2 cm rim. Do not flatten the rim with a rolling pin.",
+    "Brush one-quarter of the olive oil over the centre. Scatter one-quarter of the mozzarella and fontina-style cheese, then dot with one-quarter of the blue cheese, leaving some white cheese visibly distinct. Bake on the hot stone or tray for 7–10 minutes until the crust is browned, the base is cooked and cheese bubbles; repeat for the remaining three pizzas.",
+    "Sprinkle each hot pizza with one-quarter of the finely grated hard cheese and black pepper. Rest 1 minute before slicing. Serve warm; the four cheeses should make a pale, melted topping with a few blue-cheese pockets, without tomato sauce."
+  ],
+  "tips": ["The reviewed photo is a white pizza with bubbly melted cheese and small blue-veined patches, no tomato. Four distinct vegetarian cheeses recreate mozzarella stretch, fontina melt, mild blue tang and aged savouriness. Ordinary Parmesan, Gorgonzola and other named cheeses may use animal rennet, so verify every label rather than relying on the name."],
+  "translations": {
+    "hi": {
+      "name": "क्वात्रो फोर्माज्जी पिज़्ज़ा",
+      "ingredients": ["अधिक प्रोटीन वाला सफेद गेहूँ का आटा", "पानी", "इंस्टेंट सूखा यीस्ट", "बारीक नमक", "सूक्ष्मजीवी रेननेट वाला शाकाहारी मोज़ेरेला", "शाकाहारी फॉन्टिना-जैसा पिघलने वाला चीज़", "शाकाहारी हल्का ब्लू चीज़", "सूक्ष्मजीवी रेननेट वाला शाकाहारी सख्त कद्दूकस चीज़", "एक्स्ट्रा-वर्जिन जैतून तेल", "काली मिर्च"],
+      "steps": [
+        "चारों चीज़ के लेबल अलग-अलग जाँचें: प्रत्येक शाकाहारी या सूक्ष्मजीवी रेननेट से बना हो। आटा और यीस्ट मिलाएँ, फिर 300 मिली पानी डालकर मोटा आटा बनाएँ। बचा 20 मिली पानी में 10 ग्राम नमक घोलें और 8–10 मिनट आटे में गूँधें जब तक चिकना हो। ढककर कमरे के तापमान पर 90–120 मिनट फूलने दें।",
+        "आटे को चार बराबर गोले बनाएँ, ढककर 30–45 मिनट आराम दें। मोज़ेरेला छानकर छोटे टुकड़े करें; पानीदार पिज़्ज़ा रोकने के लिए सुखाएँ। फॉन्टिना-जैसा चीज़ मोटा कद्दूकस करें, हल्का ब्लू चीज़ तोड़ें और सख्त चीज़ बारीक कद्दूकस करें।",
+        "पिज़्ज़ा स्टोन या मज़बूत उल्टी बेकिंग ट्रे ओवन में रखें और सुरक्षित सबसे तेज़ ताप, आदर्शतः 250–275°C, पर कम से कम 30 मिनट गरम करें। हल्के आटे वाली सतह पर एक गोले को बीच से दबाकर लगभग 25 सेमी फैलाएँ, 1–2 सेमी उठा किनारा रखें। बेलन से किनारा चपटा न करें।",
+        "जैतून तेल का एक-चौथाई हिस्सा बीच में लगाएँ। मोज़ेरेला और फॉन्टिना-जैसे चीज़ का एक-चौथाई हिस्सा फैलाएँ, फिर ब्लू चीज़ का एक-चौथाई हिस्सा थोड़ी-थोड़ी जगह रखें ताकि सफेद चीज़ अलग दिखे। गरम स्टोन या ट्रे पर 7–10 मिनट बेक करें जब तक किनारा भूरा, तली पकी और चीज़ बुलबुलेदार हो; बाकी तीन पिज़्ज़ा भी ऐसे बनाएँ।",
+        "हर गरम पिज़्ज़ा पर बारीक कद्दूकस सख्त चीज़ और काली मिर्च का एक-चौथाई हिस्सा छिड़कें। काटने से पहले 1 मिनट रुकें। गरम परोसें; चार चीज़ की हल्की पिघली टॉपिंग पर कुछ ब्लू चीज़ के हिस्से हों, टमाटर सॉस नहीं।"
+      ],
+      "tips": ["समीक्षित तस्वीर में बिना टमाटर का सफेद पिज़्ज़ा है, पिघले बुलबुलेदार चीज़ पर थोड़े नीली नस वाले हिस्से हैं। चार अलग शाकाहारी चीज़ मोज़ेरेला की खिंचाव, फॉन्टिना की पिघलन, हल्की ब्लू खटास और पुराने चीज़ का स्वाद देते हैं। आम पार्मेज़ान, गोर्गोंज़ोला और अन्य चीज़ में पशु रेननेट हो सकता है, इसलिए हर लेबल जाँचें।"]
+    },
+    "gu": {
+      "name": "ક્વાત્રો ફોર્માજ્જી પિઝા",
+      "ingredients": ["વધુ પ્રોટીનવાળો સફેદ ઘઉંનો લોટ", "પાણી", "ઇન્સ્ટન્ટ સૂકો યીસ્ટ", "બારીક મીઠું", "સૂક્ષ્મજીવી રેનેટવાળું શાકાહારી મોઝરેલા", "શાકાહારી ફોન્ટિના જેવું ઓગળતું ચીઝ", "શાકાહારી હળવું બ્લૂ ચીઝ", "સૂક્ષ્મજીવી રેનેટવાળું શાકાહારી કઠણ છીણવાનું ચીઝ", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "કાળા મરી"],
+      "steps": [
+        "ચારેય ચીઝનાં લેબલ અલગ તપાસો: દરેક શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટથી બનેલું હોય. લોટ અને યીસ્ટ ભેળવો, પછી 300 મિલી પાણી નાખી ખરબચડો લોટ બનાવો. બાકીનું 20 મિલી પાણીમાં 10 ગ્રામ મીઠું ઓગાળી 8–10 મિનિટ લોટમાં મસળો જેથી સુંવાળો થાય. ઢાંકી ઓરડાના તાપે 90–120 મિનિટ ફૂલવા દો.",
+        "લોટના ચાર સરખા ગોળા કરો, ઢાંકી 30–45 મિનિટ આરામ આપો. મોઝરેલા નિતારી નાનાં ટુકડા કરો; પિઝા પાણીદાર ન થાય તે માટે કોરાં કરો. ફોન્ટિના જેવું ચીઝ જાડું છીણો, હળવું બ્લૂ ચીઝ ભાંગો અને કઠણ ચીઝ બારીક છીણો.",
+        "પિઝા સ્ટોન અથવા મજબૂત ઊંધી બેકિંગ ટ્રે ઓવનમાં મૂકી સલામત મહત્તમ તાપે, શક્ય હોય તો 250–275°C, ઓછામાં ઓછું 30 મિનિટ ગરમ કરો. સહેજ લોટ છાંટેલી સપાટી પર એક ગોળાને મધ્યમાંથી દબાવી આશરે 25 સેમી ફેલાવો, 1–2 સેમી ઊંચી ધાર રાખો. વેલણથી ધાર સપાટ ન કરો.",
+        "ઓલિવ તેલનો ચોથો ભાગ મધ્યમાં લગાવો. મોઝરેલા અને ફોન્ટિના જેવા ચીઝનો ચોથો ભાગ ફેલાવો, પછી બ્લૂ ચીઝનો ચોથો ભાગ થોડે થોડે મૂકો જેથી સફેદ ચીઝ અલગ દેખાય. ગરમ સ્ટોન કે ટ્રે પર 7–10 મિનિટ બેક કરો જેથી ધાર બદામી, તળિયું રંધાયેલું અને ચીઝ પરપોટાવાળું થાય; બાકી ત્રણ પિઝા પણ એમ બનાવો.",
+        "દરેક ગરમ પિઝા પર બારીક છીણેલા કઠણ ચીઝ અને કાળા મરીનો ચોથો ભાગ છાંટો. કાપતાં પહેલાં 1 મિનિટ રોકાઓ. ગરમ પીરસો; ચાર ચીઝની ફિક્કી ઓગળેલી ટોપિંગમાં થોડાં બ્લૂ ચીઝના ભાગ હોય, ટામેટાંની સોસ નહીં."
+      ],
+      "tips": ["તપાસેલા ફોટામાં ટામેટાં વગરનો સફેદ પિઝા છે, ઓગળેલા પરપોટાવાળા ચીઝમાં થોડાં વાદળી નસવાળા ભાગ છે. ચાર અલગ શાકાહારી ચીઝ મોઝરેલાની ખેંચાણ, ફોન્ટિનાનું ઓગળવું, હળવા બ્લૂનો ખાટો સ્વાદ અને જૂના ચીઝનો ઊંડો સ્વાદ આપે છે. સામાન્ય પાર્મેઝાન, ગોર્ગોન્ઝોલા અને અન્ય ચીઝમાં પ્રાણીજન્ય રેનેટ હોઈ શકે, એટલે દરેક લેબલ તપાસો."]
+    }
+  },
+  "reference": {"url": "https://www.piccolericette.net/piccolericette/recipe/pizza-ai-quattro-formaggi/", "use": "Four-cheese Italian pizza composition; vegetarian-rennet substitutions, dough measurements and wording independently authored for the reviewed photo."}
+}

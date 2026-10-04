@@ -9261,5 +9261,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-03"
+  },
+  "quattro-formaggi-pizza": {
+    "name": "Quattro Formaggi Pizza",
+    "src": "/photos/quattro-formaggi-pizza-1200.webp",
+    "small": "/photos/quattro-formaggi-pizza-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Quattro Formaggi Pizza served ready to eat",
+    "kind": "generated",
+    "title": "Quattro Formaggi Pizza",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-03"
   }
 }
