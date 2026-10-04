@@ -1,0 +1,59 @@
+{
+  "sourceReviewId": "R0153",
+  "id": "stromboli",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Stromboli",
+  "cuisine": "Italian-American",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 135,
+  "ingredients": [
+    {"name": "bread flour", "qty": 350, "unit": "g"},
+    {"name": "lukewarm water", "qty": 220, "unit": "ml"},
+    {"name": "instant dry yeast", "qty": 4, "unit": "g"},
+    {"name": "fine salt", "qty": 6, "unit": "g"},
+    {"name": "olive oil", "qty": 25, "unit": "ml"},
+    {"name": "button mushrooms, sliced", "qty": 150, "unit": "g"},
+    {"name": "baby spinach", "qty": 100, "unit": "g"},
+    {"name": "roasted red bell pepper, drained and sliced", "qty": 120, "unit": "g"},
+    {"name": "garlic, minced", "qty": 6, "unit": "g"},
+    {"name": "thick tomato pizza sauce", "qty": 80, "unit": "g"},
+    {"name": "vegetarian mozzarella made with microbial rennet, grated", "qty": 180, "unit": "g"},
+    {"name": "dried oregano", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Mix flour, yeast, water, salt and 15 ml olive oil into a dough. Knead for 8–10 minutes until smooth and elastic. Cover and leave in a warm place for 60–75 minutes until noticeably doubled. Check the mozzarella label to ensure it uses microbial or other vegetarian rennet.",
+    "Meanwhile heat 5 ml olive oil in a wide pan. Cook the sliced mushrooms over medium-high heat for 5–7 minutes until their liquid evaporates and the edges brown. Add garlic and spinach; cook 2–3 minutes until the leaves wilt. Transfer to a sieve and cool completely, pressing out excess moisture. Pat the drained roasted pepper strips dry.",
+    "Heat the oven to 220°C and line a baking tray. Roll the risen dough on a lightly floured surface into a rectangle about 35 × 28 cm. Spread the thick tomato sauce thinly, leaving a 3 cm clear border. Scatter the dry mushroom-spinach mixture, roasted pepper and grated vegetarian mozzarella evenly over the sauce; keep the filling away from the edges.",
+    "Starting at a long edge, roll the dough tightly around the filling into one long cylinder. Pinch the seam and both ends firmly shut, then place seam-side down on the tray. Brush the outside with the remaining 5 ml olive oil, sprinkle with oregano and cut three shallow steam slits across the top.",
+    "Bake for 25–30 minutes until the crust is deep golden and fully cooked and the cheese bubbles through the slits. Rest on the tray for 10 minutes so the filling sets, then cut into thick diagonal slices. Serve warm, with extra tomato sauce on the side if desired."
+  ],
+  "tips": ["Cool and drain the cooked vegetables before rolling: wet filling makes the centre soggy and can split the crust. The reviewed image shows a sliced golden roll with visible spinach, mushrooms, red pepper, tomato and melted cheese."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी स्ट्रॉम्बोली",
+      "ingredients": ["ब्रेड बनाने वाला मैदा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "बारीक नमक", "जैतून का तेल", "कटे हुए बटन मशरूम", "बेबी पालक", "भुनी लाल शिमला मिर्च, पानी निकालकर कटी हुई", "बारीक कटा लहसुन", "गाढ़ी टमाटर पिज़्ज़ा सॉस", "सूक्ष्मजीवी रेननेट वाला शाकाहारी मोज़ेरेला, कद्दूकस किया हुआ", "सूखा ओरिगैनो"],
+      "steps": [
+        "मैदा, यीस्ट, पानी, नमक और 15 मिली जैतून तेल मिलाकर आटा बनाएँ। 8–10 मिनट गूँधें ताकि चिकना और लचीला हो। ढककर गरम जगह में 60–75 मिनट रखें, जब तक अच्छी तरह दोगुना फूल जाए। मोज़ेरेला के लेबल पर जाँचें कि उसमें सूक्ष्मजीवी या अन्य शाकाहारी रेननेट है।",
+        "इस बीच चौड़े पैन में 5 मिली जैतून तेल गरम करें। कटे मशरूम को मध्यम-तेज़ आँच पर 5–7 मिनट पकाएँ ताकि उनका पानी सूख जाए और किनारे भूरे हों। लहसुन और पालक डालकर 2–3 मिनट पकाएँ, जब तक पत्ते मुरझा जाएँ। छलनी में निकालकर पूरी तरह ठंडा करें और अतिरिक्त पानी दबाकर निकालें। भुनी शिमला मिर्च की पट्टियाँ भी पोंछकर सुखाएँ।",
+        "ओवन 220°C पर गरम करें और बेकिंग ट्रे पर पेपर बिछाएँ। फूले आटे को हल्के मैदे वाली सतह पर लगभग 35 × 28 सेमी का आयत बेलें। गाढ़ी टमाटर सॉस की पतली परत फैलाएँ, चारों ओर 3 सेमी किनारा खाली रखें। सूखे मशरूम-पालक, भुनी शिमला मिर्च और कद्दूकस शाकाहारी मोज़ेरेला सॉस पर बराबर फैलाएँ; भरावन किनारों से दूर रखें।",
+        "लंबे किनारे से शुरू कर आटे को भरावन के चारों ओर कसकर एक लंबा रोल बनाएँ। जोड़ और दोनों सिरे अच्छी तरह दबाकर बंद करें, फिर जोड़ नीचे रखकर ट्रे पर रखें। बाहर बचा 5 मिली जैतून तेल लगाएँ, ओरिगैनो छिड़कें और ऊपर भाप निकलने के लिए तीन हल्के चीरे लगाएँ।",
+        "25–30 मिनट बेक करें, जब तक पपड़ी गहरी सुनहरी और पूरी तरह पकी हो तथा चीज़ चीरों से हल्का उबलता दिखे। भरावन जमने के लिए ट्रे पर 10 मिनट ठहराएँ, फिर मोटे तिरछे टुकड़े काटें। चाहें तो साथ में अतिरिक्त टमाटर सॉस देकर गरम परोसें।"
+      ],
+      "tips": ["रोल करने से पहले पकी सब्ज़ियाँ ठंडी करके उनका पानी अच्छी तरह निकालें: गीली भरावन बीच को लिसलिसा करती है और पपड़ी फाड़ सकती है। समीक्षित तस्वीर में सुनहरा कटा रोल है जिसमें पालक, मशरूम, लाल शिमला मिर्च, टमाटर और पिघला चीज़ दिखाई देते हैं।"]
+    },
+    "gu": {
+      "name": "શાકાહારી સ્ટ્રોમ્બોલી",
+      "ingredients": ["બ્રેડ માટેનો મેંદો", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકો યીસ્ટ", "બારીક મીઠું", "ઓલિવ તેલ", "કાપેલા બટન મશરૂમ", "નાનું પાલક", "શેકેલા લાલ સિમલા મરચાં, પાણી નિતારીને કાપેલા", "ઝીણું સમારેલું લસણ", "ઘાટી ટામેટાંની પિઝા સોસ", "સૂક્ષ્મજીવી રેનેટવાળું શાકાહારી મોઝરેલા, છીણેલું", "સૂકો ઓરેગાનો"],
+      "steps": [
+        "મેંદો, યીસ્ટ, પાણી, મીઠું અને 15 મિલી ઓલિવ તેલ ભેળવી લોટ બાંધો. 8–10 મિનિટ મસળો જેથી સુંવાળો અને લચીલો બને. ઢાંકી ગરમ જગ્યાએ 60–75 મિનિટ રાખો, જેથી સારી રીતે બમણો ફૂલે. મોઝરેલાના લેબલ પર તપાસો કે તેમાં સૂક્ષ્મજીવી અથવા અન્ય શાકાહારી રેનેટ વપરાયું છે.",
+        "દરમિયાન પહોળી કડાઈમાં 5 મિલી ઓલિવ તેલ ગરમ કરો. કાપેલા મશરૂમ મધ્યમથી વધુ તાપે 5–7 મિનિટ સાંતળો જેથી તેમનું પાણી બળી જાય અને કિનારી બદામી થાય. લસણ અને પાલક નાખી 2–3 મિનિટ રાંધો જેથી પાંદડાં ચીમળાય. ચાળણીમાં કાઢીને સાવ ઠંડાં કરો અને વધારાનું પાણી દબાવી કાઢો. શેકેલા સિમલા મરચાંની પટ્ટીઓ પણ લૂછીને કોરી કરો.",
+        "ઓવન 220°C પર ગરમ કરો અને બેકિંગ ટ્રેમાં પેપર પાથરો. ફૂલેલા લોટને સહેજ મેંદો છાંટેલી સપાટી પર આશરે 35 × 28 સેમી લંબચોરસ વણો. ઘાટી ટામેટાંની સોસનું પાતળું પડ લગાવો અને ચારે તરફ 3 સેમી ધાર ખાલી રાખો. કોરાં મશરૂમ-પાલક, શેકેલા સિમલા મરચાં અને છીણેલું શાકાહારી મોઝરેલા સોસ પર સરખું પાથરો; પૂરણ ધારથી દૂર રાખો.",
+        "લાંબી ધારથી શરૂ કરી પૂરણ સાથે લોટને કસીને લાંબા રોલમાં વાળો. જોડ અને બંને છેડા મજબૂત દબાવી બંધ કરો, પછી જોડ નીચે રાખીને ટ્રે પર મૂકો. બહાર બાકીનું 5 મિલી ઓલિવ તેલ લગાવો, ઓરેગાનો છાંટો અને વરાળ નીકળે તે માટે ઉપર ત્રણ છીછરા ચીરા કરો.",
+        "25–30 મિનિટ બેક કરો જેથી બહારની પોપડી ઘેરી સોનેરી અને સંપૂર્ણ શેકાય તથા ચીરામાંથી ચીઝ ઉકળતું દેખાય. પૂરણ સ્થિર થાય તે માટે ટ્રે પર 10 મિનિટ રહેવા દો, પછી જાડા ત્રાંસા કટકા કરો. ઇચ્છા હોય તો વધારાની ટામેટાંની સોસ સાથે ગરમ પીરસો."
+      ],
+      "tips": ["રોલ વાળતાં પહેલાં રાંધેલા શાક ઠંડા કરી પાણી સારી રીતે નિતારો: ભીનું પૂરણ વચ્ચેનો ભાગ ચીકણો બનાવે છે અને પોપડી ફાટી શકે છે. તપાસેલા ફોટામાં સોનેરી કાપેલો રોલ છે જેમાં પાલક, મશરૂમ, લાલ સિમલા મરચાં, ટામેટાં અને ઓગળેલું ચીઝ દેખાય છે."]
+    }
+  },
+  "reference": {"url": "https://herbivorecucina.com/easy-vegetarian-stromboli-rolled-up-pizza/", "use": "Vegetarian stromboli technique and vegetable-cheese composition; measurements, wording and eggless finish independently developed for the reviewed photo."}
+}

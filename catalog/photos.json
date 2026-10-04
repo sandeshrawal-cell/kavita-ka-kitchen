@@ -9293,5 +9293,21 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "stromboli": {
+    "name": "Stromboli",
+    "src": "/photos/stromboli-1200.webp",
+    "small": "/photos/stromboli-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Stromboli served ready to eat",
+    "kind": "generated",
+    "title": "Stromboli",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
