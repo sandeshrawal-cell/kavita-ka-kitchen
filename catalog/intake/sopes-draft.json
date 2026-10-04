@@ -1,0 +1,57 @@
+{
+  "sourceReviewId": "R0157",
+  "id": "sopes",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Sopes",
+  "cuisine": "Mexican",
+  "categories": ["Lunch", "Dinner", "Snack"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "masa harina (nixtamalized corn flour)", "qty": 240, "unit": "g"},
+    {"name": "warm water", "qty": 330, "unit": "ml"},
+    {"name": "fine salt", "qty": 5, "unit": "g"},
+    {"name": "vegetarian refried beans, warm", "qty": 320, "unit": "g"},
+    {"name": "lettuce, finely shredded", "qty": 100, "unit": "g"},
+    {"name": "thick fresh tomato salsa", "qty": 160, "unit": "g"},
+    {"name": "vegetarian crumbly fresh cheese made without animal rennet", "qty": 80, "unit": "g"},
+    {"name": "soured cream or vegetarian crema", "qty": 80, "unit": "g"},
+    {"name": "fresh coriander leaves", "qty": 15, "unit": "g"},
+    {"name": "neutral oil", "qty": 20, "unit": "ml"}
+  ],
+  "steps": [
+    "Mix masa harina with salt, then add the warm water gradually and knead for 2 minutes into a soft dough that holds together without sticking. Rest covered for 15 minutes so the corn flour hydrates. If the dough cracks when pressed, work in a little of the measured water; if sticky, rest a little longer.",
+    "Divide the dough into eight equal balls. Flatten each between two sheets of plastic or baking paper into a thick round about 9–10 cm across and 8–10 mm thick. Heat a dry heavy griddle over medium heat and cook each round for about 2 minutes per side until the surface sets and light brown marks appear.",
+    "While the rounds are still warm but safe to handle, use a clean cloth to protect your fingers and pinch a raised rim all the way around each edge, making a shallow bowl. Brush the griddle lightly with the measured oil and return the shaped sopes, base-side down, for 2–3 minutes until their bottoms are lightly crisp and the centres cook through.",
+    "Warm the vegetarian refried beans until spreadable. Verify that the crumbly cheese is made without animal rennet. Spread about 40 g beans inside each raised rim, then divide the shredded lettuce and thick tomato salsa evenly among the eight sopes. Add the cheese, a spoonful of crema and chopped coriander to each.",
+    "Serve immediately, two sopes per person, while the thick corn bases are warm and the lettuce remains crisp. Lift them by their firm raised edges; these are open topped masa cakes, not folded tacos or flat crisp tostadas."
+  ],
+  "tips": ["Masa harina is nixtamalized corn flour; ordinary coarse cornmeal will not form the same smooth dough. Pinch the rim while warm, before the masa becomes rigid. The reviewed photo clearly shows four thick, raised-rim corn cakes with beans, lettuce, tomato, white cheese and crema."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी सोपेस",
+      "ingredients": ["मासा हारिना (क्षार से संसाधित मक्के का आटा)", "गुनगुना पानी", "बारीक नमक", "शाकाहारी मैश किए बीन्स, गरम", "सलाद पत्ता, बारीक कटा", "गाढ़ा ताज़ा टमाटर साल्सा", "पशु रेननेट रहित शाकाहारी चूरा होने वाला ताज़ा चीज़", "सॉर क्रीम या शाकाहारी क्रेमा", "ताज़ी धनिया पत्ती", "हल्का स्वाद वाला तेल"],
+      "steps": [
+        "मासा हारिना में नमक मिलाएँ, फिर गुनगुना पानी धीरे-धीरे डालकर 2 मिनट गूँधें, जब तक नरम आटा जुड़े पर चिपके नहीं। ढककर 15 मिनट रखें ताकि मक्के का आटा पानी सोखे। दबाने पर दरार पड़े तो नापे पानी में से थोड़ा और डालें; चिपके तो कुछ देर और रखें।",
+        "आटे की आठ बराबर लोइयाँ बनाएँ। हर लोई को प्लास्टिक या बेकिंग पेपर की दो परतों के बीच दबाकर लगभग 9–10 सेमी चौड़ी और 8–10 मिमी मोटी टिक्की बनाएँ। भारी तवा मध्यम आँच पर गरम करें और हर टिक्की दोनों ओर करीब 2 मिनट सेंकें, जब तक सतह जम जाए और हल्के भूरे निशान आएँ।",
+        "टिक्कियाँ अभी गरम पर सँभालने योग्य हों तभी साफ़ कपड़े से उँगलियाँ बचाकर पूरे किनारे को ऊपर चुटकी से उठाएँ, ताकि उथली कटोरी जैसी धार बने। तवे पर नापे तेल की हल्की परत लगाएँ और बने सोपेस को नीचे की ओर से 2–3 मिनट फिर सेंकें, जब तक तली हल्की कुरकुरी और बीच पका हो।",
+        "शाकाहारी मैश किए बीन्स फैलाने योग्य होने तक गरम करें। जाँचें कि चूरा होने वाला चीज़ पशु रेननेट के बिना बना है। हर उठी धार के भीतर करीब 40 ग्राम बीन्स फैलाएँ, फिर कटे सलाद पत्ते और गाढ़े टमाटर साल्सा को आठों में बराबर बाँटें। हर एक पर चीज़, एक चम्मच क्रेमा और कटा धनिया डालें।",
+        "तुरंत परोसें, प्रति व्यक्ति दो सोपेस, जब मोटा मक्के का आधार गरम और सलाद पत्ता कुरकुरा हो। इन्हें मज़बूत उठी धार से पकड़ें; ये खुले ऊपर वाले मक्के के केक हैं, मोड़े टैको या सपाट कुरकुरे टोस्टाडा नहीं।"
+      ],
+      "tips": ["मासा हारिना विशेष रूप से संसाधित मक्के का आटा है; साधारण मोटा कॉर्नमील वैसा चिकना आटा नहीं बनाएगा। धार गरम रहते उठाएँ, आटा सख्त होने से पहले। समीक्षित तस्वीर में चार मोटे उठे किनारे वाले मक्के के केक दिखते हैं, जिन पर बीन्स, सलाद पत्ता, टमाटर, सफेद चीज़ और क्रेमा हैं।"]
+    },
+    "gu": {
+      "name": "શાકાહારી સોપેસ",
+      "ingredients": ["માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)", "હૂંફાળું પાણી", "બારીક મીઠું", "શાકાહારી છૂંદેલા બીન, ગરમ", "લેટસ, ઝીણું કાપેલું", "ઘાટી તાજી ટામેટાંની સાલસા", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ભૂકો થતું તાજું ચીઝ", "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા", "તાજી કોથમીર", "હળવા સ્વાદનું તેલ"],
+      "steps": [
+        "માસા હારિનામાં મીઠું ભેળવો, પછી હૂંફાળું પાણી ધીમે ધીમે નાખી 2 મિનિટ મસળો જેથી નરમ લોટ ભેગો થાય પણ ચોંટે નહીં. ઢાંકી 15 મિનિટ રાખો જેથી મકાઈનો લોટ પાણી શોષે. દબાવતાં તિરાડ પડે તો માપેલા પાણીમાંથી થોડું વધુ ઉમેરો; ચોંટે તો થોડો વધુ આરામ આપો.",
+        "લોટના આઠ સરખા ગોળા કરો. દરેકને પ્લાસ્ટિક અથવા બેકિંગ પેપરની બે પડ વચ્ચે દબાવી આશરે 9–10 સેમી પહોળી અને 8–10 મિમી જાડી ગોળ રોટલી બનાવો. ભારે તવો મધ્યમ તાપે ગરમ કરો અને દરેકને બંને બાજુ આશરે 2 મિનિટ શેકો જેથી સપાટી સ્થિર થાય અને આછા બદામી ડાઘ પડે.",
+        "ગોળ રોટલી હજુ ગરમ પણ પકડી શકાય તેવી હોય ત્યારે સ્વચ્છ કપડાથી આંગળીઓને બચાવી ચારે તરફની ધાર ચપટીથી ઊંચી કરો જેથી છીછરી વાટકી બને. માપેલા તેલથી તવો સહેજ ચોપડો અને આકાર આપેલા સોપેસને તળિયું નીચે રાખી 2–3 મિનિટ ફરી શેકો જેથી તળિયું સહેજ કરકરું અને મધ્ય ભાગ રંધાયેલો થાય.",
+        "શાકાહારી છૂંદેલા બીન ફેલાવી શકાય એટલા ગરમ કરો. ભૂકો થતું ચીઝ પ્રાણીજન્ય રેનેટ વગર બનેલું છે તે તપાસો. દરેક ઊંચી ધારની અંદર આશરે 40 ગ્રામ બીન લગાવો, પછી સમારેલું લેટસ અને ઘાટી ટામેટાંની સાલસા આઠેયમાં સરખાં વહેંચો. દરેક પર ચીઝ, એક ચમચી ક્રેમા અને સમારેલી કોથમીર મૂકો.",
+        "તરત પીરસો, દરેકને બે સોપેસ, જ્યારે જાડો મકાઈનો પાયો ગરમ અને લેટસ કરકરું હોય. તેમને મજબૂત ઊંચી ધારથી પકડો; આ ઉપરથી ખુલ્લાં મકાઈના કેક છે, વાળેલા ટાકો કે સપાટ કરકરા ટોસ્ટાડા નહીં."
+      ],
+      "tips": ["માસા હારિના ખાસ પ્રક્રિયા કરેલો મકાઈનો લોટ છે; સામાન્ય જાડો મકાઈનો લોટ એવો સુંવાળો લોટ નહીં બનાવે. લોટ ગરમ હોય ત્યારે ધાર ઊંચી કરો, સખત થાય તે પહેલાં. તપાસેલા ફોટામાં ચાર જાડા ઊંચી ધારવાળા મકાઈના કેક છે જેમાં બીન, લેટસ, ટામેટાં, સફેદ ચીઝ અને ક્રેમા દેખાય છે."]
+    }
+  },
+  "reference": {"url": "https://www.kingarthurbaking.com/recipes/sopes-recipe", "use": "Masa shaping and raised-rim technique; vegetarian toppings, quantities and wording independently authored to match the reviewed photo."}
+}

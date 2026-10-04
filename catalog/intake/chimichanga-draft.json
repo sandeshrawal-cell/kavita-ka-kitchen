@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0156",
+  "id": "chimichanga",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Chimichanga",
+  "cuisine": "Mexican-American",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "large flour tortillas (4 pieces)", "qty": 280, "unit": "g"},
+    {"name": "cooked black beans, drained", "qty": 320, "unit": "g"},
+    {"name": "cooked rice", "qty": 240, "unit": "g"},
+    {"name": "sweetcorn kernels, drained", "qty": 120, "unit": "g"},
+    {"name": "red bell pepper, diced", "qty": 120, "unit": "g"},
+    {"name": "onion, diced", "qty": 80, "unit": "g"},
+    {"name": "vegetarian melting cheese made without animal rennet", "qty": 140, "unit": "g"},
+    {"name": "thick tomato salsa", "qty": 100, "unit": "g"},
+    {"name": "ground cumin", "qty": 3, "unit": "g"},
+    {"name": "smoked paprika", "qty": 3, "unit": "g"},
+    {"name": "fine salt", "qty": 4, "unit": "g"},
+    {"name": "neutral oil for frying", "qty": 750, "unit": "ml"},
+    {"name": "fresh coriander leaves", "qty": 15, "unit": "g"},
+    {"name": "avocado slices for serving", "qty": 100, "unit": "g"}
+  ],
+  "steps": [
+    "Drain the cooked black beans and sweetcorn thoroughly. Heat 10 ml of the measured oil in a pan and cook onion and red pepper for 5 minutes until softened. Add cumin and smoked paprika for 30 seconds, then stir in beans, corn, cooked rice and salt. Cook 3 minutes until hot and fairly dry; cool for 10 minutes so the tortillas do not steam open.",
+    "Check the cheese label to ensure it contains no animal rennet. Stir the chopped coriander into the cooled filling. Briefly warm the four tortillas in a dry pan so they bend without cracking. Put one-quarter of the filling slightly below the centre of each tortilla, then add 35 g cheese and 25 g thick salsa. Leave a generous clear border.",
+    "Fold the left and right edges in over the filling, pull the near edge tightly across it, and roll into a sealed rectangular parcel. Place seam-side down. If necessary, secure with a wooden toothpick and remember to remove it before serving. Keep the salsa inside thick; liquid can cause dangerous spattering during frying.",
+    "Pour the remaining oil into a deep heavy pan, keeping it no more than half full, and heat to 175°C. Carefully lower in one or two parcels seam-side down; fry for 3–5 minutes, turning gently until all sides are crisp golden brown and the filling is hot. Return the oil to 175°C between batches.",
+    "Drain on a rack for 3 minutes and remove any toothpicks. Cut one chimichanga diagonally to check that the cheese has melted, then serve the four hot parcels with avocado slices and extra salsa if desired. The fried shell should be audibly crisp, unlike a soft burrito."
+  ],
+  "tips": ["This is a fried, tightly sealed tortilla parcel, not another name for a soft burrito. The reviewed image shows a crisp bubbled shell and beans, corn, rice, peppers and cheese in the cut centre. Keep both the filling and salsa fairly dry before frying."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी चिमिचांगा",
+      "ingredients": ["बड़ी मैदे की टॉर्टिया (4 नग)", "पके काले बीन्स, पानी निकाले हुए", "पके चावल", "मीठे मकई के दाने, पानी निकाले हुए", "लाल शिमला मिर्च, कटी हुई", "प्याज़, कटा हुआ", "पशु रेननेट रहित शाकाहारी पिघलने वाला चीज़", "गाढ़ा टमाटर साल्सा", "पिसा जीरा", "स्मोक्ड पैप्रिका", "बारीक नमक", "तलने के लिए हल्का स्वाद वाला तेल", "ताज़ी धनिया पत्ती", "परोसने के लिए एवोकाडो के टुकड़े"],
+      "steps": [
+        "पके काले बीन्स और मकई का पानी पूरी तरह निकालें। नापे तेल में से 10 मिली पैन में गरम करें और प्याज़ तथा लाल शिमला मिर्च 5 मिनट नरम होने तक पकाएँ। जीरा और स्मोक्ड पैप्रिका 30 सेकंड भूनें, फिर बीन्स, मकई, पके चावल और नमक मिलाएँ। 3 मिनट गरम और काफ़ी सूखा होने तक पकाएँ; 10 मिनट ठंडा करें ताकि टॉर्टिया भाप से न खुले।",
+        "चीज़ के लेबल पर जाँचें कि उसमें पशु रेननेट नहीं है। ठंडी भरावन में कटा धनिया मिलाएँ। चार टॉर्टिया सूखे पैन में थोड़ी गरम करें ताकि बिना फटे मुड़ें। हर टॉर्टिया पर बीच से थोड़ा नीचे चौथाई भरावन रखें, फिर 35 ग्राम चीज़ और 25 ग्राम गाढ़ा साल्सा डालें। किनारों पर पर्याप्त जगह छोड़ें।",
+        "बायाँ और दायाँ किनारा भरावन पर मोड़ें, पास वाला किनारा कसकर ऊपर खींचें और बंद आयताकार पैकेट की तरह लपेटें। जोड़ नीचे रखें। ज़रूरत हो तो लकड़ी की टूथपिक लगाएँ और परोसने से पहले निकालना याद रखें। भीतर का साल्सा गाढ़ा रखें; पतला साल्सा तलते समय तेल उछाल सकता है।",
+        "बचा तेल गहरे भारी पैन में डालें, पैन आधे से ज़्यादा न भरें, और 175°C तक गरम करें। एक या दो पैकेट जोड़ नीचे रखकर सावधानी से तेल में डालें; 3–5 मिनट हल्के पलटते हुए तलें, जब तक हर ओर कुरकुरे सुनहरे और भीतर गरम हों। हर बैच के बीच तेल फिर 175°C होने दें।",
+        "जाली पर 3 मिनट तेल टपकाएँ और लगी टूथपिक निकालें। एक चिमिचांगा तिरछा काटकर चीज़ पिघला है यह देखें, फिर चारों गरम पैकेट एवोकाडो और चाहें तो अतिरिक्त साल्सा के साथ दें। तली पपड़ी नरम बरिटो से अलग साफ़ कुरकुरी होनी चाहिए।"
+      ],
+      "tips": ["यह तला, कसकर बंद टॉर्टिया पैकेट है, नरम बरिटो का दूसरा नाम नहीं। समीक्षित तस्वीर में बुलबुलों वाली कुरकुरी पपड़ी और कटे बीच में बीन्स, मकई, चावल, शिमला मिर्च तथा चीज़ हैं। तलने से पहले भरावन और साल्सा काफ़ी सूखे रखें।"]
+    },
+    "gu": {
+      "name": "શાકાહારી ચિમિચાંગા",
+      "ingredients": ["મોટી મેંદાની ટોર્ટિયા (4 નંગ)", "રાંધેલા કાળા બીન, પાણી નિતારેલા", "રાંધેલા ભાત", "મીઠી મકાઈના દાણા, પાણી નિતારેલા", "લાલ સિમલા મરચાં, સમારેલાં", "ડુંગળી, સમારેલી", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ઓગળતું ચીઝ", "ઘાટી ટામેટાંની સાલસા", "જીરું પાઉડર", "સ્મોક્ડ પેપ્રિકા", "બારીક મીઠું", "તળવા માટે હળવા સ્વાદનું તેલ", "તાજી કોથમીર", "પીરસવા માટે એવોકાડોના કટકા"],
+      "steps": [
+        "રાંધેલા કાળા બીન અને મકાઈનું પાણી સાવ નિતારો. માપેલા તેલમાંથી 10 મિલી કડાઈમાં ગરમ કરી ડુંગળી અને લાલ સિમલા મરચાં 5 મિનિટ નરમ થાય ત્યાં સુધી રાંધો. જીરું અને સ્મોક્ડ પેપ્રિકા 30 સેકન્ડ સાંતળો, પછી બીન, મકાઈ, રાંધેલા ભાત અને મીઠું ભેળવો. 3 મિનિટ ગરમ અને ઘણું કોરું થાય ત્યાં સુધી રાંધો; ટોર્ટિયા વરાળથી ન ખૂલે તે માટે 10 મિનિટ ઠંડું કરો.",
+        "ચીઝના લેબલ પર પ્રાણીજન્ય રેનેટ નથી તેની ખાતરી કરો. ઠંડા પૂરણમાં સમારેલી કોથમીર ભેળવો. ચાર ટોર્ટિયાને સૂકી કડાઈમાં સહેજ ગરમ કરો જેથી ફાટ્યા વગર વળે. દરેકની મધ્યથી સહેજ નીચે ચોથો ભાગ પૂરણ, પછી 35 ગ્રામ ચીઝ અને 25 ગ્રામ ઘાટી સાલસા મૂકો. ધાર પર પૂરતી જગ્યા છોડો.",
+        "ડાબી અને જમણી ધાર પૂરણ પર વાળો, નજીકની ધાર કસીને પૂરણ ઉપર ખેંચો અને બંધ લંબચોરસ પડીકું વાળો. જોડ નીચે રાખો. જરૂર હોય તો લાકડાની ટૂથપિક લગાવો અને પીરસતાં પહેલાં કાઢવાનું યાદ રાખો. અંદરની સાલસા ઘાટી રાખો; પાતળી સાલસા તળતી વખતે તેલ ઉછાળી શકે છે.",
+        "બાકીનું તેલ ઊંડી ભારે કડાઈમાં નાખો, અડધાથી વધુ ન ભરો અને 175°C સુધી ગરમ કરો. એક કે બે પડીકાં જોડ નીચે રાખી સાવધાનીથી તેલમાં મૂકો; 3–5 મિનિટ હળવેથી ફેરવી તળો જેથી બધી બાજુ કરકરાં સોનેરી અને અંદર ગરમ થાય. દરેક ખેપ વચ્ચે તેલ ફરી 175°C થવા દો.",
+        "જાળી પર 3 મિનિટ તેલ નિતારો અને ટૂથપિક હોય તો કાઢો. એક ચિમિચાંગા ત્રાંસો કાપી ચીઝ ઓગળ્યું છે તે તપાસો, પછી ચારેય ગરમ પડીકાં એવોકાડો અને ઇચ્છો તો વધારાની સાલસા સાથે પીરસો. તળેલું પડ નરમ બરિટો કરતાં સ્પષ્ટ કરકરું હોવું જોઈએ."
+      ],
+      "tips": ["આ તળેલું, કસીને બંધ કરેલું ટોર્ટિયાનું પડીકું છે, નરમ બરિટોનું બીજું નામ નથી. તપાસેલા ફોટામાં પરપોટાવાળો કરકરો પડ અને કાપેલા વચ્ચે બીન, મકાઈ, ભાત, સિમલા મરચાં તથા ચીઝ છે. તળતાં પહેલાં પૂરણ અને સાલસા ઘણાં કોરાં રાખો."]
+    }
+  },
+  "reference": {"url": "https://www.vegrecipesofindia.com/chimichanga/", "use": "Vegetarian chimichanga form and frying method; measurements, filling and wording independently authored to match the reviewed photo."}
+}
