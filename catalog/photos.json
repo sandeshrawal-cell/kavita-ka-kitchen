@@ -9325,5 +9325,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "bean-burrito": {
+    "name": "Bean Burrito",
+    "src": "/photos/bean-burrito-1200.webp",
+    "small": "/photos/bean-burrito-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Bean Burrito served ready to eat",
+    "kind": "generated",
+    "title": "Bean Burrito",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
