@@ -9421,5 +9421,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "enfrijoladas": {
+    "name": "Enfrijoladas",
+    "src": "/photos/enfrijoladas-1200.webp",
+    "small": "/photos/enfrijoladas-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Enfrijoladas served ready to eat",
+    "kind": "generated",
+    "title": "Enfrijoladas",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
