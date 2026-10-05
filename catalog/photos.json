@@ -9645,5 +9645,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "vegetarian-dan-dan-noodles": {
+    "name": "Vegetarian Dan Dan Noodles",
+    "src": "/photos/vegetarian-dan-dan-noodles-1200.webp",
+    "small": "/photos/vegetarian-dan-dan-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Vegetarian Dan Dan Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Vegetarian Dan Dan Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "sesame-noodles": {
+    "name": "Sesame Noodles",
+    "src": "/photos/sesame-noodles-1200.webp",
+    "small": "/photos/sesame-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Sesame Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Sesame Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "biang-biang-noodles": {
+    "name": "Biang Biang Noodles",
+    "src": "/photos/biang-biang-noodles-1200.webp",
+    "small": "/photos/biang-biang-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Biang Biang Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Biang Biang Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

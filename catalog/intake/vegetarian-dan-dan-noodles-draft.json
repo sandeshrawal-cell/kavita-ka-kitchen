@@ -1,0 +1,50 @@
+{
+  "sourceReviewId":"R0175","id":"vegetarian-dan-dan-noodles","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Dan Dan Noodles","cuisine":"Sichuan-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
+  "ingredients":[
+    {"name":"dry egg-free wheat noodles","qty":320,"unit":"g"},
+    {"name":"firm tofu, pressed and crumbled","qty":350,"unit":"g"},
+    {"name":"shiitake mushrooms, finely chopped","qty":150,"unit":"g"},
+    {"name":"baby bok choy","qty":240,"unit":"g"},
+    {"name":"Chinese sesame paste or tahini","qty":90,"unit":"g"},
+    {"name":"Sichuan chili oil","qty":50,"unit":"ml"},
+    {"name":"light soy sauce","qty":45,"unit":"ml"},
+    {"name":"Chinese black vinegar","qty":30,"unit":"ml"},
+    {"name":"garlic, finely chopped","qty":18,"unit":"g"},
+    {"name":"ginger, finely chopped","qty":15,"unit":"g"},
+    {"name":"ground Sichuan pepper","qty":3,"unit":"g"},
+    {"name":"sugar","qty":8,"unit":"g"},
+    {"name":"neutral oil","qty":20,"unit":"ml"},
+    {"name":"spring onions, sliced","qty":60,"unit":"g"},
+    {"name":"roasted peanuts, crushed","qty":35,"unit":"g"},
+    {"name":"hot noodle cooking water","qty":160,"unit":"ml"}
+  ],
+  "steps":[
+    "Press the tofu for 15 minutes, then crumble it finely. Heat the neutral oil in a skillet. Fry the tofu and chopped mushrooms over medium-high heat for 7–9 minutes, stirring occasionally, until most moisture evaporates and browned edges form. Add ginger, half the garlic, 15 ml of the soy sauce and the Sichuan pepper; stir for 1 minute.",
+    "In a large bowl, whisk sesame paste with the remaining 30 ml soy sauce, black vinegar, sugar, chili oil and remaining garlic. Add the measured hot noodle water gradually while whisking until smooth and pourable. Taste; the sauce should be spicy, nutty and pleasantly sour.",
+    "Boil egg-free wheat noodles according to the packet until springy. Before draining, reserve at least 160 ml of the cooking water for the sauce. In the same boiling water, blanch bok choy for 1–2 minutes until bright green, then drain.",
+    "Divide the smooth sesame-chili sauce between four warm bowls. Add the drained hot noodles and toss each portion thoroughly so every strand is coated. Add a splash of extra hot water only if the sauce is too thick.",
+    "Spoon the browned tofu-mushroom crumble over each bowl. Place blanched bok choy to one side, sprinkle with sliced spring onions and crushed peanuts, and serve at once while the sauce is glossy."
+  ],
+  "tips":["Check chili oil and noodles for animal ingredients; the version here contains no meat or egg. The reviewed photo shows browned tofu-mushroom crumble, sesame-chili sauce, bok choy, scallions and peanuts."],
+  "translations":{
+    "hi":{"name":"शाकाहारी दान दान नूडल्स","ingredients":["सूखे बिना अंडे के गेहूँ नूडल्स","सख्त टोफू, दबाकर चूरा किया","शीताके मशरूम, बारीक कटे","बेबी बोक चॉय","चाइनीज़ तिल पेस्ट या ताहिनी","सिचुआन चिली ऑयल","हल्का सोया सॉस","चाइनीज़ काला विनेगर","लहसुन, बारीक कटा","अदरक, बारीक कटा","पिसी सिचुआन मिर्च","चीनी","हल्का स्वाद वाला तेल","हरा प्याज़, कटा","भुनी मूँगफली, दरदरी","नूडल्स का गरम उबला पानी"],
+      "steps":[
+        "टोफू को 15 मिनट दबाकर बारीक चूरा करें। पैन में हल्का तेल गरम करें। टोफू और कटे मशरूम मध्यम-तेज़ आँच पर 7–9 मिनट कभी-कभी चलाकर भूनें, जब तक नमी सूखे और किनारे भूरे हों। अदरक, आधा लहसुन, 15 मिली सोया सॉस और सिचुआन मिर्च डालकर 1 मिनट चलाएँ।",
+        "बड़े कटोरे में तिल पेस्ट, बचा 30 मिली सोया सॉस, काला विनेगर, चीनी, चिली ऑयल और बचा लहसुन फेंटें। नापा गरम नूडल पानी धीरे-धीरे मिलाएँ ताकि सॉस चिकना और बहने योग्य हो। चखें; यह तीखा, तिल जैसा और हल्का खट्टा हो।",
+        "बिना अंडे वाले गेहूँ नूडल्स पैक अनुसार उबालें ताकि लचीले रहें। छानने से पहले कम से कम 160 मिली पानी सॉस के लिए बचाएँ। उसी उबलते पानी में बोक चॉय 1–2 मिनट चमकीला हरा होने तक उबालकर छानें।",
+        "चिकना तिल-चिली सॉस चार गरम बाउल में बाँटें। छाने गरम नूडल्स डालें और हर हिस्से को अच्छी तरह मिलाएँ ताकि हर नूडल पर सॉस चढ़े। सॉस ज़्यादा गाढ़ा हो तो थोड़ा अतिरिक्त गरम पानी डालें।",
+        "ऊपर भूरे टोफू-मशरूम का चूरा डालें। एक तरफ़ उबला बोक चॉय रखें, हरा प्याज़ और दरदरी मूँगफली छिड़कें, और सॉस चमकदार रहते तुरंत परोसें।"
+      ],
+      "tips":["चिली ऑयल और नूडल्स में पशु सामग्री न हो, जाँचें; यहाँ मांस या अंडा नहीं है। समीक्षित तस्वीर में भूरा टोफू-मशरूम चूरा, तिल-चिली सॉस, बोक चॉय, हरा प्याज़ और मूँगफली हैं।"]},
+    "gu":{"name":"શાકાહારી દાન દાન નૂડલ્સ","ingredients":["સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ","મજબૂત ટોફુ, દબાવી ભૂકો કરેલું","શીતાકે મશરૂમ, ઝીણાં સમારેલાં","બેબી બોક ચોય","ચાઇનીઝ તલની પેસ્ટ અથવા તાહિની","સિચુઆન ચીલી તેલ","હળવો સોયા સોસ","ચાઇનીઝ કાળો વિનેગર","લસણ, ઝીણું સમારેલું","આદુ, ઝીણું સમારેલું","દળેલી સિચુઆન મરી","ખાંડ","હળવા સ્વાદનું તેલ","લીલી ડુંગળી, સમારેલી","શેકેલી મગફળી, અધકચરી વાટેલી","નૂડલ્સનું ગરમ રાંધેલું પાણી"],
+      "steps":[
+        "ટોફુને 15 મિનિટ દબાવી ઝીણો ભૂકો કરો. કડાઈમાં હળવું તેલ ગરમ કરો. ટોફુ અને સમારેલા મશરૂમ મધ્યમથી વધુ તાપે 7–9 મિનિટ વચ્ચે વચ્ચે હલાવી શેકો, જેથી ભેજ સુકાય અને ધાર બદામી થાય. આદુ, અડધું લસણ, 15 મિલી સોયા સોસ અને સિચુઆન મરી નાખી 1 મિનિટ હલાવો.",
+        "મોટી વાટકીમાં તલની પેસ્ટ, બાકી 30 મિલી સોયા સોસ, કાળો વિનેગર, ખાંડ, ચીલી તેલ અને બાકી લસણ ફેંટો. માપેલું ગરમ નૂડલ પાણી ધીમે ધીમે ભેળવો જેથી સોસ સુંવાળો અને રેડી શકાય એવો થાય. ચાખો; તીખો, તલવાળો અને હળવો ખાટો હોવો જોઈએ.",
+        "ઈંડા વગરના ઘઉંના નૂડલ્સ પેક પ્રમાણે લચીલા થાય ત્યાં સુધી ઉકાળો. નિતારતાં પહેલાં ઓછામાં ઓછું 160 મિલી પાણી સોસ માટે રાખો. એ જ ઉકળતા પાણીમાં બોક ચોય 1–2 મિનિટ લીલું ચમકે ત્યાં સુધી બાફી નિતારો.",
+        "સુંવાળો તલ-ચીલી સોસ ચાર ગરમ બાઉલમાં વહેંચો. નિતારેલા ગરમ નૂડલ્સ નાખી દરેક ભાગ સારી રીતે ભેળવો જેથી દરેક નૂડલ પર સોસ લાગે. સોસ વધુ ઘટ્ટ હોય તો થોડું વધુ ગરમ પાણી ઉમેરો.",
+        "ઉપર બદામી ટોફુ-મશરૂમનો ભૂકો મૂકો. એક બાજુ બાફેલું બોક ચોય રાખો, લીલી ડુંગળી અને અધકચરી મગફળી છાંટો, અને સોસ ચમકદાર હોય ત્યારે તરત પીરસો."
+      ],
+      "tips":["ચીલી તેલ અને નૂડલ્સમાં પ્રાણીજન્ય સામગ્રી નથી તે તપાસો; અહીં માંસ કે ઈંડું નથી. તપાસેલા ફોટામાં બદામી ટોફુ-મશરૂમનો ભૂકો, તલ-ચીલી સોસ, બોક ચોય, લીલી ડુંગળી અને મગફળી છે."]}
+  },
+  "reference":{"url":"https://thewoksoflife.com/dan-dan-noodles/","use":"Sichuan dan dan sauce and topping profile; vegetarian tofu-mushroom substitute, quantities and wording independently authored."}
+}
