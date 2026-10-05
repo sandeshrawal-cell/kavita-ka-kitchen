@@ -1,0 +1,31 @@
+{
+  "sourceReviewId":"R0198","id":"paneer-steak","status":"draft-photo-and-translation-reviewed","name":"Paneer Steak","cuisine":"Indian-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
+  "ingredients":[
+    {"name":"firm paneer, cut into 4 thick slabs","qty":600,"unit":"g"},
+    {"name":"thick plain yogurt","qty":120,"unit":"g"},
+    {"name":"lemon juice","qty":35,"unit":"ml"},
+    {"name":"ginger, grated","qty":18,"unit":"g"},
+    {"name":"garlic, grated","qty":15,"unit":"g"},
+    {"name":"Kashmiri chili powder","qty":7,"unit":"g"},
+    {"name":"ground cumin","qty":6,"unit":"g"},
+    {"name":"garam masala","qty":5,"unit":"g"},
+    {"name":"salt","qty":7,"unit":"g"},
+    {"name":"neutral oil","qty":35,"unit":"ml"},
+    {"name":"onion, sliced","qty":200,"unit":"g"},
+    {"name":"mixed bell peppers, sliced","qty":300,"unit":"g"},
+    {"name":"fresh coriander leaves","qty":25,"unit":"g"}
+  ],
+  "steps":[
+    "Cut paneer into four intact slabs about 2 cm thick and pat each dry. Whisk yogurt, lemon juice, ginger, garlic, chili powder, cumin, garam masala and 5 g salt into a thick marinade.",
+    "Coat the paneer slabs on all sides with the marinade. Rest for 15 minutes at room temperature; do not leave soft paneer in acidic marinade for hours, as it may crumble.",
+    "Heat 20 ml oil in a wide nonstick or cast-iron pan over medium heat. Lift paneer from the marinade and sear undisturbed for 3–4 minutes per side until distinct golden crusts form. Turn carefully with a wide spatula.",
+    "In another pan, heat the remaining 15 ml oil. Sauté onion and peppers for 5–6 minutes until tender with lightly browned edges. Add the remaining 2 g salt; cook any leftover paneer marinade thoroughly in the hot pan before using it as a coating.",
+    "Place one hot paneer slab on each plate with the sautéed peppers and onions. Spoon over the fully cooked pan coating, scatter fresh coriander and serve with roti or salad."
+  ],
+  "tips":["Use firm block paneer rather than loose crumbles; the slab should stay intact and show a seared spice crust. For Jain cooking, replace onion, garlic and ginger only according to the household's chosen rules."],
+  "translations":{
+    "hi":{"name":"पनीर स्टेक","ingredients":["सख़्त पनीर, 4 मोटे टुकड़ों में","गाढ़ा सादा दही","नींबू का रस","अदरक, कद्दूकस","लहसुन, कद्दूकस","कश्मीरी मिर्च पाउडर","पिसा जीरा","गरम मसाला","नमक","हल्का स्वाद वाला तेल","प्याज़, कटा","मिली-जुली शिमला मिर्च, कटी","ताज़ा हरा धनिया"],"steps":["पनीर के चार साबुत, लगभग 2 सेमी मोटे स्लैब काटें और सुखाएँ। दही, नींबू रस, अदरक, लहसुन, मिर्च पाउडर, जीरा, गरम मसाला और 5 ग्राम नमक फेंटकर गाढ़ा मैरिनेड बनाएँ।","पनीर के टुकड़ों पर चारों ओर मैरिनेड लगाएँ। कमरे के तापमान पर 15 मिनट रखें; नरम पनीर को खट्टी मैरिनेड में घंटों न छोड़ें, वरना टूट सकता है।","चौड़े नॉनस्टिक या लोहे के पैन में 20 मिली तेल मध्यम आँच पर गरम करें। पनीर उठाकर बिना हिलाए हर तरफ़ 3–4 मिनट सुनहरी परत बनने तक सेंकें। चौड़े पलटे से सावधानी से पलटें।","दूसरे पैन में बचा 15 मिली तेल गरम करें। प्याज़ और शिमला मिर्च 5–6 मिनट नरम और किनारों से हल्की भूरी होने तक भूनें। बचा 2 ग्राम नमक डालें; पनीर की बची मैरिनेड इस्तेमाल करने से पहले गरम पैन में अच्छी तरह पकाएँ।","हर प्लेट में एक गरम पनीर स्लैब और भूनी मिर्च-प्याज़ रखें। ऊपर पूरी पकी पैन की मसालेदार परत डालें, ताज़ा धनिया बिखेरें और रोटी या सलाद के साथ परोसें।"],"tips":["टूटे हुए पनीर के बजाय सख़्त ब्लॉक पनीर लें; स्लैब साबुत और सुनहरी मसालेदार परत वाला रहना चाहिए। जैन भोजन में प्याज़, लहसुन और अदरक केवल घर के चुने नियमों के अनुसार बदलें।"]},
+    "gu":{"name":"પનીર સ્ટેક","ingredients":["કડક પનીર, 4 જાડા ટુકડામાં","ઘાટું સાદું દહીં","લીંબુનો રસ","આદુ, છીણેલું","લસણ, છીણેલું","કાશ્મીરી મરચું પાઉડર","દળેલું જીરું","ગરમ મસાલો","મીઠું","હળવા સ્વાદનું તેલ","ડુંગળી, સમારેલી","મિશ્ર કેપ્સિકમ, સમારેલાં","તાજી કોથમીર"],"steps":["પનીરના ચાર અખંડ, લગભગ 2 સેમી જાડા ટુકડા કાપી સૂકવો. દહીં, લીંબુનો રસ, આદુ, લસણ, મરચું, જીરું, ગરમ મસાલો અને 5 ગ્રામ મીઠું ફેંટીને ઘાટું મેરિનેડ બનાવો.","પનીરના ટુકડા બધી બાજુ મેરિનેડથી ઢાંકો. સામાન્ય તાપમાને 15 મિનિટ રાખો; નરમ પનીરને ખાટા મેરિનેડમાં કલાકો સુધી ન રાખો, નહીં તો ભાંગી શકે.","પહોળા નોનસ્ટિક કે લોખંડના પૅનમાં 20 મિલી તેલ મધ્યમ તાપે ગરમ કરો. પનીરને કાઢીને હલાવ્યા વગર દરેક બાજુ 3–4 મિનિટ સોનેરી પડ થાય ત્યાં સુધી શેકો. પહોળા તવેથાથી કાળજીપૂર્વક પલટો.","બીજા પૅનમાં બાકીનું 15 મિલી તેલ ગરમ કરો. ડુંગળી અને કેપ્સિકમ 5–6 મિનિટ નરમ અને કિનારીથી સહેજ ભૂરાં થાય ત્યાં સુધી સાંતળો. બાકીનું 2 ગ્રામ મીઠું નાખો; પનીરનું બચેલું મેરિનેડ વાપરતાં પહેલાં ગરમ પૅનમાં પૂરેપૂરું પકાવો.","દરેક થાળીમાં એક ગરમ પનીરનો ટુકડો અને સાંતળેલા કેપ્સિકમ-ડુંગળી મૂકો. ઉપર પૅનમાં સંપૂર્ણ પકેલી મસાલેદાર પરત નાખો, તાજી કોથમીર છાંટો અને રોટલી કે સલાડ સાથે પીરસો."],"tips":["ભૂકા પનીરને બદલે કડક બ્લોક પનીર લો; ટુકડો અખંડ અને સોનેરી મસાલેદાર પડવાળો રહેવો જોઈએ. જૈન ભોજનમાં ડુંગળી, લસણ અને આદુ ઘરનાં પસંદ કરેલાં નિયમો મુજબ જ બદલો."]}
+  },
+  "reference":{"url":"https://food.ndtv.com/recipe-paneer-steak-416320","use":"Paneer slab as a pan-seared vegetarian steak; quantities and wording independently authored for reviewed photo."}
+}

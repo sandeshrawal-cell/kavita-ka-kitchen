@@ -771,7 +771,7 @@
       "name": "Tofu Banh Mi",
       "sourceReviewId": "R0196",
       "sourceRow": 197,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -779,7 +779,7 @@
       "name": "Vegetable Panini",
       "sourceReviewId": "R0197",
       "sourceRow": 198,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -787,7 +787,7 @@
       "name": "Paneer Steak",
       "sourceReviewId": "R0198",
       "sourceRow": 199,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -795,7 +795,7 @@
       "name": "Jacket Potato",
       "sourceReviewId": "R0199",
       "sourceRow": 200,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     },
     {
@@ -803,7 +803,7 @@
       "name": "Älplermagronen",
       "sourceReviewId": "R0200",
       "sourceRow": 201,
-      "status": "recipe-needed",
+      "status": "draft-recipe-translations-and-photo-ready",
       "matches": []
     }
   ]

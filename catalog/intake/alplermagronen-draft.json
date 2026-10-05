@@ -1,0 +1,29 @@
+{
+  "sourceReviewId":"R0200","id":"alplermagronen","status":"draft-photo-and-translation-reviewed","name":"Älplermagronen","cuisine":"Swiss","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":50,
+  "ingredients":[
+    {"name":"egg-free short macaroni pasta","qty":320,"unit":"g"},
+    {"name":"waxy potatoes, peeled and diced","qty":400,"unit":"g"},
+    {"name":"onions, thinly sliced","qty":300,"unit":"g"},
+    {"name":"unsalted butter","qty":45,"unit":"g"},
+    {"name":"neutral oil","qty":20,"unit":"ml"},
+    {"name":"single cream","qty":250,"unit":"ml"},
+    {"name":"milk","qty":180,"unit":"ml"},
+    {"name":"vegetarian-rennet Gruyère-style cheese, grated","qty":240,"unit":"g"},
+    {"name":"salt","qty":9,"unit":"g"},
+    {"name":"ground black pepper","qty":3,"unit":"g"},
+    {"name":"unsweetened apple sauce, to serve","qty":240,"unit":"g"}
+  ],
+  "steps":[
+    "Slice onions evenly. Heat oil and 20 g butter in a wide pan over medium-low heat, then cook onions for 20–25 minutes, stirring often, until deep golden and crisp at the edges. Lift them out and keep warm.",
+    "Meanwhile, bring a large pot of water to a boil with 6 g salt. Dice peeled potatoes into 2 cm pieces and simmer for 6 minutes. Add egg-free macaroni to the same pot and cook for its package time until pasta and potatoes are just tender.",
+    "Drain the pasta and potatoes well. Return the pot to low heat and add cream, milk, remaining 25 g butter, remaining 3 g salt and black pepper. Warm gently without a hard boil.",
+    "Stir the hot pasta and potatoes into the cream. Add the grated vegetarian cheese a handful at a time, folding until melted and the mixture is creamy. If too thick, loosen with a splash of warm milk.",
+    "Spoon into warm bowls, heap the golden onions over the top and serve unsweetened apple sauce on the side. Eat immediately while the cheese is soft and the onions retain their crunch."
+  ],
+  "tips":["Traditional Swiss Alpine macaroni pairs pasta, potato, cheese, onions and apple sauce. Use egg-free pasta and cheese made with vegetarian rennet; the apple sauce is served separately, not stirred into the pasta."],
+  "translations":{
+    "hi":{"name":"ऐल्प्लरमाग्रोनेन","ingredients":["बिना अंडे वाला छोटा मैकरोनी पास्ता","छिलके उतरे, छोटे कटे आलू","प्याज़, पतले कटे","बिना नमक का मक्खन","हल्का स्वाद वाला तेल","पतली क्रीम","दूध","वेजिटेरियन रेनेट वाला ग्रुयेरे जैसा चीज़, कद्दूकस","नमक","पिसी काली मिर्च","बिना चीनी का एप्पल सॉस, परोसने के लिए"],"steps":["प्याज़ एक समान पतले काटें। चौड़े पैन में तेल और 20 ग्राम मक्खन मध्यम-धीमी आँच पर गरम करें। प्याज़ 20–25 मिनट बार-बार चलाते हुए गहरे सुनहरे और किनारों से कुरकुरे होने तक पकाएँ। निकालकर गरम रखें।","साथ में बड़े बर्तन में 6 ग्राम नमक वाला पानी उबालें। छिले आलू 2 सेमी टुकड़ों में काटकर 6 मिनट उबालें। उसी पानी में बिना अंडे की मैकरोनी डालकर पैकेट के समय के अनुसार पकाएँ, ताकि पास्ता और आलू बस नरम हों।","पास्ता और आलू अच्छी तरह छानें। बर्तन धीमी आँच पर रखकर क्रीम, दूध, बचा 25 ग्राम मक्खन, बचा 3 ग्राम नमक और काली मिर्च डालें। तेज़ उबाल आने दिए बिना गरम करें।","गरम पास्ता और आलू क्रीम में मिलाएँ। कद्दूकस वेजिटेरियन चीज़ थोड़ा-थोड़ा डालकर पिघलने और मिश्रण क्रीमी होने तक मिलाएँ। बहुत गाढ़ा हो तो थोड़ा गरम दूध मिलाएँ।","गरम कटोरियों में परोसें, ऊपर सुनहरे प्याज़ रखें और साथ में बिना चीनी का एप्पल सॉस दें। चीज़ नरम और प्याज़ कुरकुरे हों तभी तुरंत खाएँ।"],"tips":["पारंपरिक स्विस ऐल्पाइन मैकरोनी में पास्ता, आलू, चीज़, प्याज़ और एप्पल सॉस होते हैं। बिना अंडे का पास्ता और वेजिटेरियन रेनेट वाला चीज़ लें; एप्पल सॉस अलग परोसें, पास्ता में न मिलाएँ।"]},
+    "gu":{"name":"ઍલ્પ્લરમાગ્રોનેન","ingredients":["ઈંડા વગરનો નાનો મેકરોની પાસ્તા","છાલ ઉતારી સમારેલા બટાકા","ડુંગળી, પાતળી સમારેલી","મીઠા વગરનું માખણ","હળવા સ્વાદનું તેલ","પાતળી ક્રીમ","દૂધ","વેજિટેરિયન રેનેટવાળું ગ્રુયેર જેવું ચીઝ, છીણેલું","મીઠું","દળેલી કાળી મરી","ખાંડ વગરનો સફરજનનો સોસ, પીરસવા માટે"],"steps":["ડુંગળી સરખી પાતળી કાપો. પહોળા પૅનમાં તેલ અને 20 ગ્રામ માખણ મધ્યમથી ધીમા તાપે ગરમ કરો. ડુંગળી 20–25 મિનિટ વારંવાર હલાવી ઘેરી સોનેરી અને કિનારીથી કરકરી થાય ત્યાં સુધી પકાવો. કાઢીને ગરમ રાખો.","સાથે મોટા વાસણમાં 6 ગ્રામ મીઠું નાખેલું પાણી ઉકાળો. છાલ ઉતારેલા બટાકા 2 સેમી ટુકડામાં કાપી 6 મિનિટ ઉકાળો. એ જ પાણીમાં ઈંડા વગરનો મેકરોની નાખી પૅકેટના સમય પ્રમાણે પાસ્તા અને બટાકા માત્ર નરમ થાય ત્યાં સુધી પકાવો.","પાસ્તા અને બટાકા સારી રીતે નિતારો. વાસણ ધીમા તાપે મૂકી ક્રીમ, દૂધ, બાકીનું 25 ગ્રામ માખણ, બાકીનું 3 ગ્રામ મીઠું અને કાળી મરી નાખો. ખૂબ ઉકાળ્યા વગર હળવેથી ગરમ કરો.","ગરમ પાસ્તા અને બટાકા ક્રીમમાં ભેળવો. છીણેલું વેજિટેરિયન ચીઝ થોડું-થોડું નાખી ઓગળે અને મિશ્રણ ક્રીમી થાય ત્યાં સુધી હલાવો. વધારે ઘાટું થાય તો થોડું ગરમ દૂધ ઉમેરો.","ગરમ વાટકામાં કાઢો, ઉપર સોનેરી ડુંગળી મૂકો અને સાથે ખાંડ વગરનો સફરજનનો સોસ પીરસો. ચીઝ નરમ અને ડુંગળી કરકરી હોય ત્યારે તરત ખાઓ."],"tips":["પરંપરાગત સ્વિસ ઍલ્પાઇન મેકરોનીમાં પાસ્તા, બટાકા, ચીઝ, ડુંગળી અને સફરજનનો સોસ હોય છે. ઈંડા વગરનો પાસ્તા અને વેજિટેરિયન રેનેટવાળું ચીઝ લો; સફરજનનો સોસ અલગ પીરસો, પાસ્તામાં ન ભેળવો."]}
+  },
+  "reference":{"url":"https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/LM200309_57_A/aelplermagronen/","use":"Swiss Alpine macaroni with potato, cheese, onions and apple sauce; quantities and wording independently authored for reviewed photo."}
+}

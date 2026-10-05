@@ -1,0 +1,28 @@
+{
+  "sourceReviewId":"R0197","id":"vegetable-panini","status":"draft-photo-and-translation-reviewed","name":"Vegetable Panini","cuisine":"Italian-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
+  "ingredients":[
+    {"name":"egg-free ciabatta rolls (4 pieces)","qty":480,"unit":"g"},
+    {"name":"zucchini, sliced lengthwise","qty":250,"unit":"g"},
+    {"name":"red bell pepper, sliced","qty":220,"unit":"g"},
+    {"name":"eggplant, sliced","qty":220,"unit":"g"},
+    {"name":"fresh vegetarian-rennet mozzarella, sliced","qty":280,"unit":"g"},
+    {"name":"basil pesto made with vegetarian cheese","qty":100,"unit":"g"},
+    {"name":"olive oil","qty":45,"unit":"ml"},
+    {"name":"fresh basil leaves","qty":25,"unit":"g"},
+    {"name":"salt","qty":6,"unit":"g"},
+    {"name":"ground black pepper","qty":2,"unit":"g"}
+  ],
+  "steps":[
+    "Cut zucchini and eggplant into even 5 mm slices and cut the pepper into broad strips. Pat the vegetables dry so they brown instead of steaming.",
+    "Brush the vegetables with 30 ml olive oil and season with salt and pepper. Grill on a hot ridged pan in batches for 3–4 minutes per side, until tender and marked; cook eggplant fully.",
+    "Split the four egg-free ciabatta rolls. Spread vegetarian pesto over the cut faces, then arrange mozzarella, warm grilled vegetables and basil leaves evenly inside. Keep the fillings back from the edges.",
+    "Brush the outsides with the remaining 15 ml olive oil. Press each sandwich in a preheated panini grill for 4–5 minutes, or in a heavy skillet under a second pan, turning once.",
+    "When the bread is crisp and cheese has melted, rest the panini for 2 minutes. Cut diagonally and serve warm; drain any extra vegetable juices before closing the sandwiches."
+  ],
+  "tips":["Check that ciabatta contains no egg and pesto and mozzarella use vegetarian rennet. Grill the vegetables before pressing the sandwich so the filling is tender without soggy bread."],
+  "translations":{
+    "hi":{"name":"ग्रिल्ड वेजिटेबल पनीनी","ingredients":["बिना अंडे के चियाबाता रोल (4 पीस)","ज़ूकीनी, लंबाई में कटी","लाल शिमला मिर्च, कटी","बैंगन, कटा","वेजिटेरियन रेनेट वाला ताज़ा मोज़रेला, कटा","वेजिटेरियन चीज़ से बना बेसिल पेस्टो","ऑलिव ऑयल","ताज़ी तुलसी की पत्तियाँ","नमक","पिसी काली मिर्च"],"steps":["ज़ूकीनी और बैंगन के एक समान 5 मिमी स्लाइस और शिमला मिर्च की चौड़ी पट्टियाँ काटें। सब्ज़ियाँ पोंछकर सुखाएँ ताकि वे भाप में गलने की जगह सुनहरी सिकें।","सब्ज़ियों पर 30 मिली ऑलिव ऑयल लगाएँ और नमक-काली मिर्च छिड़कें। गरम ग्रिल पैन में थोड़ी-थोड़ी करके हर तरफ़ 3–4 मिनट सिकाई करें, जब तक वे नरम और धारियों वाली हों; बैंगन पूरा पकाएँ।","चारों बिना अंडे के चियाबाता रोल खोलें। कटी सतह पर वेजिटेरियन पेस्टो फैलाएँ; बीच में मोज़रेला, गरम ग्रिल्ड सब्ज़ियाँ और तुलसी बराबर रखें। भरावन किनारे से थोड़ी अंदर रखें।","बाहर बचा 15 मिली ऑलिव ऑयल लगाएँ। गरम पनीनी ग्रिल में हर सैंडविच 4–5 मिनट दबाकर सेंकें; या भारी तवे पर दूसरे पैन से दबाकर एक बार पलटें।","ब्रेड कुरकुरी और चीज़ पिघलने पर 2 मिनट रख दें। तिरछा काटकर गरम परोसें; सैंडविच बंद करने से पहले सब्ज़ियों का अतिरिक्त रस निकाल दें।"],"tips":["चियाबाता बिना अंडे का हो और पेस्टो व मोज़रेला वेजिटेरियन रेनेट से बने हों। दबाकर सेंकने से पहले सब्ज़ियाँ ग्रिल करें ताकि ब्रेड गीली न हो।"]},
+    "gu":{"name":"ગ્રિલ્ડ વેજિટેબલ પાનીની","ingredients":["ઈંડા વગરના ચિયાબાતા રોલ (4 નંગ)","ઝુકિની, લંબાઈમાં સમારેલી","લાલ કેપ્સિકમ, સમારેલું","રીંગણ, સમારેલું","વેજિટેરિયન રેનેટવાળું તાજું મોઝેરેલા, સમારેલું","વેજિટેરિયન ચીઝથી બનેલું બેસિલ પેસ્ટો","ઓલિવ તેલ","તાજા બેસિલના પાન","મીઠું","દળેલી કાળી મરી"],"steps":["ઝુકિની અને રીંગણની સરખી 5 મિમી સ્લાઇસ અને કેપ્સિકમની પહોળી પટ્ટીઓ કાપો. શાકભાજી લૂછી સૂકવો જેથી વરાળમાં બફાવાને બદલે શેકાય.","શાકભાજી પર 30 મિલી ઓલિવ તેલ લગાવી મીઠું અને મરી નાખો. ગરમ ગ્રિલ પૅનમાં થોડાં-થોડાં કરીને દરેક બાજુ 3–4 મિનિટ નરમ અને શેકેલી રેખાઓ પડે ત્યાં સુધી શેકો; રીંગણ બરાબર પકાવો.","ચારેય ઈંડા વગરના ચિયાબાતા રોલ ખોલો. કાપેલી બાજુ પર વેજિટેરિયન પેસ્ટો લગાવી મોઝેરેલા, ગરમ ગ્રિલ કરેલાં શાક અને બેસિલનાં પાન સરખાં વહેંચો. ભરાવણ કિનારીથી થોડું અંદર રાખો.","બહાર બાકીનું 15 મિલી ઓલિવ તેલ લગાવો. ગરમ પાનીની ગ્રિલમાં દરેક સેન્ડવિચ 4–5 મિનિટ દબાવી શેકો; અથવા ભારે તવા પર બીજા પૅનથી દબાવી એક વાર પલટો.","બ્રેડ કરકરી થાય અને ચીઝ ઓગળે પછી 2 મિનિટ રહેવા દો. ત્રાંસું કાપીને ગરમ પીરસો; સેન્ડવિચ બંધ કરતાં પહેલાં શાકનો વધારાનો રસ નિતારી લો."],"tips":["ચિયાબાતા ઈંડા વગરનું અને પેસ્ટો તથા મોઝેરેલા વેજિટેરિયન રેનેટવાળાં છે તે તપાસો. શાક પહેલાં ગ્રિલ કરવાથી બ્રેડ ભીની થતી નથી."]}
+  },
+  "reference":{"url":"https://www.foodnetwork.com/recipes/giada-de-laurentiis/grilled-vegetable-panini-recipe-1953721","use":"Grilled vegetables pressed with cheese in bread; quantities and wording independently authored for reviewed photo."}
+}

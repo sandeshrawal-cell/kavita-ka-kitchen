@@ -1,0 +1,51 @@
+{
+  "sourceReviewId":"R0196","id":"tofu-banh-mi","status":"draft-photo-and-translation-reviewed","name":"Tofu Bánh Mì","cuisine":"Vietnamese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":45,"passiveTime":"15 minutes quick-pickling",
+  "ingredients":[
+    {"name":"egg-free Vietnamese baguettes (4 pieces)","qty":480,"unit":"g"},
+    {"name":"extra-firm tofu, pressed and sliced","qty":500,"unit":"g"},
+    {"name":"carrot, julienned","qty":200,"unit":"g"},
+    {"name":"daikon radish, julienned","qty":200,"unit":"g"},
+    {"name":"cucumber, cut into spears","qty":200,"unit":"g"},
+    {"name":"fresh coriander leaves","qty":35,"unit":"g"},
+    {"name":"green chili, thinly sliced","qty":15,"unit":"g"},
+    {"name":"rice vinegar","qty":90,"unit":"ml"},
+    {"name":"sugar","qty":30,"unit":"g"},
+    {"name":"salt","qty":6,"unit":"g"},
+    {"name":"light soy sauce","qty":45,"unit":"ml"},
+    {"name":"lime juice","qty":25,"unit":"ml"},
+    {"name":"garlic, grated","qty":12,"unit":"g"},
+    {"name":"neutral oil","qty":30,"unit":"ml"},
+    {"name":"egg-free mayonnaise","qty":80,"unit":"g"}
+  ],
+  "steps":[
+    "Mix rice vinegar, sugar and 3 g salt until dissolved. Add carrot and daikon matchsticks, toss and let quick-pickle for at least 15 minutes, then drain well. This keeps the baguette crisp.",
+    "Press tofu for 15 minutes, cut into thick slices and pat dry. Mix soy sauce, lime juice and grated garlic. Coat tofu in the mixture for 10 minutes while slicing cucumber, coriander and green chili.",
+    "Heat oil in a skillet over medium-high heat. Lift tofu from its marinade and sear 3 minutes per side until golden. Pour any remaining marinade into the pan and cook briefly until it coats the tofu; do not use it raw.",
+    "Split each egg-free baguette lengthwise, leaving one edge attached. Warm briefly in the oven or a dry pan until the crust is crisp. Spread egg-free mayonnaise thinly along the inside.",
+    "Divide glazed tofu among the four baguettes. Top with drained pickled carrot and daikon, cucumber spears, coriander and a few green chili slices. Close gently, cut each in half and serve immediately."
+  ],
+  "tips":["Use egg-free bread and mayonnaise, and soy sauce in place of fish sauce. The reviewed photo shows glazed tofu, pickled carrot-daikon, cucumber, cilantro and chili in a crisp baguette."],
+  "translations":{
+    "hi":{"name":"टोफू बान्ह मी","ingredients":["बिना अंडे के वियतनामी बागेट (4 पीस)","एक्स्ट्रा-फर्म टोफू, दबाकर कटा","गाजर, बारीक लंबी कटी","डाइकॉन मूली, बारीक लंबी कटी","खीरा, लंबी पट्टियाँ","ताज़ा हरा धनिया","हरी मिर्च, पतली कटी","राइस विनेगर","चीनी","नमक","हल्का सोया सॉस","नींबू का रस","लहसुन, कद्दूकस","हल्का स्वाद वाला तेल","बिना अंडे की मेयोनीज़"],
+      "steps":[
+        "राइस विनेगर, चीनी और 3 ग्राम नमक घुलने तक मिलाएँ। गाजर और डाइकॉन मूली की तीलियाँ डालकर कम से कम 15 मिनट जल्दी अचार बनाएँ, फिर अच्छी तरह छानें। इससे बागेट कुरकुरा रहेगा।",
+        "टोफू 15 मिनट दबाएँ, मोटे स्लाइस करें और सुखाएँ। सोया सॉस, नींबू रस और कद्दूकस लहसुन मिलाएँ। टोफू 10 मिनट इसमें रखें, इस बीच खीरा, धनिया और हरी मिर्च काटें।",
+        "पैन में तेल मध्यम-तेज़ आँच पर गरम करें। टोफू मैरिनेड से निकालकर हर तरफ़ 3 मिनट सुनहरा सेंकें। बची मैरिनेड पैन में डालकर थोड़ी देर पकाएँ ताकि टोफू पर चढ़े; कच्ची न इस्तेमाल करें।",
+        "बिना अंडे के बागेट लंबाई में काटें, एक किनारा जुड़ा रखें। ओवन या सूखे पैन में थोड़ी देर गरम करें ताकि बाहर कुरकुरा हो। अंदर बिना अंडे की मेयोनीज़ पतली लगाएँ।",
+        "चारों बागेट में चमकदार टोफू बाँटें। ऊपर छाना अचार गाजर-मूली, खीरे की पट्टियाँ, धनिया और थोड़ी हरी मिर्च रखें। धीरे बंद करके आधा काटें और तुरंत परोसें।"
+      ],
+      "tips":["बिना अंडे की ब्रेड और मेयोनीज़ लें, फिश सॉस की जगह सोया सॉस लें। समीक्षित तस्वीर में कुरकुरे बागेट में टोफू, अचार गाजर-मूली, खीरा, धनिया और मिर्च हैं।"],
+      "passiveTime":"15 मिनट जल्दी अचार बनाना"},
+    "gu":{"name":"ટોફુ બાન્હ મી","ingredients":["ઈંડા વગરની વિયેતનામી બાગેટ (4 નંગ)","ઘણું મજબૂત ટોફુ, દબાવી કાપેલું","ગાજર, ઝીણી લાંબી કાપેલી","ડાઇકોન મૂળો, ઝીણો લાંબો કાપેલો","કાકડી, લાંબી પટ્ટીઓ","તાજી કોથમીર","લીલું મરચું, પાતળું કાપેલું","રાઇસ વિનેગર","ખાંડ","મીઠું","હળવો સોયા સોસ","લીંબુનો રસ","લસણ, છીણેલું","હળવા સ્વાદનું તેલ","ઈંડા વગરનું મેયોનેઝ"],
+      "steps":[
+        "રાઇસ વિનેગર, ખાંડ અને 3 ગ્રામ મીઠું ઓગળે ત્યાં સુધી ભેળવો. ગાજર અને ડાઇકોન મૂળાની સળીઓ નાખી ઓછામાં ઓછી 15 મિનિટ ઝટપટ અથાણું બનાવો, પછી સારી રીતે નિતારો. આથી બાગેટ કરકરી રહેશે.",
+        "ટોફુ 15 મિનિટ દબાવી જાડી સ્લાઇસ કરી સૂકવો. સોયા સોસ, લીંબુનો રસ અને છીણેલું લસણ ભેળવો. ટોફુને 10 મિનિટ તેમાં રાખો, આ દરમિયાન કાકડી, કોથમીર અને લીલું મરચું કાપો.",
+        "કડાઈમાં તેલ મધ્યમથી વધુ તાપે ગરમ કરો. ટોફુ મેરિનેડમાંથી કાઢી દરેક બાજુ 3 મિનિટ સોનેરી શેકો. બાકી મેરિનેડ કડાઈમાં નાખી થોડી વાર રાંધી ટોફુ પર ચડાવો; કાચું ન વાપરો.",
+        "ઈંડા વગરની બાગેટને લંબાઈમાં કાપો, એક ધાર જોડાયેલી રાખો. ઓવન કે સૂકી કડાઈમાં થોડું ગરમ કરો જેથી બહાર કરકરી થાય. અંદર ઈંડા વગરનું મેયોનેઝ પાતળું લગાવો.",
+        "ચારેય બાગેટમાં ચમકદાર ટોફુ વહેંચો. ઉપર નિતારેલું ગાજર-મૂળાનું અથાણું, કાકડીની પટ્ટીઓ, કોથમીર અને થોડું લીલું મરચું મૂકો. હળવેથી બંધ કરી અડધાં કાપો અને તરત પીરસો."
+      ],
+      "tips":["ઈંડા વગરની બ્રેડ અને મેયોનેઝ લો, ફિશ સોસને બદલે સોયા સોસ લો. તપાસેલા ફોટામાં કરકરી બાગેટમાં ટોફુ, અથાણાંવાળું ગાજર-મૂળો, કાકડી, કોથમીર અને મરચું છે."],
+      "passiveTime":"15 મિનિટ ઝટપટ અથાણું બનાવવું"}
+  },
+  "reference":{"url":"https://www.loveandlemons.com/banh-mi/","use":"Marinated tofu and quick-pickled vegetables in baguette; quantities and wording independently authored for reviewed photo."}
+}
