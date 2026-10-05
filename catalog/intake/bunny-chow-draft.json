@@ -1,0 +1,64 @@
+{
+  "sourceReviewId": "R0169",
+  "id": "bunny-chow",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Bunny Chow",
+  "cuisine": "South African",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {"name": "one large unsliced white sandwich bread loaf", "qty": 800, "unit": "g"},
+    {"name": "cooked kidney or sugar beans, drained", "qty": 520, "unit": "g"},
+    {"name": "potatoes, peeled and cubed", "qty": 400, "unit": "g"},
+    {"name": "tomatoes, chopped", "qty": 320, "unit": "g"},
+    {"name": "onion, thinly sliced", "qty": 220, "unit": "g"},
+    {"name": "carrot, grated", "qty": 150, "unit": "g"},
+    {"name": "neutral oil", "qty": 35, "unit": "ml"},
+    {"name": "garlic, minced", "qty": 12, "unit": "g"},
+    {"name": "ginger, grated", "qty": 12, "unit": "g"},
+    {"name": "Durban-style curry powder", "qty": 20, "unit": "g"},
+    {"name": "ground turmeric", "qty": 3, "unit": "g"},
+    {"name": "tomato paste", "qty": 40, "unit": "g"},
+    {"name": "curry leaves", "qty": 5, "unit": "g"},
+    {"name": "water", "qty": 300, "unit": "ml"},
+    {"name": "fine salt", "qty": 8, "unit": "g"},
+    {"name": "lemon juice", "qty": 25, "unit": "ml"},
+    {"name": "fresh coriander leaves", "qty": 20, "unit": "g"}
+  ],
+  "steps": [
+    "Heat the oil in a heavy pot over medium heat. Cook 170 g sliced onion for 7–8 minutes until golden at the edges, reserving 50 g raw onion for the side salad. Add garlic, ginger and curry leaves and stir for 1 minute, then add curry powder and turmeric for 30 seconds without letting the spices burn.",
+    "Stir in chopped tomatoes, tomato paste and 5 g salt. Cook for 6–8 minutes until the tomatoes break down and the oil starts to show at the edges. Add potato cubes and 250 ml water, cover and simmer for 15–20 minutes until the potatoes are almost tender.",
+    "Add the drained cooked beans and the remaining 50 ml water. Simmer uncovered for 8–10 minutes until the potatoes are fully tender and the curry is thick enough to sit inside bread without running straight through. Mash a few beans if necessary to thicken it. Taste and adjust with the remaining 3 g salt.",
+    "For the sambal, combine grated carrot with the reserved 50 g raw onion, lemon juice and half the chopped coriander. Cut the large unsliced square loaf into four upright quarter-loaf portions. Scoop soft bread from the top of each to form a deep cup, leaving about 2 cm bread at the base and sides; save the scooped plugs.",
+    "Set each bread cup upright on a plate and generously ladle in one-quarter of the hot bean-potato curry. Put the saved bread plug beside or on top and scatter the remaining coriander over the curry. Serve immediately with the carrot-onion sambal; tear the bread to scoop up the curry."
+  ],
+  "tips": ["The bread is the serving vessel: use an unsliced square loaf and keep a sturdy base when hollowing. The reviewed photo shows a quarter white loaf overflowing with red kidney-bean and potato curry, the bread plug and carrot sambal beside it. No animal ingredient is needed despite the dish name."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी बनी चाउ",
+      "ingredients": ["बिना कटी सफेद सैंडविच ब्रेड की एक बड़ी लोफ", "पके राजमा या शुगर बीन्स, पानी निकाले हुए", "आलू, छिले और टुकड़ों में", "टमाटर, कटे", "प्याज़, पतले कटे", "गाजर, कद्दूकस", "हल्का स्वाद वाला तेल", "लहसुन, बारीक कटा", "अदरक, कद्दूकस", "डरबन शैली करी पाउडर", "पिसी हल्दी", "टमाटर पेस्ट", "करी पत्ते", "पानी", "बारीक नमक", "नींबू का रस", "ताज़ी धनिया पत्ती"],
+      "steps": [
+        "भारी बर्तन में तेल मध्यम आँच पर गरम करें। 170 ग्राम कटा प्याज़ 7–8 मिनट किनारे सुनहरे होने तक पकाएँ, 50 ग्राम कच्चा प्याज़ सलाद के लिए बचाएँ। लहसुन, अदरक और करी पत्ते डालकर 1 मिनट चलाएँ, फिर करी पाउडर और हल्दी 30 सेकंड भूनें, मसाले जलने न दें।",
+        "कटे टमाटर, टमाटर पेस्ट और 5 ग्राम नमक मिलाएँ। 6–8 मिनट पकाएँ, जब तक टमाटर गलें और किनारों पर तेल दिखे। आलू के टुकड़े और 250 मिली पानी डालें, ढककर 15–20 मिनट पकाएँ, जब तक आलू लगभग नरम हों।",
+        "छाने पके बीन्स और बचा 50 मिली पानी डालें। बिना ढके 8–10 मिनट उबालें, जब तक आलू पूरी तरह नरम और करी इतनी गाढ़ी हो कि ब्रेड में टिके। ज़रूरत पर कुछ बीन्स मसलकर गाढ़ा करें। चखकर बचा 3 ग्राम नमक मिलाएँ।",
+        "संबल के लिए कद्दूकस गाजर, बचा 50 ग्राम कच्चा प्याज़, नींबू रस और आधा कटा धनिया मिलाएँ। एक बड़ी बिना कटी चौकोर ब्रेड लोफ को चार सीधे खड़े रहने वाले चौथाई हिस्सों में काटें। हर हिस्से के ऊपर से नरम ब्रेड निकालकर गहरी कटोरी बनाएँ, तले और दीवारों पर करीब 2 सेमी ब्रेड छोड़ें; निकली ब्रेड बचाएँ।",
+        "हर ब्रेड कटोरी प्लेट पर सीधी रखें और गरम बीन-आलू करी का चौथाई हिस्सा भरपूर डालें। बची ब्रेड का टुकड़ा ऊपर या बगल रखें और बचा धनिया करी पर छिड़कें। गाजर-प्याज़ संबल के साथ तुरंत परोसें; ब्रेड तोड़कर करी खाएँ।"
+      ],
+      "tips": ["ब्रेड ही परोसने की कटोरी है: बिना कटी चौकोर लोफ लें और खोखला करते समय मज़बूत तला रखें। समीक्षित तस्वीर में चौथाई सफेद लोफ से लाल राजमा-आलू करी बहती दिखती है, बगल में ब्रेड का टुकड़ा और गाजर संबल है। नाम के बावजूद किसी पशु सामग्री की ज़रूरत नहीं।"]
+    },
+    "gu": {
+      "name": "શાકાહારી બની ચાઉ",
+      "ingredients": ["કાપ્યા વગરની સફેદ સેન્ડવિચ બ્રેડની એક મોટી લોવ", "રાંધેલા રાજમા અથવા સુગર બીન, પાણી નિતારેલા", "બટાકા, છોલીને કટકા", "ટામેટાં, સમારેલાં", "ડુંગળી, પાતળી સમારેલી", "ગાજર, છીણેલું", "હળવા સ્વાદનું તેલ", "લસણ, ઝીણું સમારેલું", "આદુ, છીણેલું", "ડરબન શૈલીનો કરી પાઉડર", "હળદર પાઉડર", "ટામેટાંની પેસ્ટ", "મીઠા લીમડાનાં પાન", "પાણી", "બારીક મીઠું", "લીંબુનો રસ", "તાજી કોથમીર"],
+      "steps": [
+        "ભારે વાસણમાં તેલ મધ્યમ તાપે ગરમ કરો. 170 ગ્રામ સમારેલી ડુંગળી 7–8 મિનિટ ધાર સોનેરી થાય ત્યાં સુધી રાંધો, 50 ગ્રામ કાચી ડુંગળી સલાડ માટે રાખો. લસણ, આદુ અને મીઠા લીમડાનાં પાન નાખી 1 મિનિટ હલાવો, પછી કરી પાઉડર અને હળદર 30 સેકન્ડ સાંતળો, મસાલા બળવા ન દો.",
+        "સમારેલાં ટામેટાં, ટામેટાંની પેસ્ટ અને 5 ગ્રામ મીઠું ભેળવો. 6–8 મિનિટ રાંધો જેથી ટામેટાં ઓગળે અને ધાર પર તેલ દેખાય. બટાકાના કટકા અને 250 મિલી પાણી નાખી ઢાંકો અને 15–20 મિનિટ ધીમે રાંધો જેથી બટાકા લગભગ નરમ થાય.",
+        "નિતારેલા રાંધેલા બીન અને બાકીનું 50 મિલી પાણી નાખો. ઢાંક્યા વગર 8–10 મિનિટ ઉકાળો જેથી બટાકા પૂરેપૂરા નરમ અને કરી બ્રેડમાં ટકે એટલી ઘાટી થાય. જરૂરી હોય તો થોડા બીન છૂંદી ઘાટી કરો. ચાખી બાકીનું 3 ગ્રામ મીઠું ઉમેરો.",
+        "સંબલ માટે છીણેલું ગાજર, બાકી 50 ગ્રામ કાચી ડુંગળી, લીંબુનો રસ અને અડધી સમારેલી કોથમીર ભેળવો. એક મોટી કાપ્યા વગરની ચોરસ બ્રેડ લોવને ચાર ઊભા રહી શકે એવા ચોથા ભાગમાં કાપો. દરેકની ઉપરથી નરમ બ્રેડ કાઢી ઊંડી વાટકી બનાવો, તળિયે અને બાજુએ આશરે 2 સેમી બ્રેડ રાખો; કાઢેલા ટુકડા સાચવો.",
+        "દરેક બ્રેડની વાટકી થાળીમાં ઊભી રાખી ગરમ બીન-બટાકાની કરીનો ચોથો ભાગ ભરપૂર ભરો. બચેલો બ્રેડનો ટુકડો બાજુ કે ઉપર મૂકો અને બાકી કોથમીર કરી પર છાંટો. ગાજર-ડુંગળીના સંબલ સાથે તરત પીરસો; બ્રેડ તોડી કરી સાથે ખાઓ."
+      ],
+      "tips": ["બ્રેડ જ પીરસવાની વાટકી છે: કાપ્યા વગરની ચોરસ લોવ લો અને ખોખલી કરતાં મજબૂત તળિયું રાખો. તપાસેલા ફોટામાં ચોથા ભાગની સફેદ લોવમાંથી લાલ રાજમા-બટાકાની કરી ભરાઈને બહાર આવે છે, બાજુમાં બ્રેડનો ભાગ અને ગાજર સંબલ છે. નામ હોવા છતાં કોઈ પ્રાણીજન્ય સામગ્રી જરૂરી નથી."]
+    }
+  },
+  "reference": {"url": "https://www.penguinrandomhouse.co.za/sites/penguinbooks.co.za/files/108_Bunny%20chow.pdf", "use": "Durban bean curry in a hollow white loaf with sambal; measures, method and wording independently authored for the reviewed photo."}
+}

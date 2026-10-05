@@ -9549,5 +9549,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "bunny-chow": {
+    "name": "Bunny Chow",
+    "src": "/photos/bunny-chow-1200.webp",
+    "small": "/photos/bunny-chow-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Bunny Chow served ready to eat",
+    "kind": "generated",
+    "title": "Bunny Chow",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
