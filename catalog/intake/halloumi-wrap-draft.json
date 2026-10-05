@@ -1,0 +1,58 @@
+{
+  "sourceReviewId": "R0166",
+  "id": "halloumi-wrap",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Grilled Halloumi Wrap",
+  "cuisine": "Mediterranean",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {"name": "large wheat flatbreads (4 pieces)", "qty": 280, "unit": "g"},
+    {"name": "vegetarian halloumi made with microbial or vegetarian rennet", "qty": 320, "unit": "g"},
+    {"name": "hummus", "qty": 200, "unit": "g"},
+    {"name": "red bell pepper, sliced", "qty": 180, "unit": "g"},
+    {"name": "zucchini, thinly sliced", "qty": 160, "unit": "g"},
+    {"name": "rocket leaves", "qty": 80, "unit": "g"},
+    {"name": "tomato, diced", "qty": 120, "unit": "g"},
+    {"name": "cucumber, diced", "qty": 120, "unit": "g"},
+    {"name": "olive oil", "qty": 25, "unit": "ml"},
+    {"name": "lemon juice", "qty": 20, "unit": "ml"},
+    {"name": "ground black pepper", "qty": 2, "unit": "g"}
+  ],
+  "steps": [
+    "Read the halloumi label and use only a product made with microbial or other vegetarian rennet. Cut it into twelve thick slices and pat dry. Slice the red pepper and zucchini, wash and dry the rocket, and dice the tomato and cucumber. Keep the salad dry so the flatbreads do not become soggy.",
+    "Heat a griddle or heavy pan over medium-high heat. Toss the pepper and zucchini with 15 ml olive oil and half the black pepper. Grill the vegetables for 3–4 minutes per side until tender with browned edges. Transfer them to a plate.",
+    "Brush the halloumi slices with the remaining 10 ml olive oil. Grill for about 2 minutes per side until pronounced golden grill marks appear and the centres are hot but still hold their shape. Squeeze half the lemon juice over the cheese.",
+    "Warm the four flatbreads briefly on the griddle until soft and flexible. Spread 50 g hummus on each, leaving a border. Arrange one-quarter each of the grilled pepper, zucchini, rocket, tomato and cucumber over the hummus, then add three hot halloumi slices to each wrap. Drizzle with the remaining lemon juice and black pepper.",
+    "Fold the lower edge over the filling, tuck in the sides and roll firmly. Cut each wrap diagonally and serve at once while the halloumi is warm and the greens are fresh. The filling should show distinct seared white cheese rather than melted cheese sauce."
+  ],
+  "tips": ["Halloumi can be made with different types of rennet, so verify the exact pack. Dry the vegetables and avoid overfilling to keep the wraps neat. The reviewed photo shows cut wraps with clearly grilled halloumi slices, hummus, red pepper, zucchini, rocket, tomato and cucumber."],
+  "translations": {
+    "hi": {
+      "name": "ग्रिल्ड हलौमी रैप",
+      "ingredients": ["बड़ी गेहूँ की फ्लैटब्रेड (4 नग)", "सूक्ष्मजीवी या शाकाहारी रेननेट वाला शाकाहारी हलौमी", "हम्मस", "लाल शिमला मिर्च, कटी हुई", "ज़ुकीनी, पतली कटी", "रॉकेट सलाद पत्तियाँ", "टमाटर, छोटे टुकड़े", "खीरा, छोटे टुकड़े", "जैतून का तेल", "नींबू का रस", "पिसी काली मिर्च"],
+      "steps": [
+        "हलौमी का लेबल पढ़ें और केवल सूक्ष्मजीवी या अन्य शाकाहारी रेननेट से बना चीज़ लें। उसके बारह मोटे टुकड़े करके पोंछकर सुखाएँ। लाल शिमला मिर्च और ज़ुकीनी काटें, रॉकेट पत्ते धोकर सुखाएँ और टमाटर व खीरे के टुकड़े करें। सलाद सूखा रखें ताकि फ्लैटब्रेड गीली न हो।",
+        "ग्रिल पैन या भारी तवा मध्यम-तेज़ आँच पर गरम करें। शिमला मिर्च और ज़ुकीनी में 15 मिली जैतून तेल और आधी काली मिर्च मिलाएँ। सब्ज़ियों को दोनों ओर 3–4 मिनट ग्रिल करें, जब तक नरम और किनारे भूरे हों। प्लेट पर निकालें।",
+        "हलौमी के टुकड़ों पर बचा 10 मिली जैतून तेल लगाएँ। दोनों ओर करीब 2 मिनट ग्रिल करें, जब तक स्पष्ट सुनहरी धारियाँ हों और बीच गरम पर आकार बना रहे। आधा नींबू रस चीज़ पर डालें।",
+        "चार फ्लैटब्रेड तवे पर थोड़ी गरम करके नरम और लचीली करें। हर एक पर 50 ग्राम हम्मस फैलाएँ, किनारा छोड़ें। हर एक पर ग्रिल की शिमला मिर्च, ज़ुकीनी, रॉकेट, टमाटर और खीरे का चौथाई हिस्सा रखें, फिर तीन गरम हलौमी टुकड़े डालें। बचा नींबू रस और काली मिर्च डालें।",
+        "नीचे का किनारा भरावन पर मोड़ें, दोनों बगल अंदर करें और कसकर लपेटें। हर रैप तिरछा काटकर तुरंत परोसें, जब हलौमी गरम और पत्ते ताज़े हों। भरावन में साफ़ सिके सफेद चीज़ के टुकड़े दिखें, पिघली चीज़ सॉस नहीं।"
+      ],
+      "tips": ["हलौमी अलग तरह के रेननेट से बन सकता है, इसलिए खरीदे पैक को जाँचें। सब्ज़ियाँ सुखाएँ और अधिक न भरें ताकि रैप साफ़ बने। समीक्षित तस्वीर में कटे रैप में स्पष्ट ग्रिल्ड हलौमी, हम्मस, लाल शिमला मिर्च, ज़ुकीनी, रॉकेट, टमाटर और खीरा है।"]
+    },
+    "gu": {
+      "name": "ગ્રિલ્ડ હલૂમી રેપ",
+      "ingredients": ["મોટી ઘઉંની ફ્લેટબ્રેડ (4 નંગ)", "સૂક્ષ્મજીવી અથવા શાકાહારી રેનેટવાળું શાકાહારી હલૂમી", "હમસ", "લાલ સિમલા મરચાં, કાપેલાં", "ઝુકિની, પાતળી કાપેલી", "રોકેટ સલાડનાં પાન", "ટામેટાં, નાના કટકા", "કાકડી, નાના કટકા", "ઓલિવ તેલ", "લીંબુનો રસ", "કાળા મરીનો ભૂકો"],
+      "steps": [
+        "હલૂમીનું લેબલ વાંચો અને ફક્ત સૂક્ષ્મજીવી અથવા અન્ય શાકાહારી રેનેટથી બનેલું ચીઝ લો. તેના બાર જાડા ટુકડા કરી લૂછી કોરા કરો. લાલ સિમલા મરચાં અને ઝુકિની કાપો, રોકેટનાં પાન ધોઈ સુકવો અને ટામેટાં-કાકડીના કટકા કરો. સલાડ કોરું રાખો જેથી ફ્લેટબ્રેડ ભીંજાય નહીં.",
+        "ગ્રિલ પેન કે ભારે તવો મધ્યમથી વધુ તાપે ગરમ કરો. સિમલા મરચાં અને ઝુકિનીમાં 15 મિલી ઓલિવ તેલ અને અડધા કાળા મરી ભેળવો. શાક બંને બાજુ 3–4 મિનિટ ગ્રિલ કરો જેથી નરમ અને ધાર બદામી થાય. થાળીમાં કાઢો.",
+        "હલૂમીના ટુકડા પર બાકીનું 10 મિલી ઓલિવ તેલ લગાવો. બંને બાજુ આશરે 2 મિનિટ ગ્રિલ કરો જેથી સ્પષ્ટ સોનેરી રેખાઓ આવે અને મધ્ય ભાગ ગરમ છતાં આકારમાં રહે. અડધો લીંબુનો રસ ચીઝ પર નાખો.",
+        "ચાર ફ્લેટબ્રેડ તવા પર સહેજ ગરમ કરીને નરમ અને લચીલી કરો. દરેક પર 50 ગ્રામ હમસ લગાવો, ધાર છોડો. દરેક પર ગ્રિલ કરેલા સિમલા મરચાં, ઝુકિની, રોકેટ, ટામેટાં અને કાકડીનો ચોથો ભાગ ગોઠવો, પછી ત્રણ ગરમ હલૂમીના ટુકડા મૂકો. બાકી લીંબુનો રસ અને કાળા મરી ઉમેરો.",
+        "નીચેની ધાર પૂરણ ઉપર વાળો, બંને બાજુ અંદર કરો અને કસીને વાળો. દરેક રેપ ત્રાંસો કાપી તરત પીરસો જ્યારે હલૂમી ગરમ અને પાન તાજાં હોય. પૂરણમાં અલગ શેકેલા સફેદ ચીઝના ટુકડા દેખાવા જોઈએ, ઓગળેલી ચીઝ સોસ નહીં."
+      ],
+      "tips": ["હલૂમી અલગ પ્રકારના રેનેટથી બની શકે છે, એટલે ખરીદેલા પેકની ખાતરી કરો. શાક કોરાં કરો અને વધુ ન ભરો જેથી રેપ ચોખ્ખો બને. તપાસેલા ફોટામાં કાપેલા રેપમાં સ્પષ્ટ ગ્રિલ્ડ હલૂમી, હમસ, લાલ સિમલા મરચાં, ઝુકિની, રોકેટ, ટામેટાં અને કાકડી દેખાય છે."]
+    }
+  },
+  "reference": {"url": "https://www.marthastewart.com/1555314/grilled-halloumi-and-vegetable-wraps", "use": "Grilled halloumi and vegetable wrap technique; vegetarian-rennet selection, hummus assembly, measures and wording independently authored."}
+}
