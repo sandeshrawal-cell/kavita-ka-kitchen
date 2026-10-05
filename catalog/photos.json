@@ -9597,5 +9597,53 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "mediterranean-quinoa-bowl": {
+    "name": "Mediterranean Quinoa Bowl",
+    "src": "/photos/mediterranean-quinoa-bowl-1200.webp",
+    "small": "/photos/mediterranean-quinoa-bowl-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Mediterranean Quinoa Bowl served ready to eat",
+    "kind": "generated",
+    "title": "Mediterranean Quinoa Bowl",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "singapore-noodles": {
+    "name": "Singapore Noodles",
+    "src": "/photos/singapore-noodles-1200.webp",
+    "small": "/photos/singapore-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Singapore Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Singapore Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "lo-mein": {
+    "name": "Lo Mein",
+    "src": "/photos/lo-mein-1200.webp",
+    "small": "/photos/lo-mein-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Lo Mein served ready to eat",
+    "kind": "generated",
+    "title": "Lo Mein",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

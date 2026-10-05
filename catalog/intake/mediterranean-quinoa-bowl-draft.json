@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0172",
+  "id": "mediterranean-quinoa-bowl",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Mediterranean Quinoa Bowl",
+  "cuisine": "Mediterranean",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {"name":"dry quinoa, rinsed","qty":240,"unit":"g"},
+    {"name":"water","qty":480,"unit":"ml"},
+    {"name":"cooked chickpeas, drained","qty":300,"unit":"g"},
+    {"name":"cucumber, diced","qty":220,"unit":"g"},
+    {"name":"cherry tomatoes, halved","qty":240,"unit":"g"},
+    {"name":"red onion, thinly sliced","qty":80,"unit":"g"},
+    {"name":"pitted Kalamata olives","qty":80,"unit":"g"},
+    {"name":"vegetarian-rennet feta, cubed","qty":120,"unit":"g"},
+    {"name":"fresh parsley, chopped","qty":25,"unit":"g"},
+    {"name":"lemon juice","qty":40,"unit":"ml"},
+    {"name":"extra-virgin olive oil","qty":45,"unit":"ml"},
+    {"name":"dried oregano","qty":3,"unit":"g"},
+    {"name":"salt","qty":5,"unit":"g"},
+    {"name":"ground black pepper","qty":2,"unit":"g"}
+  ],
+  "steps": [
+    "Rinse the quinoa well in a fine sieve to remove its bitter coating. Put it in a saucepan with the measured 480 ml water and 2 g of the salt. Bring to a boil, cover, turn the heat to low and simmer for 15 minutes. Rest covered for 5 minutes, then fluff with a fork and cool until warm.",
+    "Drain and rinse the cooked chickpeas, then pat them dry. Dice the cucumber, halve the tomatoes, slice the red onion thinly and pit the olives if needed. Chop the parsley and cube the vegetarian-rennet feta so every serving gets some.",
+    "Whisk the lemon juice with the olive oil, dried oregano, remaining 3 g salt and black pepper. Taste the dressing; the olives and feta are salty, so keep it bright rather than adding extra salt.",
+    "Toss the warm quinoa with half the dressing. Fold in the chickpeas, cucumber, tomatoes, onion and most of the parsley gently so the vegetables retain their shape.",
+    "Divide among four bowls. Arrange the olives and feta cubes on top, drizzle with the remaining dressing and finish with the remaining parsley. Serve at room temperature or chill briefly; add the dressing just before serving if making ahead."
+  ],
+  "tips": ["Use feta made with microbial or vegetarian rennet. The reviewed photo shows individual quinoa grains, chickpeas, cucumber, tomatoes, red onion, dark olives, feta cubes, parsley and lemon."],
+  "translations": {
+    "hi": {
+      "name": "मेडिटेरेनियन क्विनोआ बाउल",
+      "ingredients": ["सूखा क्विनोआ, धोया हुआ","पानी","पके चने, छाने हुए","खीरा, टुकड़ों में","चेरी टमाटर, आधे कटे","लाल प्याज़, पतला कटा","गुठली निकाले कलामाता ऑलिव","शाकाहारी रेनेट वाला फ़ेटा, टुकड़ों में","ताज़ा पार्सले, कटा","नींबू का रस","एक्स्ट्रा-वर्जिन ऑलिव ऑयल","सूखा ओरिगैनो","नमक","पिसी काली मिर्च"],
+      "steps": [
+        "क्विनोआ को बारीक छलनी में अच्छी तरह धोएँ ताकि कड़वी परत हटे। बर्तन में नापा 480 मिली पानी और 2 ग्राम नमक के साथ रखें। उबालकर ढकें और धीमी आँच पर 15 मिनट पकाएँ। 5 मिनट ढका छोड़ें, फिर काँटे से फुलाएँ और गुनगुना होने दें।",
+        "पके चने छानकर धोएँ और सुखाएँ। खीरा छोटे टुकड़ों में, टमाटर आधे, लाल प्याज़ पतला काटें; ज़रूरत हो तो ऑलिव की गुठली निकालें। पार्सले काटें और शाकाहारी रेनेट वाला फ़ेटा ऐसे टुकड़ों में करें कि चारों हिस्सों में मिले।",
+        "नींबू रस, ऑलिव ऑयल, सूखा ओरिगैनो, बचा 3 ग्राम नमक और काली मिर्च फेंटें। ड्रेसिंग चखें; ऑलिव और फ़ेटा नमकीन होते हैं, इसलिए अतिरिक्त नमक सोचकर डालें।",
+        "गुनगुने क्विनोआ में आधी ड्रेसिंग मिलाएँ। चने, खीरा, टमाटर, प्याज़ और अधिकतर पार्सले धीरे से मिलाएँ ताकि सब्ज़ियाँ अपना आकार बनाए रखें।",
+        "चार बाउल में बाँटें। ऊपर ऑलिव और फ़ेटा सजाएँ, बची ड्रेसिंग डालें और बचा पार्सले छिड़कें। कमरे के ताप पर परोसें या थोड़ा ठंडा करें; पहले से बना रहे हों तो ड्रेसिंग परोसने से ठीक पहले मिलाएँ।"
+      ],
+      "tips": ["माइक्रोबियल या शाकाहारी रेनेट से बना फ़ेटा लें। समीक्षित तस्वीर में क्विनोआ के अलग दाने, चने, खीरा, टमाटर, लाल प्याज़, गहरे ऑलिव, फ़ेटा, पार्सले और नींबू दिखते हैं।"]
+    },
+    "gu": {
+      "name": "મેડિટેરેનિયન ક્વિનોઆ બાઉલ",
+      "ingredients": ["સૂકું ક્વિનોઆ, ધોયેલું","પાણી","રાંધેલા ચણા, નિતારેલા","કાકડી, ટુકડામાં","ચેરી ટમેટાં, અડધાં કાપેલા","લાલ ડુંગળી, પાતળી કાપેલી","ઠળિયા કાઢેલા કલામાતા ઓલિવ","શાકાહારી રેનેટવાળું ફેટા, ટુકડામાં","તાજી પાર્સલી, સમારેલી","લીંબુનો રસ","એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ","સૂકું ઓરેગાનો","મીઠું","દળેલી કાળી મરી"],
+      "steps": [
+        "ક્વિનોઆને ઝીણી ચાળણીમાં સારી રીતે ધુઓ જેથી કડવું પડ નીકળી જાય. વાસણમાં માપેલું 480 મિલી પાણી અને 2 ગ્રામ મીઠા સાથે મૂકો. ઉકાળી ઢાંકો અને ધીમા તાપે 15 મિનિટ રાંધો. 5 મિનિટ ઢાંકેલું રાખી કાંટાથી દાણા છૂટા કરો અને હૂંફાળું થવા દો.",
+        "રાંધેલા ચણા નિતારી ધોઈ સુકવો. કાકડી નાના ટુકડા, ટમેટાં અડધાં અને લાલ ડુંગળી પાતળી કાપો; જરૂર હોય તો ઓલિવના ઠળિયા કાઢો. પાર્સલી સમારો અને શાકાહારી રેનેટવાળું ફેટા એવા ટુકડા કરો કે ચારે ભાગમાં મળે.",
+        "લીંબુનો રસ, ઓલિવ તેલ, સૂકું ઓરેગાનો, બાકી 3 ગ્રામ મીઠું અને કાળી મરી ફેંટો. ડ્રેસિંગ ચાખો; ઓલિવ અને ફેટા ખારા હોવાથી વધુ મીઠું સમજીને ઉમેરો.",
+        "હૂંફાળા ક્વિનોઆમાં અડધું ડ્રેસિંગ ભેળવો. ચણા, કાકડી, ટમેટાં, ડુંગળી અને મોટાભાગની પાર્સલી હળવેથી ભેળવો જેથી શાકનો આકાર જળવાય.",
+        "ચાર બાઉલમાં વહેંચો. ઉપર ઓલિવ અને ફેટા ગોઠવો, બાકીનું ડ્રેસિંગ રેડો અને પાર્સલી છાંટો. ઓરડાના તાપે પીરસો અથવા થોડું ઠંડું કરો; અગાઉથી બનાવતા હો તો પીરસતાં પહેલાં ડ્રેસિંગ નાખો."
+      ],
+      "tips": ["માઇક્રોબિયલ કે શાકાહારી રેનેટથી બનેલું ફેટા લો. તપાસેલા ફોટામાં ક્વિનોઆના છૂટા દાણા, ચણા, કાકડી, ટમેટાં, લાલ ડુંગળી, કાળા ઓલિવ, ફેટા, પાર્સલી અને લીંબુ છે."]
+    }
+  },
+  "reference": {"url":"https://www.loveandlemons.com/quinoa-bowl/","use":"Mediterranean quinoa-bowl composition; measures and text independently developed for the reviewed photograph."}
+}

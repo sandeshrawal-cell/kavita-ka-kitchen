@@ -1,0 +1,50 @@
+{
+  "sourceReviewId":"R0173","id":"singapore-noodles","status":"draft-photo-and-translation-reviewed","name":"Singapore Noodles","cuisine":"Chinese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
+  "ingredients":[
+    {"name":"dry thin rice vermicelli","qty":280,"unit":"g"},
+    {"name":"firm tofu, pressed and cut into strips","qty":240,"unit":"g"},
+    {"name":"carrot, matchsticked","qty":140,"unit":"g"},
+    {"name":"green and red bell peppers, thinly sliced","qty":180,"unit":"g"},
+    {"name":"cabbage, shredded","qty":160,"unit":"g"},
+    {"name":"bean sprouts","qty":120,"unit":"g"},
+    {"name":"green peas","qty":100,"unit":"g"},
+    {"name":"spring onion, sliced","qty":70,"unit":"g"},
+    {"name":"garlic, minced","qty":15,"unit":"g"},
+    {"name":"curry powder","qty":12,"unit":"g"},
+    {"name":"ground turmeric","qty":3,"unit":"g"},
+    {"name":"light soy sauce","qty":35,"unit":"ml"},
+    {"name":"rice vinegar","qty":15,"unit":"ml"},
+    {"name":"neutral oil","qty":35,"unit":"ml"},
+    {"name":"salt","qty":4,"unit":"g"},
+    {"name":"sugar","qty":5,"unit":"g"}
+  ],
+  "steps":[
+    "Soak the thin rice vermicelli in hot water for 8–10 minutes, or follow the pack timing, until pliable but not soft. Drain well and snip once or twice with scissors so the noodles are easier to toss. Do not boil them to mush.",
+    "Pat the pressed tofu strips dry. Heat 15 ml of the oil in a wide wok or skillet over medium-high heat and sear the tofu for 2–3 minutes per side until golden. Remove to a plate.",
+    "Mix the curry powder, turmeric, salt and sugar in a small bowl. Mix soy sauce and rice vinegar separately. Cut all vegetables before heating the wok because the final cooking is fast.",
+    "Heat the remaining 20 ml oil. Stir-fry garlic, carrot, peppers, cabbage and peas for 3–4 minutes until just tender. Add bean sprouts and the white parts of the spring onion for 1 minute, then sprinkle in the dry spice mix and stir briefly to release its aroma.",
+    "Add drained noodles and tofu. Pour in soy-vinegar mixture and lift and toss with tongs for 3–5 minutes until noodles are hot, evenly yellow and not wet. If the pan dries before noodles soften, splash in a little hot water. Top with the green spring onion and serve immediately."
+  ],
+  "tips":["Buy plain rice vermicelli and confirm curry powder has no fish ingredients. The reviewed photograph shows very thin yellow noodles, tofu strips, carrot, peppers, cabbage, sprouts, peas and scallion, without egg, shrimp or meat."],
+  "translations":{
+    "hi":{"name":"सिंगापुर नूडल्स","ingredients":["सूखी पतली राइस वर्मिसेली","सख्त टोफू, दबाकर पट्टियों में","गाजर, तीली जैसे टुकड़े","हरी और लाल शिमला मिर्च, पतली कटी","पत्तागोभी, कटी","अंकुरित मूँग या बीन स्प्राउट्स","हरे मटर","हरा प्याज़, कटा","लहसुन, बारीक कटा","करी पाउडर","पिसी हल्दी","हल्का सोया सॉस","राइस विनेगर","हल्का स्वाद वाला तेल","नमक","चीनी"],
+      "steps":[
+        "पतली राइस वर्मिसेली गरम पानी में 8–10 मिनट या पैक के समय अनुसार भिगोएँ, जब तक लचीली पर नरम-गल न जाए। अच्छी तरह छानें और कैंची से एक-दो बार काटें ताकि मिलाना आसान हो। इसे ज़्यादा उबालकर लुगदी न बनाएँ।",
+        "दबाए टोफू की पट्टियाँ सुखाएँ। चौड़े वोक या पैन में 15 मिली तेल मध्यम-तेज़ आँच पर गरम करें और टोफू की दोनों तरफ़ 2–3 मिनट सुनहरा सेंकें। प्लेट में निकालें।",
+        "छोटे कटोरे में करी पाउडर, हल्दी, नमक और चीनी मिलाएँ। सोया सॉस और राइस विनेगर अलग मिलाएँ। वोक गरम करने से पहले सभी सब्ज़ियाँ काट लें क्योंकि आगे पकाना तेज़ है।",
+        "बचा 20 मिली तेल गरम करें। लहसुन, गाजर, शिमला मिर्च, पत्तागोभी और मटर 3–4 मिनट भूनें ताकि बस नरम हों। स्प्राउट्स और हरे प्याज़ का सफेद भाग 1 मिनट भूनें; सूखे मसाले डालकर सुगंध आने तक चलाएँ।",
+        "छाने नूडल्स और टोफू डालें। सोया-विनेगर मिश्रण डालकर चिमटे से 3–5 मिनट उठाकर मिलाएँ, जब तक नूडल्स गरम, बराबर पीले और बिना पानी के हों। सूखें तो थोड़ा गरम पानी छिड़कें। ऊपर हरा प्याज़ डालकर तुरंत परोसें।"
+      ],
+      "tips":["सादी राइस वर्मिसेली लें और जाँचें कि करी पाउडर में मछली की सामग्री न हो। समीक्षित तस्वीर में पतले पीले नूडल्स, टोफू, गाजर, शिमला मिर्च, पत्तागोभी, स्प्राउट्स, मटर और हरा प्याज़ हैं; अंडा, झींगा या मांस नहीं।"]},
+    "gu":{"name":"સિંગાપુર નૂડલ્સ","ingredients":["સૂકી પાતળી રાઇસ વર્મિસેલી","મજબૂત ટોફુ, દબાવી પટ્ટીઓ કરેલું","ગાજર, દીવાસળી જેવા ટુકડા","લીલા અને લાલ કેપ્સિકમ, પાતળા કાપેલા","કોબી, સમારેલી","બીન સ્પ્રાઉટ્સ","લીલા વટાણા","લીલી ડુંગળી, સમારેલી","લસણ, ઝીણું સમારેલું","કરી પાઉડર","દળેલી હળદર","હળવો સોયા સોસ","રાઇસ વિનેગર","હળવા સ્વાદનું તેલ","મીઠું","ખાંડ"],
+      "steps":[
+        "પાતળી રાઇસ વર્મિસેલી ગરમ પાણીમાં 8–10 મિનિટ અથવા પેકના સમય પ્રમાણે પલાળો, જેથી લચીલી થાય પણ ગળી ન જાય. સારી રીતે નિતારી કાતરથી એક-બે વાર કાપો જેથી મિશ્રણ સહેલું થાય. વધારે ઉકાળી પોચી ન બનાવો.",
+        "દબાવેલી ટોફુ પટ્ટીઓ સૂકવો. પહોળી કડાઈમાં 15 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરી ટોફુની દરેક બાજુ 2–3 મિનિટ સોનેરી શેકો. પ્લેટમાં કાઢો.",
+        "નાની વાટકીમાં કરી પાઉડર, હળદર, મીઠું અને ખાંડ ભેળવો. સોયા સોસ અને રાઇસ વિનેગર અલગ ભેળવો. કડાઈ ગરમ કરતાં પહેલાં બધાં શાક કાપો કારણ કે પછી ઝડપથી રાંધવાનું છે.",
+        "બાકી 20 મિલી તેલ ગરમ કરો. લસણ, ગાજર, કેપ્સિકમ, કોબી અને વટાણા 3–4 મિનિટ શેકો જેથી થોડા નરમ થાય. સ્પ્રાઉટ્સ અને લીલી ડુંગળીનો સફેદ ભાગ 1 મિનિટ શેકો; સૂકા મસાલા નાખી સુગંધ આવે ત્યાં સુધી હલાવો.",
+        "નિતારેલા નૂડલ્સ અને ટોફુ નાખો. સોયા-વિનેગર મિશ્રણ રેડી ચીપિયાથી ઊંચકી 3–5 મિનિટ ભેળવો, જેથી નૂડલ્સ ગરમ, સરખા પીળા અને પાણી વગરના થાય. સુકાઈ જાય તો થોડું ગરમ પાણી છાંટો. ઉપર લીલી ડુંગળી નાખી તરત પીરસો."
+      ],
+      "tips":["સાદી રાઇસ વર્મિસેલી લો અને કરી પાઉડરમાં માછલીની સામગ્રી નથી તેની ખાતરી કરો. તપાસેલા ફોટામાં પાતળા પીળા નૂડલ્સ, ટોફુ, ગાજર, કેપ્સિકમ, કોબી, સ્પ્રાઉટ્સ, વટાણા અને લીલી ડુંગળી છે; ઈંડા, ઝીંગા કે માંસ નથી."]}
+  },
+  "reference":{"url":"https://thewoksoflife.com/vegetarian-singapore-noodles/","use":"Vegetarian curry-vermicelli method; distinct quantities, tofu addition and wording independently authored for reviewed photo."}
+}
