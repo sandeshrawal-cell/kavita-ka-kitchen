@@ -1,48 +1,161 @@
 {
-  "sourceReviewId":"R0182","id":"pad-woon-sen","status":"draft-photo-and-translation-reviewed","name":"Pad Woon Sen","cuisine":"Thai","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
-  "ingredients":[
-    {"name":"dry mung bean glass noodles","qty":240,"unit":"g"},
-    {"name":"firm tofu, pressed and cubed","qty":320,"unit":"g"},
-    {"name":"cabbage, bite-sized pieces","qty":240,"unit":"g"},
-    {"name":"carrot, thinly sliced","qty":150,"unit":"g"},
-    {"name":"tomatoes, cut into wedges","qty":240,"unit":"g"},
-    {"name":"spring onion, cut into short lengths","qty":90,"unit":"g"},
-    {"name":"garlic, chopped","qty":18,"unit":"g"},
-    {"name":"onion, thinly sliced","qty":110,"unit":"g"},
-    {"name":"vegetarian mushroom stir-fry sauce","qty":50,"unit":"ml"},
-    {"name":"light soy sauce","qty":45,"unit":"ml"},
-    {"name":"sugar","qty":12,"unit":"g"},
-    {"name":"ground white pepper","qty":3,"unit":"g"},
-    {"name":"neutral oil","qty":35,"unit":"ml"},
-    {"name":"water","qty":100,"unit":"ml"}
+  "sourceReviewId": "R0182",
+  "id": "pad-woon-sen",
+  "status": "published-second-100-intake-batch",
+  "name": "Pad Woon Sen",
+  "cuisine": "Thai",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "dry mung bean glass noodles",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu, pressed and cubed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, bite-sized pieces",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, thinly sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, cut into wedges",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion, cut into short lengths",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, chopped",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mushroom stir-fry sauce",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground white pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
     "Soak dry mung bean glass noodles in room-temperature water for 8–10 minutes until flexible; drain and snip a few times with scissors. They finish cooking in the pan, so do not boil them first. Mix mushroom sauce, soy sauce, sugar, white pepper and measured 100 ml water.",
     "Press the tofu dry. Heat 15 ml oil in a wide skillet and sear tofu cubes for 2–3 minutes per side until golden. Remove to a plate, leaving the pan hot.",
     "Add remaining 20 ml oil, garlic and onion; fry 1 minute. Add carrot and cabbage and stir-fry 2–3 minutes until just starting to soften. Add tomato wedges and cook 1 minute so they keep their shape.",
     "Add drained glass noodles and pour over the sauce. Lift and toss for 2–4 minutes until the noodles turn transparent, absorb most of the liquid and are chewy rather than hard. Add a small splash of water only if they dry before cooking through.",
     "Return tofu and add the spring onion. Toss for a final minute to heat everything evenly. Divide immediately among four plates while the glass noodles remain springy and the vegetables retain color."
   ],
-  "tips":["Choose mung bean starch glass noodles; rice vermicelli looks and behaves differently. The reviewed photo shows transparent noodles, tofu, cabbage, carrot, tomato and spring onion without egg or meat."],
-  "translations":{
-    "hi":{"name":"पैड वून सेन","ingredients":["सूखे मूँग स्टार्च ग्लास नूडल्स","सख्त टोफू, दबाकर चौकोर कटा","पत्तागोभी, छोटे टुकड़े","गाजर, पतली कटी","टमाटर, फाँकों में","हरा प्याज़, छोटे टुकड़े","लहसुन, कटा","प्याज़, पतला कटा","शाकाहारी मशरूम स्टिर-फ्राय सॉस","हल्का सोया सॉस","चीनी","पिसी सफेद मिर्च","हल्का स्वाद वाला तेल","पानी"],
-      "steps":[
+  "tips": [
+    "Choose mung bean starch glass noodles; rice vermicelli looks and behaves differently. The reviewed photo shows transparent noodles, tofu, cabbage, carrot, tomato and spring onion without egg or meat."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पैड वून सेन",
+      "ingredients": [
+        "सूखे मूँग स्टार्च ग्लास नूडल्स",
+        "सख्त टोफू, दबाकर चौकोर कटा",
+        "पत्तागोभी, छोटे टुकड़े",
+        "गाजर, पतली कटी",
+        "टमाटर, फाँकों में",
+        "हरा प्याज़, छोटे टुकड़े",
+        "लहसुन, कटा",
+        "प्याज़, पतला कटा",
+        "शाकाहारी मशरूम स्टिर-फ्राय सॉस",
+        "हल्का सोया सॉस",
+        "चीनी",
+        "पिसी सफेद मिर्च",
+        "हल्का स्वाद वाला तेल",
+        "पानी"
+      ],
+      "steps": [
         "सूखे मूँग स्टार्च ग्लास नूडल्स कमरे के ताप के पानी में 8–10 मिनट लचीले होने तक भिगोएँ; छानें और कैंची से कुछ बार काटें। ये पैन में पकेंगे, इसलिए पहले न उबालें। मशरूम सॉस, सोया सॉस, चीनी, सफेद मिर्च और नापा 100 मिली पानी मिलाएँ।",
         "टोफू दबाकर सुखाएँ। चौड़े पैन में 15 मिली तेल गरम करके टोफू की हर तरफ़ 2–3 मिनट सुनहरा सेंकें। प्लेट में निकालें और पैन गरम रहने दें।",
         "बचा 20 मिली तेल, लहसुन और प्याज़ डालकर 1 मिनट भूनें। गाजर और पत्तागोभी डालकर 2–3 मिनट बस नरम होने तक भूनें। टमाटर की फाँकें डालें और 1 मिनट पकाएँ ताकि आकार बना रहे।",
         "छाने ग्लास नूडल्स डालकर सॉस डालें। 2–4 मिनट उठाकर मिलाएँ, जब तक नूडल्स पारदर्शी, अधिकतर पानी सोखे हुए और सख्त की जगह लचीले हों। पकने से पहले सूखें तो थोड़ा पानी छिड़कें।",
         "टोफू वापस डालें और हरा प्याज़ मिलाएँ। सब बराबर गरम होने तक एक अंतिम मिनट चलाएँ। नूडल्स लचीले और सब्ज़ियाँ रंगीन रहें तब तुरंत चार प्लेटों में बाँटें।"
       ],
-      "tips":["मूँग स्टार्च वाले ग्लास नूडल्स लें; राइस वर्मिसेली का रूप और पकना अलग है। समीक्षित तस्वीर में पारदर्शी नूडल्स, टोफू, पत्तागोभी, गाजर, टमाटर और हरा प्याज़ हैं; अंडा या मांस नहीं।"]},
-    "gu":{"name":"પાડ વૂન સેન","ingredients":["સૂકા મગના સ્ટાર્ચના ગ્લાસ નૂડલ્સ","મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","કોબી, નાના ટુકડા","ગાજર, પાતળી કાપેલી","ટમેટાં, ફાંકોમાં","લીલી ડુંગળી, નાના ટુકડા","લસણ, સમારેલું","ડુંગળી, પાતળી સમારેલી","શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ","હળવો સોયા સોસ","ખાંડ","દળેલી સફેદ મરી","હળવા સ્વાદનું તેલ","પાણી"],
-      "steps":[
+      "tips": [
+        "मूँग स्टार्च वाले ग्लास नूडल्स लें; राइस वर्मिसेली का रूप और पकना अलग है। समीक्षित तस्वीर में पारदर्शी नूडल्स, टोफू, पत्तागोभी, गाजर, टमाटर और हरा प्याज़ हैं; अंडा या मांस नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પાડ વૂન સેન",
+      "ingredients": [
+        "સૂકા મગના સ્ટાર્ચના ગ્લાસ નૂડલ્સ",
+        "મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું",
+        "કોબી, નાના ટુકડા",
+        "ગાજર, પાતળી કાપેલી",
+        "ટમેટાં, ફાંકોમાં",
+        "લીલી ડુંગળી, નાના ટુકડા",
+        "લસણ, સમારેલું",
+        "ડુંગળી, પાતળી સમારેલી",
+        "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ",
+        "હળવો સોયા સોસ",
+        "ખાંડ",
+        "દળેલી સફેદ મરી",
+        "હળવા સ્વાદનું તેલ",
+        "પાણી"
+      ],
+      "steps": [
         "સૂકા મગના સ્ટાર્ચના ગ્લાસ નૂડલ્સ ઓરડાના તાપના પાણીમાં 8–10 મિનિટ લચીલા થાય ત્યાં સુધી પલાળો; નિતારી કાતરથી થોડાં કાપો. તે કડાઈમાં રંધાશે, એટલે પહેલાં ન ઉકાળો. મશરૂમ સોસ, સોયા સોસ, ખાંડ, સફેદ મરી અને માપેલું 100 મિલી પાણી ભેળવો.",
         "ટોફુ દબાવી સૂકવો. પહોળી કડાઈમાં 15 મિલી તેલ ગરમ કરી ટોફુની દરેક બાજુ 2–3 મિનિટ સોનેરી શેકો. પ્લેટમાં કાઢો અને કડાઈ ગરમ રહેવા દો.",
         "બાકી 20 મિલી તેલ, લસણ અને ડુંગળી નાખી 1 મિનિટ શેકો. ગાજર અને કોબી નાખી 2–3 મિનિટ માત્ર નરમ થવા લાગે ત્યાં સુધી શેકો. ટમેટાંની ફાંકો નાખી 1 મિનિટ રાંધો જેથી આકાર રહે.",
         "નિતારેલા ગ્લાસ નૂડલ્સ નાખી સોસ રેડો. 2–4 મિનિટ ઊંચકી ભેળવો જેથી નૂડલ્સ પારદર્શક બને, મોટાભાગનું પાણી શોષે અને કઠણને બદલે લચીલા થાય. રંધાય તે પહેલાં સુકાય તો થોડું પાણી છાંટો.",
         "ટોફુ પાછું નાખી લીલી ડુંગળી ભેળવો. બધું સરખું ગરમ થાય ત્યાં સુધી છેલ્લી એક મિનિટ હલાવો. નૂડલ્સ લચીલા અને શાક રંગીન હોય ત્યારે તરત ચાર પ્લેટમાં વહેંચો."
       ],
-      "tips":["મગના સ્ટાર્ચના ગ્લાસ નૂડલ્સ લો; રાઇસ વર્મિસેલીનો દેખાવ અને રાંધવાની રીત અલગ છે. તપાસેલા ફોટામાં પારદર્શક નૂડલ્સ, ટોફુ, કોબી, ગાજર, ટમેટાં અને લીલી ડુંગળી છે; ઈંડું કે માંસ નથી."]}
+      "tips": [
+        "મગના સ્ટાર્ચના ગ્લાસ નૂડલ્સ લો; રાઇસ વર્મિસેલીનો દેખાવ અને રાંધવાની રીત અલગ છે. તપાસેલા ફોટામાં પારદર્શક નૂડલ્સ, ટોફુ, કોબી, ગાજર, ટમેટાં અને લીલી ડુંગળી છે; ઈંડું કે માંસ નથી."
+      ]
+    }
   },
-  "reference":{"url":"https://hot-thai-kitchen.com/glass-noodle-stir-fry/","use":"Thai glass noodle soak-and-stir-fry method; tofu and egg-free vegetarian quantities and wording independently authored."}
+  "reference": {
+    "url": "https://hot-thai-kitchen.com/glass-noodle-stir-fry/",
+    "use": "Thai glass noodle soak-and-stir-fry method; tofu and egg-free vegetarian quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pad-woon-sen.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

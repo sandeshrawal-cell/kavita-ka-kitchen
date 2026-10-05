@@ -1,34 +1,80 @@
 {
   "sourceReviewId": "R0147",
   "id": "pasta-al-limone",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pasta al Limone",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 25,
   "ingredients": [
-    {"name": "eggless dry spaghetti", "qty": 400, "unit": "g"},
-    {"name": "water", "qty": 2200, "unit": "ml"},
-    {"name": "unwaxed lemons", "qty": 160, "unit": "g"},
-    {"name": "butter", "qty": 70, "unit": "g"},
-    {"name": "vegetarian hard grating cheese made with microbial rennet", "qty": 70, "unit": "g"},
-    {"name": "fresh parsley", "qty": 15, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"},
-    {"name": "salt", "qty": 10, "unit": "g"}
+    {
+      "name": "eggless dry spaghetti",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2200,
+      "unit": "ml"
+    },
+    {
+      "name": "unwaxed lemons",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard grating cheese made with vegetarian coagulants",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh parsley",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check that the dry spaghetti is eggless and the hard cheese is labelled vegetarian or microbial-rennet. Wash and dry the lemons. Finely grate only the yellow zest, keeping a little for garnish; avoid bitter white pith. Squeeze and measure 45 ml juice, removing seeds. Finely grate the cheese and chop parsley.",
+    "Check that the dry spaghetti is eggless and the hard cheese is labelled vegetarian or microbial-coagulants. Wash and dry the lemons. Finely grate only the yellow zest, keeping a little for garnish; avoid bitter white pith. Squeeze and measure 45 ml juice, removing seeds. Finely grate the cheese and chop parsley.",
     "Bring 2200 ml water and 8 g salt to a rolling boil. Add spaghetti, stir to separate and cook about 1 minute less than the packet's al dente time. Before draining, reserve at least 300 ml hot, cloudy pasta water.",
     "While the pasta cooks, melt 50 g butter in a wide pan over low heat. Add most of the lemon zest and stir for 1 minute to perfume the butter without browning it. Add 120 ml reserved pasta water and the almost-cooked spaghetti. Raise to medium heat and toss for 1–2 minutes until the pasta is just tender and glossy.",
     "Turn off the heat and let the pan cool for 30 seconds. Add the remaining 20 g cold butter, 45 ml lemon juice and 50 g finely grated cheese. Toss vigorously, adding warm reserved pasta water a tablespoon at a time, until a pale silky sauce coats every strand; do not boil the cheese. Taste and add up to 2 g remaining salt only if needed.",
     "Divide into four warm bowls and finish with the remaining 20 g cheese, reserved lemon zest, parsley and black pepper. Serve at once; the lemon-butter emulsion thickens as it cools."
   ],
-  "tips": ["The reviewed photo shows pale glossy spaghetti, lemon zest, a little grated cheese, parsley and a lemon wedge. Use lemon zest for aroma and measured juice for brightness, without cream. Cheese must be made with non-animal rennet."],
+  "tips": [
+    "The reviewed photo shows pale glossy spaghetti, lemon zest, a little grated cheese, parsley and a lemon wedge. Use lemon zest for aroma and measured juice for brightness, without cream. Cheese must be made with non-animal rennet."
+  ],
   "translations": {
     "hi": {
       "name": "पास्ता अल लिमोने",
-      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "पानी", "बिना मोम वाले नींबू", "मक्खन", "सूक्ष्मजीवी रेननेट से बना शाकाहारी सख्त कद्दूकस चीज़", "ताज़ा पार्सली", "काली मिर्च", "नमक"],
+      "ingredients": [
+        "बिना अंडे की सूखी स्पेगेटी",
+        "पानी",
+        "बिना मोम वाले नींबू",
+        "मक्खन",
+        "सूक्ष्मजीवी रेननेट से बना शाकाहारी सख्त कद्दूकस चीज़",
+        "ताज़ा पार्सली",
+        "काली मिर्च",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि सूखी स्पेगेटी में अंडा न हो और सख्त चीज़ पर शाकाहारी या सूक्ष्मजीवी रेननेट लिखा हो। नींबू धोकर सुखाएँ। सिर्फ पीला छिलका बारीक कद्दूकस करें, थोड़ा सजाने के लिए रखें; कड़वा सफेद भाग न लें। 45 मिली रस निचोड़कर नापें और बीज निकालें। चीज़ बारीक कद्दूकस करें और पार्सली काटें।",
         "2200 मिली पानी और 8 ग्राम नमक तेज़ उबालें। स्पेगेटी डालकर तार अलग करने के लिए चलाएँ और पैकेट के अल दंते समय से लगभग 1 मिनट कम पकाएँ। छानने से पहले कम से कम 300 मिली गरम, धुंधला पास्ता पानी बचाएँ।",
@@ -36,11 +82,22 @@
         "आँच बंद करके पैन 30 सेकंड ठंडा होने दें। बचा 20 ग्राम ठंडा मक्खन, 45 मिली नींबू रस और 50 ग्राम बारीक कद्दूकस चीज़ डालें। तेज़ी से पलटते हुए बचा गुनगुना पास्ता पानी एक-एक बड़ा चम्मच डालें, जब तक हल्की रेशमी सॉस हर तार पर चढ़े; चीज़ को न उबालें। चखें और ज़रूरत हो तभी बचा 2 ग्राम नमक डालें।",
         "चार गरम कटोरियों में बाँटें। बचा 20 ग्राम चीज़, अलग रखा नींबू छिलका, पार्सली और काली मिर्च ऊपर डालें। तुरंत परोसें; ठंडी होने पर नींबू-मक्खन की सॉस गाढ़ी होती है।"
       ],
-      "tips": ["समीक्षित तस्वीर में हल्की चमकदार स्पेगेटी, नींबू का छिलका, थोड़ा कद्दूकस चीज़, पार्सली और नींबू की फाँक है। सुगंध के लिए छिलका और खटास के लिए नापा रस लें, क्रीम नहीं। चीज़ पशु रेननेट रहित होना चाहिए।"]
+      "tips": [
+        "समीक्षित तस्वीर में हल्की चमकदार स्पेगेटी, नींबू का छिलका, थोड़ा कद्दूकस चीज़, पार्सली और नींबू की फाँक है। सुगंध के लिए छिलका और खटास के लिए नापा रस लें, क्रीम नहीं। चीज़ पशु रेननेट रहित होना चाहिए।"
+      ]
     },
     "gu": {
       "name": "પાસ્તા અલ લિમોને",
-      "ingredients": ["ઇંડા વગરની સૂકી સ્પાઘેટી", "પાણી", "મીણ વગરનાં લીંબુ", "માખણ", "સૂક્ષ્મજીવી રેનેટથી બનેલું શાકાહારી કઠણ છીણવાનું ચીઝ", "તાજું પાર્સલી", "કાળા મરી", "મીઠું"],
+      "ingredients": [
+        "ઇંડા વગરની સૂકી સ્પાઘેટી",
+        "પાણી",
+        "મીણ વગરનાં લીંબુ",
+        "માખણ",
+        "સૂક્ષ્મજીવી રેનેટથી બનેલું શાકાહારી કઠણ છીણવાનું ચીઝ",
+        "તાજું પાર્સલી",
+        "કાળા મરી",
+        "મીઠું"
+      ],
       "steps": [
         "સૂકી સ્પાઘેટીમાં ઇંડું ન હોય અને કઠણ ચીઝ પર શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટ લખેલું હોય તે તપાસો. લીંબુ ધોઈ કોરાં કરો. માત્ર પીળી છાલ બારીક છીણો, થોડી ઉપર માટે રાખો; કડવો સફેદ ભાગ ન લો. 45 મિલી રસ કાઢી માપો અને બીજ દૂર કરો. ચીઝ બારીક છીણો અને પાર્સલી સમારો.",
         "2200 મિલી પાણી અને 8 ગ્રામ મીઠું જોરથી ઉકાળો. સ્પાઘેટી નાખી તાર છૂટા પડે એમ હલાવો અને પેકેટના અલ દંતે સમય કરતાં આશરે 1 મિનિટ ઓછી રાંધો. નિતારતાં પહેલાં ઓછામાં ઓછું 300 મિલી ગરમ, ધૂંધળું પાસ્તાનું પાણી સાચવો.",
@@ -48,8 +105,15 @@
         "તાપ બંધ કરી કડાઈ 30 સેકંડ ઠંડી થવા દો. બાકીનું 20 ગ્રામ ઠંડું માખણ, 45 મિલી લીંબુનો રસ અને 50 ગ્રામ બારીક છીણેલું ચીઝ નાખો. ઝડપથી ઉછાળતાં બાકીનું નવશેકું પાસ્તાનું પાણી એક-એક મોટો ચમચો નાખો જેથી ફિક્કી રેશમી સોસ દરેક તાર પર ચડે; ચીઝ ઉકાળો નહીં. ચાખીને જરૂર હોય તો જ બાકીનું 2 ગ્રામ મીઠું નાખો.",
         "ચાર ગરમ વાટકામાં વહેંચો. બાકીનું 20 ગ્રામ ચીઝ, સાચવેલી લીંબુની છાલ, પાર્સલી અને કાળા મરી ઉપર નાખો. તરત પીરસો; ઠંડી થતાં લીંબુ-માખણની સોસ ઘટ્ટ થાય છે."
       ],
-      "tips": ["તપાસેલા ફોટામાં ફિક્કી ચમકતી સ્પાઘેટી, લીંબુની છાલ, થોડું છીણેલું ચીઝ, પાર્સલી અને લીંબુની ફાડ છે. સુગંધ માટે છાલ અને ખટાશ માટે માપેલો રસ લો, ક્રીમ નહીં. ચીઝ પ્રાણીજન્ય રેનેટ વગરનું હોવું જોઈએ."]
+      "tips": [
+        "તપાસેલા ફોટામાં ફિક્કી ચમકતી સ્પાઘેટી, લીંબુની છાલ, થોડું છીણેલું ચીઝ, પાર્સલી અને લીંબુની ફાડ છે. સુગંધ માટે છાલ અને ખટાશ માટે માપેલો રસ લો, ક્રીમ નહીં. ચીઝ પ્રાણીજન્ય રેનેટ વગરનું હોવું જોઈએ."
+      ]
     }
   },
-  "reference": {"url": "https://www.bonappetit.com/recipe/pasta-al-limone", "use": "Lemon-butter-cheese emulsion technique; measured method and wording independently authored with vegetarian cheese for the reviewed photo."}
+  "reference": {
+    "url": "https://www.bonappetit.com/recipe/pasta-al-limone",
+    "use": "Lemon-butter-cheese emulsion technique; measured method and wording independently authored with vegetarian cheese for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/pasta-al-limone.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

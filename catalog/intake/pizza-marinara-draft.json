@@ -1,21 +1,56 @@
 {
   "sourceReviewId": "R0151",
   "id": "pizza-marinara",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pizza Marinara",
   "cuisine": "Neapolitan Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 180,
   "ingredients": [
-    {"name": "strong white wheat flour", "qty": 500, "unit": "g"},
-    {"name": "water", "qty": 320, "unit": "ml"},
-    {"name": "instant dry yeast", "qty": 3, "unit": "g"},
-    {"name": "fine salt", "qty": 13, "unit": "g"},
-    {"name": "canned peeled tomatoes", "qty": 400, "unit": "g"},
-    {"name": "garlic", "qty": 24, "unit": "g"},
-    {"name": "dried oregano", "qty": 5, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 35, "unit": "ml"}
+    {
+      "name": "strong white wheat flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 320,
+      "unit": "ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt",
+      "qty": 13,
+      "unit": "g"
+    },
+    {
+      "name": "canned peeled tomatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 24,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 35,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Mix flour and instant yeast in a large bowl. Add 300 ml of the water and mix until no dry flour remains. Dissolve 10 g salt in the remaining 20 ml water and knead it into the dough for 8–10 minutes until smooth and elastic. Cover and leave at room temperature for 90–120 minutes until noticeably expanded.",
@@ -24,11 +59,22 @@
     "Spread one-quarter of the crushed tomatoes thinly over the centre, leaving the rim bare. Add one-quarter of the garlic slices, oregano and olive oil. Slide onto the hot stone or tray and bake for 7–10 minutes, or until the base is cooked and the rim is puffed with browned spots. Home ovens vary: bake longer if the crust remains pale or doughy. Repeat with the remaining three balls and toppings.",
     "Serve each pizza hot as soon as it leaves the oven. The surface should show red tomato, garlic, oregano and olive oil, with no cheese; this is the classic marinara topping."
   ],
-  "tips": ["The reviewed image shows a blistered raised crust and a cheese-free red tomato topping with thin garlic slices and oregano. Marinara pizza contains no seafood despite its name. Preheating the baking surface thoroughly is essential to cook the base before the tomato makes it soggy."],
+  "tips": [
+    "The reviewed image shows a blistered raised crust and a cheese-free red tomato topping with thin garlic slices and oregano. Marinara pizza contains no seafood despite its name. Preheating the baking surface thoroughly is essential to cook the base before the tomato makes it soggy."
+  ],
   "translations": {
     "hi": {
       "name": "पिज़्ज़ा मारिनारा",
-      "ingredients": ["अधिक प्रोटीन वाला सफेद गेहूँ का आटा", "पानी", "इंस्टेंट सूखा यीस्ट", "बारीक नमक", "डिब्बाबंद छिले टमाटर", "लहसुन", "सूखा ओरिगैनो", "एक्स्ट्रा-वर्जिन जैतून तेल"],
+      "ingredients": [
+        "अधिक प्रोटीन वाला सफेद गेहूँ का आटा",
+        "पानी",
+        "इंस्टेंट सूखा यीस्ट",
+        "बारीक नमक",
+        "डिब्बाबंद छिले टमाटर",
+        "लहसुन",
+        "सूखा ओरिगैनो",
+        "एक्स्ट्रा-वर्जिन जैतून तेल"
+      ],
       "steps": [
         "बड़े कटोरे में आटा और इंस्टेंट यीस्ट मिलाएँ। 300 मिली पानी डालकर तब तक मिलाएँ जब तक सूखा आटा न दिखे। बचा 20 मिली पानी में 10 ग्राम नमक घोलें और इसे आटे में डालकर 8–10 मिनट चिकना तथा लचीला होने तक गूँधें। ढककर कमरे के तापमान पर 90–120 मिनट स्पष्ट फूलने तक रखें।",
         "आटे को चार बराबर गोले, लगभग 205 ग्राम प्रत्येक, बनाएँ। ढककर 30–45 मिनट आराम दें ताकि आटा नरम होकर फैले। इस बीच छिले टमाटर हाथ से मसलें और बहुत पतला रस छानें; 3 ग्राम नमक मिलाएँ। लहसुन पतले स्लाइस करें। टमाटर की टॉपिंग न पकाएँ।",
@@ -36,11 +82,22 @@
         "मसले टमाटर का एक-चौथाई हिस्सा बीच में पतला फैलाएँ, किनारा खाली रखें। लहसुन, ओरिगैनो और जैतून तेल का एक-चौथाई हिस्सा डालें। गरम स्टोन या ट्रे पर रखकर 7–10 मिनट बेक करें, जब तक तली पक जाए और किनारा फूलकर भूरे धब्बेदार हो। घरेलू ओवन अलग होते हैं: किनारा पीला या आटा कच्चा हो तो और बेक करें। बाकी तीन गोले और टॉपिंग भी ऐसे ही बनाएँ।",
         "हर पिज़्ज़ा ओवन से निकलते ही गरम परोसें। ऊपर लाल टमाटर, लहसुन, ओरिगैनो और जैतून तेल दिखें, चीज़ नहीं; यही पारंपरिक मारिनारा टॉपिंग है।"
       ],
-      "tips": ["समीक्षित तस्वीर में फूला धब्बेदार किनारा और बिना चीज़ की लाल टमाटर टॉपिंग पर लहसुन के पतले स्लाइस व ओरिगैनो हैं। नाम के बावजूद मारिनारा पिज़्ज़ा में समुद्री भोजन नहीं होता। बेकिंग सतह अच्छी तरह गरम करें ताकि टमाटर से तली गीली होने से पहले पक जाए।"]
+      "tips": [
+        "समीक्षित तस्वीर में फूला धब्बेदार किनारा और बिना चीज़ की लाल टमाटर टॉपिंग पर लहसुन के पतले स्लाइस व ओरिगैनो हैं। नाम के बावजूद मारिनारा पिज़्ज़ा में समुद्री भोजन नहीं होता। बेकिंग सतह अच्छी तरह गरम करें ताकि टमाटर से तली गीली होने से पहले पक जाए।"
+      ]
     },
     "gu": {
       "name": "પિઝા મરિનારા",
-      "ingredients": ["વધુ પ્રોટીનવાળો સફેદ ઘઉંનો લોટ", "પાણી", "ઇન્સ્ટન્ટ સૂકો યીસ્ટ", "બારીક મીઠું", "ડબ્બાબંધ છોલેલાં ટામેટાં", "લસણ", "સૂકું ઓરેગાનો", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ"],
+      "ingredients": [
+        "વધુ પ્રોટીનવાળો સફેદ ઘઉંનો લોટ",
+        "પાણી",
+        "ઇન્સ્ટન્ટ સૂકો યીસ્ટ",
+        "બારીક મીઠું",
+        "ડબ્બાબંધ છોલેલાં ટામેટાં",
+        "લસણ",
+        "સૂકું ઓરેગાનો",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ"
+      ],
       "steps": [
         "મોટી વાટકીમાં લોટ અને ઇન્સ્ટન્ટ યીસ્ટ ભેળવો. 300 મિલી પાણી નાખી સૂકો લોટ ન દેખાય ત્યાં સુધી ભેળવો. બાકીનું 20 મિલી પાણીમાં 10 ગ્રામ મીઠું ઓગાળી લોટમાં ઉમેરી 8–10 મિનિટ સુંવાળો અને લચીલો થાય ત્યાં સુધી મસળો. ઢાંકી ઓરડાના તાપે 90–120 મિનિટ સ્પષ્ટ ફૂલે ત્યાં સુધી રાખો.",
         "લોટના ચાર સરખા ગોળા, દરેક આશરે 205 ગ્રામ, કરો. ઢાંકી 30–45 મિનિટ આરામ આપો જેથી લોટ સરળતાથી ફેલાય. આ દરમિયાન છોલેલાં ટામેટાં હાથથી મસળી વધુ પડતો પાતળો રસ નિતારો; 3 ગ્રામ મીઠું ભેળવો. લસણ પાતળી સ્લાઇસ કરો. ટામેટાંની ઉપરની સામગ્રી રાંધશો નહીં.",
@@ -48,8 +105,15 @@
         "મસળેલા ટામેટાંનો ચોથો ભાગ મધ્યમાં પાતળો ફેલાવો, ધાર ખાલી રાખો. લસણ, ઓરેગાનો અને ઓલિવ તેલનો ચોથો ભાગ નાખો. ગરમ સ્ટોન કે ટ્રે પર સરકાવી 7–10 મિનિટ બેક કરો, જેથી તળિયું રંધાય અને ધાર ફૂલી બદામી ડાઘવાળી બને. ઘરનાં ઓવન અલગ હોય છે: ધાર ફિક્કી કે લોટ કાચો હોય તો વધુ બેક કરો. બાકી ત્રણ ગોળા અને સામગ્રીથી આ જ રીતે બનાવો.",
         "દરેક પિઝા ઓવનમાંથી નીકળે કે તરત ગરમ પીરસો. ઉપર લાલ ટામેટાં, લસણ, ઓરેગાનો અને ઓલિવ તેલ દેખાય, ચીઝ નહીં; આ જ પરંપરાગત મરિનારા ટોપિંગ છે."
       ],
-      "tips": ["તપાસેલા ફોટામાં ફૂલેલી ડાઘવાળી ધાર અને ચીઝ વગરના લાલ ટામેટાં ઉપર લસણની પાતળી સ્લાઇસ તથા ઓરેગાનો છે. નામ છતાં મરિનારા પિઝામાં દરિયાઈ ખોરાક નથી. બેકિંગ સપાટી સારી ગરમ કરો જેથી ટામેટાંથી તળિયું ભીનું થાય તે પહેલાં રંધાય."]
+      "tips": [
+        "તપાસેલા ફોટામાં ફૂલેલી ડાઘવાળી ધાર અને ચીઝ વગરના લાલ ટામેટાં ઉપર લસણની પાતળી સ્લાઇસ તથા ઓરેગાનો છે. નામ છતાં મરિનારા પિઝામાં દરિયાઈ ખોરાક નથી. બેકિંગ સપાટી સારી ગરમ કરો જેથી ટામેટાંથી તળિયું ભીનું થાય તે પહેલાં રંધાય."
+      ]
     }
   },
-  "reference": {"url": "https://www.giallozafferano.com/recipes/pizza-marinara.html", "use": "Traditional cheese-free tomato, garlic and oregano Neapolitan topping; measured home-oven dough and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://www.giallozafferano.com/recipes/pizza-marinara.html",
+    "use": "Traditional cheese-free tomato, garlic and oregano Neapolitan topping; measured home-oven dough and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/pizza-marinara.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

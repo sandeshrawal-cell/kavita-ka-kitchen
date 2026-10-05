@@ -1,27 +1,82 @@
 {
   "sourceReviewId": "R0117",
   "id": "pizza-paratha",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pizza Paratha",
   "cuisine": "Indian fusion",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 45,
   "passiveTime": "15 minutes dough resting",
   "ingredients": [
-    {"name": "whole wheat flour", "qty": 400, "unit": "g"},
-    {"name": "water", "qty": 220, "unit": "ml"},
-    {"name": "salt", "qty": 8, "unit": "g"},
-    {"name": "neutral oil", "qty": 50, "unit": "ml"},
-    {"name": "vegetarian mozzarella", "qty": 180, "unit": "g"},
-    {"name": "red bell pepper", "qty": 80, "unit": "g"},
-    {"name": "green bell pepper", "qty": 80, "unit": "g"},
-    {"name": "sweet corn kernels", "qty": 100, "unit": "g"},
-    {"name": "tomato", "qty": 100, "unit": "g"},
-    {"name": "onion", "qty": 80, "unit": "g"},
-    {"name": "thick tomato pizza sauce", "qty": 80, "unit": "g"},
-    {"name": "dried oregano", "qty": 3, "unit": "g"},
-    {"name": "red chilli flakes", "qty": 2, "unit": "g"}
+    {
+      "name": "whole wheat flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "sweet corn kernels",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "thick tomato pizza sauce",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli flakes",
+      "qty": 2,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Mix the whole wheat flour with 5 g salt and 10 ml oil. Add water a little at a time and knead for 5–6 minutes into a soft, non-sticky dough; use only as much of the measured water as needed. Cover and rest for 15 minutes so the dough rolls without tearing.",
@@ -30,12 +85,28 @@
     "Heat a heavy tawa over medium heat. Cook the sealed paratha for about 2 minutes until brown spots form underneath. Flip, brush with about 5 ml oil and cook for 2 minutes; flip again with another 5 ml oil and cook until both sides are golden and the cheese melts. Keep the heat moderate so the dough cooks before the filling scorches.",
     "Make and cook the other three parathas in the same way, using the remaining filling, sauce and 30 ml oil. Rest each for 1 minute before cutting into wedges so the hot cheese does not spill out. Serve one whole paratha per person, optionally with extra sauce from the table rather than adding more inside."
   ],
-  "tips": ["Use a thick, not watery, pizza sauce and de-seed the tomato; excess moisture can break the seal. Check mozzarella is vegetarian. Roll and fill one paratha at a time, keeping unused dough covered."],
+  "tips": [
+    "Use a thick, not watery, pizza sauce and de-seed the tomato; excess moisture can break the seal. Check mozzarella is vegetarian. Roll and fill one paratha at a time, keeping unused dough covered."
+  ],
   "translations": {
     "hi": {
       "name": "पिज़्ज़ा पराठा",
       "passiveTime": "लोई को 15 मिनट आराम",
-      "ingredients": ["गेहूँ का आटा", "पानी", "नमक", "बिना तेज़ स्वाद वाला तेल", "शाकाहारी मोत्ज़ारेला", "लाल शिमला मिर्च", "हरी शिमला मिर्च", "मीठे मकई के दाने", "टमाटर", "प्याज़", "गाढ़ा टमाटर पिज़्ज़ा सॉस", "सूखा ओरिगैनो", "कुटी लाल मिर्च"],
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "नमक",
+        "बिना तेज़ स्वाद वाला तेल",
+        "शाकाहारी मोत्ज़ारेला",
+        "लाल शिमला मिर्च",
+        "हरी शिमला मिर्च",
+        "मीठे मकई के दाने",
+        "टमाटर",
+        "प्याज़",
+        "गाढ़ा टमाटर पिज़्ज़ा सॉस",
+        "सूखा ओरिगैनो",
+        "कुटी लाल मिर्च"
+      ],
       "steps": [
         "गेहूँ के आटे में 5 ग्राम नमक और 10 मिली तेल मिलाएँ। नापा हुआ पानी थोड़ा-थोड़ा डालकर 5–6 मिनट मुलायम, न चिपकने वाली लोई गूँधें; जितना ज़रूरी हो उतना ही पानी लें। ढककर 15 मिनट आराम दें ताकि बेलते समय लोई फटे नहीं।",
         "शिमला मिर्च और प्याज़ बारीक काटें। टमाटर के बीज निकालकर गूदा बारीक काटें। कच्चे हों तो मकई के दाने सूखे या हल्के तेल लगे पैन में 2 मिनट पकाकर ठंडे करें। सब्ज़ियों में ओरिगैनो, कुटी मिर्च और बचा 3 ग्राम नमक मिलाएँ। सॉस और कसा शाकाहारी मोत्ज़ारेला अलग रखें ताकि भरावन गीला न हो।",
@@ -43,12 +114,28 @@
         "भारी तवा मध्यम आँच पर गरम करें। बंद पराठा लगभग 2 मिनट सेंकें, जब तक नीचे भूरे धब्बे बनें। पलटकर लगभग 5 मिली तेल लगाएँ और 2 मिनट सेंकें; फिर पलटकर 5 मिली और तेल लगाएँ। दोनों ओर सुनहरा और अंदर चीज़ पिघलने तक पकाएँ। आँच मध्यम रखें ताकि भरावन जलने से पहले आटा पक जाए।",
         "बचे भरावन, सॉस और 30 मिली तेल से बाकी तीन पराठे इसी तरह बनाएँ। काटने से पहले हर पराठे को 1 मिनट ठहराएँ ताकि गरम चीज़ बाहर न निकले। प्रति व्यक्ति एक पूरा पराठा परोसें; अधिक सॉस चाहिए तो ऊपर से दें, अंदर न भरें।"
       ],
-      "tips": ["गाढ़ा पिज़्ज़ा सॉस लें और टमाटर के बीज निकालें; अधिक नमी से पराठे की सील खुल सकती है। मोत्ज़ारेला शाकाहारी हो। एक बार में एक ही पराठा बेलें और भरें; बची लोई ढकी रखें।"]
+      "tips": [
+        "गाढ़ा पिज़्ज़ा सॉस लें और टमाटर के बीज निकालें; अधिक नमी से पराठे की सील खुल सकती है। मोत्ज़ारेला शाकाहारी हो। एक बार में एक ही पराठा बेलें और भरें; बची लोई ढकी रखें।"
+      ]
     },
     "gu": {
       "name": "પિઝા પરાઠા",
       "passiveTime": "લોટને 15 મિનિટ આરામ",
-      "ingredients": ["ઘઉંનો લોટ", "પાણી", "મીઠું", "તટસ્થ સ્વાદનું તેલ", "શાકાહારી મોઝેરેલા", "લાલ શિમલા મરચું", "લીલું શિમલા મરચું", "મીઠી મકાઈના દાણા", "ટમેટું", "ડુંગળી", "ઘટ્ટ ટમેટાનો પિઝા સોસ", "સૂકો ઓરેગાનો", "ભૂકો લાલ મરચું"],
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ",
+        "શાકાહારી મોઝેરેલા",
+        "લાલ શિમલા મરચું",
+        "લીલું શિમલા મરચું",
+        "મીઠી મકાઈના દાણા",
+        "ટમેટું",
+        "ડુંગળી",
+        "ઘટ્ટ ટમેટાનો પિઝા સોસ",
+        "સૂકો ઓરેગાનો",
+        "ભૂકો લાલ મરચું"
+      ],
       "steps": [
         "ઘઉંના લોટમાં 5 ગ્રામ મીઠું અને 10 મિલી તેલ ભેળવો. માપેલું પાણી થોડું-થોડું નાખીને 5–6 મિનિટ નરમ, ન ચોંટે એવો લોટ મસળો; જરૂરી હોય એટલું જ પાણી વાપરો. ઢાંકીને 15 મિનિટ આરામ આપો જેથી વણતાં લોટ ફાટે નહીં.",
         "શિમલા મરચાં અને ડુંગળી બારીક સમારો. ટમેટાનાં બી કાઢીને તેનો ઘટ્ટ ભાગ બારીક સમારો. મકાઈ કાચી હોય તો સૂકી અથવા હળવું તેલ લગાવેલી કડાઈમાં 2 મિનિટ રાંધી ઠંડી કરો. શાકમાં ઓરેગાનો, ભૂકો મરચું અને બાકીનું 3 ગ્રામ મીઠું ભેળવો. સોસ અને ખમણેલું શાકાહારી મોઝેરેલા અલગ રાખો જેથી ભરાવું ભીનું ન થાય.",
@@ -56,8 +143,15 @@
         "ભારે તવી મધ્યમ તાપે ગરમ કરો. બંધ પરાઠો લગભગ 2 મિનિટ શેકો, જ્યાં સુધી નીચે બદામી ટપકાં થાય. પલટીને લગભગ 5 મિલી તેલ લગાવી 2 મિનિટ શેકો; ફરી પલટીને 5 મિલી વધુ તેલ લગાવો. બંને બાજુ સોનેરી અને અંદર ચીઝ પીગળે ત્યાં સુધી શેકો. તાપ મધ્યમ રાખો જેથી ભરાવું બળે તે પહેલાં લોટ પાકે.",
         "બાકીનું ભરાવું, સોસ અને 30 મિલી તેલ વાપરી બીજા ત્રણ પરાઠા એ જ રીતે બનાવો. કાપતાં પહેલાં દરેક પરાઠાને 1 મિનિટ થોભાવો જેથી ગરમ ચીઝ બહાર ન વહી જાય. વ્યક્તિદીઠ એક આખો પરાઠો પીરસો; વધુ સોસ જોઈએ તો સાથે આપો, અંદર વધારે ન ભરો."
       ],
-      "tips": ["ઘટ્ટ પિઝા સોસ લો અને ટમેટાનાં બી કાઢો; વધુ ભેજથી પરાઠાની સીલ ખુલી શકે. મોઝેરેલા શાકાહારી હોવું જોઈએ. એક સમયે એક પરાઠો વણો અને ભરો; બાકીનો લોટ ઢાંકી રાખો."]
+      "tips": [
+        "ઘટ્ટ પિઝા સોસ લો અને ટમેટાનાં બી કાઢો; વધુ ભેજથી પરાઠાની સીલ ખુલી શકે. મોઝેરેલા શાકાહારી હોવું જોઈએ. એક સમયે એક પરાઠો વણો અને ભરો; બાકીનો લોટ ઢાંકી રાખો."
+      ]
     }
   },
-  "reference": {"url": "https://manjulaskitchen.com/pizza-paratha/", "use": "Vegetable-cheese stuffed tawa paratha direction; measured quantities and instructions independently authored."}
+  "reference": {
+    "url": "https://manjulaskitchen.com/pizza-paratha/",
+    "use": "Vegetable-cheese stuffed tawa paratha direction; measured quantities and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pizza-paratha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

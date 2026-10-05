@@ -1,28 +1,91 @@
 {
   "sourceReviewId": "R0170",
   "id": "buddha-bowl",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Sweet Potato and Chickpea Buddha Bowl",
   "cuisine": "Global",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 45,
   "ingredients": [
-    {"name": "dry quinoa, rinsed", "qty": 220, "unit": "g"},
-    {"name": "water", "qty": 500, "unit": "ml"},
-    {"name": "sweet potato, cubed", "qty": 500, "unit": "g"},
-    {"name": "cooked chickpeas, drained", "qty": 420, "unit": "g"},
-    {"name": "kale leaves, shredded", "qty": 180, "unit": "g"},
-    {"name": "cucumber, diced", "qty": 180, "unit": "g"},
-    {"name": "red cabbage, finely shredded", "qty": 160, "unit": "g"},
-    {"name": "ripe avocado, sliced", "qty": 240, "unit": "g"},
-    {"name": "tahini", "qty": 90, "unit": "g"},
-    {"name": "lemon juice", "qty": 45, "unit": "ml"},
-    {"name": "olive oil", "qty": 40, "unit": "ml"},
-    {"name": "ground cumin", "qty": 4, "unit": "g"},
-    {"name": "garlic, finely grated", "qty": 5, "unit": "g"},
-    {"name": "fine salt", "qty": 7, "unit": "g"},
-    {"name": "toasted mixed seeds", "qty": 25, "unit": "g"}
+    {
+      "name": "dry quinoa, rinsed",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "sweet potato, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "cooked chickpeas, drained",
+      "qty": 420,
+      "unit": "g"
+    },
+    {
+      "name": "kale leaves, shredded",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber, diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "red cabbage, finely shredded",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "ripe avocado, sliced",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "tahini",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, finely grated",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "toasted mixed seeds",
+      "qty": 25,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Heat the oven to 220°C and line a large baking tray. Rinse the quinoa thoroughly, put it in a saucepan with 440 ml water and 2 g salt, bring to a boil, cover and simmer gently for 15 minutes. Turn off the heat, leave covered for 5 minutes, then fluff with a fork.",
@@ -31,11 +94,29 @@
     "Whisk tahini, lemon juice, grated garlic and the remaining 10 ml olive oil with the remaining 60 ml water; add the water gradually until the dressing can drizzle. Taste and add the remaining 1 g salt.",
     "Divide quinoa among four wide bowls. Arrange roasted sweet potato, crispy chickpeas, kale, cucumber, red cabbage and avocado in separate sections over each base. Drizzle with lemon-tahini dressing, sprinkle with toasted seeds and serve while the warm and cool components still contrast."
   ],
-  "tips": ["Keep the ingredients in separate sections for the composed-bowl presentation. The reviewed photo shows quinoa, roasted orange sweet potato, browned chickpeas, dark kale, cucumber, purple cabbage and avocado with a pale tahini drizzle."],
+  "tips": [
+    "Keep the ingredients in separate sections for the composed-bowl presentation. The reviewed photo shows quinoa, roasted orange sweet potato, browned chickpeas, dark kale, cucumber, purple cabbage and avocado with a pale tahini drizzle."
+  ],
   "translations": {
     "hi": {
       "name": "शकरकंद और छोले बुद्धा बाउल",
-      "ingredients": ["सूखा क्विनोआ, धुला", "पानी", "शकरकंद, टुकड़ों में", "पके छोले, पानी निकाले हुए", "केल पत्ते, कटे", "खीरा, छोटे टुकड़ों में", "लाल पत्तागोभी, बारीक कटी", "पका एवोकाडो, कटा", "ताहिनी", "नींबू का रस", "जैतून का तेल", "पिसा जीरा", "लहसुन, बारीक कद्दूकस", "बारीक नमक", "भुने मिले-जुले बीज"],
+      "ingredients": [
+        "सूखा क्विनोआ, धुला",
+        "पानी",
+        "शकरकंद, टुकड़ों में",
+        "पके छोले, पानी निकाले हुए",
+        "केल पत्ते, कटे",
+        "खीरा, छोटे टुकड़ों में",
+        "लाल पत्तागोभी, बारीक कटी",
+        "पका एवोकाडो, कटा",
+        "ताहिनी",
+        "नींबू का रस",
+        "जैतून का तेल",
+        "पिसा जीरा",
+        "लहसुन, बारीक कद्दूकस",
+        "बारीक नमक",
+        "भुने मिले-जुले बीज"
+      ],
       "steps": [
         "ओवन 220°C पर गरम करें और बड़ी ट्रे पर पेपर बिछाएँ। क्विनोआ अच्छी तरह धोकर 440 मिली पानी और 2 ग्राम नमक के साथ सॉसपैन में रखें; उबालें, ढककर 15 मिनट धीमी आँच पर पकाएँ। आँच बंद करके 5 मिनट ढका रखें, फिर काँटे से फुलाएँ।",
         "पके छोले पोंछकर सुखाएँ। कटे शकरकंद और छोले को 25 मिली जैतून तेल, पिसा जीरा और 3 ग्राम नमक से मिलाएँ। ट्रे पर एक परत में फैलाएँ, छोले एक ओर रखें। 25–30 मिनट बीच में पलटकर भूनें, जब तक शकरकंद नरम-भूरा और छोले हल्के कुरकुरे हों।",
@@ -43,11 +124,29 @@
         "ताहिनी, नींबू रस, कद्दूकस लहसुन और बचा 10 मिली जैतून तेल फेंटें; बचा 60 मिली पानी धीरे-धीरे डालें ताकि ड्रेसिंग डालने योग्य हो। चखकर बचा 1 ग्राम नमक मिलाएँ।",
         "चार चौड़े बाउल में क्विनोआ बाँटें। हर आधार के ऊपर भुना शकरकंद, कुरकुरे छोले, केल, खीरा, लाल गोभी और एवोकाडो अलग हिस्सों में सजाएँ। नींबू-ताहिनी ड्रेसिंग डालें, भुने बीज छिड़कें और गरम तथा ठंडे हिस्सों के विरोध बने रहते परोसें।"
       ],
-      "tips": ["सजी हुई बाउल प्रस्तुति के लिए सामग्री अलग हिस्सों में रखें। समीक्षित तस्वीर में क्विनोआ, भुना नारंगी शकरकंद, भूरे छोले, गहरा केल, खीरा, बैंगनी गोभी और एवोकाडो पर हल्की ताहिनी ड्रेसिंग दिखती है।"]
+      "tips": [
+        "सजी हुई बाउल प्रस्तुति के लिए सामग्री अलग हिस्सों में रखें। समीक्षित तस्वीर में क्विनोआ, भुना नारंगी शकरकंद, भूरे छोले, गहरा केल, खीरा, बैंगनी गोभी और एवोकाडो पर हल्की ताहिनी ड्रेसिंग दिखती है।"
+      ]
     },
     "gu": {
       "name": "શક્કરિયા અને ચણાનો બુદ્ધા બાઉલ",
-      "ingredients": ["સૂકો ક્વિનોઆ, ધોયેલો", "પાણી", "શક્કરિયા, કટકા", "રાંધેલા ચણા, પાણી નિતારેલા", "કેલનાં પાન, સમારેલાં", "કાકડી, નાના કટકા", "લાલ કોબી, ઝીણી સમારેલી", "પાકું એવોકાડો, કાપેલું", "તાહિની", "લીંબુનો રસ", "ઓલિવ તેલ", "જીરું પાઉડર", "લસણ, ઝીણું છીણેલું", "બારીક મીઠું", "શેકેલાં મિશ્ર બીજ"],
+      "ingredients": [
+        "સૂકો ક્વિનોઆ, ધોયેલો",
+        "પાણી",
+        "શક્કરિયા, કટકા",
+        "રાંધેલા ચણા, પાણી નિતારેલા",
+        "કેલનાં પાન, સમારેલાં",
+        "કાકડી, નાના કટકા",
+        "લાલ કોબી, ઝીણી સમારેલી",
+        "પાકું એવોકાડો, કાપેલું",
+        "તાહિની",
+        "લીંબુનો રસ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "લસણ, ઝીણું છીણેલું",
+        "બારીક મીઠું",
+        "શેકેલાં મિશ્ર બીજ"
+      ],
       "steps": [
         "ઓવન 220°C પર ગરમ કરો અને મોટી ટ્રેમાં પેપર પાથરો. ક્વિનોઆ સારી રીતે ધોઈ 440 મિલી પાણી અને 2 ગ્રામ મીઠા સાથે સોસપેનમાં મૂકો; ઉકાળો, ઢાંકી 15 મિનિટ ધીમે રાંધો. તાપ બંધ કરીને 5 મિનિટ ઢાંકેલું રાખો, પછી કાંટાથી છૂટું કરો.",
         "રાંધેલા ચણા લૂછી કોરા કરો. શક્કરિયાના કટકા અને ચણાને 25 મિલી ઓલિવ તેલ, જીરું પાઉડર અને 3 ગ્રામ મીઠા સાથે ભેળવો. ટ્રે પર એક પડમાં પાથરો, ચણા એક બાજુ રાખો. 25–30 મિનિટ વચ્ચે એક વાર ફેરવી શેકો જેથી શક્કરિયા નરમ-બદામી અને ચણા સહેજ કરકરા થાય.",
@@ -55,8 +154,15 @@
         "તાહિની, લીંબુનો રસ, છીણેલું લસણ અને બાકીનું 10 મિલી ઓલિવ તેલ ફેંટો; બાકીનું 60 મિલી પાણી ધીમે ઉમેરો જેથી ડ્રેસિંગ રેડી શકાય. ચાખી બાકીનું 1 ગ્રામ મીઠું ભેળવો.",
         "ચાર પહોળા બાઉલમાં ક્વિનોઆ વહેંચો. દરેક પાયા ઉપર શેકેલા શક્કરિયા, કરકરા ચણા, કેલ, કાકડી, લાલ કોબી અને એવોકાડો અલગ ભાગમાં ગોઠવો. લીંબુ-તાહિની ડ્રેસિંગ રેડો, શેકેલાં બીજ છાંટો અને ગરમ-ઠંડા ભાગનો તફાવત રહે ત્યાં સુધી પીરસો."
       ],
-      "tips": ["સજાવેલી બાઉલ માટે સામગ્રી અલગ ભાગમાં રાખો. તપાસેલા ફોટામાં ક્વિનોઆ, શેકેલા નારંગી શક્કરિયા, બદામી ચણા, ઘેરું કેલ, કાકડી, જાંબલી કોબી અને એવોકાડો ઉપર ફિક્કી તાહિની ડ્રેસિંગ દેખાય છે."]
+      "tips": [
+        "સજાવેલી બાઉલ માટે સામગ્રી અલગ ભાગમાં રાખો. તપાસેલા ફોટામાં ક્વિનોઆ, શેકેલા નારંગી શક્કરિયા, બદામી ચણા, ઘેરું કેલ, કાકડી, જાંબલી કોબી અને એવોકાડો ઉપર ફિક્કી તાહિની ડ્રેસિંગ દેખાય છે."
+      ]
     }
   },
-  "reference": {"url": "https://feelgoodfoodie.net/recipe/vegan-buddha-bowl/", "use": "Quinoa, roasted sweet potato, chickpea, kale, avocado and tahini bowl composition; measures, remaining vegetables and wording independently authored."}
+  "reference": {
+    "url": "https://feelgoodfoodie.net/recipe/vegan-buddha-bowl/",
+    "use": "Quinoa, roasted sweet potato, chickpea, kale, avocado and tahini bowl composition; measures, remaining vegetables and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/buddha-bowl.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

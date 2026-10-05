@@ -1,37 +1,99 @@
 {
   "sourceReviewId": "R0158",
   "id": "gorditas",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Bean and Poblano Gorditas",
   "cuisine": "Mexican",
-  "categories": ["Lunch", "Dinner", "Snack"],
+  "categories": [
+    "Lunch",
+    "Dinner",
+    "Snacks"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 50,
   "ingredients": [
-    {"name": "masa harina (nixtamalized corn flour)", "qty": 300, "unit": "g"},
-    {"name": "warm water", "qty": 390, "unit": "ml"},
-    {"name": "fine salt", "qty": 6, "unit": "g"},
-    {"name": "cooked black beans, drained", "qty": 320, "unit": "g"},
-    {"name": "roasted poblano or green bell pepper strips", "qty": 160, "unit": "g"},
-    {"name": "vegetarian crumbly fresh cheese made without animal rennet", "qty": 100, "unit": "g"},
-    {"name": "onion, finely chopped", "qty": 70, "unit": "g"},
-    {"name": "ground cumin", "qty": 2, "unit": "g"},
-    {"name": "neutral oil", "qty": 25, "unit": "ml"},
-    {"name": "fresh coriander leaves", "qty": 20, "unit": "g"},
-    {"name": "thick tomato salsa for serving", "qty": 120, "unit": "g"}
+    {
+      "name": "masa harina (nixtamalized corn flour)",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 390,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "cooked black beans, drained",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "roasted poblano or green bell pepper strips",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian crumbly fresh cheese made with vegetarian coagulants",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "thick tomato salsa for serving",
+      "qty": 120,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Stir the salt into the masa harina. Gradually add 360 ml warm water and knead for 2–3 minutes until a soft, cohesive dough forms. Reserve the remaining 30 ml for adjusting if it cracks. Cover and rest 15 minutes so the masa hydrates.",
-    "Meanwhile heat 10 ml oil in a pan. Cook the chopped onion for 3 minutes, add cumin for 30 seconds, then add the drained cooked black beans. Mash about half the beans and cook for 4–5 minutes until thick enough to stay in a pocket. Pat the roasted pepper strips dry and chop the coriander. Check that the fresh cheese uses no animal rennet.",
+    "Meanwhile heat 10 ml oil in a pan. Cook the chopped onion for 3 minutes, add cumin for 30 seconds, then add the drained cooked black beans. Mash about half the beans and cook for 4–5 minutes until thick enough to stay in a pocket. Pat the roasted pepper strips dry and chop the coriander. Check that the fresh cheese uses no animal-derived coagulants.",
     "Divide the dough into eight equal balls. Press each between sheets of plastic into a thick round about 10 cm across and 12 mm thick. Smooth any cracks with a damp finger. Heat a heavy griddle over medium heat and cook the rounds for 4–5 minutes on each side until browned in places and fully cooked through; their thickness matters for making pockets.",
     "Rest each cooked round for about a minute, then carefully cut a slit along one side and open an internal pocket with a small knife, leaving the other side joined. If the centre is still raw, put it back on the griddle briefly. Brush the outside of the gorditas with the remaining 15 ml oil and toast each side for 1 minute for a lightly crisp surface.",
     "Spoon about 40 g of the warm bean mixture into each pocket, followed by roasted pepper strips, crumbled vegetarian cheese and coriander. Serve two gorditas per person with tomato salsa on the side. The filling belongs inside the split thick corn cake, unlike the toppings on an open sope."
   ],
-  "tips": ["Do not flatten the masa as thin as a tortilla: the cooked cake must be thick enough to split. Keep the beans thick and peppers dry so the pocket does not tear. The reviewed photo shows several substantial side-split corn pockets with beans, green pepper strips and white cheese."],
+  "tips": [
+    "Do not flatten the masa as thin as a tortilla: the cooked cake must be thick enough to split. Keep the beans thick and peppers dry so the pocket does not tear. The reviewed photo shows several substantial side-split corn pockets with beans, green pepper strips and white cheese."
+  ],
   "translations": {
     "hi": {
       "name": "बीन और हरी मिर्च गॉर्डीटास",
-      "ingredients": ["मासा हारिना (क्षार से संसाधित मक्के का आटा)", "गुनगुना पानी", "बारीक नमक", "पके काले बीन्स, पानी निकाले हुए", "भुनी पोब्लानो या हरी शिमला मिर्च की पट्टियाँ", "पशु रेननेट रहित शाकाहारी चूरा होने वाला ताज़ा चीज़", "प्याज़, बारीक कटा", "पिसा जीरा", "हल्का स्वाद वाला तेल", "ताज़ी धनिया पत्ती", "परोसने के लिए गाढ़ा टमाटर साल्सा"],
+      "ingredients": [
+        "मासा हारिना (क्षार से संसाधित मक्के का आटा)",
+        "गुनगुना पानी",
+        "बारीक नमक",
+        "पके काले बीन्स, पानी निकाले हुए",
+        "भुनी पोब्लानो या हरी शिमला मिर्च की पट्टियाँ",
+        "पशु रेननेट रहित शाकाहारी चूरा होने वाला ताज़ा चीज़",
+        "प्याज़, बारीक कटा",
+        "पिसा जीरा",
+        "हल्का स्वाद वाला तेल",
+        "ताज़ी धनिया पत्ती",
+        "परोसने के लिए गाढ़ा टमाटर साल्सा"
+      ],
       "steps": [
         "मासा हारिना में नमक मिलाएँ। धीरे-धीरे 360 मिली गुनगुना पानी डालकर 2–3 मिनट गूँधें ताकि नरम, जुड़ा हुआ आटा बने। दरार सुधारने के लिए बचा 30 मिली पानी रखें। ढककर 15 मिनट छोड़ें ताकि मक्के का आटा पानी सोखे।",
         "इस बीच पैन में 10 मिली तेल गरम करें। कटा प्याज़ 3 मिनट पकाएँ, जीरा 30 सेकंड भूनें, फिर पके छाने काले बीन्स डालें। लगभग आधे बीन्स मसलें और 4–5 मिनट पकाएँ जब तक मिश्रण पॉकेट में टिकने लायक गाढ़ा हो। भुनी मिर्च की पट्टियाँ सुखाएँ और धनिया काटें। जाँचें कि ताज़े चीज़ में पशु रेननेट नहीं है।",
@@ -39,11 +101,25 @@
         "हर पकी टिक्की को करीब एक मिनट ठहराएँ, फिर एक ओर छोटा चीरा लगाकर चाकू से अंदर पॉकेट खोलें, दूसरी ओर जुड़ी रहने दें। बीच कच्चा हो तो थोड़ी देर तवे पर लौटाएँ। बचा 15 मिली तेल गॉर्डीटास के बाहर लगाएँ और दोनों ओर 1 मिनट सेंकें ताकि सतह हल्की कुरकुरी हो।",
         "हर पॉकेट में करीब 40 ग्राम गरम बीन मिश्रण, फिर भुनी मिर्च की पट्टियाँ, चूरा शाकाहारी चीज़ और धनिया भरें। प्रति व्यक्ति दो गॉर्डीटास टमाटर साल्सा के साथ परोसें। भरावन मोटे चिरे हुए मक्के के केक के अंदर रहती है, खुले सोपे के ऊपर नहीं।"
       ],
-      "tips": ["मक्के की टिक्की टॉर्टिया जितनी पतली न दबाएँ: पके केक को चीरने लायक मोटा होना चाहिए। बीन्स गाढ़े और मिर्च सूखी रखें ताकि पॉकेट न फटे। समीक्षित तस्वीर में कई मोटे बगल से खुले मक्के के पॉकेट हैं, जिनमें बीन्स, हरी मिर्च की पट्टियाँ और सफेद चीज़ हैं।"]
+      "tips": [
+        "मक्के की टिक्की टॉर्टिया जितनी पतली न दबाएँ: पके केक को चीरने लायक मोटा होना चाहिए। बीन्स गाढ़े और मिर्च सूखी रखें ताकि पॉकेट न फटे। समीक्षित तस्वीर में कई मोटे बगल से खुले मक्के के पॉकेट हैं, जिनमें बीन्स, हरी मिर्च की पट्टियाँ और सफेद चीज़ हैं।"
+      ]
     },
     "gu": {
       "name": "બીન અને લીલા મરચાંનાં ગોર્ડિટાસ",
-      "ingredients": ["માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)", "હૂંફાળું પાણી", "બારીક મીઠું", "રાંધેલા કાળા બીન, પાણી નિતારેલા", "શેકેલા પોબ્લાનો અથવા લીલા સિમલા મરચાંની પટ્ટીઓ", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ભૂકો થતું તાજું ચીઝ", "ઝીણી સમારેલી ડુંગળી", "જીરું પાઉડર", "હળવા સ્વાદનું તેલ", "તાજી કોથમીર", "પીરસવા માટે ઘાટી ટામેટાંની સાલસા"],
+      "ingredients": [
+        "માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)",
+        "હૂંફાળું પાણી",
+        "બારીક મીઠું",
+        "રાંધેલા કાળા બીન, પાણી નિતારેલા",
+        "શેકેલા પોબ્લાનો અથવા લીલા સિમલા મરચાંની પટ્ટીઓ",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ભૂકો થતું તાજું ચીઝ",
+        "ઝીણી સમારેલી ડુંગળી",
+        "જીરું પાઉડર",
+        "હળવા સ્વાદનું તેલ",
+        "તાજી કોથમીર",
+        "પીરસવા માટે ઘાટી ટામેટાંની સાલસા"
+      ],
       "steps": [
         "માસા હારિનામાં મીઠું ભેળવો. ધીમે ધીમે 360 મિલી હૂંફાળું પાણી નાખી 2–3 મિનિટ મસળો જેથી નરમ, ભેગો લોટ બને. તિરાડ સુધારવા બાકીનું 30 મિલી પાણી રાખો. ઢાંકી 15 મિનિટ રાખો જેથી મકાઈનો લોટ પાણી શોષે.",
         "દરમિયાન કડાઈમાં 10 મિલી તેલ ગરમ કરો. સમારેલી ડુંગળી 3 મિનિટ રાંધો, જીરું 30 સેકન્ડ સાંતળો, પછી રાંધેલા નિતારેલા કાળા બીન નાખો. લગભગ અડધા બીન છૂંદી 4–5 મિનિટ રાંધો જેથી મિશ્રણ ખિસ્સામાં ટકે એટલું ઘાટું થાય. શેકેલા મરચાંની પટ્ટીઓ કોરી કરો અને કોથમીર સમારો. તાજા ચીઝમાં પ્રાણીજન્ય રેનેટ નથી તે તપાસો.",
@@ -51,8 +127,15 @@
         "દરેક શેકેલી રોટલીને આશરે એક મિનિટ આરામ આપો, પછી એક બાજુ ચીરો કરી નાની છરીથી અંદર ખિસ્સો ખોલો અને બીજી બાજુ જોડાયેલી રાખો. મધ્ય ભાગ કાચો હોય તો ફરી તવા પર થોડો સમય શેકો. બાકીનું 15 મિલી તેલ ગોર્ડિટાસની બહાર લગાવો અને બંને બાજુ 1 મિનિટ શેકો જેથી સપાટી સહેજ કરકરી થાય.",
         "દરેક ખિસ્સામાં આશરે 40 ગ્રામ ગરમ બીન મિશ્રણ, પછી શેકેલા મરચાંની પટ્ટીઓ, ભૂકો કરેલું શાકાહારી ચીઝ અને કોથમીર ભરો. વ્યક્તિ દીઠ બે ગોર્ડિટાસ ટામેટાંની સાલસા સાથે પીરસો. પૂરણ જાડા ચીરેલા મકાઈના કેકની અંદર રહે છે, ખુલ્લા સોપેની ઉપર નહીં."
       ],
-      "tips": ["મકાઈની રોટલી ટોર્ટિયા જેટલી પાતળી ન દબાવો: શેકેલા કેકમાં ખિસ્સો ખોલી શકાય એટલી જાડાઈ હોવી જોઈએ. બીન ઘાટા અને મરચાં કોરાં રાખો જેથી ખિસ્સો ન ફાટે. તપાસેલા ફોટામાં ઘણા જાડા બાજુથી ખુલેલા મકાઈના ખિસ્સા છે, જેમાં બીન, લીલા મરચાંની પટ્ટીઓ અને સફેદ ચીઝ છે."]
+      "tips": [
+        "મકાઈની રોટલી ટોર્ટિયા જેટલી પાતળી ન દબાવો: શેકેલા કેકમાં ખિસ્સો ખોલી શકાય એટલી જાડાઈ હોવી જોઈએ. બીન ઘાટા અને મરચાં કોરાં રાખો જેથી ખિસ્સો ન ફાટે. તપાસેલા ફોટામાં ઘણા જાડા બાજુથી ખુલેલા મકાઈના ખિસ્સા છે, જેમાં બીન, લીલા મરચાંની પટ્ટીઓ અને સફેદ ચીઝ છે."
+      ]
     }
   },
-  "reference": {"url": "https://eatmexican.com.au/recipes/gorditas/", "use": "Thick split masa pocket technique and vegetarian fillings; quantities, details and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://eatmexican.com.au/recipes/gorditas/",
+    "use": "Thick split masa pocket technique and vegetarian fillings; quantities, details and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/gorditas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

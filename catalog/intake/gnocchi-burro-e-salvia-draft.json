@@ -1,22 +1,57 @@
 {
   "sourceReviewId": "R0106",
   "id": "gnocchi-burro-e-salvia",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Gnocchi Burro e Salvia",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 95,
   "passiveTime": "Cool the baked potatoes for 10–15 minutes, until safe to handle but still warm.",
   "ingredients": [
-    {"name": "floury potatoes", "qty": 1000, "unit": "g"},
-    {"name": "plain wheat flour", "qty": 250, "unit": "g"},
-    {"name": "butter", "qty": 100, "unit": "g"},
-    {"name": "fresh sage leaves", "qty": 20, "unit": "g"},
-    {"name": "vegetarian hard cheese", "qty": 40, "unit": "g"},
-    {"name": "salt", "qty": 12, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"},
-    {"name": "water", "qty": 3000, "unit": "ml"}
+    {
+      "name": "floury potatoes",
+      "qty": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "plain wheat flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh sage leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Heat the oven to 200°C. Wash and dry the unpeeled potatoes, prick them a few times, and bake on a tray for 50–60 minutes until a skewer slides easily through the centre. Baking keeps the flesh drier than boiling, so the gnocchi need less flour.",
@@ -26,11 +61,22 @@
     "Meanwhile, melt the butter in a wide pan over medium heat. Add dry sage leaves and swirl for 3–4 minutes, until the butter turns nut brown and smells toasted and the sage is crisp, not burnt. Immediately lower the heat and add the cooked gnocchi; toss gently for 1 minute to coat.",
     "Add black pepper and taste before using the remaining 2 g salt. Divide into four warm bowls, pour over the browned butter and sage, and finish with grated vegetarian hard cheese. Serve immediately."
   ],
-  "tips": ["Warm, dry potatoes make a light eggless dough. Use only enough flour to hold the gnocchi together, and watch the butter continuously once it starts browning."],
+  "tips": [
+    "Warm, dry potatoes make a light eggless dough. Use only enough flour to hold the gnocchi together, and watch the butter continuously once it starts browning."
+  ],
   "translations": {
     "hi": {
       "name": "न्योकी बुरो ए साल्विया",
-      "ingredients": ["भुरभुरे आलू", "मैदा", "मक्खन", "ताज़ी सेज की पत्तियाँ", "शाकाहारी हार्ड चीज़", "नमक", "काली मिर्च", "पानी"],
+      "ingredients": [
+        "भुरभुरे आलू",
+        "मैदा",
+        "मक्खन",
+        "ताज़ी सेज की पत्तियाँ",
+        "शाकाहारी हार्ड चीज़",
+        "नमक",
+        "काली मिर्च",
+        "पानी"
+      ],
       "passiveTime": "बेक किए आलू 10–15 मिनट ठंडे करें, ताकि छू सकें लेकिन वे गरम रहें।",
       "steps": [
         "ओवन 200°C पर गरम करें। बिना छीले आलू धोकर सुखाएँ, कुछ जगह काँटे से छेद करें और ट्रे पर 50–60 मिनट बेक करें, जब तक सींक बीच तक आसानी से चली जाए। बेक करने से गूदा उबाले हुए आलू से सूखा रहता है, इसलिए न्योकी में कम मैदा लगता है।",
@@ -40,11 +86,22 @@
         "इसी बीच चौड़े पैन में मध्यम आँच पर मक्खन पिघलाएँ। सूखी सेज पत्तियाँ डालकर 3–4 मिनट पैन घुमाएँ, जब तक मक्खन मेवे जैसा भूरा और भुनी महक वाला तथा सेज कुरकुरी हो जाए, जली हुई नहीं। तुरंत आँच धीमी कर पके न्योकी डालें और 1 मिनट हल्के हाथ से मिलाएँ।",
         "काली मिर्च डालें और बचा 2 ग्राम नमक डालने से पहले चखें। चार गरम बाउल में बाँटें, ऊपर भूरा मक्खन और सेज डालें तथा कसी शाकाहारी हार्ड चीज़ से पूरा करें। तुरंत परोसें।"
       ],
-      "tips": ["गरम और सूखे आलू हल्का बिना अंडे का आटा बनाते हैं। न्योकी को जोड़ने भर मैदा लें और मक्खन भूरा होने लगे तो लगातार देखते रहें।"]
+      "tips": [
+        "गरम और सूखे आलू हल्का बिना अंडे का आटा बनाते हैं। न्योकी को जोड़ने भर मैदा लें और मक्खन भूरा होने लगे तो लगातार देखते रहें।"
+      ]
     },
     "gu": {
       "name": "ન્યોકી બુરો એ સાલ્વિયા",
-      "ingredients": ["ભુરભુરા બટાકા", "મેંદો", "માખણ", "તાજાં સેજનાં પાન", "શાકાહારી હાર્ડ ચીઝ", "મીઠું", "કાળી મરી", "પાણી"],
+      "ingredients": [
+        "ભુરભુરા બટાકા",
+        "મેંદો",
+        "માખણ",
+        "તાજાં સેજનાં પાન",
+        "શાકાહારી હાર્ડ ચીઝ",
+        "મીઠું",
+        "કાળી મરી",
+        "પાણી"
+      ],
       "passiveTime": "બેક કરેલા બટાકા 10–15 મિનિટ ઠંડા કરો, જેથી સ્પર્શી શકાય પણ હજુ ગરમ રહે.",
       "steps": [
         "ઓવન 200°C પર ગરમ કરો. છાલવાળા બટાકા ધોઈને સૂકવો, થોડી જગ્યાએ કાંટાથી કાણાં કરો અને ટ્રેમાં 50–60 મિનિટ બેક કરો, જ્યાં સુધી સળી વચ્ચે સહેલાઈથી જાય. બેક કરવાથી બટાકાનો માવો બાફેલા કરતાં સૂકો રહે છે, તેથી ન્યોકીમાં ઓછો મેંદો લાગે છે.",
@@ -54,8 +111,15 @@
         "તે દરમિયાન પહોળી કડાઈમાં મધ્યમ તાપે માખણ ઓગાળો. સૂકાં સેજ પાન નાખીને 3–4 મિનિટ કડાઈ હલાવો, જ્યાં સુધી માખણ બદામી અને શેકેલી સુગંધવાળું થાય તથા સેજ કરકરું થાય, બળેલું નહીં. તરત તાપ ધીમો કરી રાંધેલા ન્યોકી નાખો અને 1 મિનિટ હળવેથી ભેળવો.",
         "કાળી મરી નાખો અને બાકીનું 2 ગ્રામ મીઠું ઉમેરતાં પહેલાં ચાખો. ચાર ગરમ વાટકામાં વહેંચો, ઉપર બદામી માખણ અને સેજ રેડો તથા ખમણેલું શાકાહારી હાર્ડ ચીઝ નાખો. તરત પીરસો."
       ],
-      "tips": ["ગરમ અને સૂકા બટાકા હળવો ઇંડા વિનાનો લોટ બનાવે છે. ન્યોકી જોડાય એટલો જ મેંદો લો અને માખણ બદામી થવા લાગે ત્યારે સતત નજર રાખો."]
+      "tips": [
+        "ગરમ અને સૂકા બટાકા હળવો ઇંડા વિનાનો લોટ બનાવે છે. ન્યોકી જોડાય એટલો જ મેંદો લો અને માખણ બદામી થવા લાગે ત્યારે સતત નજર રાખો."
+      ]
     }
   },
-  "reference": {"url": "https://www.lacucinaitaliana.it/ricetta/gnocchi-burro-e-salvia/", "use": "Potato gnocchi with butter and sage identity; eggless measured method independently authored."}
+  "reference": {
+    "url": "https://www.lacucinaitaliana.it/ricetta/gnocchi-burro-e-salvia/",
+    "use": "Potato gnocchi with butter and sage identity; eggless measured method independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/gnocchi-burro-e-salvia.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,39 +1,100 @@
 {
   "sourceReviewId": "R0133",
   "id": "pad-prik-khing",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pad Prik Khing",
   "cuisine": "Thai",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 45,
   "passiveTime": "10 minutes rice resting",
   "ingredients": [
-    {"name": "jasmine rice", "qty": 280, "unit": "g"},
-    {"name": "water", "qty": 500, "unit": "ml"},
-    {"name": "firm tofu", "qty": 450, "unit": "g"},
-    {"name": "green beans", "qty": 400, "unit": "g"},
-    {"name": "vegetarian Thai red curry paste", "qty": 85, "unit": "g"},
-    {"name": "makrut lime leaves", "qty": 8, "unit": "g"},
-    {"name": "red chilli", "qty": 12, "unit": "g"},
-    {"name": "garlic", "qty": 12, "unit": "g"},
-    {"name": "neutral oil", "qty": 45, "unit": "ml"},
-    {"name": "light soy sauce", "qty": 25, "unit": "ml"},
-    {"name": "brown sugar", "qty": 15, "unit": "g"}
+    {
+      "name": "jasmine rice",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian Thai red curry paste",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "makrut lime leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 15,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Rinse the jasmine rice. Cook it in a lidded saucepan with 420 ml of the measured water: bring to a boil, cover and reduce to the lowest heat for 12 minutes. Turn off the heat and leave covered for 10 minutes before fluffing. Meanwhile pat the tofu dry and cut it into 2 cm cubes, trim the beans into 4 cm lengths, finely slice the red chilli and lime leaves, and mince the garlic.",
-    "Check the Thai red curry paste label carefully: many brands contain shrimp paste or fish sauce. Use only a clearly vegetarian paste. Stir the paste with the soy sauce, brown sugar and remaining 80 ml measured water into a thick but pourable mixture. This is a dry stir-fry, so do not add coconut milk.",
+    "Check the Thai red curry paste label carefully: many brands contain animal-derived ingredients paste or animal-derived ingredients sauce. Use only a clearly vegetarian paste. Stir the paste with the soy sauce, brown sugar and remaining 80 ml measured water into a thick but pourable mixture. This is a dry stir-fry, so do not add coconut milk.",
     "Heat 25 ml neutral oil in a wide heavy pan over medium-high heat. Lay the tofu cubes in one layer and brown for 3 minutes without moving them. Turn and cook another 3 minutes until several sides are golden; move to a plate. Use two batches if needed so the tofu does not steam.",
     "Add the remaining 20 ml oil to the pan. Stir-fry the green beans for 4–5 minutes until bright and crisp-tender. Add the garlic and sliced red chilli for 30 seconds. Push the beans aside, add the mixed curry paste to the hot pan and fry it for 1 minute, stirring, until fragrant and slightly darker.",
     "Return the tofu and add the finely shredded lime leaves. Toss everything for 2 minutes until the red curry paste clings to the tofu and beans and the pan looks almost dry. Divide into four portions and serve with the jasmine rice alongside."
   ],
-  "tips": ["Pad Prik Khing is meant to be a fairly dry red-curry-paste stir-fry rather than a coconut curry. Most non-vegetarian red curry pastes contain shrimp, so read the label every time. Lime leaves add the characteristic aroma; remove their tough centre vein before shredding."],
+  "tips": [
+    "Pad Prik Khing is meant to be a fairly dry red-curry-paste stir-fry rather than a coconut curry. Most non-vegetarian red curry pastes contain shrimp, so read the label every time. Lime leaves add the characteristic aroma; remove their tough centre vein before shredding."
+  ],
   "translations": {
     "hi": {
       "name": "पद प्रिक खिंग",
       "passiveTime": "चावल ढककर रखने के लिए 10 मिनट",
-      "ingredients": ["जैस्मिन चावल", "पानी", "सख़्त टोफ़ू", "हरी फलियाँ", "शाकाहारी थाई लाल करी पेस्ट", "मकरुत लाइम के पत्ते", "लाल मिर्च", "लहसुन", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "भूरी चीनी"],
+      "ingredients": [
+        "जैस्मिन चावल",
+        "पानी",
+        "सख़्त टोफ़ू",
+        "हरी फलियाँ",
+        "शाकाहारी थाई लाल करी पेस्ट",
+        "मकरुत लाइम के पत्ते",
+        "लाल मिर्च",
+        "लहसुन",
+        "बिना तेज़ स्वाद वाला तेल",
+        "हल्का सोया सॉस",
+        "भूरी चीनी"
+      ],
       "steps": [
         "जैस्मिन चावल धोएँ। ढक्कन वाले बर्तन में नापे हुए 420 मिली पानी के साथ उबालें, ढककर सबसे धीमी आँच पर 12 मिनट पकाएँ। आँच बंद करके 10 मिनट ढके रहने दें, फिर चावल फुलाएँ। इस बीच टोफ़ू सुखाकर 2 सेमी टुकड़े, फलियाँ 4 सेमी टुकड़े करें, लाल मिर्च और लाइम पत्ते पतले काटें और लहसुन बारीक करें।",
         "थाई लाल करी पेस्ट का लेबल ध्यान से देखें: कई ब्रांड में झींगा पेस्ट या फ़िश सॉस होता है। स्पष्ट रूप से शाकाहारी पेस्ट ही लें। पेस्ट में सोया सॉस, भूरी चीनी और बचा नापा 80 मिली पानी मिलाकर गाढ़ा पर डालने लायक मिश्रण बनाएँ। यह सूखी स्टिर-फ्राई है, इसमें नारियल दूध न डालें।",
@@ -41,12 +102,26 @@
         "पैन में बचा 20 मिली तेल डालें। फलियाँ 4–5 मिनट चमकीली और हल्की कुरकुरी होने तक भूनें। लहसुन और कटी लाल मिर्च 30 सेकंड डालें। फलियाँ एक ओर करके करी पेस्ट मिश्रण गरम पैन में डालें और 1 मिनट चलाते हुए महक आने और रंग थोड़ा गहरा होने तक भूनें।",
         "टोफ़ू वापस डालें और बहुत पतले कटे लाइम पत्ते मिलाएँ। 2 मिनट सब चलाकर पकाएँ जब तक लाल करी पेस्ट टोफ़ू और फलियों पर चिपक जाए और पैन लगभग सूखा दिखे। चार भाग करके साथ में जैस्मिन चावल परोसें।"
       ],
-      "tips": ["पद प्रिक खिंग नारियल वाली तरल करी नहीं, बल्कि काफ़ी सूखी लाल करी पेस्ट की स्टिर-फ्राई है। अधिकांश मांसाहारी लाल करी पेस्ट में झींगा होता है, इसलिए हर बार लेबल पढ़ें। लाइम पत्तों की बीच की सख़्त नस हटाकर पतला काटें।"]
+      "tips": [
+        "पद प्रिक खिंग नारियल वाली तरल करी नहीं, बल्कि काफ़ी सूखी लाल करी पेस्ट की स्टिर-फ्राई है। अधिकांश मांसाहारी लाल करी पेस्ट में झींगा होता है, इसलिए हर बार लेबल पढ़ें। लाइम पत्तों की बीच की सख़्त नस हटाकर पतला काटें।"
+      ]
     },
     "gu": {
       "name": "પદ પ્રિક ખિંગ",
       "passiveTime": "ભાત ઢાંકી રાખવા 10 મિનિટ",
-      "ingredients": ["જેસ્મિન ચોખા", "પાણી", "મજબૂત ટોફુ", "લીલા ફણસી", "શાકાહારી થાઈ લાલ કરી પેસ્ટ", "મકરુત લીંબુનાં પાન", "લાલ મરચું", "લસણ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "બદામી ખાંડ"],
+      "ingredients": [
+        "જેસ્મિન ચોખા",
+        "પાણી",
+        "મજબૂત ટોફુ",
+        "લીલા ફણસી",
+        "શાકાહારી થાઈ લાલ કરી પેસ્ટ",
+        "મકરુત લીંબુનાં પાન",
+        "લાલ મરચું",
+        "લસણ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "હળવો સોયા સોસ",
+        "બદામી ખાંડ"
+      ],
       "steps": [
         "જેસ્મિન ચોખા ધોવો. ઢાંકણવાળા વાસણમાં માપેલા 420 મિલી પાણી સાથે ઉકાળો, ઢાંકી સૌથી ધીમા તાપે 12 મિનિટ રાંધો. તાપ બંધ કરી 10 મિનિટ ઢાંકી રાખી પછી ભાત ફુલાવો. આ દરમિયાન ટોફુ સૂકવી 2 સેમીના ટુકડા, ફણસી 4 સેમીના ટુકડા કરો, લાલ મરચાં અને લીંબુનાં પાન પાતળાં કાપો અને લસણ બારીક સમારો.",
         "થાઈ લાલ કરી પેસ્ટનું લેબલ ધ્યાનથી વાંચો: ઘણી બ્રાન્ડમાં ઝીંગાની પેસ્ટ કે માછલીનો સોસ હોય છે. સ્પષ્ટ શાકાહારી પેસ્ટ જ લો. પેસ્ટમાં સોયા સોસ, બદામી ખાંડ અને બાકીનું માપેલું 80 મિલી પાણી ભેળવી ઘટ્ટ પણ રેડી શકાય એવું મિશ્રણ બનાવો. આ સૂકું સ્ટિર-ફ્રાય છે, તેથી નાળિયેરનું દૂધ ન નાખો.",
@@ -54,8 +129,15 @@
         "કડાઈમાં બાકીનું 20 મિલી તેલ નાખો. ફણસી 4–5 મિનિટ લીલી અને સહેજ કરકરી થાય ત્યાં સુધી શેકો. લસણ અને કાપેલું લાલ મરચું 30 સેકંડ ઉમેરો. ફણસી એક બાજુ કરી કરી પેસ્ટનું મિશ્રણ ગરમ તવામાં નાખો અને 1 મિનિટ હલાવતા સુગંધ આવે અને રંગ થોડો ઘેરો થાય ત્યાં સુધી શેકો.",
         "ટોફુ પાછું નાખો અને ખૂબ પાતળાં કાપેલા લીંબુનાં પાન ઉમેરો. 2 મિનિટ બધું ભેળવી રાંધો જ્યાં સુધી લાલ કરી પેસ્ટ ટોફુ અને ફણસી પર ચોંટે અને કડાઈ લગભગ સૂકી દેખાય. ચાર ભાગ કરી બાજુમાં જેસ્મિન ભાત સાથે પીરસો."
       ],
-      "tips": ["પદ પ્રિક ખિંગ નાળિયેરવાળી રસદાર કરી નહીં, પણ ઘણી સૂકી લાલ કરી પેસ્ટની સ્ટિર-ફ્રાય છે. ઘણી માંસાહારી લાલ કરી પેસ્ટમાં ઝીંગા હોય છે, તેથી દર વખતે લેબલ વાંચો. લીંબુનાં પાનની મધ્યની કડક નસ કાઢીને પાતળાં સમારો."]
+      "tips": [
+        "પદ પ્રિક ખિંગ નાળિયેરવાળી રસદાર કરી નહીં, પણ ઘણી સૂકી લાલ કરી પેસ્ટની સ્ટિર-ફ્રાય છે. ઘણી માંસાહારી લાલ કરી પેસ્ટમાં ઝીંગા હોય છે, તેથી દર વખતે લેબલ વાંચો. લીંબુનાં પાનની મધ્યની કડક નસ કાઢીને પાતળાં સમારો."
+      ]
     }
   },
-  "reference": {"url": "https://www.veganricha.com/red-curry-green-beans/", "use": "Dry red-curry-paste green-bean stir-fry technique; tofu, rice accompaniment, measures and wording independently authored."}
+  "reference": {
+    "url": "https://www.veganricha.com/red-curry-green-beans/",
+    "use": "Dry red-curry-paste green-bean stir-fry technique; tofu, rice accompaniment, measures and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pad-prik-khing.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

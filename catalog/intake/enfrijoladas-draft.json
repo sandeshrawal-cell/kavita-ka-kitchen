@@ -1,38 +1,104 @@
 {
   "sourceReviewId": "R0161",
   "id": "enfrijoladas",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Vegetarian Enfrijoladas",
   "cuisine": "Mexican",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 35,
   "ingredients": [
-    {"name": "small corn tortillas (8 pieces)", "qty": 240, "unit": "g"},
-    {"name": "cooked black beans, drained", "qty": 560, "unit": "g"},
-    {"name": "vegetable stock or reserved bean cooking liquid", "qty": 280, "unit": "ml"},
-    {"name": "onion", "qty": 140, "unit": "g"},
-    {"name": "garlic", "qty": 8, "unit": "g"},
-    {"name": "ground cumin", "qty": 3, "unit": "g"},
-    {"name": "neutral oil", "qty": 20, "unit": "ml"},
-    {"name": "fine salt", "qty": 5, "unit": "g"},
-    {"name": "vegetarian fresh crumbly cheese made without animal rennet", "qty": 120, "unit": "g"},
-    {"name": "soured cream or vegetarian crema", "qty": 60, "unit": "g"},
-    {"name": "fresh coriander leaves", "qty": 20, "unit": "g"},
-    {"name": "avocado, sliced", "qty": 120, "unit": "g"}
+    {
+      "name": "small corn tortillas (8 pieces)",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "cooked black beans, drained",
+      "qty": 560,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock or reserved bean cooking liquid",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian fresh crumbly cheese made with vegetarian coagulants",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "soured cream or vegetarian crema",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "avocado, sliced",
+      "qty": 120,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Dice 80 g onion and the garlic; finely dice the remaining 60 g onion for garnish. Heat 10 ml oil in a saucepan and soften the first onion portion for 4 minutes. Add garlic and cumin for 30 seconds, then stir in the drained cooked black beans and vegetable stock. Simmer for 5 minutes.",
-    "Blend the bean mixture until completely smooth, then return it to the saucepan. Add the salt and simmer gently for 3–5 minutes until it forms a thick but pourable sauce; loosen with a splash of water if necessary. Keep warm over low heat. Check that the fresh cheese is made without animal rennet.",
+    "Blend the bean mixture until completely smooth, then return it to the saucepan. Add the salt and simmer gently for 3–5 minutes until it forms a thick but pourable sauce; loosen with a splash of water if necessary. Keep warm over low heat. Check that the fresh cheese is made with vegetarian coagulants.",
     "Brush a wide frying pan with the remaining 10 ml oil. Warm each corn tortilla for about 15–20 seconds per side so it becomes pliable without crisping. Keep the warmed tortillas under a clean cloth. Do not use them cold, as they may split when folded.",
     "Using tongs, dip one warm tortilla at a time into the warm black-bean sauce to coat both sides. Transfer it to a plate, sprinkle a little of the cheese on one half and fold over. Repeat to make eight sauced, folded tortillas, arranging two on each serving plate. Spoon the remaining bean sauce over them.",
     "Finish each plate with the finely diced raw onion, remaining crumbled vegetarian cheese, crema, coriander and avocado slices. Serve immediately while the tortillas are soft and the dark bean sauce is warm; the coating should be black-bean sauce, not tomato or chilli enchilada sauce."
   ],
-  "tips": ["Blend beans until silky and keep the sauce loose enough to coat tortillas; a dry bean paste will tear them. The reviewed photo shows folded tortillas beneath glossy dark bean sauce with white cheese, onion, crema, coriander and avocado."],
+  "tips": [
+    "Blend beans until silky and keep the sauce loose enough to coat tortillas; a dry bean paste will tear them. The reviewed photo shows folded tortillas beneath glossy dark bean sauce with white cheese, onion, crema, coriander and avocado."
+  ],
   "translations": {
     "hi": {
       "name": "शाकाहारी एनफ्रिजोलादास",
-      "ingredients": ["छोटी मक्के की टॉर्टिया (8 नग)", "पके काले बीन्स, पानी निकाले हुए", "सब्ज़ी का स्टॉक या बीन्स पकाने का बचा पानी", "प्याज़", "लहसुन", "पिसा जीरा", "हल्का स्वाद वाला तेल", "बारीक नमक", "पशु रेननेट रहित शाकाहारी ताज़ा चूरा चीज़", "सॉर क्रीम या शाकाहारी क्रेमा", "ताज़ी धनिया पत्ती", "एवोकाडो, कटा हुआ"],
+      "ingredients": [
+        "छोटी मक्के की टॉर्टिया (8 नग)",
+        "पके काले बीन्स, पानी निकाले हुए",
+        "सब्ज़ी का स्टॉक या बीन्स पकाने का बचा पानी",
+        "प्याज़",
+        "लहसुन",
+        "पिसा जीरा",
+        "हल्का स्वाद वाला तेल",
+        "बारीक नमक",
+        "पशु रेननेट रहित शाकाहारी ताज़ा चूरा चीज़",
+        "सॉर क्रीम या शाकाहारी क्रेमा",
+        "ताज़ी धनिया पत्ती",
+        "एवोकाडो, कटा हुआ"
+      ],
       "steps": [
         "80 ग्राम प्याज़ और लहसुन काटें; बचा 60 ग्राम प्याज़ सजाने के लिए बारीक काटें। सॉसपैन में 10 मिली तेल गरम करें और पहले प्याज़ को 4 मिनट नरम करें। लहसुन और जीरा 30 सेकंड भूनें, फिर छाने पके काले बीन्स और सब्ज़ी स्टॉक मिलाएँ। 5 मिनट धीमी उबाल पर पकाएँ।",
         "बीन्स का मिश्रण पूरी तरह चिकना पीसें, फिर सॉसपैन में लौटाएँ। नमक डालकर 3–5 मिनट हल्का पकाएँ ताकि गाढ़ी पर डालने योग्य सॉस बने; ज़रूरत हो तो थोड़ा पानी मिलाएँ। धीमी आँच पर गरम रखें। जाँचें कि ताज़ा चीज़ पशु रेननेट के बिना बना है।",
@@ -40,11 +106,26 @@
         "चिमटे से एक बार में एक गरम टॉर्टिया को गरम काले बीन सॉस में डुबाकर दोनों ओर लपेटें। प्लेट पर रखकर आधे हिस्से पर थोड़ा चीज़ छिड़कें और मोड़ दें। ऐसे आठ सॉस लगी मुड़ी टॉर्टिया बनाएँ, हर प्लेट में दो रखें। बची बीन सॉस ऊपर डालें।",
         "हर प्लेट पर बारीक कच्चा प्याज़, बचा चूरा शाकाहारी चीज़, क्रेमा, धनिया और एवोकाडो सजाएँ। तुरंत परोसें, जब टॉर्टिया नरम और गहरी बीन सॉस गरम हो; ऊपर काले बीन्स की सॉस होनी चाहिए, टमाटर या मिर्च एनचिलाडा सॉस नहीं।"
       ],
-      "tips": ["बीन्स को रेशमी चिकना पीसें और सॉस टॉर्टिया लपेटने योग्य पतली रखें; सूखा बीन पेस्ट उन्हें फाड़ देगा। समीक्षित तस्वीर में मुड़ी टॉर्टिया चमकीली गहरी बीन सॉस के नीचे हैं, ऊपर सफेद चीज़, प्याज़, क्रेमा, धनिया और एवोकाडो है।"]
+      "tips": [
+        "बीन्स को रेशमी चिकना पीसें और सॉस टॉर्टिया लपेटने योग्य पतली रखें; सूखा बीन पेस्ट उन्हें फाड़ देगा। समीक्षित तस्वीर में मुड़ी टॉर्टिया चमकीली गहरी बीन सॉस के नीचे हैं, ऊपर सफेद चीज़, प्याज़, क्रेमा, धनिया और एवोकाडो है।"
+      ]
     },
     "gu": {
       "name": "શાકાહારી એનફ્રિજોલાદાસ",
-      "ingredients": ["નાની મકાઈની ટોર્ટિયા (8 નંગ)", "રાંધેલા કાળા બીન, પાણી નિતારેલા", "શાકભાજીનો સ્ટોક અથવા બીન રાંધ્યાનું બચેલું પાણી", "ડુંગળી", "લસણ", "જીરું પાઉડર", "હળવા સ્વાદનું તેલ", "બારીક મીઠું", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી તાજું ભૂકો ચીઝ", "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા", "તાજી કોથમીર", "એવોકાડો, કાપેલું"],
+      "ingredients": [
+        "નાની મકાઈની ટોર્ટિયા (8 નંગ)",
+        "રાંધેલા કાળા બીન, પાણી નિતારેલા",
+        "શાકભાજીનો સ્ટોક અથવા બીન રાંધ્યાનું બચેલું પાણી",
+        "ડુંગળી",
+        "લસણ",
+        "જીરું પાઉડર",
+        "હળવા સ્વાદનું તેલ",
+        "બારીક મીઠું",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી તાજું ભૂકો ચીઝ",
+        "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા",
+        "તાજી કોથમીર",
+        "એવોકાડો, કાપેલું"
+      ],
       "steps": [
         "80 ગ્રામ ડુંગળી અને લસણ સમારો; બાકી 60 ગ્રામ ડુંગળી ઉપર મૂકવા ઝીણી સમારો. સોસપેનમાં 10 મિલી તેલ ગરમ કરી પહેલા ભાગની ડુંગળી 4 મિનિટ નરમ કરો. લસણ અને જીરું 30 સેકન્ડ સાંતળો, પછી નિતારેલા રાંધેલા કાળા બીન અને શાકભાજીનો સ્ટોક ભેળવો. 5 મિનિટ ધીમે ઉકાળો.",
         "બીનનું મિશ્રણ સાવ સુંવાળું પીસી ફરી સોસપેનમાં નાખો. મીઠું ઉમેરો અને 3–5 મિનિટ ધીમે રાંધો જેથી ઘાટી પણ રેડી શકાય એવી સોસ બને; જરૂરી હોય તો થોડું પાણી ઉમેરો. ધીમા તાપે ગરમ રાખો. તાજું ચીઝ પ્રાણીજન્ય રેનેટ વગર બન્યું છે તે તપાસો.",
@@ -52,8 +133,15 @@
         "ચીપિયાથી એકેક ગરમ ટોર્ટિયાને ગરમ કાળા બીનની સોસમાં ડૂબાડી બંને બાજુ કોટ કરો. થાળીમાં મૂકી અડધા ભાગ પર થોડું ચીઝ છાંટી વાળો. એમ આઠ સોસવાળી વાળેલી ટોર્ટિયા બનાવો, દરેક થાળીમાં બે ગોઠવો. બાકી બીનની સોસ ઉપર રેડો.",
         "દરેક થાળી પર ઝીણી કાચી ડુંગળી, બાકી ભૂકો કરેલું શાકાહારી ચીઝ, ક્રેમા, કોથમીર અને એવોકાડો ગોઠવો. ટોર્ટિયા નરમ અને ઘાટી બીનની સોસ ગરમ હોય ત્યારે તરત પીરસો; ઉપર કાળા બીનની સોસ હોવી જોઈએ, ટામેટાં કે મરચાંની એનચિલાડા સોસ નહીં."
       ],
-      "tips": ["બીનને રેશમી સુંવાળાં પીસો અને સોસ ટોર્ટિયા કોટ થાય એટલી પાતળી રાખો; સૂકો બીન પેસ્ટ તેમને ફાડી નાખશે. તપાસેલા ફોટામાં વાળેલી ટોર્ટિયા ચળકતી ઘાટી બીનની સોસ નીચે છે, ઉપર સફેદ ચીઝ, ડુંગળી, ક્રેમા, કોથમીર અને એવોકાડો છે."]
+      "tips": [
+        "બીનને રેશમી સુંવાળાં પીસો અને સોસ ટોર્ટિયા કોટ થાય એટલી પાતળી રાખો; સૂકો બીન પેસ્ટ તેમને ફાડી નાખશે. તપાસેલા ફોટામાં વાળેલી ટોર્ટિયા ચળકતી ઘાટી બીનની સોસ નીચે છે, ઉપર સફેદ ચીઝ, ડુંગળી, ક્રેમા, કોથમીર અને એવોકાડો છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.isabeleats.com/enfrijoladas-recipe/", "use": "Corn tortillas coated in black-bean sauce with cheese and onion; measures, method detail and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://www.isabeleats.com/enfrijoladas-recipe/",
+    "use": "Corn tortillas coated in black-bean sauce with cheese and onion; measures, method detail and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/enfrijoladas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

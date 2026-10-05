@@ -1,37 +1,99 @@
 {
   "sourceReviewId": "R0163",
   "id": "vegetable-pasty",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Vegetable Pasty",
   "cuisine": "British",
-  "categories": ["Lunch", "Dinner", "Snack"],
+  "categories": [
+    "Lunch",
+    "Dinner",
+    "Snacks"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 105,
   "ingredients": [
-    {"name": "plain wheat flour", "qty": 450, "unit": "g"},
-    {"name": "cold unsalted butter, cubed", "qty": 190, "unit": "g"},
-    {"name": "cold water", "qty": 130, "unit": "ml"},
-    {"name": "fine salt", "qty": 8, "unit": "g"},
-    {"name": "potato, peeled and finely diced", "qty": 260, "unit": "g"},
-    {"name": "swede or turnip, peeled and finely diced", "qty": 180, "unit": "g"},
-    {"name": "carrot, finely diced", "qty": 130, "unit": "g"},
-    {"name": "green peas", "qty": 100, "unit": "g"},
-    {"name": "onion, finely diced", "qty": 130, "unit": "g"},
-    {"name": "ground black pepper", "qty": 3, "unit": "g"},
-    {"name": "milk for glazing", "qty": 30, "unit": "ml"}
+    {
+      "name": "plain wheat flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "cold unsalted butter, cubed",
+      "qty": 190,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 130,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "potato, peeled and finely diced",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "swede or turnip, peeled and finely diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, finely diced",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely diced",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "milk for glazing",
+      "qty": 30,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Rub the cold cubed butter into the flour with your fingertips until coarse crumbs form. Mix in 4 g of the salt, then add the cold water a little at a time just until the dough holds together. Do not overwork it. Divide into four discs, wrap and chill for at least 30 minutes.",
     "Cut the potato, swede, carrot and onion into small, roughly 5 mm dice so they cook through inside the pastry. Combine with green peas, the remaining 4 g salt and black pepper. Keep the filling raw and dry; drain thawed peas if using frozen ones.",
     "Heat the oven to 200°C and line a baking tray. Roll each chilled pastry disc into a circle about 20 cm wide and 3 mm thick. Divide the vegetable filling among one half of each circle, leaving a 2 cm border. Brush the border lightly with a little water, fold the empty half over and press into a D shape.",
-    "Crimp the curved edge firmly by folding and pressing small sections over one another. Put the four sealed pasties on the tray, cut a small steam vent in each top, and brush all exposed pastry with milk rather than egg. Chill for 10 minutes if the pastry has become soft.",
+    "Crimp the curved edge firmly by folding and pressing small sections over one another. Put the four sealed pasties on the tray, cut a small steam vent in each top, and brush all exposed pastry with milk for an eggless finish. Chill for 10 minutes if the pastry has become soft.",
     "Bake for 40–45 minutes until the crust is deeply golden and crisp and the potato and swede are tender when tested through a vent. If the crust colours too quickly, reduce the oven to 180°C for the final 10 minutes. Rest 10 minutes before serving; the vegetable filling will be very hot."
   ],
-  "tips": ["This is a vegetable pasty, not a protected traditional Cornish pasty. Small, even vegetable dice are essential for cooking raw filling inside the folded pastry. The reviewed photo shows browned hand-crimped D-shaped pasties, one opened to reveal potato, swede, carrot, peas and onion."],
+  "tips": [
+    "This is a vegetable pasty, not a protected traditional Cornish pasty. Small, even vegetable dice are essential for cooking raw filling inside the folded pastry. The reviewed photo shows browned hand-crimped D-shaped pasties, one opened to reveal potato, swede, carrot, peas and onion."
+  ],
   "translations": {
     "hi": {
       "name": "वेजिटेबल पेस्टी",
-      "ingredients": ["सादा गेहूँ का मैदा", "ठंडा बिना नमक का मक्खन, टुकड़ों में", "ठंडा पानी", "बारीक नमक", "आलू, छिला और बारीक कटा", "स्वीड या शलजम, छिला और बारीक कटा", "गाजर, बारीक कटी", "हरे मटर", "प्याज़, बारीक कटा", "पिसी काली मिर्च", "ऊपर लगाने के लिए दूध"],
+      "ingredients": [
+        "सादा गेहूँ का मैदा",
+        "ठंडा बिना नमक का मक्खन, टुकड़ों में",
+        "ठंडा पानी",
+        "बारीक नमक",
+        "आलू, छिला और बारीक कटा",
+        "स्वीड या शलजम, छिला और बारीक कटा",
+        "गाजर, बारीक कटी",
+        "हरे मटर",
+        "प्याज़, बारीक कटा",
+        "पिसी काली मिर्च",
+        "ऊपर लगाने के लिए दूध"
+      ],
       "steps": [
         "ठंडे मक्खन को मैदे में उँगलियों से रगड़ें, जब तक मोटे चूरे जैसा हो। 4 ग्राम नमक मिलाएँ, फिर ठंडा पानी थोड़ा-थोड़ा डालकर सिर्फ़ इतना जोड़ें कि आटा बँध जाए। अधिक न गूँधें। चार चपटे गोले बनाकर लपेटें और कम से कम 30 मिनट ठंडा करें।",
         "आलू, स्वीड, गाजर और प्याज़ को लगभग 5 मिमी के छोटे बराबर टुकड़ों में काटें ताकि पेस्ट्री के भीतर पकें। हरे मटर, बचा 4 ग्राम नमक और काली मिर्च मिलाएँ। भरावन कच्ची और सूखी रखें; जमे मटर पिघलाकर लें तो पानी निकालें।",
@@ -39,11 +101,25 @@
         "मुड़े किनारे के छोटे-छोटे हिस्से एक-दूसरे पर मोड़कर कसकर सील करें। चारों पेस्टी ट्रे पर रखें, ऊपर भाप के लिए छोटा चीरा लगाएँ और खुली पेस्ट्री पर अंडे की जगह दूध लगाएँ। पेस्ट्री नरम हो गई हो तो 10 मिनट फिर ठंडा करें।",
         "40–45 मिनट बेक करें, जब तक पपड़ी गहरी सुनहरी और कुरकुरी हो तथा चीरे से जाँचने पर आलू और स्वीड नरम हों। पपड़ी जल्दी भूरी हो तो अंतिम 10 मिनट ताप 180°C करें। परोसने से पहले 10 मिनट ठहराएँ; सब्ज़ी की भरावन बहुत गरम होगी।"
       ],
-      "tips": ["यह वेजिटेबल पेस्टी है, संरक्षित पारंपरिक कॉर्निश पेस्टी नहीं। कच्ची भरावन को बंद पेस्ट्री में पकाने के लिए सब्ज़ियों के छोटे बराबर टुकड़े ज़रूरी हैं। समीक्षित तस्वीर में भूरे हाथ से मोड़े D आकार के पेस्टी हैं, एक खुला है जिसमें आलू, स्वीड, गाजर, मटर और प्याज़ हैं।"]
+      "tips": [
+        "यह वेजिटेबल पेस्टी है, संरक्षित पारंपरिक कॉर्निश पेस्टी नहीं। कच्ची भरावन को बंद पेस्ट्री में पकाने के लिए सब्ज़ियों के छोटे बराबर टुकड़े ज़रूरी हैं। समीक्षित तस्वीर में भूरे हाथ से मोड़े D आकार के पेस्टी हैं, एक खुला है जिसमें आलू, स्वीड, गाजर, मटर और प्याज़ हैं।"
+      ]
     },
     "gu": {
       "name": "વેજિટેબલ પેસ્ટી",
-      "ingredients": ["સાદો ઘઉંનો મેંદો", "ઠંડું મીઠા વગરનું માખણ, ટુકડાં", "ઠંડું પાણી", "બારીક મીઠું", "બટાકા, છોલી ઝીણા સમારેલા", "સ્વીડ અથવા સલગમ, છોલી ઝીણા સમારેલા", "ગાજર, ઝીણું સમારેલું", "લીલા વટાણા", "ડુંગળી, ઝીણી સમારેલી", "કાળા મરીનો ભૂકો", "ઉપર લગાવવા દૂધ"],
+      "ingredients": [
+        "સાદો ઘઉંનો મેંદો",
+        "ઠંડું મીઠા વગરનું માખણ, ટુકડાં",
+        "ઠંડું પાણી",
+        "બારીક મીઠું",
+        "બટાકા, છોલી ઝીણા સમારેલા",
+        "સ્વીડ અથવા સલગમ, છોલી ઝીણા સમારેલા",
+        "ગાજર, ઝીણું સમારેલું",
+        "લીલા વટાણા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "કાળા મરીનો ભૂકો",
+        "ઉપર લગાવવા દૂધ"
+      ],
       "steps": [
         "ઠંડા માખણને મેંદામાં આંગળીઓથી ઘસો જેથી જાડા ભૂકા જેવું બને. 4 ગ્રામ મીઠું ભેળવો, પછી ઠંડું પાણી થોડું થોડું ઉમેરો જેથી લોટ ફક્ત ભેગો થાય. વધુ મસળશો નહીં. ચાર ચપટા ગોળા કરી લપેટો અને ઓછામાં ઓછા 30 મિનિટ ઠંડા કરો.",
         "બટાકા, સ્વીડ, ગાજર અને ડુંગળીના આશરે 5 મિમીના નાના સરખા કટકા કરો જેથી પેસ્ટ્રીની અંદર રંધાય. લીલા વટાણા, બાકીનું 4 ગ્રામ મીઠું અને કાળા મરી ભેળવો. પૂરણ કાચું અને કોરું રાખો; ફ્રોઝન વટાણા ઓગાળો તો પાણી નિતારો.",
@@ -51,8 +127,15 @@
         "વળેલી ધારના નાના નાના ભાગ એકબીજા ઉપર વાળી મજબૂત સીલ કરો. ચારેય પેસ્ટી ટ્રે પર મૂકો, ઉપર વરાળ માટે નાનો ચીરો કરો અને ખુલ્લી પેસ્ટ્રી પર ઈંડાને બદલે દૂધ લગાવો. પેસ્ટ્રી નરમ થઈ હોય તો ફરી 10 મિનિટ ઠંડી કરો.",
         "40–45 મિનિટ બેક કરો જેથી પડ ઘેરો સોનેરી અને કરકરો થાય તથા ચીરામાંથી તપાસતાં બટાકા અને સ્વીડ નરમ હોય. પડ જલદી બદામી થાય તો છેલ્લી 10 મિનિટ તાપ 180°C કરો. પીરસતાં પહેલાં 10 મિનિટ આરામ આપો; શાકનું પૂરણ ખૂબ ગરમ હશે."
       ],
-      "tips": ["આ વેજિટેબલ પેસ્ટી છે, કાયદે ઓળખાયેલી પરંપરાગત કોર્નિશ પેસ્ટી નહીં. કાચા પૂરણને બંધ પેસ્ટ્રીમાં રાંધવા શાકના નાના સરખા કટકા જરૂરી છે. તપાસેલા ફોટામાં બદામી હાથથી વાળેલા D આકારના પેસ્ટી છે, એક ખોલેલામાં બટાકા, સ્વીડ, ગાજર, વટાણા અને ડુંગળી છે."]
+      "tips": [
+        "આ વેજિટેબલ પેસ્ટી છે, કાયદે ઓળખાયેલી પરંપરાગત કોર્નિશ પેસ્ટી નહીં. કાચા પૂરણને બંધ પેસ્ટ્રીમાં રાંધવા શાકના નાના સરખા કટકા જરૂરી છે. તપાસેલા ફોટામાં બદામી હાથથી વાળેલા D આકારના પેસ્ટી છે, એક ખોલેલામાં બટાકા, સ્વીડ, ગાજર, વટાણા અને ડુંગળી છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.greatbritishchefs.com/how-to-cook/how-to-make-pasties", "use": "Folded and crimped pastry technique; eggless vegetarian vegetable filling, measures and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://www.greatbritishchefs.com/how-to-cook/how-to-make-pasties",
+    "use": "Folded and crimped pastry technique; eggless vegetarian vegetable filling, measures and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-pasty.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,35 +1,86 @@
 {
   "sourceReviewId": "R0137",
   "id": "pesto-pasta",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pesto Pasta",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 30,
   "ingredients": [
-    {"name": "eggless dry fusilli pasta", "qty": 400, "unit": "g"},
-    {"name": "water", "qty": 2500, "unit": "ml"},
-    {"name": "fresh basil leaves", "qty": 100, "unit": "g"},
-    {"name": "pine nuts", "qty": 70, "unit": "g"},
-    {"name": "vegetarian hard cheese", "qty": 70, "unit": "g"},
-    {"name": "garlic", "qty": 12, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 110, "unit": "ml"},
-    {"name": "lemon juice", "qty": 15, "unit": "ml"},
-    {"name": "salt", "qty": 12, "unit": "g"}
+    {
+      "name": "eggless dry fusilli pasta",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2500,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh basil leaves",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "pine nuts",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check the fusilli is eggless and the hard cheese is explicitly made with vegetarian or microbial rennet; traditional Parmesan is not suitable. Pick and wash the basil leaves, then dry them completely so the pesto does not turn watery. Peel and roughly chop garlic. Set aside a few small basil leaves for finishing.",
+    "Check the fusilli is eggless and the hard cheese is explicitly made with vegetarian coagulants; traditional Parmesan is not suitable. Pick and wash the basil leaves, then dry them completely so the pesto does not turn watery. Peel and roughly chop garlic. Set aside a few small basil leaves for finishing.",
     "Toast the pine nuts in a dry pan over low-medium heat for 2–3 minutes, shaking often, until lightly golden, not dark. Cool, then reserve 15 g for garnish. Finely grate the cheese and reserve 10 g for garnish. Put the remaining 55 g nuts, 60 g cheese, garlic and 4 g salt into a processor and pulse to coarse crumbs.",
     "Add most of the basil and pulse briefly, scraping the sides. Stream in the olive oil and lemon juice while pulsing just until a textured green sauce forms. Avoid a long continuous blend, which heats and darkens the basil. Keep the pesto at room temperature while the pasta cooks.",
     "Bring 2500 ml water and the remaining 8 g salt to a rolling boil. Add fusilli and cook to the packet's al dente time, stirring at the start. Before draining, scoop out about 80 ml of the starchy pasta water. Drain the pasta well without rinsing.",
     "Put the hot fusilli in a large warm bowl off the heat. Add pesto and toss gently, adding the reserved pasta water a little at a time until the sauce coats the twists without pooling. Divide into four bowls and top with reserved pine nuts, cheese and basil leaves. Serve immediately; do not boil the pesto after mixing."
   ],
-  "tips": ["Pine nuts are a major allergen. This fresh basil pesto uses vegetarian hard cheese in place of animal-rennet Parmesan. A splash of starchy pasta water makes the pesto cling without cream; keep the finished sauce off direct heat to preserve its green color."],
+  "tips": [
+    "Pine nuts are a major allergen. This fresh basil pesto uses vegetarian hard cheese in place of animal-rennet Parmesan. A splash of starchy pasta water makes the pesto cling without cream; keep the finished sauce off direct heat to preserve its green color."
+  ],
   "translations": {
     "hi": {
       "name": "पेस्टो पास्ता",
-      "ingredients": ["बिना अंडे का सूखा फुज़िली पास्ता", "पानी", "ताज़ी बेसिल की पत्तियाँ", "पाइन नट्स", "शाकाहारी सख़्त चीज़", "लहसुन", "एक्स्ट्रा-वर्जिन जैतून तेल", "नींबू का रस", "नमक"],
+      "ingredients": [
+        "बिना अंडे का सूखा फुज़िली पास्ता",
+        "पानी",
+        "ताज़ी बेसिल की पत्तियाँ",
+        "पाइन नट्स",
+        "शाकाहारी सख़्त चीज़",
+        "लहसुन",
+        "एक्स्ट्रा-वर्जिन जैतून तेल",
+        "नींबू का रस",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि फुज़िली बिना अंडे का हो और सख़्त चीज़ स्पष्ट रूप से शाकाहारी या माइक्रोबियल रेनट से बनी हो; पारंपरिक पार्मेज़ान उपयुक्त नहीं है। बेसिल की पत्तियाँ चुनकर धोएँ और पूरी तरह सुखाएँ ताकि पेस्टो पानीदार न हो। लहसुन छीलकर मोटा काटें। सजाने के लिए बेसिल की कुछ छोटी पत्तियाँ अलग रखें।",
         "पाइन नट्स सूखे पैन में धीमी-मध्यम आँच पर 2–3 मिनट हिलाते हुए हल्के सुनहरे करें, गहरे नहीं। ठंडे करके सजावट के लिए 15 ग्राम अलग रखें। चीज़ बारीक कद्दूकस करें और 10 ग्राम अलग रखें। बचे 55 ग्राम नट्स, 60 ग्राम चीज़, लहसुन और 4 ग्राम नमक फूड प्रोसेसर में डालकर मोटा चूरा करें।",
@@ -37,11 +88,23 @@
         "2500 मिली पानी में बचा 8 ग्राम नमक डालकर तेज़ उबालें। फुज़िली डालकर पैकेट के अल दंते समय तक पकाएँ और शुरुआत में चलाएँ। छानने से पहले लगभग 80 मिली स्टार्च वाला पास्ता पानी निकालकर रखें। पास्ता बिना धोए अच्छी तरह छानें।",
         "गरम फुज़िली को आँच से हटे बड़े गरम कटोरे में रखें। पेस्टो डालकर हल्के हाथ से मिलाएँ, बचा पास्ता पानी थोड़ा-थोड़ा डालें ताकि सॉस हर घुमाव पर चढ़े, नीचे जमा न हो। चार कटोरों में बाँटकर अलग रखे नट्स, चीज़ और बेसिल पत्ते डालें। तुरंत परोसें; मिलाने के बाद पेस्टो न उबालें।"
       ],
-      "tips": ["पाइन नट्स से गंभीर एलर्जी हो सकती है। इस ताज़े बेसिल पेस्टो में पशु-रेनट पार्मेज़ान की जगह शाकाहारी सख़्त चीज़ है। स्टार्च वाला थोड़ा पास्ता पानी बिना क्रीम के सॉस को चिपकाता है; हरा रंग बनाए रखने के लिए मिलाकर सीधी आँच पर न रखें।"]
+      "tips": [
+        "पाइन नट्स से गंभीर एलर्जी हो सकती है। इस ताज़े बेसिल पेस्टो में पशु-रेनट पार्मेज़ान की जगह शाकाहारी सख़्त चीज़ है। स्टार्च वाला थोड़ा पास्ता पानी बिना क्रीम के सॉस को चिपकाता है; हरा रंग बनाए रखने के लिए मिलाकर सीधी आँच पर न रखें।"
+      ]
     },
     "gu": {
       "name": "પેસ્ટો પાસ્તા",
-      "ingredients": ["ઇંડા વગરનો સૂકો ફુઝિલી પાસ્તા", "પાણી", "તાજાં બેસિલનાં પાન", "પાઇન નટ્સ", "શાકાહારી સખત ચીઝ", "લસણ", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "લીંબુનો રસ", "મીઠું"],
+      "ingredients": [
+        "ઇંડા વગરનો સૂકો ફુઝિલી પાસ્તા",
+        "પાણી",
+        "તાજાં બેસિલનાં પાન",
+        "પાઇન નટ્સ",
+        "શાકાહારી સખત ચીઝ",
+        "લસણ",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "લીંબુનો રસ",
+        "મીઠું"
+      ],
       "steps": [
         "ફુઝિલી ઇંડા વગરનો અને સખત ચીઝ સ્પષ્ટ રીતે શાકાહારી કે માઇક્રોબિયલ રેનેટથી બનેલો હોય તે તપાસો; પરંપરાગત પાર્મેઝાન યોગ્ય નથી. બેસિલનાં પાન ચૂંટી ધોઈ સંપૂર્ણ સૂકવો જેથી પેસ્ટો પાણીદાર ન થાય. લસણ છોલીને મોટા કાપો. સજાવટ માટે બેસિલનાં થોડાં નાનાં પાન અલગ રાખો.",
         "પાઇન નટ્સ સૂકી કડાઈમાં ધીમા-મધ્યમ તાપે 2–3 મિનિટ હલાવતા હળવા સોનેરી કરો, ઘેરા નહીં. ઠંડા કરીને સજાવટ માટે 15 ગ્રામ અલગ રાખો. ચીઝ બારીક ખમણી 10 ગ્રામ અલગ રાખો. બાકી 55 ગ્રામ નટ્સ, 60 ગ્રામ ચીઝ, લસણ અને 4 ગ્રામ મીઠું ફૂડ પ્રોસેસરમાં નાખી મોટું ચૂરું કરો.",
@@ -49,8 +112,15 @@
         "2500 મિલી પાણી અને બાકીનું 8 ગ્રામ મીઠું જોરથી ઉકાળો. ફુઝિલી નાખી પેકેટના અલ દંતે સમય સુધી રાંધો અને શરૂઆતમાં હલાવો. નિતારતાં પહેલાં આશરે 80 મિલી સ્ટાર્ચવાળું પાસ્તાનું પાણી અલગ લો. પાસ્તા ધોયા વગર સારી રીતે નિતારો.",
         "ગરમ ફુઝિલીને તાપથી દૂર મોટા ગરમ વાટકામાં મૂકો. પેસ્ટો નાખી હળવેથી ભેળવો અને અલગ રાખેલું પાસ્તાનું પાણી થોડું થોડું ઉમેરો જેથી સોસ દરેક વળાંક પર ચડે, નીચે ભેગો ન થાય. ચાર વાટકામાં વહેંચી રાખેલા નટ્સ, ચીઝ અને બેસિલ પાન ઉપર મૂકો. તરત પીરસો; ભેળવ્યા પછી પેસ્ટો ન ઉકાળો."
       ],
-      "tips": ["પાઇન નટ્સથી ગંભીર એલર્જી થઈ શકે. આ તાજા બેસિલ પેસ્ટોમાં પ્રાણી-રેનેટ પાર્મેઝાનને બદલે શાકાહારી સખત ચીઝ છે. થોડું સ્ટાર્ચવાળું પાસ્તાનું પાણી ક્રીમ વગર સોસ ચોંટાડે છે; લીલો રંગ જાળવવા ભેળવ્યા પછી સીધા તાપે ન રાખો."]
+      "tips": [
+        "પાઇન નટ્સથી ગંભીર એલર્જી થઈ શકે. આ તાજા બેસિલ પેસ્ટોમાં પ્રાણી-રેનેટ પાર્મેઝાનને બદલે શાકાહારી સખત ચીઝ છે. થોડું સ્ટાર્ચવાળું પાસ્તાનું પાણી ક્રીમ વગર સોસ ચોંટાડે છે; લીલો રંગ જાળવવા ભેળવ્યા પછી સીધા તાપે ન રાખો."
+      ]
     }
   },
-  "reference": {"url": "https://www.greatitalianchefs.com/recipes/pasta-alla-genovese-recipe", "use": "Basil-pine-nut pesto and vegetable-rennet substitution reference; fusilli version, measurements and wording independently authored."}
+  "reference": {
+    "url": "https://www.greatitalianchefs.com/recipes/pasta-alla-genovese-recipe",
+    "use": "Basil-pine-nut pesto and vegetable-rennet substitution reference; fusilli version, measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pesto-pasta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

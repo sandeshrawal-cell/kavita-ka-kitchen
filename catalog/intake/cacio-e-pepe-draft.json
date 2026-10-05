@@ -1,31 +1,62 @@
 {
   "sourceReviewId": "R0142",
   "id": "cacio-e-pepe",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Cacio e Pepe",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 25,
   "ingredients": [
-    {"name": "eggless dry spaghetti", "qty": 400, "unit": "g"},
-    {"name": "water", "qty": 1800, "unit": "ml"},
-    {"name": "vegetarian Pecorino-style hard cheese made with microbial rennet", "qty": 150, "unit": "g"},
-    {"name": "whole black peppercorns", "qty": 8, "unit": "g"},
-    {"name": "salt", "qty": 8, "unit": "g"}
+    {
+      "name": "eggless dry spaghetti",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1800,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian Pecorino-style hard cheese made with vegetarian coagulants",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "whole black peppercorns",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check that the dry spaghetti contains no egg. Check the cheese label for microbial or vegetarian rennet; standard Pecorino often contains animal rennet. Finely grate 150 g cheese, reserving 20 g for finishing. Crush the peppercorns coarsely just before cooking.",
+    "Check that the dry spaghetti contains eggless. Check the cheese label for vegetarian coagulants; standard Pecorino often contains animal-derived coagulants. Finely grate 150 g cheese, reserving 20 g for finishing. Crush the peppercorns coarsely just before cooking.",
     "Bring 1800 ml water and 8 g salt to a boil in a wide pot so the cooking water becomes starchy. Add spaghetti and stir to separate. Cook about 1 minute less than the packet's al dente time. Before draining, reserve 400 ml of the hot, cloudy cooking water.",
     "While the pasta cooks, toast 6 g crushed pepper in a wide dry pan over medium-low heat for 30–45 seconds until fragrant. Add 150 ml reserved pasta water and simmer for 1 minute. Transfer the almost-cooked spaghetti to this pan with tongs; toss for 1–2 minutes so it finishes in the peppery water. Remove the pan from the heat.",
     "Let the pan and pasta cool for about 45 seconds to prevent the cheese clumping. In a bowl, whisk the 130 g grated cheese with 70–90 ml warm, not boiling, reserved pasta water into a smooth thick cream. Pour it over the pasta off the heat and toss vigorously for 1 minute. Add more warm pasta water a tablespoon at a time until a silky sauce coats each strand; never boil after adding cheese.",
     "Divide at once into four warm shallow bowls. Sprinkle with the reserved 20 g cheese and remaining 2 g crushed pepper. Serve immediately, before the cheese emulsion tightens as it cools."
   ],
-  "tips": ["The reviewed photo shows a pale glossy cheese coating and generous cracked black pepper, without cream, butter or vegetables. Only use hard cheese explicitly made with vegetarian or microbial rennet. Off-heat mixing and starchy water make the smooth sauce."],
+  "tips": [
+    "The reviewed photo shows a pale glossy cheese coating and generous cracked black pepper, without cream, butter or vegetables. Only use hard cheese explicitly made with vegetarian or microbial rennet. Off-heat mixing and starchy water make the smooth sauce."
+  ],
   "translations": {
     "hi": {
       "name": "काचो ए पेपे",
-      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "पानी", "सूक्ष्मजीवी रेननेट से बना शाकाहारी पेकोरिनो-जैसा सख्त चीज़", "साबुत काली मिर्च", "नमक"],
+      "ingredients": [
+        "बिना अंडे की सूखी स्पेगेटी",
+        "पानी",
+        "सूक्ष्मजीवी रेननेट से बना शाकाहारी पेकोरिनो-जैसा सख्त चीज़",
+        "साबुत काली मिर्च",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि सूखी स्पेगेटी में अंडा न हो। चीज़ के लेबल पर सूक्ष्मजीवी या शाकाहारी रेननेट देखें; सामान्य पेकोरिनो में अक्सर पशु रेननेट होता है। 150 ग्राम चीज़ बारीक कद्दूकस करें और सजाने के लिए 20 ग्राम अलग रखें। पकाने से ठीक पहले काली मिर्च दरदरी कूटें।",
         "चौड़े बर्तन में 1800 मिली पानी और 8 ग्राम नमक उबालें ताकि पास्ता का पानी स्टार्च वाला बने। स्पेगेटी डालकर अलग करने के लिए चलाएँ। पैकेट के अल दंते समय से लगभग 1 मिनट कम पकाएँ। छानने से पहले 400 मिली गरम, धुंधला पकाने का पानी अलग रखें।",
@@ -33,11 +64,19 @@
         "पैन और पास्ता लगभग 45 सेकंड ठंडे होने दें ताकि चीज़ की गांठें न बनें। कटोरी में 130 ग्राम कद्दूकस चीज़ और 70–90 मिली गरम लेकिन उबलता नहीं पास्ता पानी फेंटकर चिकनी गाढ़ी क्रीम बनाएँ। आँच से उतरे पास्ता पर डालकर 1 मिनट तेज़ी से पलटें। हर तार पर रेशमी सॉस चढ़ने तक और गुनगुना पानी एक-एक बड़ा चम्मच डालें; चीज़ डालने के बाद कभी न उबालें।",
         "तुरंत चार गरम उथली कटोरियों में बाँटें। अलग रखा 20 ग्राम चीज़ और बची 2 ग्राम कुटी काली मिर्च छिड़कें। चीज़ की सॉस ठंडी होकर सख्त होने से पहले तुरंत परोसें।"
       ],
-      "tips": ["समीक्षित तस्वीर में हल्की चमकदार चीज़ सॉस और भरपूर दरदरी काली मिर्च है, क्रीम, मक्खन या सब्ज़ियाँ नहीं। सिर्फ स्पष्ट रूप से शाकाहारी या सूक्ष्मजीवी रेननेट से बने सख्त चीज़ का उपयोग करें। आँच बंद करके मिलाना और स्टार्च वाला पानी सॉस चिकनी बनाते हैं।"]
+      "tips": [
+        "समीक्षित तस्वीर में हल्की चमकदार चीज़ सॉस और भरपूर दरदरी काली मिर्च है, क्रीम, मक्खन या सब्ज़ियाँ नहीं। सिर्फ स्पष्ट रूप से शाकाहारी या सूक्ष्मजीवी रेननेट से बने सख्त चीज़ का उपयोग करें। आँच बंद करके मिलाना और स्टार्च वाला पानी सॉस चिकनी बनाते हैं।"
+      ]
     },
     "gu": {
       "name": "કાચો એ પેપે",
-      "ingredients": ["ઇંડા વગરની સૂકી સ્પાઘેટી", "પાણી", "સૂક્ષ્મજીવી રેનેટથી બનેલું શાકાહારી પેકોરિનો જેવું કઠણ ચીઝ", "આખા કાળા મરી", "મીઠું"],
+      "ingredients": [
+        "ઇંડા વગરની સૂકી સ્પાઘેટી",
+        "પાણી",
+        "સૂક્ષ્મજીવી રેનેટથી બનેલું શાકાહારી પેકોરિનો જેવું કઠણ ચીઝ",
+        "આખા કાળા મરી",
+        "મીઠું"
+      ],
       "steps": [
         "સૂકી સ્પાઘેટીમાં ઇંડું ન હોય તે તપાસો. ચીઝના લેબલ પર સૂક્ષ્મજીવી અથવા શાકાહારી રેનેટ તપાસો; સામાન્ય પેકોરિનોમાં ઘણીવાર પ્રાણીજન્ય રેનેટ હોય છે. 150 ગ્રામ ચીઝ બારીક છીણી, ઉપર ભભરાવવા 20 ગ્રામ અલગ રાખો. રાંધતાં પહેલાં જ કાળા મરી અધકચરા ખાંડો.",
         "પહોળા વાસણમાં 1800 મિલી પાણી અને 8 ગ્રામ મીઠું ઉકાળો જેથી પાસ્તાનું પાણી સ્ટાર્ચવાળું થાય. સ્પાઘેટી નાખી તાર છૂટા પડે એમ હલાવો. પેકેટના અલ દંતે સમય કરતાં આશરે 1 મિનિટ ઓછું રાંધો. નિતારતાં પહેલાં 400 મિલી ગરમ, ધૂંધળું રાંધવાનું પાણી અલગ રાખો.",
@@ -45,8 +84,15 @@
         "કડાઈ અને પાસ્તા આશરે 45 સેકંડ ઠંડાં થવા દો જેથી ચીઝની ગાંઠો ન પડે. વાટકીમાં 130 ગ્રામ છીણેલું ચીઝ અને 70–90 મિલી ગરમ, ઉકળતું નહીં એવું પાસ્તાનું પાણી ફેંટીને સુંવાળી ઘટ્ટ ક્રીમ બનાવો. તાપ પરથી ઉતારેલા પાસ્તા પર નાખી 1 મિનિટ જોરથી ઉછાળો. દરેક તાર પર રેશમી સોસ ચડે ત્યાં સુધી વધુ નવશેકું પાણી એક-એક મોટો ચમચો નાખો; ચીઝ નાખ્યા પછી ક્યારેય ઉકાળો નહીં.",
         "તરત ચાર ગરમ છીછરી વાટકામાં વહેંચો. અલગ રાખેલું 20 ગ્રામ ચીઝ અને બાકીનું 2 ગ્રામ ખાંડેલા મરી છાંટો. ચીઝની સોસ ઠંડી પડીને ઘટ્ટ થાય તે પહેલાં તરત પીરસો."
       ],
-      "tips": ["તપાસેલા ફોટામાં ફિક્કી ચમકતી ચીઝ સોસ અને પુષ્કળ ખાંડેલા કાળા મરી છે, ક્રીમ, માખણ કે શાક નથી. સ્પષ્ટ રીતે શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટથી બનેલું કઠણ ચીઝ જ વાપરો. તાપ બંધ કરીને ભેળવવું અને સ્ટાર્ચવાળું પાણી સોસ સુંવાળી બનાવે છે."]
+      "tips": [
+        "તપાસેલા ફોટામાં ફિક્કી ચમકતી ચીઝ સોસ અને પુષ્કળ ખાંડેલા કાળા મરી છે, ક્રીમ, માખણ કે શાક નથી. સ્પષ્ટ રીતે શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટથી બનેલું કઠણ ચીઝ જ વાપરો. તાપ બંધ કરીને ભેળવવું અને સ્ટાર્ચવાળું પાણી સોસ સુંવાળી બનાવે છે."
+      ]
     }
   },
-  "reference": {"url": "https://italyfood.com.au/recipes/cacio-e-pepe/", "use": "Roman cheese-and-pepper emulsion technique and vegetarian-rennet note; measurements and wording independently authored."}
+  "reference": {
+    "url": "https://italyfood.com.au/recipes/cacio-e-pepe/",
+    "use": "Roman cheese-and-pepper emulsion technique and vegetarian-rennet note; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/cacio-e-pepe.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

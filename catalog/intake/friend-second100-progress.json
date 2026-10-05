@@ -2,14 +2,14 @@
   "batch": "friend-list-second100",
   "source": "Kavita_ka_Kitchen_dishes_with_batch1.xlsx",
   "range": "R0101–R0200",
-  "publicationStatus": "draft",
+  "publicationStatus": "published",
   "items": [
     {
       "id": "spaghetti-alla-carrettiera",
       "name": "Spaghetti alla Carrettiera",
       "sourceReviewId": "R0101",
       "sourceRow": 102,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -17,7 +17,7 @@
       "name": "Pesto Rosso Pasta",
       "sourceReviewId": "R0102",
       "sourceRow": 103,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -25,7 +25,7 @@
       "name": "Pasta alla Trapanese",
       "sourceReviewId": "R0103",
       "sourceRow": 104,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -33,7 +33,7 @@
       "name": "Pasta ai Quattro Formaggi",
       "sourceReviewId": "R0104",
       "sourceRow": 105,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -41,7 +41,7 @@
       "name": "Lemon Ricotta Pasta",
       "sourceReviewId": "R0105",
       "sourceRow": 106,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -49,7 +49,7 @@
       "name": "Gnocchi Burro e Salvia",
       "sourceReviewId": "R0106",
       "sourceRow": 107,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -57,7 +57,7 @@
       "name": "Vegetarian Blue-Cheese Gnocchi",
       "sourceReviewId": "R0107",
       "sourceRow": 108,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "note": "The source entry is Gnocchi Gorgonzola. This adaptation uses vegetarian blue cheese and is named accordingly; it does not claim to contain protected Gorgonzola.",
       "matches": []
     },
@@ -66,7 +66,7 @@
       "name": "Wafu Pasta",
       "sourceReviewId": "R0108",
       "sourceRow": 109,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -74,7 +74,7 @@
       "name": "Schezwan Pasta",
       "sourceReviewId": "R0109",
       "sourceRow": 110,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -82,7 +82,7 @@
       "name": "Pizza Bianca",
       "sourceReviewId": "R0110",
       "sourceRow": 111,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -90,7 +90,7 @@
       "name": "Pizza Ortolana",
       "sourceReviewId": "R0111",
       "sourceRow": 112,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -98,7 +98,7 @@
       "name": "Pizza Funghi",
       "sourceReviewId": "R0112",
       "sourceRow": 113,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -106,7 +106,7 @@
       "name": "Pinsa Romana",
       "sourceReviewId": "R0113",
       "sourceRow": 114,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -114,7 +114,7 @@
       "name": "Fugazzeta",
       "sourceReviewId": "R0114",
       "sourceRow": 115,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -122,7 +122,7 @@
       "name": "Ligurian Cheese Focaccia",
       "sourceReviewId": "R0115",
       "sourceRow": 116,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "note": "The source entry is Focaccia di Recco. This vegetarian home adaptation is named Ligurian Cheese Focaccia and makes no protected geographical certification claim.",
       "matches": []
     },
@@ -131,7 +131,7 @@
       "name": "French Bread Pizza",
       "sourceReviewId": "R0116",
       "sourceRow": 117,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -139,7 +139,7 @@
       "name": "Pizza Paratha",
       "sourceReviewId": "R0117",
       "sourceRow": 118,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -147,7 +147,7 @@
       "name": "Kibbeh Batata",
       "sourceReviewId": "R0118",
       "sourceRow": 119,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -155,7 +155,7 @@
       "name": "Homity Pie",
       "sourceReviewId": "R0119",
       "sourceRow": 120,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -163,7 +163,7 @@
       "name": "Lobiani",
       "sourceReviewId": "R0120",
       "sourceRow": 121,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -171,7 +171,7 @@
       "name": "Jamaican Vegetable Patty",
       "sourceReviewId": "R0121",
       "sourceRow": 122,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -179,7 +179,7 @@
       "name": "Black Bean Burger",
       "sourceReviewId": "R0122",
       "sourceRow": 123,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -187,7 +187,7 @@
       "name": "Tofu Katsu Sando",
       "sourceReviewId": "R0123",
       "sourceRow": 124,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -195,7 +195,7 @@
       "name": "Bombay Frankie",
       "sourceReviewId": "R0124",
       "sourceRow": 125,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -203,7 +203,7 @@
       "name": "Soya Chaap Roll",
       "sourceReviewId": "R0125",
       "sourceRow": 126,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -211,7 +211,7 @@
       "name": "Pan-Fried Noodles",
       "sourceReviewId": "R0126",
       "sourceRow": 127,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -219,7 +219,7 @@
       "name": "Vegetarian Zhajiangmian",
       "sourceReviewId": "R0127",
       "sourceRow": 128,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -227,7 +227,7 @@
       "name": "Vegetarian Jajangmyeon",
       "sourceReviewId": "R0128",
       "sourceRow": 129,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -235,7 +235,7 @@
       "name": "Yaki Udon",
       "sourceReviewId": "R0129",
       "sourceRow": 130,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -243,7 +243,7 @@
       "name": "Rabokki",
       "sourceReviewId": "R0130",
       "sourceRow": 131,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -251,7 +251,7 @@
       "name": "Chao Nian Gao",
       "sourceReviewId": "R0131",
       "sourceRow": 132,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -259,7 +259,7 @@
       "name": "Pad Med Mamuang",
       "sourceReviewId": "R0132",
       "sourceRow": 133,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -267,7 +267,7 @@
       "name": "Pad Prik Khing",
       "sourceReviewId": "R0133",
       "sourceRow": 134,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -275,7 +275,7 @@
       "name": "Chinese Chopsuey",
       "sourceReviewId": "R0134",
       "sourceRow": 135,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -283,7 +283,7 @@
       "name": "Vegetables in Black Bean Sauce",
       "sourceReviewId": "R0135",
       "sourceRow": 136,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -291,7 +291,7 @@
       "name": "White Sauce Pasta",
       "sourceReviewId": "R0136",
       "sourceRow": 137,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -299,7 +299,7 @@
       "name": "Pesto Pasta",
       "sourceReviewId": "R0137",
       "sourceRow": 138,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -307,7 +307,7 @@
       "name": "Spaghetti Aglio e Olio",
       "sourceReviewId": "R0138",
       "sourceRow": 139,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -315,7 +315,7 @@
       "name": "Masala Pasta",
       "sourceReviewId": "R0139",
       "sourceRow": 140,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -323,7 +323,7 @@
       "name": "Chilli Garlic Noodles",
       "sourceReviewId": "R0140",
       "sourceRow": 141,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -331,7 +331,7 @@
       "name": "Schezwan Noodles",
       "sourceReviewId": "R0141",
       "sourceRow": 142,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -339,7 +339,7 @@
       "name": "Cacio e Pepe",
       "sourceReviewId": "R0142",
       "sourceRow": 143,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -347,7 +347,7 @@
       "name": "Spaghetti Pomodoro",
       "sourceReviewId": "R0143",
       "sourceRow": 144,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -355,7 +355,7 @@
       "name": "Pasta alla Norma",
       "sourceReviewId": "R0144",
       "sourceRow": 145,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -363,7 +363,7 @@
       "name": "Creamy Mushroom Pasta",
       "sourceReviewId": "R0145",
       "sourceRow": 146,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -371,7 +371,7 @@
       "name": "Lentil Bolognese",
       "sourceReviewId": "R0146",
       "sourceRow": 147,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -379,7 +379,7 @@
       "name": "Pasta al Limone",
       "sourceReviewId": "R0147",
       "sourceRow": 148,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -387,7 +387,7 @@
       "name": "Spaghetti alla Nerano",
       "sourceReviewId": "R0148",
       "sourceRow": 149,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -395,7 +395,7 @@
       "name": "Pasta alla Checca",
       "sourceReviewId": "R0149",
       "sourceRow": 150,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -403,7 +403,7 @@
       "name": "Polenta e Funghi",
       "sourceReviewId": "R0150",
       "sourceRow": 151,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -411,7 +411,7 @@
       "name": "Pizza Marinara",
       "sourceReviewId": "R0151",
       "sourceRow": 152,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -419,7 +419,7 @@
       "name": "Quattro Formaggi Pizza",
       "sourceReviewId": "R0152",
       "sourceRow": 153,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -427,7 +427,7 @@
       "name": "Stromboli",
       "sourceReviewId": "R0153",
       "sourceRow": 154,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -435,7 +435,7 @@
       "name": "Panzerotti",
       "sourceReviewId": "R0154",
       "sourceRow": 155,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -443,7 +443,7 @@
       "name": "Bean Burrito",
       "sourceReviewId": "R0155",
       "sourceRow": 156,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -451,7 +451,7 @@
       "name": "Chimichanga",
       "sourceReviewId": "R0156",
       "sourceRow": 157,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -459,7 +459,7 @@
       "name": "Sopes",
       "sourceReviewId": "R0157",
       "sourceRow": 158,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -467,7 +467,7 @@
       "name": "Gorditas",
       "sourceReviewId": "R0158",
       "sourceRow": 159,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -475,7 +475,7 @@
       "name": "Chalupas",
       "sourceReviewId": "R0159",
       "sourceRow": 160,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -483,7 +483,7 @@
       "name": "Huaraches",
       "sourceReviewId": "R0160",
       "sourceRow": 161,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -491,7 +491,7 @@
       "name": "Enfrijoladas",
       "sourceReviewId": "R0161",
       "sourceRow": 162,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -499,7 +499,7 @@
       "name": "Budín Azteca",
       "sourceReviewId": "R0162",
       "sourceRow": 163,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -507,7 +507,7 @@
       "name": "Vegetable Pasty",
       "sourceReviewId": "R0163",
       "sourceRow": 164,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -515,7 +515,7 @@
       "name": "Cheese and Onion Pie",
       "sourceReviewId": "R0164",
       "sourceRow": 165,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -523,7 +523,7 @@
       "name": "Pumpkin Kibbeh",
       "sourceReviewId": "R0165",
       "sourceRow": 166,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -531,7 +531,7 @@
       "name": "Halloumi Wrap",
       "sourceReviewId": "R0166",
       "sourceRow": 167,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -539,7 +539,7 @@
       "name": "Cauliflower Shawarma",
       "sourceReviewId": "R0167",
       "sourceRow": 168,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -547,7 +547,7 @@
       "name": "Beyaynetu",
       "sourceReviewId": "R0168",
       "sourceRow": 169,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -555,7 +555,7 @@
       "name": "Bunny Chow",
       "sourceReviewId": "R0169",
       "sourceRow": 170,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -563,7 +563,7 @@
       "name": "Buddha Bowl",
       "sourceReviewId": "R0170",
       "sourceRow": 171,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -571,7 +571,7 @@
       "name": "Tofu Poke Bowl",
       "sourceReviewId": "R0171",
       "sourceRow": 172,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -579,7 +579,7 @@
       "name": "Mediterranean Quinoa Bowl",
       "sourceReviewId": "R0172",
       "sourceRow": 173,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -587,7 +587,7 @@
       "name": "Singapore Noodles",
       "sourceReviewId": "R0173",
       "sourceRow": 174,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -595,7 +595,7 @@
       "name": "Lo Mein",
       "sourceReviewId": "R0174",
       "sourceRow": 175,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -603,7 +603,7 @@
       "name": "Vegetarian Dan Dan Noodles",
       "sourceReviewId": "R0175",
       "sourceRow": 176,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -611,7 +611,7 @@
       "name": "Sesame Noodles",
       "sourceReviewId": "R0176",
       "sourceRow": 177,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -619,7 +619,7 @@
       "name": "Biang Biang Noodles",
       "sourceReviewId": "R0177",
       "sourceRow": 178,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -627,7 +627,7 @@
       "name": "Yakisoba",
       "sourceReviewId": "R0178",
       "sourceRow": 179,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -635,7 +635,7 @@
       "name": "Bibim Guksu",
       "sourceReviewId": "R0179",
       "sourceRow": 180,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -643,7 +643,7 @@
       "name": "Vegetarian Pad See Ew",
       "sourceReviewId": "R0180",
       "sourceRow": 181,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -651,7 +651,7 @@
       "name": "Drunken Noodles",
       "sourceReviewId": "R0181",
       "sourceRow": 182,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -659,7 +659,7 @@
       "name": "Pad Woon Sen",
       "sourceReviewId": "R0182",
       "sourceRow": 183,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -667,7 +667,7 @@
       "name": "Thai Peanut Noodles",
       "sourceReviewId": "R0183",
       "sourceRow": 184,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -675,7 +675,7 @@
       "name": "Mee Goreng",
       "sourceReviewId": "R0184",
       "sourceRow": 185,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -683,7 +683,7 @@
       "name": "Atho",
       "sourceReviewId": "R0185",
       "sourceRow": 186,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -691,7 +691,7 @@
       "name": "General Tso's Tofu",
       "sourceReviewId": "R0186",
       "sourceRow": 187,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -699,7 +699,7 @@
       "name": "Sweet and Sour Tofu",
       "sourceReviewId": "R0187",
       "sourceRow": 188,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -707,7 +707,7 @@
       "name": "Black Pepper Tofu",
       "sourceReviewId": "R0188",
       "sourceRow": 189,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -715,7 +715,7 @@
       "name": "Tofu Bulgogi",
       "sourceReviewId": "R0189",
       "sourceRow": 190,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -723,7 +723,7 @@
       "name": "Tteokbokki",
       "sourceReviewId": "R0190",
       "sourceRow": 191,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -731,7 +731,7 @@
       "name": "Kathi Roll",
       "sourceReviewId": "R0191",
       "sourceRow": 192,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -739,7 +739,7 @@
       "name": "Veggie Burger",
       "sourceReviewId": "R0192",
       "sourceRow": 193,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -747,7 +747,7 @@
       "name": "Aloo Tikki Burger",
       "sourceReviewId": "R0193",
       "sourceRow": 194,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -755,7 +755,7 @@
       "name": "Grilled Cheese Sandwich",
       "sourceReviewId": "R0194",
       "sourceRow": 195,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -763,7 +763,7 @@
       "name": "Caprese Sandwich",
       "sourceReviewId": "R0195",
       "sourceRow": 196,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -771,7 +771,7 @@
       "name": "Tofu Banh Mi",
       "sourceReviewId": "R0196",
       "sourceRow": 197,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -779,7 +779,7 @@
       "name": "Vegetable Panini",
       "sourceReviewId": "R0197",
       "sourceRow": 198,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -787,7 +787,7 @@
       "name": "Paneer Steak",
       "sourceReviewId": "R0198",
       "sourceRow": 199,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -795,7 +795,7 @@
       "name": "Jacket Potato",
       "sourceReviewId": "R0199",
       "sourceRow": 200,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     },
     {
@@ -803,7 +803,7 @@
       "name": "Älplermagronen",
       "sourceReviewId": "R0200",
       "sourceRow": 201,
-      "status": "draft-recipe-translations-and-photo-ready",
+      "status": "published-second-100-intake-batch",
       "matches": []
     }
   ]

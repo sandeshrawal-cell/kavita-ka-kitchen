@@ -1,37 +1,98 @@
 {
   "sourceReviewId": "R0164",
   "id": "cheese-and-onion-pie",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Cheese and Onion Pie",
   "cuisine": "British",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 115,
   "ingredients": [
-    {"name": "plain wheat flour", "qty": 400, "unit": "g"},
-    {"name": "cold unsalted butter, cubed", "qty": 180, "unit": "g"},
-    {"name": "cold water", "qty": 110, "unit": "ml"},
-    {"name": "fine salt", "qty": 7, "unit": "g"},
-    {"name": "onions, thinly sliced", "qty": 520, "unit": "g"},
-    {"name": "vegetarian mature cheddar-style cheese made without animal rennet, grated", "qty": 280, "unit": "g"},
-    {"name": "neutral oil", "qty": 20, "unit": "ml"},
-    {"name": "English mustard", "qty": 10, "unit": "g"},
-    {"name": "fresh thyme leaves", "qty": 3, "unit": "g"},
-    {"name": "ground black pepper", "qty": 3, "unit": "g"},
-    {"name": "milk for glazing", "qty": 25, "unit": "ml"}
+    {
+      "name": "plain wheat flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cold unsalted butter, cubed",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 520,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mature cheddar-style cheese made with vegetarian coagulants, grated",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "English mustard",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "milk for glazing",
+      "qty": 25,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Rub the cold butter into the flour until coarse crumbs form. Stir in 4 g salt and add cold water gradually, mixing just until the dough comes together. Divide about two-thirds for the base and one-third for the lid. Flatten, wrap and chill both pieces for 30 minutes.",
-    "Meanwhile heat the neutral oil in a wide pan over medium-low heat. Cook the thinly sliced onions with the remaining 3 g salt for 25–30 minutes, stirring often, until soft, sweet and most moisture has evaporated. Stir in mustard, thyme and black pepper, then cool completely. Check the cheese label to ensure it contains no animal rennet.",
+    "Meanwhile heat the neutral oil in a wide pan over medium-low heat. Cook the thinly sliced onions with the remaining 3 g salt for 25–30 minutes, stirring often, until soft, sweet and most moisture has evaporated. Stir in mustard, thyme and black pepper, then cool completely. Check the cheese label to ensure it contains no animal-derived coagulants.",
     "Heat the oven to 200°C. Roll the larger chilled dough piece into a round big enough to line a 22 cm pie dish with overhang. Press it gently into the dish. Spread half the cooled onions in the base, add half the grated vegetarian cheese, then repeat the onion and cheese layers. Keep the filling below the rim.",
-    "Roll the smaller dough piece into a lid. Brush the exposed base edge with a little milk, place the lid on top, press to seal and crimp around the rim. Cut two small steam vents and brush the lid with the remaining milk for an egg-free golden finish. Chill for 10 minutes if the pastry has softened.",
+    "Roll the smaller dough piece into a lid. Brush the exposed base edge with a little milk, place the lid on top, press to seal and crimp around the rim. Cut two small steam vents and brush the lid with the remaining milk for an eggless golden finish. Chill for 10 minutes if the pastry has softened.",
     "Bake for 35–40 minutes until the pastry is deep golden and crisp and the cheese bubbles at the vents. Rest for at least 15 minutes before cutting into four wedges, so the soft onion-cheese filling holds its shape. Serve warm with a simple salad."
   ],
-  "tips": ["Cool the onions fully before they touch the pastry; hot or watery onion makes a soggy base. Use cheese explicitly made with vegetarian or microbial rennet. The reviewed photo shows a round lidded pie and a cut wedge filled mainly with tender onion and melted pale cheese, without potato."],
+  "tips": [
+    "Cool the onions fully before they touch the pastry; hot or watery onion makes a soggy base. Use cheese explicitly made with vegetarian or microbial rennet. The reviewed photo shows a round lidded pie and a cut wedge filled mainly with tender onion and melted pale cheese, without potato."
+  ],
   "translations": {
     "hi": {
       "name": "चीज़ और प्याज़ पाई",
-      "ingredients": ["सादा गेहूँ का मैदा", "ठंडा बिना नमक का मक्खन, टुकड़ों में", "ठंडा पानी", "बारीक नमक", "प्याज़, पतले कटे", "पशु रेननेट रहित शाकाहारी पुराना चेडर-जैसा चीज़, कद्दूकस", "हल्का स्वाद वाला तेल", "इंग्लिश मस्टर्ड", "ताज़ी थाइम की पत्तियाँ", "पिसी काली मिर्च", "ऊपर लगाने के लिए दूध"],
+      "ingredients": [
+        "सादा गेहूँ का मैदा",
+        "ठंडा बिना नमक का मक्खन, टुकड़ों में",
+        "ठंडा पानी",
+        "बारीक नमक",
+        "प्याज़, पतले कटे",
+        "पशु रेननेट रहित शाकाहारी पुराना चेडर-जैसा चीज़, कद्दूकस",
+        "हल्का स्वाद वाला तेल",
+        "इंग्लिश मस्टर्ड",
+        "ताज़ी थाइम की पत्तियाँ",
+        "पिसी काली मिर्च",
+        "ऊपर लगाने के लिए दूध"
+      ],
       "steps": [
         "ठंडे मक्खन को मैदे में रगड़कर मोटा चूरा बनाएँ। 4 ग्राम नमक मिलाएँ और ठंडा पानी धीरे-धीरे डालें, सिर्फ़ आटा जुड़ने तक। लगभग दो-तिहाई हिस्सा आधार के लिए और एक-तिहाई ढक्कन के लिए अलग करें। दोनों चपटा करके लपेटें और 30 मिनट ठंडा करें।",
         "इस बीच चौड़े पैन में तेल मध्यम-धीमी आँच पर गरम करें। पतले कटे प्याज़ को बचा 3 ग्राम नमक डालकर 25–30 मिनट बार-बार चलाते हुए पकाएँ, जब तक नरम, मीठे और अधिकतर पानी सूख जाए। मस्टर्ड, थाइम और काली मिर्च मिलाकर पूरी तरह ठंडा करें। चीज़ के लेबल पर पशु रेननेट न होने की पुष्टि करें।",
@@ -39,11 +100,25 @@
         "छोटे आटे को ढक्कन की तरह बेलें। खुले आधार किनारे पर थोड़ा दूध लगाएँ, ढक्कन रखें, दबाकर बंद करें और पूरी धार मोड़ें। भाप के लिए दो छोटे चीरे लगाएँ और बिना अंडे के सुनहरे रंग के लिए बचा दूध ऊपर लगाएँ। पेस्ट्री नरम हुई हो तो 10 मिनट ठंडा करें।",
         "35–40 मिनट बेक करें, जब तक पेस्ट्री गहरी सुनहरी और कुरकुरी हो और चीज़ चीरों पर बुलबुले करे। चार टुकड़े काटने से पहले कम से कम 15 मिनट ठहराएँ ताकि नरम प्याज़-चीज़ भरावन आकार पकड़े। सलाद के साथ गरम परोसें।"
       ],
-      "tips": ["प्याज़ पेस्ट्री पर रखने से पहले पूरी तरह ठंडे करें; गरम या पानीदार प्याज़ तली गीली करेंगे। शाकाहारी या सूक्ष्मजीवी रेननेट से बना चीज़ लें। समीक्षित तस्वीर में ढक्कन वाली गोल पाई और कटा टुकड़ा है, जिसमें मुख्यतः नरम प्याज़ और पिघला हल्का चीज़ है, आलू नहीं।"]
+      "tips": [
+        "प्याज़ पेस्ट्री पर रखने से पहले पूरी तरह ठंडे करें; गरम या पानीदार प्याज़ तली गीली करेंगे। शाकाहारी या सूक्ष्मजीवी रेननेट से बना चीज़ लें। समीक्षित तस्वीर में ढक्कन वाली गोल पाई और कटा टुकड़ा है, जिसमें मुख्यतः नरम प्याज़ और पिघला हल्का चीज़ है, आलू नहीं।"
+      ]
     },
     "gu": {
       "name": "ચીઝ અને ડુંગળીની પાઈ",
-      "ingredients": ["સાદો ઘઉંનો મેંદો", "ઠંડું મીઠા વગરનું માખણ, ટુકડાં", "ઠંડું પાણી", "બારીક મીઠું", "ડુંગળી, પાતળી સમારેલી", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી જૂનું ચેડર જેવું ચીઝ, છીણેલું", "હળવા સ્વાદનું તેલ", "ઇંગ્લિશ મસ્ટર્ડ", "તાજાં થાઇમનાં પાન", "કાળા મરીનો ભૂકો", "ઉપર લગાવવા દૂધ"],
+      "ingredients": [
+        "સાદો ઘઉંનો મેંદો",
+        "ઠંડું મીઠા વગરનું માખણ, ટુકડાં",
+        "ઠંડું પાણી",
+        "બારીક મીઠું",
+        "ડુંગળી, પાતળી સમારેલી",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી જૂનું ચેડર જેવું ચીઝ, છીણેલું",
+        "હળવા સ્વાદનું તેલ",
+        "ઇંગ્લિશ મસ્ટર્ડ",
+        "તાજાં થાઇમનાં પાન",
+        "કાળા મરીનો ભૂકો",
+        "ઉપર લગાવવા દૂધ"
+      ],
       "steps": [
         "ઠંડા માખણને મેંદામાં ઘસી જાડો ભૂકો બનાવો. 4 ગ્રામ મીઠું ભેળવી ઠંડું પાણી ધીમે ઉમેરો, લોટ ફક્ત ભેગો થાય ત્યાં સુધી. લગભગ બે તૃતીયાંશ ભાગ પાયા માટે અને એક તૃતીયાંશ ઢાંકણ માટે અલગ કરો. બંને ચપટા કરી લપેટો અને 30 મિનિટ ઠંડા કરો.",
         "દરમિયાન પહોળી કડાઈમાં તેલ મધ્યમથી ધીમા તાપે ગરમ કરો. પાતળી સમારેલી ડુંગળી બાકી 3 ગ્રામ મીઠા સાથે 25–30 મિનિટ વારંવાર હલાવી રાંધો જેથી નરમ, મીઠી બને અને મોટાભાગનું પાણી બળી જાય. મસ્ટર્ડ, થાઇમ અને કાળા મરી ભેળવી સાવ ઠંડી કરો. ચીઝના લેબલ પર પ્રાણીજન્ય રેનેટ નથી તેની ખાતરી કરો.",
@@ -51,8 +126,15 @@
         "નાના લોટને ઢાંકણની જેમ વણો. ખુલ્લી નીચેની ધાર પર થોડું દૂધ લગાવી ઢાંકણ મૂકો, દબાવી બંધ કરો અને આખી ધાર વાળો. વરાળ માટે બે નાના ચીરા કરો અને ઈંડા વગર સોનેરી રંગ માટે બાકીનું દૂધ ઉપર લગાવો. પેસ્ટ્રી નરમ થઈ હોય તો 10 મિનિટ ઠંડી કરો.",
         "35–40 મિનિટ બેક કરો જેથી પેસ્ટ્રી ઘેરી સોનેરી અને કરકરી થાય તથા ચીરામાં ચીઝ પરપોટા કરે. ચાર ભાગ કાપતાં પહેલાં ઓછામાં ઓછી 15 મિનિટ આરામ આપો જેથી નરમ ડુંગળી-ચીઝનું પૂરણ આકાર પકડે. સાદા સલાડ સાથે ગરમ પીરસો."
       ],
-      "tips": ["ડુંગળી પેસ્ટ્રી પર મૂકતાં પહેલાં સાવ ઠંડી કરો; ગરમ અથવા પાણીદાર ડુંગળી તળિયું ભીનું બનાવશે. શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટથી બનેલું ચીઝ લો. તપાસેલા ફોટામાં ઢાંકણવાળી ગોળ પાઈ અને કાપેલો ટુકડો છે, જેમાં મુખ્યત્વે નરમ ડુંગળી અને ઓગળેલું ફિક્કું ચીઝ છે, બટાકા નથી."]
+      "tips": [
+        "ડુંગળી પેસ્ટ્રી પર મૂકતાં પહેલાં સાવ ઠંડી કરો; ગરમ અથવા પાણીદાર ડુંગળી તળિયું ભીનું બનાવશે. શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટથી બનેલું ચીઝ લો. તપાસેલા ફોટામાં ઢાંકણવાળી ગોળ પાઈ અને કાપેલો ટુકડો છે, જેમાં મુખ્યત્વે નરમ ડુંગળી અને ઓગળેલું ફિક્કું ચીઝ છે, બટાકા નથી."
+      ]
     }
   },
-  "reference": {"url": "https://thehappyfoodie.co.uk/recipes/my-mothers-lancashire-cheese-and-onion-pie/", "use": "British shortcrust pie with softened onions and cheese; eggless pastry, vegetarian cheese selection, measures and wording independently authored."}
+  "reference": {
+    "url": "https://thehappyfoodie.co.uk/recipes/my-mothers-lancashire-cheese-and-onion-pie/",
+    "use": "British shortcrust pie with softened onions and cheese; eggless pastry, vegetarian cheese selection, measures and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/cheese-and-onion-pie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

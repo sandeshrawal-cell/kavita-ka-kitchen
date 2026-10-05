@@ -1,53 +1,185 @@
 {
-  "sourceReviewId":"R0192","id":"veggie-burger","status":"draft-photo-and-translation-reviewed","name":"Veggie Burger","cuisine":"Global","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":50,"passiveTime":"20 minutes patty chilling",
-  "ingredients":[
-    {"name":"cooked black beans, drained","qty":360,"unit":"g"},
-    {"name":"mushrooms, finely chopped","qty":200,"unit":"g"},
-    {"name":"rolled oats, finely ground","qty":90,"unit":"g"},
-    {"name":"carrot, grated","qty":100,"unit":"g"},
-    {"name":"onion, finely chopped","qty":100,"unit":"g"},
-    {"name":"ground flaxseed","qty":18,"unit":"g"},
-    {"name":"water for flax binder","qty":45,"unit":"ml"},
-    {"name":"garlic, minced","qty":15,"unit":"g"},
-    {"name":"smoked paprika","qty":5,"unit":"g"},
-    {"name":"salt","qty":7,"unit":"g"},
-    {"name":"ground black pepper","qty":3,"unit":"g"},
-    {"name":"neutral oil","qty":35,"unit":"ml"},
-    {"name":"egg-free sesame burger buns (4 pieces)","qty":320,"unit":"g"},
-    {"name":"lettuce leaves","qty":80,"unit":"g"},
-    {"name":"tomatoes, sliced","qty":160,"unit":"g"},
-    {"name":"red onion, thinly sliced","qty":80,"unit":"g"},
-    {"name":"vegetarian mustard","qty":45,"unit":"g"}
+  "sourceReviewId": "R0192",
+  "id": "veggie-burger",
+  "status": "published-second-100-intake-batch",
+  "name": "Veggie Burger",
+  "cuisine": "Global",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "passiveTime": "20 minutes patty chilling",
+  "ingredients": [
+    {
+      "name": "cooked black beans, drained",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "mushrooms, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "rolled oats, finely ground",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, grated",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ground flaxseed",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "water for flax binder",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless sesame burger buns (4 pieces)",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce leaves",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, sliced",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mustard",
+      "qty": 45,
+      "unit": "g"
+    }
+  ],
+  "steps": [
     "Mix ground flaxseed with measured 45 ml water and let thicken for 10 minutes. Drain black beans very well. Heat 10 ml oil and cook mushrooms and chopped onion over medium heat for 6–8 minutes until their moisture evaporates; cool slightly.",
     "Mash black beans roughly, leaving some whole for texture. Stir in cooked mushrooms and onion, ground oats, grated carrot, flax binder, garlic, smoked paprika, salt and pepper. Mix until the mixture holds together when pressed; do not puree it.",
     "Shape four firm patties, about the width of the buns. Refrigerate on a lined plate for 20 minutes so the oats hydrate and patties hold their shape.",
-    "Heat remaining 25 ml oil in a non-stick skillet over medium heat. Cook patties 4–5 minutes per side until browned and hot through, turning once carefully. Toast the cut sides of the egg-free buns in the pan for 1 minute.",
+    "Heat remaining 25 ml oil in a non-stick skillet over medium heat. Cook patties 4–5 minutes per side until browned and hot through, turning once carefully. Toast the cut sides of the eggless buns in the pan for 1 minute.",
     "Spread mustard on the buns. Add each patty, lettuce, tomato and red onion; close gently and serve at once. Keep the vegetables dry so the buns stay crisp."
   ],
-  "tips":["Check buns and mustard labels for egg or animal ingredients. The reviewed photo shows a visibly black-bean-mushroom vegetable patty with lettuce, tomato, onion and mustard in a sesame bun."],
-  "translations":{
-    "hi":{"name":"वेजी बर्गर","ingredients":["पकी काली बीन्स, छानी","मशरूम, बारीक कटे","रोल्ड ओट्स, बारीक पिसे","गाजर, कद्दूकस","प्याज़, बारीक कटा","पिसी अलसी","अलसी के लिए पानी","लहसुन, बारीक कटा","स्मोक्ड पपरिका","नमक","पिसी काली मिर्च","हल्का स्वाद वाला तेल","बिना अंडे के तिल वाले बर्गर बन (4 पीस)","सलाद पत्ते","टमाटर, कटे","लाल प्याज़, पतला कटा","शाकाहारी मस्टर्ड"],
-      "steps":[
+  "tips": [
+    "Check buns and mustard labels for egg or animal ingredients. The reviewed photo shows a visibly black-bean-mushroom vegetable patty with lettuce, tomato, onion and mustard in a sesame bun."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजी बर्गर",
+      "ingredients": [
+        "पकी काली बीन्स, छानी",
+        "मशरूम, बारीक कटे",
+        "रोल्ड ओट्स, बारीक पिसे",
+        "गाजर, कद्दूकस",
+        "प्याज़, बारीक कटा",
+        "पिसी अलसी",
+        "अलसी के लिए पानी",
+        "लहसुन, बारीक कटा",
+        "स्मोक्ड पपरिका",
+        "नमक",
+        "पिसी काली मिर्च",
+        "हल्का स्वाद वाला तेल",
+        "बिना अंडे के तिल वाले बर्गर बन (4 पीस)",
+        "सलाद पत्ते",
+        "टमाटर, कटे",
+        "लाल प्याज़, पतला कटा",
+        "शाकाहारी मस्टर्ड"
+      ],
+      "steps": [
         "पिसी अलसी नापे 45 मिली पानी में मिलाकर 10 मिनट गाढ़ी होने दें। काली बीन्स अच्छी तरह छानें। 10 मिली तेल गरम करके मशरूम और कटा प्याज़ मध्यम आँच पर 6–8 मिनट नमी सूखने तक भूनें; थोड़ा ठंडा करें।",
         "काली बीन्स दरदरी मैश करें, कुछ साबुत रखें। पके मशरूम-प्याज़, पिसे ओट्स, कद्दूकस गाजर, अलसी मिश्रण, लहसुन, स्मोक्ड पपरिका, नमक और काली मिर्च मिलाएँ। मिश्रण दबाने पर जुड़ा रहे; पूरी प्यूरी न बनाएँ।",
         "बन की चौड़ाई के चार सख्त पैटी बनाएँ। बिछी प्लेट पर 20 मिनट फ्रिज में रखें ताकि ओट्स पानी सोखें और पैटी का आकार बना रहे।",
         "नॉन-स्टिक पैन में बचा 25 मिली तेल मध्यम आँच पर गरम करें। पैटी हर तरफ़ 4–5 मिनट भूरे और भीतर तक गरम होने तक पकाएँ, एक बार सावधानी से पलटें। बिना अंडे के बन के कटे भाग 1 मिनट पैन में सेंकें।",
         "बन पर मस्टर्ड लगाएँ। हर बन में पैटी, सलाद पत्ता, टमाटर और लाल प्याज़ रखें; धीरे बंद कर तुरंत परोसें। बन कुरकुरा रखने के लिए सब्ज़ियाँ सूखी हों।"
       ],
-      "tips":["बन और मस्टर्ड के पैक में अंडा या पशु सामग्री न हो, जाँचें। समीक्षित तस्वीर में तिल वाले बन में स्पष्ट काली बीन्स-मशरूम पैटी, सलाद, टमाटर, प्याज़ और मस्टर्ड हैं।"],
-      "passiveTime":"पैटी को 20 मिनट ठंडा करना"},
-    "gu":{"name":"વેજી બર્ગર","ingredients":["રાંધેલા કાળા બીન્સ, નિતારેલા","મશરૂમ, ઝીણાં સમારેલાં","રોલ્ડ ઓટ્સ, ઝીણાં દળેલા","ગાજર, છીણેલી","ડુંગળી, ઝીણી સમારેલી","દળેલી અળસી","અળસી માટે પાણી","લસણ, ઝીણું સમારેલું","સ્મોક્ડ પેપરિકા","મીઠું","દળેલી કાળી મરી","હળવા સ્વાદનું તેલ","ઈંડા વગરના તલવાળા બર્ગર બન (4 નંગ)","સલાડનાં પાન","ટમેટાં, કાપેલાં","લાલ ડુંગળી, પાતળી સમારેલી","શાકાહારી મસ્ટર્ડ"],
-      "steps":[
+      "tips": [
+        "बन और मस्टर्ड के पैक में अंडा या पशु सामग्री न हो, जाँचें। समीक्षित तस्वीर में तिल वाले बन में स्पष्ट काली बीन्स-मशरूम पैटी, सलाद, टमाटर, प्याज़ और मस्टर्ड हैं।"
+      ],
+      "passiveTime": "पैटी को 20 मिनट ठंडा करना"
+    },
+    "gu": {
+      "name": "વેજી બર્ગર",
+      "ingredients": [
+        "રાંધેલા કાળા બીન્સ, નિતારેલા",
+        "મશરૂમ, ઝીણાં સમારેલાં",
+        "રોલ્ડ ઓટ્સ, ઝીણાં દળેલા",
+        "ગાજર, છીણેલી",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "દળેલી અળસી",
+        "અળસી માટે પાણી",
+        "લસણ, ઝીણું સમારેલું",
+        "સ્મોક્ડ પેપરિકા",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "હળવા સ્વાદનું તેલ",
+        "ઈંડા વગરના તલવાળા બર્ગર બન (4 નંગ)",
+        "સલાડનાં પાન",
+        "ટમેટાં, કાપેલાં",
+        "લાલ ડુંગળી, પાતળી સમારેલી",
+        "શાકાહારી મસ્ટર્ડ"
+      ],
+      "steps": [
         "દળેલી અળસી માપેલા 45 મિલી પાણીમાં ભેળવી 10 મિનિટ ઘટ્ટ થવા દો. કાળા બીન્સ સારી રીતે નિતારો. 10 મિલી તેલ ગરમ કરી મશરૂમ અને સમારેલી ડુંગળી મધ્યમ તાપે 6–8 મિનિટ ભેજ સુકાય ત્યાં સુધી શેકો; સહેજ ઠંડું કરો.",
         "કાળા બીન્સ અધકચરા મેશ કરો, કેટલાક આખા રાખો. રાંધેલા મશરૂમ-ડુંગળી, દળેલા ઓટ્સ, છીણેલી ગાજર, અળસી મિશ્રણ, લસણ, સ્મોક્ડ પેપરિકા, મીઠું અને મરી ભેળવો. દબાવતા મિશ્રણ જોડાય એવું હોવું જોઈએ; સંપૂર્ણ પ્યુરી ન બનાવો.",
         "બનની પહોળાઈના ચાર મજબૂત પેટી બનાવો. પાથરેલી પ્લેટ પર 20 મિનિટ ફ્રિજમાં રાખો જેથી ઓટ્સ ભેજ શોષે અને પેટીનો આકાર ટકે.",
         "નોન-સ્ટિક કડાઈમાં બાકી 25 મિલી તેલ મધ્યમ તાપે ગરમ કરો. પેટી દરેક બાજુ 4–5 મિનિટ બદામી અને અંદરથી ગરમ થાય ત્યાં સુધી રાંધો, એક વાર કાળજીથી ફેરવો. ઈંડા વગરના બનની કાપેલી બાજુ 1 મિનિટ શેકો.",
         "બન પર મસ્ટર્ડ લગાવો. દરેકમાં પેટી, સલાડનાં પાન, ટમેટાં અને લાલ ડુંગળી મૂકો; હળવેથી બંધ કરી તરત પીરસો. બન કરકરું રહે તે માટે શાક સૂકાં હોવાં જોઈએ."
       ],
-      "tips":["બન અને મસ્ટર્ડના પેકમાં ઈંડું કે પ્રાણીજન્ય સામગ્રી નથી તે તપાસો. તપાસેલા ફોટામાં તલવાળા બનમાં દેખાતી કાળા બીન્સ-મશરૂમ પેટી, સલાડ, ટમેટાં, ડુંગળી અને મસ્ટર્ડ છે."],
-      "passiveTime":"પેટીને 20 મિનિટ ઠંડી કરવી"}
+      "tips": [
+        "બન અને મસ્ટર્ડના પેકમાં ઈંડું કે પ્રાણીજન્ય સામગ્રી નથી તે તપાસો. તપાસેલા ફોટામાં તલવાળા બનમાં દેખાતી કાળા બીન્સ-મશરૂમ પેટી, સલાડ, ટમેટાં, ડુંગળી અને મસ્ટર્ડ છે."
+      ],
+      "passiveTime": "પેટીને 20 મિનિટ ઠંડી કરવી"
+    }
   },
-  "reference":{"url":"https://www.loveandlemons.com/best-veggie-burger-recipe/","use":"Vegetable-bean patty structure and chilling; egg-free flax version, quantities and wording independently authored."}
+  "reference": {
+    "url": "https://www.loveandlemons.com/best-veggie-burger-recipe/",
+    "use": "Vegetable-bean patty structure and chilling; egg-free flax version, quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/veggie-burger.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

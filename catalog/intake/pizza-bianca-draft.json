@@ -1,23 +1,62 @@
 {
   "sourceReviewId": "R0110",
   "id": "pizza-bianca",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pizza Bianca",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 45,
   "passiveTime": "90 minutes dough rising",
   "ingredients": [
-    {"name": "strong wheat flour", "qty": 500, "unit": "g"},
-    {"name": "lukewarm water", "qty": 325, "unit": "ml"},
-    {"name": "instant dry yeast", "qty": 5, "unit": "g"},
-    {"name": "salt", "qty": 10, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 45, "unit": "ml"},
-    {"name": "vegetarian mozzarella", "qty": 220, "unit": "g"},
-    {"name": "fresh ricotta", "qty": 100, "unit": "g"},
-    {"name": "fresh rosemary leaves", "qty": 8, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"}
+    {
+      "name": "strong wheat flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "lukewarm water",
+      "qty": 325,
+      "unit": "ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "fresh ricotta",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Mix the flour, yeast, 300 ml lukewarm water and 30 ml olive oil until no dry flour remains. Add 8 g salt and the remaining 25 ml water, then knead 8–10 minutes until the dough is smooth and elastic. If very sticky, rest it 5 minutes instead of adding much extra flour.",
@@ -25,14 +64,26 @@
     "Heat the oven to 250°C, or its highest safe pizza setting, with a heavy tray or pizza stone inside for at least 25 minutes. Divide the risen dough into two equal pieces. On lightly floured baking paper, stretch each into a roughly 25-by-30-cm oval or rectangle, leaving a slightly thicker edge. Do not roll all the air out.",
     "Brush the two bases with the remaining 15 ml olive oil. Dot with ricotta and drained mozzarella, leaving the edge uncovered. Scatter rosemary leaves, black pepper and the remaining 2 g salt evenly over the tops. This is a tomato-free white pizza.",
     "Slide the first pizza with its paper onto the hot tray. Bake for 10–13 minutes until the rim is puffed and deeply golden and the cheese is bubbling. Repeat with the second pizza, keeping it covered while it waits; rotate if the oven browns unevenly.",
-    "Rest each baked pizza for 2 minutes, then cut each into four slices. Serve two slices per person while the crust is crisp. Check that the mozzarella is made with microbial or vegetable rennet if the package does not explicitly say vegetarian."
+    "Rest each baked pizza for 2 minutes, then cut each into four slices. Serve two slices per person while the crust is crisp. Check that the mozzarella is made with vegetarian coagulants if the package does not explicitly say vegetarian."
   ],
-  "tips": ["Fresh mozzarella holds water, so draining it is important. The dough can rise more slowly in a cool room; use its doubled volume rather than only the clock. This cheesy pizza bianca is distinct from the plain Roman olive-oil-and-rosemary flatbread also sold under that name."],
+  "tips": [
+    "Fresh mozzarella holds water, so draining it is important. The dough can rise more slowly in a cool room; use its doubled volume rather than only the clock. This cheesy pizza bianca is distinct from the plain Roman olive-oil-and-rosemary flatbread also sold under that name."
+  ],
   "translations": {
     "hi": {
       "name": "पिज़्ज़ा बियांका",
       "passiveTime": "लोई फूलने के लिए 90 मिनट",
-      "ingredients": ["ब्रेड के लिए मज़बूत गेहूँ का आटा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "नमक", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "शाकाहारी मोत्ज़ारेला", "ताज़ा रिकोटा", "ताज़ी रोज़मेरी की पत्तियाँ", "काली मिर्च"],
+      "ingredients": [
+        "ब्रेड के लिए मज़बूत गेहूँ का आटा",
+        "गुनगुना पानी",
+        "इंस्टेंट सूखा यीस्ट",
+        "नमक",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "शाकाहारी मोत्ज़ारेला",
+        "ताज़ा रिकोटा",
+        "ताज़ी रोज़मेरी की पत्तियाँ",
+        "काली मिर्च"
+      ],
       "steps": [
         "आटा, यीस्ट, 300 मिली गुनगुना पानी और 30 मिली ऑलिव तेल मिलाएँ ताकि सूखा आटा न बचे। 8 ग्राम नमक और बचा 25 मिली पानी डालकर 8–10 मिनट गूँधें, जब तक लोई चिकनी और लचीली हो। बहुत चिपचिपी हो तो अधिक आटा डालने के बजाय 5 मिनट आराम दें।",
         "एक बाउल में हल्का तेल लगाकर लोई रखें, ढकें और लगभग 90 मिनट गरम जगह में रखें, जब तक आकार करीब दोगुना हो। इस बीच मोत्ज़ारेला अच्छी तरह छानकर छोटे टुकड़े करें और ऊपर की नमी पोंछें ताकि पिज़्ज़ा का तला गीला न हो।",
@@ -41,12 +92,24 @@
         "पहला पिज़्ज़ा पेपर समेत गरम ट्रे पर सरकाएँ। 10–13 मिनट बेक करें, जब तक किनारा फूला और गहरा सुनहरा तथा चीज़ उबलता दिखे। दूसरा पिज़्ज़ा ढककर रखें और इसी तरह बेक करें; ओवन असमान पकाए तो घुमाएँ।",
         "हर बेक किए पिज़्ज़ा को 2 मिनट ठहराकर चार स्लाइस काटें। कुरकुरा रहते प्रति व्यक्ति दो स्लाइस परोसें। पैक पर स्पष्ट शाकाहारी न लिखा हो तो देखें कि मोत्ज़ारेला माइक्रोबियल या वनस्पति रेनेट से बना है।"
       ],
-      "tips": ["ताज़े मोत्ज़ारेला में पानी होता है, इसलिए इसे छानना ज़रूरी है। ठंडे कमरे में लोई देर से फूलती है; केवल समय के बजाय उसका दोगुना आकार देखें। चीज़ वाला यह पिज़्ज़ा बियांका उसी नाम की सादी रोमन ऑलिव तेल और रोज़मेरी वाली रोटी से अलग है।"]
+      "tips": [
+        "ताज़े मोत्ज़ारेला में पानी होता है, इसलिए इसे छानना ज़रूरी है। ठंडे कमरे में लोई देर से फूलती है; केवल समय के बजाय उसका दोगुना आकार देखें। चीज़ वाला यह पिज़्ज़ा बियांका उसी नाम की सादी रोमन ऑलिव तेल और रोज़मेरी वाली रोटी से अलग है।"
+      ]
     },
     "gu": {
       "name": "પિઝા બિયાન્કા",
       "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ",
-      "ingredients": ["બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકું યીસ્ટ", "મીઠું", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "શાકાહારી મોઝેરેલા", "તાજું રિકોટા", "તાજા રોઝમેરીનાં પાન", "કાળી મરી"],
+      "ingredients": [
+        "બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ",
+        "હૂંફાળું પાણી",
+        "ઇન્સ્ટન્ટ સૂકું યીસ્ટ",
+        "મીઠું",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "શાકાહારી મોઝેરેલા",
+        "તાજું રિકોટા",
+        "તાજા રોઝમેરીનાં પાન",
+        "કાળી મરી"
+      ],
       "steps": [
         "લોટ, યીસ્ટ, 300 મિલી હૂંફાળું પાણી અને 30 મિલી ઓલિવ તેલ ભેળવો જેથી સૂકો લોટ ન રહે. 8 ગ્રામ મીઠું અને બાકીનું 25 મિલી પાણી નાખીને 8–10 મિનિટ મસળો, જ્યાં સુધી લોટ લીસો અને લવચીક બને. બહુ ચીકણો હોય તો વધુ લોટ નાખવાને બદલે 5 મિનિટ આરામ આપો.",
         "વાટકામાં હળવું તેલ લગાવી લોટ મૂકો, ઢાંકો અને લગભગ 90 મિનિટ ગરમ જગ્યાએ રાખો, જ્યાં સુધી કદ લગભગ બમણું થાય. આ દરમિયાન મોઝેરેલા સારી રીતે નિતારી નાના ટુકડા કરો અને ઉપરનો ભેજ લૂછી દો જેથી પિઝાનો તળિયો ભીનો ન થાય.",
@@ -55,8 +118,15 @@
         "પહેલો પિઝા પેપર સાથે ગરમ ટ્રે પર સરકાવો. 10–13 મિનિટ બેક કરો, જ્યાં સુધી કિનારી ફૂલે અને ઘેરી સોનેરી થાય તથા ચીઝમાં પરપોટા દેખાય. બીજો પિઝા ત્યાં સુધી ઢાંકી રાખો અને એ જ રીતે બેક કરો; ઓવન અસમાન શેકે તો ફેરવો.",
         "બેક થયેલા દરેક પિઝાને 2 મિનિટ થોભાવીને ચાર ટુકડા કરો. કરકરો હોય ત્યારે વ્યક્તિદીઠ બે ટુકડા પીરસો. પેક પર સ્પષ્ટ શાકાહારી ન લખ્યું હોય તો મોઝેરેલા માઇક્રોબિયલ કે વનસ્પતિ રેનેટથી બનેલું છે તેની ખાતરી કરો."
       ],
-      "tips": ["તાજા મોઝેરેલામાં પાણી હોય છે, તેથી તેને નિતારવું જરૂરી છે. ઠંડા ઓરડામાં લોટ ધીમે ફૂલે; માત્ર સમયને બદલે તેનું બમણું કદ જુઓ. ચીઝવાળો આ પિઝા બિયાન્કા એ જ નામે મળતી સાદી રોમન ઓલિવ તેલ અને રોઝમેરીવાળી રોટલીથી અલગ છે."]
+      "tips": [
+        "તાજા મોઝેરેલામાં પાણી હોય છે, તેથી તેને નિતારવું જરૂરી છે. ઠંડા ઓરડામાં લોટ ધીમે ફૂલે; માત્ર સમયને બદલે તેનું બમણું કદ જુઓ. ચીઝવાળો આ પિઝા બિયાન્કા એ જ નામે મળતી સાદી રોમન ઓલિવ તેલ અને રોઝમેરીવાળી રોટલીથી અલગ છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.marthastewart.com/355962/pizza-bianca", "use": "Tomato-free ricotta-and-mozzarella white pizza direction; dough and instructions independently authored."}
+  "reference": {
+    "url": "https://www.marthastewart.com/355962/pizza-bianca",
+    "use": "Tomato-free ricotta-and-mozzarella white pizza direction; dough and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pizza-bianca.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

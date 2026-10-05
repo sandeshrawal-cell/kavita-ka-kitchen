@@ -1,37 +1,98 @@
 {
   "sourceReviewId": "R0160",
   "id": "huaraches",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Bean and Nopales Huaraches",
   "cuisine": "Mexican",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 55,
   "ingredients": [
-    {"name": "masa harina (nixtamalized corn flour)", "qty": 320, "unit": "g"},
-    {"name": "warm water", "qty": 410, "unit": "ml"},
-    {"name": "fine salt", "qty": 6, "unit": "g"},
-    {"name": "cooked pinto beans, mashed thick", "qty": 360, "unit": "g"},
-    {"name": "cooked nopales cactus strips, drained", "qty": 200, "unit": "g"},
-    {"name": "thick red tomato salsa", "qty": 120, "unit": "g"},
-    {"name": "vegetarian fresh white cheese made without animal rennet", "qty": 100, "unit": "g"},
-    {"name": "white onion, finely diced", "qty": 70, "unit": "g"},
-    {"name": "fresh coriander leaves", "qty": 20, "unit": "g"},
-    {"name": "soured cream or vegetarian crema", "qty": 60, "unit": "g"},
-    {"name": "neutral oil", "qty": 25, "unit": "ml"}
+    {
+      "name": "masa harina (nixtamalized corn flour)",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 410,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "cooked pinto beans, mashed thick",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "cooked nopales cactus strips, drained",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "thick red tomato salsa",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian fresh white cheese made with vegetarian coagulants",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "white onion, finely diced",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "soured cream or vegetarian crema",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Mix masa harina with salt, then gradually knead in 390 ml warm water until the dough is soft, cohesive and free of large cracks. Reserve 20 ml water for adjusting if dry. Cover and rest 15 minutes. Mash the cooked beans into a thick, spreadable paste; drain the cooked nopales well so their surface is not slippery.",
     "Divide the dough into four equal portions. Roll each portion into a long oval, roughly 20 × 9 cm and about 1 cm thick, between two sheets of plastic or baking paper. Smooth cracked edges with a damp finger. Keep the sandal-like shape long and narrow; a round disc would resemble a sope instead.",
-    "Heat a heavy griddle over medium heat and cook each masa oval for 5–6 minutes per side until browned in spots and cooked through. Brush the bases with 15 ml oil in total and return them to the griddle for another minute per side to make the outside lightly crisp while the centre stays tender.",
-    "Heat the remaining 10 ml oil in a pan and sauté the drained nopales for 3–4 minutes until hot and any surface liquid evaporates. Warm the mashed pinto beans separately. Check that the cheese is made without animal rennet. Chop the white onion and coriander finely.",
+    "Heat a heavy griddle over medium heat and cook each masa oval for 5–6 minutes per side until browned in spots and cooked through. Brush the bases with 15 ml oil in total and return them to the griddle for another 1 minute per side to make the outside lightly crisp while the centre stays tender.",
+    "Heat the remaining 10 ml oil in a pan and sauté the drained nopales for 3–4 minutes until hot and any surface liquid evaporates. Warm the mashed pinto beans separately. Check that the cheese is made with vegetarian coagulants. Chop the white onion and coriander finely.",
     "Spread about 90 g warm mashed beans over each hot long oval, leaving a visible border. Divide the cooked nopales, thick red salsa, crumbled vegetarian cheese, onion, coriander and crema among the four. Serve immediately, one huarache per person, while the masa remains warm and sturdy enough to hold the toppings."
   ],
-  "tips": ["Use already cooked, drained nopales; raw cactus needs cleaning and a separate cooking step. The reviewed photo shows two unusually long, narrow corn bases under beans, green nopales, red salsa, white cheese and crema, visually distinct from round sopes and small chalupas."],
+  "tips": [
+    "Use already cooked, drained nopales; raw cactus needs cleaning and a separate cooking step. The reviewed photo shows two unusually long, narrow corn bases under beans, green nopales, red salsa, white cheese and crema, visually distinct from round sopes and small chalupas."
+  ],
   "translations": {
     "hi": {
       "name": "बीन और नोपालेस हुआराचेस",
-      "ingredients": ["मासा हारिना (क्षार से संसाधित मक्के का आटा)", "गुनगुना पानी", "बारीक नमक", "पके पिंटो बीन्स, गाढ़े मसले हुए", "पकी नोपालेस कैक्टस की पट्टियाँ, पानी निकाली हुई", "गाढ़ा लाल टमाटर साल्सा", "पशु रेननेट रहित शाकाहारी ताज़ा सफेद चीज़", "सफेद प्याज़, बारीक कटा", "ताज़ी धनिया पत्ती", "सॉर क्रीम या शाकाहारी क्रेमा", "हल्का स्वाद वाला तेल"],
+      "ingredients": [
+        "मासा हारिना (क्षार से संसाधित मक्के का आटा)",
+        "गुनगुना पानी",
+        "बारीक नमक",
+        "पके पिंटो बीन्स, गाढ़े मसले हुए",
+        "पकी नोपालेस कैक्टस की पट्टियाँ, पानी निकाली हुई",
+        "गाढ़ा लाल टमाटर साल्सा",
+        "पशु रेननेट रहित शाकाहारी ताज़ा सफेद चीज़",
+        "सफेद प्याज़, बारीक कटा",
+        "ताज़ी धनिया पत्ती",
+        "सॉर क्रीम या शाकाहारी क्रेमा",
+        "हल्का स्वाद वाला तेल"
+      ],
       "steps": [
         "मासा हारिना में नमक मिलाएँ, फिर धीरे-धीरे 390 मिली गुनगुना पानी गूँधें ताकि आटा नरम, जुड़ा हुआ और बड़ी दरारों से मुक्त हो। सूखा लगे तो बचा 20 मिली पानी मिलाएँ। ढककर 15 मिनट रखें। पके बीन्स को गाढ़े, फैलने योग्य पेस्ट की तरह मसलें; पकी नोपालेस का पानी अच्छी तरह निकालें ताकि सतह लिसलिसी न हो।",
         "आटे के चार बराबर भाग करें। हर भाग को प्लास्टिक या बेकिंग पेपर की दो परतों के बीच लंबा अंडाकार, लगभग 20 × 9 सेमी और 1 सेमी मोटा, फैलाएँ। दरारदार किनारे गीली उँगली से चिकने करें। चप्पल जैसी आकृति लंबी और सँकरी रखें; गोल टिक्की सोपे जैसी दिखेगी।",
@@ -39,11 +100,25 @@
         "पैन में बचा 10 मिली तेल गरम करें और पानी निकाली नोपालेस 3–4 मिनट भूनें, जब तक गरम और सतह का पानी सूख जाए। मसले पिंटो बीन्स अलग गरम करें। जाँचें कि चीज़ पशु रेननेट के बिना बना है। सफेद प्याज़ और धनिया बारीक काटें।",
         "हर गरम लंबे अंडाकार पर करीब 90 ग्राम गरम मसले बीन्स फैलाएँ, दिखाई देने वाला किनारा छोड़ें। पकी नोपालेस, गाढ़ा लाल साल्सा, चूरा शाकाहारी चीज़, प्याज़, धनिया और क्रेमा चारों में बाँटें। तुरंत परोसें, प्रति व्यक्ति एक हुआराचे, जब मक्के का आधार गरम और टॉपिंग सँभालने लायक मज़बूत हो।"
       ],
-      "tips": ["पहले से पकी, पानी निकाली नोपालेस लें; कच्चे कैक्टस को साफ़ करके अलग पकाना पड़ता है। समीक्षित तस्वीर में दो असाधारण लंबे, सँकरे मक्के के आधार हैं जिन पर बीन्स, हरी नोपालेस, लाल साल्सा, सफेद चीज़ और क्रेमा है; वे गोल सोपे और छोटी चालुपास से अलग दिखते हैं।"]
+      "tips": [
+        "पहले से पकी, पानी निकाली नोपालेस लें; कच्चे कैक्टस को साफ़ करके अलग पकाना पड़ता है। समीक्षित तस्वीर में दो असाधारण लंबे, सँकरे मक्के के आधार हैं जिन पर बीन्स, हरी नोपालेस, लाल साल्सा, सफेद चीज़ और क्रेमा है; वे गोल सोपे और छोटी चालुपास से अलग दिखते हैं।"
+      ]
     },
     "gu": {
       "name": "બીન અને નોપાલેસ હુઆરાચેસ",
-      "ingredients": ["માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)", "હૂંફાળું પાણી", "બારીક મીઠું", "રાંધેલા પિન્ટો બીન, ઘાટા છૂંદેલા", "રાંધેલી નોપાલેસ કેક્ટસની પટ્ટીઓ, પાણી નિતારેલી", "ઘાટી લાલ ટામેટાંની સાલસા", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી તાજું સફેદ ચીઝ", "સફેદ ડુંગળી, ઝીણી સમારેલી", "તાજી કોથમીર", "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા", "હળવા સ્વાદનું તેલ"],
+      "ingredients": [
+        "માસા હારિના (ક્ષારથી પ્રક્રિયા કરેલો મકાઈનો લોટ)",
+        "હૂંફાળું પાણી",
+        "બારીક મીઠું",
+        "રાંધેલા પિન્ટો બીન, ઘાટા છૂંદેલા",
+        "રાંધેલી નોપાલેસ કેક્ટસની પટ્ટીઓ, પાણી નિતારેલી",
+        "ઘાટી લાલ ટામેટાંની સાલસા",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી તાજું સફેદ ચીઝ",
+        "સફેદ ડુંગળી, ઝીણી સમારેલી",
+        "તાજી કોથમીર",
+        "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા",
+        "હળવા સ્વાદનું તેલ"
+      ],
       "steps": [
         "માસા હારિનામાં મીઠું ભેળવો, પછી ધીમે ધીમે 390 મિલી હૂંફાળું પાણી મસળી નરમ, ભેગો અને મોટી તિરાડ વગરનો લોટ બનાવો. સૂકો લાગે તો બાકીનું 20 મિલી પાણી ઉમેરો. ઢાંકી 15 મિનિટ રાખો. રાંધેલા બીનને ઘાટું ફેલાવી શકાય એવું છૂંદો; રાંધેલી નોપાલેસનું પાણી સારી રીતે નિતારો જેથી સપાટી ચીકણી ન રહે.",
         "લોટના ચાર સરખા ભાગ કરો. દરેકને પ્લાસ્ટિક અથવા બેકિંગ પેપરનાં બે પડ વચ્ચે લાંબો લંબગોળ, આશરે 20 × 9 સેમી અને 1 સેમી જાડો, બનાવો. તિરાડવાળી ધાર ભીની આંગળીથી સરખી કરો. ચંપલ જેવો આકાર લાંબો અને સાંકડો રાખો; ગોળ રોટલી સોપે જેવી દેખાશે.",
@@ -51,8 +126,15 @@
         "કડાઈમાં બાકીનું 10 મિલી તેલ ગરમ કરી નિતારેલી નોપાલેસ 3–4 મિનિટ સાંતળો જેથી ગરમ થાય અને સપાટીનું પાણી બળી જાય. છૂંદેલા પિન્ટો બીન અલગ ગરમ કરો. ચીઝ પ્રાણીજન્ય રેનેટ વગર બન્યું છે તે તપાસો. સફેદ ડુંગળી અને કોથમીર ઝીણી સમારો.",
         "દરેક ગરમ લાંબા લંબગોળ પર આશરે 90 ગ્રામ ગરમ છૂંદેલા બીન લગાવો, દેખાય એવી ધાર રાખો. રાંધેલી નોપાલેસ, ઘાટી લાલ સાલસા, ભૂકો કરેલું શાકાહારી ચીઝ, ડુંગળી, કોથમીર અને ક્રેમા ચારેયમાં વહેંચો. તરત પીરસો, દરેકને એક હુઆરાચે, જ્યારે મકાઈનો પાયો ગરમ અને ટોપિંગ ધારણ કરી શકે એટલો મજબૂત હોય."
       ],
-      "tips": ["અગાઉથી રાંધેલી, પાણી નિતારેલી નોપાલેસ લો; કાચા કેક્ટસને સાફ કરીને અલગ રાંધવું પડે. તપાસેલા ફોટામાં બે અસામાન્ય લાંબા, સાંકડા મકાઈના પાયા છે જેના પર બીન, લીલી નોપાલેસ, લાલ સાલસા, સફેદ ચીઝ અને ક્રેમા છે; તે ગોળ સોપે અને નાની ચાલુપાસથી અલગ દેખાય છે."]
+      "tips": [
+        "અગાઉથી રાંધેલી, પાણી નિતારેલી નોપાલેસ લો; કાચા કેક્ટસને સાફ કરીને અલગ રાંધવું પડે. તપાસેલા ફોટામાં બે અસામાન્ય લાંબા, સાંકડા મકાઈના પાયા છે જેના પર બીન, લીલી નોપાલેસ, લાલ સાલસા, સફેદ ચીઝ અને ક્રેમા છે; તે ગોળ સોપે અને નાની ચાલુપાસથી અલગ દેખાય છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.epicurious.com/recipes/food/views/huaraches-de-nopal-decolonize-your-diet", "use": "Huarache's elongated sandal form and vegetarian bean-cactus-cheese composition; masa quantities, method and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://www.epicurious.com/recipes/food/views/huaraches-de-nopal-decolonize-your-diet",
+    "use": "Huarache's elongated sandal form and vegetarian bean-cactus-cheese composition; masa quantities, method and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/huaraches.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

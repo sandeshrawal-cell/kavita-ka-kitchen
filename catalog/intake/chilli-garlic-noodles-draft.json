@@ -1,40 +1,116 @@
 {
   "sourceReviewId": "R0140",
   "id": "chilli-garlic-noodles",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Chilli Garlic Noodles",
   "cuisine": "Indo-Chinese",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 30,
   "ingredients": [
-    {"name": "eggless dry Hakka noodles", "qty": 360, "unit": "g"},
-    {"name": "water", "qty": 2200, "unit": "ml"},
-    {"name": "neutral oil", "qty": 35, "unit": "ml"},
-    {"name": "garlic", "qty": 35, "unit": "g"},
-    {"name": "red chilli flakes", "qty": 7, "unit": "g"},
-    {"name": "carrot", "qty": 100, "unit": "g"},
-    {"name": "green bell pepper", "qty": 100, "unit": "g"},
-    {"name": "red bell pepper", "qty": 100, "unit": "g"},
-    {"name": "spring onions", "qty": 70, "unit": "g"},
-    {"name": "light soy sauce", "qty": 25, "unit": "ml"},
-    {"name": "vegetarian red chilli sauce", "qty": 25, "unit": "ml"},
-    {"name": "rice vinegar", "qty": 10, "unit": "ml"},
-    {"name": "toasted sesame seeds", "qty": 8, "unit": "g"},
-    {"name": "salt", "qty": 8, "unit": "g"}
+    {
+      "name": "eggless dry Hakka noodles",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2200,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli flakes",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian red chilli sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check that the dry Hakka noodles contain no egg. Bring 2200 ml water with 6 g salt to a full boil. Cook the noodles according to their packet until just tender, usually 4–6 minutes; stir once or twice to separate them. Drain immediately, rinse briefly with cool water to halt cooking, and toss with 5 ml of the oil so the strands stay separate.",
+    "Check that the dry Hakka noodles contain eggless. Bring 2200 ml water with 6 g salt to a full boil. Cook the noodles according to their packet until just tender, usually 4–6 minutes; stir once or twice to separate them. Drain immediately, rinse briefly with cool water to halt cooking, and toss with 5 ml of the oil so the strands stay separate.",
     "Finely mince the garlic. Slice carrot and both bell peppers into thin matchsticks. Separate the spring onion whites from the greens; thinly slice both. Mix the soy sauce, vegetarian red chilli sauce and vinegar in a small bowl so they can go into the wok together.",
     "Heat the remaining 30 ml oil in a large wok or wide pan over medium-high heat. Add garlic and spring onion whites and stir-fry for 30–40 seconds until fragrant but not dark. Add chilli flakes for 10 seconds, then add carrot and both peppers. Stir-fry for 2–3 minutes, keeping the vegetables slightly crisp.",
     "Pour in the mixed sauces and toss for 20 seconds. Add the drained noodles, lift and toss for 1–2 minutes so the sauce and garlic coat every strand and the noodles are hot. Taste before adding the remaining 2 g salt because soy sauce varies in saltiness. If the pan is too dry, add 15–30 ml hot water, not extra sauce.",
     "Turn off the heat. Fold in the spring onion greens, scatter toasted sesame seeds over the noodles and divide into four bowls. Serve at once while the noodles remain springy and the vegetables retain their colour."
   ],
-  "tips": ["The reviewed image shows glossy separated noodles with browned minced garlic, red and green pepper strips, carrot, spring onion and sesame. This is a dry stir-fried dish, not a gravy noodle bowl. Check the chilli sauce and noodles are vegetarian and eggless."],
+  "tips": [
+    "The reviewed image shows glossy separated noodles with browned minced garlic, red and green pepper strips, carrot, spring onion and sesame. This is a dry stir-fried dish, not a gravy noodle bowl. Check the chilli sauce and noodles are vegetarian and eggless."
+  ],
   "translations": {
     "hi": {
       "name": "चिली गार्लिक नूडल्स",
-      "ingredients": ["बिना अंडे के सूखे हक्का नूडल्स", "पानी", "साधारण तेल", "लहसुन", "लाल मिर्च के फ्लेक्स", "गाजर", "हरी शिमला मिर्च", "लाल शिमला मिर्च", "हरा प्याज़", "हल्की सोया सॉस", "शाकाहारी लाल चिली सॉस", "चावल का सिरका", "भुने तिल", "नमक"],
+      "ingredients": [
+        "बिना अंडे के सूखे हक्का नूडल्स",
+        "पानी",
+        "साधारण तेल",
+        "लहसुन",
+        "लाल मिर्च के फ्लेक्स",
+        "गाजर",
+        "हरी शिमला मिर्च",
+        "लाल शिमला मिर्च",
+        "हरा प्याज़",
+        "हल्की सोया सॉस",
+        "शाकाहारी लाल चिली सॉस",
+        "चावल का सिरका",
+        "भुने तिल",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि सूखे हक्का नूडल्स में अंडा न हो। 2200 मिली पानी में 6 ग्राम नमक डालकर तेज़ उबालें। पैकेट के अनुसार नूडल्स बस नरम होने तक, आमतौर पर 4–6 मिनट, पकाएँ; तार अलग करने के लिए एक-दो बार चलाएँ। तुरंत छानें, पकना रोकने के लिए थोड़ा ठंडा पानी डालें और 5 मिली तेल से मिलाएँ ताकि तार अलग रहें।",
         "लहसुन बारीक काटें। गाजर और दोनों रंग की शिमला मिर्च पतली लंबी काटें। हरे प्याज़ का सफेद और हरा भाग अलग करके दोनों पतले काटें। सोया सॉस, शाकाहारी लाल चिली सॉस और सिरका छोटी कटोरी में मिलाएँ ताकि एक साथ कड़ाही में डाल सकें।",
@@ -42,11 +118,28 @@
         "मिली हुई सॉस डालकर 20 सेकंड चलाएँ। छाने नूडल्स डालकर 1–2 मिनट उठाकर पलटें ताकि हर तार पर सॉस और लहसुन लगे और नूडल्स गरम हों। बचा 2 ग्राम नमक डालने से पहले चखें क्योंकि सोया सॉस की नमकीनता बदलती है। पैन बहुत सूखा हो तो 15–30 मिली गरम पानी डालें, अतिरिक्त सॉस नहीं।",
         "आँच बंद करें। हरे प्याज़ की पत्तियाँ मिलाएँ, ऊपर भुने तिल छिड़कें और चार कटोरियों में बाँटें। नूडल्स लचीले और सब्ज़ियाँ रंगीन रहें तभी तुरंत परोसें।"
       ],
-      "tips": ["समीक्षित तस्वीर में अलग-अलग चमकदार नूडल्स, भूना बारीक लहसुन, लाल-हरी शिमला मिर्च, गाजर, हरा प्याज़ और तिल हैं। यह सूखी भुनी डिश है, ग्रेवी वाले नूडल्स नहीं। चिली सॉस और नूडल्स शाकाहारी और बिना अंडे के हों।"]
+      "tips": [
+        "समीक्षित तस्वीर में अलग-अलग चमकदार नूडल्स, भूना बारीक लहसुन, लाल-हरी शिमला मिर्च, गाजर, हरा प्याज़ और तिल हैं। यह सूखी भुनी डिश है, ग्रेवी वाले नूडल्स नहीं। चिली सॉस और नूडल्स शाकाहारी और बिना अंडे के हों।"
+      ]
     },
     "gu": {
       "name": "ચિલી ગાર્લિક નૂડલ્સ",
-      "ingredients": ["ઇંડા વગરના સૂકા હક્કા નૂડલ્સ", "પાણી", "સાદું તેલ", "લસણ", "લાલ મરચાંના ફ્લેક્સ", "ગાજર", "લીલું શિમલા મરચું", "લાલ શિમલા મરચું", "લીલી ડુંગળી", "હળવી સોયા સોસ", "શાકાહારી લાલ ચિલી સોસ", "ચોખાનો સરકો", "શેકેલા તલ", "મીઠું"],
+      "ingredients": [
+        "ઇંડા વગરના સૂકા હક્કા નૂડલ્સ",
+        "પાણી",
+        "સાદું તેલ",
+        "લસણ",
+        "લાલ મરચાંના ફ્લેક્સ",
+        "ગાજર",
+        "લીલું શિમલા મરચું",
+        "લાલ શિમલા મરચું",
+        "લીલી ડુંગળી",
+        "હળવી સોયા સોસ",
+        "શાકાહારી લાલ ચિલી સોસ",
+        "ચોખાનો સરકો",
+        "શેકેલા તલ",
+        "મીઠું"
+      ],
       "steps": [
         "સૂકા હક્કા નૂડલ્સમાં ઇંડું ન હોય તે તપાસો. 2200 મિલી પાણીમાં 6 ગ્રામ મીઠું નાખી જોરથી ઉકાળો. પેકેટ પ્રમાણે નૂડલ્સ માત્ર નરમ થાય ત્યાં સુધી, સામાન્ય રીતે 4–6 મિનિટ, રાંધો; તાર છૂટા પડે એમ એક-બે વાર હલાવો. તરત નિતારી રાંધવાનું અટકાવવા સહેજ ઠંડું પાણી ફેરવો અને 5 મિલી તેલ ભેળવો જેથી તાર છૂટા રહે.",
         "લસણ બારીક સમારો. ગાજર અને બંને રંગના શિમલા મરચાં પાતળાં લાંબાં કાપો. લીલી ડુંગળીના સફેદ અને લીલા ભાગ અલગ કરી બંને પાતળાં સમારો. સોયા સોસ, શાકાહારી લાલ ચિલી સોસ અને સરકો નાની વાટકીમાં ભેળવો જેથી એકસાથે કડાઈમાં નાખી શકાય.",
@@ -54,8 +147,15 @@
         "મિશ્રિત સોસ નાખી 20 સેકંડ ઉછાળો. નિતારેલા નૂડલ્સ નાખી 1–2 મિનિટ ઊંચકી હલાવો જેથી દરેક તાર પર સોસ અને લસણ ચડે અને નૂડલ્સ ગરમ થાય. બાકીનું 2 ગ્રામ મીઠું નાખતાં પહેલાં ચાખો કારણ કે સોયા સોસનું ખારાપણું બદલાય છે. કડાઈ બહુ સૂકી હોય તો 15–30 મિલી ગરમ પાણી નાખો, વધારાની સોસ નહીં.",
         "તાપ બંધ કરો. લીલી ડુંગળીનો લીલો ભાગ ભેળવો, ઉપર શેકેલા તલ છાંટો અને ચાર વાટકામાં વહેંચો. નૂડલ્સ લચીલા અને શાક રંગીન રહે ત્યારે તરત પીરસો."
       ],
-      "tips": ["તપાસેલા ફોટામાં છૂટા ચમકતા નૂડલ્સ, શેકેલું બારીક લસણ, લાલ-લીલાં શિમલા મરચાં, ગાજર, લીલી ડુંગળી અને તલ છે. આ સૂકી સાંતળેલી વાનગી છે, ગ્રેવીવાળા નૂડલ્સ નથી. ચિલી સોસ અને નૂડલ્સ શાકાહારી તથા ઇંડા વગરના હોય તે તપાસો."]
+      "tips": [
+        "તપાસેલા ફોટામાં છૂટા ચમકતા નૂડલ્સ, શેકેલું બારીક લસણ, લાલ-લીલાં શિમલા મરચાં, ગાજર, લીલી ડુંગળી અને તલ છે. આ સૂકી સાંતળેલી વાનગી છે, ગ્રેવીવાળા નૂડલ્સ નથી. ચિલી સોસ અને નૂડલ્સ શાકાહારી તથા ઇંડા વગરના હોય તે તપાસો."
+      ]
     }
   },
-  "reference": {"url": "https://www.vegrecipesofindia.com/chilli-garlic-noodles-recipe/", "use": "Vegetarian chilli-garlic noodle technique and flavour profile; measurements and wording independently authored for the reviewed dish photo."}
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chilli-garlic-noodles-recipe/",
+    "use": "Vegetarian chilli-garlic noodle technique and flavour profile; measurements and wording independently authored for the reviewed dish photo."
+  },
+  "photoDraft": "catalog/intake/photos/chilli-garlic-noodles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

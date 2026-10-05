@@ -1,49 +1,168 @@
 {
-  "sourceReviewId":"R0186","id":"general-tso-s-tofu","status":"draft-photo-and-translation-reviewed","name":"General Tso's Tofu","cuisine":"Chinese-American","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
-  "ingredients":[
-    {"name":"extra-firm tofu, pressed and cubed","qty":600,"unit":"g"},
-    {"name":"cornflour (cornstarch) for coating","qty":55,"unit":"g"},
-    {"name":"broccoli florets","qty":320,"unit":"g"},
-    {"name":"light soy sauce","qty":55,"unit":"ml"},
-    {"name":"rice vinegar","qty":45,"unit":"ml"},
-    {"name":"brown sugar","qty":45,"unit":"g"},
-    {"name":"tomato ketchup","qty":35,"unit":"g"},
-    {"name":"garlic, minced","qty":20,"unit":"g"},
-    {"name":"ginger, minced","qty":18,"unit":"g"},
-    {"name":"dried red chilies","qty":8,"unit":"g"},
-    {"name":"neutral oil","qty":55,"unit":"ml"},
-    {"name":"water","qty":150,"unit":"ml"},
-    {"name":"cornflour (cornstarch) for sauce","qty":12,"unit":"g"},
-    {"name":"spring onion, sliced","qty":60,"unit":"g"},
-    {"name":"toasted sesame seeds","qty":10,"unit":"g"}
+  "sourceReviewId": "R0186",
+  "id": "general-tso-s-tofu",
+  "status": "published-second-100-intake-batch",
+  "name": "General Tso's Tofu",
+  "cuisine": "Chinese-American",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed and cubed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour (cornstarch) for coating",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "broccoli florets",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour (cornstarch) for sauce",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion, sliced",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
     "Press extra-firm tofu for 20 minutes, then cut into even bite-sized cubes and pat dry. Toss with the 55 g cornflour until each piece has a thin coating. Steam broccoli florets for 3–4 minutes until bright green and just tender; keep warm.",
     "Whisk soy sauce, rice vinegar, brown sugar, ketchup and 120 ml of the measured water. In a separate cup, dissolve the 12 g sauce cornflour in the remaining 30 ml cold water. Keep both mixtures ready before frying.",
     "Heat 40 ml oil in a wide non-stick pan. Fry tofu in one layer over medium-high heat for 3–4 minutes per side until crisp and golden; work in batches if needed. Transfer to a rack or plate.",
     "Add remaining 15 ml oil to the pan. Fry garlic, ginger and dried red chilies for 30 seconds without burning. Pour in the soy-vinegar mixture, simmer 2 minutes, then stir in the cornflour slurry and cook another 1–2 minutes until glossy and thick enough to coat a spoon.",
     "Add the crisp tofu and toss briefly so every cube is coated while some crispness remains. Divide among four plates with the steamed broccoli. Scatter spring onion and sesame seeds on top and serve immediately."
   ],
-  "tips":["Add tofu to the thickened sauce only at the end so it stays crisp. The reviewed photograph shows porous tofu cubes in deep red-brown glaze with dried chilies, scallions, sesame and broccoli."],
-  "translations":{
-    "hi":{"name":"जनरल त्सो टोफू","ingredients":["एक्स्ट्रा-फर्म टोफू, दबाकर चौकोर कटा","कोटिंग के लिए कॉर्नफ्लोर","ब्रोकली के फूल","हल्का सोया सॉस","राइस विनेगर","ब्राउन शुगर","टमाटर केचप","लहसुन, बारीक कटा","अदरक, बारीक कटा","सूखी लाल मिर्च","हल्का स्वाद वाला तेल","पानी","सॉस के लिए कॉर्नफ्लोर","हरा प्याज़, कटा","भुने तिल"],
-      "steps":[
+  "tips": [
+    "Add tofu to the thickened sauce only at the end so it stays crisp. The reviewed photograph shows porous tofu cubes in deep red-brown glaze with dried chilies, scallions, sesame and broccoli."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जनरल त्सो टोफू",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर चौकोर कटा",
+        "कोटिंग के लिए कॉर्नफ्लोर",
+        "ब्रोकली के फूल",
+        "हल्का सोया सॉस",
+        "राइस विनेगर",
+        "ब्राउन शुगर",
+        "टमाटर केचप",
+        "लहसुन, बारीक कटा",
+        "अदरक, बारीक कटा",
+        "सूखी लाल मिर्च",
+        "हल्का स्वाद वाला तेल",
+        "पानी",
+        "सॉस के लिए कॉर्नफ्लोर",
+        "हरा प्याज़, कटा",
+        "भुने तिल"
+      ],
+      "steps": [
         "एक्स्ट्रा-फर्म टोफू 20 मिनट दबाएँ, फिर समान छोटे चौकोर टुकड़े करके सुखाएँ। 55 ग्राम कॉर्नफ्लोर में उलटें ताकि हर टुकड़े पर पतली परत हो। ब्रोकली के फूल 3–4 मिनट भाप में चमकीले हरे और बस नरम होने तक पकाकर गरम रखें।",
         "सोया सॉस, राइस विनेगर, ब्राउन शुगर, केचप और नापे पानी में से 120 मिली फेंटें। अलग कप में सॉस वाला 12 ग्राम कॉर्नफ्लोर बचे 30 मिली ठंडे पानी में घोलें। तलने से पहले दोनों मिश्रण तैयार रखें।",
         "चौड़े नॉन-स्टिक पैन में 40 मिली तेल गरम करें। टोफू एक परत में मध्यम-तेज़ आँच पर हर तरफ़ 3–4 मिनट कुरकुरा-सुनहरा तलें; ज़रूरत हो तो बैच में करें। जाली या प्लेट पर निकालें।",
         "पैन में बचा 15 मिली तेल डालें। लहसुन, अदरक और सूखी लाल मिर्च बिना जलाए 30 सेकंड भूनें। सोया-विनेगर मिश्रण डालकर 2 मिनट उबालें, फिर कॉर्नफ्लोर घोल मिलाकर 1–2 मिनट चमकदार और चम्मच पर चढ़ने लायक गाढ़ा करें।",
         "कुरकुरा टोफू डालकर जल्दी मिलाएँ ताकि हर टुकड़े पर सॉस चढ़े और कुछ कुरकुरापन रहे। भाप वाली ब्रोकली के साथ चार प्लेटों में बाँटें। ऊपर हरा प्याज़ और तिल छिड़ककर तुरंत परोसें।"
       ],
-      "tips":["टोफू को गाढ़े सॉस में अंत में डालें ताकि कुरकुरा रहे। समीक्षित तस्वीर में छिद्रदार टोफू के टुकड़े गहरे लाल-भूरे सॉस, सूखी मिर्च, हरे प्याज़, तिल और ब्रोकली के साथ हैं।"]},
-    "gu":{"name":"જનરલ ત્સો ટોફુ","ingredients":["ઘણું મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","કોટિંગ માટે કોર્નફ્લોર","બ્રોકલીનાં ફૂલ","હળવો સોયા સોસ","રાઇસ વિનેગર","બ્રાઉન સુગર","ટમેટાંનો કેચપ","લસણ, ઝીણું સમારેલું","આદુ, ઝીણું સમારેલું","સૂકાં લાલ મરચાં","હળવા સ્વાદનું તેલ","પાણી","સોસ માટે કોર્નફ્લોર","લીલી ડુંગળી, સમારેલી","શેકેલા તલ"],
-      "steps":[
+      "tips": [
+        "टोफू को गाढ़े सॉस में अंत में डालें ताकि कुरकुरा रहे। समीक्षित तस्वीर में छिद्रदार टोफू के टुकड़े गहरे लाल-भूरे सॉस, सूखी मिर्च, हरे प्याज़, तिल और ब्रोकली के साथ हैं।"
+      ]
+    },
+    "gu": {
+      "name": "જનરલ ત્સો ટોફુ",
+      "ingredients": [
+        "ઘણું મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું",
+        "કોટિંગ માટે કોર્નફ્લોર",
+        "બ્રોકલીનાં ફૂલ",
+        "હળવો સોયા સોસ",
+        "રાઇસ વિનેગર",
+        "બ્રાઉન સુગર",
+        "ટમેટાંનો કેચપ",
+        "લસણ, ઝીણું સમારેલું",
+        "આદુ, ઝીણું સમારેલું",
+        "સૂકાં લાલ મરચાં",
+        "હળવા સ્વાદનું તેલ",
+        "પાણી",
+        "સોસ માટે કોર્નફ્લોર",
+        "લીલી ડુંગળી, સમારેલી",
+        "શેકેલા તલ"
+      ],
+      "steps": [
         "ઘણું મજબૂત ટોફુ 20 મિનિટ દબાવો, પછી સરખા નાના ચોરસ ટુકડા કરી સૂકવો. 55 ગ્રામ કોર્નફ્લોરમાં હળવેથી ફેરવો જેથી દરેક પર પાતળું પડ હોય. બ્રોકલીનાં ફૂલ 3–4 મિનિટ વરાળે ચમકતા લીલા અને માત્ર નરમ થાય ત્યાં સુધી રાંધી ગરમ રાખો.",
         "સોયા સોસ, રાઇસ વિનેગર, બ્રાઉન સુગર, કેચપ અને માપેલા પાણીમાંથી 120 મિલી ફેંટો. અલગ કપમાં સોસ માટેનો 12 ગ્રામ કોર્નફ્લોર બાકી 30 મિલી ઠંડા પાણીમાં ઓગાળો. તળતા પહેલાં બંને મિશ્રણ તૈયાર રાખો.",
         "પહોળી નોન-સ્ટિક કડાઈમાં 40 મિલી તેલ ગરમ કરો. ટોફુને એક પડમાં મધ્યમથી વધુ તાપે દરેક બાજુ 3–4 મિનિટ કરકરું સોનેરી તળો; જરૂરી હોય તો થોડું થોડું કરો. જાળી કે પ્લેટમાં કાઢો.",
         "કડાઈમાં બાકી 15 મિલી તેલ નાખો. લસણ, આદુ અને સૂકાં લાલ મરચાં ન બળે તેમ 30 સેકન્ડ શેકો. સોયા-વિનેગર મિશ્રણ નાખી 2 મિનિટ ઉકાળો, પછી કોર્નફ્લોરનું પાણી ભેળવી 1–2 મિનિટ ચમકદાર અને ચમચા પર ચડે એટલું ઘટ્ટ કરો.",
         "કરકરું ટોફુ નાખી ઝડપથી ભેળવો જેથી દરેક ટુકડા પર સોસ ચડે અને થોડો કરકરોપણો રહે. વરાળે રાંધેલી બ્રોકલી સાથે ચાર પ્લેટમાં વહેંચો. ઉપર લીલી ડુંગળી અને તલ છાંટી તરત પીરસો."
       ],
-      "tips":["ટોફુને ઘટ્ટ સોસમાં છેક છેલ્લે નાખો જેથી કરકરું રહે. તપાસેલા ફોટામાં છિદ્રાળુ ટોફુના ટુકડા ઘેરા લાલ-બદામી સોસ, સૂકાં મરચાં, લીલી ડુંગળી, તલ અને બ્રોકલી સાથે છે."]}
+      "tips": [
+        "ટોફુને ઘટ્ટ સોસમાં છેક છેલ્લે નાખો જેથી કરકરું રહે. તપાસેલા ફોટામાં છિદ્રાળુ ટોફુના ટુકડા ઘેરા લાલ-બદામી સોસ, સૂકાં મરચાં, લીલી ડુંગળી, તલ અને બ્રોકલી સાથે છે."
+      ]
+    }
   },
-  "reference":{"url":"https://thewoksoflife.com/general-tsos-tofu/","use":"General Tso tofu crisping and sweet-spicy sauce profile; quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://thewoksoflife.com/general-tsos-tofu/",
+    "use": "General Tso tofu crisping and sweet-spicy sauce profile; quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/general-tso-s-tofu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

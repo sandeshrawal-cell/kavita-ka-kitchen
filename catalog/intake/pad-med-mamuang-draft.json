@@ -1,44 +1,130 @@
 {
   "sourceReviewId": "R0132",
   "id": "pad-med-mamuang",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pad Med Mamuang",
   "cuisine": "Thai",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 45,
   "passiveTime": "10 minutes rice resting",
   "ingredients": [
-    {"name": "jasmine rice", "qty": 280, "unit": "g"},
-    {"name": "water", "qty": 500, "unit": "ml"},
-    {"name": "firm tofu", "qty": 400, "unit": "g"},
-    {"name": "plain cashews", "qty": 130, "unit": "g"},
-    {"name": "onion", "qty": 180, "unit": "g"},
-    {"name": "red bell pepper", "qty": 150, "unit": "g"},
-    {"name": "green bell pepper", "qty": 150, "unit": "g"},
-    {"name": "spring onion", "qty": 70, "unit": "g"},
-    {"name": "dried red chillies", "qty": 8, "unit": "g"},
-    {"name": "garlic", "qty": 16, "unit": "g"},
-    {"name": "neutral oil", "qty": 45, "unit": "ml"},
-    {"name": "light soy sauce", "qty": 35, "unit": "ml"},
-    {"name": "vegetarian mushroom stir-fry sauce", "qty": 25, "unit": "g"},
-    {"name": "rice vinegar", "qty": 15, "unit": "ml"},
-    {"name": "sugar", "qty": 15, "unit": "g"},
-    {"name": "cornstarch", "qty": 10, "unit": "g"}
+    {
+      "name": "jasmine rice",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "plain cashews",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian mushroom stir-fry sauce",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 10,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Rinse the jasmine rice until the water runs almost clear. Put it in a covered saucepan with 420 ml of the measured water, bring to a boil, then cook on the lowest heat for 12 minutes. Turn off the heat and rest covered for 10 minutes; fluff with a fork. While it cooks, pat the tofu dry and cut into 2 cm cubes. Cut onion and bell peppers into bite-size pieces, spring onion into short lengths, and mince the garlic.",
-    "Whisk soy sauce, vegetarian mushroom sauce, rice vinegar, sugar, cornstarch and the remaining 80 ml water into a smooth sauce. Check the mushroom sauce contains no oyster or fish. Toast cashews in a dry pan over medium heat for 3–4 minutes until lightly golden, stirring so they do not burn; tip them onto a plate.",
+    "Whisk soy sauce, vegetarian mushroom sauce, rice vinegar, sugar, cornstarch and the remaining 80 ml water into a smooth sauce. Check the mushroom sauce contains no oyster or animal-derived ingredients. Toast cashews in a dry pan over medium heat for 3–4 minutes until lightly golden, stirring so they do not burn; tip them onto a plate.",
     "Heat 25 ml neutral oil in a wide wok or pan over medium-high heat. Lay the tofu cubes in one layer and leave them for 2–3 minutes until golden beneath, then turn and brown the other sides for another 3 minutes. Remove the tofu; cook in batches if needed so it browns rather than steams.",
     "Add the remaining 20 ml oil. Fry the whole dried chillies for 20 seconds, then add onion and both peppers and stir-fry for 3–4 minutes until crisp-tender. Add garlic and the pale spring-onion pieces for the final 30 seconds. Stir the prepared sauce again to lift settled cornstarch, pour into the pan and simmer for 1 minute until glossy.",
     "Return the tofu to the pan and toss gently so it is coated and hot. Fold in toasted cashews and the green spring-onion pieces just before serving so the nuts stay crisp. Divide the stir-fry among four plates with the fluffy jasmine rice alongside. Leave whole chillies aside while eating if a milder dish is preferred."
   ],
-  "tips": ["Pad Med Mamuang is a cashew stir-fry; this photographed vegetarian version replaces the usual chicken with distinct tofu cubes. Cashews are a major allergen. Use a vegetarian mushroom sauce rather than oyster sauce and avoid Thai chilli pastes that contain shrimp."],
+  "tips": [
+    "Pad Med Mamuang is a cashew stir-fry; this photographed vegetarian version replaces the usual chicken with distinct tofu cubes. Cashews are a major allergen. Use a vegetarian mushroom sauce rather than oyster sauce and avoid Thai chilli pastes that contain shrimp."
+  ],
   "translations": {
     "hi": {
       "name": "पद मेड ममुआंग",
       "passiveTime": "चावल ढककर रखने के लिए 10 मिनट",
-      "ingredients": ["जैस्मिन चावल", "पानी", "सख़्त टोफ़ू", "सादे काजू", "प्याज़", "लाल शिमला मिर्च", "हरी शिमला मिर्च", "हरा प्याज़", "सूखी लाल मिर्च", "लहसुन", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "शाकाहारी मशरूम स्टिर-फ्राई सॉस", "चावल का सिरका", "चीनी", "कॉर्नस्टार्च"],
+      "ingredients": [
+        "जैस्मिन चावल",
+        "पानी",
+        "सख़्त टोफ़ू",
+        "सादे काजू",
+        "प्याज़",
+        "लाल शिमला मिर्च",
+        "हरी शिमला मिर्च",
+        "हरा प्याज़",
+        "सूखी लाल मिर्च",
+        "लहसुन",
+        "बिना तेज़ स्वाद वाला तेल",
+        "हल्का सोया सॉस",
+        "शाकाहारी मशरूम स्टिर-फ्राई सॉस",
+        "चावल का सिरका",
+        "चीनी",
+        "कॉर्नस्टार्च"
+      ],
       "steps": [
         "जैस्मिन चावल तब तक धोएँ जब तक पानी लगभग साफ़ न हो। ढक्कन वाले बर्तन में चावल और नापे पानी में से 420 मिली डालें, उबालें, फिर सबसे धीमी आँच पर 12 मिनट पकाएँ। आँच बंद करके 10 मिनट ढककर रखें और काँटे से फुलाएँ। इस बीच टोफ़ू सुखाकर 2 सेमी टुकड़े करें। प्याज़ और दोनों शिमला मिर्च खाने लायक, हरा प्याज़ छोटे टुकड़ों में और लहसुन बारीक काटें।",
         "सोया सॉस, शाकाहारी मशरूम सॉस, चावल का सिरका, चीनी, कॉर्नस्टार्च और बचा 80 मिली पानी फेंटकर चिकनी सॉस बनाएँ। जाँचें कि मशरूम सॉस में ऑयस्टर या मछली न हो। काजू सूखे पैन में मध्यम आँच पर 3–4 मिनट हल्के सुनहरे होने तक चलाते हुए भूनें ताकि जलें नहीं; प्लेट में निकालें।",
@@ -46,12 +132,31 @@
         "बचा 20 मिली तेल डालें। साबुत सूखी मिर्च 20 सेकंड भूनें, फिर प्याज़ और दोनों शिमला मिर्च 3–4 मिनट हल्के कुरकुरे रहने तक भूनें। आखिरी 30 सेकंड लहसुन और हरे प्याज़ का सफ़ेद हिस्सा डालें। नीचे बैठे कॉर्नस्टार्च को मिलाने के लिए सॉस फिर चलाकर पैन में डालें और 1 मिनट चमकदार होने तक पकाएँ।",
         "टोफ़ू वापस पैन में डालकर हल्के हाथ से मिलाएँ ताकि वह सॉस से ढककर गरम हो जाए। परोसने से ठीक पहले भुने काजू और हरे प्याज़ का हरा भाग मिलाएँ ताकि काजू कुरकुरे रहें। चार प्लेटों में स्टिर-फ्राई बाँटें और साथ में फुले जैस्मिन चावल दें। कम तीखा चाहिए तो खाते समय साबुत मिर्च अलग कर दें।"
       ],
-      "tips": ["पद मेड ममुआंग काजू की स्टिर-फ्राई है; चित्र वाले शाकाहारी रूप में सामान्य चिकन की जगह साफ़ टोफ़ू के टुकड़े हैं। काजू से गंभीर एलर्जी हो सकती है। ऑयस्टर सॉस के बजाय शाकाहारी मशरूम सॉस लें और झींगा वाली थाई मिर्च पेस्ट न लें।"]
+      "tips": [
+        "पद मेड ममुआंग काजू की स्टिर-फ्राई है; चित्र वाले शाकाहारी रूप में सामान्य चिकन की जगह साफ़ टोफ़ू के टुकड़े हैं। काजू से गंभीर एलर्जी हो सकती है। ऑयस्टर सॉस के बजाय शाकाहारी मशरूम सॉस लें और झींगा वाली थाई मिर्च पेस्ट न लें।"
+      ]
     },
     "gu": {
       "name": "પદ મેડ મમુઆંગ",
       "passiveTime": "ભાત ઢાંકી રાખવા 10 મિનિટ",
-      "ingredients": ["જેસ્મિન ચોખા", "પાણી", "મજબૂત ટોફુ", "સાદા કાજુ", "ડુંગળી", "લાલ શિમલા મરચું", "લીલું શિમલા મરચું", "લીલી ડુંગળી", "સૂકાં લાલ મરચાં", "લસણ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ", "ચોખાનો સરકો", "ખાંડ", "કોર્નસ્ટાર્ચ"],
+      "ingredients": [
+        "જેસ્મિન ચોખા",
+        "પાણી",
+        "મજબૂત ટોફુ",
+        "સાદા કાજુ",
+        "ડુંગળી",
+        "લાલ શિમલા મરચું",
+        "લીલું શિમલા મરચું",
+        "લીલી ડુંગળી",
+        "સૂકાં લાલ મરચાં",
+        "લસણ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "હળવો સોયા સોસ",
+        "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ",
+        "ચોખાનો સરકો",
+        "ખાંડ",
+        "કોર્નસ્ટાર્ચ"
+      ],
       "steps": [
         "જેસ્મિન ચોખા પાણી લગભગ ચોખ્ખું થાય ત્યાં સુધી ધોવો. ઢાંકણવાળા વાસણમાં ચોખા અને માપેલા પાણીમાંથી 420 મિલી નાખી ઉકાળો, પછી સૌથી ધીમા તાપે 12 મિનિટ રાંધો. તાપ બંધ કરી 10 મિનિટ ઢાંકી રાખી કાંટાથી ભાત ફુલાવો. આ દરમિયાન ટોફુ સૂકવી 2 સેમીના ટુકડા કરો. ડુંગળી અને બંને શિમલા મરચાં ખાવા જેવા, લીલી ડુંગળી નાના ટુકડા અને લસણ બારીક સમારો.",
         "સોયા સોસ, શાકાહારી મશરૂમ સોસ, ચોખાનો સરકો, ખાંડ, કોર્નસ્ટાર્ચ અને બાકીનું 80 મિલી પાણી ફેંટીને એકરસ સોસ બનાવો. મશરૂમ સોસમાં ઓયસ્ટર કે માછલી ન હોય તે તપાસો. કાજુ સૂકી કડાઈમાં મધ્યમ તાપે 3–4 મિનિટ હલાવતા હળવા સોનેરી થાય ત્યાં સુધી શેકી થાળીમાં કાઢો.",
@@ -59,8 +164,15 @@
         "બાકીનું 20 મિલી તેલ નાખો. આખાં સૂકાં મરચાં 20 સેકંડ શેકો, પછી ડુંગળી અને બંને શિમલા મરચાં 3–4 મિનિટ સહેજ કરકરાં રહે ત્યાં સુધી શેકો. છેલ્લી 30 સેકંડ લસણ અને લીલી ડુંગળીનો સફેદ ભાગ નાખો. નીચે બેઠેલું કોર્નસ્ટાર્ચ ભળે એમ સોસ ફરી હલાવી તવામાં રેડો અને 1 મિનિટ ચમકદાર થાય ત્યાં સુધી ઉકાળો.",
         "ટોફુ પાછું કડાઈમાં નાખી હળવેથી ભેળવો જેથી સોસ ચડે અને ગરમ થાય. પીરસતાં પહેલાં જ શેકેલા કાજુ અને લીલી ડુંગળીનો લીલો ભાગ ભેળવો જેથી કાજુ કરકરાં રહે. ચાર થાળીમાં શાક વહેંચી બાજુમાં ફૂલેલા જેસ્મિન ભાત આપો. ઓછું તીખું જોઈએ તો ખાતી વખતે આખાં મરચાં અલગ કરો."
       ],
-      "tips": ["પદ મેડ મમુઆંગ કાજુનું સ્ટિર-ફ્રાય છે; ફોટાવાળા શાકાહારી રૂપમાં સામાન્ય ચિકનને બદલે સ્પષ્ટ ટોફુના ટુકડા છે. કાજુથી ગંભીર એલર્જી થઈ શકે. ઓયસ્ટર સોસને બદલે શાકાહારી મશરૂમ સોસ લો અને ઝીંગાવાળી થાઈ મરચાંની પેસ્ટ ટાળો."]
+      "tips": [
+        "પદ મેડ મમુઆંગ કાજુનું સ્ટિર-ફ્રાય છે; ફોટાવાળા શાકાહારી રૂપમાં સામાન્ય ચિકનને બદલે સ્પષ્ટ ટોફુના ટુકડા છે. કાજુથી ગંભીર એલર્જી થઈ શકે. ઓયસ્ટર સોસને બદલે શાકાહારી મશરૂમ સોસ લો અને ઝીંગાવાળી થાઈ મરચાંની પેસ્ટ ટાળો."
+      ]
     }
   },
-  "reference": {"url": "https://foodaciously.com/recipe/vegan-thai-cashew-chicken-with-tofu", "use": "Thai cashew-tofu stir-fry composition; rice accompaniment, measurements and wording independently authored to match the reviewed photograph."}
+  "reference": {
+    "url": "https://foodaciously.com/recipe/vegan-thai-cashew-chicken-with-tofu",
+    "use": "Thai cashew-tofu stir-fry composition; rice accompaniment, measurements and wording independently authored to match the reviewed photograph."
+  },
+  "photoDraft": "catalog/intake/photos/pad-med-mamuang.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,48 +1,161 @@
 {
-  "sourceReviewId":"R0184","id":"mee-goreng","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Mee Goreng","cuisine":"Indonesian-Malaysian","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":35,
-  "ingredients":[
-    {"name":"fresh egg-free yellow wheat noodles","qty":600,"unit":"g"},
-    {"name":"firm tofu, pressed and cubed","qty":300,"unit":"g"},
-    {"name":"cabbage, shredded","qty":220,"unit":"g"},
-    {"name":"bean sprouts","qty":180,"unit":"g"},
-    {"name":"tomatoes, cut into wedges","qty":220,"unit":"g"},
-    {"name":"spring onions, sliced","qty":80,"unit":"g"},
-    {"name":"red chili, sliced","qty":20,"unit":"g"},
-    {"name":"garlic, minced","qty":18,"unit":"g"},
-    {"name":"fried shallots","qty":35,"unit":"g"},
-    {"name":"kecap manis sweet soy sauce","qty":55,"unit":"ml"},
-    {"name":"light soy sauce","qty":30,"unit":"ml"},
-    {"name":"tomato ketchup","qty":45,"unit":"g"},
-    {"name":"lime juice","qty":30,"unit":"ml"},
-    {"name":"neutral oil","qty":40,"unit":"ml"}
+  "sourceReviewId": "R0184",
+  "id": "mee-goreng",
+  "status": "published-second-100-intake-batch",
+  "name": "Vegetarian Mee Goreng",
+  "cuisine": "Indonesian-Malaysian",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
-    "Loosen the fresh egg-free yellow wheat noodles, rinsing briefly if the pack recommends it, and drain well. Whisk kecap manis, light soy sauce and ketchup together. Prepare cabbage, sprouts, tomato, scallion, red chili and garlic before heating the wok.",
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fresh eggless yellow wheat noodles",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu, pressed and cubed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, shredded",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "bean sprouts",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, cut into wedges",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, sliced",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "red chili, sliced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "fried shallots",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "kecap manis sweet soy sauce",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Loosen the fresh eggless yellow wheat noodles, rinsing briefly if the pack recommends it, and drain well. Whisk kecap manis, light soy sauce and ketchup together. Prepare cabbage, sprouts, tomato, scallion, red chili and garlic before heating the wok.",
     "Press tofu dry. Heat 15 ml oil in a wide wok over medium-high heat and sear the cubes on several sides for 5–6 minutes until golden. Remove to a plate.",
     "Heat the remaining 25 ml oil. Add garlic and red chili for 20 seconds, then cabbage for 2 minutes. Add tomato wedges and stir briefly so they hold their shape.",
     "Add noodles and prepared sweet-soy sauce. Toss over high heat for 2–3 minutes until hot, brown and lightly caramelized. Return tofu, add bean sprouts and cook 1 more minute so sprouts stay crisp.",
     "Turn off the heat and stir through lime juice. Divide into four plates, top with spring onions and crispy fried shallots, and serve immediately while the noodles are glossy."
   ],
-  "tips":["Check noodle and fried-shallot labels for egg or seafood seasoning. The reviewed photo shows dark sweet-soy wheat noodles, tofu, cabbage, sprouts, tomato, chili, scallions, fried shallots and lime."],
-  "translations":{
-    "hi":{"name":"शाकाहारी मी गोरेंग","ingredients":["ताज़े बिना अंडे के पीले गेहूँ नूडल्स","सख्त टोफू, दबाकर चौकोर कटा","पत्तागोभी, कटी","बीन स्प्राउट्स","टमाटर, फाँकों में","हरा प्याज़, कटा","लाल मिर्च, कटी","लहसुन, बारीक कटा","तले छोटे प्याज़","केचप मानिस मीठा सोया सॉस","हल्का सोया सॉस","टमाटर केचप","नींबू का रस","हल्का स्वाद वाला तेल"],
-      "steps":[
+  "tips": [
+    "Check noodle and fried-shallot labels for egg or seafood seasoning. The reviewed photo shows dark sweet-soy wheat noodles, tofu, cabbage, sprouts, tomato, chili, scallions, fried shallots and lime."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी मी गोरेंग",
+      "ingredients": [
+        "ताज़े बिना अंडे के पीले गेहूँ नूडल्स",
+        "सख्त टोफू, दबाकर चौकोर कटा",
+        "पत्तागोभी, कटी",
+        "बीन स्प्राउट्स",
+        "टमाटर, फाँकों में",
+        "हरा प्याज़, कटा",
+        "लाल मिर्च, कटी",
+        "लहसुन, बारीक कटा",
+        "तले छोटे प्याज़",
+        "केचप मानिस मीठा सोया सॉस",
+        "हल्का सोया सॉस",
+        "टमाटर केचप",
+        "नींबू का रस",
+        "हल्का स्वाद वाला तेल"
+      ],
+      "steps": [
         "ताज़े बिना अंडे के पीले गेहूँ नूडल्स अलग करें; पैक कहे तो थोड़ा धोकर अच्छी तरह छानें। केचप मानिस, हल्का सोया सॉस और टमाटर केचप फेंटें। वोक गरम करने से पहले पत्तागोभी, स्प्राउट्स, टमाटर, हरा प्याज़, लाल मिर्च और लहसुन तैयार करें।",
         "टोफू दबाकर सुखाएँ। चौड़े वोक में 15 मिली तेल मध्यम-तेज़ आँच पर गरम करें और टोफू के टुकड़े कई ओर 5–6 मिनट सुनहरे सेंकें। प्लेट में निकालें।",
         "बचा 25 मिली तेल गरम करें। लहसुन और लाल मिर्च 20 सेकंड, फिर पत्तागोभी 2 मिनट भूनें। टमाटर की फाँकें डालकर बस थोड़ा चलाएँ ताकि उनका आकार रहे।",
         "नूडल्स और तैयार मीठा सोया सॉस डालें। तेज़ आँच पर 2–3 मिनट भूनें, जब तक गरम, भूरे और हल्के कैरामेलाइज़ हों। टोफू वापस डालें, स्प्राउट्स मिलाएँ और 1 मिनट पकाएँ ताकि कुरकुरे रहें।",
         "आँच बंद करके नींबू रस मिलाएँ। चार प्लेटों में बाँटें, ऊपर हरा प्याज़ और कुरकुरे तले छोटे प्याज़ डालें, और नूडल्स चमकदार हों तब तुरंत परोसें।"
       ],
-      "tips":["नूडल्स और तले प्याज़ के पैक में अंडा या समुद्री मसाला न हो, जाँचें। समीक्षित तस्वीर में गहरे मीठे-सोया गेहूँ नूडल्स, टोफू, पत्तागोभी, स्प्राउट्स, टमाटर, मिर्च, हरा प्याज़, तले प्याज़ और नींबू हैं।"]},
-    "gu":{"name":"શાકાહારી મી ગોરેંગ","ingredients":["તાજા ઈંડા વગરના પીળા ઘઉંના નૂડલ્સ","મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","કોબી, સમારેલી","બીન સ્પ્રાઉટ્સ","ટમેટાં, ફાંકોમાં","લીલી ડુંગળી, સમારેલી","લાલ મરચું, કાપેલું","લસણ, ઝીણું સમારેલું","તળેલી નાની ડુંગળી","કેચપ મનીસ મીઠો સોયા સોસ","હળવો સોયા સોસ","ટમેટાંનો કેચપ","લીંબુનો રસ","હળવા સ્વાદનું તેલ"],
-      "steps":[
+      "tips": [
+        "नूडल्स और तले प्याज़ के पैक में अंडा या समुद्री मसाला न हो, जाँचें। समीक्षित तस्वीर में गहरे मीठे-सोया गेहूँ नूडल्स, टोफू, पत्तागोभी, स्प्राउट्स, टमाटर, मिर्च, हरा प्याज़, तले प्याज़ और नींबू हैं।"
+      ]
+    },
+    "gu": {
+      "name": "શાકાહારી મી ગોરેંગ",
+      "ingredients": [
+        "તાજા ઈંડા વગરના પીળા ઘઉંના નૂડલ્સ",
+        "મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું",
+        "કોબી, સમારેલી",
+        "બીન સ્પ્રાઉટ્સ",
+        "ટમેટાં, ફાંકોમાં",
+        "લીલી ડુંગળી, સમારેલી",
+        "લાલ મરચું, કાપેલું",
+        "લસણ, ઝીણું સમારેલું",
+        "તળેલી નાની ડુંગળી",
+        "કેચપ મનીસ મીઠો સોયા સોસ",
+        "હળવો સોયા સોસ",
+        "ટમેટાંનો કેચપ",
+        "લીંબુનો રસ",
+        "હળવા સ્વાદનું તેલ"
+      ],
+      "steps": [
         "તાજા ઈંડા વગરના પીળા ઘઉંના નૂડલ્સ છૂટા કરો; પેક કહે તો થોડા ધોઈ સારી રીતે નિતારો. કેચપ મનીસ, હળવો સોયા સોસ અને ટમેટાંનો કેચપ ફેંટો. કડાઈ ગરમ કરતાં પહેલાં કોબી, સ્પ્રાઉટ્સ, ટમેટાં, લીલી ડુંગળી, લાલ મરચું અને લસણ તૈયાર કરો.",
         "ટોફુ દબાવી સૂકવો. પહોળી કડાઈમાં 15 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરી ટોફુના ટુકડા ઘણી બાજુ 5–6 મિનિટ સોનેરી શેકો. પ્લેટમાં કાઢો.",
         "બાકી 25 મિલી તેલ ગરમ કરો. લસણ અને લાલ મરચું 20 સેકન્ડ, પછી કોબી 2 મિનિટ શેકો. ટમેટાંની ફાંકો નાખી થોડું હલાવો જેથી તેનો આકાર રહે.",
         "નૂડલ્સ અને તૈયાર મીઠો સોયા સોસ નાખો. વધુ તાપે 2–3 મિનિટ શેકો જેથી ગરમ, બદામી અને સહેજ કેરમેલ બને. ટોફુ પાછું નાખી સ્પ્રાઉટ્સ ભેળવો અને કરકરાં રહે તેમ 1 મિનિટ રાંધો.",
         "તાપ બંધ કરી લીંબુનો રસ ભેળવો. ચાર પ્લેટમાં વહેંચી ઉપર લીલી ડુંગળી અને કરકરી તળેલી નાની ડુંગળી નાખો, અને નૂડલ્સ ચમકદાર હોય ત્યારે તરત પીરસો."
       ],
-      "tips":["નૂડલ્સ અને તળેલી ડુંગળીના પેકમાં ઈંડું કે દરિયાઈ મસાલો નથી તે તપાસો. તપાસેલા ફોટામાં ઘેરા મીઠા-સોયા ઘઉંના નૂડલ્સ, ટોફુ, કોબી, સ્પ્રાઉટ્સ, ટમેટાં, મરચું, લીલી ડુંગળી, તળેલી ડુંગળી અને લીંબુ છે."]}
+      "tips": [
+        "નૂડલ્સ અને તળેલી ડુંગળીના પેકમાં ઈંડું કે દરિયાઈ મસાલો નથી તે તપાસો. તપાસેલા ફોટામાં ઘેરા મીઠા-સોયા ઘઉંના નૂડલ્સ, ટોફુ, કોબી, સ્પ્રાઉટ્સ, ટમેટાં, મરચું, લીલી ડુંગળી, તળેલી ડુંગળી અને લીંબુ છે."
+      ]
+    }
   },
-  "reference":{"url":"https://rasamalaysia.com/veggie-mee-goreng-fried-noodles/","use":"Vegetarian mee goreng sweet-soy and lime flavor profile; quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://rasamalaysia.com/veggie-mee-goreng-fried-noodles/",
+    "use": "Vegetarian mee goreng sweet-soy and lime flavor profile; quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/mee-goreng.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

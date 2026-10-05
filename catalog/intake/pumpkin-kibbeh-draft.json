@@ -1,26 +1,81 @@
 {
   "sourceReviewId": "R0165",
   "id": "pumpkin-kibbeh",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Baked Pumpkin Kibbeh",
   "cuisine": "Lebanese",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 100,
   "ingredients": [
-    {"name": "cooked pumpkin, drained and mashed", "qty": 600, "unit": "g"},
-    {"name": "fine bulgur wheat", "qty": 220, "unit": "g"},
-    {"name": "fine semolina", "qty": 60, "unit": "g"},
-    {"name": "warm water", "qty": 100, "unit": "ml"},
-    {"name": "spinach leaves, chopped", "qty": 320, "unit": "g"},
-    {"name": "cooked chickpeas, drained", "qty": 220, "unit": "g"},
-    {"name": "onion, finely diced", "qty": 180, "unit": "g"},
-    {"name": "walnuts, chopped", "qty": 70, "unit": "g"},
-    {"name": "olive oil", "qty": 55, "unit": "ml"},
-    {"name": "lemon juice", "qty": 30, "unit": "ml"},
-    {"name": "ground sumac", "qty": 6, "unit": "g"},
-    {"name": "ground allspice", "qty": 3, "unit": "g"},
-    {"name": "fine salt", "qty": 9, "unit": "g"}
+    {
+      "name": "cooked pumpkin, drained and mashed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "fine bulgur wheat",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "fine semolina",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "spinach leaves, chopped",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "cooked chickpeas, drained",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts, chopped",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground sumac",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground allspice",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt",
+      "qty": 9,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Cook the pumpkin until tender, then drain it very well and mash to measure 600 g; wet pumpkin makes the crust weak. Rinse the fine bulgur briefly and squeeze out excess water. Mix it with the mashed pumpkin, semolina, warm water, 4 g salt and allspice. Knead for 5 minutes into a cohesive orange dough and rest covered for 20 minutes so the bulgur softens.",
@@ -29,11 +84,27 @@
     "Flatten the remaining pumpkin dough in small pieces between damp palms and place over the filling, then join the pieces gently into an even top layer without squeezing out the filling. Score the top into four to eight portions with a knife. Brush with the remaining 25 ml olive oil and sprinkle with the remaining 1 g salt.",
     "Bake for 35–40 minutes until the top is firm, richly golden and lightly crisp at the edges. Rest 15 minutes before cutting along the scored lines. Serve warm with lemon wedges; each portion should show orange pumpkin-bulgur layers around a distinct green spinach, chickpea and walnut centre."
   ],
-  "tips": ["Use fine bulgur rather than coarse bulgur and squeeze the cooked pumpkin dry. The reviewed photo shows a tray-baked, cut layered kibbeh with a golden pumpkin-bulgur crust and visible spinach, chickpeas and walnuts; it is not a meat croquette."],
+  "tips": [
+    "Use fine bulgur rather than coarse bulgur and squeeze the cooked pumpkin dry. The reviewed photo shows a tray-baked, cut layered kibbeh with a golden pumpkin-bulgur crust and visible spinach, chickpeas and walnuts; it is not a meat croquette."
+  ],
   "translations": {
     "hi": {
       "name": "बेक्ड कद्दू किब्बेह",
-      "ingredients": ["पका कद्दू, पानी निकालकर मसला हुआ", "बारीक बुलगुर गेहूँ", "बारीक सूजी", "गुनगुना पानी", "पालक के पत्ते, कटे", "पके छोले, पानी निकाले हुए", "प्याज़, बारीक कटा", "अखरोट, कटे", "जैतून का तेल", "नींबू का रस", "पिसा सुमाक", "पिसा ऑलस्पाइस", "बारीक नमक"],
+      "ingredients": [
+        "पका कद्दू, पानी निकालकर मसला हुआ",
+        "बारीक बुलगुर गेहूँ",
+        "बारीक सूजी",
+        "गुनगुना पानी",
+        "पालक के पत्ते, कटे",
+        "पके छोले, पानी निकाले हुए",
+        "प्याज़, बारीक कटा",
+        "अखरोट, कटे",
+        "जैतून का तेल",
+        "नींबू का रस",
+        "पिसा सुमाक",
+        "पिसा ऑलस्पाइस",
+        "बारीक नमक"
+      ],
       "steps": [
         "कद्दू नरम होने तक पकाएँ, फिर अच्छी तरह पानी निकालकर मसलें और 600 ग्राम नापें; गीला कद्दू पपड़ी कमज़ोर करेगा। बारीक बुलगुर जल्दी धोकर अतिरिक्त पानी निचोड़ें। उसे मसले कद्दू, सूजी, गुनगुने पानी, 4 ग्राम नमक और ऑलस्पाइस से मिलाएँ। 5 मिनट गूँधकर जुड़ा नारंगी आटा बनाएँ और ढककर 20 मिनट रखें ताकि बुलगुर नरम हो।",
         "चौड़े पैन में 20 मिली जैतून तेल गरम करें। कटा प्याज़ 5 मिनट पकाएँ, फिर कटा पालक डालकर 3–4 मिनट मुरझाने तक पकाएँ। अतिरिक्त पानी दबाकर निकालें। छाने पके छोले, कटे अखरोट, नींबू रस, सुमाक और 4 ग्राम नमक मिलाएँ। 2 मिनट पकाकर पूरी तरह ठंडा करें; भरावन नम हो पर बहने वाली नहीं।",
@@ -41,11 +112,27 @@
         "बचे कद्दू आटे के छोटे हिस्से नम हथेलियों के बीच चपटा कर भरावन पर रखें, फिर धीरे से जोड़कर समान ऊपरी परत बनाएँ; भरावन बाहर न दबाएँ। चाकू से ऊपर चार से आठ हिस्सों की हल्की रेखाएँ बनाएँ। बचा 25 मिली जैतून तेल लगाएँ और बचा 1 ग्राम नमक छिड़कें।",
         "35–40 मिनट बेक करें, जब तक ऊपर सख्त, गहरा सुनहरा और किनारे हल्के कुरकुरे हों। बनी रेखाओं पर काटने से पहले 15 मिनट ठहराएँ। नींबू के टुकड़ों के साथ गरम परोसें; हर हिस्से में नारंगी कद्दू-बुलगुर की दो परतों के बीच हरी पालक, छोले और अखरोट साफ़ दिखें।"
       ],
-      "tips": ["मोटे की जगह बारीक बुलगुर लें और पके कद्दू का पानी निचोड़ें। समीक्षित तस्वीर में ट्रे में पका कटा परतदार किब्बेह है, जिसकी सुनहरी कद्दू-बुलगुर पपड़ी के बीच पालक, छोले और अखरोट दिखते हैं; यह मांस वाला क्रोकेट नहीं है।"]
+      "tips": [
+        "मोटे की जगह बारीक बुलगुर लें और पके कद्दू का पानी निचोड़ें। समीक्षित तस्वीर में ट्रे में पका कटा परतदार किब्बेह है, जिसकी सुनहरी कद्दू-बुलगुर पपड़ी के बीच पालक, छोले और अखरोट दिखते हैं; यह मांस वाला क्रोकेट नहीं है।"
+      ]
     },
     "gu": {
       "name": "બેક કરેલું કોળાનું કિબ્બેહ",
-      "ingredients": ["રાંધેલું કોળું, પાણી નિતારી છૂંદેલું", "બારીક બુલગુર ઘઉં", "બારીક રવો", "હૂંફાળું પાણી", "પાલકનાં પાન, સમારેલાં", "રાંધેલા ચણા, પાણી નિતારેલા", "ડુંગળી, ઝીણી સમારેલી", "અખરોટ, સમારેલા", "ઓલિવ તેલ", "લીંબુનો રસ", "સુમાક પાઉડર", "ઓલસ્પાઇસ પાઉડર", "બારીક મીઠું"],
+      "ingredients": [
+        "રાંધેલું કોળું, પાણી નિતારી છૂંદેલું",
+        "બારીક બુલગુર ઘઉં",
+        "બારીક રવો",
+        "હૂંફાળું પાણી",
+        "પાલકનાં પાન, સમારેલાં",
+        "રાંધેલા ચણા, પાણી નિતારેલા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "અખરોટ, સમારેલા",
+        "ઓલિવ તેલ",
+        "લીંબુનો રસ",
+        "સુમાક પાઉડર",
+        "ઓલસ્પાઇસ પાઉડર",
+        "બારીક મીઠું"
+      ],
       "steps": [
         "કોળું નરમ થાય ત્યાં સુધી રાંધી તેનું પાણી ખૂબ સારી રીતે નિતારી છૂંદો અને 600 ગ્રામ માપો; ભીનું કોળું પડ નબળો બનાવે છે. બારીક બુલગુર ઝટપટ ધોઈ વધારાનું પાણી નીચોવો. તેને છૂંદેલા કોળા, રવા, હૂંફાળા પાણી, 4 ગ્રામ મીઠા અને ઓલસ્પાઇસ સાથે ભેળવો. 5 મિનિટ મસળી ભેગો નારંગી લોટ બનાવો અને ઢાંકી 20 મિનિટ રાખો જેથી બુલગુર નરમ થાય.",
         "પહોળી કડાઈમાં 20 મિલી ઓલિવ તેલ ગરમ કરો. સમારેલી ડુંગળી 5 મિનિટ રાંધો, પછી સમારેલું પાલક નાખી 3–4 મિનિટ ચીમળાય ત્યાં સુધી રાંધો. વધારાનું પાણી દબાવી કાઢો. નિતારેલા રાંધેલા ચણા, સમારેલા અખરોટ, લીંબુનો રસ, સુમાક અને 4 ગ્રામ મીઠું ભેળવો. 2 મિનિટ રાંધી સાવ ઠંડું કરો; પૂરણ ભેજવાળું હોય પણ વહેતું નહીં.",
@@ -53,8 +140,15 @@
         "બાકીના કોળાના લોટના નાના ભાગ ભીની હથેળી વચ્ચે ચપટા કરી પૂરણ પર મૂકો, પછી હળવેથી જોડીને ઉપર સરખો પડ બનાવો; પૂરણ બહાર ન નીકળે. છરીથી ઉપર ચારથી આઠ ભાગની આછી લીટીઓ કરો. બાકીનું 25 મિલી ઓલિવ તેલ લગાવો અને બાકીનું 1 ગ્રામ મીઠું છાંટો.",
         "35–40 મિનિટ બેક કરો જેથી ઉપરનો પડ મજબૂત, ઘેરો સોનેરી અને ધાર સહેજ કરકરી થાય. કરેલી લીટીઓ પર કાપતાં પહેલાં 15 મિનિટ આરામ આપો. લીંબુના કટકા સાથે ગરમ પીરસો; દરેક ભાગમાં નારંગી કોળા-બુલગુરનાં પડ વચ્ચે લીલું પાલક, ચણા અને અખરોટ સ્પષ્ટ દેખાય."
       ],
-      "tips": ["જાડા બદલે બારીક બુલગુર લો અને રાંધેલા કોળાનું પાણી નીચોવો. તપાસેલા ફોટામાં ટ્રેમાં શેકેલો કાપેલો પરતદાર કિબ્બેહ છે, જેના સોનેરી કોળા-બુલગુરના પડ વચ્ચે પાલક, ચણા અને અખરોટ દેખાય છે; તે માંસનું ક્રોકેટ નથી."]
+      "tips": [
+        "જાડા બદલે બારીક બુલગુર લો અને રાંધેલા કોળાનું પાણી નીચોવો. તપાસેલા ફોટામાં ટ્રેમાં શેકેલો કાપેલો પરતદાર કિબ્બેહ છે, જેના સોનેરી કોળા-બુલગુરના પડ વચ્ચે પાલક, ચણા અને અખરોટ દેખાય છે; તે માંસનું ક્રોકેટ નથી."
+      ]
     }
   },
-  "reference": {"url": "https://maureenabood.com/lebanese-pumpkin-kibbeh/", "use": "Lebanese pumpkin-bulgur kibbeh with spinach and chickpea filling; quantities, baking detail and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://maureenabood.com/lebanese-pumpkin-kibbeh/",
+    "use": "Lebanese pumpkin-bulgur kibbeh with spinach and chickpea filling; quantities, baking detail and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/pumpkin-kibbeh.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

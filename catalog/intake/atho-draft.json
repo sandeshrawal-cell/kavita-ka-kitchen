@@ -1,48 +1,161 @@
 {
-  "sourceReviewId":"R0185","id":"atho","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Atho","cuisine":"Burmese-Tamil","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":35,
-  "ingredients":[
-    {"name":"dry egg-free wheat noodles","qty":320,"unit":"g"},
-    {"name":"cabbage, finely shredded","qty":260,"unit":"g"},
-    {"name":"red onion, very thinly sliced","qty":140,"unit":"g"},
-    {"name":"fresh coriander leaves, chopped","qty":35,"unit":"g"},
-    {"name":"roasted peanuts, roughly crushed","qty":70,"unit":"g"},
-    {"name":"garlic, thinly sliced","qty":35,"unit":"g"},
-    {"name":"red chili flakes","qty":10,"unit":"g"},
-    {"name":"lime juice","qty":70,"unit":"ml"},
-    {"name":"tamarind pulp","qty":25,"unit":"g"},
-    {"name":"warm water","qty":50,"unit":"ml"},
-    {"name":"neutral oil","qty":35,"unit":"ml"},
-    {"name":"salt","qty":6,"unit":"g"},
-    {"name":"sugar","qty":10,"unit":"g"},
-    {"name":"lime wedges","qty":100,"unit":"g"}
+  "sourceReviewId": "R0185",
+  "id": "atho",
+  "status": "published-second-100-intake-batch",
+  "name": "Vegetarian Atho",
+  "cuisine": "Burmese-Tamil",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
-    "Cook the egg-free wheat noodles according to the pack until just tender. Drain, rinse under cool water and spread on a tray to dry slightly. Toss with 5 ml of the oil so the strands stay separate.",
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "dry eggless wheat noodles",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, finely shredded",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "red onion, very thinly sliced",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves, chopped",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts, roughly crushed",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, thinly sliced",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chili flakes",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook the eggless wheat noodles according to the pack until just tender. Drain, rinse under cool water and spread on a tray to dry slightly. Toss with 5 ml of the oil so the strands stay separate.",
     "Soak tamarind pulp in the measured 50 ml warm water for 10 minutes, squeeze and strain. Mix the extracted liquid with lime juice, salt, sugar and chili flakes. Taste for a lively sour, salty and mildly hot dressing.",
     "Heat the remaining 30 ml oil over medium heat. Fry the thin garlic slices, stirring, until pale golden and crisp, 1–2 minutes. Lift them out immediately; they darken after removal. Let the garlic oil cool before dressing the salad.",
     "Shred the cabbage very finely and slice red onion paper-thin. Put cooled noodles in a large bowl, add cabbage, onion, coriander, tamarind-lime dressing and the cooled garlic oil. Toss thoroughly with clean hands or tongs until evenly seasoned.",
     "Divide into four plates. Top with crushed roasted peanuts and crisp fried garlic, and provide lime wedges for squeezing. Serve immediately while the cabbage and crunchy toppings stay crisp."
   ],
-  "tips":["Chennai-style atho is a dry Burmese-Tamil noodle salad; do not add broth. The reviewed photo shows lightly spiced noodles, cabbage, onion, coriander, peanuts, fried garlic, chili and lime, without egg or fish."],
-  "translations":{
-    "hi":{"name":"शाकाहारी अथो","ingredients":["सूखे बिना अंडे के गेहूँ नूडल्स","पत्तागोभी, बहुत बारीक कटी","लाल प्याज़, बहुत पतला कटा","ताज़ा हरा धनिया, कटा","भुनी मूँगफली, दरदरी","लहसुन, पतले कटे फाँके","लाल मिर्च के टुकड़े","नींबू का रस","इमली का गूदा","गुनगुना पानी","हल्का स्वाद वाला तेल","नमक","चीनी","नींबू की फाँकें"],
-      "steps":[
+  "tips": [
+    "Chennai-style atho is a dry Burmese-Tamil noodle salad; do not add broth. The reviewed photo shows lightly spiced noodles, cabbage, onion, coriander, peanuts, fried garlic, chili and lime, without egg or fish."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी अथो",
+      "ingredients": [
+        "सूखे बिना अंडे के गेहूँ नूडल्स",
+        "पत्तागोभी, बहुत बारीक कटी",
+        "लाल प्याज़, बहुत पतला कटा",
+        "ताज़ा हरा धनिया, कटा",
+        "भुनी मूँगफली, दरदरी",
+        "लहसुन, पतले कटे फाँके",
+        "लाल मिर्च के टुकड़े",
+        "नींबू का रस",
+        "इमली का गूदा",
+        "गुनगुना पानी",
+        "हल्का स्वाद वाला तेल",
+        "नमक",
+        "चीनी",
+        "नींबू की फाँकें"
+      ],
+      "steps": [
         "बिना अंडे के गेहूँ नूडल्स पैक अनुसार बस नरम होने तक पकाएँ। छानकर ठंडे पानी से धोएँ और ट्रे पर थोड़ा सुखाएँ। 5 मिली तेल मिलाएँ ताकि नूडल अलग रहें।",
         "इमली का गूदा नापे 50 मिली गुनगुने पानी में 10 मिनट भिगोकर निचोड़ें और छानें। निकले रस में नींबू रस, नमक, चीनी और मिर्च के टुकड़े मिलाएँ। खट्टी, नमकीन और हल्की तीखी ड्रेसिंग चखें।",
         "बचा 30 मिली तेल मध्यम आँच पर गरम करें। पतले लहसुन के फाँके चलाते हुए 1–2 मिनट हल्के सुनहरे और कुरकुरे तलें। तुरंत निकालें; बाहर आने के बाद भी रंग गहरा होगा। सलाद में डालने से पहले लहसुन तेल ठंडा करें।",
         "पत्तागोभी बहुत बारीक और लाल प्याज़ कागज़ जितना पतला काटें। ठंडे नूडल्स बड़े कटोरे में रखें; पत्तागोभी, प्याज़, धनिया, इमली-नींबू ड्रेसिंग और ठंडा लहसुन तेल डालें। साफ़ हाथों या चिमटे से मसाला बराबर लगने तक मिलाएँ।",
         "चार प्लेटों में बाँटें। ऊपर भुनी दरदरी मूँगफली और कुरकुरा लहसुन डालें तथा नींबू फाँकें दें। पत्तागोभी और ऊपर के कुरकुरे हिस्से नरम होने से पहले तुरंत परोसें।"
       ],
-      "tips":["चेन्नई शैली का अथो सूखा बर्मी-तमिल नूडल सलाद है; शोरबा न डालें। समीक्षित तस्वीर में हल्के मसालेदार नूडल्स, पत्तागोभी, प्याज़, धनिया, मूँगफली, तला लहसुन, मिर्च और नींबू हैं; अंडा या मछली नहीं।"]},
-    "gu":{"name":"શાકાહારી અથો","ingredients":["સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ","કોબી, ખૂબ ઝીણી સમારેલી","લાલ ડુંગળી, ખૂબ પાતળી સમારેલી","તાજી કોથમીર, સમારેલી","શેકેલી મગફળી, અધકચરી વાટેલી","લસણ, પાતળી કાતરીઓ","લાલ મરચાંના ટુકડા","લીંબુનો રસ","આંબલીનો માવો","હૂંફાળું પાણી","હળવા સ્વાદનું તેલ","મીઠું","ખાંડ","લીંબુની ફાંકો"],
-      "steps":[
+      "tips": [
+        "चेन्नई शैली का अथो सूखा बर्मी-तमिल नूडल सलाद है; शोरबा न डालें। समीक्षित तस्वीर में हल्के मसालेदार नूडल्स, पत्तागोभी, प्याज़, धनिया, मूँगफली, तला लहसुन, मिर्च और नींबू हैं; अंडा या मछली नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "શાકાહારી અથો",
+      "ingredients": [
+        "સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ",
+        "કોબી, ખૂબ ઝીણી સમારેલી",
+        "લાલ ડુંગળી, ખૂબ પાતળી સમારેલી",
+        "તાજી કોથમીર, સમારેલી",
+        "શેકેલી મગફળી, અધકચરી વાટેલી",
+        "લસણ, પાતળી કાતરીઓ",
+        "લાલ મરચાંના ટુકડા",
+        "લીંબુનો રસ",
+        "આંબલીનો માવો",
+        "હૂંફાળું પાણી",
+        "હળવા સ્વાદનું તેલ",
+        "મીઠું",
+        "ખાંડ",
+        "લીંબુની ફાંકો"
+      ],
+      "steps": [
         "ઈંડા વગરના ઘઉંના નૂડલ્સ પેક પ્રમાણે માત્ર નરમ થાય ત્યાં સુધી રાંધો. નિતારી ઠંડા પાણીથી ધોઈ થાળીમાં થોડા સુકવો. 5 મિલી તેલ ભેળવો જેથી નૂડલ્સ છૂટા રહે.",
         "આંબલીનો માવો માપેલા 50 મિલી હૂંફાળા પાણીમાં 10 મિનિટ પલાળી નિચોવો અને ગાળો. મળેલા રસમાં લીંબુનો રસ, મીઠું, ખાંડ અને મરચાંના ટુકડા ભેળવો. ચટપટી ખાટી, ખારી અને હળવી તીખી ચટણી ચાખો.",
         "બાકી 30 મિલી તેલ મધ્યમ તાપે ગરમ કરો. લસણની પાતળી કાતરીઓ હલાવતા 1–2 મિનિટ આછી સોનેરી અને કરકરી તળો. તરત કાઢો; બહાર આવ્યા પછી પણ રંગ ઘેરો થશે. સલાડમાં નાખતાં પહેલાં લસણવાળું તેલ ઠંડું કરો.",
         "કોબી ખૂબ ઝીણી અને લાલ ડુંગળી કાગળ જેટલી પાતળી કાપો. ઠંડા નૂડલ્સ મોટી વાટકીમાં મૂકી કોબી, ડુંગળી, કોથમીર, આંબલી-લીંબુની ચટણી અને ઠંડું લસણ તેલ નાખો. સ્વચ્છ હાથ કે ચીપિયાથી સરખો મસાલો ચડે ત્યાં સુધી ભેળવો.",
         "ચાર પ્લેટમાં વહેંચો. ઉપર શેકેલી અધકચરી મગફળી અને કરકરું લસણ નાખી લીંબુની ફાંકો આપો. કોબી અને કરકરા ટોપિંગ નરમ થાય તે પહેલાં તરત પીરસો."
       ],
-      "tips":["ચેન્નઈનું અથો સૂકું બર્મી-તમિલ નૂડલ સલાડ છે; સૂપ ન ઉમેરો. તપાસેલા ફોટામાં હળવા મસાલાવાળા નૂડલ્સ, કોબી, ડુંગળી, કોથમીર, મગફળી, તળેલું લસણ, મરચું અને લીંબુ છે; ઈંડું કે માછલી નથી."]}
+      "tips": [
+        "ચેન્નઈનું અથો સૂકું બર્મી-તમિલ નૂડલ સલાડ છે; સૂપ ન ઉમેરો. તપાસેલા ફોટામાં હળવા મસાલાવાળા નૂડલ્સ, કોબી, ડુંગળી, કોથમીર, મગફળી, તળેલું લસણ, મરચું અને લીંબુ છે; ઈંડું કે માછલી નથી."
+      ]
+    }
   },
-  "reference":{"url":"https://www.desifiesta.com/2015/02/indo-burmese-style-atho-recipe-burmese.html","use":"Chennai Burmese-Tamil atho dry-salad style; quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://www.desifiesta.com/2015/02/indo-burmese-style-atho-recipe-burmese.html",
+    "use": "Chennai Burmese-Tamil atho dry-salad style; quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/atho.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,27 +1,82 @@
 {
   "sourceReviewId": "R0119",
   "id": "homity-pie",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Homity Pie",
   "cuisine": "British",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 80,
   "passiveTime": "20 minutes pastry chilling and 10 minutes pie resting",
   "ingredients": [
-    {"name": "plain wheat flour", "qty": 250, "unit": "g"},
-    {"name": "cold butter", "qty": 125, "unit": "g"},
-    {"name": "cold water", "qty": 70, "unit": "ml"},
-    {"name": "potatoes", "qty": 650, "unit": "g"},
-    {"name": "onions", "qty": 220, "unit": "g"},
-    {"name": "garlic", "qty": 12, "unit": "g"},
-    {"name": "vegetarian mature cheddar", "qty": 180, "unit": "g"},
-    {"name": "single cream", "qty": 80, "unit": "ml"},
-    {"name": "olive oil", "qty": 15, "unit": "ml"},
-    {"name": "fresh parsley", "qty": 15, "unit": "g"},
-    {"name": "salt", "qty": 10, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"},
-    {"name": "water", "qty": 1800, "unit": "ml"}
+    {
+      "name": "plain wheat flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "cold butter",
+      "qty": 125,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "potatoes",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "onions",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mature cheddar",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "single cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh parsley",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1800,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Rub the cold butter into the flour until it resembles coarse crumbs. Add 3 g salt, then cold water a spoonful at a time, pressing just until the pastry holds together; do not knead it. Flatten into a disc, wrap and chill for 20 minutes so the butter stays cold.",
@@ -31,12 +86,28 @@
     "Spoon the potato mixture into the pastry shell and scatter the remaining cheddar over the top. Bake at 200°C for 25–30 minutes until the crust is golden, the filling is hot all the way through and the cheese has browned in spots. If the edge colours too quickly, shield it with a strip of foil.",
     "Rest the pie for 10 minutes before cutting into four generous wedges. Serve warm; a slice should hold its shape and show distinct pieces of potato and onion inside the crisp open pastry shell."
   ],
-  "tips": ["Use vegetarian cheddar made without animal rennet. Thoroughly drying the boiled potatoes and blind-baking the pastry keeps the bottom crisp. This is an open pie; do not cover the filling with a pastry lid."],
+  "tips": [
+    "Use vegetarian cheddar made without animal rennet. Thoroughly drying the boiled potatoes and blind-baking the pastry keeps the bottom crisp. This is an open pie; do not cover the filling with a pastry lid."
+  ],
   "translations": {
     "hi": {
       "name": "होमिटी पाई",
       "passiveTime": "पेस्ट्री ठंडी करने के लिए 20 मिनट और पाई ठहराने के लिए 10 मिनट",
-      "ingredients": ["मैदा", "ठंडा मक्खन", "ठंडा पानी", "आलू", "प्याज़", "लहसुन", "शाकाहारी पका चेडर चीज़", "हल्की क्रीम", "ऑलिव तेल", "ताज़ा पार्सले", "नमक", "काली मिर्च", "पानी"],
+      "ingredients": [
+        "मैदा",
+        "ठंडा मक्खन",
+        "ठंडा पानी",
+        "आलू",
+        "प्याज़",
+        "लहसुन",
+        "शाकाहारी पका चेडर चीज़",
+        "हल्की क्रीम",
+        "ऑलिव तेल",
+        "ताज़ा पार्सले",
+        "नमक",
+        "काली मिर्च",
+        "पानी"
+      ],
       "steps": [
         "ठंडे मक्खन को मैदे में उँगलियों से रगड़कर मोटे चूरे जैसा करें। 3 ग्राम नमक डालें, फिर ठंडा पानी चम्मच-चम्मच करके मिलाएँ, बस इतना कि पेस्ट्री जुड़ जाए; गूँधें नहीं। चपटा गोला बनाकर लपेटें और 20 मिनट ठंडा रखें ताकि मक्खन ठंडा रहे।",
         "आलू छीलकर 2-सेमी टुकड़े करें। नापा 1800 मिली पानी 5 ग्राम नमक के साथ उबालें और आलू 12–15 मिनट बस नरम होने तक पकाएँ, टूटने न दें। अच्छी तरह छानकर भाप से सुखाएँ। प्याज़ पतले और लहसुन बारीक काटें।",
@@ -45,12 +116,28 @@
         "आलू मिश्रण पेस्ट्री खोल में भरें और ऊपर बचा चेडर फैलाएँ। 200°C पर 25–30 मिनट बेक करें, जब तक परत सुनहरी, भरावन बीच तक गरम और चीज़ कुछ जगह भूरा हो। किनारा जल्दी रंग ले तो फॉइल की पट्टी से ढकें।",
         "चार बड़े हिस्से काटने से पहले पाई 10 मिनट ठहराएँ। गरम परोसें; स्लाइस अपना आकार रखे और कुरकुरे खुले पेस्ट्री खोल में आलू तथा प्याज़ के अलग टुकड़े दिखें।"
       ],
-      "tips": ["पशु रेनेट के बिना बना शाकाहारी चेडर लें। उबले आलू पूरी तरह सुखाने और पेस्ट्री पहले सादा बेक करने से तला कुरकुरा रहता है। यह खुली पाई है; भरावन पर पेस्ट्री का ढक्कन न लगाएँ।"]
+      "tips": [
+        "पशु रेनेट के बिना बना शाकाहारी चेडर लें। उबले आलू पूरी तरह सुखाने और पेस्ट्री पहले सादा बेक करने से तला कुरकुरा रहता है। यह खुली पाई है; भरावन पर पेस्ट्री का ढक्कन न लगाएँ।"
+      ]
     },
     "gu": {
       "name": "હોમિટી પાઇ",
       "passiveTime": "પેસ્ટ્રી ઠંડી કરવા 20 મિનિટ અને પાઇ થોભાવવા 10 મિનિટ",
-      "ingredients": ["મેંદો", "ઠંડું માખણ", "ઠંડું પાણી", "બટાકા", "ડુંગળી", "લસણ", "શાકાહારી પાકેલું ચેડર ચીઝ", "હળવી ક્રીમ", "ઓલિવ તેલ", "તાજું પાર્સલી", "મીઠું", "કાળી મરી", "પાણી"],
+      "ingredients": [
+        "મેંદો",
+        "ઠંડું માખણ",
+        "ઠંડું પાણી",
+        "બટાકા",
+        "ડુંગળી",
+        "લસણ",
+        "શાકાહારી પાકેલું ચેડર ચીઝ",
+        "હળવી ક્રીમ",
+        "ઓલિવ તેલ",
+        "તાજું પાર્સલી",
+        "મીઠું",
+        "કાળી મરી",
+        "પાણી"
+      ],
       "steps": [
         "ઠંડું માખણ મેંદામાં આંગળીઓથી ઘસીને મોટાં ચૂરા જેવું કરો. 3 ગ્રામ મીઠું નાખો, પછી ઠંડું પાણી ચમચી-ચમચી કરીને એટલું ભેળવો કે પેસ્ટ્રી જોડાઈ જાય; મસળશો નહીં. ચપટો ગોળ બનાવી લપેટો અને માખણ ઠંડું રહે માટે 20 મિનિટ ઠંડો રાખો.",
         "બટાકા છોલીને 2-સેમી ટુકડા કરો. માપેલું 1800 મિલી પાણી 5 ગ્રામ મીઠા સાથે ઉકાળો અને બટાકા 12–15 મિનિટ ફક્ત નરમ થાય ત્યાં સુધી રાંધો, તૂટવા ન દો. સારી રીતે નિતારી વરાળથી સૂકવો. ડુંગળી પાતળી અને લસણ બારીક સમારો.",
@@ -59,8 +146,15 @@
         "બટાકાનું મિશ્રણ પેસ્ટ્રીના ખોળામાં ભરો અને ઉપર બાકીનું ચેડર પાથરો. 200°C પર 25–30 મિનિટ બેક કરો, જ્યાં સુધી પડ સોનેરી, ભરાવું મધ્ય સુધી ગરમ અને ચીઝ કેટલીક જગ્યાએ બદામી થાય. કિનારી ઝડપથી રંગ પકડે તો ફોઇલની પટ્ટીથી ઢાંકો.",
         "ચાર મોટા ભાગ કરતાં પહેલાં પાઇ 10 મિનિટ થોભાવો. ગરમ પીરસો; ટુકડો પોતાનો આકાર જાળવે અને કરકરા ખુલ્લા પેસ્ટ્રી ખોળામાં બટાકા તથા ડુંગળીના અલગ ટુકડા દેખાય."
       ],
-      "tips": ["પ્રાણી રેનેટ વગરનું શાકાહારી ચેડર લો. ઉકાળેલા બટાકા સારી રીતે સૂકવવાથી અને પેસ્ટ્રી પહેલાં સાદી બેક કરવાથી તળિયો કરકરો રહે છે. આ ખુલ્લી પાઇ છે; ભરાવા પર પેસ્ટ્રીનું ઢાંકણ ન મૂકો."]
+      "tips": [
+        "પ્રાણી રેનેટ વગરનું શાકાહારી ચેડર લો. ઉકાળેલા બટાકા સારી રીતે સૂકવવાથી અને પેસ્ટ્રી પહેલાં સાદી બેક કરવાથી તળિયો કરકરો રહે છે. આ ખુલ્લી પાઇ છે; ભરાવા પર પેસ્ટ્રીનું ઢાંકણ ન મૂકો."
+      ]
     }
   },
-  "reference": {"url": "https://www.sandylanefarm.co.uk/recipes/homity-pie", "use": "Open British potato-onion-cheese shortcrust pie composition; measured pastry and directions independently authored."}
+  "reference": {
+    "url": "https://www.sandylanefarm.co.uk/recipes/homity-pie",
+    "use": "Open British potato-onion-cheese shortcrust pie composition; measured pastry and directions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/homity-pie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

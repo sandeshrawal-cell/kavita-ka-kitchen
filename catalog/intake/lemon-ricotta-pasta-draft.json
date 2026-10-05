@@ -1,24 +1,68 @@
 {
   "sourceReviewId": "R0105",
   "id": "lemon-ricotta-pasta",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Lemon Ricotta Pasta",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner", "Quick Meals"],
+  "categories": [
+    "Lunch",
+    "Dinner",
+    "Quick Meals"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 25,
   "passiveTime": null,
   "ingredients": [
-    {"name": "eggless dried spaghetti", "qty": 360, "unit": "g"},
-    {"name": "fresh ricotta", "qty": 250, "unit": "g"},
-    {"name": "vegetarian hard cheese", "qty": 40, "unit": "g"},
-    {"name": "lemon zest", "qty": 12, "unit": "g"},
-    {"name": "lemon juice", "qty": 35, "unit": "ml"},
-    {"name": "fresh basil", "qty": 20, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 25, "unit": "ml"},
-    {"name": "black pepper", "qty": 2, "unit": "g"},
-    {"name": "salt", "qty": 8, "unit": "g"},
-    {"name": "water", "qty": 3000, "unit": "ml"}
+    {
+      "name": "eggless dried spaghetti",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "fresh ricotta",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "lemon zest",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh basil",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Wash and dry the lemons before zesting. Grate only the yellow outer skin to measure the zest; the white pith tastes bitter. Squeeze the measured juice. Wash and dry the basil, tear most leaves and save a few for serving.",
@@ -27,11 +71,24 @@
     "Add drained hot spaghetti to the ricotta mixture off the heat. Toss thoroughly for 1 minute, adding more reserved pasta water a spoonful at a time until the sauce coats the strands silkily rather than sitting in lumps. Do not boil the ricotta sauce.",
     "Taste, then add the remaining lemon juice and up to 2 g salt as needed. Divide into four warm bowls and serve immediately with the reserved basil and a little visible lemon zest."
   ],
-  "tips": ["Fresh zest gives a brighter flavour than juice alone. Add the final lemon juice gradually because lemons vary in acidity; a little starchy water keeps ricotta creamy without heavy cream."],
+  "tips": [
+    "Fresh zest gives a brighter flavour than juice alone. Add the final lemon juice gradually because lemons vary in acidity; a little starchy water keeps ricotta creamy without heavy cream."
+  ],
   "translations": {
     "hi": {
       "name": "लेमन रिकोटा पास्ता",
-      "ingredients": ["बिना अंडे की सूखी स्पेगेटी", "ताज़ा रिकोटा", "शाकाहारी हार्ड चीज़", "नींबू का छिलका कसा हुआ", "नींबू का रस", "ताज़ी बेसिल", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "काली मिर्च", "नमक", "पानी"],
+      "ingredients": [
+        "बिना अंडे की सूखी स्पेगेटी",
+        "ताज़ा रिकोटा",
+        "शाकाहारी हार्ड चीज़",
+        "नींबू का छिलका कसा हुआ",
+        "नींबू का रस",
+        "ताज़ी बेसिल",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "काली मिर्च",
+        "नमक",
+        "पानी"
+      ],
       "steps": [
         "छिलका कसने से पहले नींबू धोकर सुखाएँ। मापने के लिए केवल पीला ऊपरी भाग कसें; सफेद भाग कड़वा होता है। नापा हुआ रस निकालें। बेसिल धोकर सुखाएँ, ज़्यादातर पत्ते तोड़ें और कुछ परोसने के लिए बचाएँ।",
         "नापा हुआ पानी बड़े बर्तन में तेज़ उबाल तक लाएँ। 6 ग्राम नमक और स्पेगेटी डालकर हिलाएँ। पैकेट के अनुसार आमतौर पर 8–11 मिनट अल दंते पकाएँ; पास्ता नरम पर हल्का चबाने लायक रहे। छानने से पहले 250 मिली स्टार्च वाला पानी बचाएँ।",
@@ -39,11 +96,24 @@
         "छानी गरम स्पेगेटी आँच से दूर रिकोटा मिश्रण में डालें। 1 मिनट अच्छी तरह उछालें। बचा पास्ता पानी चम्मच भर करके डालें, जब तक सॉस गुठली बने बिना रेशों पर रेशमी परत बना ले। रिकोटा सॉस को उबालें नहीं।",
         "चखकर ज़रूरत अनुसार बचा नींबू रस और अधिकतम 2 ग्राम नमक डालें। चार गरम बाउल में बाँटें और बची बेसिल तथा थोड़ा दिखता नींबू छिलका डालकर तुरंत परोसें।"
       ],
-      "tips": ["ताज़ा नींबू छिलका केवल रस से अधिक सुगंध देता है। नींबू की खटास बदलती है, इसलिए अंत में रस धीरे-धीरे डालें; थोड़ा स्टार्च वाला पानी रिकोटा को भारी क्रीम के बिना मलाईदार रखता है।"]
+      "tips": [
+        "ताज़ा नींबू छिलका केवल रस से अधिक सुगंध देता है। नींबू की खटास बदलती है, इसलिए अंत में रस धीरे-धीरे डालें; थोड़ा स्टार्च वाला पानी रिकोटा को भारी क्रीम के बिना मलाईदार रखता है।"
+      ]
     },
     "gu": {
       "name": "લેમન રિકોટા પાસ્તા",
-      "ingredients": ["ઇંડા વગરની સૂકી સ્પેગેટી", "તાજું રિકોટા", "શાકાહારી હાર્ડ ચીઝ", "ખમણેલી લીંબુની છાલ", "લીંબુનો રસ", "તાજી બેસિલ", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "કાળી મરી", "મીઠું", "પાણી"],
+      "ingredients": [
+        "ઇંડા વગરની સૂકી સ્પેગેટી",
+        "તાજું રિકોટા",
+        "શાકાહારી હાર્ડ ચીઝ",
+        "ખમણેલી લીંબુની છાલ",
+        "લીંબુનો રસ",
+        "તાજી બેસિલ",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "કાળી મરી",
+        "મીઠું",
+        "પાણી"
+      ],
       "steps": [
         "છાલ ખમણતાં પહેલાં લીંબુ ધોઈને સૂકવો. માત્ર પીળો ઉપરનો ભાગ ખમણો; અંદરનો સફેદ ભાગ કડવો હોય છે. માપેલો રસ કાઢો. બેસિલ ધોઈને સૂકવો, મોટાભાગનાં પાન તોડો અને થોડાં પીરસવા માટે રાખો.",
         "માપેલું પાણી મોટા વાસણમાં પૂરતું ઉકાળો. 6 ગ્રામ મીઠું અને સ્પેગેટી નાખીને હલાવો. પેકેટ મુજબ સામાન્ય રીતે 8–11 મિનિટ અલ દંતે રાંધો; પાસ્તા નરમ પણ થોડો ચાવવાનો રહે. નિતારતાં પહેલાં 250 મિલી સ્ટાર્ચવાળું પાણી સાચવો.",
@@ -51,8 +121,15 @@
         "નિતારેલી ગરમ સ્પેગેટી તાપથી દૂર રિકોટાના મિશ્રણમાં નાખો. 1 મિનિટ સારી રીતે ભેળવો. બાકીનું પાસ્તાનું પાણી ચમચીભર કરીને ઉમેરો, જ્યાં સુધી સોસ ગાંઠો વિના રેસા પર રેશમી પડ બનાવે. રિકોટાનો સોસ ઉકાળશો નહીં.",
         "ચાખીને જરૂર મુજબ બાકીનો લીંબુનો રસ અને વધુમાં વધુ 2 ગ્રામ મીઠું ઉમેરો. ચાર ગરમ વાટકામાં વહેંચો અને બાકીનું બેસિલ તથા થોડું દેખાતું લીંબુનું ખમણ નાખીને તરત પીરસો."
       ],
-      "tips": ["તાજી લીંબુની છાલ માત્ર રસ કરતાં વધુ સુગંધ આપે છે. લીંબુની ખટાશ બદલાય છે, તેથી છેલ્લે રસ ધીમે ધીમે ઉમેરો; થોડું સ્ટાર્ચવાળું પાણી રિકોટાને ભારે ક્રીમ વગર ક્રીમી રાખે છે."]
+      "tips": [
+        "તાજી લીંબુની છાલ માત્ર રસ કરતાં વધુ સુગંધ આપે છે. લીંબુની ખટાશ બદલાય છે, તેથી છેલ્લે રસ ધીમે ધીમે ઉમેરો; થોડું સ્ટાર્ચવાળું પાણી રિકોટાને ભારે ક્રીમ વગર ક્રીમી રાખે છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.cucchiaio.it/ricetta/pasta-con-la-ricotta/", "use": "Ricotta, basil and lemon-zest dressing method; quantities and directions independently authored."}
+  "reference": {
+    "url": "https://www.cucchiaio.it/ricetta/pasta-con-la-ricotta/",
+    "use": "Ricotta, basil and lemon-zest dressing method; quantities and directions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/lemon-ricotta-pasta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

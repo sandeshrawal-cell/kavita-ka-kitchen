@@ -1,19 +1,42 @@
 {
   "sourceReviewId": "R0115",
   "id": "focaccia-di-recco",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Ligurian Cheese Focaccia",
   "cuisine": "Italian (Liguria)",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 40,
   "passiveTime": "30 minutes dough resting",
   "ingredients": [
-    {"name": "plain wheat flour", "qty": 400, "unit": "g"},
-    {"name": "lukewarm water", "qty": 200, "unit": "ml"},
-    {"name": "extra-virgin olive oil", "qty": 35, "unit": "ml"},
-    {"name": "salt", "qty": 8, "unit": "g"},
-    {"name": "vegetarian soft crescenza-style cheese", "qty": 500, "unit": "g"}
+    {
+      "name": "plain wheat flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "lukewarm water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian soft crescenza-style cheese",
+      "qty": 500,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Mix the flour, water, 20 ml olive oil and 6 g salt until a dough forms. Knead for 7–8 minutes until smooth and flexible. Divide into two equal balls, rub lightly with 5 ml of the remaining oil, cover and rest for 30 minutes. This unleavened dough must relax before it can be stretched thin without tearing.",
@@ -22,12 +45,20 @@
     "Make five small holes in the top sheet for steam to escape. Brush the top with the remaining 10 ml olive oil and scatter the remaining 2 g salt over it. Slide the focaccia with its paper onto the hot tray. Bake 12–15 minutes until blistered and golden brown, with cheese bubbling at the vents.",
     "Rest for 2 minutes, then cut into eight squares and serve two squares per person while the pastry remains crisp and the cheese soft. The dish should have two paper-thin sheets around the filling, not a thick bready crumb."
   ],
-  "tips": ["Use a creamy vegetarian soft cheese made with microbial or vegetable rennet. A dry hard cheese will not make the correct melting filling. This is a home Ligurian-style adaptation; it does not claim the protected geographical certification of Focaccia di Recco col formaggio."],
+  "tips": [
+    "Use a creamy vegetarian soft cheese made with microbial or vegetable rennet. A dry hard cheese will not make the correct melting filling. This is a home Ligurian-style adaptation; it does not claim the protected geographical certification of Focaccia di Recco col formaggio."
+  ],
   "translations": {
     "hi": {
       "name": "लिगूरिया की चीज़ फोकाच्चा",
       "passiveTime": "लोई को 30 मिनट आराम",
-      "ingredients": ["मैदा", "गुनगुना पानी", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "नमक", "शाकाहारी नरम क्रेसेंज़ा-शैली चीज़"],
+      "ingredients": [
+        "मैदा",
+        "गुनगुना पानी",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "नमक",
+        "शाकाहारी नरम क्रेसेंज़ा-शैली चीज़"
+      ],
       "steps": [
         "मैदा, पानी, 20 मिली ऑलिव तेल और 6 ग्राम नमक मिलाकर लोई बनाएँ। 7–8 मिनट चिकनी लचीली गूँधें। दो बराबर गोले करें, बचे तेल में से 5 मिली ऊपर लगाएँ, ढककर 30 मिनट आराम दें। इस बिना यीस्ट वाली लोई को बिना फटे बहुत पतला फैलाने से पहले आराम देना ज़रूरी है।",
         "ओवन को अंदर भारी बेकिंग ट्रे समेत कम-से-कम 25 मिनट पहले 250°C गरम करें। खूब आटा छिड़के बेकिंग पेपर पर एक लोई को बेलकर और हल्के हाथ से खींचकर बहुत पतला 35-बाय-25 सेमी आयत बनाएँ। परत लगभग पारदर्शी पर बिना छेद की हो। ज़रूरत हो तो पेपर समेत दूसरी ट्रे पर रखें।",
@@ -35,12 +66,20 @@
         "भाप निकलने के लिए ऊपरी परत में पाँच छोटे छेद करें। ऊपर बचा 10 मिली ऑलिव तेल लगाएँ और बचा 2 ग्राम नमक छिड़कें। फोकाच्चा को पेपर समेत गरम ट्रे पर सरकाएँ। 12–15 मिनट बेक करें, जब तक ऊपरी परत फफोलेदार सुनहरी हो और छेदों पर चीज़ उबलता दिखे।",
         "2 मिनट ठहराकर आठ चौकोर हिस्से काटें और कुरकुरी परत तथा नरम चीज़ रहते प्रति व्यक्ति दो हिस्से परोसें। भरावन के चारों ओर कागज़ जैसी दो पतली परतें हों, मोटी ब्रेड जैसी लोई नहीं।"
       ],
-      "tips": ["माइक्रोबियल या वनस्पति रेनेट से बना मलाईदार शाकाहारी नरम चीज़ लें। सूखा कड़ा चीज़ सही पिघलने वाला भरावन नहीं देगा। यह घरेलू लिगूरियाई-शैली का रूप है; संरक्षित भौगोलिक नाम 'Focaccia di Recco col formaggio' का प्रमाणन होने का दावा नहीं है।"]
+      "tips": [
+        "माइक्रोबियल या वनस्पति रेनेट से बना मलाईदार शाकाहारी नरम चीज़ लें। सूखा कड़ा चीज़ सही पिघलने वाला भरावन नहीं देगा। यह घरेलू लिगूरियाई-शैली का रूप है; संरक्षित भौगोलिक नाम 'Focaccia di Recco col formaggio' का प्रमाणन होने का दावा नहीं है।"
+      ]
     },
     "gu": {
       "name": "લિગુરિયાનું ચીઝ ફોકાચા",
       "passiveTime": "લોટને 30 મિનિટ આરામ",
-      "ingredients": ["મેંદો", "હૂંફાળું પાણી", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "મીઠું", "શાકાહારી નરમ ક્રેસેન્ઝા-શૈલી ચીઝ"],
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "મીઠું",
+        "શાકાહારી નરમ ક્રેસેન્ઝા-શૈલી ચીઝ"
+      ],
       "steps": [
         "મેંદો, પાણી, 20 મિલી ઓલિવ તેલ અને 6 ગ્રામ મીઠું ભેળવી લોટ બનાવો. 7–8 મિનિટ લીસો અને લવચીક મસળો. બે સરખા લૂવા કરો, બાકી તેલમાંથી 5 મિલી ઉપર લગાવો, ઢાંકીને 30 મિનિટ આરામ આપો. આ યીસ્ટ વગરના લોટને ફાટ્યા વિના ખૂબ પાતળો ફેલાવવા પહેલાં આરામ આપવો જરૂરી છે.",
         "ઓવનને અંદર ભારે બેકિંગ ટ્રે સાથે ઓછામાં ઓછી 25 મિનિટ પહેલાં 250°C ગરમ કરો. સારી રીતે લોટ છાંટેલા બેકિંગ પેપર પર એક લૂવો વણી અને હળવે ખેંચીને ખૂબ પાતળો 35-બાય-25 સેમી લંબચોરસ બનાવો. પડ લગભગ પારદર્શક પણ કાણા વગરનો હોય. જરૂર હોય તો પેપર સાથે બીજી ટ્રેમાં મૂકો.",
@@ -48,8 +87,15 @@
         "વરાળ નીકળે તે માટે ઉપરના પડમાં પાંચ નાના કાણા કરો. ઉપર બાકીનું 10 મિલી ઓલિવ તેલ લગાવી બાકીનું 2 ગ્રામ મીઠું છાંટો. ફોકાચાને પેપર સાથે ગરમ ટ્રે પર સરકાવો. ઉપર ફોલ્લાવાળો સોનેરી પડ અને કાણામાં ચીઝના પરપોટા થાય ત્યાં સુધી 12–15 મિનિટ બેક કરો.",
         "2 મિનિટ થોભાવી આઠ ચોરસ ટુકડા કરો અને પડ કરકરો તથા ચીઝ નરમ હોય ત્યારે વ્યક્તિદીઠ બે ટુકડા પીરસો. ભરાવાની આસપાસ કાગળ જેવા બે પાતળા પડ હોવા જોઈએ, જાડી બ્રેડ જેવો લોટ નહીં."
       ],
-      "tips": ["માઇક્રોબિયલ કે વનસ્પતિ રેનેટથી બનેલું ક્રીમી શાકાહારી નરમ ચીઝ લો. સૂકું કઠણ ચીઝ યોગ્ય પીગળતું ભરાવું આપશે નહીં. આ ઘરેલું લિગુરિયન-શૈલીનું રૂપ છે; સંરક્ષિત ભૌગોલિક નામ 'Focaccia di Recco col formaggio'નું પ્રમાણન હોવાનો દાવો નથી."]
+      "tips": [
+        "માઇક્રોબિયલ કે વનસ્પતિ રેનેટથી બનેલું ક્રીમી શાકાહારી નરમ ચીઝ લો. સૂકું કઠણ ચીઝ યોગ્ય પીગળતું ભરાવું આપશે નહીં. આ ઘરેલું લિગુરિયન-શૈલીનું રૂપ છે; સંરક્ષિત ભૌગોલિક નામ 'Focaccia di Recco col formaggio'નું પ્રમાણન હોવાનો દાવો નથી."
+      ]
     }
   },
-  "reference": {"url": "https://www.ge.camcom.gov.it/it/promuovi/prodotti-tipici/prodotti-dop-e-igp/disciplinare_focaccia_di_recco_settembre_2024.pdf", "use": "Protected product specification informs only the thin unleavened dough and soft-cheese structure; this is an independently authored vegetarian home adaptation without certification claim."}
+  "reference": {
+    "url": "https://www.ge.camcom.gov.it/it/promuovi/prodotti-tipici/prodotti-dop-e-igp/disciplinare_focaccia_di_recco_settembre_2024.pdf",
+    "use": "Protected product specification informs only the thin unleavened dough and soft-cheese structure; this is an independently authored vegetarian home adaptation without certification claim."
+  },
+  "photoDraft": "catalog/intake/photos/focaccia-di-recco.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

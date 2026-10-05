@@ -1,27 +1,82 @@
 {
   "sourceReviewId": "R0111",
   "id": "pizza-ortolana",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pizza Ortolana",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 60,
   "passiveTime": "90 minutes dough rising",
   "ingredients": [
-    {"name": "strong wheat flour", "qty": 500, "unit": "g"},
-    {"name": "lukewarm water", "qty": 325, "unit": "ml"},
-    {"name": "instant dry yeast", "qty": 5, "unit": "g"},
-    {"name": "salt", "qty": 11, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 55, "unit": "ml"},
-    {"name": "tomato passata", "qty": 220, "unit": "g"},
-    {"name": "vegetarian mozzarella", "qty": 220, "unit": "g"},
-    {"name": "eggplant", "qty": 180, "unit": "g"},
-    {"name": "zucchini", "qty": 180, "unit": "g"},
-    {"name": "red bell pepper", "qty": 150, "unit": "g"},
-    {"name": "yellow bell pepper", "qty": 150, "unit": "g"},
-    {"name": "fresh basil", "qty": 15, "unit": "g"},
-    {"name": "dried oregano", "qty": 2, "unit": "g"}
+    {
+      "name": "strong wheat flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "lukewarm water",
+      "qty": 325,
+      "unit": "ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "eggplant",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "zucchini",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "yellow bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "fresh basil",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Mix the flour, yeast, 300 ml lukewarm water and 25 ml olive oil. Add 8 g salt and the remaining 25 ml water; knead for 8–10 minutes until smooth and elastic. Put in a lightly oiled bowl, cover, and leave in a warm place for about 90 minutes, until roughly doubled.",
@@ -31,12 +86,28 @@
     "Slide the first pizza, paper and all, onto the hot tray. Bake 10–14 minutes until the rim is deeply golden, the base is cooked through and the cheese bubbles. Assemble and bake the second pizza in the same way with the remaining sauce, cheese, vegetables and 5 ml oil.",
     "Scatter fresh basil over the baked pizzas and cut each into four slices. Serve two slices per person while hot. The grilled vegetables should be tender but retain their shape, and the base should not be damp."
   ],
-  "tips": ["Grill and cool the vegetables before topping; raw or steaming vegetables release water and soften the crust. Check mozzarella uses microbial or vegetable rennet. Seasonal vegetables can change, but keep them pre-cooked and thoroughly drained."],
+  "tips": [
+    "Grill and cool the vegetables before topping; raw or steaming vegetables release water and soften the crust. Check mozzarella uses microbial or vegetable rennet. Seasonal vegetables can change, but keep them pre-cooked and thoroughly drained."
+  ],
   "translations": {
     "hi": {
       "name": "पिज़्ज़ा ओर्तोलाना",
       "passiveTime": "लोई फूलने के लिए 90 मिनट",
-      "ingredients": ["ब्रेड के लिए मज़बूत गेहूँ का आटा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "नमक", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "टमाटर की छनी प्यूरी", "शाकाहारी मोत्ज़ारेला", "बैंगन", "ज़ुकीनी", "लाल शिमला मिर्च", "पीली शिमला मिर्च", "ताज़ी बेसिल", "सूखा ओरिगैनो"],
+      "ingredients": [
+        "ब्रेड के लिए मज़बूत गेहूँ का आटा",
+        "गुनगुना पानी",
+        "इंस्टेंट सूखा यीस्ट",
+        "नमक",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "टमाटर की छनी प्यूरी",
+        "शाकाहारी मोत्ज़ारेला",
+        "बैंगन",
+        "ज़ुकीनी",
+        "लाल शिमला मिर्च",
+        "पीली शिमला मिर्च",
+        "ताज़ी बेसिल",
+        "सूखा ओरिगैनो"
+      ],
       "steps": [
         "आटा, यीस्ट, 300 मिली गुनगुना पानी और 25 मिली ऑलिव तेल मिलाएँ। 8 ग्राम नमक और बचा 25 मिली पानी डालकर 8–10 मिनट चिकनी लचीली लोई गूँधें। हल्का तेल लगे बाउल में ढककर गरम जगह लगभग 90 मिनट रखें, जब तक आकार करीब दोगुना हो।",
         "बैंगन और ज़ुकीनी 5-मिमी टुकड़ों में तथा शिमला मिर्च पट्टियों में काटें। सब्ज़ियों पर 20 मिली ऑलिव तेल और बचा 1 ग्राम नमक लगाएँ। गरम धारियों वाले पैन पर थोड़ी-थोड़ी करके हर ओर 2–3 मिनट सेंकें, जब तक निशान पड़ें और सब्ज़ियाँ बस नरम हों। भाप निकलने के लिए प्लेट में फैलाएँ। मोत्ज़ारेला छानकर सुखाएँ।",
@@ -45,12 +116,28 @@
         "पहला पिज़्ज़ा पेपर समेत गरम ट्रे पर सरकाएँ। 10–14 मिनट बेक करें, जब तक किनारा गहरा सुनहरा, तला पूरा पका और चीज़ उबलता दिखे। बची प्यूरी, चीज़, सब्ज़ियों और 5 मिली तेल से दूसरा पिज़्ज़ा बनाकर इसी तरह बेक करें।",
         "बेक किए पिज़्ज़ा पर ताज़ी बेसिल डालें और हर पिज़्ज़ा चार स्लाइस काटें। प्रति व्यक्ति दो गरम स्लाइस परोसें। ग्रिल की सब्ज़ियाँ नरम पर अपने आकार में हों और तला गीला न हो।"
       ],
-      "tips": ["टॉपिंग से पहले सब्ज़ियाँ ग्रिल करके ठंडी करें; कच्ची या भाप छोड़ती सब्ज़ियाँ पानी निकालकर क्रस्ट नरम कर देती हैं। जाँचें कि मोत्ज़ारेला माइक्रोबियल या वनस्पति रेनेट का है। मौसमी सब्ज़ियाँ बदल सकते हैं, पर पहले पकाकर अच्छी तरह सुखाएँ।"]
+      "tips": [
+        "टॉपिंग से पहले सब्ज़ियाँ ग्रिल करके ठंडी करें; कच्ची या भाप छोड़ती सब्ज़ियाँ पानी निकालकर क्रस्ट नरम कर देती हैं। जाँचें कि मोत्ज़ारेला माइक्रोबियल या वनस्पति रेनेट का है। मौसमी सब्ज़ियाँ बदल सकते हैं, पर पहले पकाकर अच्छी तरह सुखाएँ।"
+      ]
     },
     "gu": {
       "name": "પિઝા ઓર્તોલાના",
       "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ",
-      "ingredients": ["બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકું યીસ્ટ", "મીઠું", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "ગાળેલી ટમેટાની પ્યુરી", "શાકાહારી મોઝેરેલા", "રીંગણ", "ઝુકીની", "લાલ શિમલા મરચું", "પીળું શિમલા મરચું", "તાજું બેસિલ", "સૂકો ઓરેગાનો"],
+      "ingredients": [
+        "બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ",
+        "હૂંફાળું પાણી",
+        "ઇન્સ્ટન્ટ સૂકું યીસ્ટ",
+        "મીઠું",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "ગાળેલી ટમેટાની પ્યુરી",
+        "શાકાહારી મોઝેરેલા",
+        "રીંગણ",
+        "ઝુકીની",
+        "લાલ શિમલા મરચું",
+        "પીળું શિમલા મરચું",
+        "તાજું બેસિલ",
+        "સૂકો ઓરેગાનો"
+      ],
       "steps": [
         "લોટ, યીસ્ટ, 300 મિલી હૂંફાળું પાણી અને 25 મિલી ઓલિવ તેલ ભેળવો. 8 ગ્રામ મીઠું અને બાકીનું 25 મિલી પાણી નાખીને 8–10 મિનિટ લીસો લવચીક લોટ મસળો. હળવું તેલ લગાવેલી વાટકીમાં ઢાંકીને ગરમ જગ્યાએ લગભગ 90 મિનિટ રાખો, જ્યાં સુધી કદ લગભગ બમણું થાય.",
         "રીંગણ અને ઝુકીનીના 5-મિમી ટુકડા તથા શિમલા મરચાંની પટ્ટીઓ કાપો. શાક પર 20 મિલી ઓલિવ તેલ અને બાકીનું 1 ગ્રામ મીઠું લગાવો. ગરમ રેખાવાળી તવી પર થોડું-થોડું કરીને દરેક બાજુ 2–3 મિનિટ શેકો, જ્યાં સુધી નિશાન પડે અને શાક બસ નરમ થાય. વરાળ નીકળી જાય તે માટે થાળીમાં પાથરો. મોઝેરેલા નિતારીને સૂકવો.",
@@ -59,8 +146,15 @@
         "પહેલો પિઝા પેપર સાથે ગરમ ટ્રે પર સરકાવો. 10–14 મિનિટ બેક કરો, જ્યાં સુધી કિનારી ઘેરી સોનેરી, તળિયો પૂરો પાકેલો અને ચીઝમાં પરપોટા દેખાય. બાકી પ્યુરી, ચીઝ, શાક અને 5 મિલી તેલથી બીજો પિઝા બનાવી એ જ રીતે બેક કરો.",
         "બેક થયેલા પિઝા પર તાજું બેસિલ નાખો અને દરેક પિઝાના ચાર ટુકડા કરો. વ્યક્તિદીઠ બે ગરમ ટુકડા પીરસો. શેકેલું શાક નરમ પણ આકારમાં હોય અને તળિયો ભીનો ન હોય."
       ],
-      "tips": ["ટોપિંગ પહેલાં શાક શેકીને ઠંડું કરો; કાચું કે વરાળ છોડતું શાક પાણી કાઢીને ક્રસ્ટ નરમ કરે છે. મોઝેરેલા માઇક્રોબિયલ કે વનસ્પતિ રેનેટથી બનેલું છે તેની ખાતરી કરો. મોસમી શાક બદલી શકાય, પણ તેને પહેલાં રાંધીને સારી રીતે સૂકવો."]
+      "tips": [
+        "ટોપિંગ પહેલાં શાક શેકીને ઠંડું કરો; કાચું કે વરાળ છોડતું શાક પાણી કાઢીને ક્રસ્ટ નરમ કરે છે. મોઝેરેલા માઇક્રોબિયલ કે વનસ્પતિ રેનેટથી બનેલું છે તેની ખાતરી કરો. મોસમી શાક બદલી શકાય, પણ તેને પહેલાં રાંધીને સારી રીતે સૂકવો."
+      ]
     }
   },
-  "reference": {"url": "https://www.galbani.it/ricette/pizza-ortolana", "use": "Grilled-vegetable pizza composition; dough, quantities and directions independently authored."}
+  "reference": {
+    "url": "https://www.galbani.it/ricette/pizza-ortolana",
+    "use": "Grilled-vegetable pizza composition; dough, quantities and directions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pizza-ortolana.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

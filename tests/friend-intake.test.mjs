@@ -79,3 +79,19 @@ test('the first 100 intake dishes are published once with complete recipes and p
   for(const size of [600,1200])await fs.access(new URL(`../public/photos/${candidate.id}-${size}.webp`,import.meta.url));
  }
 });
+
+test('the second 100 intake dishes are published once with translated measured recipes and reviewed photos',async()=>{
+ const second=intake.candidates.slice(100,200);
+ assert.equal(second.length,100);
+ assert.ok(second.every(candidate=>candidate.contentStatus==='published-second-100-intake-batch'));
+ for(const candidate of second){
+  const matches=published.filter(dish=>dish.id===candidate.id);
+  assert.equal(matches.length,1,'missing or duplicate published dish: '+candidate.id);
+  assert.equal(matches[0].recipeStatus,'complete');
+  assert.equal(matches[0].photo?.status,'reviewed');
+  const recipe=JSON.parse(await fs.readFile(new URL('../public/data/recipes/'+candidate.id+'.json',import.meta.url)));
+  assert.ok(recipe.steps.length>=4);
+  assert.ok(recipe.ingredients.every(item=>item.qty>0));
+  for(const size of [600,1200])await fs.access(new URL('../public/photos/'+candidate.id+'-'+size+'.webp',import.meta.url));
+ }
+});

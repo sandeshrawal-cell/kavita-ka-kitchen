@@ -1,47 +1,154 @@
 {
-  "sourceReviewId":"R0181","id":"drunken-noodles","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Drunken Noodles","cuisine":"Thai","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":35,
-  "ingredients":[
-    {"name":"fresh wide rice noodles","qty":800,"unit":"g"},
-    {"name":"firm tofu, pressed and cubed","qty":320,"unit":"g"},
-    {"name":"Thai holy basil leaves","qty":60,"unit":"g"},
-    {"name":"fresh red chilies, sliced","qty":25,"unit":"g"},
-    {"name":"garlic, chopped","qty":25,"unit":"g"},
-    {"name":"green bell pepper, sliced","qty":180,"unit":"g"},
-    {"name":"baby corn, halved lengthwise","qty":180,"unit":"g"},
-    {"name":"light soy sauce","qty":50,"unit":"ml"},
-    {"name":"dark soy sauce","qty":25,"unit":"ml"},
-    {"name":"vegetarian mushroom stir-fry sauce","qty":45,"unit":"ml"},
-    {"name":"sugar","qty":10,"unit":"g"},
-    {"name":"neutral oil","qty":45,"unit":"ml"},
-    {"name":"water","qty":35,"unit":"ml"}
+  "sourceReviewId": "R0181",
+  "id": "drunken-noodles",
+  "status": "published-second-100-intake-batch",
+  "name": "Vegetarian Drunken Noodles",
+  "cuisine": "Thai",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fresh wide rice noodles",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu, pressed and cubed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "Thai holy basil leaves",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fresh red chilies, sliced",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, chopped",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "baby corn, halved lengthwise",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "dark soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian mushroom stir-fry sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
     "Gently separate fresh wide rice noodles with oiled fingers. Press and cube tofu, slice chilies and pepper, halve baby corn and wash basil leaves. Whisk light and dark soy sauces with vegetarian mushroom sauce, sugar and measured 35 ml water.",
     "Heat 20 ml oil in a wide wok over high heat. Sear tofu cubes 2–3 minutes on each side until golden; remove. Do not crowd the pan or they will steam instead of brown.",
     "Add remaining 25 ml oil. Stir-fry garlic and sliced red chilies for about 20 seconds until fragrant without burning. Add pepper and baby corn and toss for 2–3 minutes until crisp-tender.",
     "Add broad rice noodles and let them touch the hot wok for 30–45 seconds to pick up a little char. Pour in the prepared sauce and return tofu. Lift and toss carefully for 2–3 minutes until the noodles are hot and evenly glazed.",
     "Switch off the heat. Add holy basil and toss just until leaves wilt from the residual heat; prolonged cooking dulls their aroma. Divide among four plates and serve immediately while the noodles are springy."
   ],
-  "tips":["Check mushroom sauce for a vegetarian label; ordinary oyster sauce and fish sauce are unsuitable. The reviewed photo shows wide rice noodles, red chilies, basil, green pepper, baby corn and browned tofu."],
-  "translations":{
-    "hi":{"name":"वेजिटेरियन ड्रंकन नूडल्स","ingredients":["ताज़े चौड़े चावल नूडल्स","सख्त टोफू, दबाकर चौकोर कटा","थाई होली बेसिल के पत्ते","ताज़ी लाल मिर्च, कटी","लहसुन, कटा","हरी शिमला मिर्च, कटी","बेबी कॉर्न, लंबाई में आधी","हल्का सोया सॉस","डार्क सोया सॉस","शाकाहारी मशरूम स्टिर-फ्राय सॉस","चीनी","हल्का स्वाद वाला तेल","पानी"],
-      "steps":[
+  "tips": [
+    "Check mushroom sauce for a vegetarian label; ordinary oyster sauce and fish sauce are unsuitable. The reviewed photo shows wide rice noodles, red chilies, basil, green pepper, baby corn and browned tofu."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेरियन ड्रंकन नूडल्स",
+      "ingredients": [
+        "ताज़े चौड़े चावल नूडल्स",
+        "सख्त टोफू, दबाकर चौकोर कटा",
+        "थाई होली बेसिल के पत्ते",
+        "ताज़ी लाल मिर्च, कटी",
+        "लहसुन, कटा",
+        "हरी शिमला मिर्च, कटी",
+        "बेबी कॉर्न, लंबाई में आधी",
+        "हल्का सोया सॉस",
+        "डार्क सोया सॉस",
+        "शाकाहारी मशरूम स्टिर-फ्राय सॉस",
+        "चीनी",
+        "हल्का स्वाद वाला तेल",
+        "पानी"
+      ],
+      "steps": [
         "ताज़े चौड़े चावल नूडल्स को तेल लगे हाथों से धीरे अलग करें। टोफू दबाकर चौकोर काटें, मिर्च और शिमला मिर्च काटें, बेबी कॉर्न आधा करें और बेसिल धोएँ। हल्का व डार्क सोया सॉस, शाकाहारी मशरूम सॉस, चीनी और नापा 35 मिली पानी फेंटें।",
         "चौड़े वोक में 20 मिली तेल तेज़ आँच पर गरम करें। टोफू की हर तरफ़ 2–3 मिनट सुनहरा सेंककर निकालें। पैन ज़्यादा न भरें, वरना टोफू भूरा होने के बजाय भाप में पकेगा।",
         "बचा 25 मिली तेल डालें। लहसुन और लाल मिर्च लगभग 20 सेकंड बिना जलाए सुगंध आने तक भूनें। शिमला मिर्च और बेबी कॉर्न डालकर 2–3 मिनट भूनें ताकि हल्के कुरकुरे रहें।",
         "चौड़े चावल नूडल्स डालें और 30–45 सेकंड गरम वोक को छूने दें ताकि हल्का भुना किनारा बने। तैयार सॉस डालें और टोफू वापस करें। 2–3 मिनट सावधानी से उठाकर मिलाएँ जब तक नूडल्स गरम और बराबर लिपटे हों।",
         "आँच बंद करें। होली बेसिल डालकर बची गर्मी से पत्ते बस मुरझाने तक मिलाएँ; देर तक पकाने से सुगंध घटती है। चार प्लेटों में बाँटें और नूडल्स लचीले रहते तुरंत परोसें।"
       ],
-      "tips":["मशरूम सॉस शाकाहारी है यह जाँचें; साधारण ऑयस्टर या फिश सॉस न लें। समीक्षित तस्वीर में चौड़े चावल नूडल्स, लाल मिर्च, बेसिल, हरी शिमला मिर्च, बेबी कॉर्न और भूरे टोफू हैं।"]},
-    "gu":{"name":"વેજિટેરિયન ડ્રંકન નૂડલ્સ","ingredients":["તાજા પહોળા ચોખાના નૂડલ્સ","મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","થાઈ હોલી બેસિલનાં પાન","તાજાં લાલ મરચાં, કાપેલાં","લસણ, સમારેલું","લીલું કેપ્સિકમ, કાપેલું","બેબી કોર્ન, લંબાઈમાં અડધાં","હળવો સોયા સોસ","ઘાટો સોયા સોસ","શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ","ખાંડ","હળવા સ્વાદનું તેલ","પાણી"],
-      "steps":[
+      "tips": [
+        "मशरूम सॉस शाकाहारी है यह जाँचें; साधारण ऑयस्टर या फिश सॉस न लें। समीक्षित तस्वीर में चौड़े चावल नूडल्स, लाल मिर्च, बेसिल, हरी शिमला मिर्च, बेबी कॉर्न और भूरे टोफू हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેરિયન ડ્રંકન નૂડલ્સ",
+      "ingredients": [
+        "તાજા પહોળા ચોખાના નૂડલ્સ",
+        "મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું",
+        "થાઈ હોલી બેસિલનાં પાન",
+        "તાજાં લાલ મરચાં, કાપેલાં",
+        "લસણ, સમારેલું",
+        "લીલું કેપ્સિકમ, કાપેલું",
+        "બેબી કોર્ન, લંબાઈમાં અડધાં",
+        "હળવો સોયા સોસ",
+        "ઘાટો સોયા સોસ",
+        "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ",
+        "ખાંડ",
+        "હળવા સ્વાદનું તેલ",
+        "પાણી"
+      ],
+      "steps": [
         "તાજા પહોળા ચોખાના નૂડલ્સ તેલ લગાવેલા હાથથી હળવેથી છૂટા કરો. ટોફુ દબાવી ચોરસ કાપો, મરચાં અને કેપ્સિકમ કાપો, બેબી કોર્ન અડધાં કરો અને બેસિલ ધુઓ. હળવો અને ઘાટો સોયા સોસ, શાકાહારી મશરૂમ સોસ, ખાંડ અને માપેલું 35 મિલી પાણી ફેંટો.",
         "પહોળી કડાઈમાં 20 મિલી તેલ વધુ તાપે ગરમ કરો. ટોફુની દરેક બાજુ 2–3 મિનિટ સોનેરી શેકી કાઢો. કડાઈ વધુ ન ભરો, નહિ તો ટોફુ બદામી થવાને બદલે વરાળે રંધાશે.",
         "બાકી 25 મિલી તેલ નાખો. લસણ અને લાલ મરચાં લગભગ 20 સેકન્ડ ન બળે તેમ સુગંધ આવે ત્યાં સુધી શેકો. કેપ્સિકમ અને બેબી કોર્ન નાખી 2–3 મિનિટ થોડાં કરકરાં રહે તેમ શેકો.",
         "પહોળા ચોખાના નૂડલ્સ નાખી 30–45 સેકન્ડ ગરમ કડાઈને અડકવા દો જેથી ધાર સહેજ શેકાય. તૈયાર સોસ રેડી ટોફુ પાછું નાખો. 2–3 મિનિટ કાળજીથી ઊંચકી ભેળવો જેથી નૂડલ્સ ગરમ અને સરખા સોસવાળા થાય.",
         "તાપ બંધ કરો. હોલી બેસિલ નાખી બાકી ગરમીથી પાન માત્ર ચીમળે ત્યાં સુધી ભેળવો; વધારે રાંધવાથી સુગંધ ઘટે. ચાર પ્લેટમાં વહેંચી નૂડલ્સ લચીલા હોય ત્યારે તરત પીરસો."
       ],
-      "tips":["મશરૂમ સોસ શાકાહારી છે તે ચકાસો; સામાન્ય ઓઇસ્ટર કે ફિશ સોસ ન લો. તપાસેલા ફોટામાં પહોળા ચોખાના નૂડલ્સ, લાલ મરચાં, બેસિલ, લીલું કેપ્સિકમ, બેબી કોર્ન અને બદામી ટોફુ છે."]}
+      "tips": [
+        "મશરૂમ સોસ શાકાહારી છે તે ચકાસો; સામાન્ય ઓઇસ્ટર કે ફિશ સોસ ન લો. તપાસેલા ફોટામાં પહોળા ચોખાના નૂડલ્સ, લાલ મરચાં, બેસિલ, લીલું કેપ્સિકમ, બેબી કોર્ન અને બદામી ટોફુ છે."
+      ]
+    }
   },
-  "reference":{"url":"https://hot-thai-kitchen.com/pad-kee-mao-2/","use":"Thai pad kee mao basil-chili and high-heat approach; vegetarian egg-free quantities and wording independently authored."}
+  "reference": {
+    "url": "https://hot-thai-kitchen.com/pad-kee-mao-2/",
+    "use": "Thai pad kee mao basil-chili and high-heat approach; vegetarian egg-free quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/drunken-noodles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

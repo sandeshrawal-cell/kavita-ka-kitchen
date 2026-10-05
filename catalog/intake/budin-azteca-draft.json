@@ -1,37 +1,98 @@
 {
   "sourceReviewId": "R0162",
   "id": "budin-azteca",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Vegetarian Budín Azteca",
   "cuisine": "Mexican",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 65,
   "ingredients": [
-    {"name": "small corn tortillas (12 pieces)", "qty": 360, "unit": "g"},
-    {"name": "roasted poblano or green bell pepper strips", "qty": 220, "unit": "g"},
-    {"name": "button mushrooms, sliced", "qty": 220, "unit": "g"},
-    {"name": "sweetcorn kernels, drained", "qty": 180, "unit": "g"},
-    {"name": "thick tomatillo salsa verde", "qty": 420, "unit": "g"},
-    {"name": "vegetarian melting cheese made without animal rennet, grated", "qty": 240, "unit": "g"},
-    {"name": "soured cream or vegetarian crema", "qty": 160, "unit": "g"},
-    {"name": "onion, sliced thin", "qty": 100, "unit": "g"},
-    {"name": "neutral oil", "qty": 25, "unit": "ml"},
-    {"name": "fine salt", "qty": 5, "unit": "g"},
-    {"name": "fresh coriander leaves", "qty": 15, "unit": "g"}
+    {
+      "name": "small corn tortillas (12 pieces)",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "roasted poblano or green bell pepper strips",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms, sliced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "sweetcorn kernels, drained",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "thick tomatillo salsa verde",
+      "qty": 420,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian melting cheese made with vegetarian coagulants, grated",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "soured cream or vegetarian crema",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced thin",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Heat the oven to 190°C. Check that the grated cheese contains no animal rennet. Heat 15 ml oil in a wide pan and cook the sliced onion for 4 minutes. Add mushrooms and cook 6–7 minutes until their released liquid evaporates. Stir in the roasted pepper strips, drained sweetcorn and salt; cook 2 minutes and set aside.",
+    "Heat the oven to 190°C. Check that the grated cheese contains no animal-derived coagulants. Heat 15 ml oil in a wide pan and cook the sliced onion for 4 minutes. Add mushrooms and cook 6–7 minutes until their released liquid evaporates. Stir in the roasted pepper strips, drained sweetcorn and salt; cook 2 minutes and set aside.",
     "Brush the remaining 10 ml oil over a frying pan. Warm the corn tortillas briefly on both sides until pliable, then cut each in half. Spread about 80 g salsa verde across the bottom of a roughly 20 × 25 cm baking dish. Arrange one-third of the tortilla halves in a single overlapping layer.",
     "Top the first tortilla layer with half the vegetable mixture, about 110 g salsa, 50 g crema and 70 g cheese. Repeat with a second third of the tortillas and the remaining vegetables, then another 110 g salsa, 50 g crema and 70 g cheese. Place the remaining tortillas on top.",
     "Spread the remaining salsa over the top tortillas, dot with the remaining 60 g crema and scatter over the remaining 100 g cheese. Cover loosely with foil and bake for 20 minutes. Remove the foil and bake another 10–15 minutes until bubbling and lightly browned at the edges.",
     "Rest the casserole for 10 minutes so the stacked tortillas can be cut into tidy squares. Divide into four portions and finish with coriander. Each slice should show distinct corn-tortilla layers separated by green salsa, poblano, corn and mushrooms beneath melted cheese."
   ],
-  "tips": ["Use corn tortillas rather than pasta sheets, and cook mushroom moisture away before layering. The reviewed photo shows a baked rectangular casserole with visible tortilla, green salsa, mushroom, poblano, corn and cheese layers."],
+  "tips": [
+    "Use corn tortillas rather than pasta sheets, and cook mushroom moisture away before layering. The reviewed photo shows a baked rectangular casserole with visible tortilla, green salsa, mushroom, poblano, corn and cheese layers."
+  ],
   "translations": {
     "hi": {
       "name": "शाकाहारी बुदीन आज़तेका",
-      "ingredients": ["छोटी मक्के की टॉर्टिया (12 नग)", "भुनी पोब्लानो या हरी शिमला मिर्च की पट्टियाँ", "कटे बटन मशरूम", "मीठे मकई के दाने, पानी निकाले हुए", "गाढ़ा टोमाटीलो हरा साल्सा", "पशु रेननेट रहित शाकाहारी पिघलने वाला चीज़, कद्दूकस", "सॉर क्रीम या शाकाहारी क्रेमा", "प्याज़, पतले कटे", "हल्का स्वाद वाला तेल", "बारीक नमक", "ताज़ी धनिया पत्ती"],
+      "ingredients": [
+        "छोटी मक्के की टॉर्टिया (12 नग)",
+        "भुनी पोब्लानो या हरी शिमला मिर्च की पट्टियाँ",
+        "कटे बटन मशरूम",
+        "मीठे मकई के दाने, पानी निकाले हुए",
+        "गाढ़ा टोमाटीलो हरा साल्सा",
+        "पशु रेननेट रहित शाकाहारी पिघलने वाला चीज़, कद्दूकस",
+        "सॉर क्रीम या शाकाहारी क्रेमा",
+        "प्याज़, पतले कटे",
+        "हल्का स्वाद वाला तेल",
+        "बारीक नमक",
+        "ताज़ी धनिया पत्ती"
+      ],
       "steps": [
         "ओवन 190°C पर गरम करें। जाँचें कि कद्दूकस चीज़ में पशु रेननेट नहीं है। चौड़े पैन में 15 मिली तेल गरम करें और कटा प्याज़ 4 मिनट पकाएँ। मशरूम डालकर 6–7 मिनट पकाएँ, जब तक उनका निकला पानी सूख जाए। भुनी मिर्च की पट्टियाँ, छाना मकई और नमक मिलाकर 2 मिनट पकाएँ, फिर अलग रखें।",
         "बचा 10 मिली तेल तवे पर लगाएँ। मक्के की टॉर्टिया दोनों ओर थोड़ी गरम करके लचीली करें, फिर हर एक को आधा काटें। लगभग 20 × 25 सेमी बेकिंग डिश के तले में करीब 80 ग्राम हरा साल्सा फैलाएँ। टॉर्टिया के आधे टुकड़ों का एक-तिहाई हिस्सा थोड़ा चढ़ाकर एक परत में रखें।",
@@ -39,11 +100,25 @@
         "ऊपरी टॉर्टिया पर बचा साल्सा फैलाएँ, बचा 60 ग्राम क्रेमा जगह-जगह डालें और बचा 100 ग्राम चीज़ छिड़कें। फॉइल ढीला ढककर 20 मिनट बेक करें। फॉइल हटाकर 10–15 मिनट और बेक करें, जब तक बुलबुले आएँ और किनारे हल्के भूरे हों।",
         "कैसरोल को 10 मिनट ठहराएँ ताकि टॉर्टिया की परतें साफ़ चौकोर कटें। चार भाग करें और धनिया डालें। हर टुकड़े में पिघले चीज़ के नीचे हरे साल्सा, पोब्लानो, मकई और मशरूम से अलग हुई मक्के की टॉर्टिया परतें दिखनी चाहिए।"
       ],
-      "tips": ["पास्ता शीट नहीं, मक्के की टॉर्टिया लें और परत लगाने से पहले मशरूम का पानी सुखाएँ। समीक्षित तस्वीर में आयताकार पकी कैसरोल है, जिसकी टॉर्टिया, हरा साल्सा, मशरूम, पोब्लानो, मकई और चीज़ की परतें साफ़ दिखती हैं।"]
+      "tips": [
+        "पास्ता शीट नहीं, मक्के की टॉर्टिया लें और परत लगाने से पहले मशरूम का पानी सुखाएँ। समीक्षित तस्वीर में आयताकार पकी कैसरोल है, जिसकी टॉर्टिया, हरा साल्सा, मशरूम, पोब्लानो, मकई और चीज़ की परतें साफ़ दिखती हैं।"
+      ]
     },
     "gu": {
       "name": "શાકાહારી બુદીન આઝટેકા",
-      "ingredients": ["નાની મકાઈની ટોર્ટિયા (12 નંગ)", "શેકેલા પોબ્લાનો અથવા લીલા સિમલા મરચાંની પટ્ટીઓ", "કાપેલા બટન મશરૂમ", "મીઠી મકાઈના દાણા, પાણી નિતારેલા", "ઘાટી ટોમાટિયો લીલી સાલસા", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ઓગળતું ચીઝ, છીણેલું", "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા", "ડુંગળી, પાતળી સમારેલી", "હળવા સ્વાદનું તેલ", "બારીક મીઠું", "તાજી કોથમીર"],
+      "ingredients": [
+        "નાની મકાઈની ટોર્ટિયા (12 નંગ)",
+        "શેકેલા પોબ્લાનો અથવા લીલા સિમલા મરચાંની પટ્ટીઓ",
+        "કાપેલા બટન મશરૂમ",
+        "મીઠી મકાઈના દાણા, પાણી નિતારેલા",
+        "ઘાટી ટોમાટિયો લીલી સાલસા",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ઓગળતું ચીઝ, છીણેલું",
+        "સાવર ક્રીમ અથવા શાકાહારી ક્રેમા",
+        "ડુંગળી, પાતળી સમારેલી",
+        "હળવા સ્વાદનું તેલ",
+        "બારીક મીઠું",
+        "તાજી કોથમીર"
+      ],
       "steps": [
         "ઓવન 190°C પર ગરમ કરો. છીણેલા ચીઝમાં પ્રાણીજન્ય રેનેટ નથી તે તપાસો. પહોળી કડાઈમાં 15 મિલી તેલ ગરમ કરી પાતળી ડુંગળી 4 મિનિટ રાંધો. મશરૂમ નાખી 6–7 મિનિટ રાંધો જેથી તેમનું પાણી બળી જાય. શેકેલા મરચાંની પટ્ટીઓ, નિતારેલી મકાઈ અને મીઠું ભેળવી 2 મિનિટ રાંધો, પછી બાજુએ રાખો.",
         "બાકીનું 10 મિલી તેલ તવા પર લગાવો. મકાઈની ટોર્ટિયાને બંને બાજુ સહેજ ગરમ કરી લચીલી બનાવો, પછી દરેકને અડધી કાપો. આશરે 20 × 25 સેમી બેકિંગ ડિશના તળિયે લગભગ 80 ગ્રામ લીલી સાલસા પાથરો. ટોર્ટિયાના અડધા ટુકડાનો ત્રીજો ભાગ સહેજ એકમેક પર ચઢાવી ગોઠવો.",
@@ -51,8 +126,15 @@
         "ઉપરની ટોર્ટિયા પર બાકી સાલસા પાથરો, બાકી 60 ગ્રામ ક્રેમા થોડે થોડે મૂકો અને બાકી 100 ગ્રામ ચીઝ છાંટો. ઢીલી ફોઇલ ઢાંકી 20 મિનિટ બેક કરો. ફોઇલ દૂર કરી 10–15 મિનિટ વધુ બેક કરો જેથી પરપોટા આવે અને ધાર આછી બદામી થાય.",
         "કેસરોલને 10 મિનિટ આરામ આપો જેથી ટોર્ટિયાની પરતો ચોખ્ખા ચોરસ કપાય. ચાર ભાગ કરો અને કોથમીર નાખો. દરેક ટુકડામાં ઓગળેલા ચીઝ નીચે લીલી સાલસા, પોબ્લાનો, મકાઈ અને મશરૂમ વચ્ચે મકાઈની ટોર્ટિયાની અલગ પરતો દેખાવા જોઈએ."
       ],
-      "tips": ["પાસ્તાની શીટ નહીં, મકાઈની ટોર્ટિયા વાપરો અને પરત બનાવતાં પહેલાં મશરૂમનું પાણી સૂકવો. તપાસેલા ફોટામાં લંબચોરસ શેકેલી કેસરોલમાં ટોર્ટિયા, લીલી સાલસા, મશરૂમ, પોબ્લાનો, મકાઈ અને ચીઝની પરતો સ્પષ્ટ દેખાય છે."]
+      "tips": [
+        "પાસ્તાની શીટ નહીં, મકાઈની ટોર્ટિયા વાપરો અને પરત બનાવતાં પહેલાં મશરૂમનું પાણી સૂકવો. તપાસેલા ફોટામાં લંબચોરસ શેકેલી કેસરોલમાં ટોર્ટિયા, લીલી સાલસા, મશરૂમ, પોબ્લાનો, મકાઈ અને ચીઝની પરતો સ્પષ્ટ દેખાય છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.epicurious.com/recipes/food/views/tortilla-casserole-budin-azteca-392732", "use": "Layered corn-tortilla, poblano and salsa verde casserole structure; vegetarian mushroom-corn version, measurements and wording independently authored."}
+  "reference": {
+    "url": "https://www.epicurious.com/recipes/food/views/tortilla-casserole-budin-azteca-392732",
+    "use": "Layered corn-tortilla, poblano and salsa verde casserole structure; vegetarian mushroom-corn version, measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/budin-azteca.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

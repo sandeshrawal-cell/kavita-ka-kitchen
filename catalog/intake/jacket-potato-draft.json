@@ -1,26 +1,119 @@
 {
-  "sourceReviewId":"R0199","id":"jacket-potato","status":"draft-photo-and-translation-reviewed","name":"Jacket Potato","cuisine":"British","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":85,
-  "ingredients":[
-    {"name":"large floury baking potatoes (4 pieces)","qty":1200,"unit":"g"},
-    {"name":"olive oil","qty":25,"unit":"ml"},
-    {"name":"salt","qty":9,"unit":"g"},
-    {"name":"unsalted butter","qty":45,"unit":"g"},
-    {"name":"canned baked beans in tomato sauce","qty":420,"unit":"g"},
-    {"name":"vegetarian-rennet cheddar, grated","qty":160,"unit":"g"},
-    {"name":"spring onion greens, thinly sliced","qty":35,"unit":"g"},
-    {"name":"ground black pepper","qty":2,"unit":"g"}
+  "sourceReviewId": "R0199",
+  "id": "jacket-potato",
+  "status": "published-second-100-intake-batch",
+  "name": "Jacket Potato",
+  "cuisine": "British",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 85,
+  "ingredients": [
+    {
+      "name": "large floury baking potatoes (4 pieces)",
+      "qty": 1200,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "canned baked beans in tomato sauce",
+      "qty": 420,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion greens, thinly sliced",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
     "Heat the oven to 220°C. Scrub and dry four similar-sized potatoes thoroughly; prick each several times with a fork so steam can escape. Do not wrap them in foil if you want crisp skins.",
     "Rub potatoes all over with olive oil and 5 g salt. Place directly on the oven rack with a tray underneath and bake for 60–75 minutes, turning once, until the skins are crisp and a knife slides easily into the centres.",
     "Near the end of baking, heat the baked beans in a small saucepan over medium-low heat for 5 minutes until bubbling and fully hot. Grate the cheddar and slice the spring onion greens.",
     "Move the hot potatoes to plates. Cut a deep cross in the top of each, squeeze the ends gently to open, and fluff the insides with a fork. Divide butter and the remaining 4 g salt among them.",
     "Spoon hot baked beans into each potato, then add grated vegetarian cheddar so it softens. Finish with spring onion greens and black pepper; serve immediately while the jackets are crisp."
   ],
-  "tips":["Choose dry, floury baking potatoes of equal size. Baking directly on the rack gives a crisp jacket; check that the baked beans and cheddar suit the household's vegetarian preferences."],
-  "translations":{
-    "hi":{"name":"जैकेट पोटैटो","ingredients":["बड़े बेकिंग आलू (4 पीस)","ऑलिव ऑयल","नमक","बिना नमक का मक्खन","टमाटर सॉस में डिब्बाबंद बेक्ड बीन्स","वेजिटेरियन रेनेट वाला चेडर, कद्दूकस","हरे प्याज़ के पत्ते, बारीक कटे","पिसी काली मिर्च"],"steps":["ओवन 220°C तक गरम करें। एक समान आकार के चार आलू अच्छी तरह धोकर सुखाएँ; भाप निकलने के लिए काँटे से कई छेद करें। कुरकुरा छिलका चाहिए तो फॉयल में न लपेटें।","आलुओं पर ऑलिव ऑयल और 5 ग्राम नमक रगड़ें। नीचे ट्रे रखकर सीधे ओवन रैक पर 60–75 मिनट बेक करें, बीच में एक बार पलटें। छिलका कुरकुरा और बीच में चाकू आसानी से जाए तो तैयार हैं।","बेकिंग के आख़िर में छोटे पैन में बेक्ड बीन्स मध्यम-धीमी आँच पर 5 मिनट बुलबुले आने और पूरी तरह गरम होने तक गरम करें। चेडर कद्दूकस करें और हरे प्याज़ के पत्ते काटें।","गरम आलू प्लेटों में रखें। हर आलू के ऊपर गहरा क्रॉस काटें, किनारे हल्के दबाकर खोलें और अंदर काँटे से फुलाएँ। मक्खन और बचा 4 ग्राम नमक चारों में बाँटें।","हर आलू में गरम बीन्स डालें, फिर कद्दूकस वेजिटेरियन चेडर डालें ताकि वह नरम हो। ऊपर हरे प्याज़ के पत्ते और काली मिर्च डालकर कुरकुरे छिलके के साथ तुरंत परोसें।"],"tips":["एक आकार के सूखे, बेकिंग वाले आलू चुनें। सीधे रैक पर बेक करने से छिलका कुरकुरा बनता है; बीन्स और चेडर घर की शाकाहारी पसंद के अनुसार जाँचें।"]},
-    "gu":{"name":"જેકેટ પોટેટો","ingredients":["મોટા બેકિંગ બટાકા (4 નંગ)","ઓલિવ તેલ","મીઠું","મીઠા વગરનું માખણ","ટામેટાના સોસમાં ડબ્બાબંધ બેકડ બીન્સ","વેજિટેરિયન રેનેટવાળું ચેડર, છીણેલું","લીલી ડુંગળીના પાન, બારીક સમારેલાં","દળેલી કાળી મરી"],"steps":["ઓવન 220°C સુધી ગરમ કરો. સરખા કદના ચાર બટાકા ધોઈને બરાબર સૂકવો; વરાળ નીકળે માટે કાંટાથી અનેક છિદ્ર કરો. કરકરું છોતરું જોઈએ તો ફોઇલમાં ન લપેટો.","બટાકા પર ઓલિવ તેલ અને 5 ગ્રામ મીઠું ઘસો. નીચે ટ્રે રાખી સીધા ઓવન રૅક પર 60–75 મિનિટ બેક કરો, વચ્ચે એક વાર પલટો. છોતરું કરકરું થાય અને વચ્ચે છરી સહેલાઈથી જાય ત્યારે તૈયાર.","બેક થવાના અંતે નાના પૅનમાં બેકડ બીન્સને મધ્યમથી ધીમા તાપે 5 મિનિટ પરપોટા ઊઠે અને પૂરેપૂરાં ગરમ થાય ત્યાં સુધી ગરમ કરો. ચેડર છીણો અને લીલી ડુંગળીના પાન કાપો.","ગરમ બટાકા થાળીમાં મૂકો. દરેક પર ઊંડો ક્રોસ કાપો, છેડા હળવેથી દબાવી ખોલો અને અંદર કાંટાથી ફુલાવો. માખણ અને બાકીનું 4 ગ્રામ મીઠું ચારેયમાં વહેંચો.","દરેક બટાકામાં ગરમ બીન્સ ભરો, પછી છીણેલું વેજિટેરિયન ચેડર નાખો જેથી તે ઓગળે. ઉપર લીલી ડુંગળીના પાન અને કાળી મરી નાખી કરકરા છોતરા સાથે તરત પીરસો."],"tips":["એકસરખા કદના, સૂકા બેકિંગ બટાકા પસંદ કરો. સીધા રૅક પર બેક કરવાથી છોતરું કરકરું બને છે; બીન્સ અને ચેડર ઘરની શાકાહારી પસંદ મુજબ તપાસો."]}
+  "tips": [
+    "Choose dry, floury baking potatoes of equal size. Baking directly on the rack gives a crisp jacket; check that the baked beans and cheddar suit the household's vegetarian preferences."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जैकेट पोटैटो",
+      "ingredients": [
+        "बड़े बेकिंग आलू (4 पीस)",
+        "ऑलिव ऑयल",
+        "नमक",
+        "बिना नमक का मक्खन",
+        "टमाटर सॉस में डिब्बाबंद बेक्ड बीन्स",
+        "वेजिटेरियन रेनेट वाला चेडर, कद्दूकस",
+        "हरे प्याज़ के पत्ते, बारीक कटे",
+        "पिसी काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 220°C तक गरम करें। एक समान आकार के चार आलू अच्छी तरह धोकर सुखाएँ; भाप निकलने के लिए काँटे से कई छेद करें। कुरकुरा छिलका चाहिए तो फॉयल में न लपेटें।",
+        "आलुओं पर ऑलिव ऑयल और 5 ग्राम नमक रगड़ें। नीचे ट्रे रखकर सीधे ओवन रैक पर 60–75 मिनट बेक करें, बीच में एक बार पलटें। छिलका कुरकुरा और बीच में चाकू आसानी से जाए तो तैयार हैं।",
+        "बेकिंग के आख़िर में छोटे पैन में बेक्ड बीन्स मध्यम-धीमी आँच पर 5 मिनट बुलबुले आने और पूरी तरह गरम होने तक गरम करें। चेडर कद्दूकस करें और हरे प्याज़ के पत्ते काटें।",
+        "गरम आलू प्लेटों में रखें। हर आलू के ऊपर गहरा क्रॉस काटें, किनारे हल्के दबाकर खोलें और अंदर काँटे से फुलाएँ। मक्खन और बचा 4 ग्राम नमक चारों में बाँटें।",
+        "हर आलू में गरम बीन्स डालें, फिर कद्दूकस वेजिटेरियन चेडर डालें ताकि वह नरम हो। ऊपर हरे प्याज़ के पत्ते और काली मिर्च डालकर कुरकुरे छिलके के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "एक आकार के सूखे, बेकिंग वाले आलू चुनें। सीधे रैक पर बेक करने से छिलका कुरकुरा बनता है; बीन्स और चेडर घर की शाकाहारी पसंद के अनुसार जाँचें।"
+      ]
+    },
+    "gu": {
+      "name": "જેકેટ પોટેટો",
+      "ingredients": [
+        "મોટા બેકિંગ બટાકા (4 નંગ)",
+        "ઓલિવ તેલ",
+        "મીઠું",
+        "મીઠા વગરનું માખણ",
+        "ટામેટાના સોસમાં ડબ્બાબંધ બેકડ બીન્સ",
+        "વેજિટેરિયન રેનેટવાળું ચેડર, છીણેલું",
+        "લીલી ડુંગળીના પાન, બારીક સમારેલાં",
+        "દળેલી કાળી મરી"
+      ],
+      "steps": [
+        "ઓવન 220°C સુધી ગરમ કરો. સરખા કદના ચાર બટાકા ધોઈને બરાબર સૂકવો; વરાળ નીકળે માટે કાંટાથી અનેક છિદ્ર કરો. કરકરું છોતરું જોઈએ તો ફોઇલમાં ન લપેટો.",
+        "બટાકા પર ઓલિવ તેલ અને 5 ગ્રામ મીઠું ઘસો. નીચે ટ્રે રાખી સીધા ઓવન રૅક પર 60–75 મિનિટ બેક કરો, વચ્ચે એક વાર પલટો. છોતરું કરકરું થાય અને વચ્ચે છરી સહેલાઈથી જાય ત્યારે તૈયાર.",
+        "બેક થવાના અંતે નાના પૅનમાં બેકડ બીન્સને મધ્યમથી ધીમા તાપે 5 મિનિટ પરપોટા ઊઠે અને પૂરેપૂરાં ગરમ થાય ત્યાં સુધી ગરમ કરો. ચેડર છીણો અને લીલી ડુંગળીના પાન કાપો.",
+        "ગરમ બટાકા થાળીમાં મૂકો. દરેક પર ઊંડો ક્રોસ કાપો, છેડા હળવેથી દબાવી ખોલો અને અંદર કાંટાથી ફુલાવો. માખણ અને બાકીનું 4 ગ્રામ મીઠું ચારેયમાં વહેંચો.",
+        "દરેક બટાકામાં ગરમ બીન્સ ભરો, પછી છીણેલું વેજિટેરિયન ચેડર નાખો જેથી તે ઓગળે. ઉપર લીલી ડુંગળીના પાન અને કાળી મરી નાખી કરકરા છોતરા સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "એકસરખા કદના, સૂકા બેકિંગ બટાકા પસંદ કરો. સીધા રૅક પર બેક કરવાથી છોતરું કરકરું બને છે; બીન્સ અને ચેડર ઘરની શાકાહારી પસંદ મુજબ તપાસો."
+      ]
+    }
   },
-  "reference":{"url":"https://www.bbcgoodfood.com/howto/guide/how-make-ultimate-baked-potato","use":"Crisp baked potato method; bean-and-cheese topping, quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://www.bbcgoodfood.com/howto/guide/how-make-ultimate-baked-potato",
+    "use": "Crisp baked potato method; bean-and-cheese topping, quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/jacket-potato.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

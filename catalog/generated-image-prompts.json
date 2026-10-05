@@ -2253,5 +2253,605 @@
     "method": "Built-in image generation",
     "reviewedAt": "2026-09-27",
     "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "spaghetti-alla-carrettiera": {
+    "prompt": "Use case: photorealistic-natural. Authentic Spaghetti alla Carrettiera: Spaghetti with raw tomato, garlic, chilli and parsley. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pesto-rosso-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pesto Rosso Pasta: Pasta tossed with sun-dried tomato and almond pesto. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pasta-alla-trapanese": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pasta alla Trapanese: Pasta with raw tomato, almond and basil pesto. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pasta-ai-quattro-formaggi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pasta ai Quattro Formaggi: Pasta in a rich four-cheese cream sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "lemon-ricotta-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Lemon Ricotta Pasta: Pasta tossed with lemon zest, ricotta and parmesan. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gnocchi-burro-e-salvia": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gnocchi Burro e Salvia: Potato gnocchi in brown butter and sage. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gnocchi-gorgonzola": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gnocchi Gorgonzola: Potato gnocchi in creamy gorgonzola sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "wafu-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Wafu Pasta: Spaghetti tossed with soy, butter and mushrooms. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "schezwan-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Schezwan Pasta: Pasta tossed in spicy schezwan sauce with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pizza-bianca": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pizza Bianca: Tomato-free pizza with olive oil, rosemary and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pizza-ortolana": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pizza Ortolana: Pizza topped with grilled seasonal vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pizza-funghi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pizza Funghi: Pizza with tomato, mozzarella and mushrooms. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pinsa-romana": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pinsa Romana: Airy oval flatbread pizza with light toppings. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "fugazzeta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Fugazzeta: Cheese-stuffed pizza topped with sweet onions. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "focaccia-di-recco": {
+    "prompt": "Use case: photorealistic-natural. Authentic Focaccia di Recco: Paper-thin focaccia filled with melted soft cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "french-bread-pizza": {
+    "prompt": "Use case: photorealistic-natural. Authentic French Bread Pizza: Split baguette topped with sauce, cheese and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pizza-paratha": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pizza Paratha: Paratha stuffed with cheese, vegetables and pizza sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kibbeh-batata": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kibbeh Batata: Baked potato-bulgur layers with onion and walnut filling. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "homity-pie": {
+    "prompt": "Use case: photorealistic-natural. Authentic Homity Pie: Open pie of potato, onion, garlic and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "lobiani": {
+    "prompt": "Use case: photorealistic-natural. Authentic Lobiani: Bread stuffed with spiced mashed kidney beans. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "jamaican-vegetable-patty": {
+    "prompt": "Use case: photorealistic-natural. Authentic Jamaican Vegetable Patty: Flaky turmeric pastry filled with curried vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "black-bean-burger": {
+    "prompt": "Use case: photorealistic-natural. Authentic Black Bean Burger: Spiced black bean patty burger with salsa. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-katsu-sando": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Katsu Sando: Crispy panko tofu cutlet sandwich with katsu sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bombay-frankie": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bombay Frankie: Egg-free roti roll with spicy potato or paneer filling. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "soya-chaap-roll": {
+    "prompt": "Use case: photorealistic-natural. Authentic Soya Chaap Roll: Grilled soya chaap wrapped in rumali roti with onions. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pan-fried-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pan-Fried Noodles: Crisp noodle cake topped with vegetables in sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetarian-zhajiangmian": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetarian Zhajiangmian: Noodles with savoury bean-paste tofu and cucumber. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetarian-jajangmyeon": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetarian Jajangmyeon: Noodles in black bean sauce with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "yaki-udon": {
+    "prompt": "Use case: photorealistic-natural. Authentic Yaki Udon: Thick udon stir-fried with cabbage and soy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "rabokki": {
+    "prompt": "Use case: photorealistic-natural. Authentic Rabokki: Ramen and rice cakes in sweet-spicy gochujang sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chao-nian-gao": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chao Nian Gao: Stir-fried rice cakes with cabbage and mushrooms. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pad-med-mamuang": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pad Med Mamuang: Tofu stir-fried with cashews, chillies and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pad-prik-khing": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pad Prik Khing: Green beans and tofu stir-fried in red curry paste. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chinese-chopsuey": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chinese Chopsuey: Soft noodles and vegetables in glossy sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetables-in-black-bean-sauce": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetables in Black Bean Sauce: Vegetables tossed in savoury fermented black bean sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "white-sauce-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic White Sauce Pasta: Pasta in creamy béchamel sauce with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pesto-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pesto Pasta: Pasta tossed with basil, pine nut and parmesan pesto. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "spaghetti-aglio-e-olio": {
+    "prompt": "Use case: photorealistic-natural. Authentic Spaghetti Aglio e Olio: Spaghetti with garlic, olive oil and chilli flakes. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Pasta: Pasta cooked Indian-style in onion-tomato masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chilli-garlic-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chilli Garlic Noodles: Noodles tossed with burnt garlic, chilli and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "schezwan-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Schezwan Noodles: Spicy noodles tossed in fiery schezwan sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cacio-e-pepe": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cacio e Pepe: Spaghetti with pecorino cheese and black pepper. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "spaghetti-pomodoro": {
+    "prompt": "Use case: photorealistic-natural. Authentic Spaghetti Pomodoro: Spaghetti in fresh tomato and basil sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pasta-alla-norma": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pasta alla Norma: Pasta with fried aubergine, tomato and ricotta salata. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "creamy-mushroom-pasta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Creamy Mushroom Pasta: Pasta in garlicky mushroom cream sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "lentil-bolognese": {
+    "prompt": "Use case: photorealistic-natural. Authentic Lentil Bolognese: Spaghetti with hearty lentil and tomato ragù. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pasta-al-limone": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pasta al Limone: Pasta in lemon, butter and parmesan sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "spaghetti-alla-nerano": {
+    "prompt": "Use case: photorealistic-natural. Authentic Spaghetti alla Nerano: Spaghetti with fried zucchini and provolone. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pasta-alla-checca": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pasta alla Checca: Pasta with raw cherry tomatoes, basil and mozzarella. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "polenta-e-funghi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Polenta e Funghi: Soft polenta topped with sautéed mushrooms. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pizza-marinara": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pizza Marinara: Cheeseless pizza with tomato, garlic, oregano and olive oil. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "quattro-formaggi-pizza": {
+    "prompt": "Use case: photorealistic-natural. Authentic Quattro Formaggi Pizza: Pizza topped with four melting cheeses. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "stromboli": {
+    "prompt": "Use case: photorealistic-natural. Authentic Stromboli: Rolled pizza dough filled with cheese and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "panzerotti": {
+    "prompt": "Use case: photorealistic-natural. Authentic Panzerotti: Fried half-moon pastries filled with tomato and mozzarella. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bean-burrito": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bean Burrito: Flour tortilla wrapped around beans, rice, salsa and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chimichanga": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chimichanga: Deep-fried burrito stuffed with beans and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sopes": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sopes: Thick masa cakes topped with beans, salsa and crema. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gorditas": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gorditas: Stuffed masa pockets filled with beans and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chalupas": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chalupas: Fried masa boats topped with salsa, beans and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "huaraches": {
+    "prompt": "Use case: photorealistic-natural. Authentic Huaraches: Oblong masa base topped with beans, salsa and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "enfrijoladas": {
+    "prompt": "Use case: photorealistic-natural. Authentic Enfrijoladas: Tortillas folded in black bean sauce with cheese and crema. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "budin-azteca": {
+    "prompt": "Use case: photorealistic-natural. Authentic Budín Azteca: Layered tortilla casserole with poblano, corn, cheese and cream. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetable-pasty": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetable Pasty: Pastry turnover filled with potato, swede and onion. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cheese-and-onion-pie": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cheese and Onion Pie: Shortcrust pie filled with cheese, onion and potato. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pumpkin-kibbeh": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pumpkin Kibbeh: Baked pumpkin-bulgur layers with spinach and chickpea filling. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "halloumi-wrap": {
+    "prompt": "Use case: photorealistic-natural. Authentic Halloumi Wrap: Grilled halloumi wrapped in flatbread with salad. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cauliflower-shawarma": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cauliflower Shawarma: Spiced roasted cauliflower wrapped with tahini and pickles. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "beyaynetu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Beyaynetu: Colourful platter of vegan stews and vegetables on injera. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bunny-chow": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bunny Chow: Hollowed bread loaf filled with spicy bean curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "buddha-bowl": {
+    "prompt": "Use case: photorealistic-natural. Authentic Buddha Bowl: Grains, roasted vegetables, greens and tahini dressing in a bowl. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-poke-bowl": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Poke Bowl: Marinated tofu over rice with edamame, cucumber and sesame. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mediterranean-quinoa-bowl": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mediterranean Quinoa Bowl: Quinoa with chickpeas, vegetables, feta and lemon dressing. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "singapore-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Singapore Noodles: Curried rice vermicelli stir-fried with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "lo-mein": {
+    "prompt": "Use case: photorealistic-natural. Authentic Lo Mein: Soft noodles tossed with vegetables and savoury soy sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetarian-dan-dan-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetarian Dan Dan Noodles: Noodles in spicy sesame-chilli sauce with crumbled tofu. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sesame-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sesame Noodles: Chilled noodles in sesame-peanut sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "biang-biang-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Biang Biang Noodles: Wide hand-pulled noodles with sizzling chilli oil. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "yakisoba": {
+    "prompt": "Use case: photorealistic-natural. Authentic Yakisoba: Stir-fried wheat noodles with cabbage and tangy yakisoba sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bibim-guksu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bibim Guksu: Cold spicy noodles with gochujang sauce and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetarian-pad-see-ew": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetarian Pad See Ew: Wide rice noodles stir-fried with soy, Chinese broccoli and tofu. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "drunken-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Drunken Noodles: Spicy wide rice noodles with holy basil and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pad-woon-sen": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pad Woon Sen: Stir-fried glass noodles with vegetables and tofu. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "thai-peanut-noodles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Thai Peanut Noodles: Noodles in creamy peanut-lime sauce with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mee-goreng": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mee Goreng: Spicy fried yellow noodles with tofu and vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "atho": {
+    "prompt": "Use case: photorealistic-natural. Authentic Atho: Tossed noodles with cabbage, fried garlic, tamarind and spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "general-tso-s-tofu": {
+    "prompt": "Use case: photorealistic-natural. Authentic General Tso's Tofu: Crispy tofu in sweet-spicy glossy sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sweet-and-sour-tofu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sweet and Sour Tofu: Crispy tofu with peppers and pineapple in sweet-sour sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "black-pepper-tofu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Black Pepper Tofu: Tofu tossed in buttery black pepper sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-bulgogi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Bulgogi: Sweet soy-marinated tofu seared and served with rice. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tteokbokki": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tteokbokki: Chewy rice cakes in sweet-spicy gochujang sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kathi-roll": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kathi Roll: Paratha roll filled with spicy vegetable or paneer filling. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "veggie-burger": {
+    "prompt": "Use case: photorealistic-natural. Authentic Veggie Burger: Grilled vegetable patty burger with lettuce and sauces. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "aloo-tikki-burger": {
+    "prompt": "Use case: photorealistic-natural. Authentic Aloo Tikki Burger: Burger with spiced potato patty and chutney mayo. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "grilled-cheese-sandwich": {
+    "prompt": "Use case: photorealistic-natural. Authentic Grilled Cheese Sandwich: Buttery toasted sandwich with melted cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "caprese-sandwich": {
+    "prompt": "Use case: photorealistic-natural. Authentic Caprese Sandwich: Mozzarella, tomato and basil in ciabatta. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-banh-mi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Banh Mi: Baguette with lemongrass tofu, pickled vegetables and herbs. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetable-panini": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetable Panini: Pressed grilled sandwich with vegetables and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-steak": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Steak: Seared paneer slabs with sauce, sautéed vegetables and mash. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "jacket-potato": {
+    "prompt": "Use case: photorealistic-natural. Authentic Jacket Potato: Oven-baked potato filled with beans, cheese or toppings. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "alplermagronen": {
+    "prompt": "Use case: photorealistic-natural. Authentic Älplermagronen: Macaroni with potatoes, cheese, cream and applesauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
   }
 }

@@ -1,41 +1,112 @@
 {
   "sourceReviewId": "R0130",
   "id": "rabokki",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Rabokki",
   "cuisine": "Korean",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 40,
   "passiveTime": "10 minutes soaking rice cakes",
   "ingredients": [
-    {"name": "Korean cylindrical rice cakes", "qty": 500, "unit": "g"},
-    {"name": "eggless plain instant ramen noodles", "qty": 250, "unit": "g"},
-    {"name": "water", "qty": 1330, "unit": "ml"},
-    {"name": "dried kombu kelp", "qty": 8, "unit": "g"},
-    {"name": "green cabbage", "qty": 230, "unit": "g"},
-    {"name": "onion", "qty": 150, "unit": "g"},
-    {"name": "spring onion", "qty": 70, "unit": "g"},
-    {"name": "gochujang chilli paste", "qty": 90, "unit": "g"},
-    {"name": "gochugaru chilli flakes", "qty": 10, "unit": "g"},
-    {"name": "sugar", "qty": 25, "unit": "g"},
-    {"name": "light soy sauce", "qty": 20, "unit": "ml"},
-    {"name": "garlic", "qty": 15, "unit": "g"},
-    {"name": "toasted sesame oil", "qty": 10, "unit": "ml"}
+    {
+      "name": "Korean cylindrical rice cakes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "eggless plain instant ramen noodles",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1330,
+      "unit": "ml"
+    },
+    {
+      "name": "dried kombu kelp",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "green cabbage",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "gochujang chilli paste",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "gochugaru chilli flakes",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 10,
+      "unit": "ml"
+    }
   ],
   "steps": [
-    "Check that the rice cakes, plain ramen noodles, gochujang and soy sauce contain no egg, fish or meat. Discard any instant-noodle seasoning packet, which may contain animal stock. If the rice cakes are firm or refrigerated, separate them and soak in 500 ml warm water for 10 minutes, then drain. Cut cabbage into 3 cm pieces, slice onion and spring onion, and mince garlic.",
+    "Check that the rice cakes, plain ramen noodles, gochujang and soy sauce contain eggless, animal-derived ingredients or animal-derived ingredients. Discard any instant-noodle seasoning packet, which may contain animal stock. If the rice cakes are firm or refrigerated, separate them and soak in 500 ml warm water for 10 minutes, then drain. Cut cabbage into 3 cm pieces, slice onion and spring onion, and mince garlic.",
     "Put the kombu in the remaining 800 ml water in a wide pot. Warm over medium heat for 8 minutes, removing the kelp just before the water reaches a full boil; this makes a simple vegetarian broth. In a small bowl, mix gochujang, gochugaru, sugar, soy sauce and garlic with a few spoonfuls of this broth until smooth.",
     "Stir the chilli mixture into the hot broth and bring to a gentle boil. Add the drained rice cakes, cabbage and onion. Simmer 8–10 minutes, stirring often so the rice cakes do not stick, until the cakes are soft and chewy and the sauce begins to thicken.",
     "Add the ramen noodles and most of the spring onion. Press the noodles under the sauce and simmer for 3–4 minutes, turning them gently until just tender. The noodle starch should make the red sauce glossy and thick enough to coat both noodles and rice cakes; add up to the reserved 30 ml water only if it becomes too thick before the noodles cook.",
     "Turn off the heat and stir in sesame oil. Divide the rice cakes, noodles and cabbage evenly among four warm bowls and top with the remaining spring onion. Serve immediately, while the rice cakes are soft and the noodles still springy."
   ],
-  "tips": ["Classic rabokki often includes fish cakes, anchovy broth and eggs; this photographed version uses kombu broth and none of those ingredients. Choose plain eggless ramen because seasoning packets can contain chicken or fish. Gochujang brands vary in heat and salt, so taste the sauce before adding extra chilli."],
+  "tips": [
+    "Classic rabokki often includes fish cakes, anchovy broth and eggs; this photographed version uses kombu broth and none of those ingredients. Choose plain eggless ramen because seasoning packets can contain chicken or fish. Gochujang brands vary in heat and salt, so taste the sauce before adding extra chilli."
+  ],
   "translations": {
     "hi": {
       "name": "राबोक्की",
       "passiveTime": "राइस केक भिगोने के लिए 10 मिनट",
-      "ingredients": ["कोरियाई बेलनाकार राइस केक", "बिना अंडे के सादे इंस्टेंट रामेन नूडल्स", "पानी", "सूखा कोम्बु समुद्री शैवाल", "हरी पत्तागोभी", "प्याज़", "हरा प्याज़", "गोचुजांग मिर्च पेस्ट", "गोचुगारू मिर्च फ्लेक्स", "चीनी", "हल्का सोया सॉस", "लहसुन", "भुने तिल का तेल"],
+      "ingredients": [
+        "कोरियाई बेलनाकार राइस केक",
+        "बिना अंडे के सादे इंस्टेंट रामेन नूडल्स",
+        "पानी",
+        "सूखा कोम्बु समुद्री शैवाल",
+        "हरी पत्तागोभी",
+        "प्याज़",
+        "हरा प्याज़",
+        "गोचुजांग मिर्च पेस्ट",
+        "गोचुगारू मिर्च फ्लेक्स",
+        "चीनी",
+        "हल्का सोया सॉस",
+        "लहसुन",
+        "भुने तिल का तेल"
+      ],
       "steps": [
         "जाँचें कि राइस केक, सादे रामेन नूडल्स, गोचुजांग और सोया सॉस में अंडा, मछली या मांस न हो। इंस्टेंट नूडल्स का मसाला पैकेट फेंक दें; उसमें पशु स्टॉक हो सकता है। राइस केक सख़्त या फ़्रिज से हों तो अलग करके 500 मिली गुनगुने पानी में 10 मिनट भिगोएँ, फिर छानें। पत्तागोभी के 3 सेमी टुकड़े करें, प्याज़ और हरा प्याज़ काटें, लहसुन बारीक करें।",
         "चौड़े बर्तन में बचे 800 मिली पानी और कोम्बु डालें। मध्यम आँच पर 8 मिनट गरम करें और पानी पूरा उबलने से ठीक पहले कोम्बु निकालें; इससे साधारण शाकाहारी शोरबा बनेगा। छोटे कटोरे में गोचुजांग, गोचुगारू, चीनी, सोया सॉस और लहसुन को इस शोरबे के कुछ चम्मच से चिकना मिलाएँ।",
@@ -43,12 +114,28 @@
         "रामेन नूडल्स और अधिकतर हरा प्याज़ डालें। नूडल्स को सॉस में दबाकर 3–4 मिनट हल्के से पलटते हुए बस नरम होने तक पकाएँ। नूडल्स के स्टार्च से लाल सॉस चमकदार और दोनों को ढकने लायक गाढ़ी होगी; नूडल्स पकने से पहले बहुत गाढ़ी हो तो ही बचा हुआ अधिकतम 30 मिली पानी डालें।",
         "आँच बंद करके तिल का तेल मिलाएँ। राइस केक, नूडल्स और पत्तागोभी चार गरम कटोरों में बराबर बाँटें और बचा हरा प्याज़ ऊपर रखें। तुरंत परोसें, जब राइस केक नरम और नूडल्स अभी भी लचीले हों।"
       ],
-      "tips": ["सामान्य राबोक्की में फ़िश केक, एन्कोवी शोरबा और अंडे हो सकते हैं; चित्र वाले रूप में कोम्बु शोरबा है और ये चीज़ें नहीं हैं। सादे बिना अंडे के रामेन लें क्योंकि मसाला पैकेट में चिकन या मछली हो सकती है। गोचुजांग के ब्रांड में तीखापन और नमक अलग होते हैं, इसलिए अधिक मिर्च डालने से पहले चखें।"]
+      "tips": [
+        "सामान्य राबोक्की में फ़िश केक, एन्कोवी शोरबा और अंडे हो सकते हैं; चित्र वाले रूप में कोम्बु शोरबा है और ये चीज़ें नहीं हैं। सादे बिना अंडे के रामेन लें क्योंकि मसाला पैकेट में चिकन या मछली हो सकती है। गोचुजांग के ब्रांड में तीखापन और नमक अलग होते हैं, इसलिए अधिक मिर्च डालने से पहले चखें।"
+      ]
     },
     "gu": {
       "name": "રાબોક્કી",
       "passiveTime": "રાઇસ કેક પલાળવા 10 મિનિટ",
-      "ingredients": ["કોરિયન નળાકાર રાઇસ કેક", "ઇંડા વગરના સાદા ઇન્સ્ટન્ટ રામેન નૂડલ્સ", "પાણી", "સૂકું કોમ્બુ સમુદ્રી શેવાળ", "લીલી કોબી", "ડુંગળી", "લીલી ડુંગળી", "ગોચુજાંગ મરચાંની પેસ્ટ", "ગોચુગારુ મરચાંના ફ્લેક્સ", "ખાંડ", "હળવો સોયા સોસ", "લસણ", "શેકેલા તલનું તેલ"],
+      "ingredients": [
+        "કોરિયન નળાકાર રાઇસ કેક",
+        "ઇંડા વગરના સાદા ઇન્સ્ટન્ટ રામેન નૂડલ્સ",
+        "પાણી",
+        "સૂકું કોમ્બુ સમુદ્રી શેવાળ",
+        "લીલી કોબી",
+        "ડુંગળી",
+        "લીલી ડુંગળી",
+        "ગોચુજાંગ મરચાંની પેસ્ટ",
+        "ગોચુગારુ મરચાંના ફ્લેક્સ",
+        "ખાંડ",
+        "હળવો સોયા સોસ",
+        "લસણ",
+        "શેકેલા તલનું તેલ"
+      ],
       "steps": [
         "રાઇસ કેક, સાદા રામેન નૂડલ્સ, ગોચુજાંગ અને સોયા સોસમાં ઇંડું, માછલી કે માંસ ન હોય તે તપાસો. ઇન્સ્ટન્ટ નૂડલ્સનું મસાલા પેકેટ વાપરશો નહીં; તેમાં પ્રાણી સ્ટોક હોઈ શકે. રાઇસ કેક કડક કે ફ્રિજમાંથી હોય તો અલગ કરીને 500 મિલી નવશેકા પાણીમાં 10 મિનિટ પલાળો, પછી નિતારો. કોબીના 3 સેમીના ટુકડા, ડુંગળી અને લીલી ડુંગળીના કાપા કરો, લસણ બારીક સમારો.",
         "પહોળા વાસણમાં બાકીનું 800 મિલી પાણી અને કોમ્બુ નાખો. મધ્યમ તાપે 8 મિનિટ ગરમ કરો અને પાણી પૂરેપૂરું ઊકળે તે પહેલાં કોમ્બુ કાઢો; સાદો શાકાહારી રસો બનશે. નાના વાટકામાં ગોચુજાંગ, ગોચુગારુ, ખાંડ, સોયા સોસ અને લસણને આ રસાના થોડા ચમચા સાથે એકરસ ભેળવો.",
@@ -56,8 +143,15 @@
         "રામેન નૂડલ્સ અને મોટાભાગની લીલી ડુંગળી નાખો. નૂડલ્સને સોસમાં દબાવી ધીમે પલટતા 3–4 મિનિટ માત્ર નરમ થાય ત્યાં સુધી રાંધો. નૂડલ્સના સ્ટાર્ચથી લાલ સોસ ચમકદાર અને નૂડલ્સ તથા રાઇસ કેકને ચડે એવો ઘટ્ટ થશે; નૂડલ્સ રંધાય તે પહેલાં બહુ ઘટ્ટ થાય તો જ બાકી રાખેલું વધુમાં વધુ 30 મિલી પાણી ઉમેરો.",
         "તાપ બંધ કરીને તલનું તેલ ભેળવો. રાઇસ કેક, નૂડલ્સ અને કોબી ચાર ગરમ વાટકામાં સરખાં વહેંચો અને બાકી લીલી ડુંગળી ઉપર મૂકો. રાઇસ કેક નરમ અને નૂડલ્સ હજી લચીલા હોય ત્યારે તરત પીરસો."
       ],
-      "tips": ["સામાન્ય રાબોક્કીમાં ફિશ કેક, એન્કોવી રસો અને ઇંડાં હોઈ શકે; ફોટાવાળા રૂપમાં કોમ્બુ રસો છે અને આ વસ્તુઓ નથી. સાદા ઇંડા વગરના રામેન લો કારણ કે મસાલા પેકેટમાં ચિકન કે માછલી હોઈ શકે. ગોચુજાંગની તીખાશ અને મીઠું બ્રાન્ડ મુજબ બદલાય છે, તેથી વધુ મરચું નાખતાં પહેલાં ચાખો."]
+      "tips": [
+        "સામાન્ય રાબોક્કીમાં ફિશ કેક, એન્કોવી રસો અને ઇંડાં હોઈ શકે; ફોટાવાળા રૂપમાં કોમ્બુ રસો છે અને આ વસ્તુઓ નથી. સાદા ઇંડા વગરના રામેન લો કારણ કે મસાલા પેકેટમાં ચિકન કે માછલી હોઈ શકે. ગોચુજાંગની તીખાશ અને મીઠું બ્રાન્ડ મુજબ બદલાય છે, તેથી વધુ મરચું નાખતાં પહેલાં ચાખો."
+      ]
     }
   },
-  "reference": {"url": "https://mykoreankitchen.com/rabokki/", "use": "Rice-cake-plus-ramen cooking sequence; kombu-only vegetarian broth, measures and wording independently authored."}
+  "reference": {
+    "url": "https://mykoreankitchen.com/rabokki/",
+    "use": "Rice-cake-plus-ramen cooking sequence; kombu-only vegetarian broth, measures and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/rabokki.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

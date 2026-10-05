@@ -1,25 +1,72 @@
 {
   "sourceReviewId": "R0113",
   "id": "pinsa-romana",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pinsa Romana",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 55,
   "passiveTime": "2 hours initial rise, 24 hours refrigerated fermentation, then 2 hours final proof",
   "ingredients": [
-    {"name": "strong wheat flour", "qty": 350, "unit": "g"},
-    {"name": "rice flour", "qty": 100, "unit": "g"},
-    {"name": "soy flour", "qty": 50, "unit": "g"},
-    {"name": "cold water", "qty": 400, "unit": "ml"},
-    {"name": "instant dry yeast", "qty": 3, "unit": "g"},
-    {"name": "salt", "qty": 12, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 35, "unit": "ml"},
-    {"name": "tomato passata", "qty": 200, "unit": "g"},
-    {"name": "vegetarian mozzarella", "qty": 200, "unit": "g"},
-    {"name": "cherry tomatoes", "qty": 150, "unit": "g"},
-    {"name": "fresh basil", "qty": 15, "unit": "g"}
+    {
+      "name": "strong wheat flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "soy flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "fresh basil",
+      "qty": 15,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Combine the wheat, rice and soy flours with the yeast. Stir in 350 ml cold water until no dry flour remains. Rest covered for 15 minutes, then add 10 g salt, 20 ml olive oil and the remaining 50 ml water. Fold the sticky dough from each side to the centre for 2 minutes; it should stay wetter than ordinary pizza dough, so do not add much flour.",
@@ -29,36 +76,71 @@
     "Pre-bake each plain base for 7–8 minutes on the hot tray until firm and lightly golden. Mix the passata with the remaining 2 g salt. Spread half on each base, then divide the drained mozzarella and cherry tomatoes over them. Bake 5–7 minutes more until the edges are crisp and the cheese melts.",
     "Scatter basil and the remaining 5 ml olive oil over both hot pinsas. Cut each into four pieces and serve two pieces per person. The crust should be an airy oval with a crisp underside, rather than a round dense pizza."
   ],
-  "tips": ["The high-hydration dough needs cold fermentation and gentle handling; the long wait is part of this dish. Pre-baking keeps the centre crisp under the toppings. Use vegetarian mozzarella made without animal rennet."],
+  "tips": [
+    "The high-hydration dough needs cold fermentation and gentle handling; the long wait is part of this dish. Pre-baking keeps the centre crisp under the toppings. Use vegetarian mozzarella made without animal rennet."
+  ],
   "translations": {
     "hi": {
       "name": "पिन्सा रोमाना",
       "passiveTime": "पहले 2 घंटे फूलना, फिर 24 घंटे फ्रिज में धीमी खमीर प्रक्रिया और अंत में 2 घंटे फूलना",
-      "ingredients": ["ब्रेड के लिए मज़बूत गेहूँ का आटा", "चावल का आटा", "सोया आटा", "ठंडा पानी", "इंस्टेंट सूखा यीस्ट", "नमक", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "टमाटर की छनी प्यूरी", "शाकाहारी मोत्ज़ारेला", "छोटे चेरी टमाटर", "ताज़ी बेसिल"],
+      "ingredients": [
+        "ब्रेड के लिए मज़बूत गेहूँ का आटा",
+        "चावल का आटा",
+        "सोया आटा",
+        "ठंडा पानी",
+        "इंस्टेंट सूखा यीस्ट",
+        "नमक",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "टमाटर की छनी प्यूरी",
+        "शाकाहारी मोत्ज़ारेला",
+        "छोटे चेरी टमाटर",
+        "ताज़ी बेसिल"
+      ],
       "steps": [
         "गेहूँ, चावल और सोया आटा यीस्ट के साथ मिलाएँ। 350 मिली ठंडा पानी डालकर हिलाएँ ताकि सूखा आटा न रहे। ढककर 15 मिनट आराम दें। फिर 10 ग्राम नमक, 20 मिली ऑलिव तेल और बचा 50 मिली पानी डालें। चिपचिपी लोई को चारों ओर से बीच में मोड़ते हुए 2 मिनट काम करें; यह साधारण पिज़्ज़ा लोई से अधिक गीली रहेगी, अधिक सूखा आटा न डालें।",
-        "बाउल ढककर 20 मिनट रखें, फिर चार तरफ से मोड़ने की प्रक्रिया 20-20 मिनट के अंतर पर दो बार और करें। पहली मिलावट से लगभग 2 घंटे में कमरे के ताप पर लोई साफ़ फूली दिखेगी। कसकर ढकें और धीमी खमीर प्रक्रिया के लिए 24 घंटे फ्रिज में रखें।",
+        "बाउल ढककर 20 मिनट रखें, फिर चार तरफ से मोड़ने की प्रक्रिया 20 मिनट के अंतर पर दो बार और करें। पहली मिलावट से लगभग 2 घंटे में कमरे के ताप पर लोई साफ़ फूली दिखेगी। कसकर ढकें और धीमी खमीर प्रक्रिया के लिए 24 घंटे फ्रिज में रखें।",
         "ठंडी लोई खूब आटा छिड़की सतह पर निकालकर दो बराबर भाग करें। हर भाग को हवा पूरी तरह निकाले बिना हल्का अंडाकार मोड़ें। आटा छिड़की ट्रे पर ढककर कमरे के ताप पर लगभग 2 घंटे रखें, जब तक हवादार और करीब दोगुनी हो। इस बीच मोत्ज़ारेला छानें और चेरी टमाटर आधे काटें।",
         "ओवन को 250°C या उसके सबसे गरम सुरक्षित पिज़्ज़ा तापमान पर भारी ट्रे या स्टोन समेत कम-से-कम 30 मिनट गरम करें। आटा छिड़के बेकिंग पेपर पर हर लोई को बीच से बाहर उँगलियों से दबाकर लगभग 30-बाय-18 सेमी लंबा अंडाकार बनाएँ। हवा के बुलबुले बचाएँ, बेलन न चलाएँ। दोनों पर कुल 10 मिली ऑलिव तेल लगाएँ।",
         "हर सादा बेस गरम ट्रे पर 7–8 मिनट पहले बेक करें, जब तक स्थिर और हल्का सुनहरा हो। प्यूरी में बचा 2 ग्राम नमक मिलाएँ। दोनों बेस पर आधी-आधी प्यूरी फैलाएँ, फिर छाना मोत्ज़ारेला और चेरी टमाटर बाँटें। किनारे कुरकुरे और चीज़ पिघलने तक 5–7 मिनट और बेक करें।",
         "दोनों गरम पिन्सा पर बेसिल और बचा 5 मिली ऑलिव तेल डालें। हर एक को चार हिस्से करें और प्रति व्यक्ति दो हिस्से परोसें। तला कुरकुरा और भीतर हवादार लंबा अंडाकार क्रस्ट हो, गोल घना पिज़्ज़ा नहीं।"
       ],
-      "tips": ["अधिक पानी वाली लोई को फ्रिज में धीमी खमीर प्रक्रिया और हल्के हाथ से संभालना चाहिए; लंबा इंतज़ार इस व्यंजन का हिस्सा है। पहले सादा बेक करने से टॉपिंग के नीचे बीच कुरकुरा रहता है। पशु रेनेट के बिना बना शाकाहारी मोत्ज़ारेला लें।"]
+      "tips": [
+        "अधिक पानी वाली लोई को फ्रिज में धीमी खमीर प्रक्रिया और हल्के हाथ से संभालना चाहिए; लंबा इंतज़ार इस व्यंजन का हिस्सा है। पहले सादा बेक करने से टॉपिंग के नीचे बीच कुरकुरा रहता है। पशु रेनेट के बिना बना शाकाहारी मोत्ज़ारेला लें।"
+      ]
     },
     "gu": {
       "name": "પિન્સા રોમાના",
       "passiveTime": "પહેલાં 2 કલાક ફૂલવું, પછી 24 કલાક ફ્રિજમાં ધીમું આથવણ અને અંતે 2 કલાક ફૂલવું",
-      "ingredients": ["બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ", "ચોખાનો લોટ", "સોયાનો લોટ", "ઠંડું પાણી", "ઇન્સ્ટન્ટ સૂકું યીસ્ટ", "મીઠું", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "ગાળેલી ટમેટાની પ્યુરી", "શાકાહારી મોઝેરેલા", "નાના ચેરી ટમેટાં", "તાજું બેસિલ"],
+      "ingredients": [
+        "બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ",
+        "ચોખાનો લોટ",
+        "સોયાનો લોટ",
+        "ઠંડું પાણી",
+        "ઇન્સ્ટન્ટ સૂકું યીસ્ટ",
+        "મીઠું",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "ગાળેલી ટમેટાની પ્યુરી",
+        "શાકાહારી મોઝેરેલા",
+        "નાના ચેરી ટમેટાં",
+        "તાજું બેસિલ"
+      ],
       "steps": [
         "ઘઉં, ચોખા અને સોયાનો લોટ યીસ્ટ સાથે ભેળવો. 350 મિલી ઠંડું પાણી નાખીને હલાવો જેથી સૂકો લોટ ન રહે. ઢાંકીને 15 મિનિટ આરામ આપો. પછી 10 ગ્રામ મીઠું, 20 મિલી ઓલિવ તેલ અને બાકીનું 50 મિલી પાણી નાખો. ચીકણા લોટને ચારેય બાજુથી વચ્ચે વાળી 2 મિનિટ કામ કરો; તે સામાન્ય પિઝાના લોટથી વધુ ભીનો રહેશે, વધુ સૂકો લોટ ન નાખો.",
-        "વાટકી ઢાંકીને 20 મિનિટ રાખો, પછી ચાર બાજુથી વાળવાની પ્રક્રિયા 20-20 મિનિટના અંતરે વધુ બે વખત કરો. પ્રથમ ભેળવણીથી લગભગ 2 કલાકમાં ઓરડાના તાપે લોટ સ્પષ્ટ ફૂલેલો દેખાશે. ચુસ્ત ઢાંકી 24 કલાક ધીમા આથવણ માટે ફ્રિજમાં રાખો.",
+        "વાટકી ઢાંકીને 20 મિનિટ રાખો, પછી ચાર બાજુથી વાળવાની પ્રક્રિયા 20 મિનિટના અંતરે વધુ બે વખત કરો. પ્રથમ ભેળવણીથી લગભગ 2 કલાકમાં ઓરડાના તાપે લોટ સ્પષ્ટ ફૂલેલો દેખાશે. ચુસ્ત ઢાંકી 24 કલાક ધીમા આથવણ માટે ફ્રિજમાં રાખો.",
         "ઠંડો લોટ સારી રીતે લોટ છાંટેલી સપાટી પર કાઢીને બે સરખા ભાગ કરો. બધી હવા કાઢ્યા વગર દરેકને હળવો લંબગોળ વાળો. લોટ છાંટેલી ટ્રે પર ઢાંકીને ઓરડાના તાપે લગભગ 2 કલાક રાખો, જ્યાં સુધી હવાદાર અને લગભગ બમણો થાય. આ દરમિયાન મોઝેરેલા નિતારો અને ચેરી ટમેટાં અડધા કાપો.",
         "ઓવનને 250°C અથવા તેના સૌથી ઊંચા સુરક્ષિત પિઝા તાપમાને ભારે ટ્રે કે સ્ટોન સાથે ઓછામાં ઓછી 30 મિનિટ ગરમ કરો. લોટ છાંટેલા બેકિંગ પેપર પર દરેક લોટને વચ્ચેથી બહાર આંગળીઓથી દબાવી લગભગ 30-બાય-18 સેમી લાંબો લંબગોળ બનાવો. હવાના પરપોટા સાચવો, વેલણ ન વાપરો. બંને પર કુલ 10 મિલી ઓલિવ તેલ લગાવો.",
         "દરેક સાદો બેઝ ગરમ ટ્રે પર 7–8 મિનિટ પહેલાં બેક કરો, જ્યાં સુધી સ્થિર અને હળવો સોનેરી થાય. પ્યુરીમાં બાકીનું 2 ગ્રામ મીઠું ભેળવો. બંને બેઝ પર અડધી-અડધી પ્યુરી પાથરો, પછી નિતારેલું મોઝેરેલા અને ચેરી ટમેટાં વહેંચો. કિનારી કરકરી અને ચીઝ પીગળે ત્યાં સુધી 5–7 મિનિટ વધુ બેક કરો.",
         "બંને ગરમ પિન્સા પર બેસિલ અને બાકીનું 5 મિલી ઓલિવ તેલ નાખો. દરેકના ચાર ભાગ કરો અને વ્યક્તિદીઠ બે ભાગ પીરસો. તળિયો કરકરો અને અંદર હવાદાર લાંબો લંબગોળ ક્રસ્ટ હોવો જોઈએ, ગોળ ઘટ્ટ પિઝા નહીં."
       ],
-      "tips": ["વધુ પાણીવાળા લોટને ફ્રિજમાં ધીમું આથવણ અને હળવા હાથે સંભાળવું જરૂરી છે; લાંબી રાહ આ વાનગીનો ભાગ છે. સાદો બેઝ પહેલાં બેક કરવાથી ટોપિંગ નીચેનો મધ્યભાગ કરકરો રહે છે. પ્રાણી રેનેટ વગરનું શાકાહારી મોઝેરેલા લો."]
+      "tips": [
+        "વધુ પાણીવાળા લોટને ફ્રિજમાં ધીમું આથવણ અને હળવા હાથે સંભાળવું જરૂરી છે; લાંબી રાહ આ વાનગીનો ભાગ છે. સાદો બેઝ પહેલાં બેક કરવાથી ટોપિંગ નીચેનો મધ્યભાગ કરકરો રહે છે. પ્રાણી રેનેટ વગરનું શાકાહારી મોઝેરેલા લો."
+      ]
     }
   },
-  "reference": {"url": "https://www.giallozafferano.com/recipes/basic-pinsa-dough.html", "use": "High-hydration mixed-flour oval pinsa with long cold fermentation and pre-bake; recipe proportions and toppings independently authored."}
+  "reference": {
+    "url": "https://www.giallozafferano.com/recipes/basic-pinsa-dough.html",
+    "use": "High-hydration mixed-flour oval pinsa with long cold fermentation and pre-bake; recipe proportions and toppings independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pinsa-romana.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

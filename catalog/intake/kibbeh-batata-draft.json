@@ -1,24 +1,67 @@
 {
   "sourceReviewId": "R0118",
   "id": "kibbeh-batata",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Kibbeh Batata",
   "cuisine": "Lebanese",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 75,
   "passiveTime": "20 minutes bulgur soaking and 15 minutes baked kibbeh resting",
   "ingredients": [
-    {"name": "starchy potatoes", "qty": 1000, "unit": "g"},
-    {"name": "fine bulgur wheat", "qty": 220, "unit": "g"},
-    {"name": "onions", "qty": 350, "unit": "g"},
-    {"name": "walnuts", "qty": 150, "unit": "g"},
-    {"name": "pomegranate molasses", "qty": 30, "unit": "ml"},
-    {"name": "olive oil", "qty": 70, "unit": "ml"},
-    {"name": "salt", "qty": 12, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"},
-    {"name": "ground allspice", "qty": 2, "unit": "g"},
-    {"name": "water", "qty": 2250, "unit": "ml"}
+    {
+      "name": "starchy potatoes",
+      "qty": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "fine bulgur wheat",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "onions",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate molasses",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ground allspice",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2250,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Wash the potatoes and boil them whole in 2000 ml of the measured water for 25–35 minutes, until a knife enters easily. Drain, peel while warm and mash until smooth with no lumps. Spread in a shallow bowl to let excess steam escape. Do not add milk or butter to this potato mixture.",
@@ -28,12 +71,25 @@
     "Flatten small portions of the remaining potato-bulgur mixture between damp palms and fit them over the filling, sealing the seams and outer edge. Score the top into diamond shapes without cutting all the way through. Brush the top with the remaining 40 ml olive oil.",
     "Bake for 30–35 minutes until the top is golden and firm and the sides are lightly browned. Rest 15 minutes before cutting along the score lines into eight diamonds. Serve two pieces per person, showing the onion-walnut layer between two distinct potato-bulgur layers."
   ],
-  "tips": ["Fine bulgur gives a cohesive shell; coarse bulgur will not soften enough in this time. Squeeze the soaked bulgur and cool the filling to avoid a soggy middle. This baked potato kibbeh is vegetarian and contains walnuts and wheat."],
+  "tips": [
+    "Fine bulgur gives a cohesive shell; coarse bulgur will not soften enough in this time. Squeeze the soaked bulgur and cool the filling to avoid a soggy middle. This baked potato kibbeh is vegetarian and contains walnuts and wheat."
+  ],
   "translations": {
     "hi": {
       "name": "आलू किब्बेह बताता",
       "passiveTime": "बुलगुर भिगोने के लिए 20 मिनट और बेक किए किब्बेह को ठहराने के लिए 15 मिनट",
-      "ingredients": ["स्टार्च वाले आलू", "बारीक बुलगुर गेहूँ", "प्याज़", "अखरोट", "अनार का गाढ़ा खट्टा सिरप", "ऑलिव तेल", "नमक", "काली मिर्च", "पिसा ऑलस्पाइस", "पानी"],
+      "ingredients": [
+        "स्टार्च वाले आलू",
+        "बारीक बुलगुर गेहूँ",
+        "प्याज़",
+        "अखरोट",
+        "अनार का गाढ़ा खट्टा सिरप",
+        "ऑलिव तेल",
+        "नमक",
+        "काली मिर्च",
+        "पिसा ऑलस्पाइस",
+        "पानी"
+      ],
       "steps": [
         "आलू धोकर नापे हुए 2000 मिली पानी में साबुत 25–35 मिनट उबालें, जब तक चाकू आसानी से अंदर जाए। छानें, गरम रहते छीलें और बिना गुठली चिकने मैश करें। उथले बाउल में फैलाकर अतिरिक्त भाप निकलने दें। इस आलू मिश्रण में दूध या मक्खन न डालें।",
         "बारीक बुलगुर जल्दी धोएँ, फिर बचे 250 मिली गरम पानी में 20 मिनट नरम होने तक भिगोएँ। बारीक छलनी में छानकर अतिरिक्त पानी निचोड़ें। 100 ग्राम प्याज़ बारीक कसें और आलू, बुलगुर, 8 ग्राम नमक, आधी काली मिर्च और आधा ऑलस्पाइस मिलाएँ। 2–3 मिनट हल्के हाथ से मिलाकर जुड़ी हुई लोई बनाएँ।",
@@ -42,12 +98,25 @@
         "बचा आलू-बुलगुर मिश्रण छोटे हिस्सों में गीली हथेलियों के बीच चपटा करें और भरावन के ऊपर लगाकर जोड़ तथा बाहरी किनारा बंद करें। ऊपरी सतह पर हीरे जैसे निशान बनाएँ, नीचे तक न काटें। ऊपर बचा 40 मिली ऑलिव तेल लगाएँ।",
         "ऊपर सुनहरा और सख्त तथा किनारे हल्के भूरे होने तक 30–35 मिनट बेक करें। निशान के अनुसार आठ हीरे काटने से पहले 15 मिनट ठहराएँ। प्रति व्यक्ति दो टुकड़े परोसें, जिनमें दो अलग आलू-बुलगुर परतों के बीच प्याज़-अखरोट दिखे।"
       ],
-      "tips": ["बारीक बुलगुर जुड़ी परत बनाता है; मोटा बुलगुर इस समय में पर्याप्त नरम नहीं होगा। भीगा बुलगुर निचोड़ें और भरावन ठंडा करें ताकि बीच गीला न हो। यह बेक्ड आलू किब्बेह शाकाहारी है और इसमें अखरोट तथा गेहूँ हैं।"]
+      "tips": [
+        "बारीक बुलगुर जुड़ी परत बनाता है; मोटा बुलगुर इस समय में पर्याप्त नरम नहीं होगा। भीगा बुलगुर निचोड़ें और भरावन ठंडा करें ताकि बीच गीला न हो। यह बेक्ड आलू किब्बेह शाकाहारी है और इसमें अखरोट तथा गेहूँ हैं।"
+      ]
     },
     "gu": {
       "name": "બટાકાનું કિબ્બેહ બતાતા",
       "passiveTime": "બુલગુર પલાળવા 20 મિનિટ અને બેક થયેલા કિબ્બેહને થોભાવવા 15 મિનિટ",
-      "ingredients": ["વધુ સ્ટાર્ચવાળા બટાકા", "ઝીણો બુલગુર ઘઉં", "ડુંગળી", "અખરોટ", "દાડમનો ઘટ્ટ ખાટો સિરપ", "ઓલિવ તેલ", "મીઠું", "કાળી મરી", "વાટેલો ઑલસ્પાઇસ", "પાણી"],
+      "ingredients": [
+        "વધુ સ્ટાર્ચવાળા બટાકા",
+        "ઝીણો બુલગુર ઘઉં",
+        "ડુંગળી",
+        "અખરોટ",
+        "દાડમનો ઘટ્ટ ખાટો સિરપ",
+        "ઓલિવ તેલ",
+        "મીઠું",
+        "કાળી મરી",
+        "વાટેલો ઑલસ્પાઇસ",
+        "પાણી"
+      ],
       "steps": [
         "બટાકા ધોઈને માપેલા 2000 મિલી પાણીમાં આખા 25–35 મિનિટ ઉકાળો, જ્યાં સુધી છરી સહેલાઈથી અંદર જાય. નિતારી, ગરમ હોય ત્યારે છોલી ગાંઠ વગર લીસા મસળો. છીછરી વાટકીમાં પાથરી વધારાની વરાળ નીકળવા દો. આ બટાકાના મિશ્રણમાં દૂધ કે માખણ ન નાખો.",
         "ઝીણો બુલગુર ઝડપથી ધોઈ, પછી બાકીનું 250 મિલી ગરમ પાણીમાં 20 મિનિટ નરમ થાય ત્યાં સુધી પલાળો. ઝીણી ચાળણીમાં નિતારી વધારાનું પાણી નિચોવો. 100 ગ્રામ ડુંગળી ઝીણી ખમણીને બટાકા, બુલગુર, 8 ગ્રામ મીઠું, અડધી કાળી મરી અને અડધો ઑલસ્પાઇસ ભેળવો. 2–3 મિનિટ હળવે ભેળવી જોડાયેલો લોટ બનાવો.",
@@ -56,8 +125,15 @@
         "બાકીનું બટાકા-બુલગુર મિશ્રણ નાના ભાગમાં ભીની હથેળી વચ્ચે ચપટું કરી ભરાવા ઉપર ગોઠવો અને સાંધા તથા બહારની કિનારી બંધ કરો. ઉપર હીરા જેવા નિશાન કરો, તળિયા સુધી ન કાપો. ઉપર બાકીનું 40 મિલી ઓલિવ તેલ લગાવો.",
         "ઉપર સોનેરી અને મજબૂત તથા કિનારી હળવી બદામી થાય ત્યાં સુધી 30–35 મિનિટ બેક કરો. નિશાન મુજબ આઠ હીરા કાપતાં પહેલાં 15 મિનિટ થોભાવો. વ્યક્તિદીઠ બે ટુકડા પીરસો, જેમાં બટાકા-બુલગુરના બે અલગ પડ વચ્ચે ડુંગળી-અખરોટ દેખાય."
       ],
-      "tips": ["ઝીણો બુલગુર જોડાયેલો પડ બનાવે છે; જાડો બુલગુર આ સમયમાં પૂરતો નરમ નહીં થાય. પલાળેલો બુલગુર નિચોવો અને ભરાવું ઠંડું કરો જેથી મધ્ય ભાગ ભીનો ન થાય. આ બેક કરેલું બટાકાનું કિબ્બેહ શાકાહારી છે અને તેમાં અખરોટ તથા ઘઉં છે."]
+      "tips": [
+        "ઝીણો બુલગુર જોડાયેલો પડ બનાવે છે; જાડો બુલગુર આ સમયમાં પૂરતો નરમ નહીં થાય. પલાળેલો બુલગુર નિચોવો અને ભરાવું ઠંડું કરો જેથી મધ્ય ભાગ ભીનો ન થાય. આ બેક કરેલું બટાકાનું કિબ્બેહ શાકાહારી છે અને તેમાં અખરોટ તથા ઘઉં છે."
+      ]
     }
   },
-  "reference": {"url": "https://www.discoverlebanon.com/en/recipes/potato_kibbeh.php", "use": "Layered potato-bulgur kibbeh with onion-walnut filling and diamond scoring; quantities and directions independently authored."}
+  "reference": {
+    "url": "https://www.discoverlebanon.com/en/recipes/potato_kibbeh.php",
+    "use": "Layered potato-bulgur kibbeh with onion-walnut filling and diamond scoring; quantities and directions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/kibbeh-batata.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

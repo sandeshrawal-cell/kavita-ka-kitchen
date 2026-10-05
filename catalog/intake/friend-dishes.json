@@ -5732,8 +5732,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/spaghetti-alla-carrettiera.png"
     },
     {
       "id": "pesto-rosso-pasta",
@@ -5751,8 +5752,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pesto-rosso-pasta.png"
     },
     {
       "id": "pasta-alla-trapanese",
@@ -5768,8 +5770,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pasta-alla-trapanese.png"
     },
     {
       "id": "pasta-ai-quattro-formaggi",
@@ -5787,8 +5790,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pasta-ai-quattro-formaggi.png"
     },
     {
       "id": "lemon-ricotta-pasta",
@@ -5804,8 +5808,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/lemon-ricotta-pasta.png"
     },
     {
       "id": "gnocchi-burro-e-salvia",
@@ -5821,8 +5826,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/gnocchi-burro-e-salvia.png"
     },
     {
       "id": "gnocchi-gorgonzola",
@@ -5838,8 +5844,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/gnocchi-gorgonzola.png"
     },
     {
       "id": "wafu-pasta",
@@ -5855,8 +5862,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/wafu-pasta.png"
     },
     {
       "id": "schezwan-pasta",
@@ -5872,8 +5880,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/schezwan-pasta.png"
     },
     {
       "id": "pizza-bianca",
@@ -5889,8 +5898,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pizza-bianca.png"
     },
     {
       "id": "pizza-ortolana",
@@ -5906,8 +5916,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pizza-ortolana.png"
     },
     {
       "id": "pizza-funghi",
@@ -5923,8 +5934,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pizza-funghi.png"
     },
     {
       "id": "pinsa-romana",
@@ -5940,8 +5952,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pinsa-romana.png"
     },
     {
       "id": "fugazzeta",
@@ -5957,8 +5970,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/fugazzeta.png"
     },
     {
       "id": "focaccia-di-recco",
@@ -5974,8 +5988,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/focaccia-di-recco.png"
     },
     {
       "id": "french-bread-pizza",
@@ -5991,8 +6006,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/french-bread-pizza.png"
     },
     {
       "id": "pizza-paratha",
@@ -6008,8 +6024,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pizza-paratha.png"
     },
     {
       "id": "kibbeh-batata",
@@ -6027,8 +6044,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kibbeh-batata.png"
     },
     {
       "id": "homity-pie",
@@ -6044,8 +6062,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/homity-pie.png"
     },
     {
       "id": "lobiani",
@@ -6061,8 +6080,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/lobiani.png"
     },
     {
       "id": "jamaican-vegetable-patty",
@@ -6078,8 +6098,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/jamaican-vegetable-patty.png"
     },
     {
       "id": "black-bean-burger",
@@ -6095,8 +6116,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/black-bean-burger.png"
     },
     {
       "id": "tofu-katsu-sando",
@@ -6112,8 +6134,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tofu-katsu-sando.png"
     },
     {
       "id": "bombay-frankie",
@@ -6133,8 +6156,9 @@
       "relatedReviewIds": [
         "R1401"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bombay-frankie.png"
     },
     {
       "id": "soya-chaap-roll",
@@ -6150,8 +6174,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/soya-chaap-roll.png"
     },
     {
       "id": "pan-fried-noodles",
@@ -6169,8 +6194,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pan-fried-noodles.png"
     },
     {
       "id": "vegetarian-zhajiangmian",
@@ -6186,8 +6212,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetarian-zhajiangmian.png"
     },
     {
       "id": "vegetarian-jajangmyeon",
@@ -6203,8 +6230,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetarian-jajangmyeon.png"
     },
     {
       "id": "yaki-udon",
@@ -6220,8 +6248,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/yaki-udon.png"
     },
     {
       "id": "rabokki",
@@ -6237,8 +6266,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/rabokki.png"
     },
     {
       "id": "chao-nian-gao",
@@ -6254,8 +6284,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chao-nian-gao.png"
     },
     {
       "id": "pad-med-mamuang",
@@ -6277,8 +6308,9 @@
       "relatedReviewIds": [
         "R2817"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pad-med-mamuang.png"
     },
     {
       "id": "pad-prik-khing",
@@ -6294,8 +6326,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pad-prik-khing.png"
     },
     {
       "id": "chinese-chopsuey",
@@ -6311,8 +6344,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chinese-chopsuey.png"
     },
     {
       "id": "vegetables-in-black-bean-sauce",
@@ -6328,8 +6362,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetables-in-black-bean-sauce.png"
     },
     {
       "id": "white-sauce-pasta",
@@ -6345,8 +6380,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/white-sauce-pasta.png"
     },
     {
       "id": "pesto-pasta",
@@ -6368,8 +6404,9 @@
       "relatedReviewIds": [
         "R2807"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pesto-pasta.png"
     },
     {
       "id": "spaghetti-aglio-e-olio",
@@ -6391,8 +6428,9 @@
       "relatedReviewIds": [
         "R2801"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/spaghetti-aglio-e-olio.png"
     },
     {
       "id": "masala-pasta",
@@ -6408,8 +6446,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-pasta.png"
     },
     {
       "id": "chilli-garlic-noodles",
@@ -6425,8 +6464,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chilli-garlic-noodles.png"
     },
     {
       "id": "schezwan-noodles",
@@ -6442,8 +6482,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/schezwan-noodles.png"
     },
     {
       "id": "cacio-e-pepe",
@@ -6459,8 +6500,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/cacio-e-pepe.png"
     },
     {
       "id": "spaghetti-pomodoro",
@@ -6476,8 +6518,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/spaghetti-pomodoro.png"
     },
     {
       "id": "pasta-alla-norma",
@@ -6493,8 +6536,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pasta-alla-norma.png"
     },
     {
       "id": "creamy-mushroom-pasta",
@@ -6510,8 +6554,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/creamy-mushroom-pasta.png"
     },
     {
       "id": "lentil-bolognese",
@@ -6527,8 +6572,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/lentil-bolognese.png"
     },
     {
       "id": "pasta-al-limone",
@@ -6544,8 +6590,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pasta-al-limone.png"
     },
     {
       "id": "spaghetti-alla-nerano",
@@ -6561,8 +6608,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/spaghetti-alla-nerano.png"
     },
     {
       "id": "pasta-alla-checca",
@@ -6578,8 +6626,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pasta-alla-checca.png"
     },
     {
       "id": "polenta-e-funghi",
@@ -6595,8 +6644,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/polenta-e-funghi.png"
     },
     {
       "id": "pizza-marinara",
@@ -6612,8 +6662,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pizza-marinara.png"
     },
     {
       "id": "quattro-formaggi-pizza",
@@ -6631,8 +6682,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/quattro-formaggi-pizza.png"
     },
     {
       "id": "stromboli",
@@ -6648,8 +6700,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/stromboli.png"
     },
     {
       "id": "panzerotti",
@@ -6665,8 +6718,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/panzerotti.png"
     },
     {
       "id": "bean-burrito",
@@ -6682,8 +6736,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bean-burrito.png"
     },
     {
       "id": "chimichanga",
@@ -6699,8 +6754,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chimichanga.png"
     },
     {
       "id": "sopes",
@@ -6716,8 +6772,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/sopes.png"
     },
     {
       "id": "gorditas",
@@ -6733,8 +6790,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/gorditas.png"
     },
     {
       "id": "chalupas",
@@ -6750,8 +6808,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chalupas.png"
     },
     {
       "id": "huaraches",
@@ -6767,8 +6826,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/huaraches.png"
     },
     {
       "id": "enfrijoladas",
@@ -6784,8 +6844,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/enfrijoladas.png"
     },
     {
       "id": "budin-azteca",
@@ -6803,8 +6864,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/budin-azteca.png"
     },
     {
       "id": "vegetable-pasty",
@@ -6822,8 +6884,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetable-pasty.png"
     },
     {
       "id": "cheese-and-onion-pie",
@@ -6839,8 +6902,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/cheese-and-onion-pie.png"
     },
     {
       "id": "pumpkin-kibbeh",
@@ -6856,8 +6920,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pumpkin-kibbeh.png"
     },
     {
       "id": "halloumi-wrap",
@@ -6873,8 +6938,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/halloumi-wrap.png"
     },
     {
       "id": "cauliflower-shawarma",
@@ -6890,8 +6956,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/cauliflower-shawarma.png"
     },
     {
       "id": "beyaynetu",
@@ -6907,8 +6974,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/beyaynetu.png"
     },
     {
       "id": "bunny-chow",
@@ -6924,8 +6992,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bunny-chow.png"
     },
     {
       "id": "buddha-bowl",
@@ -6941,8 +7010,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/buddha-bowl.png"
     },
     {
       "id": "tofu-poke-bowl",
@@ -6958,8 +7028,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tofu-poke-bowl.png"
     },
     {
       "id": "mediterranean-quinoa-bowl",
@@ -6975,8 +7046,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mediterranean-quinoa-bowl.png"
     },
     {
       "id": "singapore-noodles",
@@ -6992,8 +7064,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/singapore-noodles.png"
     },
     {
       "id": "lo-mein",
@@ -7009,8 +7082,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/lo-mein.png"
     },
     {
       "id": "vegetarian-dan-dan-noodles",
@@ -7026,8 +7100,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetarian-dan-dan-noodles.png"
     },
     {
       "id": "sesame-noodles",
@@ -7049,8 +7124,9 @@
       "relatedReviewIds": [
         "R2715"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/sesame-noodles.png"
     },
     {
       "id": "biang-biang-noodles",
@@ -7066,8 +7142,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/biang-biang-noodles.png"
     },
     {
       "id": "yakisoba",
@@ -7083,8 +7160,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/yakisoba.png"
     },
     {
       "id": "bibim-guksu",
@@ -7100,8 +7178,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bibim-guksu.png"
     },
     {
       "id": "vegetarian-pad-see-ew",
@@ -7117,8 +7196,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetarian-pad-see-ew.png"
     },
     {
       "id": "drunken-noodles",
@@ -7140,8 +7220,9 @@
       "relatedReviewIds": [
         "R2813"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/drunken-noodles.png"
     },
     {
       "id": "pad-woon-sen",
@@ -7157,8 +7238,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pad-woon-sen.png"
     },
     {
       "id": "thai-peanut-noodles",
@@ -7174,8 +7256,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/thai-peanut-noodles.png"
     },
     {
       "id": "mee-goreng",
@@ -7191,8 +7274,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mee-goreng.png"
     },
     {
       "id": "atho",
@@ -7208,8 +7292,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/atho.png"
     },
     {
       "id": "general-tso-s-tofu",
@@ -7225,8 +7310,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/general-tso-s-tofu.png"
     },
     {
       "id": "sweet-and-sour-tofu",
@@ -7242,8 +7328,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/sweet-and-sour-tofu.png"
     },
     {
       "id": "black-pepper-tofu",
@@ -7259,8 +7346,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/black-pepper-tofu.png"
     },
     {
       "id": "tofu-bulgogi",
@@ -7276,8 +7364,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tofu-bulgogi.png"
     },
     {
       "id": "tteokbokki",
@@ -7293,8 +7382,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tteokbokki.png"
     },
     {
       "id": "kathi-roll",
@@ -7312,8 +7402,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kathi-roll.png"
     },
     {
       "id": "veggie-burger",
@@ -7329,8 +7420,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/veggie-burger.png"
     },
     {
       "id": "aloo-tikki-burger",
@@ -7346,8 +7438,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/aloo-tikki-burger.png"
     },
     {
       "id": "grilled-cheese-sandwich",
@@ -7363,8 +7456,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/grilled-cheese-sandwich.png"
     },
     {
       "id": "caprese-sandwich",
@@ -7380,8 +7474,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/caprese-sandwich.png"
     },
     {
       "id": "tofu-banh-mi",
@@ -7397,8 +7492,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tofu-banh-mi.png"
     },
     {
       "id": "vegetable-panini",
@@ -7414,8 +7510,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vegetable-panini.png"
     },
     {
       "id": "paneer-steak",
@@ -7431,8 +7528,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/paneer-steak.png"
     },
     {
       "id": "jacket-potato",
@@ -7450,8 +7548,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/jacket-potato.png"
     },
     {
       "id": "alplermagronen",
@@ -7469,8 +7568,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-second-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/alplermagronen.png"
     },
     {
       "id": "paneer-bhuna-masala",
@@ -27979,8 +28079,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "duplicate-existing-catalogue-after-second-batch",
+      "batch": 3,
+      "duplicateOf": "kathi-roll"
     },
     {
       "id": "chilli-paneer-roll",

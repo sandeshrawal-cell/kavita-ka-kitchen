@@ -1,36 +1,92 @@
 {
   "sourceReviewId": "R0144",
   "id": "pasta-alla-norma",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pasta alla Norma",
   "cuisine": "Sicilian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 50,
   "ingredients": [
-    {"name": "eggless dry rigatoni", "qty": 360, "unit": "g"},
-    {"name": "water", "qty": 2400, "unit": "ml"},
-    {"name": "eggplant", "qty": 550, "unit": "g"},
-    {"name": "ripe tomatoes", "qty": 650, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 65, "unit": "ml"},
-    {"name": "garlic", "qty": 18, "unit": "g"},
-    {"name": "fresh basil leaves", "qty": 25, "unit": "g"},
-    {"name": "vegetarian ricotta salata-style cheese", "qty": 70, "unit": "g"},
-    {"name": "salt", "qty": 14, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"}
+    {
+      "name": "eggless dry rigatoni",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2400,
+      "unit": "ml"
+    },
+    {
+      "name": "eggplant",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "ripe tomatoes",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian ricotta salata-style cheese",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check that the rigatoni contains no egg and the cheese label confirms vegetarian or microbial rennet. Cut the eggplant into 2 cm cubes, leaving the purple skin on. Chop the tomatoes, mince the garlic and tear the basil leaves. Pat the eggplant dry so it browns instead of steaming.",
+    "Check that the rigatoni contains eggless and the cheese label confirms vegetarian coagulants. Cut the eggplant into 2 cm cubes, leaving the purple skin on. Chop the tomatoes, mince the garlic and tear the basil leaves. Pat the eggplant dry so it browns instead of steaming.",
     "Heat 45 ml olive oil in a large wide pan over medium-high heat. Cook the eggplant in two batches for 8–10 minutes each, turning occasionally, until golden with soft centres and some browned edges. Do not crowd the pan. Transfer to a plate and sprinkle with 2 g salt.",
     "Lower the heat to medium and add 15 ml olive oil to the same pan. Cook garlic for 30 seconds without browning. Add chopped tomatoes, 4 g salt and black pepper. Simmer uncovered for 12–15 minutes, stirring and pressing the tomatoes, until thick and no longer raw-tasting. Fold two-thirds of the browned eggplant and most basil into the sauce; keep the best pieces and a few leaves for topping.",
     "Meanwhile boil 2400 ml water with 8 g salt. Cook rigatoni according to the packet until just al dente. Reserve 150 ml cloudy pasta water and drain the pasta. Add rigatoni to the tomato-eggplant sauce with 60–100 ml reserved water; toss over medium heat for 1–2 minutes until every tube is coated, adding more water only if dry.",
     "Divide among four warm bowls. Top evenly with the reserved golden eggplant, grated vegetarian ricotta salata-style cheese, remaining basil and final 5 ml olive oil. Serve immediately while the eggplant is tender and the sauce clings to the pasta."
   ],
-  "tips": ["The reviewed image shows ridged short pasta, prominently browned eggplant, bright tomato, basil and a small amount of white cheese. Browning the eggplant in batches is essential. Use only cheese confirmed free of animal rennet; ordinary hard grating cheese is not automatically vegetarian."],
+  "tips": [
+    "The reviewed image shows ridged short pasta, prominently browned eggplant, bright tomato, basil and a small amount of white cheese. Browning the eggplant in batches is essential. Use only cheese confirmed free of animal rennet; ordinary hard grating cheese is not automatically vegetarian."
+  ],
   "translations": {
     "hi": {
       "name": "पास्ता आला नोर्मा",
-      "ingredients": ["बिना अंडे का सूखा रिगाटोनी", "पानी", "बैंगन", "पके टमाटर", "एक्स्ट्रा-वर्जिन जैतून तेल", "लहसुन", "ताज़ी बेसिल पत्तियाँ", "शाकाहारी रिकोटा सालाटा-जैसा चीज़", "नमक", "काली मिर्च"],
+      "ingredients": [
+        "बिना अंडे का सूखा रिगाटोनी",
+        "पानी",
+        "बैंगन",
+        "पके टमाटर",
+        "एक्स्ट्रा-वर्जिन जैतून तेल",
+        "लहसुन",
+        "ताज़ी बेसिल पत्तियाँ",
+        "शाकाहारी रिकोटा सालाटा-जैसा चीज़",
+        "नमक",
+        "काली मिर्च"
+      ],
       "steps": [
         "जाँचें कि रिगाटोनी में अंडा न हो और चीज़ के लेबल पर शाकाहारी या सूक्ष्मजीवी रेननेट लिखा हो। बैंगन को बैंगनी छिलके सहित 2 सेमी टुकड़ों में काटें। टमाटर काटें, लहसुन बारीक काटें और बेसिल पत्तियाँ तोड़ें। बैंगन सुखाएँ ताकि भाप में पकने के बजाय सुनहरा हो।",
         "बड़े चौड़े पैन में 45 मिली जैतून तेल मध्यम-तेज़ आँच पर गरम करें। बैंगन को दो हिस्सों में 8–10 मिनट प्रत्येक, बीच-बीच में पलटते हुए पकाएँ, जब तक बाहर सुनहरा और अंदर नरम हो तथा किनारे भूरे हों। पैन में भीड़ न करें। प्लेट पर निकालकर 2 ग्राम नमक छिड़कें।",
@@ -38,11 +94,24 @@
         "इस बीच 2400 मिली पानी और 8 ग्राम नमक उबालें। पैकेट के अनुसार रिगाटोनी बस अल दंते होने तक पकाएँ। 150 मिली धुंधला पास्ता पानी बचाकर पास्ता छानें। रिगाटोनी को टमाटर-बैंगन सॉस में 60–100 मिली बचा पानी डालकर मध्यम आँच पर 1–2 मिनट पलटें, जब तक हर ट्यूब पर सॉस चढ़े; सूखा लगे तभी और पानी डालें।",
         "चार गरम कटोरियों में बाँटें। बचा सुनहरा बैंगन, कद्दूकस शाकाहारी रिकोटा सालाटा-जैसा चीज़, शेष बेसिल और अंतिम 5 मिली जैतून तेल बराबर ऊपर डालें। बैंगन नरम और सॉस पास्ता पर चिपकी हो तभी तुरंत परोसें।"
       ],
-      "tips": ["समीक्षित तस्वीर में छोटे धारियों वाले पास्ता, स्पष्ट भूरे बैंगन, चमकीले टमाटर, बेसिल और थोड़ा सफेद चीज़ है। बैंगन को अलग-अलग हिस्सों में सुनहरा करना आवश्यक है। सिर्फ पशु रेननेट रहित चीज़ लें; आम कड़ा कद्दूकस वाला चीज़ अपने आप शाकाहारी नहीं होता।"]
+      "tips": [
+        "समीक्षित तस्वीर में छोटे धारियों वाले पास्ता, स्पष्ट भूरे बैंगन, चमकीले टमाटर, बेसिल और थोड़ा सफेद चीज़ है। बैंगन को अलग-अलग हिस्सों में सुनहरा करना आवश्यक है। सिर्फ पशु रेननेट रहित चीज़ लें; आम कड़ा कद्दूकस वाला चीज़ अपने आप शाकाहारी नहीं होता।"
+      ]
     },
     "gu": {
       "name": "પાસ્તા આલા નોર્મા",
-      "ingredients": ["ઇંડા વગરનો સૂકો રિગાટોની", "પાણી", "રીંગણ", "પાકાં ટામેટાં", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "લસણ", "તાજાં બેસિલ પાન", "શાકાહારી રિકોટા સલાટા જેવું ચીઝ", "મીઠું", "કાળા મરી"],
+      "ingredients": [
+        "ઇંડા વગરનો સૂકો રિગાટોની",
+        "પાણી",
+        "રીંગણ",
+        "પાકાં ટામેટાં",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "લસણ",
+        "તાજાં બેસિલ પાન",
+        "શાકાહારી રિકોટા સલાટા જેવું ચીઝ",
+        "મીઠું",
+        "કાળા મરી"
+      ],
       "steps": [
         "રિગાટોનીમાં ઇંડું ન હોય અને ચીઝના લેબલ પર શાકાહારી અથવા સૂક્ષ્મજીવી રેનેટ લખેલું હોય તે તપાસો. રીંગણને જાંબલી છાલ સાથે 2 સેમીના ટુકડા કરો. ટામેટાં સમારો, લસણ બારીક સમારો અને બેસિલનાં પાન તોડો. રીંગણ કોરાં કરો જેથી વરાળમાં રંધાવાને બદલે સોનેરી થાય.",
         "મોટી પહોળી કડાઈમાં 45 મિલી ઓલિવ તેલ મધ્યમ-તેજ તાપે ગરમ કરો. રીંગણને બે હપ્તામાં દરેક 8–10 મિનિટ વચ્ચે વચ્ચે ફેરવી રાંધો, જેથી બહાર સોનેરી, અંદર નરમ અને ધાર બદામી થાય. કડાઈમાં ભીડ ન કરો. થાળીમાં કાઢી 2 ગ્રામ મીઠું છાંટો.",
@@ -50,8 +119,15 @@
         "આ દરમિયાન 2400 મિલી પાણી અને 8 ગ્રામ મીઠું ઉકાળો. પેકેટ પ્રમાણે રિગાટોની માત્ર અલ દંતે થાય ત્યાં સુધી રાંધો. 150 મિલી ધૂંધળું પાસ્તાનું પાણી સાચવી પાસ્તા નિતારો. રિગાટોનીને ટામેટાં-રીંગણની સોસમાં 60–100 મિલી સાચવેલા પાણી સાથે મધ્યમ તાપે 1–2 મિનિટ ઉછાળો જેથી દરેક નળી પર સોસ ચડે; સૂકું લાગે તો જ વધુ પાણી નાખો.",
         "ચાર ગરમ વાટકામાં વહેંચો. સાચવેલા સોનેરી રીંગણ, છીણેલું શાકાહારી રિકોટા સલાટા જેવું ચીઝ, બાકીનું બેસિલ અને છેલ્લું 5 મિલી ઓલિવ તેલ સરખું ઉપર નાખો. રીંગણ નરમ અને સોસ પાસ્તા પર ચોંટેલી હોય ત્યારે તરત પીરસો."
       ],
-      "tips": ["તપાસેલા ફોટામાં ટૂંકા પટ્ટાવાળા પાસ્તા, દેખાતાં શેકેલા રીંગણ, ચમકતાં ટામેટાં, બેસિલ અને થોડું સફેદ ચીઝ છે. રીંગણને અલગ હપ્તામાં સોનેરી કરવું જરૂરી છે. પ્રાણીજન્ય રેનેટ વગરનું જ ચીઝ લો; સામાન્ય કઠણ છીણવાનું ચીઝ આપમેળે શાકાહારી નથી."]
+      "tips": [
+        "તપાસેલા ફોટામાં ટૂંકા પટ્ટાવાળા પાસ્તા, દેખાતાં શેકેલા રીંગણ, ચમકતાં ટામેટાં, બેસિલ અને થોડું સફેદ ચીઝ છે. રીંગણને અલગ હપ્તામાં સોનેરી કરવું જરૂરી છે. પ્રાણીજન્ય રેનેટ વગરનું જ ચીઝ લો; સામાન્ય કઠણ છીણવાનું ચીઝ આપમેળે શાકાહારી નથી."
+      ]
     }
   },
-  "reference": {"url": "https://www.barilla.com/en-us/recipe/all/pasta-alla-norma", "use": "Sicilian eggplant, tomato, basil and ricotta-salata pairing; measured method and wording independently authored for the reviewed image."}
+  "reference": {
+    "url": "https://www.barilla.com/en-us/recipe/all/pasta-alla-norma",
+    "use": "Sicilian eggplant, tomato, basil and ricotta-salata pairing; measured method and wording independently authored for the reviewed image."
+  },
+  "photoDraft": "catalog/intake/photos/pasta-alla-norma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

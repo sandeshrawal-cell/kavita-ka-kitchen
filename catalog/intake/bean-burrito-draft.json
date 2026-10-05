@@ -1,39 +1,110 @@
 {
   "sourceReviewId": "R0155",
   "id": "bean-burrito",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Bean Burrito",
   "cuisine": "Mexican-American",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 35,
   "ingredients": [
-    {"name": "large flour tortillas (4 pieces)", "qty": 260, "unit": "g"},
-    {"name": "cooked pinto or black beans, drained", "qty": 440, "unit": "g"},
-    {"name": "cooked rice", "qty": 300, "unit": "g"},
-    {"name": "red and yellow bell peppers, diced", "qty": 180, "unit": "g"},
-    {"name": "tomato salsa, thick", "qty": 120, "unit": "g"},
-    {"name": "vegetarian melting cheese made without animal rennet, grated", "qty": 120, "unit": "g"},
-    {"name": "onion, finely diced", "qty": 80, "unit": "g"},
-    {"name": "neutral oil", "qty": 15, "unit": "ml"},
-    {"name": "ground cumin", "qty": 3, "unit": "g"},
-    {"name": "chilli powder", "qty": 2, "unit": "g"},
-    {"name": "lime juice", "qty": 15, "unit": "ml"},
-    {"name": "fresh coriander leaves, chopped", "qty": 20, "unit": "g"},
-    {"name": "fine salt", "qty": 4, "unit": "g"}
+    {
+      "name": "large flour tortillas (4 pieces)",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "cooked pinto or black beans, drained",
+      "qty": 440,
+      "unit": "g"
+    },
+    {
+      "name": "cooked rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "red and yellow bell peppers, diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato salsa, thick",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian melting cheese made with vegetarian coagulants, grated",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely diced",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "chilli powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander leaves, chopped",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt",
+      "qty": 4,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Drain the cooked beans well. Heat 10 ml oil in a wide pan, cook the onion and diced peppers for 5–6 minutes until just softened, then stir in cumin and chilli powder for 30 seconds. Add the beans and half the salt; cook 3–4 minutes, lightly mashing a quarter of the beans so the filling holds together. Keep the mixture moist but not watery.",
-    "Warm the cooked rice with the remaining salt, lime juice and half the chopped coriander. Warm the thick salsa separately if desired. Check the cheese label to ensure it contains no animal rennet. Set out four large tortillas, the beans, rice, peppers, salsa and grated cheese before assembling.",
+    "Warm the cooked rice with the remaining salt, lime juice and half the chopped coriander. Warm the thick salsa separately if desired. Check the cheese label to ensure it contains no animal-derived coagulants. Set out four large tortillas, the beans, rice, peppers, salsa and grated cheese before assembling.",
     "Warm each tortilla briefly in a dry pan, 15–20 seconds per side, until flexible. Place one-quarter of the rice in a short strip just below the centre, then add one-quarter of the bean-pepper mixture, 30 g salsa, 30 g cheese and a little of the remaining coriander. Leave generous empty space at both sides and do not overfill.",
     "Fold the short sides inward over the filling. Lift the bottom edge over it, tuck firmly, and roll away from you into a tight, fully closed cylinder. Repeat for all four burritos, placing each seam-side down. If a tortilla cracks, warm it a little longer before rolling.",
     "Heat the remaining 5 ml oil in a non-stick pan over medium heat. Toast the burritos seam-side down for 2–3 minutes, turn and toast the other side for 2 minutes, until lightly browned and the cheese melts. Rest for 2 minutes and cut diagonally; serve with any extra salsa and lime."
   ],
-  "tips": ["Use cooked beans and cooked rice; raw weights would require different cooking times. The reviewed photo shows sliced toasted burritos with distinct beans, rice, peppers, tomato and cheese. Keep salsa thick so the tortilla does not become soggy."],
+  "tips": [
+    "Use cooked beans and cooked rice; raw weights would require different cooking times. The reviewed photo shows sliced toasted burritos with distinct beans, rice, peppers, tomato and cheese. Keep salsa thick so the tortilla does not become soggy."
+  ],
   "translations": {
     "hi": {
       "name": "बीन बरिटो",
-      "ingredients": ["बड़ी मैदे की टॉर्टिया", "पके पिंटो या काले बीन्स, पानी निकाले हुए", "पके चावल", "लाल और पीली शिमला मिर्च, छोटे टुकड़ों में", "गाढ़ा टमाटर साल्सा", "पशु रेननेट रहित शाकाहारी पिघलने वाला चीज़, कद्दूकस", "प्याज़, बारीक कटा", "हल्का स्वाद वाला तेल", "पिसा जीरा", "लाल मिर्च पाउडर", "नींबू का रस", "ताज़ी कटी धनिया पत्ती", "बारीक नमक"],
+      "ingredients": [
+        "बड़ी मैदे की टॉर्टिया (4 पीस)",
+        "पके पिंटो या काले बीन्स, पानी निकाले हुए",
+        "पके चावल",
+        "लाल और पीली शिमला मिर्च, छोटे टुकड़ों में",
+        "गाढ़ा टमाटर साल्सा",
+        "पशु रेननेट रहित शाकाहारी पिघलने वाला चीज़, कद्दूकस",
+        "प्याज़, बारीक कटा",
+        "हल्का स्वाद वाला तेल",
+        "पिसा जीरा",
+        "लाल मिर्च पाउडर",
+        "नींबू का रस",
+        "ताज़ी कटी धनिया पत्ती",
+        "बारीक नमक"
+      ],
       "steps": [
         "पके बीन्स का पानी अच्छी तरह निकालें। चौड़े पैन में 10 मिली तेल गरम करें, प्याज़ और कटी शिमला मिर्च 5–6 मिनट हल्की नरम होने तक पकाएँ, फिर जीरा और मिर्च पाउडर 30 सेकंड भूनें। बीन्स और आधा नमक डालकर 3–4 मिनट पकाएँ; लगभग चौथाई बीन्स हल्के मसलें ताकि भरावन बँधे। मिश्रण नम रहे पर पानीदार न हो।",
         "पके चावल को बचा नमक, नींबू रस और आधे कटे धनिए के साथ गरम करें। चाहें तो गाढ़ा साल्सा अलग गरम करें। चीज़ के लेबल पर जाँचें कि उसमें पशु रेननेट नहीं है। भरने से पहले चार बड़ी टॉर्टिया, बीन्स, चावल, शिमला मिर्च, साल्सा और कद्दूकस चीज़ तैयार रखें।",
@@ -41,11 +112,27 @@
         "दोनों छोटे किनारे भरावन पर मोड़ें। नीचे का किनारा उठाकर भरावन पर रखें, कसकर दबाएँ और आगे की ओर लपेटकर पूरा बंद बेलनाकार रोल बनाएँ। चारों बरिटो ऐसे बनाएँ और जोड़ नीचे रखें। टॉर्टिया फटे तो लपेटने से पहले थोड़ा और गरम करें।",
         "नॉन-स्टिक पैन में बचा 5 मिली तेल मध्यम आँच पर गरम करें। बरिटो को जोड़ नीचे रखकर 2–3 मिनट सेंकें, पलटकर दूसरी ओर 2 मिनट सेंकें, जब तक हल्के भूरे और चीज़ पिघला हो। 2 मिनट ठहराकर तिरछा काटें; बचा साल्सा और नींबू साथ दें।"
       ],
-      "tips": ["पके बीन्स और पके चावल लें; कच्चे की मात्रा के लिए पकाने का समय अलग होगा। समीक्षित तस्वीर में कटे सेंके हुए बरिटो में बीन्स, चावल, शिमला मिर्च, टमाटर और चीज़ अलग दिखते हैं। साल्सा गाढ़ा रखें ताकि टॉर्टिया गीली न हो।"]
+      "tips": [
+        "पके बीन्स और पके चावल लें; कच्चे की मात्रा के लिए पकाने का समय अलग होगा। समीक्षित तस्वीर में कटे सेंके हुए बरिटो में बीन्स, चावल, शिमला मिर्च, टमाटर और चीज़ अलग दिखते हैं। साल्सा गाढ़ा रखें ताकि टॉर्टिया गीली न हो।"
+      ]
     },
     "gu": {
       "name": "બીન બરિટો",
-      "ingredients": ["મોટી મેંદાની ટોર્ટિયા", "રાંધેલા પિન્ટો અથવા કાળા બીન, પાણી નિતારેલા", "રાંધેલા ભાત", "લાલ અને પીળાં સિમલા મરચાં, નાના સમારેલા", "ઘાટી ટામેટાંની સાલસા", "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ઓગળતું ચીઝ, છીણેલું", "ઝીણી સમારેલી ડુંગળી", "હળવા સ્વાદનું તેલ", "જીરું પાઉડર", "લાલ મરચું પાઉડર", "લીંબુનો રસ", "તાજી સમારેલી કોથમીર", "બારીક મીઠું"],
+      "ingredients": [
+        "મોટી મેંદાની ટોર્ટિયા (4 નંગ)",
+        "રાંધેલા પિન્ટો અથવા કાળા બીન, પાણી નિતારેલા",
+        "રાંધેલા ભાત",
+        "લાલ અને પીળાં સિમલા મરચાં, નાના સમારેલા",
+        "ઘાટી ટામેટાંની સાલસા",
+        "પ્રાણીજન્ય રેનેટ વગરનું શાકાહારી ઓગળતું ચીઝ, છીણેલું",
+        "ઝીણી સમારેલી ડુંગળી",
+        "હળવા સ્વાદનું તેલ",
+        "જીરું પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "લીંબુનો રસ",
+        "તાજી સમારેલી કોથમીર",
+        "બારીક મીઠું"
+      ],
       "steps": [
         "રાંધેલા બીનનું પાણી સારી રીતે નિતારો. પહોળી કડાઈમાં 10 મિલી તેલ ગરમ કરી ડુંગળી અને સમારેલા સિમલા મરચાં 5–6 મિનિટ નરમ થાય ત્યાં સુધી રાંધો, પછી જીરું અને મરચું પાઉડર 30 સેકન્ડ સાંતળો. બીન અને અડધું મીઠું નાખી 3–4 મિનિટ રાંધો; લગભગ ચોથા ભાગના બીન સહેજ છૂંદો જેથી પૂરણ બંધાય. મિશ્રણ ભીનું રહે પણ પાણીદાર નહીં.",
         "રાંધેલા ભાતને બાકીના મીઠા, લીંબુના રસ અને અડધી સમારેલી કોથમીર સાથે ગરમ કરો. ઇચ્છો તો ઘાટી સાલસા અલગ ગરમ કરો. ચીઝના લેબલ પર પ્રાણીજન્ય રેનેટ નથી તેની ખાતરી કરો. ભરતાં પહેલાં ચાર મોટી ટોર્ટિયા, બીન, ભાત, સિમલા મરચાં, સાલસા અને છીણેલું ચીઝ તૈયાર રાખો.",
@@ -53,8 +140,15 @@
         "બંને ટૂંકી બાજુ પૂરણ પર વાળો. નીચેની ધાર પૂરણ પર ઉઠાવી કસીને દબાવો અને આગળની તરફ વાળી સંપૂર્ણ બંધ નળાકાર રોલ બનાવો. ચારેય બરિટો એમ બનાવો અને જોડ નીચે રાખો. ટોર્ટિયા ફાટે તો વાળતાં પહેલાં થોડું વધુ ગરમ કરો.",
         "નોન-સ્ટિક કડાઈમાં બાકીનું 5 મિલી તેલ મધ્યમ તાપે ગરમ કરો. બરિટોને જોડ નીચે રાખી 2–3 મિનિટ શેકો, પલટીને બીજી બાજુ 2 મિનિટ શેકો જેથી સહેજ બદામી થાય અને ચીઝ ઓગળે. 2 મિનિટ આરામ આપીને ત્રાંસા કાપો; બાકી સાલસા અને લીંબુ સાથે પીરસો."
       ],
-      "tips": ["રાંધેલા બીન અને ભાત જ લો; કાચા હોય તો રસોઈનો સમય જુદો પડશે. તપાસેલા ફોટામાં કાપેલા શેકેલા બરિટોમાં બીન, ભાત, સિમલા મરચાં, ટામેટાં અને ચીઝ અલગ દેખાય છે. ટોર્ટિયા ભીંજાય નહીં તે માટે સાલસા ઘાટી રાખો."]
+      "tips": [
+        "રાંધેલા બીન અને ભાત જ લો; કાચા હોય તો રસોઈનો સમય જુદો પડશે. તપાસેલા ફોટામાં કાપેલા શેકેલા બરિટોમાં બીન, ભાત, સિમલા મરચાં, ટામેટાં અને ચીઝ અલગ દેખાય છે. ટોર્ટિયા ભીંજાય નહીં તે માટે સાલસા ઘાટી રાખો."
+      ]
     }
   },
-  "reference": {"url": "https://www.ricardocuisine.com/en/recipes/8956-black-bean-burrito", "use": "Bean-and-rice vegetarian burrito composition; measurements, folding sequence and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://www.ricardocuisine.com/en/recipes/8956-black-bean-burrito",
+    "use": "Bean-and-rice vegetarian burrito composition; measurements, folding sequence and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/bean-burrito.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

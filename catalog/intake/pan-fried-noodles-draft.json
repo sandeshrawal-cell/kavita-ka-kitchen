@@ -1,40 +1,116 @@
 {
   "sourceReviewId": "R0126",
   "id": "pan-fried-noodles",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pan-Fried Noodles",
   "cuisine": "Chinese",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 40,
   "ingredients": [
-    {"name": "eggless thin wheat noodles", "qty": 400, "unit": "g"},
-    {"name": "water", "qty": 2200, "unit": "ml"},
-    {"name": "baby bok choy", "qty": 250, "unit": "g"},
-    {"name": "shiitake mushrooms", "qty": 180, "unit": "g"},
-    {"name": "carrots", "qty": 120, "unit": "g"},
-    {"name": "snow peas", "qty": 120, "unit": "g"},
-    {"name": "garlic", "qty": 12, "unit": "g"},
-    {"name": "ginger", "qty": 12, "unit": "g"},
-    {"name": "neutral oil", "qty": 50, "unit": "ml"},
-    {"name": "light soy sauce", "qty": 35, "unit": "ml"},
-    {"name": "vegetarian mushroom stir-fry sauce", "qty": 30, "unit": "g"},
-    {"name": "cornstarch", "qty": 20, "unit": "g"},
-    {"name": "sugar", "qty": 8, "unit": "g"},
-    {"name": "salt", "qty": 5, "unit": "g"}
+    {
+      "name": "eggless thin wheat noodles",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2200,
+      "unit": "ml"
+    },
+    {
+      "name": "baby bok choy",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrots",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "snow peas",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian mushroom stir-fry sauce",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
   ],
   "steps": [
-    "Check the noodles are made without egg. Bring 2000 ml water and 5 g salt to a boil. Cook the noodles just until barely tender, following the packet time minus about 1 minute. Drain thoroughly, rinse briefly with cool water and spread on a tray to dry for 5 minutes; damp noodles will steam instead of crisping. Quarter the bok choy, slice mushrooms, cut carrot into matchsticks and trim the snow peas.",
+    "Check the noodles are made eggless. Bring 2000 ml water and 5 g salt to a boil. Cook the noodles just until barely tender, following the packet time minus about 1 minute. Drain thoroughly, rinse briefly with cool water and spread on a tray to dry for 5 minutes; damp noodles will steam instead of crisping. Quarter the bok choy, slice mushrooms, cut carrot into matchsticks and trim the snow peas.",
     "Whisk the remaining 200 ml water with soy sauce, vegetarian mushroom sauce, cornstarch and sugar until smooth. Mince the garlic and ginger. Divide the dried noodles into two loose, even nests so each can lie in one layer in the pan.",
     "Heat 18 ml oil in a wide non-stick or well-seasoned pan over medium-high heat. Add one noodle nest, spread it flat and press lightly. Leave undisturbed for 4–5 minutes until the underside forms a golden crust, flip in sections and crisp the other side for 2–3 minutes. Move to a warm serving platter. Repeat with the second nest and another 17 ml oil.",
-    "Add the remaining 15 ml oil to the pan. Stir-fry carrot and mushrooms for 2 minutes, then add bok choy stems, snow peas, garlic and ginger for 1 minute. Add the leafy bok choy tops and cook another minute; the vegetables should stay bright and slightly crisp.",
+    "Add the remaining 15 ml oil to the pan. Stir-fry carrot and mushrooms for 2 minutes, then add bok choy stems, snow peas, garlic and ginger for 1 minute. Add the leafy bok choy tops and cook another 1 minute; the vegetables should stay bright and slightly crisp.",
     "Stir the sauce again to lift the settled cornstarch, pour it into the hot pan and simmer 1–2 minutes, stirring, until glossy and lightly thickened. Taste; the soy and mushroom sauces provide most of the seasoning. Spoon the vegetables and sauce over the crisp noodle nests only when ready to serve, dividing into four portions so some noodle edges stay crunchy."
   ],
-  "tips": ["Use a mushroom-based vegetarian sauce, not oyster sauce. Thin eggless wheat noodles give the photographed crisp nest; thick soft noodles will not look or eat the same. Sauce the noodles at the table if you want maximum crunch."],
+  "tips": [
+    "Use a mushroom-based vegetarian sauce, not oyster sauce. Thin eggless wheat noodles give the photographed crisp nest; thick soft noodles will not look or eat the same. Sauce the noodles at the table if you want maximum crunch."
+  ],
   "translations": {
     "hi": {
       "name": "पैन में कुरकुरे तले नूडल्स",
-      "ingredients": ["बिना अंडे के पतले गेहूँ के नूडल्स", "पानी", "बेबी बोक चॉय", "शिटाके मशरूम", "गाजर", "स्नो पीज़", "लहसुन", "अदरक", "बिना तेज़ स्वाद वाला तेल", "हल्का सोया सॉस", "शाकाहारी मशरूम स्टिर-फ्राई सॉस", "कॉर्नस्टार्च", "चीनी", "नमक"],
+      "ingredients": [
+        "बिना अंडे के पतले गेहूँ के नूडल्स",
+        "पानी",
+        "बेबी बोक चॉय",
+        "शिटाके मशरूम",
+        "गाजर",
+        "स्नो पीज़",
+        "लहसुन",
+        "अदरक",
+        "बिना तेज़ स्वाद वाला तेल",
+        "हल्का सोया सॉस",
+        "शाकाहारी मशरूम स्टिर-फ्राई सॉस",
+        "कॉर्नस्टार्च",
+        "चीनी",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि नूडल्स में अंडा न हो। 2000 मिली पानी में 5 ग्राम नमक डालकर उबालें। पैकेट पर लिखे समय से लगभग 1 मिनट कम पकाकर नूडल्स बस नरम करें। अच्छी तरह छानें, ठंडे पानी से जल्दी धोएँ और ट्रे पर फैलाकर 5 मिनट सुखाएँ; गीले नूडल्स कुरकुरे होने के बजाय भाप में पकेंगे। बोक चॉय चौथाई काटें, मशरूम के स्लाइस, गाजर की पतली तीली बनाएँ और स्नो पीज़ के सिरे हटाएँ।",
         "बचे 200 मिली पानी में सोया सॉस, शाकाहारी मशरूम सॉस, कॉर्नस्टार्च और चीनी फेंटकर चिकना मिश्रण बनाएँ। लहसुन और अदरक बारीक काटें। सूखे नूडल्स के दो ढीले बराबर गोले बनाएँ ताकि हर गोला पैन में एक परत में आ सके।",
@@ -42,11 +118,28 @@
         "पैन में बचा 15 मिली तेल डालें। गाजर और मशरूम 2 मिनट तेज़ आँच पर चलाएँ, फिर बोक चॉय के डंठल, स्नो पीज़, लहसुन और अदरक डालकर 1 मिनट पकाएँ। बोक चॉय के पत्ते डालें और 1 मिनट और पकाएँ; सब्ज़ियाँ चमकदार और हल्की कुरकुरी रहें।",
         "नीचे बैठे कॉर्नस्टार्च को मिलाने के लिए सॉस फिर चलाएँ, गरम पैन में डालें और 1–2 मिनट हिलाते हुए चमकदार व हल्का गाढ़ा होने तक पकाएँ। चखें; सोया और मशरूम सॉस से अधिकतर नमक आ जाता है। परोसने से ठीक पहले सब्ज़ियाँ और सॉस कुरकुरे नूडल्स पर डालें और चार भाग करें ताकि कुछ किनारे कुरकुरे रहें।"
       ],
-      "tips": ["मशरूम से बना शाकाहारी सॉस लें, ऑयस्टर सॉस नहीं। पतले बिना अंडे के गेहूँ नूडल्स चित्र जैसी कुरकुरी परत बनाते हैं; मोटे नरम नूडल्स अलग लगेंगे। अधिक कुरकुरापन चाहिए तो सॉस खाने के समय डालें।"]
+      "tips": [
+        "मशरूम से बना शाकाहारी सॉस लें, ऑयस्टर सॉस नहीं। पतले बिना अंडे के गेहूँ नूडल्स चित्र जैसी कुरकुरी परत बनाते हैं; मोटे नरम नूडल्स अलग लगेंगे। अधिक कुरकुरापन चाहिए तो सॉस खाने के समय डालें।"
+      ]
     },
     "gu": {
       "name": "તવામાં શેકેલા કરકરા નૂડલ્સ",
-      "ingredients": ["ઇંડા વગરના પાતળા ઘઉંના નૂડલ્સ", "પાણી", "બેબી બોક ચોય", "શિટાકે મશરૂમ", "ગાજર", "સ્નો પીઝ", "લસણ", "આદુ", "તટસ્થ સ્વાદનું તેલ", "હળવો સોયા સોસ", "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ", "કોર્નસ્ટાર્ચ", "ખાંડ", "મીઠું"],
+      "ingredients": [
+        "ઇંડા વગરના પાતળા ઘઉંના નૂડલ્સ",
+        "પાણી",
+        "બેબી બોક ચોય",
+        "શિટાકે મશરૂમ",
+        "ગાજર",
+        "સ્નો પીઝ",
+        "લસણ",
+        "આદુ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "હળવો સોયા સોસ",
+        "શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ",
+        "કોર્નસ્ટાર્ચ",
+        "ખાંડ",
+        "મીઠું"
+      ],
       "steps": [
         "નૂડલ્સ ઇંડા વગરના હોય તે તપાસો. 2000 મિલી પાણીમાં 5 ગ્રામ મીઠું નાખી ઉકાળો. પેકેટ પરના સમય કરતાં આશરે 1 મિનિટ ઓછા રાંધી નૂડલ્સ માત્ર નરમ કરો. સારી રીતે નિતારો, ઠંડા પાણીથી ઝડપથી ધોઈ ટ્રેમાં પાથરી 5 મિનિટ સૂકવો; ભીના નૂડલ્સ કરકરા થવાને બદલે વરાળમાં ચડશે. બોક ચોયના ચાર ભાગ, મશરૂમની સ્લાઇસ, ગાજરની પાતળી સળીઓ બનાવો અને સ્નો પીઝના છેડા કાપો.",
         "બાકીનું 200 મિલી પાણી, સોયા સોસ, શાકાહારી મશરૂમ સોસ, કોર્નસ્ટાર્ચ અને ખાંડ ભેળવી ગાંઠ વગરનું સોસ બનાવો. લસણ અને આદુ બારીક સમારો. સૂકવેલા નૂડલ્સના બે ઢીલા સરખા ગૂંચળા બનાવો જેથી દરેક તવામાં એક પડમાં પથરાય.",
@@ -54,8 +147,15 @@
         "તવામાં બાકીનું 15 મિલી તેલ નાખો. ગાજર અને મશરૂમ 2 મિનિટ હલાવી શેકો, પછી બોક ચોયના દાંડા, સ્નો પીઝ, લસણ અને આદુ નાખી 1 મિનિટ રાંધો. બોક ચોયનાં પાન નાખી વધુ 1 મિનિટ રાંધો; શાક ચમકદાર અને સહેજ કરકરું રહે.",
         "નીચે બેઠેલું કોર્નસ્ટાર્ચ ભળી જાય એમ સોસ ફરી હલાવો, ગરમ તવામાં રેડી 1–2 મિનિટ હલાવતા ચમકદાર અને સહેજ ઘટ્ટ થાય ત્યાં સુધી ઉકાળો. ચાખો; સોયા અને મશરૂમ સોસમાં મોટાભાગનું મીઠું હોય છે. પીરસતી વખતે જ કરકરા નૂડલ્સ પર શાક અને સોસ રેડી ચાર ભાગ કરો જેથી કેટલીક કિનારીઓ કરકરી રહે."
       ],
-      "tips": ["મશરૂમ આધારિત શાકાહારી સોસ લો, ઓયસ્ટર સોસ નહીં. પાતળા ઇંડા વગરના ઘઉંના નૂડલ્સ ફોટા જેવો કરકરો પડ આપે છે; જાડા નરમ નૂડલ્સ અલગ લાગશે. વધુ કરકરાપણું હોય તો જમતી વખતે સોસ રેડો."]
+      "tips": [
+        "મશરૂમ આધારિત શાકાહારી સોસ લો, ઓયસ્ટર સોસ નહીં. પાતળા ઇંડા વગરના ઘઉંના નૂડલ્સ ફોટા જેવો કરકરો પડ આપે છે; જાડા નરમ નૂડલ્સ અલગ લાગશે. વધુ કરકરાપણું હોય તો જમતી વખતે સોસ રેડો."
+      ]
     }
   },
-  "reference": {"url": "https://omnivorescookbook.com/vegetable-pan-fried-noodles/", "use": "Vegetarian crisp-noodle and sauced-vegetable technique; ingredient selection, measurements and text independently authored to match reviewed photograph."}
+  "reference": {
+    "url": "https://omnivorescookbook.com/vegetable-pan-fried-noodles/",
+    "use": "Vegetarian crisp-noodle and sauced-vegetable technique; ingredient selection, measurements and text independently authored to match reviewed photograph."
+  },
+  "photoDraft": "catalog/intake/photos/pan-fried-noodles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

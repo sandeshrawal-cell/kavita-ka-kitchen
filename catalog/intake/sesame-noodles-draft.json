@@ -1,50 +1,175 @@
 {
-  "sourceReviewId":"R0176","id":"sesame-noodles","status":"draft-photo-and-translation-reviewed","name":"Sesame Noodles","cuisine":"Chinese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":25,
-  "ingredients":[
-    {"name":"dry egg-free wheat noodles","qty":320,"unit":"g"},
-    {"name":"Chinese sesame paste or tahini","qty":90,"unit":"g"},
-    {"name":"unsweetened peanut butter","qty":45,"unit":"g"},
-    {"name":"light soy sauce","qty":40,"unit":"ml"},
-    {"name":"rice vinegar","qty":30,"unit":"ml"},
-    {"name":"toasted sesame oil","qty":20,"unit":"ml"},
-    {"name":"garlic, finely grated","qty":12,"unit":"g"},
-    {"name":"ginger, finely grated","qty":10,"unit":"g"},
-    {"name":"sugar","qty":12,"unit":"g"},
-    {"name":"cucumber, julienned","qty":220,"unit":"g"},
-    {"name":"carrot, julienned","qty":160,"unit":"g"},
-    {"name":"spring onion, sliced","qty":70,"unit":"g"},
-    {"name":"fresh coriander leaves","qty":20,"unit":"g"},
-    {"name":"roasted peanuts, chopped","qty":35,"unit":"g"},
-    {"name":"toasted sesame seeds","qty":12,"unit":"g"},
-    {"name":"hot noodle cooking water","qty":120,"unit":"ml"}
+  "sourceReviewId": "R0176",
+  "id": "sesame-noodles",
+  "status": "published-second-100-intake-batch",
+  "name": "Sesame Noodles",
+  "cuisine": "Chinese-inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
-    "Cook the egg-free noodles in a large pot of boiling water according to the package until tender with a little bite. Before draining, measure out 120 ml cooking water. Rinse noodles under cold water, drain thoroughly and toss lightly so they do not clump.",
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "dry eggless wheat noodles",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "Chinese sesame paste or tahini",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened peanut butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic, finely grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, finely grated",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber, julienned",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, julienned",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion, sliced",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts, chopped",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "hot noodle cooking water",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cook the eggless noodles in a large pot of boiling water according to the package until tender with a little bite. Before draining, measure out 120 ml cooking water. Rinse noodles under cold water, drain thoroughly and toss lightly so they do not clump.",
     "Whisk sesame paste, peanut butter, soy sauce, rice vinegar, sesame oil, grated garlic, ginger and sugar. Slowly whisk in the measured warm noodle water until the sauce becomes smooth and coats a spoon. Add a splash more water only if necessary.",
     "Cut cucumber and carrot into fine matchsticks; keep them crisp and raw. Slice spring onion, pick coriander leaves, chop roasted peanuts and toast sesame seeds briefly in a dry pan if they are not already toasted.",
     "Put the drained cool noodles into a large bowl and pour over about three-quarters of the sesame sauce. Toss with tongs until evenly coated; separate any stuck strands. Taste and add more of the sauce so the noodles are creamy but not swimming in liquid.",
     "Divide noodles among four bowls. Arrange cucumber and carrot on top, then scatter spring onion, coriander, chopped peanuts and sesame seeds. Serve cool or at room temperature with any remaining sauce on the side."
   ],
-  "tips":["Use unsweetened peanut butter so the measured sugar controls sweetness. The reviewed photo shows creamy sesame-coated noodles topped with crisp cucumber, carrot, scallion, coriander, peanuts and sesame."],
-  "translations":{
-    "hi":{"name":"तिल वाले नूडल्स","ingredients":["सूखे बिना अंडे के गेहूँ नूडल्स","चाइनीज़ तिल पेस्ट या ताहिनी","बिना चीनी का पीनट बटर","हल्का सोया सॉस","राइस विनेगर","भुने तिल का तेल","लहसुन, बारीक कद्दूकस","अदरक, बारीक कद्दूकस","चीनी","खीरा, बारीक लंबा कटा","गाजर, बारीक लंबी कटी","हरा प्याज़, कटा","ताज़ा हरा धनिया","भुनी मूँगफली, कटी","भुने तिल","नूडल्स का गरम उबला पानी"],
-      "steps":[
+  "tips": [
+    "Use unsweetened peanut butter so the measured sugar controls sweetness. The reviewed photo shows creamy sesame-coated noodles topped with crisp cucumber, carrot, scallion, coriander, peanuts and sesame."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तिल वाले नूडल्स",
+      "ingredients": [
+        "सूखे बिना अंडे के गेहूँ नूडल्स",
+        "चाइनीज़ तिल पेस्ट या ताहिनी",
+        "बिना चीनी का पीनट बटर",
+        "हल्का सोया सॉस",
+        "राइस विनेगर",
+        "भुने तिल का तेल",
+        "लहसुन, बारीक कद्दूकस",
+        "अदरक, बारीक कद्दूकस",
+        "चीनी",
+        "खीरा, बारीक लंबा कटा",
+        "गाजर, बारीक लंबी कटी",
+        "हरा प्याज़, कटा",
+        "ताज़ा हरा धनिया",
+        "भुनी मूँगफली, कटी",
+        "भुने तिल",
+        "नूडल्स का गरम उबला पानी"
+      ],
+      "steps": [
         "बिना अंडे वाले नूडल्स पैक के अनुसार उबलते पानी में हल्का चबाने योग्य रहने तक पकाएँ। छानने से पहले 120 मिली पानी नापकर बचाएँ। नूडल्स ठंडे पानी से धोएँ, अच्छी तरह छानें और हल्के मिलाएँ ताकि चिपकें नहीं।",
         "तिल पेस्ट, पीनट बटर, सोया सॉस, राइस विनेगर, तिल का तेल, कद्दूकस लहसुन, अदरक और चीनी फेंटें। नापा गुनगुना नूडल पानी धीरे मिलाएँ ताकि सॉस चिकना हो और चम्मच पर चढ़े। ज़रूरत पर ही थोड़ा और पानी डालें।",
         "खीरे और गाजर की बारीक लंबी तीलियाँ काटें; इन्हें कच्चा और कुरकुरा रखें। हरा प्याज़ काटें, धनिया पत्ते तोड़ें, भुनी मूँगफली काटें और तिल पहले से भुने न हों तो सूखे पैन में हल्के भूनें।",
         "छाने ठंडे नूडल्स बड़े कटोरे में रखें और लगभग तीन-चौथाई तिल सॉस डालें। चिमटे से बराबर मिलाएँ और चिपके नूडल अलग करें। चखकर इतना और सॉस मिलाएँ कि नूडल्स मलाईदार हों, तरल में तैरें नहीं।",
         "नूडल्स चार बाउल में बाँटें। ऊपर खीरा और गाजर सजाएँ, फिर हरा प्याज़, धनिया, कटी मूँगफली और तिल छिड़कें। ठंडा या कमरे के ताप पर, बचा सॉस साथ में देकर परोसें।"
       ],
-      "tips":["बिना चीनी का पीनट बटर लें ताकि नापी चीनी से मिठास नियंत्रित रहे। समीक्षित तस्वीर में मलाईदार तिल सॉस वाले नूडल्स पर कुरकुरा खीरा, गाजर, हरा प्याज़, धनिया, मूँगफली और तिल हैं।"]},
-    "gu":{"name":"તલવાળા નૂડલ્સ","ingredients":["સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ","ચાઇનીઝ તલની પેસ્ટ અથવા તાહિની","ખાંડ વગરનું પીનટ બટર","હળવો સોયા સોસ","રાઇસ વિનેગર","શેકેલા તલનું તેલ","લસણ, ઝીણું છીણેલું","આદુ, ઝીણું છીણેલું","ખાંડ","કાકડી, ઝીણી લાંબી કાપેલી","ગાજર, ઝીણી લાંબી કાપેલી","લીલી ડુંગળી, સમારેલી","તાજી કોથમીરનાં પાન","શેકેલી મગફળી, સમારેલી","શેકેલા તલ","નૂડલ્સનું ગરમ રાંધેલું પાણી"],
-      "steps":[
+      "tips": [
+        "बिना चीनी का पीनट बटर लें ताकि नापी चीनी से मिठास नियंत्रित रहे। समीक्षित तस्वीर में मलाईदार तिल सॉस वाले नूडल्स पर कुरकुरा खीरा, गाजर, हरा प्याज़, धनिया, मूँगफली और तिल हैं।"
+      ]
+    },
+    "gu": {
+      "name": "તલવાળા નૂડલ્સ",
+      "ingredients": [
+        "સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ",
+        "ચાઇનીઝ તલની પેસ્ટ અથવા તાહિની",
+        "ખાંડ વગરનું પીનટ બટર",
+        "હળવો સોયા સોસ",
+        "રાઇસ વિનેગર",
+        "શેકેલા તલનું તેલ",
+        "લસણ, ઝીણું છીણેલું",
+        "આદુ, ઝીણું છીણેલું",
+        "ખાંડ",
+        "કાકડી, ઝીણી લાંબી કાપેલી",
+        "ગાજર, ઝીણી લાંબી કાપેલી",
+        "લીલી ડુંગળી, સમારેલી",
+        "તાજી કોથમીરનાં પાન",
+        "શેકેલી મગફળી, સમારેલી",
+        "શેકેલા તલ",
+        "નૂડલ્સનું ગરમ રાંધેલું પાણી"
+      ],
+      "steps": [
         "ઈંડા વગરના નૂડલ્સ પેક પ્રમાણે ઉકળતા પાણીમાં થોડા ચાવી શકાય એવા રહે ત્યાં સુધી રાંધો. નિતારતાં પહેલાં 120 મિલી પાણી માપીને રાખો. નૂડલ્સ ઠંડા પાણીથી ધોઈ સારી રીતે નિતારો અને હળવેથી ભેળવો જેથી ચોંટે નહીં.",
         "તલની પેસ્ટ, પીનટ બટર, સોયા સોસ, રાઇસ વિનેગર, તલનું તેલ, છીણેલું લસણ, આદુ અને ખાંડ ફેંટો. માપેલું હૂંફાળું નૂડલ પાણી ધીમે ભેળવો જેથી સોસ સુંવાળો બને અને ચમચા પર ચડે. જરૂરી હોય તો જ વધુ પાણી નાખો.",
         "કાકડી અને ગાજરની ઝીણી લાંબી સળીઓ કાપો; કાચી અને કરકરી રાખો. લીલી ડુંગળી સમારો, કોથમીરનાં પાન તોડો, શેકેલી મગફળી સમારો અને તલ પહેલેથી શેકેલા ન હોય તો સૂકી કડાઈમાં હળવા શેકો.",
         "નિતારેલા ઠંડા નૂડલ્સ મોટી વાટકીમાં મૂકી લગભગ ત્રણ-ચોથા ભાગનો તલ સોસ રેડો. ચીપિયાથી સરખા ભેળવી ચોંટેલા નૂડલ્સ છૂટા કરો. ચાખીને એટલો વધુ સોસ ઉમેરો કે નૂડલ્સ મલાઈદાર રહે, પ્રવાહીમાં ન તરતા હોય.",
         "નૂડલ્સ ચાર બાઉલમાં વહેંચો. ઉપર કાકડી અને ગાજર ગોઠવો, પછી લીલી ડુંગળી, કોથમીર, સમારેલી મગફળી અને તલ છાંટો. ઠંડા કે ઓરડાના તાપે બાકી સોસ બાજુમાં આપી પીરસો."
       ],
-      "tips":["ખાંડ વગરનું પીનટ બટર લો જેથી માપેલી ખાંડથી મીઠાશ નિયંત્રિત રહે. તપાસેલા ફોટામાં મલાઈદાર તલ સોસવાળા નૂડલ્સ પર કરકરી કાકડી, ગાજર, લીલી ડુંગળી, કોથમીર, મગફળી અને તલ છે."]}
+      "tips": [
+        "ખાંડ વગરનું પીનટ બટર લો જેથી માપેલી ખાંડથી મીઠાશ નિયંત્રિત રહે. તપાસેલા ફોટામાં મલાઈદાર તલ સોસવાળા નૂડલ્સ પર કરકરી કાકડી, ગાજર, લીલી ડુંગળી, કોથમીર, મગફળી અને તલ છે."
+      ]
+    }
   },
-  "reference":{"url":"https://thewoksoflife.com/cold-sesame-noodles/","use":"Cold sesame noodle sauce and raw vegetable technique; quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://thewoksoflife.com/cold-sesame-noodles/",
+    "use": "Cold sesame noodle sauce and raw vegetable technique; quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/sesame-noodles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

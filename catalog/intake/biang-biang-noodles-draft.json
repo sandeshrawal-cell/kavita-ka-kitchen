@@ -1,49 +1,157 @@
 {
-  "sourceReviewId":"R0177","id":"biang-biang-noodles","status":"draft-photo-and-translation-reviewed","name":"Biang Biang Noodles","cuisine":"Shaanxi Chinese","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":100,"passiveTime":"60 minutes dough resting",
-  "ingredients":[
-    {"name":"plain wheat flour","qty":400,"unit":"g"},
-    {"name":"water for dough","qty":210,"unit":"ml"},
-    {"name":"salt for dough","qty":6,"unit":"g"},
-    {"name":"neutral oil for dough and topping","qty":70,"unit":"ml"},
-    {"name":"baby bok choy","qty":240,"unit":"g"},
-    {"name":"garlic, finely chopped","qty":22,"unit":"g"},
-    {"name":"spring onions, thinly sliced","qty":90,"unit":"g"},
-    {"name":"Chinese chili flakes","qty":18,"unit":"g"},
-    {"name":"light soy sauce","qty":45,"unit":"ml"},
-    {"name":"Chinese black vinegar","qty":35,"unit":"ml"},
-    {"name":"toasted sesame seeds","qty":12,"unit":"g"},
-    {"name":"ground Sichuan pepper","qty":3,"unit":"g"},
-    {"name":"sugar","qty":8,"unit":"g"}
+  "sourceReviewId": "R0177",
+  "id": "biang-biang-noodles",
+  "status": "published-second-100-intake-batch",
+  "name": "Biang Biang Noodles",
+  "cuisine": "Shaanxi Chinese",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "passiveTime": "60 minutes dough resting",
+  "ingredients": [
+    {
+      "name": "plain wheat flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 210,
+      "unit": "ml"
+    },
+    {
+      "name": "salt for dough",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for dough and topping",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "baby bok choy",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, finely chopped",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, thinly sliced",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "Chinese chili flakes",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "Chinese black vinegar",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground Sichuan pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
     "Mix the flour with 6 g salt and the measured 210 ml water. Knead 8–10 minutes into a smooth, firm dough; cover and rest 20 minutes. Knead briefly again, divide into eight pieces and shape short flat logs. Brush with 20 ml of the oil, cover and rest another 40 minutes so the dough stretches without tearing.",
     "Mix soy sauce, black vinegar and sugar. Wash bok choy and prepare bowls with equal amounts of chopped garlic, spring onion, chili flakes, Sichuan pepper and sesame seeds. Keep the remaining 50 ml oil ready for heating.",
     "Bring a large pot of water to a rolling boil. Take one rested dough log, flatten it, press a line down its centre with a chopstick, then hold both ends and gently stretch into a long broad ribbon, slapping it lightly on the counter. Tear along the centre line to make two long strands. Repeat with the remaining logs.",
     "Drop ribbons into boiling water in batches and stir gently. Cook 2–3 minutes after they float, until springy and cooked through. Lift into four warm bowls. Blanch bok choy in the same water for 1–2 minutes and add it beside the noodles.",
     "Pour the soy-vinegar mixture over the bowls. Heat the remaining 50 ml oil until shimmering, then carefully spoon it over the garlic, chili flakes and scallions to sizzle them without burning. Toss the broad noodles through the seasoned oil and serve immediately."
   ],
-  "tips":["Stretch only well-rested dough; if it resists, cover it for 10 more minutes. Pour the hot oil away from your face. The reviewed photo shows broad folded hand-pulled ribbons with chili oil, garlic, scallions and bok choy."],
-  "translations":{
-    "hi":{"name":"बियांग बियांग नूडल्स","ingredients":["सादा गेहूँ का आटा","आटे के लिए पानी","आटे के लिए नमक","आटे और ऊपर डालने के लिए हल्का तेल","बेबी बोक चॉय","लहसुन, बारीक कटा","हरा प्याज़, पतला कटा","चाइनीज़ लाल मिर्च के टुकड़े","हल्का सोया सॉस","चाइनीज़ काला विनेगर","भुने तिल","पिसी सिचुआन मिर्च","चीनी"],
-      "steps":[
+  "tips": [
+    "Stretch only well-rested dough; if it resists, cover it for 10 more minutes. Pour the hot oil away from your face. The reviewed photo shows broad folded hand-pulled ribbons with chili oil, garlic, scallions and bok choy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बियांग बियांग नूडल्स",
+      "ingredients": [
+        "सादा गेहूँ का आटा",
+        "आटे के लिए पानी",
+        "आटे के लिए नमक",
+        "आटे और ऊपर डालने के लिए हल्का तेल",
+        "बेबी बोक चॉय",
+        "लहसुन, बारीक कटा",
+        "हरा प्याज़, पतला कटा",
+        "चाइनीज़ लाल मिर्च के टुकड़े",
+        "हल्का सोया सॉस",
+        "चाइनीज़ काला विनेगर",
+        "भुने तिल",
+        "पिसी सिचुआन मिर्च",
+        "चीनी"
+      ],
+      "steps": [
         "आटे में 6 ग्राम नमक और नापा 210 मिली पानी मिलाएँ। 8–10 मिनट गूँधकर चिकना सख्त आटा बनाएँ; ढककर 20 मिनट आराम दें। फिर थोड़ी देर गूँधकर आठ हिस्से करें और चपटे छोटे बेलन बनाएँ। 20 मिली तेल लगाकर ढकें और 40 मिनट और रखें ताकि आटा बिना फटे खिंचे।",
         "सोया सॉस, काला विनेगर और चीनी मिलाएँ। बोक चॉय धोएँ और चार कटोरों में लहसुन, हरा प्याज़, मिर्च के टुकड़े, सिचुआन मिर्च और तिल बराबर रखें। बचा 50 मिली तेल गरम करने के लिए तैयार रखें।",
         "बड़े बर्तन में पानी तेज़ उबालें। आराम किए आटे का एक बेलन चपटा करें, बीच में चॉपस्टिक से लंबी रेखा दबाएँ, फिर दोनों सिरों को पकड़कर चौड़ी लंबी पट्टी खींचें और हल्के से मेज़ पर थपथपाएँ। बीच की रेखा से चीरकर दो लंबे नूडल बनाएँ। बाकी के साथ दोहराएँ।",
         "नूडल पट्टियाँ बैच में उबलते पानी में डालें और हल्के चलाएँ। ऊपर तैरने के बाद 2–3 मिनट लचीले और भीतर तक पके होने तक उबालें। चार गरम बाउल में निकालें। उसी पानी में बोक चॉय 1–2 मिनट उबालकर बगल में रखें।",
         "बाउल में सोया-विनेगर मिश्रण डालें। बचा 50 मिली तेल चमकने तक गरम करें, फिर सावधानी से लहसुन, मिर्च और हरे प्याज़ पर चम्मच से डालें ताकि वे चटखें पर जलें नहीं। चौड़े नूडल्स को मसालेदार तेल में मिलाकर तुरंत परोसें।"
       ],
-      "tips":["आटा पूरी तरह आराम पाए तभी खींचें; सख्त लगे तो 10 मिनट और ढकें। गरम तेल चेहरा दूर रखकर डालें। समीक्षित तस्वीर में चौड़ी मुड़ी हस्तनिर्मित पट्टियाँ, मिर्च का तेल, लहसुन, हरा प्याज़ और बोक चॉय हैं।"],
-      "passiveTime":"आटे को कुल 60 मिनट आराम"},
-    "gu":{"name":"બિયાંગ બિયાંગ નૂડલ્સ","ingredients":["સાદો ઘઉંનો લોટ","લોટ માટે પાણી","લોટ માટે મીઠું","લોટ અને ઉપર માટે હળવું તેલ","બેબી બોક ચોય","લસણ, ઝીણું સમારેલું","લીલી ડુંગળી, પાતળી સમારેલી","ચાઇનીઝ મરચાંના ટુકડા","હળવો સોયા સોસ","ચાઇનીઝ કાળો વિનેગર","શેકેલા તલ","દળેલી સિચુઆન મરી","ખાંડ"],
-      "steps":[
+      "tips": [
+        "आटा पूरी तरह आराम पाए तभी खींचें; सख्त लगे तो 10 मिनट और ढकें। गरम तेल चेहरा दूर रखकर डालें। समीक्षित तस्वीर में चौड़ी मुड़ी हस्तनिर्मित पट्टियाँ, मिर्च का तेल, लहसुन, हरा प्याज़ और बोक चॉय हैं।"
+      ],
+      "passiveTime": "आटे को कुल 60 मिनट आराम"
+    },
+    "gu": {
+      "name": "બિયાંગ બિયાંગ નૂડલ્સ",
+      "ingredients": [
+        "સાદો ઘઉંનો લોટ",
+        "લોટ માટે પાણી",
+        "લોટ માટે મીઠું",
+        "લોટ અને ઉપર માટે હળવું તેલ",
+        "બેબી બોક ચોય",
+        "લસણ, ઝીણું સમારેલું",
+        "લીલી ડુંગળી, પાતળી સમારેલી",
+        "ચાઇનીઝ મરચાંના ટુકડા",
+        "હળવો સોયા સોસ",
+        "ચાઇનીઝ કાળો વિનેગર",
+        "શેકેલા તલ",
+        "દળેલી સિચુઆન મરી",
+        "ખાંડ"
+      ],
+      "steps": [
         "લોટમાં 6 ગ્રામ મીઠું અને માપેલું 210 મિલી પાણી ભેળવો. 8–10 મિનિટ મસળી સુંવાળો કઠણ લોટ બનાવો; ઢાંકી 20 મિનિટ આરામ આપો. ફરી થોડું મસળી આઠ ભાગ કરો અને ચપટા નાના લાંબા લૂવા બનાવો. 20 મિલી તેલ લગાડી ઢાંકો અને બીજી 40 મિનિટ રાખો જેથી લોટ ફાટ્યા વગર ખેંચાય.",
         "સોયા સોસ, કાળો વિનેગર અને ખાંડ ભેળવો. બોક ચોય ધુઓ અને ચાર વાટકામાં લસણ, લીલી ડુંગળી, મરચાંના ટુકડા, સિચુઆન મરી અને તલ સરખા મૂકો. બાકી 50 મિલી તેલ ગરમ કરવા તૈયાર રાખો.",
         "મોટા વાસણમાં પાણી જોરથી ઉકાળો. આરામ કરેલા લૂવાને ચપટો કરો, વચ્ચે ચોપસ્ટિકથી લાંબી લીટી દબાવો, પછી બંને છેડા પકડી લાંબી પહોળી પટ્ટી ખેંચો અને હળવેથી સપાટી પર પછાડો. વચ્ચેની લીટીથી ચીરી બે લાંબા નૂડલ બનાવો. બાકી સાથે આ જ કરો.",
         "નૂડલ પટ્ટીઓ થોડા થોડા ઉકળતા પાણીમાં નાખી હળવેથી હલાવો. ઉપર તર્યા પછી 2–3 મિનિટ લચીલા અને અંદરથી રંધાય ત્યાં સુધી ઉકાળો. ચાર ગરમ બાઉલમાં કાઢો. એ જ પાણીમાં બોક ચોય 1–2 મિનિટ બાફી બાજુમાં મૂકો.",
         "બાઉલમાં સોયા-વિનેગર મિશ્રણ રેડો. બાકી 50 મિલી તેલ ચમકે ત્યાં સુધી ગરમ કરો, પછી સાવચેતીથી લસણ, મરચાં અને લીલી ડુંગળી પર ચમચાથી રેડો જેથી તે ચટકે પણ બળે નહીં. પહોળા નૂડલ્સ મસાલેદાર તેલમાં ભેળવી તરત પીરસો."
       ],
-      "tips":["લોટ પૂરતો આરામ પામે પછી જ ખેંચો; કઠણ લાગે તો બીજી 10 મિનિટ ઢાંકો. ગરમ તેલ ચહેરાથી દૂર રાખીને રેડો. તપાસેલા ફોટામાં હાથથી ખેંચેલી પહોળી પટ્ટીઓ, મરચાંનું તેલ, લસણ, લીલી ડુંગળી અને બોક ચોય છે."],
-      "passiveTime":"લોટને કુલ 60 મિનિટ આરામ"}
+      "tips": [
+        "લોટ પૂરતો આરામ પામે પછી જ ખેંચો; કઠણ લાગે તો બીજી 10 મિનિટ ઢાંકો. ગરમ તેલ ચહેરાથી દૂર રાખીને રેડો. તપાસેલા ફોટામાં હાથથી ખેંચેલી પહોળી પટ્ટીઓ, મરચાંનું તેલ, લસણ, લીલી ડુંગળી અને બોક ચોય છે."
+      ],
+      "passiveTime": "લોટને કુલ 60 મિનિટ આરામ"
+    }
   },
-  "reference":{"url":"https://omnivorescookbook.com/biang-biang-noodles/","use":"Shaanxi broad hand-pulled noodle and hot-oil technique; quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://omnivorescookbook.com/biang-biang-noodles/",
+    "use": "Shaanxi broad hand-pulled noodle and hot-oil technique; quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/biang-biang-noodles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

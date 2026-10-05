@@ -6,6 +6,7 @@ const progress=JSON.parse(await fs.readFile('catalog/intake/friend-second100-pro
 const catalogue=JSON.parse(await fs.readFile('catalog/generated/dishes.json','utf8'));
 const photos=JSON.parse(await fs.readFile('catalog/photos.json','utf8'));
 const candidates=intake.candidates.slice(100,200);
+const published=progress.publicationStatus==='published';
 const errors=[];
 if(candidates.length!==100||progress.items.length!==100)errors.push('Expected exactly 100 next candidates and progress entries.');
 const publishedNames=new Set(catalogue.flatMap(dish=>[dish.name,...(dish.aliases||[])].map(normalizeName)));
@@ -13,7 +14,7 @@ let complete=0,photoOnly=0;
 for(let index=0;index<candidates.length;index++){
  const candidate=candidates[index],item=progress.items[index];
  if(item?.id!==candidate.id)errors.push(`Progress order mismatch at ${index+1}`);
- if(publishedNames.has(normalizeName(candidate.name)))errors.push(`${candidate.id}: already published by name`);
+ if(!published&&publishedNames.has(normalizeName(candidate.name)))errors.push(`${candidate.id}: already published by name`);
  let draft;
  try{draft=JSON.parse(await fs.readFile(`catalog/intake/${candidate.id}-draft.json`,'utf8'));}catch(error){if(error.code!=='ENOENT')errors.push(`${candidate.id}: draft is unreadable`);}
  let photo=false;
@@ -33,7 +34,10 @@ for(let index=0;index<candidates.length;index++){
  }
  if(!photo)errors.push(`${candidate.id}: recipe draft lacks a reviewed photo`);
  else complete++;
- if(catalogue.some(dish=>dish.id===candidate.id))errors.push(`${candidate.id}: draft leaked into public catalogue`);
+ const publicMatches=catalogue.filter(dish=>dish.id===candidate.id);
+ if(published){
+  if(publicMatches.length!==1||publicMatches[0].recipeStatus!=='complete')errors.push(`${candidate.id}: published dish missing or duplicated`);
+ }else if(publicMatches.length)errors.push(`${candidate.id}: draft leaked into public catalogue`);
 }
 const report={planned:candidates.length,completePrivateDrafts:complete,reviewedPhotos:photoOnly,remaining:candidates.length-complete,errors};
 console.log(JSON.stringify(report,null,2));

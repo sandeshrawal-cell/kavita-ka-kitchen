@@ -1,26 +1,77 @@
 {
   "sourceReviewId": "R0112",
   "id": "pizza-funghi",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Pizza Funghi",
   "cuisine": "Italian",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 50,
   "passiveTime": "90 minutes dough rising",
   "ingredients": [
-    {"name": "strong wheat flour", "qty": 500, "unit": "g"},
-    {"name": "lukewarm water", "qty": 325, "unit": "ml"},
-    {"name": "instant dry yeast", "qty": 5, "unit": "g"},
-    {"name": "salt", "qty": 11, "unit": "g"},
-    {"name": "extra-virgin olive oil", "qty": 45, "unit": "ml"},
-    {"name": "tomato passata", "qty": 220, "unit": "g"},
-    {"name": "vegetarian mozzarella", "qty": 240, "unit": "g"},
-    {"name": "button mushrooms", "qty": 300, "unit": "g"},
-    {"name": "garlic", "qty": 10, "unit": "g"},
-    {"name": "fresh basil", "qty": 15, "unit": "g"},
-    {"name": "dried oregano", "qty": 2, "unit": "g"},
-    {"name": "black pepper", "qty": 2, "unit": "g"}
+    {
+      "name": "strong wheat flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "lukewarm water",
+      "qty": 325,
+      "unit": "ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "fresh basil",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Combine flour, yeast, 300 ml lukewarm water and 25 ml olive oil. Add 8 g salt and the remaining 25 ml water; knead for 8–10 minutes until elastic. Put in a lightly oiled bowl, cover and let rise in a warm place for roughly 90 minutes until doubled.",
@@ -30,12 +81,27 @@
     "Slide the pizza with its paper onto the hot tray and bake for 10–14 minutes until the base is cooked, the rim is deeply golden and the cheese bubbles. Assemble and bake the second pizza with the remaining sauce, cheese, mushrooms, 5 ml oil and black pepper.",
     "Scatter fresh basil over both pizzas after baking and cut each into four slices. Serve two slices per person. The mushroom pieces should remain visible and browned, and the pizza base should be crisp rather than wet."
   ],
-  "tips": ["Browning mushrooms first removes moisture that would otherwise soak the pizza. Use mozzarella made with microbial or vegetable rennet. Keep basil for after baking so it stays green and fresh."],
+  "tips": [
+    "Browning mushrooms first removes moisture that would otherwise soak the pizza. Use mozzarella made with microbial or vegetable rennet. Keep basil for after baking so it stays green and fresh."
+  ],
   "translations": {
     "hi": {
       "name": "मशरूम पिज़्ज़ा फुंगी",
       "passiveTime": "लोई फूलने के लिए 90 मिनट",
-      "ingredients": ["ब्रेड के लिए मज़बूत गेहूँ का आटा", "गुनगुना पानी", "इंस्टेंट सूखा यीस्ट", "नमक", "एक्स्ट्रा-वर्जिन ऑलिव तेल", "टमाटर की छनी प्यूरी", "शाकाहारी मोत्ज़ारेला", "बटन मशरूम", "लहसुन", "ताज़ी बेसिल", "सूखा ओरिगैनो", "काली मिर्च"],
+      "ingredients": [
+        "ब्रेड के लिए मज़बूत गेहूँ का आटा",
+        "गुनगुना पानी",
+        "इंस्टेंट सूखा यीस्ट",
+        "नमक",
+        "एक्स्ट्रा-वर्जिन ऑलिव तेल",
+        "टमाटर की छनी प्यूरी",
+        "शाकाहारी मोत्ज़ारेला",
+        "बटन मशरूम",
+        "लहसुन",
+        "ताज़ी बेसिल",
+        "सूखा ओरिगैनो",
+        "काली मिर्च"
+      ],
       "steps": [
         "आटा, यीस्ट, 300 मिली गुनगुना पानी और 25 मिली ऑलिव तेल मिलाएँ। 8 ग्राम नमक और बचा 25 मिली पानी डालें; 8–10 मिनट लचीली लोई गूँधें। हल्का तेल लगे बाउल में ढककर गरम जगह लगभग 90 मिनट रखें, जब तक आकार दोगुना हो।",
         "मशरूम नम कपड़े से साफ़ करके 4–5 मिमी मोटे काटें। चौड़े पैन में 10 मिली ऑलिव तेल मध्यम-तेज़ आँच पर गरम करें। मशरूम एक परत में फैलाकर 5–6 मिनट पकाएँ; भूरे होने के बाद ही हिलाएँ और निकली नमी सुखा लें। आखिरी 30 सेकंड बारीक लहसुन और बचा 1 ग्राम नमक डालें; प्लेट में ठंडा करें।",
@@ -44,12 +110,27 @@
         "पिज़्ज़ा पेपर समेत गरम ट्रे पर सरकाकर 10–14 मिनट बेक करें, जब तक तला पक जाए, किनारा गहरा सुनहरा हो और चीज़ उबले। बचा सॉस, चीज़, मशरूम, 5 मिली तेल और काली मिर्च लगाकर दूसरा पिज़्ज़ा भी इसी तरह बेक करें।",
         "बेक होने के बाद दोनों पिज़्ज़ा पर ताज़ी बेसिल डालें और हर एक को चार स्लाइस काटें। प्रति व्यक्ति दो स्लाइस परोसें। मशरूम साफ़ दिखें और भूरे हों; पिज़्ज़ा का तला गीला नहीं, कुरकुरा हो।"
       ],
-      "tips": ["पहले मशरूम भूनने से उनकी नमी निकलती है, जो वरना पिज़्ज़ा भिगो देती। माइक्रोबियल या वनस्पति रेनेट वाला मोत्ज़ारेला लें। बेसिल बेकिंग के बाद डालें ताकि ताज़ी और हरी रहे।"]
+      "tips": [
+        "पहले मशरूम भूनने से उनकी नमी निकलती है, जो वरना पिज़्ज़ा भिगो देती। माइक्रोबियल या वनस्पति रेनेट वाला मोत्ज़ारेला लें। बेसिल बेकिंग के बाद डालें ताकि ताज़ी और हरी रहे।"
+      ]
     },
     "gu": {
       "name": "મશરૂમ પિઝા ફૂન્ગી",
       "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ",
-      "ingredients": ["બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ", "હૂંફાળું પાણી", "ઇન્સ્ટન્ટ સૂકું યીસ્ટ", "મીઠું", "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ", "ગાળેલી ટમેટાની પ્યુરી", "શાકાહારી મોઝેરેલા", "બટન મશરૂમ", "લસણ", "તાજું બેસિલ", "સૂકો ઓરેગાનો", "કાળી મરી"],
+      "ingredients": [
+        "બ્રેડ માટેનો મજબૂત ઘઉંનો લોટ",
+        "હૂંફાળું પાણી",
+        "ઇન્સ્ટન્ટ સૂકું યીસ્ટ",
+        "મીઠું",
+        "એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ",
+        "ગાળેલી ટમેટાની પ્યુરી",
+        "શાકાહારી મોઝેરેલા",
+        "બટન મશરૂમ",
+        "લસણ",
+        "તાજું બેસિલ",
+        "સૂકો ઓરેગાનો",
+        "કાળી મરી"
+      ],
       "steps": [
         "લોટ, યીસ્ટ, 300 મિલી હૂંફાળું પાણી અને 25 મિલી ઓલિવ તેલ ભેળવો. 8 ગ્રામ મીઠું અને બાકીનું 25 મિલી પાણી નાખો; 8–10 મિનિટ લવચીક લોટ મસળો. હળવું તેલ લગાવેલી વાટકીમાં ઢાંકીને ગરમ જગ્યાએ લગભગ 90 મિનિટ રાખો, જ્યાં સુધી કદ બમણું થાય.",
         "મશરૂમ ભીના કપડાથી સાફ કરીને 4–5 મિમી જાડા કાપો. પહોળી કડાઈમાં 10 મિલી ઓલિવ તેલ મધ્યમથી તેજ તાપે ગરમ કરો. મશરૂમ એક પડમાં પાથરી 5–6 મિનિટ રાંધો; બદામી થયા પછી જ હલાવો અને નીકળેલો ભેજ સૂકવો. છેલ્લી 30 સેકંડ બારીક લસણ અને બાકીનું 1 ગ્રામ મીઠું નાખો; થાળીમાં ઠંડા કરો.",
@@ -58,8 +139,15 @@
         "પિઝાને પેપર સાથે ગરમ ટ્રે પર સરકાવી 10–14 મિનિટ બેક કરો, જ્યાં સુધી તળિયો પાકે, કિનારી ઘેરી સોનેરી થાય અને ચીઝમાં પરપોટા દેખાય. બાકીનો સોસ, ચીઝ, મશરૂમ, 5 મિલી તેલ અને કાળી મરી નાખીને બીજો પિઝા પણ એ જ રીતે બેક કરો.",
         "બેક થયા પછી બંને પિઝા પર તાજું બેસિલ નાખો અને દરેકના ચાર ટુકડા કરો. વ્યક્તિદીઠ બે ટુકડા પીરસો. મશરૂમ સ્પષ્ટ દેખાય અને બદામી હોય; પિઝાનો તળિયો ભીનો નહીં પણ કરકરો હોય."
       ],
-      "tips": ["મશરૂમ પહેલાં શેકવાથી તેમનો ભેજ નીકળે છે, જે નહીં તો પિઝાને ભીનો કરે. માઇક્રોબિયલ કે વનસ્પતિ રેનેટવાળું મોઝેરેલા લો. બેસિલ બેકિંગ પછી નાખો જેથી તાજું અને લીલું રહે."]
+      "tips": [
+        "મશરૂમ પહેલાં શેકવાથી તેમનો ભેજ નીકળે છે, જે નહીં તો પિઝાને ભીનો કરે. માઇક્રોબિયલ કે વનસ્પતિ રેનેટવાળું મોઝેરેલા લો. બેસિલ બેકિંગ પછી નાખો જેથી તાજું અને લીલું રહે."
+      ]
     }
   },
-  "reference": {"url": "https://www.lospicchiodaglio.it/ricetta/pizza-funghi-freschi", "use": "Tomato, mozzarella and fresh mushroom pizza composition; dough, quantities and directions independently authored."}
+  "reference": {
+    "url": "https://www.lospicchiodaglio.it/ricetta/pizza-funghi-freschi",
+    "use": "Tomato, mozzarella and fresh mushroom pizza composition; dough, quantities and directions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/pizza-funghi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

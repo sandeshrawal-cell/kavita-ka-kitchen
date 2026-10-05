@@ -1,30 +1,102 @@
 {
   "sourceReviewId": "R0125",
   "id": "soya-chaap-roll",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Soya Chaap Roll",
   "cuisine": "North Indian",
-  "categories": ["Lunch", "Dinner", "Snacks"],
+  "categories": [
+    "Lunch",
+    "Dinner",
+    "Snacks"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 70,
   "ingredients": [
-    {"name": "plain vegetarian soya chaap sticks", "qty": 400, "unit": "g"},
-    {"name": "whole-wheat flour", "qty": 300, "unit": "g"},
-    {"name": "water", "qty": 220, "unit": "ml"},
-    {"name": "neutral oil", "qty": 30, "unit": "ml"},
-    {"name": "thick plain yogurt", "qty": 120, "unit": "g"},
-    {"name": "ginger-garlic paste", "qty": 20, "unit": "g"},
-    {"name": "Kashmiri red chilli powder", "qty": 5, "unit": "g"},
-    {"name": "coriander powder", "qty": 5, "unit": "g"},
-    {"name": "turmeric powder", "qty": 2, "unit": "g"},
-    {"name": "garam masala", "qty": 3, "unit": "g"},
-    {"name": "fresh coriander leaves", "qty": 35, "unit": "g"},
-    {"name": "fresh mint leaves", "qty": 25, "unit": "g"},
-    {"name": "green chilli", "qty": 8, "unit": "g"},
-    {"name": "lemon juice", "qty": 30, "unit": "ml"},
-    {"name": "red onion", "qty": 120, "unit": "g"},
-    {"name": "lettuce", "qty": 60, "unit": "g"},
-    {"name": "salt", "qty": 10, "unit": "g"}
+    {
+      "name": "plain vegetarian soya chaap sticks",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "whole-wheat flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "red onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Check the soya chaap pack is vegetarian. Remove the chaap from its sticks and follow any label instructions for pre-cooking; if packed in brine, rinse and simmer the pieces in water for 3 minutes, then drain and squeeze gently. Slice each cylindrical piece into 1–2 cm rounds so their layered soy texture remains visible. Pat dry.",
@@ -34,11 +106,31 @@
     "Divide dough into four balls. Roll each to a thin 22–24 cm round. Cook on a hot flat pan for about 1 minute per side, brushing the pan and rounds with the final 5 ml oil in total, until the parathas are cooked and show brown spots. Keep them covered and warm so they roll without cracking.",
     "Spread one-quarter of the mint chutney on each warm paratha. Add one-quarter of the hot chaap rounds, onion and lettuce in a line across the middle. Fold the bottom up, tuck the sides and roll tightly. Slice one roll diagonally to show the soy-chaap filling, then serve all four immediately with any remaining chutney."
   ],
-  "tips": ["The reviewed photo clearly shows ring-shaped layered soya chaap pieces inside flaky paratha wraps, with onion and green chutney. Use a prepared plain vegetarian soya chaap product, not paneer, tofu cubes or meat substitutes shaped like strips. Cook the filled chaap thoroughly according to its package directions."],
+  "tips": [
+    "The reviewed photo clearly shows ring-shaped layered soya chaap pieces inside flaky paratha wraps, with onion and green chutney. Use a prepared plain vegetarian soya chaap product, not paneer, tofu cubes or meat substitutes shaped like strips. Cook the filled chaap thoroughly according to its package directions."
+  ],
   "translations": {
     "hi": {
       "name": "सोया चाप रोल",
-      "ingredients": ["सादा शाकाहारी सोया चाप स्टिक", "गेहूँ का आटा", "पानी", "साधारण तेल", "गाढ़ा सादा दही", "अदरक-लहसुन पेस्ट", "कश्मीरी लाल मिर्च पाउडर", "धनिया पाउडर", "हल्दी पाउडर", "गरम मसाला", "ताज़ा हरा धनिया", "ताज़ी पुदीना पत्तियाँ", "हरी मिर्च", "नींबू रस", "लाल प्याज़", "सलाद पत्ता", "नमक"],
+      "ingredients": [
+        "सादा शाकाहारी सोया चाप स्टिक",
+        "गेहूँ का आटा",
+        "पानी",
+        "साधारण तेल",
+        "गाढ़ा सादा दही",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "हल्दी पाउडर",
+        "गरम मसाला",
+        "ताज़ा हरा धनिया",
+        "ताज़ी पुदीना पत्तियाँ",
+        "हरी मिर्च",
+        "नींबू रस",
+        "लाल प्याज़",
+        "सलाद पत्ता",
+        "नमक"
+      ],
       "steps": [
         "जाँचें कि सोया चाप का पैक शाकाहारी हो। चाप को स्टिक से निकालें और पैक पर पहले पकाने के निर्देश मानें; नमकीन पानी में बंद हो तो धोकर 3 मिनट पानी में उबालें, फिर छानकर हल्का निचोड़ें। हर बेलनाकार टुकड़े को 1–2 सेमी गोल स्लाइस करें ताकि सोया की परतें दिखें। सुखाएँ।",
         "दही, अदरक-लहसुन पेस्ट, कश्मीरी मिर्च, धनिया पाउडर, हल्दी, गरम मसाला, 15 मिली नींबू रस और 4 ग्राम नमक मिलाएँ। चाप के गोल टुकड़ों पर लगाकर कम से कम 20 मिनट रखें। इस बीच गेहूँ के आटे में 180 मिली पानी, 5 मिली तेल और 3 ग्राम नमक डालकर नरम आटा गूँधें; ढककर 20 मिनट आराम दें।",
@@ -47,11 +139,31 @@
         "आटे के चार गोले करें। हर गोले को 22–24 सेमी पतला बेलें। गरम तवे पर लगभग 1 मिनट प्रति ओर पकाएँ, पूरे चार पराठों के लिए आखिरी 5 मिली तेल तवे और पराठों पर लगाएँ, जब तक पक जाएँ और भूरे धब्बे आएँ। ढककर गरम रखें ताकि मोड़ते समय न टूटें।",
         "हर गरम पराठे पर एक-चौथाई पुदीना चटनी लगाएँ। बीच की कतार में गरम चाप के गोल टुकड़े, प्याज़ और सलाद पत्ता बराबर रखें। नीचे से मोड़ें, किनारे अंदर करें और कसकर रोल करें। एक रोल तिरछा काटकर सोया चाप की भरावन दिखाएँ, फिर बाकी चटनी के साथ चारों तुरंत परोसें।"
       ],
-      "tips": ["समीक्षित तस्वीर में परतदार पराठे के अंदर गोल परतों वाले सोया चाप, प्याज़ और हरी चटनी स्पष्ट हैं। सादा तैयार शाकाहारी सोया चाप लें, पनीर, टोफू के चौकोर टुकड़े या मांस-जैसी लंबी पट्टियाँ नहीं। पैक के निर्देश के अनुसार चाप अच्छी तरह पकाएँ।"]
+      "tips": [
+        "समीक्षित तस्वीर में परतदार पराठे के अंदर गोल परतों वाले सोया चाप, प्याज़ और हरी चटनी स्पष्ट हैं। सादा तैयार शाकाहारी सोया चाप लें, पनीर, टोफू के चौकोर टुकड़े या मांस-जैसी लंबी पट्टियाँ नहीं। पैक के निर्देश के अनुसार चाप अच्छी तरह पकाएँ।"
+      ]
     },
     "gu": {
       "name": "સોયા ચાપ રોલ",
-      "ingredients": ["સાદી શાકાહારી સોયા ચાપ સ્ટિક", "ઘઉંનો લોટ", "પાણી", "સાદું તેલ", "ઘટ્ટ સાદું દહીં", "આદુ-લસણની પેસ્ટ", "કાશ્મીરી લાલ મરચું પાઉડર", "ધાણા પાઉડર", "હળદર પાઉડર", "ગરમ મસાલો", "તાજા લીલા ધાણા", "તાજાં ફુદીનાનાં પાન", "લીલું મરચું", "લીંબુનો રસ", "લાલ ડુંગળી", "સલાડનાં પાન", "મીઠું"],
+      "ingredients": [
+        "સાદી શાકાહારી સોયા ચાપ સ્ટિક",
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "સાદું તેલ",
+        "ઘટ્ટ સાદું દહીં",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "હળદર પાઉડર",
+        "ગરમ મસાલો",
+        "તાજા લીલા ધાણા",
+        "તાજાં ફુદીનાનાં પાન",
+        "લીલું મરચું",
+        "લીંબુનો રસ",
+        "લાલ ડુંગળી",
+        "સલાડનાં પાન",
+        "મીઠું"
+      ],
       "steps": [
         "સોયા ચાપનું પેકેટ શાકાહારી હોય તે તપાસો. ચાપને સ્ટિકમાંથી કાઢી પેકેટના પહેલાં રાંધવાના સૂચનો અનુસરો; ખારા પાણીમાં પેક હોય તો ધોઈ 3 મિનિટ પાણીમાં ઉકાળી નિતારી સહેજ દબાવો. દરેક નળાકાર ભાગને 1–2 સેમીના ગોળ ટુકડા કરો જેથી સોયાની પરતો દેખાય. કોરા કરો.",
         "દહીં, આદુ-લસણની પેસ્ટ, કાશ્મીરી મરચું, ધાણા પાઉડર, હળદર, ગરમ મસાલો, 15 મિલી લીંબુનો રસ અને 4 ગ્રામ મીઠું ભેળવો. ચાપના ગોળ ટુકડાને લગાડી ઓછામાં ઓછા 20 મિનિટ રાખો. આ દરમિયાન ઘઉંના લોટમાં 180 મિલી પાણી, 5 મિલી તેલ અને 3 ગ્રામ મીઠું નાખી નરમ લોટ બાંધો; ઢાંકી 20 મિનિટ આરામ આપો.",
@@ -60,8 +172,15 @@
         "લોટના ચાર ગોળા કરો. દરેકને 22–24 સેમી પાતળા વણો. ગરમ તવા પર આશરે 1 મિનિટ દરેક બાજુ રાંધો, ચારેય પરાઠા માટે છેલ્લું 5 મિલી તેલ તવા અને પરાઠા પર લગાવો, જ્યાં સુધી રંધાય અને બદામી ડાઘ આવે. ઢાંકી ગરમ રાખો જેથી વાળતાં ન તૂટે.",
         "દરેક ગરમ પરાઠા પર ચોથો ભાગ ફુદીનાની ચટણી લગાવો. વચ્ચેની લાઈનમાં ગરમ ચાપના ગોળ ટુકડા, ડુંગળી અને સલાડનાં પાન સરખાં મૂકો. નીચેનો ભાગ વાળો, બાજુઓ અંદર કરો અને ચુસ્ત રોલ કરો. એક રોલ ત્રાંસો કાપી સોયા ચાપની ભરાવણ બતાવો, પછી બાકી ચટણી સાથે ચારેય તરત પીરસો."
       ],
-      "tips": ["તપાસેલા ફોટામાં પરતદાર પરાઠાની અંદર ગોળ પરતવાળું સોયા ચાપ, ડુંગળી અને લીલી ચટણી સ્પષ્ટ છે. સાદું તૈયાર શાકાહારી સોયા ચાપ લો, પનીર, ટોફુના ચોરસ ટુકડા કે માંસ જેવા લાંબા પટ્ટા નહીં. પેકેટના સૂચન પ્રમાણે ચાપ સારી રીતે રાંધો."]
+      "tips": [
+        "તપાસેલા ફોટામાં પરતદાર પરાઠાની અંદર ગોળ પરતવાળું સોયા ચાપ, ડુંગળી અને લીલી ચટણી સ્પષ્ટ છે. સાદું તૈયાર શાકાહારી સોયા ચાપ લો, પનીર, ટોફુના ચોરસ ટુકડા કે માંસ જેવા લાંબા પટ્ટા નહીં. પેકેટના સૂચન પ્રમાણે ચાપ સારી રીતે રાંધો."
+      ]
     }
   },
-  "reference": {"url": "https://food.ndtv.com/recipe-soya-chaap-roll-955508", "use": "Indian soya-chaap paratha-roll composition; measured marinade, paratha, chutney and wording independently authored for the reviewed photo."}
+  "reference": {
+    "url": "https://food.ndtv.com/recipe-soya-chaap-roll-955508",
+    "use": "Indian soya-chaap paratha-roll composition; measured marinade, paratha, chutney and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/soya-chaap-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

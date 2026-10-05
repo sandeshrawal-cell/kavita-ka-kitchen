@@ -1,49 +1,168 @@
 {
-  "sourceReviewId":"R0174","id":"lo-mein","status":"draft-photo-and-translation-reviewed","name":"Vegetable Lo Mein","cuisine":"Chinese","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
-  "ingredients":[
-    {"name":"dry egg-free wheat noodles","qty":320,"unit":"g"},
-    {"name":"shiitake mushrooms, sliced","qty":180,"unit":"g"},
-    {"name":"baby bok choy, separated","qty":240,"unit":"g"},
-    {"name":"carrot, cut into thin strips","qty":140,"unit":"g"},
-    {"name":"red bell pepper, thinly sliced","qty":150,"unit":"g"},
-    {"name":"spring onion, sliced","qty":80,"unit":"g"},
-    {"name":"garlic, minced","qty":15,"unit":"g"},
-    {"name":"light soy sauce","qty":45,"unit":"ml"},
-    {"name":"dark soy sauce","qty":12,"unit":"ml"},
-    {"name":"toasted sesame oil","qty":12,"unit":"ml"},
-    {"name":"neutral oil","qty":25,"unit":"ml"},
-    {"name":"sugar","qty":8,"unit":"g"},
-    {"name":"rice vinegar","qty":12,"unit":"ml"},
-    {"name":"sesame seeds","qty":8,"unit":"g"},
-    {"name":"water","qty":40,"unit":"ml"}
+  "sourceReviewId": "R0174",
+  "id": "lo-mein",
+  "status": "published-second-100-intake-batch",
+  "name": "Vegetable Lo Mein",
+  "cuisine": "Chinese",
+  "categories": [
+    "Lunch",
+    "Dinner"
   ],
-  "steps":[
-    "Boil the egg-free wheat noodles in plenty of water until just tender according to the pack, usually 4–6 minutes. Drain and rinse briefly with cool water to stop cooking. Shake dry well; wet noodles will dilute the sauce.",
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "dry eggless wheat noodles",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "baby bok choy, separated",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, cut into thin strips",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper, thinly sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion, sliced",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "dark soy sauce",
+      "qty": 12,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 12,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 12,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 40,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil the eggless wheat noodles in plenty of water until just tender according to the pack, usually 4–6 minutes. Drain and rinse briefly with cool water to stop cooking. Shake dry well; wet noodles will dilute the sauce.",
     "Whisk light soy sauce, dark soy sauce, toasted sesame oil, sugar, rice vinegar and the measured 40 ml water until the sugar dissolves. Wash the bok choy thoroughly, especially between the stems, and separate large leaves. Slice all remaining vegetables before starting the stir-fry.",
     "Heat the neutral oil in a large wok over high heat. Add garlic, shiitake mushrooms and the white parts of the spring onion; stir-fry 2 minutes until the mushrooms begin to brown. Add carrot and bell pepper and toss another 2 minutes.",
     "Add bok choy stems for 1 minute, then the leaves and cook until they just wilt. Add the drained noodles. Pour the mixed sauce around the hot pan, lifting and folding the noodles for 2–3 minutes until the colour is even and most liquid has evaporated.",
     "Turn off the heat when the noodles are glossy but not soggy. Scatter over the green spring onion and sesame seeds. Divide immediately into four bowls so the vegetables retain some bite."
   ],
-  "tips":["Use labelled egg-free noodles; many packaged lo mein noodles contain egg. The reviewed photo shows medium-thick glossy wheat noodles with shiitake, bok choy, carrot, red pepper, scallion and sesame."],
-  "translations":{
-    "hi":{"name":"वेजिटेबल लो मीन","ingredients":["सूखे बिना अंडे के गेहूँ नूडल्स","शीताके मशरूम, कटे","बेबी बोक चॉय, पत्ते अलग किए","गाजर, पतली पट्टियाँ","लाल शिमला मिर्च, पतली कटी","हरा प्याज़, कटा","लहसुन, बारीक कटा","हल्का सोया सॉस","डार्क सोया सॉस","भुने तिल का तेल","हल्का स्वाद वाला तेल","चीनी","राइस विनेगर","तिल","पानी"],
-      "steps":[
+  "tips": [
+    "Use labelled egg-free noodles; many packaged lo mein noodles contain egg. The reviewed photo shows medium-thick glossy wheat noodles with shiitake, bok choy, carrot, red pepper, scallion and sesame."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल लो मीन",
+      "ingredients": [
+        "सूखे बिना अंडे के गेहूँ नूडल्स",
+        "शीताके मशरूम, कटे",
+        "बेबी बोक चॉय, पत्ते अलग किए",
+        "गाजर, पतली पट्टियाँ",
+        "लाल शिमला मिर्च, पतली कटी",
+        "हरा प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "हल्का सोया सॉस",
+        "डार्क सोया सॉस",
+        "भुने तिल का तेल",
+        "हल्का स्वाद वाला तेल",
+        "चीनी",
+        "राइस विनेगर",
+        "तिल",
+        "पानी"
+      ],
+      "steps": [
         "बिना अंडे वाले गेहूँ नूडल्स पैक के अनुसार काफ़ी पानी में बस नरम होने तक, आमतौर पर 4–6 मिनट उबालें। छानकर तुरंत थोड़े ठंडे पानी से धोएँ ताकि पकना रुके। अच्छी तरह पानी झटकें; गीले नूडल्स सॉस को फीका कर देंगे।",
         "हल्का और डार्क सोया सॉस, भुने तिल का तेल, चीनी, राइस विनेगर और नापा 40 मिली पानी फेंटें जब तक चीनी घुल जाए। बोक चॉय डंठलों के बीच तक अच्छी तरह धोएँ और बड़े पत्ते अलग करें। भूनना शुरू करने से पहले सभी सब्ज़ियाँ काटें।",
         "बड़े वोक में हल्का तेल तेज़ आँच पर गरम करें। लहसुन, शीताके मशरूम और हरे प्याज़ का सफेद भाग डालकर 2 मिनट भूनें ताकि मशरूम भूरे होने लगें। गाजर और लाल शिमला मिर्च डालकर 2 मिनट और चलाएँ।",
         "बोक चॉय के डंठल 1 मिनट पकाएँ, फिर पत्ते डालकर बस मुरझाएँ। छाने नूडल्स डालें। मिले हुए सॉस को गरम पैन के किनारे से डालें और नूडल्स 2–3 मिनट उठाकर मिलाएँ, जब तक रंग बराबर हो और अधिकतर पानी सूख जाए।",
         "नूडल्स चमकदार पर लिसलिसे न हों तब आँच बंद करें। ऊपर हरा प्याज़ और तिल छिड़कें। तुरंत चार बाउल में बाँटें ताकि सब्ज़ियों में हल्का कुरकुरापन रहे।"
       ],
-      "tips":["पैक पर बिना अंडे के नूडल्स जाँचें; कई लो मीन नूडल्स में अंडा होता है। समीक्षित तस्वीर में मध्यम मोटाई के चमकदार गेहूँ नूडल्स, शीताके, बोक चॉय, गाजर, लाल शिमला मिर्च, हरा प्याज़ और तिल हैं।"]},
-    "gu":{"name":"વેજિટેબલ લો મીન","ingredients":["સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ","શીતાકે મશરૂમ, કાપેલા","બેબી બોક ચોય, પાંદડાં છૂટાં કરેલાં","ગાજર, પાતળી પટ્ટીઓ","લાલ કેપ્સિકમ, પાતળું કાપેલું","લીલી ડુંગળી, સમારેલી","લસણ, ઝીણું સમારેલું","હળવો સોયા સોસ","ઘાટો સોયા સોસ","શેકેલા તલનું તેલ","હળવા સ્વાદનું તેલ","ખાંડ","રાઇસ વિનેગર","તલ","પાણી"],
-      "steps":[
+      "tips": [
+        "पैक पर बिना अंडे के नूडल्स जाँचें; कई लो मीन नूडल्स में अंडा होता है। समीक्षित तस्वीर में मध्यम मोटाई के चमकदार गेहूँ नूडल्स, शीताके, बोक चॉय, गाजर, लाल शिमला मिर्च, हरा प्याज़ और तिल हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ લો મીન",
+      "ingredients": [
+        "સૂકા ઈંડા વગરના ઘઉંના નૂડલ્સ",
+        "શીતાકે મશરૂમ, કાપેલા",
+        "બેબી બોક ચોય, પાંદડાં છૂટાં કરેલાં",
+        "ગાજર, પાતળી પટ્ટીઓ",
+        "લાલ કેપ્સિકમ, પાતળું કાપેલું",
+        "લીલી ડુંગળી, સમારેલી",
+        "લસણ, ઝીણું સમારેલું",
+        "હળવો સોયા સોસ",
+        "ઘાટો સોયા સોસ",
+        "શેકેલા તલનું તેલ",
+        "હળવા સ્વાદનું તેલ",
+        "ખાંડ",
+        "રાઇસ વિનેગર",
+        "તલ",
+        "પાણી"
+      ],
+      "steps": [
         "ઈંડા વગરના ઘઉંના નૂડલ્સ પેક પ્રમાણે પૂરતા પાણીમાં માત્ર નરમ થાય ત્યાં સુધી, સામાન્ય રીતે 4–6 મિનિટ ઉકાળો. નિતારી તરત થોડા ઠંડા પાણીથી ધુઓ જેથી રાંધવાનું અટકે. સારી રીતે પાણી ઝાટકો; ભીના નૂડલ્સ સોસ પાતળો કરશે.",
         "હળવો અને ઘાટો સોયા સોસ, શેકેલા તલનું તેલ, ખાંડ, રાઇસ વિનેગર અને માપેલું 40 મિલી પાણી ખાંડ ઓગળે ત્યાં સુધી ફેંટો. બોક ચોય દાંડીની વચ્ચેથી પણ સારી રીતે ધોઈ મોટા પાન અલગ કરો. શેકવાનું શરૂ કરતાં પહેલાં બધાં શાક કાપો.",
         "મોટી કડાઈમાં હળવું તેલ વધુ તાપે ગરમ કરો. લસણ, શીતાકે મશરૂમ અને લીલી ડુંગળીનો સફેદ ભાગ નાખી 2 મિનિટ શેકો જેથી મશરૂમ બદામી થવા લાગે. ગાજર અને લાલ કેપ્સિકમ નાખી બીજી 2 મિનિટ હલાવો.",
         "બોક ચોયની દાંડી 1 મિનિટ રાંધો, પછી પાન નાખી માત્ર ચીમળાવો. નિતારેલા નૂડલ્સ નાખો. ભેળવેલો સોસ ગરમ કડાઈની ધારથી રેડી નૂડલ્સ 2–3 મિનિટ ઊંચકી ભેળવો, જેથી રંગ સરખો થાય અને મોટાભાગનું પાણી બળી જાય.",
         "નૂડલ્સ ચમકદાર પણ પોચા ન હોય ત્યારે તાપ બંધ કરો. ઉપર લીલી ડુંગળી અને તલ છાંટો. શાકમાં થોડો કરકરોપણો રહે તે માટે તરત ચાર બાઉલમાં વહેંચો."
       ],
-      "tips":["પેક પર ઈંડા વગરના નૂડલ્સ ચકાસો; ઘણાં લો મીન નૂડલ્સમાં ઈંડું હોય છે. તપાસેલા ફોટામાં મધ્યમ જાડાઈના ચમકદાર ઘઉંના નૂડલ્સ, શીતાકે, બોક ચોય, ગાજર, લાલ કેપ્સિકમ, લીલી ડુંગળી અને તલ છે."]}
+      "tips": [
+        "પેક પર ઈંડા વગરના નૂડલ્સ ચકાસો; ઘણાં લો મીન નૂડલ્સમાં ઈંડું હોય છે. તપાસેલા ફોટામાં મધ્યમ જાડાઈના ચમકદાર ઘઉંના નૂડલ્સ, શીતાકે, બોક ચોય, ગાજર, લાલ કેપ્સિકમ, લીલી ડુંગળી અને તલ છે."
+      ]
+    }
   },
-  "reference":{"url":"https://thewoksoflife.com/vegetable-lo-mein/","use":"Vegetable lo mein stir-fry technique; egg-free formulation, quantities and wording independently authored for reviewed photo."}
+  "reference": {
+    "url": "https://thewoksoflife.com/vegetable-lo-mein/",
+    "use": "Vegetable lo mein stir-fry technique; egg-free formulation, quantities and wording independently authored for reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/lo-mein.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,30 +1,97 @@
 {
   "sourceReviewId": "R0121",
   "id": "jamaican-vegetable-patty",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-second-100-intake-batch",
   "name": "Jamaican Vegetable Patty",
   "cuisine": "Jamaican",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 75,
   "passiveTime": "30 minutes pastry chilling and 15 minutes filling cooling",
   "ingredients": [
-    {"name": "plain wheat flour", "qty": 400, "unit": "g"},
-    {"name": "cold butter", "qty": 180, "unit": "g"},
-    {"name": "ground turmeric", "qty": 6, "unit": "g"},
-    {"name": "salt", "qty": 10, "unit": "g"},
-    {"name": "cold water", "qty": 150, "unit": "ml"},
-    {"name": "potato", "qty": 200, "unit": "g"},
-    {"name": "carrot", "qty": 180, "unit": "g"},
-    {"name": "cabbage", "qty": 180, "unit": "g"},
-    {"name": "green peas", "qty": 100, "unit": "g"},
-    {"name": "red bell pepper", "qty": 120, "unit": "g"},
-    {"name": "onion", "qty": 100, "unit": "g"},
-    {"name": "garlic", "qty": 12, "unit": "g"},
-    {"name": "Jamaican curry powder", "qty": 10, "unit": "g"},
-    {"name": "dried thyme", "qty": 3, "unit": "g"},
-    {"name": "neutral oil", "qty": 30, "unit": "ml"},
-    {"name": "water", "qty": 100, "unit": "ml"}
+    {
+      "name": "plain wheat flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cold butter",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "potato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "dried thyme",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
   ],
   "steps": [
     "Mix the flour, turmeric and 4 g salt. Cut the cold butter into small cubes and rub it into the flour until pea-sized pieces remain. Add the 150 ml cold water gradually and press together just until the pastry holds; do not knead smooth. Divide into two discs, cover and chill for 30 minutes to keep the layers flaky.",
@@ -34,12 +101,31 @@
     "Cut a short steam slit in the top of each patty and brush all eight with the remaining 10 ml oil for an eggless golden finish. Bake 25–30 minutes, swapping tray positions halfway, until the pastry is firm, flaky and deep golden. If the bottom looks pale, bake 3–5 minutes longer.",
     "Rest 5 minutes so the filling settles, then serve two patties per person. A cut patty should show distinct curried vegetables inside a crisp turmeric-yellow pastry, with no wet sauce leaking out."
   ],
-  "tips": ["Cool the dry filling before sealing the patties; steam makes pastry soggy. Keep the butter and pastry cold, and do not overwork the dough. Check that the curry powder contains no meat stock and adjust its heat to suit the household."],
+  "tips": [
+    "Cool the dry filling before sealing the patties; steam makes pastry soggy. Keep the butter and pastry cold, and do not overwork the dough. Check that the curry powder contains no meat stock and adjust its heat to suit the household."
+  ],
   "translations": {
     "hi": {
       "name": "जमैका की सब्ज़ी पैटी",
       "passiveTime": "पेस्ट्री ठंडी करने के लिए 30 मिनट और भरावन ठंडा करने के लिए 15 मिनट",
-      "ingredients": ["मैदा", "ठंडा मक्खन", "पिसी हल्दी", "नमक", "ठंडा पानी", "आलू", "गाजर", "पत्तागोभी", "हरे मटर", "लाल शिमला मिर्च", "प्याज़", "लहसुन", "जमैका करी मसाला", "सूखा थाइम", "बिना तेज़ स्वाद वाला तेल", "पानी"],
+      "ingredients": [
+        "मैदा",
+        "ठंडा मक्खन",
+        "पिसी हल्दी",
+        "नमक",
+        "ठंडा पानी",
+        "आलू",
+        "गाजर",
+        "पत्तागोभी",
+        "हरे मटर",
+        "लाल शिमला मिर्च",
+        "प्याज़",
+        "लहसुन",
+        "जमैका करी मसाला",
+        "सूखा थाइम",
+        "बिना तेज़ स्वाद वाला तेल",
+        "पानी"
+      ],
       "steps": [
         "मैदा, हल्दी और 4 ग्राम नमक मिलाएँ। ठंडा मक्खन छोटे टुकड़ों में काटकर आटे में रगड़ें ताकि मटर जितने टुकड़े बचें। 150 मिली ठंडा पानी धीरे डालकर बस जुड़ने तक दबाएँ; चिकना न गूँधें। दो चपटे गोले बनाकर ढकें और परतें कुरकुरी रखने के लिए 30 मिनट ठंडा करें।",
         "आलू और गाजर छीलकर 5-मिमी टुकड़ों में काटें। पत्तागोभी पतली, मिर्च और प्याज़ छोटे टुकड़ों में तथा लहसुन बारीक काटें। चौड़े पैन में 20 मिली तेल मध्यम आँच पर गरम करें। प्याज़ 3 मिनट पकाएँ, फिर लहसुन, करी मसाला और थाइम 30 सेकंड पकाएँ।",
@@ -48,12 +134,31 @@
         "हर पैटी के ऊपर भाप निकलने का छोटा चीरा लगाएँ और बिना अंडे का सुनहरा रंग पाने को आठों पर बचा 10 मिली तेल लगाएँ। 25–30 मिनट बेक करें, बीच में ट्रे की जगह बदलें, जब तक पेस्ट्री पक्की, परतदार और गहरी सुनहरी हो। नीचे फीका दिखे तो 3–5 मिनट और बेक करें।",
         "भरावन जमने को 5 मिनट ठहराएँ, फिर प्रति व्यक्ति दो पैटी परोसें। कटी पैटी में कुरकुरी हल्दी-पीली पेस्ट्री के भीतर अलग-अलग करी सब्ज़ियाँ दिखें और गीला सॉस बाहर न निकले।"
       ],
-      "tips": ["बंद करने से पहले सूखा भरावन ठंडा करें; भाप पेस्ट्री गीली करती है। मक्खन और पेस्ट्री ठंडे रखें, लोई अधिक न गूँधें। करी मसाले में मांस का स्टॉक न हो, यह जाँचें और घर के हिसाब से तीखापन रखें।"]
+      "tips": [
+        "बंद करने से पहले सूखा भरावन ठंडा करें; भाप पेस्ट्री गीली करती है। मक्खन और पेस्ट्री ठंडे रखें, लोई अधिक न गूँधें। करी मसाले में मांस का स्टॉक न हो, यह जाँचें और घर के हिसाब से तीखापन रखें।"
+      ]
     },
     "gu": {
       "name": "જમૈકન શાકભાજી પેટી",
       "passiveTime": "પેસ્ટ્રી ઠંડી કરવા 30 મિનિટ અને ભરાવું ઠંડું કરવા 15 મિનિટ",
-      "ingredients": ["મેંદો", "ઠંડું માખણ", "વાટેલી હળદર", "મીઠું", "ઠંડું પાણી", "બટાકું", "ગાજર", "કોબી", "લીલા વટાણા", "લાલ શિમલા મરચું", "ડુંગળી", "લસણ", "જમૈકન કરી મસાલો", "સૂકો થાઇમ", "તટસ્થ સ્વાદનું તેલ", "પાણી"],
+      "ingredients": [
+        "મેંદો",
+        "ઠંડું માખણ",
+        "વાટેલી હળદર",
+        "મીઠું",
+        "ઠંડું પાણી",
+        "બટાકું",
+        "ગાજર",
+        "કોબી",
+        "લીલા વટાણા",
+        "લાલ શિમલા મરચું",
+        "ડુંગળી",
+        "લસણ",
+        "જમૈકન કરી મસાલો",
+        "સૂકો થાઇમ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "પાણી"
+      ],
       "steps": [
         "મેંદો, હળદર અને 4 ગ્રામ મીઠું ભેળવો. ઠંડું માખણ નાના ટુકડામાં કાપી લોટમાં ઘસો જેથી વટાણા જેવા ટુકડા રહે. 150 મિલી ઠંડું પાણી ધીમે નાખીને ફક્ત જોડાય ત્યાં સુધી દબાવો; લીસું ન મસળો. બે ચપટા ગોળ બનાવી ઢાંકો અને પડ કરકરા રહે માટે 30 મિનિટ ઠંડા કરો.",
         "બટાકું અને ગાજર છોલીને 5-મિમી ટુકડા કાપો. કોબી પાતળી, મરચું અને ડુંગળી નાના ટુકડામાં તથા લસણ બારીક સમારો. પહોળી કડાઈમાં 20 મિલી તેલ મધ્યમ તાપે ગરમ કરો. ડુંગળી 3 મિનિટ રાંધો, પછી લસણ, કરી મસાલો અને થાઇમ 30 સેકંડ રાંધો.",
@@ -62,8 +167,15 @@
         "દરેક પેટી ઉપર વરાળ માટે નાનો ચીરો કરો અને ઇંડા વગર સોનેરી રંગ માટે આઠેય પર બાકીનું 10 મિલી તેલ લગાવો. 25–30 મિનિટ બેક કરો, વચ્ચે ટ્રેની જગ્યા બદલો, જ્યાં સુધી પેસ્ટ્રી પાકેલી, પડવાળી અને ઘેરી સોનેરી થાય. નીચે ફીકી દેખાય તો 3–5 મિનિટ વધુ બેક કરો.",
         "ભરાવું સ્થિર થાય તે માટે 5 મિનિટ થોભાવો, પછી વ્યક્તિદીઠ બે પેટી પીરસો. કાપેલી પેટીમાં કરકરી હળદર-પીળી પેસ્ટ્રીની અંદર અલગ-અલગ કરી શાક દેખાય અને ભીનો સોસ બહાર ન નીકળે."
       ],
-      "tips": ["બંધ કરતાં પહેલાં સૂકું ભરાવું ઠંડું કરો; વરાળ પેસ્ટ્રી ભીની કરે છે. માખણ અને પેસ્ટ્રી ઠંડાં રાખો, લોટ વધુ ન મસળો. કરી મસાલામાં માંસનો સ્ટોક ન હોય તેની ખાતરી કરો અને ઘર મુજબ તીખાશ રાખો."]
+      "tips": [
+        "બંધ કરતાં પહેલાં સૂકું ભરાવું ઠંડું કરો; વરાળ પેસ્ટ્રી ભીની કરે છે. માખણ અને પેસ્ટ્રી ઠંડાં રાખો, લોટ વધુ ન મસળો. કરી મસાલામાં માંસનો સ્ટોક ન હોય તેની ખાતરી કરો અને ઘર મુજબ તીખાશ રાખો."
+      ]
     }
   },
-  "reference": {"url": "https://www.deliciousmagazine.co.uk/recipes/sunny-vegetable-patties/", "use": "Vegetarian turmeric-pastry Jamaican patty format; measured filling and eggless method independently authored."}
+  "reference": {
+    "url": "https://www.deliciousmagazine.co.uk/recipes/sunny-vegetable-patties/",
+    "use": "Vegetarian turmeric-pastry Jamaican patty format; measured filling and eggless method independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/jamaican-vegetable-patty.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }
