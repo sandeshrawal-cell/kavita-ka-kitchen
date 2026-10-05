@@ -1,0 +1,49 @@
+{
+  "sourceReviewId":"R0193","id":"aloo-tikki-burger","status":"draft-photo-and-translation-reviewed","name":"Aloo Tikki Burger","cuisine":"Indian street food","categories":["Lunch","Dinner","Snack"],"baseServings":4,"prepAndCookMinutes":45,
+  "ingredients":[
+    {"name":"potatoes, boiled and peeled","qty":600,"unit":"g"},
+    {"name":"rice flour","qty":45,"unit":"g"},
+    {"name":"ground cumin","qty":5,"unit":"g"},
+    {"name":"ground coriander","qty":5,"unit":"g"},
+    {"name":"chaat masala","qty":8,"unit":"g"},
+    {"name":"Kashmiri chili powder","qty":5,"unit":"g"},
+    {"name":"salt","qty":7,"unit":"g"},
+    {"name":"neutral oil","qty":45,"unit":"ml"},
+    {"name":"egg-free sesame burger buns (4 pieces)","qty":320,"unit":"g"},
+    {"name":"lettuce leaves","qty":80,"unit":"g"},
+    {"name":"tomatoes, sliced","qty":160,"unit":"g"},
+    {"name":"cucumber, sliced","qty":140,"unit":"g"},
+    {"name":"red onion, thinly sliced","qty":90,"unit":"g"},
+    {"name":"coriander-mint chutney","qty":80,"unit":"g"},
+    {"name":"sweet tamarind chutney","qty":60,"unit":"g"}
+  ],
+  "steps":[
+    "Boil potatoes until fully tender, drain well and peel. Mash while warm, then cool until no steam remains. Mix in rice flour, cumin, coriander, chaat masala, Kashmiri chili powder and salt; a dry mixture holds a patty better than wet mash.",
+    "Divide into four equal portions and shape broad patties slightly wider than the buns. If the mash feels sticky, chill it 10 minutes; do not add lots of extra flour or the tikkis will become dense.",
+    "Heat 35 ml oil on a flat pan over medium heat. Cook the tikkis 4–5 minutes per side until the outside is crisp and deep golden and the rice flour is cooked. Turn gently once; keep warm.",
+    "Slice egg-free buns and toast their cut surfaces in the remaining 10 ml oil. Wash and dry lettuce; slice tomato, cucumber and red onion thinly. Spread coriander-mint chutney on the lower bun and sweet tamarind chutney on the upper bun.",
+    "Set one hot aloo tikki on each lower bun. Add lettuce, tomato, cucumber and red onion, close with the upper bun and serve immediately while the tikki is crisp."
+  ],
+  "tips":["The potato tikki is distinct from the bean-and-mushroom veggie burger. The reviewed photo shows a visibly golden potato patty, two chutneys, lettuce, cucumber, tomato and onion in an egg-free sesame bun."],
+  "translations":{
+    "hi":{"name":"आलू टिक्की बर्गर","ingredients":["आलू, उबले-छिले","चावल का आटा","पिसा जीरा","पिसा धनिया","चाट मसाला","कश्मीरी मिर्च पाउडर","नमक","हल्का स्वाद वाला तेल","बिना अंडे के तिल वाले बर्गर बन (4 पीस)","सलाद पत्ते","टमाटर, कटे","खीरा, कटा","लाल प्याज़, पतला कटा","धनिया-पुदीना चटनी","मीठी इमली चटनी"],
+      "steps":[
+        "आलू पूरी तरह नरम उबालें, अच्छी तरह छानकर छीलें। गरम रहते मैश करें, फिर भाप रुकने तक ठंडा करें। चावल का आटा, जीरा, धनिया, चाट मसाला, कश्मीरी मिर्च और नमक मिलाएँ; सूखा मिश्रण गीले आलू से बेहतर टिक्की बनाता है।",
+        "चार बराबर हिस्से करें और बन से थोड़ी चौड़ी चपटी टिक्कियाँ बनाएँ। आलू चिपचिपा हो तो 10 मिनट ठंडा करें; बहुत अतिरिक्त आटा न डालें वरना टिक्की भारी होगी।",
+        "चपटे पैन पर 35 मिली तेल मध्यम आँच पर गरम करें। टिक्की हर तरफ़ 4–5 मिनट गहरी सुनहरी, कुरकुरी और चावल का आटा पका होने तक सेकें। एक बार धीरे पलटें; गरम रखें।",
+        "बिना अंडे के बन काटकर उनके अंदरूनी हिस्से बचे 10 मिली तेल में सेंकें। सलाद पत्ता धोकर सुखाएँ; टमाटर, खीरा और लाल प्याज़ पतले काटें। नीचे वाले बन पर धनिया-पुदीना और ऊपर वाले पर मीठी इमली चटनी लगाएँ।",
+        "हर नीचे वाले बन पर एक गरम आलू टिक्की रखें। सलाद, टमाटर, खीरा और लाल प्याज़ डालें, ऊपर का बन लगाएँ और टिक्की कुरकुरी रहते तुरंत परोसें।"
+      ],
+      "tips":["आलू टिक्की बीन्स-मशरूम वेजी बर्गर से अलग है। समीक्षित तस्वीर में बिना अंडे के तिल बन में साफ़ दिखती सुनहरी आलू टिक्की, दो चटनियाँ, सलाद, खीरा, टमाटर और प्याज़ हैं।"]},
+    "gu":{"name":"આલુ ટિક્કી બર્ગર","ingredients":["બટાકા, બાફેલા-છોલેલા","ચોખાનો લોટ","દળેલું જીરું","દળેલી ધાણા","ચાટ મસાલો","કાશ્મીરી મરચાંનો ભૂકો","મીઠું","હળવા સ્વાદનું તેલ","ઈંડા વગરના તલવાળા બર્ગર બન (4 નંગ)","સલાડનાં પાન","ટમેટાં, કાપેલાં","કાકડી, કાપેલી","લાલ ડુંગળી, પાતળી સમારેલી","કોથમીર-ફુદીનાની ચટણી","મીઠી આંબલીની ચટણી"],
+      "steps":[
+        "બટાકા સંપૂર્ણ નરમ થાય ત્યાં સુધી બાફી સારી રીતે નિતારી છોલો. ગરમ હોય ત્યારે મેશ કરી વરાળ બંધ થાય ત્યાં સુધી ઠંડા કરો. ચોખાનો લોટ, જીરું, ધાણા, ચાટ મસાલો, કાશ્મીરી મરચું અને મીઠું ભેળવો; સૂકું મિશ્રણ ભીના મેશ કરતાં સારી પેટી બનાવે છે.",
+        "ચાર સરખા ભાગ કરી બનથી થોડા પહોળા ચપટા ટિક્કી બનાવો. મિશ્રણ ચીકણું હોય તો 10 મિનિટ ઠંડું કરો; ઘણો વધુ લોટ ન નાખો નહીં તો ટિક્કી ભારે થશે.",
+        "સપાટ કડાઈમાં 35 મિલી તેલ મધ્યમ તાપે ગરમ કરો. ટિક્કી દરેક બાજુ 4–5 મિનિટ ઘેરી સોનેરી, કરકરી અને ચોખાનો લોટ રંધાય ત્યાં સુધી શેકો. એક વાર હળવેથી ફેરવો; ગરમ રાખો.",
+        "ઈંડા વગરના બન કાપી અંદરની બાજુ બાકી 10 મિલી તેલમાં શેકો. સલાડનાં પાન ધોઈ સૂકવો; ટમેટાં, કાકડી અને લાલ ડુંગળી પાતળાં કાપો. નીચેના બન પર કોથમીર-ફુદીનો અને ઉપરના બન પર મીઠી આંબલીની ચટણી લગાવો.",
+        "દરેક નીચેના બન પર એક ગરમ બટાકાની ટિક્કી મૂકો. સલાડ, ટમેટાં, કાકડી અને લાલ ડુંગળી નાખી ઉપરનો બન મૂકો અને ટિક્કી કરકરી હોય ત્યારે તરત પીરસો."
+      ],
+      "tips":["બટાકાની ટિક્કી બીન્સ-મશરૂમ વેજી બર્ગરથી અલગ છે. તપાસેલા ફોટામાં ઈંડા વગરના તલના બનમાં સ્પષ્ટ સોનેરી બટાકાની ટિક્કી, બે ચટણી, સલાડ, કાકડી, ટમેટાં અને ડુંગળી છે."]}
+  },
+  "reference":{"url":"https://www.vegrecipesofindia.com/aloo-tikki-burger/","use":"Crisp potato tikki with chutney burger assembly; quantities and wording independently authored for reviewed photo."}
+}

@@ -9933,5 +9933,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "aloo-tikki-burger": {
+    "name": "Aloo Tikki Burger",
+    "src": "/photos/aloo-tikki-burger-1200.webp",
+    "small": "/photos/aloo-tikki-burger-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Aloo Tikki Burger served ready to eat",
+    "kind": "generated",
+    "title": "Aloo Tikki Burger",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "grilled-cheese-sandwich": {
+    "name": "Grilled Cheese Sandwich",
+    "src": "/photos/grilled-cheese-sandwich-1200.webp",
+    "small": "/photos/grilled-cheese-sandwich-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Grilled Cheese Sandwich served ready to eat",
+    "kind": "generated",
+    "title": "Grilled Cheese Sandwich",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "caprese-sandwich": {
+    "name": "Caprese Sandwich",
+    "src": "/photos/caprese-sandwich-1200.webp",
+    "small": "/photos/caprese-sandwich-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Caprese Sandwich served ready to eat",
+    "kind": "generated",
+    "title": "Caprese Sandwich",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

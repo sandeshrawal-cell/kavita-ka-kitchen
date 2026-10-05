@@ -1,0 +1,39 @@
+{
+  "sourceReviewId":"R0194","id":"grilled-cheese-sandwich","status":"draft-photo-and-translation-reviewed","name":"Grilled Cheese Sandwich","cuisine":"Global","categories":["Breakfast","Lunch","Snack"],"baseServings":4,"prepAndCookMinutes":18,
+  "ingredients":[
+    {"name":"egg-free sourdough bread (8 slices)","qty":400,"unit":"g"},
+    {"name":"vegetarian-rennet sharp cheddar, grated","qty":160,"unit":"g"},
+    {"name":"vegetarian-rennet mozzarella, grated","qty":160,"unit":"g"},
+    {"name":"softened butter","qty":45,"unit":"g"},
+    {"name":"vegetarian Dijon mustard","qty":20,"unit":"g"}
+  ],
+  "steps":[
+    "Check that the bread contains no egg and both cheeses use microbial or vegetarian rennet. Grate cheddar and mozzarella and mix them so each sandwich receives both sharp flavor and good melting.",
+    "Lay eight bread slices on a board. Spread a very thin layer of Dijon mustard over the inside of four slices. Divide the cheese mixture evenly among those four slices and close with the remaining bread.",
+    "Spread softened butter thinly over the outer surfaces of each sandwich, including the edges. Heat a heavy skillet over medium-low heat; the gentle heat gives the cheese time to melt before the bread darkens.",
+    "Place two sandwiches in the pan without crowding and cover with a lid. Cook 3–4 minutes until the bottoms are crisp and golden, flip carefully and cook covered for another 3–4 minutes until the cheese has melted through. Repeat for the remaining two.",
+    "Rest the sandwiches for 1 minute so the cheese settles slightly, then cut each diagonally. Serve immediately while the bread is crisp and the centre is molten."
+  ],
+  "tips":["If bread browns before cheese melts, lower the heat and cover the pan. The reviewed photo shows only golden sourdough and molten white-orange cheese, without tomato, egg or meat."],
+  "translations":{
+    "hi":{"name":"ग्रिल्ड चीज़ सैंडविच","ingredients":["बिना अंडे का सॉरडो ब्रेड (8 स्लाइस)","शाकाहारी रेनेट वाला तीखा चेडर, कद्दूकस","शाकाहारी रेनेट वाला मोज़रेला, कद्दूकस","नरम मक्खन","शाकाहारी डिजॉन मस्टर्ड"],
+      "steps":[
+        "जाँचें कि ब्रेड में अंडा न हो और दोनों चीज़ माइक्रोबियल या शाकाहारी रेनेट से बने हों। चेडर और मोज़रेला कद्दूकस करके मिलाएँ ताकि हर सैंडविच में तीखा स्वाद और अच्छी पिघलन मिले।",
+        "आठ ब्रेड स्लाइस रखें। चार के अंदरूनी हिस्से पर डिजॉन मस्टर्ड बहुत पतली लगाएँ। चीज़ मिश्रण उन चारों पर बराबर बाँटें और बाकी ब्रेड से ढकें।",
+        "हर सैंडविच की बाहरी सतह, किनारों सहित, नरम मक्खन की पतली परत से लगाएँ। भारी पैन मध्यम-धीमी आँच पर गरम करें; धीमी गर्मी से ब्रेड गहरा होने से पहले चीज़ पिघलेगा।",
+        "पैन में बिना भीड़ के दो सैंडविच रखें और ढकें। नीचे कुरकुरा सुनहरा होने तक 3–4 मिनट पकाएँ, सावधानी से पलटें और फिर 3–4 मिनट ढककर चीज़ पूरी तरह पिघलने तक पकाएँ। बाकी दो भी ऐसे करें।",
+        "सैंडविच 1 मिनट आराम दें ताकि चीज़ थोड़ा ठहरे, फिर प्रत्येक तिरछा काटें। ब्रेड कुरकुरा और बीच का चीज़ पिघला हो तब तुरंत परोसें।"
+      ],
+      "tips":["चीज़ पिघलने से पहले ब्रेड गहरा हो तो आँच घटाकर पैन ढकें। समीक्षित तस्वीर में केवल सुनहरा सॉरडो और पिघला सफेद-नारंगी चीज़ है; टमाटर, अंडा या मांस नहीं।"]},
+    "gu":{"name":"ગ્રિલ્ડ ચીઝ સેન્ડવિચ","ingredients":["ઈંડા વગરની સાવરડૌ બ્રેડ (8 સ્લાઇસ)","શાકાહારી રેનેટવાળું તીખું ચેડર, છીણેલું","શાકાહારી રેનેટવાળું મોઝરેલા, છીણેલું","નરમ માખણ","શાકાહારી ડીજોન મસ્ટર્ડ"],
+      "steps":[
+        "બ્રેડમાં ઈંડું નથી અને બંને ચીઝ માઇક્રોબિયલ કે શાકાહારી રેનેટથી બને છે તે તપાસો. ચેડર અને મોઝરેલા છીણી ભેળવો જેથી દરેક સેન્ડવિચમાં તીખો સ્વાદ અને સારી ઓગળવાની ક્ષમતા મળે.",
+        "આઠ બ્રેડ સ્લાઇસ ગોઠવો. ચારની અંદરની બાજુ ડીજોન મસ્ટર્ડનું ખૂબ પાતળું પડ લગાવો. ચીઝ મિશ્રણ એ ચાર સ્લાઇસ પર સરખું વહેંચી બાકી બ્રેડથી ઢાંકો.",
+        "દરેક સેન્ડવિચની બહારની બાજુ અને ધાર પર નરમ માખણનું પાતળું પડ લગાવો. ભારે કડાઈ મધ્યમ-ધીમા તાપે ગરમ કરો; ધીમા તાપે બ્રેડ ઘેરી થાય તે પહેલાં ચીઝ ઓગળે છે.",
+        "કડાઈમાં ભીડ ન થાય તેમ બે સેન્ડવિચ મૂકી ઢાંકો. નીચે કરકરું સોનેરી થાય ત્યાં સુધી 3–4 મિનિટ રાંધો, કાળજીથી ફેરવો અને ફરી 3–4 મિનિટ ઢાંકી ચીઝ સંપૂર્ણ ઓગળે ત્યાં સુધી રાંધો. બાકી બે પણ એ રીતે કરો.",
+        "સેન્ડવિચને 1 મિનિટ આરામ આપો જેથી ચીઝ સહેજ સ્થિર થાય, પછી દરેકને ત્રાંસો કાપો. બ્રેડ કરકરી અને વચ્ચેનાં ચીઝ પીગળેલું હોય ત્યારે તરત પીરસો."
+      ],
+      "tips":["ચીઝ ઓગળે તે પહેલાં બ્રેડ ઘેરી થાય તો તાપ ઘટાડીને કડાઈ ઢાંકો. તપાસેલા ફોટામાં માત્ર સોનેરી સાવરડૌ અને ઓગળેલું સફેદ-નારંગી ચીઝ છે; ટમેટાં, ઈંડું કે માંસ નથી."]}
+  },
+  "reference":{"url":"https://www.loveandlemons.com/grilled-cheese/","use":"Low covered skillet heat and grated-cheese technique; egg-free and vegetarian-rennet quantities and wording independently authored."}
+}

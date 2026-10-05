@@ -1,0 +1,42 @@
+{
+  "sourceReviewId":"R0195","id":"caprese-sandwich","status":"draft-photo-and-translation-reviewed","name":"Caprese Sandwich","cuisine":"Italian","categories":["Lunch","Dinner","Snack"],"baseServings":4,"prepAndCookMinutes":20,
+  "ingredients":[
+    {"name":"egg-free ciabatta bread (4 rolls)","qty":480,"unit":"g"},
+    {"name":"fresh vegetarian-rennet mozzarella, sliced","qty":360,"unit":"g"},
+    {"name":"ripe tomatoes, sliced","qty":400,"unit":"g"},
+    {"name":"fresh basil leaves","qty":45,"unit":"g"},
+    {"name":"extra-virgin olive oil","qty":35,"unit":"ml"},
+    {"name":"balsamic glaze","qty":30,"unit":"ml"},
+    {"name":"salt","qty":5,"unit":"g"},
+    {"name":"ground black pepper","qty":2,"unit":"g"}
+  ],
+  "steps":[
+    "Check that the ciabatta contains no egg and the fresh mozzarella uses microbial or vegetarian rennet. Slice the bread rolls horizontally. Pat mozzarella slices and tomato slices dry with a clean towel so the bread does not become soggy.",
+    "Warm the cut sides of the ciabatta in a dry pan for 1–2 minutes until lightly crisp but still soft inside. Rub or brush the cut surfaces with most of the measured olive oil.",
+    "Layer tomato slices over the bottom halves and season with the measured salt and black pepper. Add mozzarella slices and generous whole basil leaves, distributing them evenly across all four rolls.",
+    "Drizzle balsamic glaze over the filling and add the remaining olive oil. Close the rolls gently without squeezing out the filling.",
+    "Cut each sandwich in half with a sharp serrated knife so the tomato, mozzarella and basil layers remain clear. Serve immediately at room temperature while the basil is fresh and bread crisp."
+  ],
+  "tips":["Fresh mozzarella can release water, so drain it before assembly. The reviewed photo shows rustic ciabatta, thick white mozzarella, ripe red tomato, basil, olive oil and a little dark balsamic glaze."],
+  "translations":{
+    "hi":{"name":"काप्रेसे सैंडविच","ingredients":["बिना अंडे की चियाबाटा ब्रेड (4 रोल)","ताज़ा शाकाहारी रेनेट वाला मोज़रेला, कटा","पके टमाटर, कटे","ताज़े बेसिल पत्ते","एक्स्ट्रा-वर्जिन ऑलिव ऑयल","बाल्सामिक ग्लेज़","नमक","पिसी काली मिर्च"],
+      "steps":[
+        "जाँचें कि चियाबाटा में अंडा न हो और ताज़ा मोज़रेला माइक्रोबियल या शाकाहारी रेनेट से बना हो। ब्रेड रोल क्षैतिज काटें। मोज़रेला और टमाटर के स्लाइस साफ़ कपड़े से सुखाएँ ताकि ब्रेड गीली न हो।",
+        "चियाबाटा के कटे हिस्से सूखे पैन में 1–2 मिनट हल्के कुरकुरे पर भीतर नरम रहने तक गरम करें। कटे हिस्सों पर नापे ऑलिव ऑयल का अधिकतर भाग लगाएँ।",
+        "नीचे के हिस्सों पर टमाटर स्लाइस रखें और नापा नमक व काली मिर्च डालें। मोज़रेला स्लाइस और पूरे बेसिल पत्ते चारों रोल पर बराबर लगाएँ।",
+        "भरावन पर बाल्सामिक ग्लेज़ और बचा ऑलिव ऑयल डालें। रोल धीरे बंद करें ताकि भरावन बाहर न निकले।",
+        "हर सैंडविच धारदार दाँतेदार चाकू से आधा करें ताकि टमाटर, मोज़रेला और बेसिल की परतें साफ़ रहें। बेसिल ताज़ा और ब्रेड कुरकुरी हो तब तुरंत कमरे के ताप पर परोसें।"
+      ],
+      "tips":["ताज़ा मोज़रेला पानी छोड़ सकता है, इसलिए लगाने से पहले छानें। समीक्षित तस्वीर में देहाती चियाबाटा, मोटा सफेद मोज़रेला, पका लाल टमाटर, बेसिल, ऑलिव ऑयल और थोड़ा गहरा बाल्सामिक ग्लेज़ है।"]},
+    "gu":{"name":"કાપ્રેઝે સેન્ડવિચ","ingredients":["ઈંડા વગરની ચિયાબાટા બ્રેડ (4 રોલ)","તાજું શાકાહારી રેનેટવાળું મોઝરેલા, કાપેલું","પાકાં ટમેટાં, કાપેલાં","તાજાં બેસિલનાં પાન","એક્સ્ટ્રા-વર્જિન ઓલિવ તેલ","બાલ્સામિક ગ્લેઝ","મીઠું","દળેલી કાળી મરી"],
+      "steps":[
+        "ચિયાબાટામાં ઈંડું નથી અને તાજું મોઝરેલા માઇક્રોબિયલ કે શાકાહારી રેનેટથી બને છે તે તપાસો. બ્રેડ રોલ આડા કાપો. મોઝરેલા અને ટમેટાંની સ્લાઇસ સ્વચ્છ કપડાંથી સૂકવો જેથી બ્રેડ ભીની ન બને.",
+        "ચિયાબાટાની કાપેલી બાજુ સૂકી કડાઈમાં 1–2 મિનિટ સહેજ કરકરી પણ અંદરથી નરમ રહે તેમ ગરમ કરો. કાપેલી બાજુ પર માપેલા ઓલિવ તેલનો મોટાભાગનો ભાગ લગાવો.",
+        "નીચેના ભાગ પર ટમેટાંની સ્લાઇસ ગોઠવી માપેલું મીઠું અને કાળી મરી છાંટો. મોઝરેલાની સ્લાઇસ અને આખાં બેસિલનાં પાન ચારેય રોલમાં સરખાં વહેંચો.",
+        "ભરાવ પર બાલ્સામિક ગ્લેઝ અને બાકી ઓલિવ તેલ રેડો. ભરાવ બહાર ન નીકળે તેમ રોલ હળવેથી બંધ કરો.",
+        "દરેક સેન્ડવિચને તીક્ષ્ણ દાંતાવાળા ચાકુથી અડધો કાપો જેથી ટમેટાં, મોઝરેલા અને બેસિલનાં પડ સ્પષ્ટ રહે. બેસિલ તાજું અને બ્રેડ કરકરી હોય ત્યારે તરત ઓરડાના તાપે પીરસો."
+      ],
+      "tips":["તાજું મોઝરેલા પાણી છોડે છે, એટલે ગોઠવતા પહેલાં નિતારો. તપાસેલા ફોટામાં ચિયાબાટા, જાડું સફેદ મોઝરેલા, પાકું લાલ ટમેટું, બેસિલ, ઓલિવ તેલ અને થોડું ઘેરું બાલ્સામિક ગ્લેઝ છે."]}
+  },
+  "reference":{"url":"https://www.loveandlemons.com/caprese-sandwich/","use":"Tomato-mozzarella-basil sandwich composition; vegetarian-rennet quantities and wording independently authored for reviewed photo."}
+}
