@@ -1,0 +1,52 @@
+{
+  "sourceReviewId":"R0191","id":"kathi-roll","status":"draft-photo-and-translation-reviewed","name":"Paneer Kathi Roll","cuisine":"Kolkata Indian","categories":["Lunch","Dinner","Snack"],"baseServings":4,"prepAndCookMinutes":55,"passiveTime":"20 minutes paneer marinating",
+  "ingredients":[
+    {"name":"whole wheat flour","qty":280,"unit":"g"},
+    {"name":"water for dough","qty":170,"unit":"ml"},
+    {"name":"paneer, cubed","qty":400,"unit":"g"},
+    {"name":"thick plain yogurt","qty":100,"unit":"g"},
+    {"name":"ginger-garlic paste","qty":20,"unit":"g"},
+    {"name":"Kashmiri chili powder","qty":8,"unit":"g"},
+    {"name":"ground cumin","qty":5,"unit":"g"},
+    {"name":"garam masala","qty":5,"unit":"g"},
+    {"name":"salt","qty":8,"unit":"g"},
+    {"name":"green bell pepper, sliced","qty":170,"unit":"g"},
+    {"name":"red onion, thinly sliced","qty":150,"unit":"g"},
+    {"name":"fresh coriander leaves","qty":35,"unit":"g"},
+    {"name":"fresh mint leaves","qty":25,"unit":"g"},
+    {"name":"lemon juice","qty":35,"unit":"ml"},
+    {"name":"green chili","qty":12,"unit":"g"},
+    {"name":"neutral oil","qty":40,"unit":"ml"}
+  ],
+  "steps":[
+    "Mix whole wheat flour, 3 g salt and measured 170 ml water into a soft dough. Knead 5 minutes, cover and rest 20 minutes. Divide into four balls and roll each thinly into a broad round roti.",
+    "Mix yogurt, ginger-garlic paste, Kashmiri chili powder, cumin, garam masala, 3 g salt and 15 ml lemon juice. Fold in paneer cubes and marinate 20 minutes. Blend coriander, mint, green chili, remaining 20 ml lemon juice and 2 g salt with a spoonful of water into a thick green chutney.",
+    "Cook each roti on a hot griddle over medium-high heat, turning until brown spots appear. Brush with a little of the oil and cook both sides until supple and lightly blistered. Keep warm under a cloth; do not cook crisp or the rolls will crack.",
+    "Heat remaining oil in a pan. Sear marinated paneer and green pepper for 4–5 minutes until paneer has golden edges and the yogurt coating is cooked. Slice onion thinly and keep it raw for crunch.",
+    "Spread green chutney on each warm roti. Divide paneer and pepper down the center, add sliced onion, fold in the bottom and roll tightly. Wrap the lower half in paper and serve warm, with the filling visible at the top."
+  ],
+  "tips":["This egg-free version uses plain rotis rather than egg-coated Kolkata parathas. The reviewed photo shows spiced paneer, green pepper, onion and green chutney inside blistered wheat wraps."],
+  "translations":{
+    "hi":{"name":"पनीर काठी रोल","ingredients":["गेहूँ का आटा","आटे के लिए पानी","पनीर, चौकोर कटा","गाढ़ा सादा दही","अदरक-लहसुन पेस्ट","कश्मीरी मिर्च पाउडर","पिसा जीरा","गरम मसाला","नमक","हरी शिमला मिर्च, कटी","लाल प्याज़, पतला कटा","ताज़ा हरा धनिया","ताज़ा पुदीना","नींबू का रस","हरी मिर्च","हल्का स्वाद वाला तेल"],
+      "steps":[
+        "गेहूँ आटा, 3 ग्राम नमक और नापा 170 मिली पानी मिलाकर नरम आटा बनाएँ। 5 मिनट गूँधें, ढककर 20 मिनट आराम दें। चार गोले बनाकर हर एक की पतली बड़ी रोटी बेलें।",
+        "दही, अदरक-लहसुन पेस्ट, कश्मीरी मिर्च, जीरा, गरम मसाला, 3 ग्राम नमक और 15 मिली नींबू रस मिलाएँ। पनीर डालकर 20 मिनट मैरिनेट करें। धनिया, पुदीना, हरी मिर्च, बचा 20 मिली नींबू रस और 2 ग्राम नमक थोड़े पानी से गाढ़ी हरी चटनी पीसें।",
+        "हर रोटी गरम तवे पर मध्यम-तेज़ आँच पर भूरे धब्बे आने तक पलटकर सेकें। थोड़ा तेल लगाकर दोनों ओर लचीली और हल्की फूली होने तक पकाएँ। कपड़े में गरम रखें; कुरकुरी न करें वरना रोल फटेगा।",
+        "पैन में बचा तेल गरम करें। मैरिनेट पनीर और हरी शिमला मिर्च 4–5 मिनट भूनें ताकि पनीर के किनारे सुनहरे और दही का लेप पका हो। प्याज़ पतला काटकर कुरकुरेपन के लिए कच्चा रखें।",
+        "हर गरम रोटी पर हरी चटनी लगाएँ। बीच में पनीर और शिमला मिर्च बाँटें, प्याज़ डालें, नीचे का हिस्सा मोड़कर कसकर रोल करें। निचला आधा कागज़ में लपेटें और ऊपर भरावन दिखता रहे ऐसे गरम परोसें।"
+      ],
+      "tips":["इस बिना अंडे वाले रूप में अंडा लगी कोलकाता पराठा की जगह सादी रोटी है। समीक्षित तस्वीर में भूरे गेहूँ रोल के अंदर मसालेदार पनीर, हरी शिमला मिर्च, प्याज़ और हरी चटनी हैं।"],
+      "passiveTime":"पनीर को 20 मिनट मैरिनेट करना"},
+    "gu":{"name":"પનીર કાઠી રોલ","ingredients":["ઘઉંનો લોટ","લોટ માટે પાણી","પનીર, ચોરસ કાપેલું","ઘટ્ટ સાદું દહીં","આદુ-લસણની પેસ્ટ","કાશ્મીરી મરચાંનો ભૂકો","દળેલું જીરું","ગરમ મસાલો","મીઠું","લીલું કેપ્સિકમ, કાપેલું","લાલ ડુંગળી, પાતળી સમારેલી","તાજી કોથમીર","તાજો ફુદીનો","લીંબુનો રસ","લીલું મરચું","હળવા સ્વાદનું તેલ"],
+      "steps":[
+        "ઘઉંનો લોટ, 3 ગ્રામ મીઠું અને માપેલું 170 મિલી પાણી ભેળવી નરમ લોટ બનાવો. 5 મિનિટ મસળી ઢાંકી 20 મિનિટ આરામ આપો. ચાર લૂવા કરી દરેકની પાતળી મોટી રોટલી વણો.",
+        "દહીં, આદુ-લસણની પેસ્ટ, કાશ્મીરી મરચું, જીરું, ગરમ મસાલો, 3 ગ્રામ મીઠું અને 15 મિલી લીંબુનો રસ ભેળવો. પનીર નાખી 20 મિનિટ મેરિનેટ કરો. કોથમીર, ફુદીનો, લીલું મરચું, બાકી 20 મિલી લીંબુનો રસ અને 2 ગ્રામ મીઠું થોડા પાણીથી ઘટ્ટ લીલી ચટણી વાટો.",
+        "દરેક રોટલી ગરમ તવા પર મધ્યમથી વધુ તાપે બદામી ટપકાં આવે ત્યાં સુધી ફેરવી શેકો. થોડું તેલ લગાવી બંને બાજુ લચીલી અને સહેજ ફોલ્લાવાળી થાય ત્યાં સુધી રાંધો. કપડાં નીચે ગરમ રાખો; કરકરી ન બનાવો નહીં તો રોલ ફાટશે.",
+        "કડાઈમાં બાકી તેલ ગરમ કરો. મેરિનેટ પનીર અને લીલું કેપ્સિકમ 4–5 મિનિટ શેકો જેથી પનીરની ધાર સોનેરી અને દહીંનું પડ રંધાયેલું હોય. કરકરાપણું માટે ડુંગળી પાતળી કાપી કાચી રાખો.",
+        "દરેક ગરમ રોટલી પર લીલી ચટણી લગાવો. વચ્ચે પનીર અને કેપ્સિકમ વહેંચો, ડુંગળી નાખો, નીચેનો ભાગ વાળી ચુસ્ત રોલ કરો. નીચેનો અડધો ભાગ કાગળમાં લપેટી ઉપર ભરાવ દેખાય તેમ ગરમ પીરસો."
+      ],
+      "tips":["આ ઈંડા વગરના રૂપમાં ઈંડાવાળી કોલકાતા પરાઠાના બદલે સાદી રોટલી છે. તપાસેલા ફોટામાં શેકેલી ઘઉંની રોટલીમાં મસાલેદાર પનીર, લીલું કેપ્સિકમ, ડુંગળી અને લીલી ચટણી છે."],
+      "passiveTime":"પનીરને 20 મિનિટ મેરિનેટ કરવું"}
+  },
+  "reference":{"url":"https://www.vegrecipesofindia.com/paneer-kathi-roll-recipe/","use":"Paneer roll components and griddle technique; egg-free quantities and wording independently authored for reviewed photo."}
+}

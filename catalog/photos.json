@@ -9885,5 +9885,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "tteokbokki": {
+    "name": "Tteokbokki",
+    "src": "/photos/tteokbokki-1200.webp",
+    "small": "/photos/tteokbokki-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Tteokbokki served ready to eat",
+    "kind": "generated",
+    "title": "Tteokbokki",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "kathi-roll": {
+    "name": "Kathi Roll",
+    "src": "/photos/kathi-roll-1200.webp",
+    "small": "/photos/kathi-roll-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Kathi Roll served ready to eat",
+    "kind": "generated",
+    "title": "Kathi Roll",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "veggie-burger": {
+    "name": "Veggie Burger",
+    "src": "/photos/veggie-burger-1200.webp",
+    "small": "/photos/veggie-burger-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Veggie Burger served ready to eat",
+    "kind": "generated",
+    "title": "Veggie Burger",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

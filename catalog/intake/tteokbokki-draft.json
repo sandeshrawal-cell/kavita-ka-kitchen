@@ -1,0 +1,44 @@
+{
+  "sourceReviewId":"R0190","id":"tteokbokki","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Tteokbokki","cuisine":"Korean","categories":["Lunch","Dinner","Snack"],"baseServings":4,"prepAndCookMinutes":25,
+  "ingredients":[
+    {"name":"plain cylindrical Korean rice cakes","qty":600,"unit":"g"},
+    {"name":"water","qty":750,"unit":"ml"},
+    {"name":"dried kelp (dashima)","qty":12,"unit":"g"},
+    {"name":"gochujang","qty":90,"unit":"g"},
+    {"name":"gochugaru chili flakes","qty":20,"unit":"g"},
+    {"name":"brown rice syrup","qty":35,"unit":"ml"},
+    {"name":"light soy sauce","qty":25,"unit":"ml"},
+    {"name":"toasted sesame oil","qty":15,"unit":"ml"},
+    {"name":"spring onions, sliced","qty":100,"unit":"g"},
+    {"name":"toasted sesame seeds","qty":15,"unit":"g"}
+  ],
+  "steps":[
+    "Check the rice-cake packet for fish or egg ingredients and use plain cylindrical cakes. If frozen, thaw; if firm, soak in cool water for 10 minutes and drain. Separate any cakes stuck together.",
+    "Simmer the measured 750 ml water with dried kelp and the white parts of the spring onions for 8 minutes. Remove the kelp so the broth stays clear and does not become bitter.",
+    "Whisk gochujang, gochugaru, brown rice syrup and soy sauce into the hot kelp broth until the paste dissolves. Bring to a gentle boil and add the drained rice cakes.",
+    "Simmer uncovered for 8–12 minutes, stirring frequently so rice cakes do not stick to the pan, until the cakes are soft and chewy and their starch thickens the sauce. If the pan dries before they soften, add a splash of hot water.",
+    "Turn off the heat and stir in sesame oil. Divide into four warm bowls, spoon the thick red sauce over the rice cakes and top with green spring onion and toasted sesame seeds. Serve immediately while the cakes are supple."
+  ],
+  "tips":["Use kelp water rather than anchovy stock and omit fish cakes. The reviewed photo shows short cylindrical rice cakes in thick red gochujang sauce, scallions and sesame only."],
+  "translations":{
+    "hi":{"name":"शाकाहारी त्तोकबोक्की","ingredients":["सादे बेलनाकार कोरियाई चावल केक","पानी","सूखा केल्प (दाशिमा)","गोचुजांग","गोचुगारू लाल मिर्च","ब्राउन राइस सिरप","हल्का सोया सॉस","भुने तिल का तेल","हरा प्याज़, कटा","भुने तिल"],
+      "steps":[
+        "चावल केक के पैक में मछली या अंडे की सामग्री न हो, जाँचें और सादे बेलनाकार केक लें। जमे हों तो पिघलाएँ; सख्त हों तो ठंडे पानी में 10 मिनट भिगोकर छानें। आपस में चिपके केक अलग करें।",
+        "नापा 750 मिली पानी सूखे केल्प और हरे प्याज़ के सफेद हिस्सों के साथ 8 मिनट हल्का उबालें। केल्प निकाल दें ताकि शोरबा साफ़ रहे और कड़वा न हो।",
+        "गरम केल्प शोरबे में गोचुजांग, गोचुगारू, ब्राउन राइस सिरप और सोया सॉस फेंटें जब तक पेस्ट घुल जाए। हल्का उबाल लाएँ और छाने चावल केक डालें।",
+        "बिना ढके 8–12 मिनट पकाएँ, बार-बार चलाएँ ताकि केक पैन से न चिपकें, जब तक केक नरम-लचीले हों और उनका स्टार्च सॉस गाढ़ा करे। नरम होने से पहले सूखे तो थोड़ा गरम पानी डालें।",
+        "आँच बंद करके तिल का तेल मिलाएँ। चार गरम बाउल में बाँटें, केक पर गाढ़ा लाल सॉस डालें और ऊपर हरा प्याज़ तथा भुने तिल छिड़कें। केक लचीले रहते तुरंत परोसें।"
+      ],
+      "tips":["ऐन्कोवी शोरबे की जगह केल्प पानी लें और फिश केक न डालें। समीक्षित तस्वीर में छोटे बेलनाकार चावल केक गाढ़े लाल गोचुजांग सॉस, हरे प्याज़ और तिल के साथ ही हैं।"]},
+    "gu":{"name":"શાકાહારી ત્તોકબોક્કી","ingredients":["સાદા નળાકાર કોરિયન ચોખાના કેક","પાણી","સૂકું કેલ્પ (દાશિમા)","ગોચુજાંગ","ગોચુગારુ મરચાં","બ્રાઉન રાઇસ સિરપ","હળવો સોયા સોસ","શેકેલા તલનું તેલ","લીલી ડુંગળી, સમારેલી","શેકેલા તલ"],
+      "steps":[
+        "ચોખાના કેકના પેકમાં માછલી કે ઈંડાની સામગ્રી નથી તે તપાસી સાદા નળાકાર કેક લો. ફ્રોઝન હોય તો ઓગાળો; કઠણ હોય તો ઠંડા પાણીમાં 10 મિનિટ પલાળી નિતારો. ચોંટેલા કેક છૂટા કરો.",
+        "માપેલું 750 મિલી પાણી સૂકા કેલ્પ અને લીલી ડુંગળીના સફેદ ભાગ સાથે 8 મિનિટ ધીમું ઉકાળો. કેલ્પ કાઢો જેથી રસ ચોખ્ખો રહે અને કડવો ન બને.",
+        "ગરમ કેલ્પના રસમાં ગોચુજાંગ, ગોચુગારુ, બ્રાઉન રાઇસ સિરપ અને સોયા સોસ પેસ્ટ ઓગળે ત્યાં સુધી ફેંટો. ધીમો ઉકાળો લાવી નિતારેલા ચોખાના કેક નાખો.",
+        "ઢાંક્યા વગર 8–12 મિનિટ રાંધો અને વારંવાર હલાવો જેથી કેક કડાઈમાં ચોંટે નહીં, ત્યાં સુધી કેક નરમ-લચીલા બને અને તેમનો સ્ટાર્ચ સોસ ઘટ્ટ કરે. નરમ થતાં પહેલાં સુકાય તો થોડું ગરમ પાણી નાખો.",
+        "તાપ બંધ કરી તલનું તેલ ભેળવો. ચાર ગરમ બાઉલમાં વહેંચી કેક પર ઘાટો લાલ સોસ રેડો અને ઉપર લીલી ડુંગળી તથા શેકેલા તલ છાંટો. કેક લચીલા હોય ત્યારે તરત પીરસો."
+      ],
+      "tips":["ઍન્કોવીના રસને બદલે કેલ્પનું પાણી લો અને ફિશ કેક ન નાખો. તપાસેલા ફોટામાં નાના નળાકાર ચોખાના કેક ઘાટા લાલ ગોચુજાંગ સોસ, લીલી ડુંગળી અને તલ સાથે જ છે."]}
+  },
+  "reference":{"url":"https://thekoreanvegan.com/korean-fire-cakes-ddukbokee/","use":"Kelp-based vegan Korean rice-cake simmer; quantities and wording independently authored for reviewed photo."}
+}
