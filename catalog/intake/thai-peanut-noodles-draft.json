@@ -1,0 +1,50 @@
+{
+  "sourceReviewId":"R0183","id":"thai-peanut-noodles","status":"draft-photo-and-translation-reviewed","name":"Thai Peanut Noodles","cuisine":"Thai-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
+  "ingredients":[
+    {"name":"dry egg-free rice noodles","qty":320,"unit":"g"},
+    {"name":"smooth unsweetened peanut butter","qty":120,"unit":"g"},
+    {"name":"lime juice","qty":50,"unit":"ml"},
+    {"name":"light soy sauce","qty":45,"unit":"ml"},
+    {"name":"toasted sesame oil","qty":15,"unit":"ml"},
+    {"name":"brown sugar","qty":18,"unit":"g"},
+    {"name":"fresh ginger, grated","qty":15,"unit":"g"},
+    {"name":"garlic, grated","qty":12,"unit":"g"},
+    {"name":"warm water","qty":140,"unit":"ml"},
+    {"name":"red bell pepper, thinly sliced","qty":180,"unit":"g"},
+    {"name":"carrot, julienned","qty":160,"unit":"g"},
+    {"name":"cucumber, julienned","qty":180,"unit":"g"},
+    {"name":"spring onion, sliced","qty":70,"unit":"g"},
+    {"name":"fresh coriander leaves","qty":25,"unit":"g"},
+    {"name":"roasted peanuts, chopped","qty":45,"unit":"g"},
+    {"name":"lime wedges","qty":100,"unit":"g"}
+  ],
+  "steps":[
+    "Cook or soak the rice noodles as their package directs until flexible and just tender. Drain, rinse briefly with cool water and shake off excess moisture; overcooked noodles will break when tossed.",
+    "Whisk peanut butter, lime juice, soy sauce, sesame oil, brown sugar, grated ginger and garlic. Add the measured 140 ml warm water in stages, whisking until the sauce is smooth, creamy and pourable. Taste for a clear balance of salty, sour and sweet.",
+    "Cut red bell pepper into thin strips and carrot and cucumber into fine matchsticks. Slice spring onion, pick coriander leaves, chop roasted peanuts and cut lime into wedges. Keep these vegetables raw so they contrast with the soft noodles.",
+    "Place drained noodles in a large bowl. Add about two-thirds of the sauce and lift with tongs until strands are evenly coated. If noodles absorb the sauce, add a little more, reserving enough to drizzle at serving.",
+    "Divide among four bowls. Arrange pepper, carrot and cucumber over the noodles; scatter spring onion, coriander and chopped peanuts. Drizzle remaining sauce and serve with lime wedges to squeeze at the table."
+  ],
+  "tips":["This is a Thai-inspired peanut noodle bowl, not a claim of traditional pad Thai. The reviewed photo shows peanut-coated rice noodles with red pepper, carrot, cucumber, scallion, coriander, peanuts and lime."],
+  "translations":{
+    "hi":{"name":"थाई पीनट नूडल्स","ingredients":["सूखे बिना अंडे के चावल नूडल्स","चिकना बिना चीनी का पीनट बटर","नींबू का रस","हल्का सोया सॉस","भुने तिल का तेल","ब्राउन शुगर","ताज़ा अदरक, कद्दूकस","लहसुन, कद्दूकस","गुनगुना पानी","लाल शिमला मिर्च, पतली कटी","गाजर, बारीक लंबी कटी","खीरा, बारीक लंबा कटा","हरा प्याज़, कटा","ताज़ा हरा धनिया","भुनी मूँगफली, कटी","नींबू की फाँकें"],
+      "steps":[
+        "चावल नूडल्स पैक के निर्देश अनुसार पकाएँ या भिगोएँ, जब तक लचीले और बस नरम हों। छानकर ठंडे पानी से थोड़ा धोएँ और अतिरिक्त पानी झटकें; ज़्यादा पके नूडल्स मिलाने पर टूटेंगे।",
+        "पीनट बटर, नींबू रस, सोया सॉस, तिल का तेल, ब्राउन शुगर, कद्दूकस अदरक और लहसुन फेंटें। नापा 140 मिली गुनगुना पानी थोड़ा-थोड़ा डालकर चिकनी, मलाईदार और बहने योग्य चटनी बनाएँ। नमकीन, खट्टे और मीठे का संतुलन चखें।",
+        "लाल शिमला मिर्च पतली, गाजर और खीरा बारीक लंबी तीलियों में काटें। हरा प्याज़ काटें, धनिया पत्ते चुनें, भुनी मूँगफली काटें और नींबू फाँकों में काटें। इन सब्ज़ियों को कच्चा रखें ताकि नरम नूडल्स से अलग कुरकुरापन मिले।",
+        "छाने नूडल्स बड़े कटोरे में रखें। लगभग दो-तिहाई सॉस डालकर चिमटे से उठाएँ और हर नूडल पर चढ़ाएँ। नूडल्स सॉस सोख लें तो थोड़ा और डालें, कुछ परोसते समय डालने के लिए बचाएँ।",
+        "चार बाउल में बाँटें। ऊपर शिमला मिर्च, गाजर और खीरा सजाएँ; हरा प्याज़, धनिया और कटी मूँगफली छिड़कें। बचा सॉस डालें और साथ में नींबू की फाँकें दें।"
+      ],
+      "tips":["यह थाई-प्रेरित पीनट नूडल बाउल है, पारंपरिक पैड थाई नहीं। समीक्षित तस्वीर में पीनट सॉस वाले चावल नूडल्स, लाल शिमला मिर्च, गाजर, खीरा, हरा प्याज़, धनिया, मूँगफली और नींबू हैं।"]},
+    "gu":{"name":"થાઈ પીનટ નૂડલ્સ","ingredients":["સૂકા ઈંડા વગરના ચોખાના નૂડલ્સ","સુંવાળું ખાંડ વગરનું પીનટ બટર","લીંબુનો રસ","હળવો સોયા સોસ","શેકેલા તલનું તેલ","બ્રાઉન સુગર","તાજું આદુ, છીણેલું","લસણ, છીણેલું","હૂંફાળું પાણી","લાલ કેપ્સિકમ, પાતળું કાપેલું","ગાજર, ઝીણી લાંબી કાપેલી","કાકડી, ઝીણી લાંબી કાપેલી","લીલી ડુંગળી, સમારેલી","તાજી કોથમીરનાં પાન","શેકેલી મગફળી, સમારેલી","લીંબુની ફાંકો"],
+      "steps":[
+        "ચોખાના નૂડલ્સ પેક પ્રમાણે રાંધો કે પલાળો, જેથી લચીલા અને માત્ર નરમ થાય. નિતારી થોડા ઠંડા પાણીથી ધોઈ વધારાનું પાણી ઝાટકો; વધારે રાંધેલા નૂડલ્સ ભેળવતાં તૂટશે.",
+        "પીનટ બટર, લીંબુનો રસ, સોયા સોસ, તલનું તેલ, બ્રાઉન સુગર, છીણેલું આદુ અને લસણ ફેંટો. માપેલું 140 મિલી હૂંફાળું પાણી થોડું થોડું નાખી સુંવાળો, મલાઈદાર અને રેડી શકાય એવો સોસ બનાવો. ખારું, ખાટું અને મીઠું સંતુલિત છે તે ચાખો.",
+        "લાલ કેપ્સિકમ પાતળું, ગાજર અને કાકડી ઝીણી લાંબી સળીઓમાં કાપો. લીલી ડુંગળી સમારો, કોથમીરનાં પાન ચૂંટો, શેકેલી મગફળી સમારો અને લીંબુની ફાંકો કરો. નરમ નૂડલ્સથી વિરુદ્ધ કરકરાપણું રહે તે માટે શાક કાચાં રાખો.",
+        "નિતારેલા નૂડલ્સ મોટી વાટકીમાં મૂકો. લગભગ બે-તૃતીયાંશ સોસ નાખી ચીપિયાથી ઊંચકી દરેક નૂડલ પર ચડાવો. નૂડલ્સ સોસ શોષે તો થોડો વધુ નાખો, પીરસવા માટે થોડો સાચવો.",
+        "ચાર બાઉલમાં વહેંચો. ઉપર કેપ્સિકમ, ગાજર અને કાકડી ગોઠવો; લીલી ડુંગળી, કોથમીર અને સમારેલી મગફળી છાંટો. બાકી સોસ રેડો અને સાથે લીંબુની ફાંકો આપો."
+      ],
+      "tips":["આ થાઈ-પ્રેરિત પીનટ નૂડલ બાઉલ છે, પરંપરાગત પાડ થાઈ નથી. તપાસેલા ફોટામાં પીનટ સોસવાળા ચોખાના નૂડલ્સ, લાલ કેપ્સિકમ, ગાજર, કાકડી, લીલી ડુંગળી, કોથમીર, મગફળી અને લીંબુ છે."]}
+  },
+  "reference":{"url":"https://www.loveandlemons.com/peanut-noodles/","use":"Cold peanut noodle sauce and vegetable assembly; Thai-inspired quantities and wording independently authored for reviewed photo."}
+}

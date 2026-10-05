@@ -9741,5 +9741,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "drunken-noodles": {
+    "name": "Drunken Noodles",
+    "src": "/photos/drunken-noodles-1200.webp",
+    "small": "/photos/drunken-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Drunken Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Drunken Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "pad-woon-sen": {
+    "name": "Pad Woon Sen",
+    "src": "/photos/pad-woon-sen-1200.webp",
+    "small": "/photos/pad-woon-sen-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Pad Woon Sen served ready to eat",
+    "kind": "generated",
+    "title": "Pad Woon Sen",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "thai-peanut-noodles": {
+    "name": "Thai Peanut Noodles",
+    "src": "/photos/thai-peanut-noodles-1200.webp",
+    "small": "/photos/thai-peanut-noodles-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Thai Peanut Noodles served ready to eat",
+    "kind": "generated",
+    "title": "Thai Peanut Noodles",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }
