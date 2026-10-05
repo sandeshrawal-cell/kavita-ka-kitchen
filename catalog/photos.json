@@ -9517,5 +9517,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "cauliflower-shawarma": {
+    "name": "Cauliflower Shawarma",
+    "src": "/photos/cauliflower-shawarma-1200.webp",
+    "small": "/photos/cauliflower-shawarma-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Cauliflower Shawarma served ready to eat",
+    "kind": "generated",
+    "title": "Cauliflower Shawarma",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }

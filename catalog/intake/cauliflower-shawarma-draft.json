@@ -1,0 +1,64 @@
+{
+  "sourceReviewId": "R0167",
+  "id": "cauliflower-shawarma",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Cauliflower Shawarma",
+  "cuisine": "Middle Eastern",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {"name": "cauliflower florets", "qty": 700, "unit": "g"},
+    {"name": "red onion", "qty": 180, "unit": "g"},
+    {"name": "soft pita flatbreads (4 pieces)", "qty": 280, "unit": "g"},
+    {"name": "cucumber, diced", "qty": 140, "unit": "g"},
+    {"name": "tomato, diced", "qty": 140, "unit": "g"},
+    {"name": "tahini", "qty": 90, "unit": "g"},
+    {"name": "lemon juice", "qty": 45, "unit": "ml"},
+    {"name": "water", "qty": 80, "unit": "ml"},
+    {"name": "olive oil", "qty": 40, "unit": "ml"},
+    {"name": "ground cumin", "qty": 5, "unit": "g"},
+    {"name": "ground coriander", "qty": 4, "unit": "g"},
+    {"name": "smoked paprika", "qty": 5, "unit": "g"},
+    {"name": "garlic, minced", "qty": 8, "unit": "g"},
+    {"name": "fine salt", "qty": 7, "unit": "g"},
+    {"name": "vinegar", "qty": 50, "unit": "ml"},
+    {"name": "sugar", "qty": 8, "unit": "g"},
+    {"name": "fresh parsley, chopped", "qty": 20, "unit": "g"}
+  ],
+  "steps": [
+    "Heat the oven to 220°C and line a large baking tray. Cut 100 g red onion into wedges and the remaining 80 g into thin slices. Combine the thin slices with vinegar, sugar and 1 g salt; massage briefly and leave to quick-pickle while the cauliflower roasts.",
+    "Dry the cauliflower florets well. Toss them and the onion wedges with 30 ml olive oil, cumin, ground coriander, smoked paprika and 4 g salt. Spread in one layer on the hot tray and roast for 25–30 minutes, turning once, until tender with deeply browned edges; crowding the tray will steam the vegetables.",
+    "Whisk tahini with 30 ml lemon juice, minced garlic, 2 g salt and the water, adding the water gradually until a pourable sauce forms. Mix the diced cucumber and tomato with the remaining 15 ml lemon juice, 10 ml olive oil and half the parsley. Drain the pickled onion slices.",
+    "Warm the four pita flatbreads for 2 minutes in the oven or briefly in a dry pan so they bend easily. Divide the roasted cauliflower and onion wedges among the breads. Add the cucumber-tomato salad and a small tangle of drained pink pickled onion to each.",
+    "Spoon the tahini sauce over the filling and scatter the remaining parsley. Fold the pitas around the cauliflower and serve immediately while the roasted florets are hot and the salad crisp. The cauliflower should remain visible as the main filling."
+  ],
+  "tips": ["Dry cauliflower and use a large hot tray for browned rather than steamed florets. The reviewed photo shows spiced roasted cauliflower as the dominant filling in soft pita with roasted and pickled onion, cucumber, tomato, parsley and pale tahini sauce."],
+  "translations": {
+    "hi": {
+      "name": "फूलगोभी शावरमा",
+      "ingredients": ["फूलगोभी के फूल", "लाल प्याज़", "नरम पीटा फ्लैटब्रेड (4 नग)", "खीरा, छोटे टुकड़ों में", "टमाटर, छोटे टुकड़ों में", "ताहिनी", "नींबू का रस", "पानी", "जैतून का तेल", "पिसा जीरा", "पिसा धनिया", "स्मोक्ड पैप्रिका", "लहसुन, बारीक कटा", "बारीक नमक", "सिरका", "चीनी", "ताज़ा कटा पार्सले"],
+      "steps": [
+        "ओवन 220°C पर गरम करें और बड़ी बेकिंग ट्रे पर पेपर बिछाएँ। 100 ग्राम लाल प्याज़ के बड़े टुकड़े और बचा 80 ग्राम पतले स्लाइस करें। पतले स्लाइस में सिरका, चीनी और 1 ग्राम नमक मिलाकर हल्का मलें; फूलगोभी भुनने के दौरान जल्दी अचार बनने दें।",
+        "फूलगोभी के फूल अच्छी तरह सुखाएँ। उन्हें प्याज़ के बड़े टुकड़ों, 30 मिली जैतून तेल, जीरा, पिसा धनिया, स्मोक्ड पैप्रिका और 4 ग्राम नमक के साथ मिलाएँ। गरम ट्रे पर एक परत में फैलाकर 25–30 मिनट भूनें, बीच में एक बार पलटें, जब तक नरम और किनारे गहरे भूरे हों; ट्रे भर देने से सब्ज़ी भुनेगी नहीं, भाप में पकेगी।",
+        "ताहिनी में 30 मिली नींबू रस, बारीक लहसुन, 2 ग्राम नमक और पानी थोड़ा-थोड़ा डालकर डालने योग्य सॉस फेंटें। कटे खीरा-टमाटर को बचा 15 मिली नींबू रस, 10 मिली जैतून तेल और आधे पार्सले के साथ मिलाएँ। अचार प्याज़ का पानी निकालें।",
+        "चार पीटा फ्लैटब्रेड ओवन में 2 मिनट या सूखे पैन में थोड़ी देर गरम करें ताकि आसानी से मुड़ें। भुनी फूलगोभी और प्याज़ के बड़े टुकड़े चारों ब्रेड में बाँटें। हर एक में खीरा-टमाटर सलाद और थोड़ा छाना गुलाबी अचार प्याज़ डालें।",
+        "ऊपर ताहिनी सॉस डालें और बचा पार्सले छिड़कें। पीटा को फूलगोभी के चारों ओर मोड़कर तुरंत परोसें, जब भुने फूल गरम और सलाद कुरकुरा हो। फूलगोभी मुख्य भरावन के रूप में साफ़ दिखनी चाहिए।"
+      ],
+      "tips": ["फूलगोभी सुखाएँ और बड़ी गरम ट्रे लें ताकि फूल भाप में पकने के बजाय भूरे भुनें। समीक्षित तस्वीर में नरम पीटा में मसालेदार भुनी फूलगोभी मुख्य भरावन है, साथ भुना और अचार प्याज़, खीरा, टमाटर, पार्सले और हल्की ताहिनी सॉस है।"]
+    },
+    "gu": {
+      "name": "ફૂલકોબી શાવર્મા",
+      "ingredients": ["ફૂલકોબીનાં ફૂલ", "લાલ ડુંગળી", "નરમ પિતા ફ્લેટબ્રેડ (4 નંગ)", "કાકડી, નાના કટકા", "ટામેટાં, નાના કટકા", "તાહિની", "લીંબુનો રસ", "પાણી", "ઓલિવ તેલ", "જીરું પાઉડર", "ધાણા પાઉડર", "સ્મોક્ડ પેપ્રિકા", "લસણ, ઝીણું સમારેલું", "બારીક મીઠું", "વિનેગર", "ખાંડ", "તાજી સમારેલી પાર્સલી"],
+      "steps": [
+        "ઓવન 220°C પર ગરમ કરો અને મોટી બેકિંગ ટ્રેમાં પેપર પાથરો. 100 ગ્રામ લાલ ડુંગળીના મોટા ટુકડા અને બાકી 80 ગ્રામ પાતળી ચીરી કરો. પાતળી ચીરીમાં વિનેગર, ખાંડ અને 1 ગ્રામ મીઠું ભેળવી સહેજ મસળો; ફૂલકોબી શેકાય ત્યાં સુધી ઝડપથી અથાણું થવા દો.",
+        "ફૂલકોબીનાં ફૂલ સારી રીતે કોરાં કરો. તેને ડુંગળીના મોટા ટુકડા, 30 મિલી ઓલિવ તેલ, જીરું, ધાણા પાઉડર, સ્મોક્ડ પેપ્રિકા અને 4 ગ્રામ મીઠા સાથે ભેળવો. ગરમ ટ્રેમાં એક પડમાં પાથરી 25–30 મિનિટ શેકો, વચ્ચે એક વાર ફેરવો, જેથી નરમ અને ધાર ઘેરી બદામી થાય; ટ્રે ભરી દેવાથી શાક શેકાવાને બદલે વરાળમાં રંધાશે.",
+        "તાહિનીને 30 મિલી લીંબુનો રસ, ઝીણા લસણ, 2 ગ્રામ મીઠા અને પાણી સાથે ફેંટો, પાણી થોડું થોડું ઉમેરો જેથી રેડી શકાય એવી સોસ બને. સમારેલી કાકડી-ટામેટાંમાં બાકી 15 મિલી લીંબુનો રસ, 10 મિલી ઓલિવ તેલ અને અડધી પાર્સલી ભેળવો. અથાણાંવાળી ડુંગળીનું પાણી નિતારો.",
+        "ચાર પિતા ફ્લેટબ્રેડને ઓવનમાં 2 મિનિટ અથવા સૂકી કડાઈમાં સહેજ ગરમ કરો જેથી સરળતાથી વળે. શેકેલી ફૂલકોબી અને ડુંગળીના મોટા ટુકડા ચારેય બ્રેડમાં વહેંચો. દરેકમાં કાકડી-ટામેટાંનો સલાડ અને થોડી નિતારેલી ગુલાબી અથાણાંવાળી ડુંગળી મૂકો.",
+        "ઉપર તાહિની સોસ રેડી બાકી પાર્સલી છાંટો. પિતાને ફૂલકોબીની આસપાસ વાળી તરત પીરસો જ્યારે શેકેલાં ફૂલ ગરમ અને સલાડ કરકરો હોય. ફૂલકોબી મુખ્ય પૂરણ તરીકે સ્પષ્ટ દેખાવા જોઈએ."
+      ],
+      "tips": ["ફૂલકોબી કોરી કરો અને મોટી ગરમ ટ્રે લો જેથી ફૂલ વરાળમાં રંધાવાને બદલે બદામી શેકાય. તપાસેલા ફોટામાં નરમ પિતામાં મસાલેદાર શેકેલી ફૂલકોબી મુખ્ય પૂરણ છે, સાથે શેકેલી અને અથાણાંવાળી ડુંગળી, કાકડી, ટામેટાં, પાર્સલી અને ફિક્કી તાહિની સોસ છે."]
+    }
+  },
+  "reference": {"url": "https://www.amostrust.org/palestine-justice/get-involved/palestine-supper-clubs/2026-palestine-supper-club-recipes/sami-tamimi-s-cauliflower-shawarma/", "use": "Spiced roasted cauliflower in flatbread with tahini and pickles; quantities, quick-pickle details and wording independently authored."}
+}
