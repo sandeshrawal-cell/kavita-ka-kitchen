@@ -9789,5 +9789,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "mee-goreng": {
+    "name": "Mee Goreng",
+    "src": "/photos/mee-goreng-1200.webp",
+    "small": "/photos/mee-goreng-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Mee Goreng served ready to eat",
+    "kind": "generated",
+    "title": "Mee Goreng",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "atho": {
+    "name": "Atho",
+    "src": "/photos/atho-1200.webp",
+    "small": "/photos/atho-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Atho served ready to eat",
+    "kind": "generated",
+    "title": "Atho",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "general-tso-s-tofu": {
+    "name": "General Tso's Tofu",
+    "src": "/photos/general-tso-s-tofu-1200.webp",
+    "small": "/photos/general-tso-s-tofu-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "General Tso's Tofu served ready to eat",
+    "kind": "generated",
+    "title": "General Tso's Tofu",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }
