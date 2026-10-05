@@ -9469,5 +9469,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "cheese-and-onion-pie": {
+    "name": "Cheese and Onion Pie",
+    "src": "/photos/cheese-and-onion-pie-1200.webp",
+    "small": "/photos/cheese-and-onion-pie-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Cheese and Onion Pie served ready to eat",
+    "kind": "generated",
+    "title": "Cheese and Onion Pie",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
