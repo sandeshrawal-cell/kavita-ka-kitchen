@@ -9693,5 +9693,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "yakisoba": {
+    "name": "Yakisoba",
+    "src": "/photos/yakisoba-1200.webp",
+    "small": "/photos/yakisoba-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Yakisoba served ready to eat",
+    "kind": "generated",
+    "title": "Yakisoba",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "bibim-guksu": {
+    "name": "Bibim Guksu",
+    "src": "/photos/bibim-guksu-1200.webp",
+    "small": "/photos/bibim-guksu-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Bibim Guksu served ready to eat",
+    "kind": "generated",
+    "title": "Bibim Guksu",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "vegetarian-pad-see-ew": {
+    "name": "Vegetarian Pad See Ew",
+    "src": "/photos/vegetarian-pad-see-ew-1200.webp",
+    "small": "/photos/vegetarian-pad-see-ew-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Vegetarian Pad See Ew served ready to eat",
+    "kind": "generated",
+    "title": "Vegetarian Pad See Ew",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

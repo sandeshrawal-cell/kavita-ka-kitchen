@@ -1,0 +1,46 @@
+{
+  "sourceReviewId":"R0179","id":"bibim-guksu","status":"draft-photo-and-translation-reviewed","name":"Bibim Guksu","cuisine":"Korean","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":25,
+  "ingredients":[
+    {"name":"dry egg-free somyeon wheat noodles","qty":360,"unit":"g"},
+    {"name":"vegetarian kimchi, finely chopped","qty":240,"unit":"g"},
+    {"name":"vegetarian kimchi brine","qty":80,"unit":"ml"},
+    {"name":"gochujang","qty":90,"unit":"g"},
+    {"name":"rice vinegar","qty":35,"unit":"ml"},
+    {"name":"light soy sauce","qty":20,"unit":"ml"},
+    {"name":"toasted sesame oil","qty":25,"unit":"ml"},
+    {"name":"sugar","qty":18,"unit":"g"},
+    {"name":"garlic, finely grated","qty":12,"unit":"g"},
+    {"name":"cucumber, julienned","qty":240,"unit":"g"},
+    {"name":"spring onion, thinly sliced","qty":60,"unit":"g"},
+    {"name":"toasted sesame seeds","qty":18,"unit":"g"}
+  ],
+  "steps":[
+    "Read the kimchi label and choose one made without fish sauce, shrimp or other animal ingredients. Chop it finely and save 80 ml of its brine. Whisk kimchi, brine, gochujang, rice vinegar, soy sauce, sesame oil, sugar and garlic in a large bowl until the paste disperses evenly.",
+    "Julienne the cucumber into thin crisp sticks, slice spring onion and toast sesame seeds if needed. Put serving bowls in the refrigerator so the finished dish stays cool.",
+    "Bring a large pot of water to a rolling boil. Cook the egg-free somyeon noodles according to the pack, usually 3–4 minutes, stirring so they do not stick. Taste a strand: it should be cooked but still pleasantly chewy.",
+    "Immediately drain the noodles and rinse under cold running water, rubbing gently with your hands until they are cool and no longer starchy. Drain very thoroughly; trapped water would weaken the sauce.",
+    "Add the cold noodles to the kimchi-gochujang sauce and toss until every strand is red and coated. Divide among four chilled bowls, pile cucumber on top, and finish with spring onion and sesame seeds. Serve immediately before the noodles soften."
+  ],
+  "tips":["Most kimchi contains fish sauce or salted shrimp; use a clearly vegetarian version. The reviewed photograph shows red-coated thin noodles, cucumber, scallions and sesame, with vegetarian kimchi at the side and no egg."],
+  "translations":{
+    "hi":{"name":"बिबिम गुक्सु","ingredients":["सूखे बिना अंडे के सोम्योन गेहूँ नूडल्स","शाकाहारी किमची, बारीक कटी","शाकाहारी किमची का रस","गोचुजांग","राइस विनेगर","हल्का सोया सॉस","भुने तिल का तेल","चीनी","लहसुन, बारीक कद्दूकस","खीरा, बारीक लंबा कटा","हरा प्याज़, पतला कटा","भुने तिल"],
+      "steps":[
+        "किमची के पैक पर जाँचें कि उसमें फिश सॉस, झींगा या कोई पशु सामग्री न हो। बारीक काटें और 80 मिली रस बचाएँ। बड़े कटोरे में किमची, उसका रस, गोचुजांग, राइस विनेगर, सोया सॉस, तिल का तेल, चीनी और लहसुन फेंटें ताकि पेस्ट बराबर घुले।",
+        "खीरे की पतली कुरकुरी तीलियाँ काटें, हरा प्याज़ काटें और ज़रूरत हो तो तिल भूनें। परोसने के बाउल फ्रिज में रखें ताकि तैयार व्यंजन ठंडा रहे।",
+        "बड़े बर्तन में पानी तेज़ उबालें। बिना अंडे वाले सोम्योन नूडल्स पैक अनुसार, आमतौर पर 3–4 मिनट, चलाते हुए पकाएँ ताकि चिपकें नहीं। एक नूडल चखें: पका हो पर हल्का चबाने योग्य रहे।",
+        "नूडल्स तुरंत छानकर ठंडे बहते पानी से धोएँ, हाथों से हल्के रगड़ें ताकि ठंडे और बिना स्टार्च के हों। बहुत अच्छी तरह छानें; फँसा पानी सॉस को फीका करेगा।",
+        "ठंडे नूडल्स किमची-गोचुजांग सॉस में डालकर हर नूडल लाल और लिपटा होने तक मिलाएँ। चार ठंडे बाउल में बाँटें, ऊपर खीरा सजाएँ और हरा प्याज़ व तिल छिड़कें। नूडल्स नरम होने से पहले तुरंत परोसें।"
+      ],
+      "tips":["अधिकतर किमची में फिश सॉस या नमकीन झींगा होता है; साफ़ शाकाहारी रूप लें। समीक्षित तस्वीर में लाल सॉस वाले पतले नूडल्स, खीरा, हरा प्याज़ और तिल हैं; शाकाहारी किमची किनारे है और अंडा नहीं।"]},
+    "gu":{"name":"બિબિમ ગુક્સુ","ingredients":["સૂકા ઈંડા વગરના સોમ્યોન ઘઉંના નૂડલ્સ","શાકાહારી કિમચી, ઝીણી સમારેલી","શાકાહારી કિમચીનો રસ","ગોચુજાંગ","રાઇસ વિનેગર","હળવો સોયા સોસ","શેકેલા તલનું તેલ","ખાંડ","લસણ, ઝીણું છીણેલું","કાકડી, ઝીણી લાંબી કાપેલી","લીલી ડુંગળી, પાતળી સમારેલી","શેકેલા તલ"],
+      "steps":[
+        "કિમચીના પેક પર માછલીની ચટણી, ઝીંગા કે અન્ય પ્રાણીજન્ય સામગ્રી નથી તે તપાસો. ઝીણી સમારો અને 80 મિલી રસ સાચવો. મોટી વાટકીમાં કિમચી, તેનો રસ, ગોચુજાંગ, રાઇસ વિનેગર, સોયા સોસ, તલનું તેલ, ખાંડ અને લસણ ફેંટો જેથી પેસ્ટ સરખી ઓગળે.",
+        "કાકડીની ઝીણી કરકરી સળીઓ કાપો, લીલી ડુંગળી સમારો અને જરૂરી હોય તો તલ શેકો. પીરસવાની વાટકીઓ ફ્રિજમાં રાખો જેથી તૈયાર વાનગી ઠંડી રહે.",
+        "મોટા વાસણમાં પાણી જોરથી ઉકાળો. ઈંડા વગરના સોમ્યોન નૂડલ્સ પેક પ્રમાણે, સામાન્ય રીતે 3–4 મિનિટ, ચોંટે નહીં એમ હલાવી રાંધો. એક નૂડલ ચાખો: રંધાયેલો પણ થોડો ચાવી શકાય એવો રહે.",
+        "નૂડલ્સ તરત નિતારી ઠંડા વહેતા પાણીમાં ધુઓ અને હાથથી હળવે ઘસો જેથી ઠંડા અને સ્ટાર્ચ વગરના થાય. બહુ સારી રીતે નિતારો; રહેલું પાણી સોસ પાતળો કરશે.",
+        "ઠંડા નૂડલ્સ કિમચી-ગોચુજાંગ સોસમાં નાખી દરેક નૂડલ લાલ અને સોસથી ઢંકાય ત્યાં સુધી ભેળવો. ચાર ઠંડા બાઉલમાં વહેંચી ઉપર કાકડી ગોઠવો, લીલી ડુંગળી અને તલ છાંટો. નૂડલ્સ પોચા થાય તે પહેલાં તરત પીરસો."
+      ],
+      "tips":["મોટાભાગની કિમચીમાં માછલીની ચટણી અથવા ખારા ઝીંગા હોય છે; સ્પષ્ટ શાકાહારી રૂપ લો. તપાસેલા ફોટામાં લાલ સોસવાળા પાતળા નૂડલ્સ, કાકડી, લીલી ડુંગળી અને તલ છે; બાજુમાં શાકાહારી કિમચી છે, ઈંડું નથી."]}
+  },
+  "reference":{"url":"https://www.maangchi.com/recipe/bibim-guksu","use":"Cold spicy Korean noodle technique; egg-free vegetarian kimchi version, quantities and wording independently authored."}
+}

@@ -1,0 +1,50 @@
+{
+  "sourceReviewId":"R0178","id":"yakisoba","status":"draft-photo-and-translation-reviewed","name":"Vegetable Yakisoba","cuisine":"Japanese","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":35,
+  "ingredients":[
+    {"name":"steamed egg-free yakisoba wheat noodles","qty":600,"unit":"g"},
+    {"name":"firm tofu, drained and sliced","qty":240,"unit":"g"},
+    {"name":"cabbage, bite-sized pieces","qty":260,"unit":"g"},
+    {"name":"carrot, thin matchsticks","qty":130,"unit":"g"},
+    {"name":"green bell pepper, sliced","qty":140,"unit":"g"},
+    {"name":"shiitake mushrooms, sliced","qty":140,"unit":"g"},
+    {"name":"bean sprouts","qty":130,"unit":"g"},
+    {"name":"spring onions, sliced","qty":75,"unit":"g"},
+    {"name":"vegetarian Worcestershire sauce","qty":65,"unit":"ml"},
+    {"name":"tomato ketchup","qty":35,"unit":"g"},
+    {"name":"vegetarian mushroom stir-fry sauce","qty":25,"unit":"ml"},
+    {"name":"light soy sauce","qty":20,"unit":"ml"},
+    {"name":"sugar","qty":8,"unit":"g"},
+    {"name":"neutral oil","qty":35,"unit":"ml"},
+    {"name":"red pickled ginger, drained","qty":35,"unit":"g"},
+    {"name":"water","qty":45,"unit":"ml"}
+  ],
+  "steps":[
+    "Whisk vegetarian Worcestershire, ketchup, mushroom stir-fry sauce, soy sauce and sugar until smooth. Confirm the Worcestershire and mushroom sauce contain no anchovy or oyster. Prepare the cabbage, carrot, pepper, mushrooms, sprouts and onions before heating the pan.",
+    "Pat tofu dry. Heat 15 ml of the oil in a large skillet over medium-high heat and sear tofu strips for 2–3 minutes per side until golden. Remove to a plate.",
+    "Heat the remaining 20 ml oil in the same pan. Stir-fry mushrooms and the white parts of the onions for 2 minutes. Add carrot, pepper and cabbage and cook 3–4 minutes until just tender. Add sprouts and stir for 1 minute.",
+    "Loosen the steamed egg-free noodles by hand and add them with the measured 45 ml water. Cover for 1 minute to steam, then lift and separate with tongs. Return the tofu and pour in the prepared sauce; stir-fry 2–3 minutes until noodles are hot and evenly glossy with some browned edges.",
+    "Divide among four plates. Scatter the green onion over the top and serve the drained red pickled ginger to the side. Eat promptly while noodles are springy and vegetables retain bite."
+  ],
+  "tips":["Packaged yakisoba noodles and Worcestershire can contain egg or fish; choose labelled egg-free and vegetarian products. The reviewed photo shows noodles, tofu, cabbage, carrot, green pepper, shiitake, sprouts and red pickled ginger."],
+  "translations":{
+    "hi":{"name":"वेजिटेबल याकिसोबा","ingredients":["भाप में पके बिना अंडे के याकिसोबा गेहूँ नूडल्स","सख्त टोफू, छानकर कटा","पत्तागोभी, खाने योग्य टुकड़े","गाजर, पतली तीलियाँ","हरी शिमला मिर्च, कटी","शीताके मशरूम, कटे","बीन स्प्राउट्स","हरा प्याज़, कटा","शाकाहारी वूस्टरशायर सॉस","टमाटर केचप","शाकाहारी मशरूम स्टिर-फ्राय सॉस","हल्का सोया सॉस","चीनी","हल्का स्वाद वाला तेल","लाल अचार अदरक, छाना हुआ","पानी"],
+      "steps":[
+        "शाकाहारी वूस्टरशायर, केचप, मशरूम स्टिर-फ्राय सॉस, सोया सॉस और चीनी चिकने होने तक फेंटें। जाँचें कि वूस्टरशायर और मशरूम सॉस में ऐन्कोवी या ऑयस्टर न हों। पैन गरम करने से पहले पत्तागोभी, गाजर, मिर्च, मशरूम, स्प्राउट्स और प्याज़ काटें।",
+        "टोफू सुखाएँ। बड़े पैन में 15 मिली तेल मध्यम-तेज़ आँच पर गरम करके टोफू की हर तरफ़ 2–3 मिनट सुनहरा सेंकें। प्लेट में निकालें।",
+        "उसी पैन में बचा 20 मिली तेल गरम करें। मशरूम और हरे प्याज़ का सफेद भाग 2 मिनट भूनें। गाजर, शिमला मिर्च और पत्तागोभी डालकर 3–4 मिनट बस नरम होने तक पकाएँ। स्प्राउट्स डालकर 1 मिनट चलाएँ।",
+        "भाप में पके बिना अंडे वाले नूडल्स हाथ से अलग करें और नापा 45 मिली पानी के साथ डालें। 1 मिनट ढककर भाप दें, फिर चिमटे से अलग करें। टोफू वापस डालें और तैयार सॉस डालकर 2–3 मिनट भूनें, जब तक नूडल्स गरम, बराबर चमकदार और कहीं-कहीं भूरे हों।",
+        "चार प्लेटों में बाँटें। ऊपर हरा प्याज़ छिड़कें और छाना लाल अचार अदरक किनारे रखें। नूडल्स लचीले और सब्ज़ियाँ हल्की कुरकुरी हों तब तुरंत खाएँ।"
+      ],
+      "tips":["पैक वाले याकिसोबा नूडल्स और वूस्टरशायर में अंडा या मछली हो सकती है; बिना अंडे और शाकाहारी उत्पाद चुनें। समीक्षित तस्वीर में नूडल्स, टोफू, पत्तागोभी, गाजर, हरी मिर्च, शीताके, स्प्राउट्स और लाल अचार अदरक हैं।"]},
+    "gu":{"name":"વેજિટેબલ યાકિસોબા","ingredients":["વરાળે રાંધેલા ઈંડા વગરના યાકિસોબા ઘઉંના નૂડલ્સ","મજબૂત ટોફુ, નિતારી કાપેલું","કોબી, ખાઈ શકાય એવા ટુકડા","ગાજર, પાતળી સળીઓ","લીલું કેપ્સિકમ, કાપેલું","શીતાકે મશરૂમ, કાપેલાં","બીન સ્પ્રાઉટ્સ","લીલી ડુંગળી, સમારેલી","શાકાહારી વુસ્ટરશાયર સોસ","ટમેટાંનો કેચપ","શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ","હળવો સોયા સોસ","ખાંડ","હળવા સ્વાદનું તેલ","લાલ અથાણાંવાળું આદુ, નિતારેલું","પાણી"],
+      "steps":[
+        "શાકાહારી વુસ્ટરશાયર, કેચપ, મશરૂમ સ્ટિર-ફ્રાય સોસ, સોયા સોસ અને ખાંડ સુંવાળું થાય ત્યાં સુધી ફેંટો. વુસ્ટરશાયર અને મશરૂમ સોસમાં માછલી કે ઓઇસ્ટર નથી તે તપાસો. કડાઈ ગરમ કરતાં પહેલાં કોબી, ગાજર, કેપ્સિકમ, મશરૂમ, સ્પ્રાઉટ્સ અને ડુંગળી તૈયાર કરો.",
+        "ટોફુ સૂકવો. મોટી કડાઈમાં 15 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરી ટોફુની દરેક બાજુ 2–3 મિનિટ સોનેરી શેકો. પ્લેટમાં કાઢો.",
+        "એ જ કડાઈમાં બાકી 20 મિલી તેલ ગરમ કરો. મશરૂમ અને લીલી ડુંગળીનો સફેદ ભાગ 2 મિનિટ શેકો. ગાજર, કેપ્સિકમ અને કોબી નાખી 3–4 મિનિટ માત્ર નરમ થાય ત્યાં સુધી રાંધો. સ્પ્રાઉટ્સ નાખી 1 મિનિટ હલાવો.",
+        "વરાળે રાંધેલા ઈંડા વગરના નૂડલ્સ હાથથી છૂટા કરો અને માપેલા 45 મિલી પાણી સાથે નાખો. 1 મિનિટ ઢાંકી વરાળ આપો, પછી ચીપિયાથી છૂટા કરો. ટોફુ પાછું નાખો અને તૈયાર સોસ રેડી 2–3 મિનિટ શેકો, જેથી નૂડલ્સ ગરમ, સરખા ચમકદાર અને થોડા બદામી થાય.",
+        "ચાર પ્લેટમાં વહેંચો. ઉપર લીલી ડુંગળી છાંટો અને નિતારેલું લાલ અથાણાંવાળું આદુ બાજુમાં આપો. નૂડલ્સ લચીલા અને શાક થોડાં કરકરાં હોય ત્યારે તરત ખાઓ."
+      ],
+      "tips":["પેકના યાકિસોબા નૂડલ્સ અને વુસ્ટરશાયરમાં ઈંડું કે માછલી હોઈ શકે; ઈંડા વગરના અને શાકાહારી પદાર્થો લો. તપાસેલા ફોટામાં નૂડલ્સ, ટોફુ, કોબી, ગાજર, લીલું કેપ્સિકમ, શીતાકે, સ્પ્રાઉટ્સ અને લાલ અથાણાંવાળું આદુ છે."]}
+  },
+  "reference":{"url":"https://www.justonecookbook.com/vegetable-yakisoba/","use":"Vegetable yakisoba noodle preparation and vegetarian sauce concept; quantities and wording independently authored for reviewed photo."}
+}

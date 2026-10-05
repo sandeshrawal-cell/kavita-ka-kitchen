@@ -1,0 +1,45 @@
+{
+  "sourceReviewId":"R0180","id":"vegetarian-pad-see-ew","status":"draft-photo-and-translation-reviewed","name":"Vegetarian Pad See Ew","cuisine":"Thai","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
+  "ingredients":[
+    {"name":"fresh wide rice noodles","qty":800,"unit":"g"},
+    {"name":"firm tofu, pressed and cubed","qty":320,"unit":"g"},
+    {"name":"Chinese broccoli (gai lan), stems and leaves separated","qty":420,"unit":"g"},
+    {"name":"garlic, finely chopped","qty":22,"unit":"g"},
+    {"name":"light soy sauce","qty":45,"unit":"ml"},
+    {"name":"dark soy sauce","qty":28,"unit":"ml"},
+    {"name":"vegetarian mushroom stir-fry sauce","qty":45,"unit":"ml"},
+    {"name":"rice vinegar","qty":20,"unit":"ml"},
+    {"name":"sugar","qty":15,"unit":"g"},
+    {"name":"neutral oil","qty":50,"unit":"ml"},
+    {"name":"water","qty":35,"unit":"ml"}
+  ],
+  "steps":[
+    "Separate the fresh wide rice noodle sheets gently with lightly oiled fingers; do not soak them. Cut gai lan stems into short pieces and keep leaves separately. Press and cube the tofu, then whisk both soy sauces, vegetarian mushroom sauce, rice vinegar, sugar and measured 35 ml water until the sugar dissolves.",
+    "Heat 20 ml of the oil in a large wok until hot. Sear tofu cubes for 2–3 minutes per side until golden and firm, then lift them out. Cook in two batches if the pan is crowded so they brown rather than steam.",
+    "Add 15 ml more oil and stir-fry garlic for 15 seconds. Add gai lan stems for 2 minutes, then leaves for 1 minute until bright green and barely tender. Move the vegetables to the side of the pan.",
+    "Add the remaining 15 ml oil and the noodles. Let the noodles touch the hot pan for about 45 seconds before lifting them so some edges char lightly. Pour in the prepared sauce and return the tofu. Toss carefully for 2–3 minutes until the sauce coats the broad noodles without breaking them.",
+    "When the noodles have glossy dark edges and the gai lan is still green, divide into four plates and serve at once. Avoid prolonged simmering, which makes fresh rice noodles gummy."
+  ],
+  "tips":["Use genuine wide rice noodles and mushroom-based vegetarian stir-fry sauce, not oyster sauce. The reviewed photo shows broad dark-edged noodles, gai lan and browned tofu, with no egg or meat."],
+  "translations":{
+    "hi":{"name":"वेजिटेरियन पैड सी यू","ingredients":["ताज़े चौड़े चावल नूडल्स","सख्त टोफू, दबाकर चौकोर कटा","चाइनीज़ ब्रोकली (गाई लान), डंठल-पत्ते अलग","लहसुन, बारीक कटा","हल्का सोया सॉस","डार्क सोया सॉस","शाकाहारी मशरूम स्टिर-फ्राय सॉस","राइस विनेगर","चीनी","हल्का स्वाद वाला तेल","पानी"],
+      "steps":[
+        "ताज़े चौड़े चावल नूडल्स की पट्टियाँ थोड़े तेल लगे हाथों से धीरे अलग करें; भिगोएँ नहीं। गाई लान डंठल छोटे काटें और पत्ते अलग रखें। टोफू दबाकर चौकोर काटें, फिर दोनों सोया सॉस, शाकाहारी मशरूम सॉस, राइस विनेगर, चीनी और नापा 35 मिली पानी चीनी घुलने तक फेंटें।",
+        "बड़े वोक में 20 मिली तेल तेज़ गरम करें। टोफू की हर तरफ़ 2–3 मिनट सुनहरा और सख्त होने तक सेंकें, फिर निकालें। पैन भरा हो तो दो बैच करें ताकि टोफू भाप में पकने के बजाय भूरे हों।",
+        "15 मिली और तेल डालें और लहसुन 15 सेकंड भूनें। गाई लान डंठल 2 मिनट, फिर पत्ते 1 मिनट चमकीले हरे और बस नरम होने तक भूनें। सब्ज़ियाँ पैन के किनारे कर दें।",
+        "बचा 15 मिली तेल और नूडल्स डालें। नूडल्स लगभग 45 सेकंड गरम पैन से लगे रहने दें ताकि किनारे हल्के भुनें। तैयार सॉस डालें और टोफू वापस करें। 2–3 मिनट धीरे मिलाएँ ताकि चौड़े नूडल्स टूटे बिना सॉस से लिपटें।",
+        "नूडल्स के किनारे चमकदार गहरे और गाई लान हरा रहे तब चार प्लेटों में बाँटकर तुरंत परोसें। देर तक न पकाएँ, वरना ताज़े चावल नूडल्स चिपचिपे होंगे।"
+      ],
+      "tips":["असली चौड़े चावल नूडल्स और मशरूम-आधारित शाकाहारी सॉस लें, ऑयस्टर सॉस नहीं। समीक्षित तस्वीर में गहरे किनारों वाले चौड़े नूडल्स, गाई लान और भूरे टोफू हैं; अंडा या मांस नहीं।"]},
+    "gu":{"name":"વેજિટેરિયન પાડ સી ઈવ","ingredients":["તાજા પહોળા ચોખાના નૂડલ્સ","મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","ચાઇનીઝ બ્રોકલી (ગાઈ લાન), દાંડી-પાન અલગ","લસણ, ઝીણું સમારેલું","હળવો સોયા સોસ","ઘાટો સોયા સોસ","શાકાહારી મશરૂમ સ્ટિર-ફ્રાય સોસ","રાઇસ વિનેગર","ખાંડ","હળવા સ્વાદનું તેલ","પાણી"],
+      "steps":[
+        "તાજા પહોળા ચોખાના નૂડલ્સની પટ્ટીઓ થોડું તેલ લગાવેલા હાથથી હળવેથી છૂટી કરો; પલાળો નહીં. ગાઈ લાનની દાંડી નાની કાપી પાન અલગ રાખો. ટોફુ દબાવી ચોરસ કાપો, પછી બંને સોયા સોસ, શાકાહારી મશરૂમ સોસ, રાઇસ વિનેગર, ખાંડ અને માપેલું 35 મિલી પાણી ખાંડ ઓગળે ત્યાં સુધી ફેંટો.",
+        "મોટી કડાઈમાં 20 મિલી તેલ ખૂબ ગરમ કરો. ટોફુની દરેક બાજુ 2–3 મિનિટ સોનેરી અને મજબૂત થાય ત્યાં સુધી શેકી કાઢો. કડાઈ ભરાય તો બે વાર કરો જેથી ટોફુ વરાળે રંધાવાને બદલે બદામી થાય.",
+        "વધુ 15 મિલી તેલ નાખી લસણ 15 સેકન્ડ શેકો. ગાઈ લાનની દાંડી 2 મિનિટ, પછી પાન 1 મિનિટ ચમકતા લીલા અને સહેજ નરમ થાય ત્યાં સુધી શેકો. શાક કડાઈની બાજુએ ખસેડો.",
+        "બાકી 15 મિલી તેલ અને નૂડલ્સ નાખો. નૂડલ્સને લગભગ 45 સેકન્ડ ગરમ કડાઈ પર રહેવા દો જેથી ધાર હળવી શેકાય. તૈયાર સોસ રેડો અને ટોફુ પાછું નાખો. 2–3 મિનિટ હળવેથી ભેળવો જેથી પહોળા નૂડલ્સ તૂટ્યા વગર સોસથી ઢંકાય.",
+        "નૂડલ્સની ધાર ચમકતી ઘેરી અને ગાઈ લાન લીલું હોય ત્યારે ચાર પ્લેટમાં વહેંચી તરત પીરસો. વધારે ઉકાળશો તો તાજા ચોખાના નૂડલ્સ ચીકણા થશે."
+      ],
+      "tips":["ખરા પહોળા ચોખાના નૂડલ્સ અને મશરૂમ આધારિત શાકાહારી સોસ લો, ઓઇસ્ટર સોસ નહીં. તપાસેલા ફોટામાં ઘેરી ધારવાળા પહોળા નૂડલ્સ, ગાઈ લાન અને બદામી ટોફુ છે; ઈંડું કે માંસ નથી."]}
+  },
+  "reference":{"url":"https://hot-thai-kitchen.com/pad-see-ew-new/","use":"Thai broad rice noodle and high-heat searing technique; vegetarian egg-free quantities and wording independently authored."}
+}
