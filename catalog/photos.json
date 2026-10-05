@@ -9453,5 +9453,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "vegetable-pasty": {
+    "name": "Vegetable Pasty",
+    "src": "/photos/vegetable-pasty-1200.webp",
+    "small": "/photos/vegetable-pasty-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Vegetable Pasty served ready to eat",
+    "kind": "generated",
+    "title": "Vegetable Pasty",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }
