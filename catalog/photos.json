@@ -9837,5 +9837,53 @@
     "sourceWidth": 1536,
     "sourceHeight": 1024,
     "reviewedAt": "2026-10-05"
+  },
+  "sweet-and-sour-tofu": {
+    "name": "Sweet and Sour Tofu",
+    "src": "/photos/sweet-and-sour-tofu-1200.webp",
+    "small": "/photos/sweet-and-sour-tofu-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Sweet and Sour Tofu served ready to eat",
+    "kind": "generated",
+    "title": "Sweet and Sour Tofu",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "black-pepper-tofu": {
+    "name": "Black Pepper Tofu",
+    "src": "/photos/black-pepper-tofu-1200.webp",
+    "small": "/photos/black-pepper-tofu-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Black Pepper Tofu served ready to eat",
+    "kind": "generated",
+    "title": "Black Pepper Tofu",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
+  },
+  "tofu-bulgogi": {
+    "name": "Tofu Bulgogi",
+    "src": "/photos/tofu-bulgogi-1200.webp",
+    "small": "/photos/tofu-bulgogi-600.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "Tofu Bulgogi served ready to eat",
+    "kind": "generated",
+    "title": "Tofu Bulgogi",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "reviewedAt": "2026-10-05"
   }
 }

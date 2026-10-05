@@ -1,0 +1,49 @@
+{
+  "sourceReviewId":"R0188","id":"black-pepper-tofu","status":"draft-photo-and-translation-reviewed","name":"Black Pepper Tofu","cuisine":"Chinese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
+  "ingredients":[
+    {"name":"extra-firm tofu, pressed and cubed","qty":600,"unit":"g"},
+    {"name":"green and red bell peppers, squared","qty":260,"unit":"g"},
+    {"name":"onion, squared","qty":160,"unit":"g"},
+    {"name":"celery, thickly sliced","qty":120,"unit":"g"},
+    {"name":"garlic, chopped","qty":18,"unit":"g"},
+    {"name":"ginger, chopped","qty":15,"unit":"g"},
+    {"name":"freshly cracked black pepper","qty":9,"unit":"g"},
+    {"name":"light soy sauce","qty":45,"unit":"ml"},
+    {"name":"dark soy sauce","qty":20,"unit":"ml"},
+    {"name":"rice vinegar","qty":18,"unit":"ml"},
+    {"name":"sugar","qty":12,"unit":"g"},
+    {"name":"water","qty":150,"unit":"ml"},
+    {"name":"cornflour (cornstarch)","qty":14,"unit":"g"},
+    {"name":"neutral oil","qty":40,"unit":"ml"},
+    {"name":"spring onion, sliced","qty":50,"unit":"g"}
+  ],
+  "steps":[
+    "Press extra-firm tofu for 15–20 minutes, cut into even cubes and pat dry. Whisk both soy sauces, rice vinegar, sugar and 120 ml water; dissolve cornflour in the remaining 30 ml cold water. Crack the black pepper fresh so its flavor stays sharp.",
+    "Heat 25 ml oil in a broad skillet over medium-high heat. Spread tofu in one layer and leave undisturbed for 2–3 minutes before turning. Brown several sides, about 7–8 minutes total, then lift out.",
+    "Add remaining 15 ml oil, garlic and ginger; stir for 20 seconds. Add onion, celery and both peppers and stir-fry 2–3 minutes so they stay crisp and colorful.",
+    "Pour in soy mixture, add most of the cracked pepper and simmer 1 minute. Stir cornflour slurry again and add it; cook for another minute until a glossy brown sauce forms. Taste and add remaining pepper to reach a lively but balanced heat.",
+    "Return browned tofu and toss just until coated and hot. Divide among four plates and finish with sliced spring onion. Serve at once; prolonged cooking softens the tofu and vegetables."
+  ],
+  "tips":["Use freshly ground black pepper rather than chili; it is the defining flavor. The reviewed photo shows pepper-speckled tofu, onion, celery, green and red pepper in glossy brown sauce."],
+  "translations":{
+    "hi":{"name":"ब्लैक पेपर टोफू","ingredients":["एक्स्ट्रा-फर्म टोफू, दबाकर चौकोर कटा","हरी और लाल शिमला मिर्च, चौकोर कटी","प्याज़, चौकोर कटा","सेलेरी, मोटी कटी","लहसुन, कटा","अदरक, कटा","ताज़ी दरदरी काली मिर्च","हल्का सोया सॉस","डार्क सोया सॉस","राइस विनेगर","चीनी","पानी","कॉर्नफ्लोर","हल्का स्वाद वाला तेल","हरा प्याज़, कटा"],
+      "steps":[
+        "एक्स्ट्रा-फर्म टोफू 15–20 मिनट दबाकर बराबर चौकोर काटें और सुखाएँ। दोनों सोया सॉस, राइस विनेगर, चीनी और 120 मिली पानी फेंटें; कॉर्नफ्लोर बचे 30 मिली ठंडे पानी में घोलें। काली मिर्च ताज़ी दरदरी पीसें ताकि सुगंध तीखी रहे।",
+        "चौड़े पैन में 25 मिली तेल मध्यम-तेज़ आँच पर गरम करें। टोफू एक परत में फैलाएँ और पलटने से पहले 2–3 मिनट अछूता छोड़ें। कई ओर कुल लगभग 7–8 मिनट भूरा सेंककर निकालें।",
+        "बचा 15 मिली तेल, लहसुन और अदरक डालकर 20 सेकंड चलाएँ। प्याज़, सेलेरी और दोनों शिमला मिर्च डालकर 2–3 मिनट भूनें ताकि कुरकुरे और रंगीन रहें।",
+        "सोया मिश्रण डालें, अधिकतर दरदरी काली मिर्च मिलाएँ और 1 मिनट उबालें। कॉर्नफ्लोर घोल फिर चलाकर डालें और 1 मिनट चमकदार भूरा सॉस बनने तक पकाएँ। चखें और संतुलित तीखेपन के लिए बची मिर्च डालें।",
+        "भूरा टोफू वापस डालकर बस लिपटने और गरम होने तक मिलाएँ। चार प्लेटों में बाँटें और हरा प्याज़ डालें। तुरंत परोसें; देर तक पकाने से टोफू और सब्ज़ियाँ नरम होंगी।"
+      ],
+      "tips":["मिर्च पाउडर की जगह ताज़ी दरदरी काली मिर्च लें; यही मुख्य स्वाद है। समीक्षित तस्वीर में काली मिर्च लगे टोफू, प्याज़, सेलेरी, हरी-लाल शिमला मिर्च चमकदार भूरे सॉस में हैं।"]},
+    "gu":{"name":"બ્લેક પેપર ટોફુ","ingredients":["ઘણું મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","લીલું અને લાલ કેપ્સિકમ, ચોરસ કાપેલું","ડુંગળી, ચોરસ કાપેલી","સેલરી, જાડી કાપેલી","લસણ, સમારેલું","આદુ, સમારેલું","તાજી અધકચરી દળેલી કાળી મરી","હળવો સોયા સોસ","ઘાટો સોયા સોસ","રાઇસ વિનેગર","ખાંડ","પાણી","કોર્નફ્લોર","હળવા સ્વાદનું તેલ","લીલી ડુંગળી, સમારેલી"],
+      "steps":[
+        "ઘણું મજબૂત ટોફુ 15–20 મિનિટ દબાવી સરખા ચોરસ કાપો અને સૂકવો. બંને સોયા સોસ, રાઇસ વિનેગર, ખાંડ અને 120 મિલી પાણી ફેંટો; કોર્નફ્લોર બાકી 30 મિલી ઠંડા પાણીમાં ઓગાળો. કાળી મરી તાજી અધકચરી દળો જેથી સુગંધ તીખી રહે.",
+        "પહોળી કડાઈમાં 25 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરો. ટોફુને એક પડમાં ફેલાવો અને ફેરવતાં પહેલાં 2–3 મિનિટ અડકશો નહીં. ઘણી બાજુ કુલ લગભગ 7–8 મિનિટ બદામી શેકી કાઢો.",
+        "બાકી 15 મિલી તેલ, લસણ અને આદુ નાખી 20 સેકન્ડ હલાવો. ડુંગળી, સેલરી અને બંને કેપ્સિકમ નાખી 2–3 મિનિટ શેકો જેથી કરકરાં અને રંગીન રહે.",
+        "સોયા મિશ્રણ રેડી મોટાભાગની અધકચરી કાળી મરી નાખો અને 1 મિનિટ ઉકાળો. કોર્નફ્લોરનું પાણી ફરી હલાવી નાખો અને 1 મિનિટ ચમકદાર બદામી સોસ બને ત્યાં સુધી રાંધો. ચાખી સંતુલિત તીખાશ માટે બાકી મરી ઉમેરો.",
+        "બદામી ટોફુ પાછું નાખી માત્ર સોસ ચડે અને ગરમ થાય ત્યાં સુધી ભેળવો. ચાર પ્લેટમાં વહેંચી લીલી ડુંગળી નાખો. તરત પીરસો; વધારે રાંધવાથી ટોફુ અને શાક નરમ થશે."
+      ],
+      "tips":["મરચાંને બદલે તાજી અધકચરી કાળી મરી લો; એ જ મુખ્ય સ્વાદ છે. તપાસેલા ફોટામાં મરીવાળું ટોફુ, ડુંગળી, સેલરી, લીલું-લાલ કેપ્સિકમ ચમકતા બદામી સોસમાં છે."]}
+  },
+  "reference":{"url":"https://omnivorescookbook.com/black-pepper-tofu/","use":"Peppery tofu, crisp vegetables and glossy sauce technique; quantities and wording independently authored for reviewed photo."}
+}

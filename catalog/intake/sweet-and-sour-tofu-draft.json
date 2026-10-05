@@ -1,0 +1,48 @@
+{
+  "sourceReviewId":"R0187","id":"sweet-and-sour-tofu","status":"draft-photo-and-translation-reviewed","name":"Sweet and Sour Tofu","cuisine":"Chinese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
+  "ingredients":[
+    {"name":"extra-firm tofu, pressed and cubed","qty":600,"unit":"g"},
+    {"name":"cornflour for coating","qty":50,"unit":"g"},
+    {"name":"red and green bell peppers, squared","qty":300,"unit":"g"},
+    {"name":"onion, squared","qty":180,"unit":"g"},
+    {"name":"pineapple chunks, drained","qty":240,"unit":"g"},
+    {"name":"tomato ketchup","qty":80,"unit":"g"},
+    {"name":"rice vinegar","qty":70,"unit":"ml"},
+    {"name":"light soy sauce","qty":35,"unit":"ml"},
+    {"name":"brown sugar","qty":45,"unit":"g"},
+    {"name":"water","qty":180,"unit":"ml"},
+    {"name":"cornflour for sauce","qty":15,"unit":"g"},
+    {"name":"neutral oil","qty":55,"unit":"ml"},
+    {"name":"garlic, minced","qty":15,"unit":"g"},
+    {"name":"spring onion, sliced","qty":55,"unit":"g"}
+  ],
+  "steps":[
+    "Press tofu 20 minutes, cut into even cubes and dry well. Dust with 50 g cornflour. Whisk ketchup, rice vinegar, soy sauce, brown sugar and 140 ml of the water; dissolve the 15 g sauce cornflour in the remaining 40 ml cold water.",
+    "Heat 40 ml oil in a large non-stick pan over medium-high heat. Fry tofu cubes in one layer for 3–4 minutes per side until crisp and golden, working in batches if necessary. Set aside on a rack.",
+    "Add remaining 15 ml oil and stir-fry garlic, onion and pepper pieces for 2–3 minutes until crisp-tender. Add drained pineapple for 1 minute so it warms but keeps its shape.",
+    "Pour in the ketchup-vinegar mixture and simmer 2 minutes. Stir the cornflour slurry again and add it to the pan, stirring until the sauce is glossy, thick and translucent, about 1 minute. Taste for balanced sweet and sour flavor.",
+    "Fold the crisp tofu into the sauce just long enough to coat it. Divide among four bowls and scatter spring onion on top. Serve promptly so the tofu crust retains some crunch."
+  ],
+  "tips":["Drain canned pineapple so the sauce does not become watery. The reviewed photo shows golden tofu, red and green peppers, onion and pineapple in a bright glossy red sauce."],
+  "translations":{
+    "hi":{"name":"मीठा-खट्टा टोफू","ingredients":["एक्स्ट्रा-फर्म टोफू, दबाकर चौकोर कटा","कोटिंग के लिए कॉर्नफ्लोर","लाल और हरी शिमला मिर्च, चौकोर कटी","प्याज़, चौकोर कटा","अनानास के टुकड़े, छाने","टमाटर केचप","राइस विनेगर","हल्का सोया सॉस","ब्राउन शुगर","पानी","सॉस के लिए कॉर्नफ्लोर","हल्का स्वाद वाला तेल","लहसुन, बारीक कटा","हरा प्याज़, कटा"],
+      "steps":[
+        "टोफू 20 मिनट दबाएँ, बराबर चौकोर काटकर अच्छी तरह सुखाएँ। 50 ग्राम कॉर्नफ्लोर लगाएँ। केचप, राइस विनेगर, सोया सॉस, ब्राउन शुगर और 140 मिली पानी फेंटें; सॉस वाला 15 ग्राम कॉर्नफ्लोर बचे 40 मिली ठंडे पानी में घोलें।",
+        "बड़े नॉन-स्टिक पैन में 40 मिली तेल मध्यम-तेज़ आँच पर गरम करें। टोफू एक परत में हर तरफ़ 3–4 मिनट कुरकुरा सुनहरा तलें; ज़रूरत हो तो बैच बनाएँ। जाली पर अलग रखें।",
+        "बचा 15 मिली तेल डालकर लहसुन, प्याज़ और शिमला मिर्च 2–3 मिनट भूनें ताकि हल्के कुरकुरे रहें। छाना अनानास 1 मिनट गरम करें ताकि आकार बना रहे।",
+        "केचप-विनेगर मिश्रण डालकर 2 मिनट उबालें। कॉर्नफ्लोर घोल फिर चलाकर पैन में डालें और लगभग 1 मिनट चमकदार, गाढ़ा और पारदर्शी होने तक चलाएँ। मीठे-खट्टे संतुलन के लिए चखें।",
+        "कुरकुरा टोफू सॉस में बस लिपटने तक मिलाएँ। चार बाउल में बाँटकर ऊपर हरा प्याज़ डालें। तुरंत परोसें ताकि टोफू की परत कुछ कुरकुरी रहे।"
+      ],
+      "tips":["डिब्बे वाला अनानास अच्छी तरह छानें ताकि सॉस पानीदार न हो। समीक्षित तस्वीर में सुनहरा टोफू, लाल-हरी शिमला मिर्च, प्याज़ और अनानास चमकीले लाल सॉस में हैं।"]},
+    "gu":{"name":"મીઠું-ખાટું ટોફુ","ingredients":["ઘણું મજબૂત ટોફુ, દબાવી ચોરસ કાપેલું","કોટિંગ માટે કોર્નફ્લોર","લાલ અને લીલું કેપ્સિકમ, ચોરસ કાપેલું","ડુંગળી, ચોરસ કાપેલી","અનાનસના ટુકડા, નિતારેલા","ટમેટાંનો કેચપ","રાઇસ વિનેગર","હળવો સોયા સોસ","બ્રાઉન સુગર","પાણી","સોસ માટે કોર્નફ્લોર","હળવા સ્વાદનું તેલ","લસણ, ઝીણું સમારેલું","લીલી ડુંગળી, સમારેલી"],
+      "steps":[
+        "ટોફુ 20 મિનિટ દબાવી સરખા ચોરસ કાપી સારી રીતે સૂકવો. 50 ગ્રામ કોર્નફ્લોર લગાવો. કેચપ, રાઇસ વિનેગર, સોયા સોસ, બ્રાઉન સુગર અને 140 મિલી પાણી ફેંટો; સોસ માટેનો 15 ગ્રામ કોર્નફ્લોર બાકી 40 મિલી ઠંડા પાણીમાં ઓગાળો.",
+        "મોટી નોન-સ્ટિક કડાઈમાં 40 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરો. ટોફુને એક પડમાં દરેક બાજુ 3–4 મિનિટ કરકરું સોનેરી તળો; જરૂરી હોય તો થોડું થોડું કરો. જાળી પર અલગ રાખો.",
+        "બાકી 15 મિલી તેલ નાખી લસણ, ડુંગળી અને કેપ્સિકમ 2–3 મિનિટ શેકો જેથી થોડાં કરકરાં રહે. નિતારેલું અનાનસ 1 મિનિટ ગરમ કરો જેથી આકાર રહે.",
+        "કેચપ-વિનેગર મિશ્રણ નાખી 2 મિનિટ ઉકાળો. કોર્નફ્લોરનું પાણી ફરી હલાવી કડાઈમાં નાખો અને લગભગ 1 મિનિટ ચમકદાર, ઘટ્ટ અને પારદર્શક થાય ત્યાં સુધી હલાવો. મીઠા-ખાટા સંતુલન માટે ચાખો.",
+        "કરકરું ટોફુ સોસમાં માત્ર ઢંકાય ત્યાં સુધી ભેળવો. ચાર બાઉલમાં વહેંચી ઉપર લીલી ડુંગળી નાખો. ટોફુનું પડ થોડું કરકરું રહે તે માટે તરત પીરસો."
+      ],
+      "tips":["ડબ્બાનું અનાનસ સારી રીતે નિતારો જેથી સોસ પાણીદાર ન થાય. તપાસેલા ફોટામાં સોનેરી ટોફુ, લાલ-લીલું કેપ્સિકમ, ડુંગળી અને અનાનસ ચમકતા લાલ સોસમાં છે."]}
+  },
+  "reference":{"url":"https://omnivorescookbook.com/sweet-and-sour-tofu/","use":"Crisp tofu with sweet-sour glaze and vegetables; quantities and wording independently authored for reviewed photo."}
+}

@@ -1,0 +1,50 @@
+{
+  "sourceReviewId":"R0189","id":"tofu-bulgogi","status":"draft-photo-and-translation-reviewed","name":"Tofu Bulgogi","cuisine":"Korean-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":55,"passiveTime":"20 minutes marinating",
+  "ingredients":[
+    {"name":"extra-firm tofu, pressed and thickly sliced","qty":600,"unit":"g"},
+    {"name":"dry short-grain rice","qty":260,"unit":"g"},
+    {"name":"water for rice","qty":390,"unit":"ml"},
+    {"name":"onion, thinly sliced","qty":180,"unit":"g"},
+    {"name":"carrot, thinly sliced","qty":140,"unit":"g"},
+    {"name":"ripe pear, finely grated","qty":100,"unit":"g"},
+    {"name":"light soy sauce","qty":65,"unit":"ml"},
+    {"name":"brown sugar","qty":22,"unit":"g"},
+    {"name":"toasted sesame oil","qty":20,"unit":"ml"},
+    {"name":"garlic, grated","qty":20,"unit":"g"},
+    {"name":"ginger, grated","qty":10,"unit":"g"},
+    {"name":"neutral oil","qty":25,"unit":"ml"},
+    {"name":"spring onion, sliced","qty":65,"unit":"g"},
+    {"name":"toasted sesame seeds","qty":15,"unit":"g"}
+  ],
+  "steps":[
+    "Rinse the rice until the water runs nearly clear. Add the measured 390 ml water, bring to a boil, cover and cook over low heat for 12–15 minutes; rest covered for 10 minutes. Meanwhile press tofu for 15 minutes and slice into thick rectangles.",
+    "Whisk grated pear, soy sauce, brown sugar, sesame oil, garlic and ginger into a marinade. Coat tofu slices in half the mixture and leave 20 minutes in the refrigerator. Keep the other half separate for cooking so it has not touched raw tofu.",
+    "Heat neutral oil in a wide non-stick skillet over medium-high heat. Lift tofu from its marinade and sear 3 minutes per side until deep golden with browned edges. Cook in batches if needed, then set aside.",
+    "In the same pan, stir-fry onion and carrot 3–4 minutes until softened but still distinct. Pour in the reserved clean marinade and simmer 2 minutes until lightly syrupy. Return tofu carefully and turn once to coat without breaking the slices.",
+    "Fluff rice and divide among four plates. Arrange glazed tofu and vegetables beside it; scatter spring onion and toasted sesame seeds over the tofu. Serve hot while the edges remain slightly crisp."
+  ],
+  "tips":["Use a clean reserved portion of marinade for the sauce. The reviewed photo shows thick seared tofu slices, onion, carrot, scallion and sesame beside plain white rice."],
+  "translations":{
+    "hi":{"name":"टोफू बुलगोगी","ingredients":["एक्स्ट्रा-फर्म टोफू, दबाकर मोटा कटा","सूखे छोटे दाने वाले चावल","चावल के लिए पानी","प्याज़, पतला कटा","गाजर, पतली कटी","पका नाशपाती, बारीक कद्दूकस","हल्का सोया सॉस","ब्राउन शुगर","भुने तिल का तेल","लहसुन, कद्दूकस","अदरक, कद्दूकस","हल्का स्वाद वाला तेल","हरा प्याज़, कटा","भुने तिल"],
+      "steps":[
+        "चावल लगभग साफ़ पानी आने तक धोएँ। नापा 390 मिली पानी डालकर उबालें, ढकें और धीमी आँच पर 12–15 मिनट पकाएँ; 10 मिनट ढका छोड़ें। इस बीच टोफू 15 मिनट दबाएँ और मोटे आयताकार टुकड़े करें।",
+        "कद्दूकस नाशपाती, सोया सॉस, ब्राउन शुगर, तिल का तेल, लहसुन और अदरक फेंटकर मैरिनेड बनाएँ। आधे मिश्रण में टोफू लपेटकर 20 मिनट फ्रिज में रखें। बाकी आधा पकाने के लिए अलग रखें ताकि वह कच्चे टोफू से न छुए।",
+        "चौड़े नॉन-स्टिक पैन में हल्का तेल मध्यम-तेज़ आँच पर गरम करें। टोफू मैरिनेड से निकालकर हर तरफ़ 3 मिनट गहरा सुनहरा और किनारे भूरे होने तक सेंकें। ज़रूरत हो तो बैच बनाएँ, फिर अलग रखें।",
+        "उसी पैन में प्याज़ और गाजर 3–4 मिनट भूनें ताकि नरम पर अलग दिखें। सुरक्षित साफ़ मैरिनेड डालकर 2 मिनट हल्का गाढ़ा होने तक उबालें। टोफू वापस रखकर बिना तोड़े एक बार पलटें ताकि सॉस चढ़े।",
+        "चावल फुलाकर चार प्लेटों में बाँटें। साथ में चमकदार टोफू और सब्ज़ियाँ रखें; ऊपर हरा प्याज़ और भुने तिल छिड़कें। किनारे हल्के कुरकुरे हों तब गरम परोसें।"
+      ],
+      "tips":["सॉस के लिए अलग रखा साफ़ मैरिनेड ही लें। समीक्षित तस्वीर में मोटे सेंके टोफू, प्याज़, गाजर, हरा प्याज़ और तिल सादे सफेद चावल के साथ हैं।"],
+      "passiveTime":"20 मिनट मैरिनेट करना"},
+    "gu":{"name":"ટોફુ બુલ્ગોગી","ingredients":["ઘણું મજબૂત ટોફુ, દબાવી જાડું કાપેલું","સૂકા ટૂંકા દાણાના ચોખા","ભાત માટે પાણી","ડુંગળી, પાતળી સમારેલી","ગાજર, પાતળી કાપેલી","પાકેલું નાસપતી, ઝીણું છીણેલું","હળવો સોયા સોસ","બ્રાઉન સુગર","શેકેલા તલનું તેલ","લસણ, છીણેલું","આદુ, છીણેલું","હળવા સ્વાદનું તેલ","લીલી ડુંગળી, સમારેલી","શેકેલા તલ"],
+      "steps":[
+        "ચોખા પાણી લગભગ ચોખ્ખું થાય ત્યાં સુધી ધુઓ. માપેલું 390 મિલી પાણી નાખી ઉકાળો, ઢાંકી ધીમા તાપે 12–15 મિનિટ રાંધો; 10 મિનિટ ઢાંકેલું રાખો. તે દરમ્યાન ટોફુ 15 મિનિટ દબાવી જાડા લંબચોરસ ટુકડા કરો.",
+        "છીણેલું નાસપતી, સોયા સોસ, બ્રાઉન સુગર, તલનું તેલ, લસણ અને આદુ ફેંટીને મેરિનેડ બનાવો. અડધા મિશ્રણમાં ટોફુ ઢાંકી 20 મિનિટ ફ્રિજમાં રાખો. બાકી અડધું રાંધવા અલગ રાખો જેથી તે કાચા ટોફુને અડે નહીં.",
+        "પહોળી નોન-સ્ટિક કડાઈમાં હળવું તેલ મધ્યમથી વધુ તાપે ગરમ કરો. ટોફુ મેરિનેડમાંથી કાઢી દરેક બાજુ 3 મિનિટ ઘેરું સોનેરી અને ધાર બદામી થાય ત્યાં સુધી શેકો. જરૂર હોય તો થોડું થોડું શેકી અલગ રાખો.",
+        "એ જ કડાઈમાં ડુંગળી અને ગાજર 3–4 મિનિટ શેકો જેથી નરમ પણ અલગ દેખાય. સાચવેલું સ્વચ્છ મેરિનેડ નાખી 2 મિનિટ સહેજ ઘટ્ટ થાય ત્યાં સુધી ઉકાળો. ટોફુ પાછું મૂકી તૂટે નહીં તેમ એક વાર ફેરવી સોસ ચડાવો.",
+        "ભાતના દાણા છૂટા કરી ચાર પ્લેટમાં વહેંચો. બાજુમાં ચમકદાર ટોફુ અને શાક મૂકી ઉપર લીલી ડુંગળી અને શેકેલા તલ છાંટો. ધાર સહેજ કરકરી હોય ત્યારે ગરમ પીરસો."
+      ],
+      "tips":["સોસ માટે અલગ રાખેલું સ્વચ્છ મેરિનેડ જ વાપરો. તપાસેલા ફોટામાં જાડા શેકેલા ટોફુ, ડુંગળી, ગાજર, લીલી ડુંગળી અને તલ સાદા સફેદ ભાત સાથે છે."],
+      "passiveTime":"20 મિનિટ મેરિનેટ કરવું"}
+  },
+  "reference":{"url":"https://thekoreanvegan.com/moms-easy-and-authentic-korean-bbq-sauce-recipe/","use":"Korean pear-soy-garlic marinade profile; tofu-specific quantities and wording independently authored for reviewed photo."}
+}
