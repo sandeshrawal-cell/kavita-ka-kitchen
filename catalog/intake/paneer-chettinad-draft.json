@@ -1,7 +1,7 @@
 {
   "sourceReviewId": "R0265",
   "id": "paneer-chettinad",
-  "status": "draft-recipe-translations-and-photo-ready",
+  "status": "published-third-100-intake-batch",
   "name": "Paneer Chettinad",
   "cuisine": "Chettinad",
   "categories": [
@@ -119,7 +119,7 @@
       ],
       "steps": [
         "धनिया, काली मिर्च, सौंफ, जीरा, लाल मिर्च और दालचीनी धीमी आँच पर 3–4 मिनट महक आने तक भूनें। आखिरी मिनट नारियल डालें, ठंडा कर 100 मि.ली. पानी से दरदरा पीसें।",
-        "પैन में तेल गरम करें। करी पत्ते 20 सेकंड भूनें, फिर प्याज़ 7–8 मिनट सुनहरा करें। अदरक-लहसुन पेस्ट डालकर 1 मिनट चलाएँ।",
+        "पैन में तेल गरम करें। करी पत्ते 20 सेकंड भूनें, फिर प्याज़ 7–8 मिनट सुनहरा करें। अदरक-लहसुन पेस्ट डालकर 1 मिनट चलाएँ।",
         "टमाटर और नमक डालकर 6–8 मिनट नरम और गाढ़ा करें। भुना मसाला-नारियल पेस्ट मिलाकर 3 मिनट चलाते हुए पकाएँ ताकि तले में चिपके नहीं।",
         "बचा 180 मि.ली. पानी डालकर 6 मिनट हल्का उबालें, जब तक ग्रेवी महकदार और कुछ गाढ़ी हो। नमक जाँचें और काली मिर्च का स्वाद उभरा रहने दें।",
         "पनीर डालकर तेज़ उबाल के बिना 3 मिनट गरम करें। चावल, अप्पम या चपाती के साथ गरम परोसें।"
@@ -160,9 +160,9 @@
     }
   },
   "reference": {
-    "url": "https://www.archanaskitchen.com/chettinad-paneer-curry-recipe",
+    "url": "https://www.chefkunalkapur.com/recipe/paneer-chettinad/",
     "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
   },
   "photoDraft": "catalog/intake/photos/paneer-chettinad.png",
-  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0244",
+  "id": "tahu-bumbu-bali",
+  "status": "published-third-100-intake-batch",
+  "name": "Tahu Bumbu Bali",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "firm tofu, drained and cubed",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "shallots",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "red chilies, deseeded as preferred",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "candlenuts or cashews",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemongrass, bruised",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "makrut lime leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind paste",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu for 15 minutes, then cut into 3 cm cubes and pat dry. Blend shallots, garlic, chilies, tomato, candlenuts or cashews and ginger into a rough red spice paste.",
+    "Heat 35 ml oil in a nonstick pan and fry tofu in batches for 6–8 minutes, turning until all sides are lightly golden. Set aside so its surface remains firm.",
+    "In the same pan add remaining oil and fry the spice paste for 8–10 minutes, stirring until it thickens, darkens and no longer smells raw.",
+    "Add bruised lemongrass, lime leaves, palm sugar, tamarind, 180 ml water and salt. Simmer 8 minutes until the sweet-sour sauce is glossy and thick enough to coat tofu.",
+    "Return tofu and turn gently in the sauce for 4–5 minutes. Remove lemongrass and lime leaves and serve with rice; the tofu should be coated in vivid red bumbu Bali rather than floating in gravy."
+  ],
+  "tips": [
+    "Fry and dry the tofu first so it does not crumble when folded into the thick Balinese chilli sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ताहू बुम्बू बाली",
+      "ingredients": [
+        "सख्त टोफू, निथारा और टुकड़ों में",
+        "छोटे प्याज़",
+        "लहसुन",
+        "लाल मिर्च, चाहें तो बीज निकालें",
+        "टमाटर",
+        "कैंडलनट या काजू",
+        "अदरक",
+        "लेमनग्रास, कुचला",
+        "मकरूत लाइम पत्ते",
+        "ताड़ का गुड़",
+        "इमली का पेस्ट",
+        "पानी",
+        "हल्का तेल",
+        "नमक"
+      ],
+      "steps": [
+        "टोफू को 15 मिनट दबाकर पानी निकालें, फिर 3 सेमी टुकड़ों में काटकर सुखाएँ। छोटे प्याज़, लहसुन, मिर्च, टमाटर, कैंडलनट या काजू और अदरक पीसकर दरदरा लाल मसाला बनाएँ।",
+        "नॉनस्टिक पैन में 35 मिली तेल गरम कर टोफू थोड़ी-थोड़ी मात्रा में 6–8 मिनट पलटते हुए चारों ओर हल्का सुनहरा तलें। निकालकर रखें ताकि ऊपर से कड़ा रहे।",
+        "उसी पैन में बचा तेल डालें और मसाला 8–10 मिनट चलाकर गाढ़ा, गहरा और कच्ची गंध जाने तक भूनें।",
+        "कुचला लेमनग्रास, लाइम पत्ते, ताड़ का गुड़, इमली, 180 मिली पानी और नमक डालें। 8 मिनट उबालें ताकि खट्टा-मीठा रस चमकदार और टोफू पर चढ़ने लायक गाढ़ा हो।",
+        "टोफू लौटाकर 4–5 मिनट धीरे-धीरे सॉस में पलटें। लेमनग्रास और लाइम पत्ते निकालकर चावल के साथ परोसें; टोफू चटख लाल बुम्बू बाली से लिपटा हो, तरल ग्रेवी में न तैरे।"
+      ],
+      "tips": [
+        "टोफू पहले सुखाकर तलें ताकि गाढ़ी बाली मिर्च चटनी में मिलाते समय टूटे नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "તાહુ બુમ્બુ બાલી",
+      "ingredients": [
+        "કડક ટોફુ, નીતારી ટુકડામાં",
+        "નાની ડુંગળી",
+        "લસણ",
+        "લાલ મરચાં, ઈચ્છો તો બી કાઢેલા",
+        "ટામેટાં",
+        "કૅન્ડલનટ અથવા કાજુ",
+        "આદુ",
+        "લેમનગ્રાસ, કચડેલું",
+        "મકરુત લાઈમનાં પાન",
+        "તાડનો ગોળ",
+        "આમલીની પેસ્ટ",
+        "પાણી",
+        "હળવું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટોફુને 15 મિનિટ દબાવી પાણી કાઢો, પછી 3 સેમી ટુકડામાં કાપી સૂકવો. નાની ડુંગળી, લસણ, મરચાં, ટામેટાં, કૅન્ડલનટ કે કાજુ અને આદુ વાટી બરછટ લાલ મસાલો બનાવો.",
+        "નોનસ્ટિક પૅનમાં 35 મિલી તેલ ગરમ કરી ટોફુ થોડા-થોડા ભાગમાં 6–8 મિનિટ ફેરવી ચારે બાજુ હળવો સોનેરી તળો. ઉપરનો ભાગ મજબૂત રહે તે માટે અલગ રાખો.",
+        "એ જ પૅનમાં બાકીનું તેલ નાખી મસાલો 8–10 મિનિટ હલાવતા ઘાટો, ઘેરો અને કાચી વાસ વગરનો થાય ત્યાં સુધી શેકો.",
+        "કચડેલું લેમનગ્રાસ, લાઈમનાં પાન, તાડનો ગોળ, આમલી, 180 મિલી પાણી અને મીઠું નાખો. 8 મિનિટ ઉકાળો જેથી ખાટો-મીઠો રસ ચમકદાર અને ટોફુને ચોંટે તેટલો ઘાટો થાય.",
+        "ટોફુ પાછું નાખી 4–5 મિનિટ હળવેથી રસામાં ફેરવો. લેમનગ્રાસ અને લાઈમનાં પાન કાઢી ભાત સાથે પીરસો; ટોફુ ચટક લાલ બુમ્બુ બાલીમાં લપેટાયેલું હોવું જોઈએ, પાતળી ગ્રેવીમાં નહીં."
+      ],
+      "tips": [
+        "ટોફુ પહેલાં સૂકવી તળો જેથી ઘાટી બાલી મરચાંની ચટણીમાં ભેળવતાં તૂટે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://dailycookingquest.com/tahu-goreng-bumbu-bali-balinese-sauce-fried-tofu.html",
+    "use": "Indonesian tofu in Balinese spice sauce; quantities and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/tahu-bumbu-bali.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

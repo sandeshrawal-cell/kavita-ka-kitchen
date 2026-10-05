@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0277",
+  "id": "tofu-tikka-masala",
+  "status": "published-third-100-intake-batch",
+  "name": "Tofu Tikka Masala",
+  "cuisine": "Indian-inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed and cubed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 380,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu for 20 minutes and cut into 2 cm cubes. Whisk yogurt with half the ginger-garlic, half the chili, 3 g garam masala, lemon juice and 4 g salt; coat tofu and marinate 20 minutes.",
+    "Spread tofu on a lined tray, brush with 15 ml oil and roast at 220°C for 18–20 minutes, turning once, until the edges char lightly.",
+    "Meanwhile heat remaining oil in a pan. Cook onion 8 minutes until golden; add remaining ginger-garlic for 1 minute. Stir in tomato puree, coriander powder, remaining chili and salt; cook 9 minutes until thick.",
+    "Add 180 ml water and simmer sauce for 5 minutes. Lower the heat, stir in cream and remaining garam masala, and keep just below a boil.",
+    "Fold roasted tofu into the sauce and warm 2 minutes, preserving the charred edges. Sprinkle coriander and serve with rice or roti."
+  ],
+  "tips": [
+    "For a dairy-free version, use unsweetened plant yogurt and coconut cream in the same quantities."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू टिक्का मसाला",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर टुकड़े",
+        "सादा दही",
+        "टमाटर प्यूरी",
+        "प्याज़, बारीक कटा",
+        "अदरक-लहसुन पेस्ट",
+        "क्रीम",
+        "हल्का तेल",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नींबू रस",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "टोफू 20 मिनट दबाकर 2 सेमी टुकड़े काटें। दही में आधा अदरक-लहसुन, आधी मिर्च, 3 ग्राम गरम मसाला, नींबू और 4 ग्राम नमक फेंटकर टोफू 20 मिनट रखें।",
+        "टोफू बिछी ट्रे पर रखें, 15 मि.ली. तेल लगाएँ और 220°C पर बीच में पलटकर 18–20 मिनट हल्के झुलसे किनारों तक सेंकें।",
+        "इस बीच पैन में बचा तेल गरम कर प्याज़ 8 मिनट सुनहरा करें; बचा अदरक-लहसुन 1 मिनट पकाएँ। टमाटर, धनिया, बची मिर्च और नमक डालकर 9 मिनट गाढ़ा करें।",
+        "180 मि.ली. पानी डालकर सॉस 5 मिनट पकाएँ। आँच धीमी कर क्रीम और बचा गरम मसाला मिलाएँ, तेज़ उबाल न दें।",
+        "भुना टोफू सॉस में धीरे मिलाकर 2 मिनट गरम करें, झुलसे किनारे बने रहें। धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "बिना डेयरी के लिए उतनी ही मात्रा में बिना मीठा प्लांट दही और नारियल क्रीम लें।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ ટિક્કા મસાલો",
+      "ingredients": [
+        "ખૂબ મજબૂત ટોફુ, દબાવી ટુકડા",
+        "સાદું દહીં",
+        "ટામેટાની પ્યુરી",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "આદુ-લસણની પેસ્ટ",
+        "ક્રીમ",
+        "હળવું તેલ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "ટોફુ 20 મિનિટ દબાવી 2 સેમી ટુકડા કરો. દહીંમાં અડધું આદુ-લસણ, અડધું મરચું, 3 ગ્રામ ગરમ મસાલો, લીંબુ અને 4 ગ્રામ મીઠું ફેંટી ટોફુ 20 મિનિટ રાખો.",
+        "ટોફુ પાથરેલી ટ્રેમાં મૂકો, 15 મિ.લી. તેલ લગાવો અને 220°C પર વચ્ચે ફેરવી 18–20 મિનિટ કિનારી થોડી શેકાય ત્યાં સુધી શેકો.",
+        "આ દરમિયાન કડાઈમાં બાકીનું તેલ ગરમ કરી ડુંગળી 8 મિનિટ સોનેરી કરો; બાકીનું આદુ-લસણ 1 મિનિટ રાંધો. ટામેટાં, ધાણા, બાકી મરચું અને મીઠું નાખી 9 મિનિટ ઘટ્ટ કરો.",
+        "180 મિ.લી. પાણી નાખી સોસ 5 મિનિટ રાંધો. તાપ ધીમો કરી ક્રીમ અને બાકીનો ગરમ મસાલો ઉમેરો, જોરથી ન ઉકાળો.",
+        "શેકેલું ટોફુ સોસમાં હળવેથી ભેળવી 2 મિનિટ ગરમ કરો, શેકાયેલી કિનારી રહે. કોથમીર નાખી ભાત કે રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "દૂધ વગરની આવૃત્તિ માટે એટલી જ માત્રામાં મીઠાશ વગરનું વનસ્પતિ દહીં અને નાળિયેર ક્રીમ લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.crowdedkitchen.com/tofu-tikka-masala/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/tofu-tikka-masala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

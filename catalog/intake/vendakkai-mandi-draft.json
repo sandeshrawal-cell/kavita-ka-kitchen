@@ -1,25 +1,76 @@
 {
   "sourceReviewId": "R0234",
   "id": "vendakkai-mandi",
-  "status": "draft-recipe-translations-and-photo-ready",
+  "status": "published-third-100-intake-batch",
   "name": "Vendakkai Mandi",
   "cuisine": "Chettinad",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 40,
   "ingredients": [
-    {"name": "okra, dried and cut into 4 cm pieces", "qty": 550, "unit": "g"},
-    {"name": "shallots, peeled", "qty": 180, "unit": "g"},
-    {"name": "tomato, chopped", "qty": 180, "unit": "g"},
-    {"name": "thick rice-washing water", "qty": 450, "unit": "ml"},
-    {"name": "tamarind pulp", "qty": 35, "unit": "g"},
-    {"name": "water for tamarind", "qty": 120, "unit": "ml"},
-    {"name": "sesame oil", "qty": 45, "unit": "ml"},
-    {"name": "mustard seeds", "qty": 5, "unit": "g"},
-    {"name": "curry leaves", "qty": 8, "unit": "g"},
-    {"name": "turmeric powder", "qty": 3, "unit": "g"},
-    {"name": "red chilli powder", "qty": 6, "unit": "g"},
-    {"name": "salt", "qty": 9, "unit": "g"}
+    {
+      "name": "okra, dried and cut into 4 cm pieces",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "shallots, peeled",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "thick rice-washing water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "water for tamarind",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Rinse uncooked rice in clean water and reserve 450 ml of the cloudy second wash. Soak tamarind pulp in 120 ml warm water for 10 minutes, squeeze and strain to make tangy tamarind water.",
@@ -28,11 +79,26 @@
     "Pour in tamarind water and simmer 5 minutes to remove its raw taste. Add the reserved rice-washing water and salt, bring to a gentle simmer, then return the okra.",
     "Cook uncovered for 8–10 minutes until the okra is tender and the rice-water gravy is slightly thickened but still spoonable. Rest 5 minutes and serve with steamed rice; avoid over-stirring the okra."
   ],
-  "tips": ["Mandi means the cloudy water from washing rice; it gives this Chettinad tamarind-okra curry its characteristic light body."],
+  "tips": [
+    "Mandi means the cloudy water from washing rice; it gives this Chettinad tamarind-okra curry its characteristic light body."
+  ],
   "translations": {
     "hi": {
       "name": "वेंडक्कई मंडी",
-      "ingredients": ["भिंडी, सुखाकर 4 सेमी टुकड़ों में", "छिले छोटे प्याज़", "टमाटर, कटा", "चावल धोने का गाढ़ा पानी", "इमली का गूदा", "इमली के लिए पानी", "तिल का तेल", "राई", "करी पत्ते", "हल्दी पाउडर", "लाल मिर्च पाउडर", "नमक"],
+      "ingredients": [
+        "भिंडी, सुखाकर 4 सेमी टुकड़ों में",
+        "छिले छोटे प्याज़",
+        "टमाटर, कटा",
+        "चावल धोने का गाढ़ा पानी",
+        "इमली का गूदा",
+        "इमली के लिए पानी",
+        "तिल का तेल",
+        "राई",
+        "करी पत्ते",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "नमक"
+      ],
       "steps": [
         "कच्चे चावल साफ़ पानी में धोकर दूसरे धोवन का 450 मिली मटमैला पानी बचाएँ। इमली के गूदे को 120 मिली गुनगुने पानी में 10 मिनट भिगोएँ, मसलें और छानकर खट्टा इमली पानी बनाएँ।",
         "भिंडी धोकर 4 सेमी काटने से पहले पूरी तरह सुखाएँ; गीली भिंडी लसलसी हो जाती है। 25 मिली तिल के तेल में भिंडी मध्यम-तेज़ आँच पर 6–8 मिनट कटे किनारे हल्के सिकने तक भूनकर निकालें।",
@@ -40,11 +106,26 @@
         "इमली पानी डालकर 5 मिनट उबालें ताकि कच्चापन दूर हो। बचा चावल धोवन और नमक डालकर हल्का उबाल लाएँ, फिर भिंडी वापस डालें।",
         "बिना ढके 8–10 मिनट भिंडी नरम और चावल-पानी की ग्रेवी हल्की गाढ़ी पर तरल रहने तक पकाएँ। 5 मिनट रखकर चावल के साथ परोसें; भिंडी को ज़्यादा न चलाएँ।"
       ],
-      "tips": ["मंडी चावल धोने के मटमैले पानी को कहते हैं; इसी से चेट्टिनाड की इमली-भिंडी करी में खास हल्का गाढ़ापन आता है।"]
+      "tips": [
+        "मंडी चावल धोने के मटमैले पानी को कहते हैं; इसी से चेट्टिनाड की इमली-भिंडी करी में खास हल्का गाढ़ापन आता है।"
+      ]
     },
     "gu": {
       "name": "વેન્ડક્કાઈ માંડી",
-      "ingredients": ["ભીંડા, સૂકવી 4 સેમી ટુકડામાં", "છાલ ઉતારેલી નાની ડુંગળી", "ટામેટાં, સમારેલાં", "ચોખા ધોવાનું ઘટ્ટ પાણી", "આમલીનો ગર", "આમલી માટે પાણી", "તલનું તેલ", "રાઈ", "મીઠા લીમડાના પાન", "હળદર પાઉડર", "લાલ મરચું પાઉડર", "મીઠું"],
+      "ingredients": [
+        "ભીંડા, સૂકવી 4 સેમી ટુકડામાં",
+        "છાલ ઉતારેલી નાની ડુંગળી",
+        "ટામેટાં, સમારેલાં",
+        "ચોખા ધોવાનું ઘટ્ટ પાણી",
+        "આમલીનો ગર",
+        "આમલી માટે પાણી",
+        "તલનું તેલ",
+        "રાઈ",
+        "મીઠા લીમડાના પાન",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું"
+      ],
       "steps": [
         "કાચા ચોખા સ્વચ્છ પાણીમાં ધોઈ બીજા ધોવાણનું 450 મિલી ડહોળું પાણી સાચવો. આમલીનો ગર 120 મિલી હૂંફાળા પાણીમાં 10 મિનિટ પલાળો, મસળી ગાળી ખાટું આમલીનું પાણી બનાવો.",
         "ભીંડા ધોઈ 4 સેમી કાપતાં પહેલાં સાવ સૂકવો; ભીના ભીંડા ચીકણા થાય છે. 25 મિલી તલના તેલમાં ભીંડા મધ્યમથી ઊંચા તાપે 6–8 મિનિટ કાપેલી કિનારી સહેજ શેકાય ત્યાં સુધી સાંતળી કાઢો.",
@@ -52,10 +133,15 @@
         "આમલીનું પાણી નાખી કાચો સ્વાદ જાય ત્યાં સુધી 5 મિનિટ ઉકાળો. સાચવેલું ચોખાનું ધોવાણ અને મીઠું નાખી હળવો ઉકળાટ લાવો, પછી ભીંડા પાછા નાખો.",
         "ઢાંક્યા વગર 8–10 મિનિટ ભીંડા નરમ અને ચોખા-પાણીનો રસો થોડો ઘાટો છતાં રેડી શકાય તેવો થાય ત્યાં સુધી પકાવો. 5 મિનિટ રાખી ભાત સાથે પીરસો; ભીંડા વધારે હલાવશો નહીં."
       ],
-      "tips": ["માંડી એટલે ચોખા ધોવાનું ડહોળું પાણી; તે ચેટ્ટિનાડની આમલી-ભીંડાની કઢીને ખાસ હળવું ઘટ્ટપણું આપે છે."]
+      "tips": [
+        "માંડી એટલે ચોખા ધોવાનું ડહોળું પાણી; તે ચેટ્ટિનાડની આમલી-ભીંડાની કઢીને ખાસ હળવું ઘટ્ટપણું આપે છે."
+      ]
     }
   },
-  "reference": {"url": "https://ayahskitchenrediscovered.com/blog1/mandi", "use": "Chettinad mandi identity and rice-washing-water technique; measured recipe and wording independently developed."},
+  "reference": {
+    "url": "https://ayahskitchenrediscovered.com/blog1/mandi",
+    "use": "Chettinad mandi identity and rice-washing-water technique; measured recipe and wording independently developed."
+  },
   "photoDraft": "catalog/intake/photos/vendakkai-mandi.png",
-  "photoReview": "Visually reviewed for okra-tamarind curry, realistic appearance and photo quality on 2026-10-05."
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

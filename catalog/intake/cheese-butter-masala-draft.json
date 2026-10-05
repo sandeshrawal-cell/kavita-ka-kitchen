@@ -1,7 +1,7 @@
 {
   "sourceReviewId": "R0210",
   "id": "cheese-butter-masala",
-  "status": "draft-third-100-intake-batch",
+  "status": "published-third-100-intake-batch",
   "name": "Cheese Butter Masala",
   "cuisine": "North Indian",
   "categories": [
@@ -132,7 +132,7 @@
     }
   },
   "reference": {
-    "url": "https://hebbarskitchen.com/cheese-butter-masala-recipe/",
+    "url": "https://instamart.in/recipe/cheese-butter-masala",
     "use": "Cheese butter masala flavor profile; independently measured and authored."
   },
   "photoDraft": "catalog/intake/photos/cheese-butter-masala.png",

@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0226",
+  "id": "mushroom-kurma",
+  "status": "published-third-100-intake-batch",
+  "name": "Mushroom Kurma",
+  "cuisine": "South Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "button mushrooms, quartered",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "onions, sliced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chili",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Blend coconut, cashews, fennel, green chili and 120 ml water into a smooth kurma paste. Wipe mushrooms clean and quarter them.",
+    "Heat coconut oil and fry curry leaves briefly. Add onions and sauté 7 minutes until lightly golden; add ginger-garlic paste for 1 minute.",
+    "Add tomatoes, turmeric and salt. Cook 6 minutes, pressing the tomatoes until soft and thick.",
+    "Add mushrooms and stir-fry 5 minutes until they release moisture. Stir in the coconut-cashew paste and remaining water, then simmer gently 8 minutes until mushrooms are tender.",
+    "Taste for salt and rest 3 minutes before serving with chapati, appam or rice."
+  ],
+  "tips": [
+    "Do not soak mushrooms in water; wipe them clean so the kurma stays rich instead of watery."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम कुर्मा",
+      "ingredients": [
+        "बटन मशरूम, चार टुकड़े",
+        "ताज़ा कसा नारियल",
+        "कच्चे काजू",
+        "प्याज़, कटे",
+        "टमाटर, कटे",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च",
+        "सौंफ",
+        "कड़ी पत्ता",
+        "हल्दी",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "नारियल, काजू, सौंफ, हरी मिर्च और 120 मिली पानी चिकना कुर्मा पेस्ट पीसें। मशरूम पोंछकर चार टुकड़े करें।",
+        "नारियल तेल गरम कर कड़ी पत्ता थोड़ी देर भूनें। प्याज़ 7 मिनट हल्का सुनहरा करें; अदरक-लहसुन पेस्ट 1 मिनट पकाएँ।",
+        "टमाटर, हल्दी और नमक डालें। 6 मिनट टमाटर मसलते हुए नरम और गाढ़े होने तक पकाएँ।",
+        "मशरूम डालकर 5 मिनट भूनें ताकि वे नमी छोड़ें। नारियल-काजू पेस्ट और बचा पानी डालकर 8 मिनट हल्का उबालें, मशरूम नरम होने तक।",
+        "नमक जाँचें और चपाती, अप्पम या चावल के साथ परोसने से पहले 3 मिनट रहने दें।"
+      ],
+      "tips": [
+        "मशरूम पानी में न भिगोएँ; पोंछकर साफ करें ताकि कुर्मा पानीदार न बने।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ કુરમા",
+      "ingredients": [
+        "બટન મશરૂમ, ચાર ટુકડા",
+        "તાજું છીણેલું નાળિયેર",
+        "કાચા કાજુ",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું",
+        "વરિયાળી",
+        "મીઠો લીમડો",
+        "હળદર",
+        "નાળિયેર તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "નાળિયેર, કાજુ, વરિયાળી, લીલું મરચું અને 120 મિ.લી. પાણી લીસી કુરમા પેસ્ટ પીસો. મશરૂમ લૂછી ચાર ટુકડા કરો.",
+        "નાળિયેર તેલ ગરમ કરી મીઠો લીમડો થોડો શેકો. ડુંગળી 7 મિનિટ આછી સોનેરી કરો; આદુ-લસણની પેસ્ટ 1 મિનિટ રાંધો.",
+        "ટામેટાં, હળદર અને મીઠું નાખો. 6 મિનિટ ટામેટાં મસળતાં નરમ અને ઘટ્ટ થાય ત્યાં સુધી રાંધો.",
+        "મશરૂમ નાખી 5 મિનિટ શેકો જેથી ભેજ છોડે. નાળિયેર-કાજુની પેસ્ટ અને બાકી પાણી નાખી 8 મિનિટ ધીમે ઉકાળો, મશરૂમ નરમ થાય ત્યાં સુધી.",
+        "મીઠું ચાખો અને ચપાટી, અપ્પમ કે ભાત સાથે પીરસતાં પહેલાં 3 મિનિટ રહેવા દો."
+      ],
+      "tips": [
+        "મશરૂમ પાણીમાં ન પલાળો; લૂછી સાફ કરો જેથી કુરમા પાણી જેવું ન બને."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/mushroom-korma-recipe/",
+    "use": "South Indian coconut-cashew mushroom kurma; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-kurma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

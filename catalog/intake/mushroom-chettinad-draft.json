@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0273",
+  "id": "mushroom-chettinad",
+  "status": "published-third-100-intake-batch",
+  "name": "Mushroom Chettinad",
+  "cuisine": "Chettinad",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "button mushrooms, halved",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast peppercorns, fennel, coriander seeds and chilies on low heat for 2–3 minutes. Add coconut for the final minute; cool and grind with 70 ml water to a coarse paste.",
+    "Wipe mushrooms dry and halve. Heat oil in a wide pan; sauté mushrooms 5 minutes until their moisture evaporates, then remove.",
+    "In the same pan, fry curry leaves 20 seconds and onion 6 minutes until golden. Add ginger-garlic paste and stir 1 minute; add tomato and salt and cook 5 minutes.",
+    "Stir in coarse spice-coconut paste and remaining 80 ml water. Cook 5 minutes, stirring, until dark and aromatic; return mushrooms and toss well.",
+    "Simmer 3 minutes until mushrooms are coated in the thick peppery masala. Serve hot with rice or chapati."
+  ],
+  "tips": [
+    "Black pepper and roasted coconut should lead the flavor; avoid making it a generic tomato gravy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम चेट्टीनाड",
+      "ingredients": [
+        "बटन मशरूम, आधे कटे",
+        "प्याज़, कटा",
+        "टमाटर, कटे",
+        "ताज़ा कसा नारियल",
+        "काली मिर्च के दाने",
+        "सौंफ",
+        "साबुत धनिया",
+        "सूखी लाल मिर्च",
+        "करी पत्ते",
+        "अदरक-लहसुन पेस्ट",
+        "हल्का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "काली मिर्च, सौंफ, धनिया और मिर्च 2–3 मिनट धीमी आँच पर भूनें। आखिरी मिनट नारियल डालें; ठंडा कर 70 मि.ली. पानी से दरदरा पीसें।",
+        "मशरूम पोंछकर आधे काटें। चौड़े पैन में तेल गरम कर मशरूम 5 मिनट भूनें, जब तक पानी सूख जाए; फिर निकालें।",
+        "उसी पैन में करी पत्ते 20 सेकंड और प्याज़ 6 मिनट सुनहरा भूनें। अदरक-लहसुन 1 मिनट चलाएँ; टमाटर और नमक डालकर 5 मिनट पकाएँ।",
+        "दरदरा मसाला-नारियल पेस्ट और बचा 80 मि.ली. पानी मिलाएँ। 5 मिनट चलाकर गहरा और महकदार करें; मशरूम वापस डालकर अच्छी तरह मिलाएँ।",
+        "3 मिनट हल्का पकाएँ ताकि मशरूम गाढ़े काली मिर्च वाले मसाले से ढक जाएँ। चावल या चपाती के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "स्वाद में काली मिर्च और भुना नारियल मुख्य रखें; इसे साधारण टमाटर ग्रेवी न बनाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ ચેટ્ટીનાડ",
+      "ingredients": [
+        "બટન મશરૂમ, અડધાં કાપેલા",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "તાજું છીણેલું નાળિયેર",
+        "કાળા મરીના દાણા",
+        "વરિયાળી",
+        "આખા ધાણા",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "આદુ-લસણની પેસ્ટ",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "મરી, વરિયાળી, ધાણા અને મરચાં 2–3 મિનિટ ધીમા તાપે શેકો. છેલ્લી મિનિટ નાળિયેર ઉમેરો; ઠંડું કરી 70 મિ.લી. પાણીથી કરકરું પીસો.",
+        "મશરૂમ સૂકા લૂછી અડધાં કાપો. પહોળી કડાઈમાં તેલ ગરમ કરી 5 મિનિટ શેકો, પાણી સુકાય ત્યાં સુધી; પછી કાઢો.",
+        "એ જ કડાઈમાં મીઠા લીમડાનાં પાન 20 સેકંડ અને ડુંગળી 6 મિનિટ સોનેરી શેકો. આદુ-લસણ 1 મિનિટ હલાવો; ટામેટાં અને મીઠું નાખી 5 મિનિટ રાંધો.",
+        "કરકરો મસાલા-નાળિયેર પેસ્ટ અને બાકીનું 80 મિ.લી. પાણી ભેળવો. 5 મિનિટ હલાવી ઘેરું અને સુગંધિત કરો; મશરૂમ પાછાં નાખી સારી રીતે ભેળવો.",
+        "3 મિનિટ ધીમે રાંધો જેથી મશરૂમ ઘટ્ટ મરીવાળા મસાલાથી ઢંકાય. ભાત કે ચપાટી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "સ્વાદમાં મરી અને શેકેલું નાળિયેર મુખ્ય રાખો; તેને સામાન્ય ટામેટાની ગ્રેવી ન બનાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/chettinad-style-pepper-mushroom-recipe",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-chettinad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

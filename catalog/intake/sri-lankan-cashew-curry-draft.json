@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0247",
+  "id": "sri-lankan-cashew-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Sri Lankan Cashew Curry",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "raw cashews",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "water for soaking and cooking",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Sri Lankan roasted curry powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 90,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak raw cashews in 250 ml warm water for 30 minutes, then drain. If using dried hard cashews, soak longer according to the packet so they cook through evenly.",
+    "Heat coconut oil in a heavy pan and soften onion for 5 minutes. Add garlic, ginger, green chilies, curry leaves and cinnamon; cook 1 minute until fragrant.",
+    "Stir in turmeric and roasted curry powder for 30 seconds. Add soaked cashews and remaining 150 ml water, cover and simmer gently for 12–15 minutes until the nuts begin to soften.",
+    "Pour in coconut milk and salt. Simmer uncovered for 10–12 minutes, stirring occasionally, until the cashews are tender and the pale golden sauce is creamy; avoid a hard boil.",
+    "Add green peas for the last 3 minutes. Remove cinnamon, rest 5 minutes and serve with rice or hoppers. The cashews should remain whole and plump, not blended into a paste."
+  ],
+  "tips": [
+    "Start with raw unsalted cashews; roasted salted snack cashews will not soften into the traditional creamy kaju maluwa texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "श्रीलंकाई काजू करी",
+      "ingredients": [
+        "कच्चे काजू",
+        "नारियल दूध",
+        "भिगोने और पकाने का पानी",
+        "प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, कद्दूकस",
+        "हरी मिर्च, चीरी",
+        "करी पत्ते",
+        "दालचीनी",
+        "हल्दी पाउडर",
+        "श्रीलंकाई भुना करी पाउडर",
+        "नारियल तेल",
+        "नमक",
+        "हरे मटर"
+      ],
+      "steps": [
+        "कच्चे काजू 250 मिली गुनगुने पानी में 30 मिनट भिगोकर छानें। अगर बहुत सूखे सख्त काजू हों तो पैकेट के अनुसार अधिक भिगोएँ ताकि समान रूप से पकें।",
+        "भारी पैन में नारियल तेल गरम करके प्याज़ 5 मिनट नरम करें। लहसुन, अदरक, हरी मिर्च, करी पत्ते और दालचीनी डालकर 1 मिनट सुगंध आने तक पकाएँ।",
+        "हल्दी और भुना करी पाउडर 30 सेकंड चलाएँ। भीगे काजू और बचा 150 मिली पानी डालें, ढककर 12–15 मिनट हल्का उबालें ताकि काजू नरम होने लगें।",
+        "नारियल दूध और नमक डालें। कभी-कभी चलाते हुए 10–12 मिनट बिना ढके पकाएँ ताकि काजू नरम और हल्का सुनहरा रस मलाईदार बने; तेज़ उबाल न दें।",
+        "आखिरी 3 मिनट में मटर डालें। दालचीनी निकालें, 5 मिनट रखकर चावल या हॉपर के साथ परोसें। काजू साबुत और भरे रहने चाहिए, पेस्ट नहीं बनने चाहिए।"
+      ],
+      "tips": [
+        "कच्चे बिना नमक वाले काजू लें; भुने नमकीन स्नैक काजू पारंपरिक मलाईदार काजू मलुवा की तरह नरम नहीं होते।"
+      ]
+    },
+    "gu": {
+      "name": "શ્રીલંકન કાજુ કરી",
+      "ingredients": [
+        "કાચા કાજુ",
+        "નાળિયેરનું દૂધ",
+        "પલાળવા અને રાંધવા માટે પાણી",
+        "ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "આદુ, છીણેલું",
+        "લીલાં મરચાં, ચીરેલાં",
+        "મીઠા લીમડાનાં પાન",
+        "તજનો ટુકડો",
+        "હળદર પાઉડર",
+        "શ્રીલંકન શેકેલો કરી પાઉડર",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "લીલા વટાણા"
+      ],
+      "steps": [
+        "કાચા કાજુ 250 મિલી હૂંફાળા પાણીમાં 30 મિનિટ પલાળી નિતારો. ખૂબ સૂકા કડક કાજુ હોય તો પૅકેટ પ્રમાણે વધુ પલાળો જેથી સરખા પકે.",
+        "જાડા પૅનમાં નાળિયેરનું તેલ ગરમ કરી ડુંગળી 5 મિનિટ નરમ કરો. લસણ, આદુ, લીલાં મરચાં, મીઠા લીમડાનાં પાન અને તજ નાખી 1 મિનિટ સુગંધ આવે ત્યાં સુધી રાંધો.",
+        "હળદર અને શેકેલો કરી પાઉડર 30 સેકન્ડ હલાવો. પલાળેલા કાજુ અને બાકીનું 150 મિલી પાણી નાખી ઢાંકી 12–15 મિનિટ હળવેથી ઉકાળો જેથી કાજુ નરમ થવા લાગે.",
+        "નાળિયેરનું દૂધ અને મીઠું નાખો. વચ્ચે-વચ્ચે હલાવી 10–12 મિનિટ ઢાંક્યા વગર રાંધો જેથી કાજુ નરમ અને આછો સોનેરી રસો મલાઈદાર બને; તેજ ઉકાળો નહીં.",
+        "છેલ્લી 3 મિનિટે વટાણા નાખો. તજ કાઢી 5 મિનિટ રાખો અને ભાત કે હોપર સાથે પીરસો. કાજુ આખા અને ભરાવદાર રહેવા જોઈએ, પેસ્ટ નહીં."
+      ],
+      "tips": [
+        "કાચા મીઠા વગરના કાજુ લો; શેકેલા મીઠાવાળા નાસ્તાના કાજુ પરંપરાગત મલાઈદાર કાજુ મલુવા જેવા નરમ નહીં થાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://guide.michelin.com/sg/en/article/dining-in/recipe-rishi-naleendra-sri-lankan-cashew-curry",
+    "use": "Chef's family kaju maluwa recipe informed cashew-coconut pairing; quantities and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/sri-lankan-cashew-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

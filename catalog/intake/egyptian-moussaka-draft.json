@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0251",
+  "id": "egyptian-moussaka",
+  "status": "published-third-100-intake-batch",
+  "name": "Egyptian Moussaka",
+  "cuisine": "Egyptian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "ingredients": [
+    {
+      "name": "aubergines, sliced into rounds",
+      "qty": 850,
+      "unit": "g"
+    },
+    {
+      "name": "red bell peppers, sliced",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, crushed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "tomato paste",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "parsley, chopped",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 220°C. Slice aubergine into 1 cm rounds, brush with 45 ml oil and sprinkle with 5 g salt. Roast on lined trays for 20–25 minutes, turning once, until browned and flexible.",
+    "Meanwhile heat remaining oil in a pan. Cook onion and peppers 7–8 minutes until soft, then add garlic for 1 minute.",
+    "Stir in cumin, coriander and tomato paste for 1 minute. Add crushed tomatoes, remaining 6 g salt and black pepper; simmer uncovered 15 minutes until thick, then stir in half the parsley.",
+    "Layer half the aubergine in a shallow baking dish, spread with half the tomato-pepper sauce, and repeat. Press gently so the sauce reaches between slices.",
+    "Bake at 190°C for 20 minutes until bubbling and the top is lightly caramelized. Rest 10 minutes, scatter remaining parsley and serve with flatbread or rice; Egyptian mesa'ah has no béchamel layer."
+  ],
+  "tips": [
+    "Roast aubergine before layering to avoid a watery casserole; this meatless Egyptian version relies on the rich tomato-pepper sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मिस्री मुसाका",
+      "ingredients": [
+        "बैंगन, गोल कटे",
+        "लाल शिमला मिर्च, कटी",
+        "प्याज़, कटा",
+        "कुचले टमाटर",
+        "लहसुन, बारीक कटा",
+        "टमाटर पेस्ट",
+        "जैतून तेल",
+        "पिसा जीरा",
+        "पिसा धनिया",
+        "पिसी काली मिर्च",
+        "नमक",
+        "पार्सले, कटी"
+      ],
+      "steps": [
+        "ओवन 220°C पर गरम करें। बैंगन 1 सेमी गोल काटें, 45 मिली तेल लगाएँ और 5 ग्राम नमक छिड़कें। ट्रे पर फैलाकर 20–25 मिनट बीच में एक बार पलटते हुए भूरा और नरम भूनें।",
+        "साथ ही पैन में बचा तेल गरम करें। प्याज़ और शिमला मिर्च 7–8 मिनट नरम करें, फिर लहसुन 1 मिनट पकाएँ।",
+        "जीरा, धनिया और टमाटर पेस्ट 1 मिनट चलाएँ। कुचले टमाटर, बचा 6 ग्राम नमक और काली मिर्च डालकर 15 मिनट बिना ढके गाढ़ा उबालें; आधी पार्सले मिलाएँ।",
+        "उथली बेकिंग डिश में आधा बैंगन बिछाएँ, आधी टमाटर-मिर्च चटनी फैलाएँ और परतें दोहराएँ। हल्का दबाएँ ताकि चटनी फाँकों के बीच पहुँचे।",
+        "190°C पर 20 मिनट बुलबुले आने और ऊपर हल्का भूरा होने तक बेक करें। 10 मिनट रखें, बाकी पार्सले छिड़कें और रोटी या चावल के साथ परोसें; मिस्री मसाका में बेशमेल की परत नहीं होती।"
+      ],
+      "tips": [
+        "परत लगाने से पहले बैंगन भूनें ताकि डिश पानीदार न बने; इस बिना मांस वाले मिस्री रूप का स्वाद गाढ़े टमाटर-मिर्च रस से आता है।"
+      ]
+    },
+    "gu": {
+      "name": "ઇજિપ્શિયન મુસાકા",
+      "ingredients": [
+        "રિંગણ, ગોળ સમારેલાં",
+        "લાલ શિમલા મરચાં, સમારેલાં",
+        "ડુંગળી, સમારેલી",
+        "છૂંદેલાં ટામેટાં",
+        "લસણ, બારીક સમારેલું",
+        "ટામેટાંની પેસ્ટ",
+        "ઓલિવ તેલ",
+        "દળેલું જીરું",
+        "દળેલા ધાણા",
+        "દળેલી કાળી મરી",
+        "મીઠું",
+        "પાર્સલી, સમારેલી"
+      ],
+      "steps": [
+        "ઓવન 220°C પર ગરમ કરો. રિંગણ 1 સેમી ગોળ કાપી 45 મિલી તેલ લગાવો અને 5 ગ્રામ મીઠું છાંટો. ટ્રેમાં ફેલાવી 20–25 મિનિટ વચ્ચે એક વાર ફેરવી ભૂખરાં અને નરમ થાય ત્યાં સુધી શેકો.",
+        "સાથે પૅનમાં બાકીનું તેલ ગરમ કરો. ડુંગળી અને શિમલા મરચાં 7–8 મિનિટ નરમ કરો, પછી લસણ 1 મિનિટ રાંધો.",
+        "જીરું, ધાણા અને ટામેટાંની પેસ્ટ 1 મિનિટ હલાવો. છૂંદેલાં ટામેટાં, બાકીનું 6 ગ્રામ મીઠું અને કાળી મરી નાખી 15 મિનિટ ઢાંક્યા વગર ઘાટું ઉકાળો; અડધી પાર્સલી ભેળવો.",
+        "છીછરી બેકિંગ ડિશમાં અડધાં રિંગણ ગોઠવો, અડધો ટામેટાં-મરચાંનો રસો ફેલાવો અને પડ ફરી ગોઠવો. રસો કતરીઓ વચ્ચે જાય તેમ સહેજ દબાવો.",
+        "190°C પર 20 મિનિટ પરપોટા આવે અને ઉપર સહેજ ભૂખરું થાય ત્યાં સુધી બેક કરો. 10 મિનિટ રાખી બાકી પાર્સલી છાંટો અને રોટલી કે ભાત સાથે પીરસો; ઇજિપ્શિયન મસાકામાં બેશમેલનો પડ નથી."
+      ],
+      "tips": [
+        "પડ ગોઠવતાં પહેલાં રિંગણ શેકો જેથી વાનગી પાણીવાળી ન થાય; આ માંસ વગરના ઇજિપ્શિયન રૂપનો સ્વાદ ઘાટા ટામેટાં-મરચાંના રસાથી આવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.linsfood.com/vegan-egyptian-moussaka/",
+    "use": "Vegetarian Egyptian aubergine-tomato mesa'ah identity; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/egyptian-moussaka.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0245",
+  "id": "ginataang-kalabasa",
+  "status": "published-third-100-intake-batch",
+  "name": "Ginataang Kalabasa",
+  "cuisine": "Filipino",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "kabocha squash, seeded and cubed",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "long beans, cut into 5 cm lengths",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, sliced into thin strips",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, sliced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Seed the squash and cut it into even 3 cm cubes, leaving tender skin on if using kabocha. Cut long beans into 5 cm pieces and keep separate so they are added later.",
+    "Heat oil in a wide pot. Cook onion for 4 minutes, then add garlic, ginger and green chilies and stir for 1 minute without browning the garlic.",
+    "Add squash, vegetable stock, half the coconut milk and salt. Cover and simmer gently for 10–12 minutes until squash is nearly tender but holds its shape.",
+    "Add long beans and remaining coconut milk. Simmer uncovered for 6–8 minutes until beans are tender-crisp and squash is fully cooked; do not boil vigorously or the coconut sauce may split.",
+    "Season with soy sauce and black pepper, rest 3 minutes and serve over rice. Use a clearly labelled vegetarian seasoning to keep this coconut stew plant-based."
+  ],
+  "tips": [
+    "Use firm squash and add beans near the end; both should remain distinct in the creamy coconut sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गिनातांग कलबासा",
+      "ingredients": [
+        "कबोचा कद्दू, बीज निकालकर टुकड़ों में",
+        "लंबी फली, 5 सेमी टुकड़ों में",
+        "नारियल दूध",
+        "सब्ज़ियों का शोरबा",
+        "प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, पतली कतरन",
+        "हरी मिर्च, कटी",
+        "हल्का तेल",
+        "सोया सॉस",
+        "नमक",
+        "पिसी काली मिर्च"
+      ],
+      "steps": [
+        "कद्दू के बीज निकालकर समान 3 सेमी टुकड़ों में काटें; कबोचा की नरम छाल चाहें तो रहने दें। लंबी फलियाँ 5 सेमी काटकर अलग रखें ताकि बाद में डाल सकें।",
+        "चौड़े बर्तन में तेल गरम करें। प्याज़ 4 मिनट पकाएँ, फिर लहसुन, अदरक और हरी मिर्च डालकर बिना लहसुन भूरा किए 1 मिनट चलाएँ।",
+        "कद्दू, सब्ज़ियों का शोरबा, आधा नारियल दूध और नमक डालें। ढककर 10–12 मिनट हल्का उबालें ताकि कद्दू लगभग नरम हो पर आकार बना रहे।",
+        "फलियाँ और बचा नारियल दूध डालें। बिना ढके 6–8 मिनट पकाएँ ताकि फलियाँ हल्की कुरकुरी और कद्दू पूरी तरह नरम हो; तेज़ उबाल से नारियल की चटनी फट सकती है।",
+        "सोया सॉस और काली मिर्च मिलाएँ, 3 मिनट रखें और चावल के ऊपर परोसें। नारियल की इस सब्ज़ी को पौधों पर आधारित रखने के लिए स्पष्ट शाकाहारी लिखा मसाला लें।"
+      ],
+      "tips": [
+        "सख्त कद्दू लें और फलियाँ अंत के पास डालें; मलाईदार नारियल चटनी में दोनों के टुकड़े अलग दिखने चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "ગિનાતાંગ કલાબાસા",
+      "ingredients": [
+        "કાબોચા કોળું, બી કાઢી ટુકડામાં",
+        "લાંબી શીંગ, 5 સેમી ટુકડામાં",
+        "નાળિયેરનું દૂધ",
+        "શાકભાજીનો સ્ટોક",
+        "ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "આદુ, પાતળી કતરણ",
+        "લીલાં મરચાં, સમારેલાં",
+        "હળવું તેલ",
+        "સોયા સોસ",
+        "મીઠું",
+        "દળેલી કાળી મરી"
+      ],
+      "steps": [
+        "કોળાનાં બી કાઢી સરખા 3 સેમી ટુકડામાં કાપો; કાબોચાની નરમ છાલ ઇચ્છો તો રાખો. લાંબી શીંગ 5 સેમી કાપી અલગ રાખો જેથી પછી નાખી શકાય.",
+        "પહોળા વાસણમાં તેલ ગરમ કરો. ડુંગળી 4 મિનિટ રાંધો, પછી લસણ, આદુ અને લીલાં મરચાં નાખી લસણ ભૂખરું ન થાય તેમ 1 મિનિટ હલાવો.",
+        "કોળું, શાકભાજીનો સ્ટોક, અડધું નાળિયેરનું દૂધ અને મીઠું નાખો. ઢાંકી 10–12 મિનિટ હળવેથી ઉકાળો જેથી કોળું લગભગ નરમ પણ આકારમાં રહે.",
+        "શીંગ અને બાકીનું નાળિયેરનું દૂધ નાખો. ઢાંક્યા વગર 6–8 મિનિટ શીંગ સહેજ કરકરી અને કોળું સંપૂર્ણ નરમ થાય ત્યાં સુધી રાંધો; વધુ તેજ ઉકળે તો નાળિયેરનો રસો ફાટી શકે.",
+        "સોયા સોસ અને કાળો મરી ભેળવો, 3 મિનિટ રહેવા દો અને ભાત પર પીરસો. નાળિયેરની આ વાનગી વનસ્પતિ આધારિત રાખવા સ્પષ્ટ શાકાહારી લખેલો મસાલો લો."
+      ],
+      "tips": [
+        "મજબૂત કોળું લો અને શીંગ છેલ્લે નાખો; મલાઈદાર નાળિયેરના રસામાં બંનેના ટુકડા અલગ દેખાવા જોઈએ."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://cinnamonsnail.com/vegan-ginataang-kalabasa/",
+    "use": "Filipino squash-and-bean coconut stew in a vegetarian form; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/ginataang-kalabasa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

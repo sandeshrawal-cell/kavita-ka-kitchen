@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0270",
+  "id": "makhana-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Makhana Curry",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "fox nuts, makhana",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Roast makhana in 10 g ghee over low-medium heat for 5–6 minutes, stirring, until crisp and lightly golden. Remove promptly so they do not burn.",
+    "Soak cashews in hot water 15 minutes and blend with 80 ml measured water until smooth. Heat remaining ghee and cook onion for 7 minutes until golden; add ginger-garlic paste for 1 minute.",
+    "Add tomato puree, coriander powder, chili and salt. Cook 8–10 minutes until thick and the ghee separates at the edges.",
+    "Stir in cashew paste and remaining 220 ml water. Simmer 5 minutes, then add cream and garam masala on low heat.",
+    "Fold roasted makhana into the hot gravy and simmer only 2 minutes so the centers soften but retain shape. Sprinkle coriander and serve at once with roti."
+  ],
+  "tips": [
+    "Add roasted makhana shortly before serving; long soaking makes them mushy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मखाना करी",
+      "ingredients": [
+        "मखाने",
+        "टमाटर प्यूरी",
+        "प्याज़, बारीक कटा",
+        "काजू",
+        "अदरक-लहसुन पेस्ट",
+        "घी",
+        "क्रीम",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "10 ग्राम घी में मखाने धीमी-मध्यम आँच पर 5–6 मिनट चलाकर कुरकुरे और हल्के सुनहरे भूनें। जलने से पहले निकालें।",
+        "काजू 15 मिनट गरम पानी में भिगोकर दिए पानी के 80 मि.ली. से चिकना पीसें। बचा घी गरम कर प्याज़ 7 मिनट सुनहरा करें; अदरक-लहसुन 1 मिनट पकाएँ।",
+        "टमाटर प्यूरी, धनिया, मिर्च और नमक डालकर 8–10 मिनट गाढ़ा करें, जब तक किनारों पर घी अलग दिखे।",
+        "काजू पेस्ट और बचा 220 मि.ली. पानी मिलाएँ। 5 मिनट हल्का उबालें, फिर धीमी आँच पर क्रीम और गरम मसाला डालें।",
+        "भुने मखाने गरम ग्रेवी में मिलाकर केवल 2 मिनट पकाएँ ताकि भीतर नरम हों लेकिन आकार रहे। धनिया डालकर तुरंत रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "भुने मखाने परोसने से थोड़ा पहले डालें; देर तक ग्रेवी में रहने से गल जाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "મખાણા કરી",
+      "ingredients": [
+        "મખાણા",
+        "ટામેટાની પ્યુરી",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "કાજુ",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘી",
+        "ક્રીમ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "10 ગ્રામ ઘીમાં મખાણા ધીમા-મધ્યમ તાપે 5–6 મિનિટ હલાવી કરકરાં અને હળવા સોનેરી શેકો. બળે તે પહેલાં કાઢો.",
+        "કાજુ 15 મિનિટ ગરમ પાણીમાં પલાળી આપેલા 80 મિ.લી. પાણીથી મસૃણ પીસો. બાકીનું ઘી ગરમ કરી ડુંગળી 7 મિનિટ સોનેરી કરો; આદુ-લસણ 1 મિનિટ રાંધો.",
+        "ટામેટાની પ્યુરી, ધાણા, મરચું અને મીઠું નાખી 8–10 મિનિટ ઘટ્ટ કરો, કિનારે ઘી છૂટે ત્યાં સુધી.",
+        "કાજુ પેસ્ટ અને બાકીનું 220 મિ.લી. પાણી ઉમેરો. 5 મિનિટ ધીમે ઉકાળો, પછી ધીમા તાપે ક્રીમ અને ગરમ મસાલો નાખો.",
+        "શેકેલા મખાણા ગરમ ગ્રેવીમાં ભેળવી માત્ર 2 મિનિટ રાંધો જેથી અંદર નરમ થાય પણ આકાર રહે. કોથમીર ભભરાવી તરત રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "શેકેલા મખાણા પીરસતા થોડું પહેલાં ઉમેરો; લાંબો સમય ગ્રેવીમાં રહેવાથી ઢીલા પડી જાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/khoya-matar-makhana-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/makhana-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

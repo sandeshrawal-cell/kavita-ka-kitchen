@@ -1,0 +1,175 @@
+{
+  "sourceReviewId": "R0241",
+  "id": "malaysian-vegetable-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Malaysian Vegetable Curry",
+  "cuisine": "Malaysian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "potatoes, cubed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "aubergine, cubed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, cut into pieces",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "long beans, cut into lengths",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tofu puffs",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemongrass stalks, bruised",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian Malaysian curry powder",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut the vegetables into bite-sized pieces of similar thickness. Check the curry powder label to ensure it is vegetarian; bruise the lemongrass with the back of a knife.",
+    "Heat oil in a deep pan. Cook onion for 5 minutes, then add ginger and lemongrass for 1 minute. Stir in curry powder and turmeric with a splash of water and fry 2 minutes until fragrant.",
+    "Add potatoes, carrots and 300 ml water. Cover and simmer 10 minutes so the firm vegetables start to soften before the quicker-cooking ones go in.",
+    "Pour in coconut milk and add aubergine, cabbage and long beans. Simmer uncovered 10–12 minutes until everything is tender but the beans still have some bite. Add tofu puffs for the final 5 minutes to absorb the sauce.",
+    "Remove the lemongrass, add salt and lime juice, and rest 5 minutes. Serve the fragrant coconut curry with steamed rice."
+  ],
+  "tips": [
+    "Use a clearly labelled vegetarian curry powder or paste. Add tender vegetables later so they do not turn mushy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मलेशियाई सब्ज़ी करी",
+      "ingredients": [
+        "आलू, टुकड़ों में",
+        "बैंगन, टुकड़ों में",
+        "पत्तागोभी, टुकड़ों में",
+        "लंबी फली, टुकड़ों में",
+        "गाजर, कटी",
+        "टोफू पफ",
+        "प्याज़, कटा",
+        "अदरक, कद्दूकस",
+        "लेमनग्रास की डंडियाँ, कुचली",
+        "शाकाहारी मलेशियाई करी पाउडर",
+        "हल्दी पाउडर",
+        "नारियल दूध",
+        "पानी",
+        "हल्का तेल",
+        "नमक",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "सब्ज़ियों को खाने लायक लगभग समान मोटाई के टुकड़ों में काटें। करी पाउडर का लेबल देखकर सुनिश्चित करें कि वह शाकाहारी है; लेमनग्रास चाकू की पीठ से कुचलें।",
+        "गहरे पैन में तेल गरम करें। प्याज़ 5 मिनट पकाएँ, फिर अदरक और लेमनग्रास 1 मिनट भूनें। थोड़ा पानी डालकर करी पाउडर और हल्दी मिलाएँ और खुशबू आने तक 2 मिनट भूनें।",
+        "आलू, गाजर और 300 मिली पानी डालें। ढककर 10 मिनट उबालें ताकि सख्त सब्ज़ियाँ नरम होने लगें, फिर जल्दी पकने वाली सब्ज़ियाँ डालें।",
+        "नारियल दूध, बैंगन, पत्तागोभी और फलियाँ डालें। बिना ढके 10–12 मिनट पकाएँ ताकि सब नरम हों पर फलियों में थोड़ा कुरकुरापन रहे। आखिरी 5 मिनट में टोफू पफ डालें ताकि वे रस सोख लें।",
+        "लेमनग्रास निकालें, नमक और नींबू का रस मिलाएँ और 5 मिनट रखें। सुगंधित नारियल करी चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "स्पष्ट रूप से शाकाहारी लिखा करी पाउडर या पेस्ट ही लें। नाज़ुक सब्ज़ियाँ बाद में डालें ताकि वे गले नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "મલેશિયન શાકભાજીની કરી",
+      "ingredients": [
+        "બટાકા, ટુકડામાં",
+        "રિંગણ, ટુકડામાં",
+        "કોબી, ટુકડામાં",
+        "લાંબી શીંગ, ટુકડામાં",
+        "ગાજર, સમારેલા",
+        "ટોફુ પફ",
+        "ડુંગળી, સમારેલી",
+        "આદુ, છીણેલું",
+        "લેમનગ્રાસના દાંડા, કચડેલા",
+        "શાકાહારી મલેશિયન કરી પાઉડર",
+        "હળદર પાઉડર",
+        "નાળિયેરનું દૂધ",
+        "પાણી",
+        "હળવું તેલ",
+        "મીઠું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "શાકભાજી ખાવા યોગ્ય લગભગ સરખી જાડાઈના ટુકડામાં કાપો. કરી પાઉડરના લેબલમાં તે શાકાહારી છે તે તપાસો; લેમનગ્રાસને ચપ્પાની પાછળથી કચડો.",
+        "ઊંડા પૅનમાં તેલ ગરમ કરો. ડુંગળી 5 મિનિટ રાંધો, પછી આદુ અને લેમનગ્રાસ 1 મિનિટ શેકો. થોડું પાણી નાખીને કરી પાઉડર અને હળદર ભેળવી સુગંધ આવે ત્યાં સુધી 2 મિનિટ શેકો.",
+        "બટાકા, ગાજર અને 300 મિલી પાણી નાખો. ઢાંકીને 10 મિનિટ ઉકાળો જેથી સખત શાક નરમ થવા લાગે, પછી ઝડપથી રંધાતાં શાક ઉમેરો.",
+        "નાળિયેરનું દૂધ, રિંગણ, કોબી અને શીંગ નાખો. ઢાંક્યા વગર 10–12 મિનિટ શાક નરમ પરંતુ શીંગ સહેજ કરકરી રહે ત્યાં સુધી રાંધો. છેલ્લી 5 મિનિટે ટોફુ પફ નાખો જેથી રસ શોષે.",
+        "લેમનગ્રાસ કાઢો, મીઠું અને લીંબુનો રસ ભેળવો અને 5 મિનિટ રહેવા દો. સુગંધી નાળિયેર કરી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "સ્પષ્ટ રીતે શાકાહારી લખેલો કરી પાઉડર કે પેસ્ટ જ લો. નાજુક શાક પછી નાખો જેથી વધુ ગળી ન જાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.nyonyacooking.com/recipes/vegetable-curry~IYPTk55xu8",
+    "use": "Malaysian mixed-vegetable coconut curry identity; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/malaysian-vegetable-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

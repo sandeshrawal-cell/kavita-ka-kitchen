@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0250",
+  "id": "vegetarian-fesenjan",
+  "status": "published-third-100-intake-batch",
+  "name": "Vegetarian Fesenjan",
+  "cuisine": "Persian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "ingredients": [
+    {
+      "name": "aubergine, cubed",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate molasses",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 550,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate arils",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Toss aubergine cubes with 30 ml oil and 4 g salt; spread in one layer and roast 25–30 minutes until browned and tender. Grind walnuts finely, stopping before they become butter.",
+    "Meanwhile heat remaining oil in a heavy pan and cook onion 8 minutes until golden. Stir in cinnamon and turmeric for 30 seconds.",
+    "Add ground walnuts and stir over low heat for 3 minutes, then pour in vegetable stock gradually while whisking. Simmer very gently 20 minutes, stirring often so the walnuts do not stick.",
+    "Stir in pomegranate molasses, brown sugar, remaining salt and black pepper. Simmer another 10 minutes until the sauce turns dark and thick; balance sourness with a little more sugar only if needed.",
+    "Fold roasted aubergine into the walnut sauce and warm 5 minutes. Rest 10 minutes, scatter pomegranate arils on top and serve with saffron rice."
+  ],
+  "tips": [
+    "Keep the walnut sauce at a gentle simmer; a hard boil can scorch the nuts. Fesenjan is intentionally dark and sweet-sour from walnuts and pomegranate."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी फेसेंजान",
+      "ingredients": [
+        "बैंगन, टुकड़ों में",
+        "अखरोट",
+        "प्याज़, बारीक कटा",
+        "अनार का गाढ़ा शीरा",
+        "सब्ज़ियों का शोरबा",
+        "जैतून तेल",
+        "पिसी दालचीनी",
+        "पिसी हल्दी",
+        "भूरी चीनी",
+        "नमक",
+        "पिसी काली मिर्च",
+        "अनार के दाने"
+      ],
+      "steps": [
+        "ओवन 220°C पर गरम करें। बैंगन में 30 मिली तेल और 4 ग्राम नमक मिलाकर एक परत में फैलाएँ और 25–30 मिनट भूरा व नरम होने तक भूनें। अखरोट महीन पीसें, मक्खन जैसा बनने से पहले रोकें।",
+        "साथ ही भारी पैन में बचा तेल गरम कर प्याज़ 8 मिनट सुनहरा करें। दालचीनी और हल्दी 30 सेकंड चलाएँ।",
+        "पिसे अखरोट डालकर धीमी आँच पर 3 मिनट चलाएँ, फिर धीरे-धीरे सब्ज़ियों का शोरबा डालते हुए फेंटें। अखरोट तले से न चिपके इसलिए बार-बार चलाते हुए 20 मिनट बहुत धीमी आँच पर पकाएँ।",
+        "अनार का शीरा, भूरी चीनी, बचा नमक और काली मिर्च मिलाएँ। सॉस गहरा और गाढ़ा होने तक 10 मिनट और पकाएँ; बहुत खट्टा हो तभी थोड़ी और चीनी डालें।",
+        "भुना बैंगन अखरोट सॉस में धीरे मिलाकर 5 मिनट गरम करें। 10 मिनट रखें, ऊपर अनार दाने छिड़कें और केसरिया चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "अखरोट की चटनी बहुत हल्की आँच पर पकाएँ; तेज़ उबाल से अखरोट जल सकते हैं। फेसेंजान अखरोट और अनार से जानबूझकर गहरा और खट्टा-मीठा होता है।"
+      ]
+    },
+    "gu": {
+      "name": "શાકાહારી ફેસેન્જાન",
+      "ingredients": [
+        "રિંગણ, ટુકડામાં",
+        "અખરોટ",
+        "ડુંગળી, બારીક સમારેલી",
+        "દાડમનો ઘટ્ટ શીરો",
+        "શાકભાજીનો સ્ટોક",
+        "ઓલિવ તેલ",
+        "દળેલી તજ",
+        "દળેલી હળદર",
+        "ભૂરી ખાંડ",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "દાડમના દાણા"
+      ],
+      "steps": [
+        "ઓવન 220°C પર ગરમ કરો. રિંગણમાં 30 મિલી તેલ અને 4 ગ્રામ મીઠું ભેળવી એક જ પડમાં ફેલાવો અને 25–30 મિનિટ ભૂખરું તથા નરમ થાય ત્યાં સુધી શેકો. અખરોટ બારીક વાટો, માખણ જેવા થાય તે પહેલાં અટકો.",
+        "સાથે જાડા પૅનમાં બાકીનું તેલ ગરમ કરી ડુંગળી 8 મિનિટ સોનેરી કરો. તજ અને હળદર 30 સેકન્ડ હલાવો.",
+        "દળેલા અખરોટ નાખી ધીમા તાપે 3 મિનિટ હલાવો, પછી શાકભાજીનો સ્ટોક ધીમે-ધીમે નાખતાં ફેંટો. અખરોટ તળિયે ચોંટે નહીં તેથી વારંવાર હલાવી 20 મિનિટ ખૂબ ધીમે રાંધો.",
+        "દાડમનો શીરો, ભૂરી ખાંડ, બાકીનું મીઠું અને કાળી મરી ભેળવો. રસો ઘેરો અને ઘાટો થાય ત્યાં સુધી 10 મિનિટ વધુ રાંધો; ખૂબ ખાટો હોય તો જ થોડી વધુ ખાંડ નાખો.",
+        "શેકેલું રિંગણ અખરોટના રસામાં હળવેથી ભેળવી 5 મિનિટ ગરમ કરો. 10 મિનિટ રહેવા દો, ઉપર દાડમના દાણા છાંટી કેસરવાળા ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "અખરોટનો રસો ખૂબ ધીમે ઉકાળો; તેજ ઉકળે તો અખરોટ બળી શકે. ફેસેન્જાન અખરોટ અને દાડમથી ઘેરું તથા ખાટું-મીઠું જ હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.theguardian.com/food/2019/feb/09/vegan-fesenjan-recipe-roast-aubergine-pomegranate-walnut-sauce",
+    "use": "Meera Sodha's aubergine, walnut and pomegranate vegetarian fesenjan informed dish identity; quantities and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/vegetarian-fesenjan.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

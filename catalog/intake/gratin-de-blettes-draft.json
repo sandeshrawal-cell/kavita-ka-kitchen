@@ -1,0 +1,133 @@
+{
+  "sourceReviewId": "R0258",
+  "id": "gratin-de-blettes",
+  "status": "published-third-100-intake-batch",
+  "name": "Gratin de Blettes",
+  "cuisine": "French",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "Swiss chard, stems and leaves separated",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian melting cheese, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "dry breadcrumbs",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 200°C. Wash chard thoroughly. Cut stems into 1 cm pieces and roughly chop leaves, keeping them separate because the stems take longer to cook.",
+    "Blanch stems in boiling water 5 minutes, add leaves for the last 2 minutes, then drain and squeeze out as much water as possible. Spread in a buttered baking dish.",
+    "Melt 35 g butter in a saucepan and soften onion for 5 minutes. Add flour and stir 1 minute, then whisk in milk gradually; simmer 4 minutes until thick and smooth.",
+    "Season the béchamel with nutmeg, salt and pepper and stir in half the vegetarian cheese. Pour over the chard, gently lifting the vegetables so sauce reaches underneath.",
+    "Mix breadcrumbs with remaining cheese and 15 g melted butter and scatter over the dish. Bake 20–25 minutes until bubbling and golden, then rest 8 minutes before serving."
+  ],
+  "tips": [
+    "Cook chard stems before leaves and squeeze both thoroughly; excess water makes the béchamel gratin thin. Use clearly labelled vegetarian cheese."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्रातां द ब्लेत",
+      "ingredients": [
+        "स्विस चार्ड, डंठल और पत्ते अलग",
+        "प्याज़, बारीक कटा",
+        "मक्खन",
+        "मैदा",
+        "दूध",
+        "वेजिटेरियन रेनेट वाला पिघलने वाला चीज़, कद्दूकस",
+        "सूखे ब्रेडक्रम्ब",
+        "पिसा जायफल",
+        "नमक",
+        "पिसी काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। चार्ड अच्छी तरह धोएँ। डंठल 1 सेमी और पत्ते मोटे काटें, अलग रखें क्योंकि डंठल देर से पकते हैं।",
+        "डंठल उबलते पानी में 5 मिनट पकाएँ, अंतिम 2 मिनट पत्ते डालें, फिर छानकर अधिक से अधिक पानी निचोड़ें। मक्खन लगी बेकिंग डिश में फैलाएँ।",
+        "सॉसपैन में 35 ग्राम मक्खन पिघलाकर प्याज़ 5 मिनट नरम करें। मैदा डालकर 1 मिनट चलाएँ, फिर दूध धीरे-धीरे फेंटें; 4 मिनट गाढ़ा और चिकना पकाएँ।",
+        "बेशमेल में जायफल, नमक और मिर्च मिलाएँ और आधा शाकाहारी चीज़ डालें। चार्ड पर डालकर सब्ज़ी धीरे उठाएँ ताकि चटनी नीचे भी पहुँचे।",
+        "ब्रेडक्रम्ब, बचा चीज़ और 15 ग्राम पिघला मक्खन मिलाकर ऊपर छिड़कें। 20–25 मिनट बुलबुले और सुनहरा रंग आने तक बेक करें, फिर 8 मिनट रखकर परोसें।"
+      ],
+      "tips": [
+        "चार्ड के डंठल पत्तों से पहले पकाएँ और दोनों का पानी अच्छी तरह निचोड़ें; अतिरिक्त पानी बेशमेल ग्रैटिन को पतला करता है। स्पष्ट शाकाहारी लिखा चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "ગ્રાતાં દ બ્લેટ",
+      "ingredients": [
+        "સ્વિસ ચાર્ડ, દાંડી અને પાન અલગ",
+        "ડુંગળી, બારીક સમારેલી",
+        "માખણ",
+        "મેંદો",
+        "દૂધ",
+        "વેજિટેરિયન રેનેટવાળું ઓગળતું ચીઝ, છીણેલું",
+        "સૂકા બ્રેડક્રમ્બ",
+        "દળેલું જાયફળ",
+        "મીઠું",
+        "દળેલી કાળી મરી"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. ચાર્ડ સારી રીતે ધુઓ. દાંડી 1 સેમી ટુકડામાં અને પાન મોટા કાપી અલગ રાખો, કારણ કે દાંડીને વધુ સમય લાગે છે.",
+        "દાંડી ઉકળતા પાણીમાં 5 મિનિટ રાંધો, છેલ્લી 2 મિનિટે પાન નાખો, પછી નીતારી શક્ય તેટલું પાણી નિચોવો. માખણ લગાવેલી બેકિંગ ડિશમાં ફેલાવો.",
+        "સોસપૅનમાં 35 ગ્રામ માખણ ઓગાળી ડુંગળી 5 મિનિટ નરમ કરો. મેંદો નાખી 1 મિનિટ હલાવો, પછી ધીમે-ધીમે દૂધ ફેંટો; 4 મિનિટ ઘાટું અને સુંવાળું રાંધો.",
+        "બેશમેલમાં જાયફળ, મીઠું અને મરી ભેળવી અડધું શાકાહારી ચીઝ નાખો. ચાર્ડ પર રેડી શાકને હળવેથી ઊંચકો જેથી રસો નીચે પણ પહોંચે.",
+        "બ્રેડક્રમ્બ, બાકીનું ચીઝ અને 15 ગ્રામ ઓગળેલું માખણ ભેળવી ઉપર છાંટો. 20–25 મિનિટ પરપોટા અને સોનેરી રંગ આવે ત્યાં સુધી બેક કરો, પછી 8 મિનિટ રાખી પીરસો."
+      ],
+      "tips": [
+        "ચાર્ડના દાંડા પાંદડાં પહેલાં રાંધો અને બન્નેને સારી રીતે નિચોવો; વધારાનું પાણી બેશમેલ ગ્રેટિનને પાતળું કરે છે. સ્પષ્ટ શાકાહારી લખેલું ચીઝ લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://everydayfrenchchef.com/recipes/vegetables/gratin-de-blettes/",
+    "use": "French Swiss chard gratin identity and stems/leaves technique; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/gratin-de-blettes.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

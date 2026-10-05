@@ -1,0 +1,133 @@
+{
+  "sourceReviewId": "R0257",
+  "id": "leek-gratin",
+  "status": "published-third-100-intake-batch",
+  "name": "Leek Gratin",
+  "cuisine": "French",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "leeks, white and pale green parts",
+      "qty": 850,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian Gruyère-style cheese, grated",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "dry breadcrumbs",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Dijon mustard",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 200°C. Trim roots and dark green tops from leeks, halve lengthwise and rinse between layers to remove grit. Cut into 8 cm lengths.",
+    "Steam leeks 8–10 minutes until just tender, then drain very thoroughly and pat dry. Arrange in a buttered shallow baking dish in a single layer.",
+    "Melt 35 g butter in a saucepan. Stir in flour for 1 minute, then slowly whisk in milk. Cook 4–5 minutes until a smooth sauce coats a spoon. Stir in mustard, nutmeg, 6 g salt, pepper and half the cheese.",
+    "Pour sauce over the drained leeks. Mix breadcrumbs with remaining cheese and 15 g melted butter, then scatter evenly over the top.",
+    "Bake 20–25 minutes until the sauce bubbles and the top is golden. Rest 8 minutes before serving so the gratin holds together; serve with a green salad."
+  ],
+  "tips": [
+    "Drain steamed leeks well because trapped water dilutes béchamel. Choose clearly labelled vegetarian cheese."
+  ],
+  "translations": {
+    "hi": {
+      "name": "लीक ग्रातां",
+      "ingredients": [
+        "लीक, सफेद और हल्के हरे हिस्से",
+        "मक्खन",
+        "मैदा",
+        "दूध",
+        "वेजिटेरियन रेनेट वाला ग्रुयेरे जैसा चीज़, कद्दूकस",
+        "सूखे ब्रेडक्रम्ब",
+        "डिजॉन मस्टर्ड",
+        "नमक",
+        "पिसी काली मिर्च",
+        "पिसा जायफल"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। लीक की जड़ और गहरे हरे ऊपरी हिस्से काटें, लंबाई में आधा करके परतों के बीच की मिट्टी धोएँ। 8 सेमी टुकड़ों में काटें।",
+        "लीक 8–10 मिनट भाप में लगभग नरम होने तक पकाएँ, फिर अच्छी तरह छानकर सुखाएँ। मक्खन लगी उथली बेकिंग डिश में एक परत में लगाएँ।",
+        "सॉसपैन में 35 ग्राम मक्खन पिघलाएँ। मैदा 1 मिनट चलाएँ, फिर दूध धीरे-धीरे फेंटें। 4–5 मिनट चम्मच पर चढ़ने वाली चिकनी चटनी बनाएँ। मस्टर्ड, जायफल, 6 ग्राम नमक, मिर्च और आधा चीज़ मिलाएँ।",
+        "चटनी निथरे लीक पर डालें। ब्रेडक्रम्ब, बचा चीज़ और 15 ग्राम पिघला मक्खन मिलाकर ऊपर बराबर फैलाएँ।",
+        "20–25 मिनट चटनी उबलने और ऊपर सुनहरी परत बनने तक बेक करें। परोसने से पहले 8 मिनट रखें ताकि ग्रातां जमा रहे; हरे सलाद के साथ दें।"
+      ],
+      "tips": [
+        "भाप में पके लीक अच्छी तरह छानें, क्योंकि बचा पानी बेशमेल को पतला करता है। स्पष्ट शाकाहारी लिखा चीज़ चुनें।"
+      ]
+    },
+    "gu": {
+      "name": "લીક ગ્રાતાં",
+      "ingredients": [
+        "લીક, સફેદ અને આછા લીલા ભાગ",
+        "માખણ",
+        "મેંદો",
+        "દૂધ",
+        "વેજિટેરિયન રેનેટવાળું ગ્રુયેર જેવું ચીઝ, છીણેલું",
+        "સૂકા બ્રેડક્રમ્બ",
+        "ડિજોં મસ્ટર્ડ",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "દળેલું જાયફળ"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. લીકનાં મૂળ અને ઘેરા લીલા ઉપરના ભાગ કાપો, લંબાઈમાં અડધાં કરી પાનની વચ્ચેની માટી ધોઈ કાઢો. 8 સેમી ટુકડામાં કાપો.",
+        "લીક 8–10 મિનિટ વરાળમાં લગભગ નરમ થાય ત્યાં સુધી પકાવી સારી રીતે નીતારી સૂકવો. માખણ લગાવેલી છીછરી બેકિંગ ડિશમાં એક જ પડમાં ગોઠવો.",
+        "સોસપૅનમાં 35 ગ્રામ માખણ ઓગાળો. મેંદો 1 મિનિટ હલાવો, પછી ધીમે-ધીમે દૂધ ફેંટો. 4–5 મિનિટ ચમચાને ચોંટે એવો સુંવાળો રસો બનાવો. મસ્ટર્ડ, જાયફળ, 6 ગ્રામ મીઠું, મરી અને અડધું ચીઝ ભેળવો.",
+        "નીતારેલા લીક પર રસો રેડો. બ્રેડક્રમ્બ, બાકીનું ચીઝ અને 15 ગ્રામ ઓગળેલું માખણ ભેળવી ઉપર સરખું છાંટો.",
+        "20–25 મિનિટ રસામાં પરપોટા આવે અને ઉપર સોનેરી પડ બને ત્યાં સુધી બેક કરો. પીરસતાં પહેલાં 8 મિનિટ રાખો જેથી ગ્રાતાં જળવાય; લીલા સલાડ સાથે આપો."
+      ],
+      "tips": [
+        "વરાળમાં બાફેલા લીક સારી રીતે નિતારો, કારણ કે બચેલું પાણી બેશમેલને પાતળું કરે છે. સ્પષ્ટ શાકાહારી લખેલું ચીઝ પસંદ કરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/leeks-au-gratin-canadian-swiss",
+    "use": "Leek béchamel gratin approach; vegetarian cheese, measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/leek-gratin.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

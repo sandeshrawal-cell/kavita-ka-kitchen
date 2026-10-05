@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0240",
+  "id": "kinema-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Kinema Curry",
+  "cuisine": "Eastern Himalayan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "ready-to-cook fermented soybeans (kinema)",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, sliced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Use purchased, properly fermented kinema that is ready to cook; do not attempt a homemade room-temperature fermentation from this curry recipe. Break apart any large sticky clumps with a spoon.",
+    "Heat mustard oil until it just begins to smoke, then lower the heat. Add cumin seeds for 20 seconds, followed by onion; cook for 6 minutes until golden.",
+    "Stir in ginger, garlic and green chilies for 1 minute. Add turmeric and chopped tomatoes and cook for 5 minutes until the tomatoes collapse into a thick base.",
+    "Add kinema and stir-fry for 3 minutes so the fermented soybeans take on the masala. Pour in 300 ml water and add salt.",
+    "Simmer uncovered for 8 minutes until the curry is spoonable and the soybeans are heated thoroughly. Sprinkle coriander over the top and serve hot with plain rice."
+  ],
+  "tips": [
+    "Kinema has a strong fermented aroma; that is characteristic, but discard it if it smells rotten or shows unfamiliar mold. Buy from a reputable source and keep refrigerated as directed."
+  ],
+  "translations": {
+    "hi": {
+      "name": "किनेमा करी",
+      "ingredients": [
+        "पकाने के लिए तैयार खमीर उठे सोयाबीन (किनेमा)",
+        "प्याज़, बारीक कटा",
+        "टमाटर, कटे",
+        "अदरक, कद्दूकस",
+        "लहसुन, बारीक कटा",
+        "हरी मिर्च, कटी",
+        "पिसी हल्दी",
+        "जीरा",
+        "सरसों का तेल",
+        "पानी",
+        "नमक",
+        "ताज़ा हरा धनिया"
+      ],
+      "steps": [
+        "खरीदा हुआ, ठीक तरह से खमीर उठाया हुआ और पकाने के लिए तैयार किनेमा लें; इस करी की विधि से घर पर कमरे के तापमान पर खमीर उठाने की कोशिश न करें। बड़े चिपचिपे गुच्छे चम्मच से अलग करें।",
+        "सरसों का तेल हल्का धुआँ आने तक गरम करके आँच कम करें। जीरा 20 सेकंड चटकाएँ, फिर प्याज़ डालकर 6 मिनट सुनहरा होने तक पकाएँ।",
+        "अदरक, लहसुन और हरी मिर्च 1 मिनट चलाएँ। हल्दी और कटे टमाटर डालकर 5 मिनट पकाएँ, जब तक टमाटर गलकर गाढ़ा आधार बन जाएँ।",
+        "किनेमा डालकर 3 मिनट भूनें ताकि सोयाबीन पर मसाला चढ़े। 300 मिली पानी और नमक डालें।",
+        "लगभग 8 मिनट बिना ढके उबालें, जब तक करी चम्मच से परोसने लायक गाढ़ी हो और सोयाबीन पूरी तरह गरम हो जाएँ। ऊपर धनिया डालकर सादे चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "किनेमा की तेज़ खमीरी गंध सामान्य है, लेकिन सड़ी गंध या अनजान फफूँद हो तो फेंक दें। भरोसेमंद स्रोत से खरीदें और निर्देश के अनुसार फ्रिज में रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કિનેમા કરી",
+      "ingredients": [
+        "રાંધવા તૈયાર આથેલાં સોયાબીન (કિનેમા)",
+        "ડુંગળી, બારીક સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "આદુ, છીણેલું",
+        "લસણ, બારીક સમારેલું",
+        "લીલાં મરચાં, સમારેલાં",
+        "દળેલી હળદર",
+        "જીરું",
+        "સરસવનું તેલ",
+        "પાણી",
+        "મીઠું",
+        "તાજી કોથમીર"
+      ],
+      "steps": [
+        "ખરીદેલું, યોગ્ય રીતે આથેલું અને રાંધવા તૈયાર કિનેમા લો; આ કરીની રીત પરથી ઘરે સામાન્ય તાપમાને આથો લાવવાનો પ્રયાસ ન કરો. મોટા ચીકણા ગઠ્ઠા ચમચીથી છૂટા કરો.",
+        "સરસવનું તેલ હળવો ધુમાડો આવે ત્યાં સુધી ગરમ કરી તાપ ઘટાડો. જીરું 20 સેકન્ડ તતડાવો, પછી ડુંગળી નાખી 6 મિનિટ સોનેરી થાય ત્યાં સુધી રાંધો.",
+        "આદુ, લસણ અને લીલાં મરચાં 1 મિનિટ હલાવો. હળદર અને ટામેટાં નાખીને ટામેટાં ગળી જાડો આધાર બને ત્યાં સુધી 5 મિનિટ રાંધો.",
+        "કિનેમા નાખી 3 મિનિટ સાંતળો જેથી સોયાબીનને મસાલો ચડે. 300 મિલી પાણી અને મીઠું નાખો.",
+        "લગભગ 8 મિનિટ ઢાંક્યા વગર ઉકાળો જેથી કરી ચમચીથી પીરસી શકાય એટલી જાડી થાય અને સોયાબીન સંપૂર્ણ ગરમ થાય. ઉપર કોથમીર નાખી સાદા ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "કિનેમાની તીવ્ર આથેલી વાસ સામાન્ય છે, પણ સડેલી વાસ કે અજાણી ફૂગ દેખાય તો ફેંકી દો. વિશ્વાસપાત્ર જગ્યાએથી ખરીદો અને સૂચના મુજબ ફ્રિજમાં રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://bakukitchen.com/kinema/",
+    "use": "Traditional fermented-soybean curry with tomato, onion and chili informed the independently written dish; only ready-made kinema is specified."
+  },
+  "photoDraft": "catalog/intake/photos/kinema-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

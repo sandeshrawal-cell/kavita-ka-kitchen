@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0278",
+  "id": "ruwangan-chaman",
+  "status": "published-third-100-intake-batch",
+  "name": "Ruwangan Chaman",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "paneer, thick rectangular slices",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "ripe tomato, pureed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "dry ginger powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fennel powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black cumin seeds, shahi jeera",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried mint",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 240,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pat paneer slices dry. Heat mustard oil until it just begins to smoke, lower the heat, and shallow-fry paneer 2–3 minutes per side until golden; remove carefully.",
+    "In the same oil add cinnamon and crushed cardamom for 30 seconds. Add tomato puree and cook 6 minutes until its raw smell fades and the sauce thickens.",
+    "Mix Kashmiri chili powder with 40 ml of the measured water. Add it with dry ginger, fennel powder and salt; stir 2 minutes so the spices bloom without scorching.",
+    "Pour in remaining 200 ml water, cover and simmer 10 minutes until the red tomato gravy coats a spoon. Return paneer and simmer gently 4 minutes.",
+    "Crush black cumin and dried mint over the curry. Rest covered for 10 minutes so the paneer absorbs the Kashmiri sauce, then serve warm with rice."
+  ],
+  "tips": [
+    "This Kashmiri tomato-paneer dish uses dry ginger and fennel, not a creamy onion-cashew base."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रुवांगन चमन",
+      "ingredients": [
+        "पनीर, मोटी आयताकार पट्टियाँ",
+        "पके टमाटर की प्यूरी",
+        "सरसों का तेल",
+        "कश्मीरी मिर्च पाउडर",
+        "सोंठ पाउडर",
+        "सौंफ पाउडर",
+        "हरी इलायची",
+        "दालचीनी",
+        "शाही जीरा",
+        "सूखा पुदीना",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "पनीर की पट्टियाँ सुखाएँ। सरसों तेल हल्का धुआँ आने तक गरम कर आँच धीमी करें और पनीर हर तरफ़ 2–3 मिनट सुनहरा सेंककर निकालें।",
+        "उसी तेल में दालचीनी और कुचली इलायची 30 सेकंड भूनें। टमाटर प्यूरी डालकर 6 मिनट पकाएँ, कच्ची गंध जाए और सॉस गाढ़ा हो।",
+        "कश्मीरी मिर्च को दिए पानी के 40 मि.ली. में घोलें। सोंठ, सौंफ और नमक के साथ डालकर 2 मिनट चलाएँ ताकि मसाले महकें पर जलें नहीं।",
+        "बचा 200 मि.ली. पानी डालकर ढकें और 10 मिनट पकाएँ, जब तक लाल टमाटर ग्रेवी चम्मच पर टिके। पनीर वापस डालकर 4 मिनट धीरे पकाएँ।",
+        "ऊपर शाही जीरा और सूखा पुदीना मसलकर डालें। ढककर 10 मिनट रखें ताकि पनीर कश्मीरी ग्रेवी सोखे, फिर चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "इस कश्मीरी टमाटर-पनीर में सोंठ और सौंफ रखें; क्रीम वाली प्याज़-काजू ग्रेवी नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "રુવાંગન ચમન",
+      "ingredients": [
+        "પનીર, જાડી લંબચોરસ સ્લાઇસ",
+        "પાકા ટામેટાની પ્યુરી",
+        "સરસવનું તેલ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "સૂંઠ પાઉડર",
+        "વરિયાળી પાઉડર",
+        "લીલી એલચી",
+        "તજ",
+        "શાહી જીરું",
+        "સૂકો ફુદીનો",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "પનીરની સ્લાઇસ સૂકવો. સરસવનું તેલ થોડું ધુમાડે ત્યાં સુધી ગરમ કરી તાપ ધીમો કરો અને પનીર દરેક બાજુ 2–3 મિનિટ સોનેરી શેકી કાઢો.",
+        "એ જ તેલમાં તજ અને કચડેલી એલચી 30 સેકંડ શેકો. ટામેટાની પ્યુરી નાખી 6 મિનિટ રાંધો, કાચી સુગંધ જાય અને સોસ ઘટ્ટ થાય.",
+        "કાશ્મીરી મરચું આપેલા 40 મિ.લી. પાણીમાં ઓગાળો. સૂંઠ, વરિયાળી અને મીઠા સાથે નાખી 2 મિનિટ હલાવો જેથી મસાલા સુગંધે પણ બળે નહીં.",
+        "બાકીનું 200 મિ.લી. પાણી નાખી ઢાંકી 10 મિનિટ રાંધો, લાલ ટામેટાની ગ્રેવી ચમચીને ચોંટે ત્યાં સુધી. પનીર પાછું નાખી 4 મિનિટ ધીમે રાંધો.",
+        "ઉપર શાહી જીરું અને સૂકો ફુદીનો મસળી નાખો. ઢાંકી 10 મિનિટ રાખો જેથી પનીર કાશ્મીરી ગ્રેવી શોષે, પછી ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "આ કાશ્મીરી ટામેટાં-પનીરમાં સૂંઠ અને વરિયાળી રાખો; ક્રીમવાળી ડુંગળી-કાજુની ગ્રેવી નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.saveur.com/recipes/ruangan-chaman-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/ruwangan-chaman.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0237",
+  "id": "kerala-soya-roast",
+  "status": "published-third-100-intake-batch",
+  "name": "Kerala Soya Roast",
+  "cuisine": "Kerala",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "dried soy chunks",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water for boiling and rinsing",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "shallots, thinly sliced",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coconut slivers",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri red chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil soy chunks in 1 litre of the water for 7 minutes. Drain, rinse with the remaining 500 ml fresh water and squeeze firmly twice; this removes the packaged soy smell and helps the masala cling.",
+    "Heat 20 ml coconut oil in a wide heavy pan. Toast coconut slivers until golden, then lift out. Add fennel seeds, sliced shallots and half the curry leaves; cook for 9 minutes until the shallots brown.",
+    "Add ginger, garlic and slit green chilies for 1 minute. Stir in coriander, chili powder, turmeric, pepper and salt with a splash of water; cook for 2 minutes until fragrant without scorching.",
+    "Add squeezed soy chunks and stir to coat every piece. Cook uncovered for 8 minutes over medium heat, turning occasionally, so the masala dries and darkens on the edges.",
+    "Add remaining 15 ml coconut oil, toasted coconut slivers and curry leaves. Roast for 3 minutes until the chunks are browned and nearly dry. Serve with Kerala parotta or rice."
+  ],
+  "tips": [
+    "Squeezing the boiled soy chunks is essential for a pleasant texture. Finish uncovered; adding a lot of water turns this roast into a curry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केरल सोया रोस्ट",
+      "ingredients": [
+        "सूखे सोया चंक्स",
+        "उबालने और धोने के लिए पानी",
+        "छोटे प्याज़, पतले कटे",
+        "ताज़े नारियल के पतले टुकड़े",
+        "नारियल तेल",
+        "अदरक, बारीक कटा",
+        "लहसुन, बारीक कटा",
+        "हरी मिर्च, चीरी हुई",
+        "ताज़े करी पत्ते",
+        "पिसा धनिया",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "पिसी हल्दी",
+        "पिसी काली मिर्च",
+        "सौंफ",
+        "नमक"
+      ],
+      "steps": [
+        "सोया चंक्स को 1 लीटर पानी में 7 मिनट उबालें। छानें, बचे 500 मिली साफ़ पानी से धोएँ और दो बार अच्छी तरह निचोड़ें; इससे पैक वाला स्वाद निकलता है और मसाला चिपकता है।",
+        "चौड़े भारी पैन में 20 मिली नारियल तेल गरम करें। नारियल के पतले टुकड़े सुनहरे भूनकर निकाल लें। सौंफ, कटे छोटे प्याज़ और आधे करी पत्ते डालकर 9 मिनट प्याज़ भूरा होने तक पकाएँ।",
+        "अदरक, लहसुन और चीरी हरी मिर्च डालकर 1 मिनट चलाएँ। धनिया, मिर्च पाउडर, हल्दी, काली मिर्च और नमक थोड़े पानी के साथ डालें; बिना जलाए 2 मिनट सुगंध आने तक पकाएँ।",
+        "निचोड़े सोया चंक्स डालकर हर टुकड़े पर मसाला लगाएँ। मध्यम आँच पर 8 मिनट बिना ढके बीच-बीच में पलटें, जब तक मसाला सूखे और किनारों पर गहरा हो।",
+        "बचा 15 मिली नारियल तेल, भुने नारियल के टुकड़े और करी पत्ते डालें। चंक्स भूरे और लगभग सूखे होने तक 3 मिनट भूनें। केरल परोट्टा या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "उबले सोया चंक्स को निचोड़ना अच्छी बनावट के लिए ज़रूरी है। अंत में बिना ढके भूनें; ज़्यादा पानी डालने से यह रोस्ट की जगह करी बन जाएगी।"
+      ]
+    },
+    "gu": {
+      "name": "કેરળ સોયા રોસ્ટ",
+      "ingredients": [
+        "સૂકા સોયા ચંક્સ",
+        "ઉકાળવા અને ધોવા માટે પાણી",
+        "નાની ડુંગળી, પાતળી સમારેલી",
+        "તાજા નાળિયેરની પાતળી કાતરી",
+        "નાળિયેરનું તેલ",
+        "આદુ, બારીક સમારેલું",
+        "લસણ, બારીક સમારેલું",
+        "લીલાં મરચાં, ચીરેલાં",
+        "તાજા મીઠા લીમડાનાં પાન",
+        "દળેલો ધાણો",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "દળેલી હળદર",
+        "દળેલો કાળો મરી",
+        "વરીયાળી",
+        "મીઠું"
+      ],
+      "steps": [
+        "સોયા ચંક્સને 1 લિટર પાણીમાં 7 મિનિટ ઉકાળો. નિતારી બાકીનું 500 મિલી સ્વચ્છ પાણી વાપરી ધોઈ લો અને બે વાર સારી રીતે નિચોવો; જેથી પૅકેટની વાસ જાય અને મસાલો ચોંટે.",
+        "પહોળા ભારે પૅનમાં 20 મિલી નાળિયેરનું તેલ ગરમ કરો. નાળિયેરની કાતરી સોનેરી શેકીને કાઢો. વરીયાળી, સમારેલી નાની ડુંગળી અને અડધાં મીઠા લીમડાનાં પાન નાખી 9 મિનિટ ડુંગળી ભૂરી થાય ત્યાં સુધી રાંધો.",
+        "આદુ, લસણ અને ચીરેલાં લીલાં મરચાં નાખી 1 મિનિટ હલાવો. ધાણો, મરચું પાઉડર, હળદર, કાળો મરી અને મીઠું થોડા પાણી સાથે નાખી બળે નહીં એમ 2 મિનિટ સુગંધ આવે ત્યાં સુધી રાંધો.",
+        "નિચોવેલા સોયા ચંક્સ નાખી દરેક ટુકડાને મસાલો ચોપડો. મધ્યમ તાપે 8 મિનિટ ઢાંક્યા વગર ક્યારેક પલટો જેથી મસાલો સૂકાય અને કિનારા ઘેરા થાય.",
+        "બાકીનું 15 મિલી નાળિયેરનું તેલ, શેકેલી નાળિયેરની કાતરી અને મીઠા લીમડાનાં પાન નાખો. ચંક્સ ભૂખરા અને લગભગ સૂકા થાય ત્યાં સુધી 3 મિનિટ શેકો. કેરળ પરોટ્ટા કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ઉકાળેલા સોયા ચંક્સ નિચોવવા સારી બનાવટ માટે જરૂરી છે. અંતે ઢાંક્યા વગર શેકો; વધુ પાણી નાખવાથી રોસ્ટને બદલે રસાવાળી કરી બનશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.cookdtv.com/recipes/kerala-style-soya-roast",
+    "use": "Kerala soy-chunk roast with coconut pieces, shallots and fennel informed dish identity; independently authored recipe and measurements."
+  },
+  "photoDraft": "catalog/intake/photos/kerala-soya-roast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

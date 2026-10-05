@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0242",
+  "id": "mushroom-rendang",
+  "status": "published-third-100-intake-batch",
+  "name": "Mushroom Rendang",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "oyster mushrooms, torn into large pieces",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "grated fresh coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "shallots",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemongrass, inner stalk",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilies",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "makrut lime leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind paste",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toast grated coconut in a dry pan for 5–7 minutes until deep golden, stirring constantly. Blend shallots, garlic, ginger, lemongrass and red chilies with a little coconut milk into a smooth paste.",
+    "Heat oil in a wide heavy pan. Fry the paste for 8–10 minutes, stirring until it darkens and loses its raw smell. Add coriander and turmeric for the last minute.",
+    "Pour in remaining coconut milk. Add lime leaves, tamarind, palm sugar and salt, and simmer gently for 10 minutes to build a thick aromatic sauce.",
+    "Add torn oyster mushrooms and toasted coconut. Cook uncovered over medium-low heat for 25–30 minutes, stirring and scraping often as the liquid reduces and the mushrooms take on the spice paste.",
+    "Continue until the sauce clings darkly to the mushrooms and almost no free liquid remains. Remove lime leaves, rest 10 minutes and serve with rice; rendang should be a concentrated dry braise, not a soup."
+  ],
+  "tips": [
+    "Use mushrooms with broad firm caps and a wide pan; slow reduction and toasted coconut create rendang's characteristic rich, nearly dry coating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम रेंडांग",
+      "ingredients": [
+        "ऑयस्टर मशरूम, बड़े टुकड़ों में फाड़े",
+        "नारियल दूध",
+        "ताज़ा कद्दूकस नारियल",
+        "छोटे प्याज़",
+        "लहसुन",
+        "अदरक",
+        "लेमनग्रास का अंदरूनी भाग",
+        "लाल मिर्च",
+        "पिसा धनिया",
+        "हल्दी पाउडर",
+        "मकरूत लाइम पत्ते",
+        "इमली का पेस्ट",
+        "ताड़ का गुड़",
+        "हल्का तेल",
+        "नमक"
+      ],
+      "steps": [
+        "कद्दूकस नारियल सूखे पैन में लगातार चलाते हुए 5–7 मिनट गहरा सुनहरा भूनें। छोटे प्याज़, लहसुन, अदरक, लेमनग्रास और लाल मिर्च को थोड़ा नारियल दूध डालकर चिकने पेस्ट में पीसें।",
+        "चौड़े भारी पैन में तेल गरम करें। पेस्ट 8–10 मिनट गहरा होने और कच्ची गंध जाने तक चलाकर भूनें। आखिरी मिनट में धनिया और हल्दी डालें।",
+        "बचा नारियल दूध डालें। लाइम पत्ते, इमली, ताड़ का गुड़ और नमक मिलाकर 10 मिनट हल्का उबालें ताकि गाढ़ी सुगंधित चटनी बने।",
+        "फाड़े मशरूम और भूना नारियल डालें। मध्यम-धीमी आँच पर बिना ढके 25–30 मिनट पकाएँ; तरल घटने पर बार-बार चलाएँ और पैन के तले से खुरचें।",
+        "चटनी मशरूम पर गहरी परत बने और लगभग कोई तरल न बचे तब बंद करें। लाइम पत्ते निकालें, 10 मिनट रखकर चावल के साथ परोसें; रेंडांग गाढ़ा सूखा व्यंजन है, सूप नहीं।"
+      ],
+      "tips": [
+        "चौड़ी कड़ी टोपी वाले मशरूम और चौड़ा पैन लें; धीमी आँच पर घटाना और भूना नारियल रेंडांग की गाढ़ी लगभग सूखी परत बनाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ રેન્ડાંગ",
+      "ingredients": [
+        "ઓયસ્ટર મશરૂમ, મોટા ટુકડામાં ફાડેલા",
+        "નાળિયેરનું દૂધ",
+        "તાજું છીણેલું નાળિયેર",
+        "નાની ડુંગળી",
+        "લસણ",
+        "આદુ",
+        "લેમનગ્રાસનો અંદરનો દાંડો",
+        "લાલ મરચાં",
+        "દળેલા ધાણા",
+        "હળદર પાઉડર",
+        "મકરુત લાઈમના પાન",
+        "આમલીની પેસ્ટ",
+        "તાડનો ગોળ",
+        "હળવું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "છીણેલું નાળિયેર કોરા પૅનમાં સતત હલાવી 5–7 મિનિટ ઘેરું સોનેરી થાય ત્યાં સુધી શેકો. નાની ડુંગળી, લસણ, આદુ, લેમનગ્રાસ અને લાલ મરચાં થોડા નાળિયેરના દૂધ સાથે સુંવાળી પેસ્ટમાં વાટો.",
+        "પહોળા જાડા પૅનમાં તેલ ગરમ કરો. પેસ્ટ 8–10 મિનિટ ઘેરી થાય અને કાચી વાસ જાય ત્યાં સુધી હલાવી શેકો. છેલ્લી મિનિટે ધાણા અને હળદર નાખો.",
+        "બાકીનું નાળિયેરનું દૂધ રેડો. લાઈમનાં પાન, આમલી, તાડનો ગોળ અને મીઠું ભેળવી 10 મિનિટ ધીમે ઉકાળો જેથી ઘાટો સુગંધી રસો બને.",
+        "ફાડેલા મશરૂમ અને શેકેલું નાળિયેર નાખો. મધ્યમથી ધીમા તાપે ઢાંક્યા વગર 25–30 મિનિટ રાંધો; પ્રવાહી ઘટે તેમ વારંવાર હલાવી પૅનનું તળિયું ખુરચો.",
+        "રસો મશરૂમ પર ઘેરી પરત બને અને લગભગ પ્રવાહી ન રહે ત્યારે બંધ કરો. લાઈમનાં પાન કાઢો, 10 મિનિટ રાખી ભાત સાથે પીરસો; રેન્ડાંગ ઘાટું કોરું શાક છે, સૂપ નહીં."
+      ],
+      "tips": [
+        "પહોળી મજબૂત ટોપીવાળા મશરૂમ અને પહોળો પૅન લો; ધીમે રસો ઘટાડવો અને શેકેલું નાળિયેર રેન્ડાંગની ઘાટી લગભગ સૂકી પરત બનાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://woonheng.com/vegan-mushrooms-rendang/",
+    "use": "Vegetarian mushroom rendang identity and slow-reduction technique; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-rendang.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

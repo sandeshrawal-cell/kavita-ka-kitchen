@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R0228",
+  "id": "kanguch-yakhni",
+  "status": "published-third-100-intake-batch",
+  "name": "Kanguch Yakhni",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "passiveTime": "20 minutes soaking dried morels",
+  "ingredients": [
+    {
+      "name": "dried morel mushrooms (kanguch or gucchi)",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt, room temperature",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "dried ginger powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fennel powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cloves",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse dried morels carefully to remove grit. Soak in 350 ml warm water for 20 minutes, then lift out, split and rinse interiors; strain the soaking liquid through a fine sieve and reserve.",
+    "Whisk room-temperature yogurt with chickpea flour, dried ginger and fennel powder until smooth. Gradually whisk in 150 ml water.",
+    "Heat ghee and bloom cardamom, cinnamon and cloves for 30 seconds. Add cleaned morels and sauté 3 minutes.",
+    "Lower the heat. Pour in yogurt mixture slowly while stirring without pause; add the strained soaking liquid and salt. Bring to a gentle simmer, not a hard boil.",
+    "Cook uncovered on low for 12–15 minutes, stirring often, until morels are tender and the pale yakhni lightly coats a spoon. Serve with steamed rice."
+  ],
+  "tips": [
+    "Morels trap grit inside their honeycomb; rinse the split interiors and strain the soaking liquor before use."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कांगुच यखनी",
+      "ingredients": [
+        "सूखे गुच्छी मशरूम (कांगुच)",
+        "गाढ़ा सादा दही, कमरे के तापमान पर",
+        "सोंठ पाउडर",
+        "सौंफ पाउडर",
+        "हरी इलायची",
+        "दालचीनी",
+        "लौंग",
+        "बेसन",
+        "घी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सूखे गुच्छी ध्यान से धोकर रेत हटाएँ। 350 मिली गरम पानी में 20 मिनट भिगोएँ, फिर निकालकर चीरें और भीतर धोएँ; भिगोने का पानी महीन छलनी से छानकर रखें।",
+        "कमरे के तापमान वाला दही, बेसन, सोंठ और सौंफ पाउडर चिकना फेंटें। धीरे-धीरे 150 मिली पानी मिलाएँ।",
+        "घी गरम करके इलायची, दालचीनी और लौंग 30 सेकंड महकाएँ। साफ गुच्छी डालकर 3 मिनट भूनें।",
+        "आँच धीमी करें। दही मिश्रण बिना रुके चलाते हुए धीरे डालें; छाना भिगोने का पानी और नमक मिलाएँ। तेज़ नहीं, हल्का उबाल आने दें।",
+        "12–15 मिनट धीमी आँच पर बिना ढके बार-बार चलाते हुए पकाएँ, जब तक गुच्छी नरम और हल्की यखनी चम्मच पर चढ़े। चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "गुच्छी की जाली में रेत फँसती है; भीतर धोएँ और भिगोने का पानी छानकर ही लें।"
+      ],
+      "passiveTime": "सूखे गुच्छी 20 मिनट भिगोना"
+    },
+    "gu": {
+      "name": "કાંગુચ યખની",
+      "ingredients": [
+        "સૂકા ગુચ્છી મશરૂમ (કાંગુચ)",
+        "ઘટ્ટ સાદું દહીં, ઓરડાના તાપે",
+        "સૂંઠ પાઉડર",
+        "વરિયાળી પાઉડર",
+        "લીલી એલચી",
+        "તજ",
+        "લવિંગ",
+        "બેસન",
+        "ઘી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "સૂકા ગુચ્છી કાળજીથી ધોઈ રેતી કાઢો. 350 મિ.લી. ગરમ પાણીમાં 20 મિનિટ પલાળો, પછી કાઢી ચીરી અંદર ધોઈ લો; પલાળેલું પાણી ઝીણી ગાળણીથી ગાળી રાખો.",
+        "ઓરડાના તાપનું દહીં, બેસન, સૂંઠ અને વરિયાળી પાઉડર લીસાં ફેંટો. ધીમે ધીમે 150 મિ.લી. પાણી ભેળવો.",
+        "ઘી ગરમ કરી એલચી, તજ અને લવિંગ 30 સેકન્ડ સુગંધ આવે ત્યાં સુધી શેકો. સાફ ગુચ્છી નાખી 3 મિનિટ શેકો.",
+        "તાપ ધીમો કરો. સતત હલાવતા દહીંનું મિશ્રણ ધીમે રેડો; ગાળેલું પલાળવાનું પાણી અને મીઠું ભેળવો. તેજ નહીં, હળવું ઉકાળો.",
+        "12–15 મિનિટ ધીમા તાપે ઢાંક્યા વગર વારંવાર હલાવી રાંધો, ગુચ્છી નરમ અને આછી યખની ચમચીને ચોંટે ત્યાં સુધી. ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ગુચ્છીની જાળીમાં રેતી અટકે છે; અંદર ધોઈ પલાળેલું પાણી ગાળી જ વાપરો."
+      ],
+      "passiveTime": "સૂકા ગુચ્છી 20 મિનિટ પલાળવા"
+    }
+  },
+  "reference": {
+    "url": "https://fnwonline.com/posts/forgotten-food-of-sub-continent-morel-mushroom-in-kashmiri-cuisine",
+    "use": "Kashmiri morel mushroom and yogurt-based gucchi yakhni context; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kanguch-yakhni.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

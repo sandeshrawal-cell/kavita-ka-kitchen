@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0290",
+  "id": "gongura-paneer",
+  "status": "published-third-100-intake-batch",
+  "name": "Gongura Paneer",
+  "cuisine": "Andhra",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, 2 cm cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "gongura sorrel leaves, stems removed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pick gongura leaves from tough stems, wash thoroughly and dry. Chop roughly. Pat paneer cubes dry so they do not crumble during cooking.",
+    "Heat half the oil in a pan. Sear paneer briefly until lightly golden on two sides, then remove. Add remaining oil, mustard, cumin, dried chilies and curry leaves; let crackle.",
+    "Add onion and cook 6 minutes until golden. Stir in garlic and green chili for 1 minute; add turmeric and gongura leaves. Cook 6–8 minutes until wilted, dark and tangy.",
+    "Mash leaves coarsely with the spoon; add 150 ml water and salt and simmer 5 minutes to make a thick rustic sorrel masala, not a smooth cream sauce.",
+    "Fold paneer into the gongura masala and warm gently 3 minutes. Taste the natural tang and serve hot with plain rice."
+  ],
+  "tips": [
+    "Use actual gongura or sorrel leaves; spinach lacks the tart flavor that defines this Andhra dish."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोंगूरा पनीर",
+      "ingredients": [
+        "पनीर, 2 सेमी टुकड़े",
+        "गोंगूरा खट्टे पत्ते, डंठल हटे",
+        "प्याज़, बारीक कटा",
+        "लहसुन की कलियाँ, बारीक कटी",
+        "हरी मिर्च, कटी",
+        "सूखी लाल मिर्च",
+        "राई",
+        "जीरा",
+        "करी पत्ते",
+        "हल्दी पाउडर",
+        "हल्का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "गोंगूरा के कड़े डंठल हटाकर पत्ते अच्छी तरह धोकर सुखाएँ और मोटा काटें। पनीर के टुकड़े सुखाएँ ताकि पकते समय टूटें नहीं।",
+        "पैन में आधा तेल गरम कर पनीर दो तरफ़ हल्का सुनहरा सेंककर निकालें। बचा तेल, राई, जीरा, सूखी मिर्च और करी पत्ते डालकर चटकाएँ।",
+        "प्याज़ 6 मिनट सुनहरा करें। लहसुन और हरी मिर्च 1 मिनट चलाएँ; हल्दी और गोंगूरा पत्ते डालें। 6–8 मिनट मुरझाने, गहरे और खट्टे होने तक पकाएँ।",
+        "पत्ते चम्मच से दरदरे मसलें; 150 मि.ली. पानी और नमक डालकर 5 मिनट गाढ़ा देहाती खट्टा मसाला बनाएँ, चिकनी क्रीम ग्रेवी नहीं।",
+        "पनीर गोंगूरा मसाले में धीरे मिलाकर 3 मिनट गरम करें। पत्तों की प्राकृतिक खटास चखें और सादे चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "असली गोंगूरा या खट्टे सॉरेल पत्ते लें; पालक में इस आंध्र व्यंजन की खास खटास नहीं होती।"
+      ]
+    },
+    "gu": {
+      "name": "ગોંગુરા પનીર",
+      "ingredients": [
+        "પનીર, 2 સેમી ટુકડા",
+        "ગોંગુરાનાં ખાટાં પાન, દાંડી કાઢેલી",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "લસણની કળીઓ, ઝીણી સમારેલી",
+        "લીલું મરચું, સમારેલું",
+        "સૂકાં લાલ મરચાં",
+        "રાઈ",
+        "જીરું",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર પાઉડર",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ગોંગુરાનાં કઠણ દાંડી કાઢી પાન સારી રીતે ધોઈ સૂકવી મોટા સમારો. પનીરના ટુકડા સૂકવો જેથી રાંધતાં તૂટે નહીં.",
+        "કડાઈમાં અડધું તેલ ગરમ કરી પનીર બંને બાજુ હળવું સોનેરી શેકી કાઢો. બાકીનું તેલ, રાઈ, જીરું, સૂકાં મરચાં અને મીઠા લીમડાનાં પાન નાખી તડકાવો.",
+        "ડુંગળી 6 મિનિટ સોનેરી કરો. લસણ અને લીલું મરચું 1 મિનિટ હલાવો; હળદર અને ગોંગુરાનાં પાન નાખો. 6–8 મિનિટ ચીમળે, ઘેરાં અને ખાટાં થાય ત્યાં સુધી રાંધો.",
+        "પાનને ચમચાથી કરકરાં મસળો; 150 મિ.લી. પાણી અને મીઠું નાખી 5 મિનિટ ઘટ્ટ ઘરેલું ખાટું મસાલું બનાવો, મસૃણ ક્રીમ ગ્રેવી નહીં.",
+        "પનીર ગોંગુરાના મસાલામાં હળવેથી ભેળવી 3 મિનિટ ગરમ કરો. પાનની કુદરતી ખટાશ ચાખો અને સાદા ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "ખરેખર ગોંગુરા કે ખાટાં સોરેલનાં પાન લો; પાલકમાં આ આંધ્ર વાનગીની ખાસ ખટાશ નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://vismaifood.com/en/spicy-gongura-paneer-how-to-make-gongura-paneer-curry",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/gongura-paneer.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

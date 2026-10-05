@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0249",
+  "id": "sri-lankan-soya-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Sri Lankan Soya Curry",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "dry soya chunks",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "boiling water for soaking",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Sri Lankan roasted curry powder",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "water for curry",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cover dry soya chunks with 900 ml boiling water and soak 12 minutes. Drain, rinse well and squeeze out excess water; this removes the packaged taste and lets the chunks absorb curry.",
+    "Heat coconut oil in a deep pan. Cook onion 6 minutes until golden, then add garlic, ginger, chilies, curry leaves and cinnamon for 1 minute.",
+    "Stir in curry powder and turmeric for 30 seconds, then tomato. Cook 5–6 minutes until the tomato collapses and oil separates from the spice base.",
+    "Add squeezed soya chunks and toss 3 minutes to coat. Pour in 180 ml water and coconut milk, add salt, and simmer uncovered 12–15 minutes until the chunks are tender and the sauce has thickened.",
+    "Remove cinnamon, rest 5 minutes and serve with rice. Each chunk should be fully heated and saturated with the spiced coconut gravy."
+  ],
+  "tips": [
+    "Squeeze the rehydrated chunks thoroughly; otherwise the curry can taste watery and the sauce will not penetrate."
+  ],
+  "translations": {
+    "hi": {
+      "name": "श्रीलंकाई सोया करी",
+      "ingredients": [
+        "सूखे सोया चंक्स",
+        "भिगोने के लिए उबलता पानी",
+        "नारियल दूध",
+        "प्याज़, कटा",
+        "टमाटर, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, कद्दूकस",
+        "हरी मिर्च, चीरी",
+        "करी पत्ते",
+        "श्रीलंकाई भुना करी पाउडर",
+        "हल्दी पाउडर",
+        "दालचीनी",
+        "नारियल तेल",
+        "करी के लिए पानी",
+        "नमक"
+      ],
+      "steps": [
+        "सूखे सोया चंक्स पर 900 मिली उबलता पानी डालकर 12 मिनट भिगोएँ। छानकर धोएँ और अतिरिक्त पानी निचोड़ें; इससे पैकेट का स्वाद निकलता और मसाला सोखने में मदद मिलती है।",
+        "गहरे पैन में नारियल तेल गरम करें। प्याज़ 6 मिनट सुनहरा करें, फिर लहसुन, अदरक, मिर्च, करी पत्ते और दालचीनी 1 मिनट पकाएँ।",
+        "करी पाउडर और हल्दी 30 सेकंड चलाएँ, फिर टमाटर डालें। 5–6 मिनट टमाटर गलने और मसाले से तेल अलग होने तक पकाएँ।",
+        "निचोड़े सोया चंक्स डालकर 3 मिनट मसाला चढ़ाएँ। 180 मिली पानी और नारियल दूध डालें, नमक मिलाएँ और 12–15 मिनट बिना ढके उबालें ताकि चंक्स नरम और रस गाढ़ा हो।",
+        "दालचीनी निकालें, 5 मिनट रखकर चावल के साथ परोसें। हर चंक पूरी तरह गरम और मसालेदार नारियल रस से भरा होना चाहिए।"
+      ],
+      "tips": [
+        "भीगे चंक्स अच्छी तरह निचोड़ें; नहीं तो करी पानी जैसी लगेगी और मसाला भीतर नहीं जाएगा।"
+      ]
+    },
+    "gu": {
+      "name": "શ્રીલંકન સોયા કરી",
+      "ingredients": [
+        "સૂકા સોયા ચંક્સ",
+        "પલાળવા ઉકળતું પાણી",
+        "નાળિયેરનું દૂધ",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "લસણ, બારીક સમારેલું",
+        "આદુ, છીણેલું",
+        "લીલાં મરચાં, ચીરેલાં",
+        "મીઠા લીમડાનાં પાન",
+        "શ્રીલંકન શેકેલો કરી પાઉડર",
+        "હળદર પાઉડર",
+        "તજનો ટુકડો",
+        "નાળિયેરનું તેલ",
+        "કરી માટે પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "સૂકા સોયા ચંક્સ પર 900 મિલી ઉકળતું પાણી રેડી 12 મિનિટ પલાળો. નીતારી ધોઈ વધારાનું પાણી નિચોવો; તેથી પૅકેટનો સ્વાદ જાય અને મસાલો સારી રીતે શોષાય.",
+        "ઊંડા પૅનમાં નાળિયેરનું તેલ ગરમ કરો. ડુંગળી 6 મિનિટ સોનેરી કરો, પછી લસણ, આદુ, મરચાં, મીઠા લીમડાનાં પાન અને તજ 1 મિનિટ રાંધો.",
+        "કરી પાઉડર અને હળદર 30 સેકન્ડ હલાવો, પછી ટામેટાં નાખો. 5–6 મિનિટ ટામેટાં ગળે અને મસાલામાંથી તેલ છૂટે ત્યાં સુધી રાંધો.",
+        "નિચોવેલા સોયા ચંક્સ નાખી 3 મિનિટ મસાલો ચઢાવો. 180 મિલી પાણી અને નાળિયેરનું દૂધ રેડી મીઠું નાખો અને 12–15 મિનિટ ઢાંક્યા વગર ચંક્સ નરમ તથા રસો ઘાટો થાય ત્યાં સુધી ઉકાળો.",
+        "તજ કાઢી 5 મિનિટ રાખો અને ભાત સાથે પીરસો. દરેક ચંક સંપૂર્ણ ગરમ અને મસાલેદાર નાળિયેરના રસાથી ભરેલો હોવો જોઈએ."
+      ],
+      "tips": [
+        "પલાળેલા ચંક્સ સારી રીતે નિચોવો; નહીં તો કરી પાણી જેવી લાગશે અને મસાલો અંદર નહીં જાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.hungrylankan.com/recipes/sri-lankan-soy-meat-tvp-curry/",
+    "use": "Sri Lankan soya chunk curry approach; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/sri-lankan-soya-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0266",
+  "id": "dahi-kofta",
+  "status": "published-third-100-intake-batch",
+  "name": "Dahi Kofta",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "paneer, crumbled",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "potato, boiled and mashed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion, minced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix crumbled paneer, mashed potato, chickpea flour, half the ginger, 4 g salt and half the coriander leaves. Knead just until the mixture holds, then shape 12 firm balls.",
+    "Heat 70 ml oil in a small deep pan. Fry kofta in batches on medium heat for 4–5 minutes, turning, until evenly golden. Drain on paper; do not crowd the pan.",
+    "Whisk yogurt with 250 ml water until smooth. Heat remaining oil in a wide pan; add cumin and onion, cooking 6 minutes until golden. Stir in remaining ginger, coriander powder, turmeric and chili for 1 minute.",
+    "Reduce heat to low and slowly stir in the yogurt. Cook 8–10 minutes, stirring constantly at first, until lightly thickened; keep below a hard boil to prevent splitting. Season with remaining salt.",
+    "Set the hot kofta in a serving dish and spoon warm yogurt gravy over them just before eating. Sprinkle the remaining coriander; serve with rice or chapati."
+  ],
+  "tips": [
+    "Keep kofta separate until serving so they retain their golden exterior."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दही कोफ्ता",
+      "ingredients": [
+        "पनीर, मसलकर",
+        "आलू, उबले मसले",
+        "बेसन",
+        "गाढ़ा सादा दही",
+        "प्याज़, बारीक कटा",
+        "अदरक, कसा",
+        "जीरा",
+        "धनिया पाउडर",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "हल्का तेल",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पनीर, मसले आलू, बेसन, आधा अदरक, 4 ग्राम नमक और आधा हरा धनिया मिलाएँ। बस इतना गूँधें कि मिश्रण बँध जाए, फिर 12 सख्त गोले बनाएँ।",
+        "छोटे गहरे पैन में 70 मि.ली. तेल गरम करें। कोफ्ते मध्यम आँच पर थोड़े-थोड़े 4–5 मिनट घुमाकर सुनहरे तलें। कागज़ पर निकालें; पैन न भरें।",
+        "दही और 250 मि.ली. पानी चिकना फेंटें। चौड़े पैन में बचा तेल गरम करें; जीरा और प्याज़ 6 मिनट सुनहरा करें। बचा अदरक, धनिया, हल्दी और मिर्च 1 मिनट भूनें।",
+        "आँच धीमी करके दही धीरे-धीरे मिलाएँ। शुरू में लगातार चलाते हुए 8–10 मिनट हल्का गाढ़ा करें; दही फटने से बचाने को तेज़ उबाल न दें। बचा नमक डालें।",
+        "गरम कोफ्ते परोसने की डिश में रखें और खाने से ठीक पहले गरम दही ग्रेवी ऊपर डालें। बचा हरा धनिया छिड़कें; चावल या चपाती के साथ परोसें।"
+      ],
+      "tips": [
+        "कोफ्ते परोसने तक अलग रखें ताकि सुनहरी बाहरी परत बनी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "દહીં કોફ્તા",
+      "ingredients": [
+        "પનીર, મસળેલું",
+        "બટાકા, બાફેલા મસળેલા",
+        "ચણાનો લોટ",
+        "ઘાટું સાદું દહીં",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "આદુ, છીણેલું",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "પનીર, મસળેલા બટાકા, ચણાનો લોટ, અડધું આદુ, 4 ગ્રામ મીઠું અને અડધી કોથમીર ભેળવો. મિશ્રણ બંધાય એટલું મસળી 12 ગોળા બનાવો.",
+        "નાની ઊંડી કડાઈમાં 70 મિ.લી. તેલ ગરમ કરો. કોફ્તા મધ્યમ તાપે થોડા થોડા 4–5 મિનિટ ફેરવી સોનેરી તળો. કાગળ પર કાઢો; કડાઈ ન ભરો.",
+        "દહીં અને 250 મિ.લી. પાણી મસૃણ ફેંટો. પહોળી કડાઈમાં બાકીનું તેલ ગરમ કરો; જીરું અને ડુંગળી 6 મિનિટ સોનેરી કરો. બાકીનું આદુ, ધાણા, હળદર અને મરચું 1 મિનિટ શેકો.",
+        "તાપ ધીમો કરી દહીં ધીમે ધીમે ઉમેરો. શરૂઆતમાં સતત હલાવી 8–10 મિનિટ થોડું ઘટ્ટ કરો; દહીં ન ફાટે માટે જોરથી ન ઉકાળો. બાકીનું મીઠું નાખો.",
+        "ગરમ કોફ્તા પીરસવાના વાસણમાં મૂકો અને ખાતા પહેલાં જ ગરમ દહીંની ગ્રેવી ઉપર રેડો. બાકી કોથમીર ભભરાવો; ભાત કે ચપાટી સાથે પીરસો."
+      ],
+      "tips": [
+        "કોફ્તા પીરસતા સુધી અલગ રાખો જેથી સોનેરી બહારનું પડ જળવાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/veg-kofta-curry-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/dahi-kofta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,7 +1,7 @@
 {
   "sourceReviewId": "R0208",
   "id": "pudina-paneer",
-  "status": "draft-third-100-intake-batch",
+  "status": "published-third-100-intake-batch",
   "name": "Pudina Paneer",
   "cuisine": "North Indian",
   "categories": [
@@ -146,7 +146,7 @@
     }
   },
   "reference": {
-    "url": "https://www.archanaskitchen.com/recipe/pudina-paneer-recipe-mint-cottage-cheese-curry",
+    "url": "https://recipes.timesofindia.com/recipes/pudina-paneer/rs55874977.cms",
     "use": "Mint-paneer pairing; independently measured and authored."
   },
   "photoDraft": "catalog/intake/photos/pudina-paneer.png",

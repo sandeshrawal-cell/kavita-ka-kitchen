@@ -1,0 +1,150 @@
+{
+  "sourceReviewId": "R0222",
+  "id": "soya-chaap-tikka-masala",
+  "status": "published-third-100-intake-batch",
+  "name": "Soya Chaap Tikka Masala",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "passiveTime": "20 minutes marinating",
+  "ingredients": [
+    {
+      "name": "plain soya chaap, drained and cut",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pat chaap dry. Mix yogurt with half the ginger-garlic paste, half the chili, half the garam masala and 4 g salt; coat chaap and marinate 20 minutes.",
+    "Heat 20 ml oil in a grill pan. Sear chaap over medium-high heat for 3–4 minutes per side until charred in spots and cooked through; set aside.",
+    "In another pan heat remaining oil. Fry onion 8 minutes until golden, then add remaining ginger-garlic paste, chili, coriander and tomato puree. Cook 10 minutes until thick.",
+    "Add water and remaining salt; simmer 5 minutes. Stir in cream and remaining garam masala, keeping the gravy at a gentle heat.",
+    "Add grilled chaap to the sauce and simmer 3 minutes so the smoky pieces absorb the tikka masala. Serve with naan or rice."
+  ],
+  "tips": [
+    "Sear marinated chaap before adding it to the gravy; this separates tikka masala from a plain chaap curry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया चाप टिक्का मसाला",
+      "ingredients": [
+        "सादा सोया चाप, निथारा और कटा",
+        "गाढ़ा सादा दही",
+        "प्याज़, बारीक कटे",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "क्रीम",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चाप सुखाएँ। दही में आधा अदरक-लहसुन पेस्ट, आधी मिर्च, आधा गरम मसाला और 4 ग्राम नमक मिलाएँ; चाप पर लगाकर 20 मिनट रखें।",
+        "ग्रिल पैन में 20 मिली तेल गरम करें। चाप मध्यम-तेज़ आँच पर हर तरफ 3–4 मिनट धब्बेदार सेंकें और भीतर तक पकाएँ; अलग रखें।",
+        "दूसरे पैन में बचा तेल गरम करके प्याज़ 8 मिनट सुनहरा भूनें। बचा अदरक-लहसुन पेस्ट, मिर्च, धनिया और टमाटर प्यूरी डालें। 10 मिनट गाढ़ा पकाएँ।",
+        "पानी और बचा नमक डालकर 5 मिनट उबालें। क्रीम और बचा गरम मसाला मिलाएँ, तरी को हल्की आँच पर रखें।",
+        "ग्रिल चाप तरी में डालकर 3 मिनट हल्का पकाएँ ताकि धुएँदार टुकड़े टिक्का मसाला सोखें। नान या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "मेरिनेट चाप को तरी में डालने से पहले सेंकें; यही टिक्का मसाला को साधारण चाप करी से अलग करता है।"
+      ],
+      "passiveTime": "20 मिनट मेरिनेट करना"
+    },
+    "gu": {
+      "name": "સોયા ચાપ ટિક્કા મસાલા",
+      "ingredients": [
+        "સાદો સોયા ચાપ, નિતારી કાપેલો",
+        "ઘટ્ટ સાદું દહીં",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "ક્રીમ",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચાપ સૂકવો. દહીંમાં અડધી આદુ-લસણની પેસ્ટ, અડધું મરચું, અડધો ગરમ મસાલો અને 4 ગ્રામ મીઠું ભેળવો; ચાપ પર લગાવી 20 મિનિટ રાખો.",
+        "ગ્રિલ કડાઈમાં 20 મિ.લી. તેલ ગરમ કરો. ચાપ મધ્યમથી વધુ તાપે દરેક બાજુ 3–4 મિનિટ ડાઘવાળો શેકી અંદરથી રાંધો; અલગ રાખો.",
+        "બીજી કડાઈમાં બાકી તેલ ગરમ કરી ડુંગળી 8 મિનિટ સોનેરી શેકો. બાકી આદુ-લસણની પેસ્ટ, મરચું, ધાણા અને ટામેટાંની પ્યૂરી નાખો. 10 મિનિટ ઘટ્ટ રાંધો.",
+        "પાણી અને બાકી મીઠું નાખી 5 મિનિટ ઉકાળો. ક્રીમ અને બાકી ગરમ મસાલો ભેળવી ગ્રેવી ધીમા તાપે રાખો.",
+        "શેકેલો ચાપ ગ્રેવીમાં નાખી 3 મિનિટ હળવું રાંધો જેથી ધુમાડાની સુગંધવાળા ટુકડા મસાલો શોષે. નાન કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "મેરિનેટ કરેલો ચાપ ગ્રેવીમાં નાખતાં પહેલાં શેકો; આ જ ટિક્કા મસાલાને સાદી ચાપ કરીથી જુદો કરે છે."
+      ],
+      "passiveTime": "20 મિનિટ મેરિનેટ કરવું"
+    }
+  },
+  "reference": {
+    "url": "https://www.funfoodfrolic.com/soya-chaap-tikka-masala-recipe/",
+    "use": "Marinated charred soya chaap in tomato masala; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/soya-chaap-tikka-masala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

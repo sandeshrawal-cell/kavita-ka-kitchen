@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0225",
+  "id": "chilli-tofu",
+  "status": "published-third-100-intake-batch",
+  "name": "Chilli Tofu",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed and cubed",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum, cubed",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onion, cut into petals",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, sliced",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "red chili sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu for 15 minutes, cut into cubes and pat dry. Toss with 30 g cornstarch and salt until lightly coated.",
+    "Heat 35 ml oil in a wide pan. Pan-fry tofu in one layer for 3 minutes per side until crisp and golden; transfer to a plate.",
+    "Heat remaining oil and stir-fry garlic, ginger and green chilies for 30 seconds. Add onion petals and capsicum; toss over high heat for 3 minutes, keeping them crisp.",
+    "Mix soy sauce, chili sauce, vinegar, water and remaining 10 g cornstarch. Pour into the pan and cook 1–2 minutes, stirring until glossy and lightly thickened.",
+    "Return tofu and toss quickly so every cube is coated. Finish with spring onions and serve immediately before the tofu loses its crisp edges."
+  ],
+  "tips": [
+    "Use a vegetarian chili sauce and press tofu well; a hot pan gives crisp cubes without deep-frying."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिली टोफू",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर टुकड़ों में",
+        "हरी शिमला मिर्च, टुकड़ों में",
+        "प्याज़ की पंखुड़ियाँ",
+        "हरा प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, बारीक कटा",
+        "हरी मिर्च, कटी",
+        "हल्का सोया सॉस",
+        "लाल चिली सॉस",
+        "राइस विनेगर",
+        "कॉर्नस्टार्च",
+        "तेल",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "टोफू 15 मिनट दबाकर टुकड़े काटें और सुखाएँ। 30 ग्राम कॉर्नस्टार्च और नमक में हल्का लपेटें।",
+        "चौड़े पैन में 35 मिली तेल गरम करें। टोफू एक परत में हर तरफ 3 मिनट कुरकुरा सुनहरा तलकर प्लेट में निकालें।",
+        "बचे तेल में लहसुन, अदरक और हरी मिर्च 30 सेकंड भूनें। प्याज़ की पंखुड़ियाँ और शिमला मिर्च तेज़ आँच पर 3 मिनट चलाएँ, कुरकुरी रखें।",
+        "सोया सॉस, चिली सॉस, सिरका, पानी और बचा 10 ग्राम कॉर्नस्टार्च मिलाएँ। पैन में डालकर 1–2 मिनट चमकदार और हल्का गाढ़ा होने तक चलाएँ।",
+        "टोफू वापस डालकर जल्दी मिलाएँ ताकि हर टुकड़े पर सॉस चढ़े। हरा प्याज़ डालें और टोफू के किनारे कुरकुरे रहते ही परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी चिली सॉस लें और टोफू अच्छी तरह दबाएँ; गरम पैन में बिना डीप फ्राय किए कुरकुरे टुकड़े बनते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચિલી ટોફુ",
+      "ingredients": [
+        "ઘણું મજબૂત ટોફુ, દબાવી ટુકડામાં",
+        "લીલું શિમલા મરચું, ટુકડામાં",
+        "ડુંગળીની પાંખડીઓ",
+        "લીલી ડુંગળી, સમારેલી",
+        "લસણ, ઝીણું સમારેલું",
+        "આદુ, ઝીણું સમારેલું",
+        "લીલાં મરચાં, સમારેલાં",
+        "હળવો સોયા સોસ",
+        "લાલ ચિલી સોસ",
+        "રાઇસ વિનેગર",
+        "કોર્નસ્ટાર્ચ",
+        "તેલ",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટોફુ 15 મિનિટ દબાવી ટુકડા કરો અને સૂકવો. 30 ગ્રામ કોર્નસ્ટાર્ચ અને મીઠામાં હળવું લપેટો.",
+        "પહોળી કડાઈમાં 35 મિ.લી. તેલ ગરમ કરો. ટોફુ એક પડમાં દરેક બાજુ 3 મિનિટ કરકરું સોનેરી શેકી થાળીમાં કાઢો.",
+        "બાકી તેલમાં લસણ, આદુ અને લીલાં મરચાં 30 સેકન્ડ શેકો. ડુંગળીની પાંખડીઓ અને શિમલા મરચું તેજ તાપે 3 મિનિટ હલાવો, કરકરાં રાખો.",
+        "સોયા સોસ, ચિલી સોસ, વિનેગર, પાણી અને બાકી 10 ગ્રામ કોર્નસ્ટાર્ચ ભેળવો. કડાઈમાં રેડી 1–2 મિનિટ ચમકદાર અને થોડું ઘટ્ટ થાય ત્યાં સુધી હલાવો.",
+        "ટોફુ પાછું નાખી ઝડપથી ભેળવો જેથી દરેક ટુકડા પર સોસ ચડે. લીલી ડુંગળી નાખી ટોફુની કિનારી કરકરી હોય ત્યારે જ પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી ચિલી સોસ લો અને ટોફુ સારી રીતે દબાવો; ગરમ કડાઈમાં ઊંડે તળ્યા વગર કરકરા ટુકડા બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/chilli-paneer-restaurant-style-recipe/",
+    "use": "Indo-Chinese chilli sauce sequence with tofu substitution; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/chilli-tofu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

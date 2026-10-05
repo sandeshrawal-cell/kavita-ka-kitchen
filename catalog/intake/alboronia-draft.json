@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0253",
+  "id": "alboronia",
+  "status": "published-third-100-intake-batch",
+  "name": "Alboronía",
+  "cuisine": "Andalusian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "aubergine, cubed",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin, peeled and cubed",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion, diced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sherry vinegar",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "blanched almonds, toasted",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut aubergine and pumpkin into 2 cm cubes. Sprinkle aubergine with 3 g salt and rest 10 minutes, then pat dry. Toast almonds in a dry pan until golden and set aside.",
+    "Heat 40 ml olive oil in a broad pan and cook aubergine in batches for 7–8 minutes until browned. Remove; add remaining oil and cook onion and pepper 6 minutes until softened.",
+    "Add garlic, paprika and cumin for 30 seconds. Stir in pumpkin, tomatoes, 100 ml water and remaining salt; cover and simmer 12 minutes until pumpkin is nearly tender.",
+    "Return aubergine and simmer uncovered 8–10 minutes until the vegetables are soft but their cubes remain distinct and the tomato juices reduce. Stir in sherry vinegar.",
+    "Rest 5 minutes, scatter toasted almonds and serve warm with bread. Andalusian alboronía should taste gently sweet from pumpkin and bright from vinegar."
+  ],
+  "tips": [
+    "Brown aubergine separately and fold it back late; this keeps the vegetables distinct rather than turning them into mash."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अलबोरोनिया",
+      "ingredients": [
+        "बैंगन, टुकड़ों में",
+        "कद्दू, छीलकर टुकड़ों में",
+        "लाल शिमला मिर्च, कटी",
+        "प्याज़, कटा",
+        "टमाटर, कटे",
+        "लहसुन, बारीक कटा",
+        "जैतून तेल",
+        "मीठा स्मोक्ड पापरिका",
+        "पिसा जीरा",
+        "शेरी सिरका",
+        "छिले बादाम, भुने",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "बैंगन और कद्दू 2 सेमी टुकड़ों में काटें। बैंगन पर 3 ग्राम नमक छिड़ककर 10 मिनट रखें और सुखाएँ। बादाम सूखे पैन में सुनहरे भूनकर अलग रखें।",
+        "चौड़े पैन में 40 मिली जैतून तेल गरम कर बैंगन थोड़ी-थोड़ी मात्रा में 7–8 मिनट भूरा भूनें। निकालें; बचा तेल डालकर प्याज़ और मिर्च 6 मिनट नरम करें।",
+        "लहसुन, पापरिका और जीरा 30 सेकंड चलाएँ। कद्दू, टमाटर, 100 मिली पानी और बचा नमक डालकर ढकें और 12 मिनट कद्दू लगभग नरम होने तक उबालें।",
+        "बैंगन लौटाकर 8–10 मिनट बिना ढके पकाएँ ताकि सब्ज़ियाँ नरम पर टुकड़ों में रहें और टमाटर का रस घटे। शेरी सिरका मिलाएँ।",
+        "5 मिनट रखें, भुने बादाम छिड़कें और ब्रेड के साथ गरम परोसें। अंदालूसी अलबोरोनिया में कद्दू की हल्की मिठास और सिरके की चटपटी खटास होनी चाहिए।"
+      ],
+      "tips": [
+        "बैंगन अलग भूनकर अंत में मिलाएँ; इससे सब्ज़ियों के टुकड़े अलग रहते हैं, वे पेस्ट नहीं बनते।"
+      ]
+    },
+    "gu": {
+      "name": "અલ્બોરોનિયા",
+      "ingredients": [
+        "રિંગણ, ટુકડામાં",
+        "કોળું, છાલ ઉતારી ટુકડામાં",
+        "લાલ શિમલા મરચાં, સમારેલાં",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "લસણ, બારીક સમારેલું",
+        "ઓલિવ તેલ",
+        "મીઠું સ્મોક્ડ પાપરિકા",
+        "દળેલું જીરું",
+        "શેરી વિનેગર",
+        "છોલેલી બદામ, શેકેલી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "રિંગણ અને કોળું 2 સેમી ટુકડામાં કાપો. રિંગણ પર 3 ગ્રામ મીઠું છાંટી 10 મિનિટ રાખી સૂકવો. બદામ કોરા પૅનમાં સોનેરી શેકી અલગ રાખો.",
+        "પહોળા પૅનમાં 40 મિલી ઓલિવ તેલ ગરમ કરી રિંગણ થોડા-થોડા ભાગમાં 7–8 મિનિટ ભૂખરું શેકો. કાઢો; બાકીનું તેલ નાખી ડુંગળી અને મરચાં 6 મિનિટ નરમ કરો.",
+        "લસણ, પાપરિકા અને જીરું 30 સેકન્ડ હલાવો. કોળું, ટામેટાં, 100 મિલી પાણી અને બાકીનું મીઠું નાખી ઢાંકી 12 મિનિટ કોળું લગભગ નરમ થાય ત્યાં સુધી ઉકાળો.",
+        "રિંગણ પાછું નાખી 8–10 મિનિટ ઢાંક્યા વગર રાંધો જેથી શાક નરમ પરંતુ ટુકડા અલગ રહે અને ટામેટાંનો રસ ઘટે. શેરી વિનેગર ભેળવો.",
+        "5 મિનિટ રહેવા દો, શેકેલી બદામ છાંટી બ્રેડ સાથે ગરમ પીરસો. અંદાલુસી અલ્બોરોનિયામાં કોળાની હળવી મીઠાશ અને વિનેગરની તાજી ખટાશ હોવી જોઈએ."
+      ],
+      "tips": [
+        "રિંગણ અલગ શેકી છેલ્લે ભેળવો; તેથી શાકના ટુકડા અલગ રહે છે, માવો બનતો નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://elpais.com/gastronomia/recetas/2020/09/21/receta/1600703293_904615.html",
+    "use": "Andalusian aubergine-and-pumpkin alboronía and paprika-vinegar finish; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/alboronia.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

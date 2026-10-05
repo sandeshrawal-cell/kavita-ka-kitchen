@@ -1,0 +1,126 @@
+{
+  "sourceReviewId": "R0229",
+  "id": "kachri-ki-sabzi",
+  "status": "published-third-100-intake-batch",
+  "name": "Kachri ki Sabzi",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fresh kachri wild melons, peeled and sliced",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, sliced",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel and slice the fresh kachri. Touch a tiny raw sliver of each melon to the tongue, then spit it out; discard any bitter fruit and use only pleasantly sour kachri.",
+    "Heat oil and sizzle cumin and mustard seeds. Add green chilies and kachri slices; sauté for 5 minutes.",
+    "Add turmeric, chili, coriander and salt. Cook uncovered 6–8 minutes, stirring, until the kachri softens and most moisture evaporates.",
+    "Reduce heat and continue stir-frying for 4 minutes, scraping the pan, until the spices cling to the kachri and the sabzi is nearly dry.",
+    "Check that the kachri is tender, not watery. Serve the slightly sour, spicy dry sabzi hot with bajra roti or phulka."
+  ],
+  "tips": [
+    "Never use bitter kachri; touch a tiny piece to the tongue and spit it out when checking each fruit."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काचरी की सब्ज़ी",
+      "ingredients": [
+        "ताज़ी काचरी, छीली और कटी",
+        "हरी मिर्च, कटी",
+        "तेल",
+        "जीरा",
+        "राई",
+        "हल्दी",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "ताज़ी काचरी छीलकर काटें। हर फल का बहुत छोटा कच्चा टुकड़ा जीभ से छुआकर थूक दें; कड़वा फल फेंकें और केवल हल्के खट्टे टुकड़े लें।",
+        "तेल गरम करके जीरा और राई चटकाएँ। हरी मिर्च और काचरी के टुकड़े डालकर 5 मिनट भूनें।",
+        "हल्दी, मिर्च, धनिया और नमक डालें। 6–8 मिनट बिना ढके चलाते हुए पकाएँ जब तक काचरी नरम और अधिकांश पानी सूख जाए।",
+        "आँच घटाकर 4 मिनट और चलाते हुए भूनें, तले को खुरचें, जब तक मसाले काचरी पर चढ़ें और सब्ज़ी लगभग सूखी हो।",
+        "जाँचें कि काचरी नरम है और पानीदार नहीं। हल्की खट्टी-मसालेदार सूखी सब्ज़ी बाजरे की रोटी या फुल्के के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "कड़वी काचरी कभी न लें; जाँचते समय बहुत छोटा टुकड़ा जीभ से छुआकर थूक दें।"
+      ]
+    },
+    "gu": {
+      "name": "કાચરીનું શાક",
+      "ingredients": [
+        "તાજી કાચરી, છોલી કાપેલી",
+        "લીલાં મરચાં, સમારેલાં",
+        "તેલ",
+        "જીરું",
+        "રાઈ",
+        "હળદર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "તાજી કાચરી છોલી કાપો. દરેક ફળનો બહુ નાનો કાચો ટુકડો જીભને અડાડી થૂકી દો; કડવું ફળ ફેંકી માત્ર હળવા ખાટા ટુકડા લો.",
+        "તેલ ગરમ કરી જીરું અને રાઈ ચટકાવો. લીલાં મરચાં અને કાચરીના ટુકડા નાખી 5 મિનિટ શેકો.",
+        "હળદર, મરચું, ધાણા અને મીઠું નાખો. 6–8 મિનિટ ઢાંક્યા વગર હલાવી રાંધો, કાચરી નરમ અને મોટા ભાગનો ભેજ સુકાય ત્યાં સુધી.",
+        "તાપ ઘટાડીને વધુ 4 મિનિટ હલાવી શેકો, તળિયું ઉખેડતા રહો, મસાલો કાચરી પર ચડે અને શાક લગભગ સૂકું થાય ત્યાં સુધી.",
+        "કાચરી નરમ અને પાણી વગરની છે તે તપાસો. હળવું ખાટું-મસાલેદાર સૂકું શાક બાજરીના રોટલા કે ફુલકા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "કડવી કાચરી ક્યારેય ન લો; તપાસતાં બહુ નાનો ટુકડો જીભને અડાડી થૂકી દો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.zaykakatadka.com/recipe/kaachari-mirchi-sabzi/",
+    "use": "Rajasthani dry kachri and chili sabzi with bitter-fruit screening; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kachri-ki-sabzi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

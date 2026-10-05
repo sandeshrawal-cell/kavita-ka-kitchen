@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0287",
+  "id": "vegetable-ghassi",
+  "status": "published-third-100-intake-batch",
+  "name": "Vegetable Ghassi",
+  "cuisine": "Mangalorean",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "potato, cubed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "green beans, cut",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "dried Byadagi or Kashmiri chilies",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast chilies, coriander and cumin for 3 minutes until fragrant. Add half the coconut for the last minute; cool and grind with tamarind and 150 ml measured water to a smooth red paste.",
+    "Heat coconut oil in a heavy pot. Crackle mustard seeds and curry leaves for 30 seconds. Add potatoes and carrots and toss for 2 minutes.",
+    "Add 250 ml remaining water and salt, cover and cook 7 minutes. Add beans and cauliflower; cook 5 minutes until all vegetables are almost tender.",
+    "Stir in red coconut-spice paste and jaggery. Simmer uncovered 7–8 minutes until gravy thickens and coats the vegetables; add the remaining fresh coconut.",
+    "Taste for sweet-sour-spicy balance and salt. Serve hot with neer dosa or rice."
+  ],
+  "tips": [
+    "Roasted chilies, coconut and tamarind give ghassi its signature deep red coastal gravy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल घस्सी",
+      "ingredients": [
+        "आलू, टुकड़े",
+        "फ्रेंच बीन्स, कटी",
+        "गाजर, टुकड़े",
+        "फूलगोभी के फूल",
+        "ताज़ा कसा नारियल",
+        "सूखी ब्याडगी या कश्मीरी मिर्च",
+        "साबुत धनिया",
+        "जीरा",
+        "इमली का गूदा",
+        "गुड़",
+        "करी पत्ते",
+        "राई",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "मिर्च, धनिया और जीरा 3 मिनट महक आने तक भूनें। आखिरी मिनट आधा नारियल डालें; ठंडा कर इमली और दिए 150 मि.ली. पानी से चिकना लाल पीसें।",
+        "भारी बर्तन में नारियल तेल गरम करें। राई और करी पत्ते 30 सेकंड चटकाएँ। आलू और गाजर 2 मिनट चलाएँ।",
+        "बचा 250 मि.ली. पानी और नमक डालकर ढकें और 7 मिनट पकाएँ। बीन्स और फूलगोभी डालकर 5 मिनट और पकाएँ, सब्जियाँ लगभग नरम हों।",
+        "लाल नारियल-मसाला पेस्ट और गुड़ मिलाएँ। 7–8 मिनट बिना ढके पकाएँ, ग्रेवी गाढ़ी होकर सब्जियों पर चढ़े; बचा ताज़ा नारियल डालें।",
+        "मीठा-खट्टा-तीखा संतुलन और नमक चखें। नीर डोसा या चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "भुनी मिर्च, नारियल और इमली घस्सी की गहरी लाल तटीय ग्रेवी बनाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ ઘસ્સી",
+      "ingredients": [
+        "બટાકા, ટુકડા",
+        "ફ્રેન્ચ બીન્સ, કાપેલી",
+        "ગાજર, ટુકડા",
+        "ફૂલકોબીનાં ફૂલ",
+        "તાજું છીણેલું નાળિયેર",
+        "સૂકાં બ્યાડગી કે કાશ્મીરી મરચાં",
+        "આખા ધાણા",
+        "જીરું",
+        "આંબલીનો માવો",
+        "ગોળ",
+        "મીઠા લીમડાનાં પાન",
+        "રાઈ",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "મરચાં, ધાણા અને જીરું 3 મિનિટ સુગંધે ત્યાં સુધી શેકો. છેલ્લી મિનિટ અડધું નાળિયેર ઉમેરો; ઠંડું કરી આંબલી અને આપેલા 150 મિ.લી. પાણીથી મસૃણ લાલ પીસો.",
+        "ભારે વાસણમાં નાળિયેરનું તેલ ગરમ કરો. રાઈ અને મીઠા લીમડાનાં પાન 30 સેકંડ તડકાવો. બટાકા અને ગાજર 2 મિનિટ હલાવો.",
+        "બાકીનું 250 મિ.લી. પાણી અને મીઠું નાખી ઢાંકી 7 મિનિટ રાંધો. બીન્સ અને ફૂલકોબી નાખી 5 મિનિટ વધુ રાંધો, શાક લગભગ નરમ થાય.",
+        "લાલ નાળિયેર-મસાલા પેસ્ટ અને ગોળ ભેળવો. 7–8 મિનિટ ઢાંકણ વગર રાંધો, ગ્રેવી ઘટ્ટ થઈ શાક પર ચડે; બાકી તાજું નાળિયેર ઉમેરો.",
+        "ગળ્યા-ખાટા-તીખા સ્વાદનું સંતુલન અને મીઠું ચાખો. નીર ઢોસા કે ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "શેકેલાં મરચાં, નાળિયેર અને આંબલી ઘસ્સીની ઘેરી લાલ દરિયાકાંઠાની ગ્રેવી બનાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-gassi-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-ghassi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

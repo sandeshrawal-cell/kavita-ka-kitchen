@@ -1,0 +1,150 @@
+{
+  "sourceReviewId": "R0221",
+  "id": "achari-soya-chaap",
+  "status": "published-third-100-intake-batch",
+  "name": "Achari Soya Chaap",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "20 minutes marinating",
+  "ingredients": [
+    {
+      "name": "plain soya chaap, drained and sliced",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "yellow mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "nigella seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Drain packaged soya chaap, rinse briefly and pat dry. Cut into thick diagonal pieces so the achari marinade can coat each surface.",
+    "Crush fennel, mustard, fenugreek and nigella coarsely. Whisk with yogurt, ginger-garlic paste, chili, lemon juice and 6 g salt; coat chaap and marinate 20 minutes.",
+    "Heat mustard oil until shimmering and lower the heat. Sauté onions for 5 minutes until lightly golden.",
+    "Add the marinated chaap and all yogurt mixture. Cook over medium heat for 8–10 minutes, stirring often, until the yogurt thickens and clings to the pieces.",
+    "Add remaining salt to taste and cook 2 more minutes until the masala is glossy and mostly dry. Serve hot with roti and sliced onions."
+  ],
+  "tips": [
+    "Crush the pickle spices only coarsely for the characteristic achari aroma; do not use sweet pickle syrup."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अचारी सोया चाप",
+      "ingredients": [
+        "सादा सोया चाप, निथारा और कटा",
+        "गाढ़ा सादा दही",
+        "प्याज़, कटा",
+        "अदरक-लहसुन पेस्ट",
+        "सौंफ",
+        "पीली सरसों",
+        "मेथी दाना",
+        "कलौंजी",
+        "कश्मीरी मिर्च पाउडर",
+        "सरसों का तेल",
+        "नींबू का रस",
+        "नमक"
+      ],
+      "steps": [
+        "पैकेट वाला सोया चाप निथारें, जल्दी धोकर सुखाएँ। मोटे तिरछे टुकड़े काटें ताकि अचारी मसाला हर तरफ चढ़े।",
+        "सौंफ, पीली सरसों, मेथी और कलौंजी दरदरी कूटें। दही, अदरक-लहसुन पेस्ट, मिर्च, नींबू रस और 6 ग्राम नमक में फेंटकर चाप पर लगाएँ; 20 मिनट रखें।",
+        "सरसों तेल चमकने तक गरम कर आँच घटाएँ। प्याज़ 5 मिनट हल्का सुनहरा भूनें।",
+        "मेरिनेट चाप और पूरा दही मिश्रण डालें। मध्यम आँच पर 8–10 मिनट बार-बार चलाते हुए पकाएँ जब तक दही गाढ़ा होकर टुकड़ों पर चढ़े।",
+        "बचा नमक स्वादानुसार डालकर 2 मिनट और पकाएँ, जब तक मसाला चमकदार और लगभग सूखा हो। रोटी और प्याज़ के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "अचारी खुशबू के लिए अचार मसाले दरदरे कूटें; मीठे अचार का शरबत न डालें।"
+      ],
+      "passiveTime": "20 मिनट मेरिनेट करना"
+    },
+    "gu": {
+      "name": "અચારી સોયા ચાપ",
+      "ingredients": [
+        "સાદો સોયા ચાપ, નિતારી કાપેલો",
+        "ઘટ્ટ સાદું દહીં",
+        "ડુંગળી, સમારેલી",
+        "આદુ-લસણની પેસ્ટ",
+        "વરિયાળી",
+        "પીળી રાઈ",
+        "મેથી દાણા",
+        "કલૌંજી",
+        "કાશ્મીરી મરચું પાઉડર",
+        "રાઈનું તેલ",
+        "લીંબુનો રસ",
+        "મીઠું"
+      ],
+      "steps": [
+        "પૅકેટવાળો સોયા ચાપ નિતારો, ઝડપથી ધોઈ સૂકવો. જાડા ત્રાંસા ટુકડા કરો જેથી અચારી મસાલો દરેક બાજુ ચડે.",
+        "વરિયાળી, પીળી રાઈ, મેથી અને કલૌંજી દરદરાં ભૂકો કરો. દહીં, આદુ-લસણની પેસ્ટ, મરચું, લીંબુનો રસ અને 6 ગ્રામ મીઠામાં ફેંટીને ચાપ પર લગાવો; 20 મિનિટ રાખો.",
+        "રાઈનું તેલ ચમકે ત્યાં સુધી ગરમ કરી તાપ ઘટાડો. ડુંગળી 5 મિનિટ આછી સોનેરી શેકો.",
+        "મેરિનેટ કરેલો ચાપ અને આખું દહીં મિશ્રણ નાખો. મધ્યમ તાપે 8–10 મિનિટ વારંવાર હલાવી રાંધો, દહીં ઘટ્ટ થઈ ટુકડા પર ચડે ત્યાં સુધી.",
+        "બાકી મીઠું સ્વાદ પ્રમાણે નાખી વધુ 2 મિનિટ રાંધો, મસાલો ચમકદાર અને લગભગ સૂકો થાય ત્યાં સુધી. રોટલી અને ડુંગળી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "અચારી સુગંધ માટે અથાણાના મસાલા દરદરા ભૂકો કરો; મીઠા અથાણાનો રસ ન નાખો."
+      ],
+      "passiveTime": "20 મિનિટ મેરિનેટ કરવું"
+    }
+  },
+  "reference": {
+    "url": "https://madscookhouse.com/achari-soya-chaap/",
+    "use": "Achari spice profile for soya chaap; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/achari-soya-chaap.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

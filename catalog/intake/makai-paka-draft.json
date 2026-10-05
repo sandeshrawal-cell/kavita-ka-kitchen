@@ -1,32 +1,161 @@
 {
- "sourceReviewId":"R0291","id":"makai-paka","status":"draft-photo-and-translation-reviewed","name":"Makai Paka","cuisine":"East African","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":50,
- "ingredients":[
-  {"name":"sweet corn cobs, cut into thick rounds","qty":800,"unit":"g"},
-  {"name":"coconut milk","qty":400,"unit":"ml"},
-  {"name":"roasted unsalted peanuts, finely ground","qty":120,"unit":"g"},
-  {"name":"onion, finely sliced","qty":180,"unit":"g"},
-  {"name":"tomatoes, chopped","qty":200,"unit":"g"},
-  {"name":"ginger, grated","qty":15,"unit":"g"},
-  {"name":"garlic, grated","qty":12,"unit":"g"},
-  {"name":"ground turmeric","qty":4,"unit":"g"},
-  {"name":"red chili powder","qty":5,"unit":"g"},
-  {"name":"neutral oil","qty":25,"unit":"ml"},
-  {"name":"water","qty":200,"unit":"ml"},
-  {"name":"lime juice","qty":30,"unit":"ml"},
-  {"name":"salt","qty":8,"unit":"g"},
-  {"name":"fresh coriander leaves","qty":25,"unit":"g"}
- ],
- "steps":[
-  "Cut each corn cob into sturdy rounds and simmer in plain water for 8 minutes until the kernels begin to soften. Drain; the cobs finish cooking in the curry.",
-  "Heat oil in a wide deep pan. Cook sliced onion for 7 minutes until golden, then add ginger and garlic and stir for 1 minute without burning them.",
-  "Add turmeric, chili powder and chopped tomatoes. Cook for 6 minutes, stirring, until the tomatoes break down and the oil begins to separate.",
-  "Whisk ground peanuts with coconut milk and 200 ml water so no dry lumps remain. Pour into the pan, add salt and simmer gently for 8 minutes; stir often so the peanut sauce does not catch.",
-  "Add the drained corn rounds and simmer for another 8 minutes, turning them to coat, until the kernels are tender and sauce is creamy. Switch off heat, add lime juice and coriander, and serve with rice."
- ],
- "tips":["The corn is eaten from the cob, so cut rounds thick enough to hold. Keep the coconut-peanut sauce at a gentle simmer to prevent splitting or scorching."],
- "translations":{
-  "hi":{"name":"मकई पाका","ingredients":["मक्के के भुट्टे, मोटे गोल टुकड़े","नारियल का दूध","भुनी बिना नमक की मूँगफली, बारीक पिसी","प्याज़, बारीक कटा","टमाटर, कटे","अदरक, कद्दूकस","लहसुन, कद्दूकस","पिसी हल्दी","लाल मिर्च पाउडर","हल्का स्वाद वाला तेल","पानी","नींबू का रस","नमक","ताज़ा हरा धनिया"],"steps":["हर भुट्टे के मज़बूत गोल टुकड़े काटें और सादे पानी में 8 मिनट उबालें ताकि दाने नरम होने लगें। छान लें; भुट्टे करी में पकना पूरा करेंगे।","चौड़े गहरे पैन में तेल गरम करें। कटा प्याज़ 7 मिनट सुनहरा होने तक पकाएँ, फिर अदरक और लहसुन डालकर बिना जलाए 1 मिनट चलाएँ।","हल्दी, मिर्च पाउडर और कटे टमाटर डालें। 6 मिनट चलाते हुए पकाएँ, जब तक टमाटर गलें और तेल अलग दिखने लगे।","पिसी मूँगफली को नारियल दूध और 200 मिली पानी से फेंटें ताकि सूखी गाँठें न रहें। पैन में डालें, नमक मिलाएँ और 8 मिनट धीमे उबालें; बार-बार चलाएँ ताकि मूँगफली की सॉस तले में न लगे।","छाने हुए भुट्टे डालकर और 8 मिनट पलटते हुए पकाएँ, जब तक दाने नरम और सॉस क्रीमी हो। आँच बंद कर नींबू रस और धनिया डालें; चावल के साथ परोसें।"],"tips":["भुट्टा डंठल से खाया जाता है, इसलिए गोल टुकड़े इतने मोटे रखें कि पकड़ सकें। नारियल-मूँगफली की सॉस को धीमे उबालें ताकि वह फटे या जले नहीं।"]},
-  "gu":{"name":"મકાઈ પકા","ingredients":["મકાઈના ભુટ્ટા, જાડા ગોળ ટુકડા","નાળિયેરનું દૂધ","શેકેલી મીઠા વગરની શીંગ, બારીક દળેલી","ડુંગળી, બારીક સમારેલી","ટામેટાં, સમારેલાં","આદુ, છીણેલું","લસણ, છીણેલું","દળેલી હળદર","લાલ મરચું પાઉડર","હળવા સ્વાદનું તેલ","પાણી","લીંબુનો રસ","મીઠું","તાજી કોથમીર"],"steps":["દરેક ભુટ્ટાના મજબૂત ગોળ ટુકડા કાપી સાદા પાણીમાં 8 મિનિટ ઉકાળો જેથી દાણા નરમ થવા લાગે. નિતારી લો; ભુટ્ટા કઢીમાં બાકી પકશે.","પહોળા ઊંડા પૅનમાં તેલ ગરમ કરો. સમારેલી ડુંગળી 7 મિનિટ સોનેરી થાય ત્યાં સુધી પકાવો, પછી આદુ અને લસણ નાખી બળે નહીં એમ 1 મિનિટ હલાવો.","હળદર, મરચું પાઉડર અને સમારેલાં ટામેટાં નાખો. ટામેટાં નરમ થાય અને તેલ અલગ દેખાય ત્યાં સુધી 6 મિનિટ હલાવી રાંધો.","દળેલી શીંગને નાળિયેરના દૂધ અને 200 મિલી પાણી સાથે ફેંટો જેથી ગાંઠો ન રહે. પૅનમાં રેડી મીઠું નાખો અને 8 મિનિટ ધીમે ઉકાળો; શીંગની સોસ તળિયે ચોંટે નહીં તેથી વારંવાર હલાવો.","નિતારેલા ભુટ્ટા નાખીને વધુ 8 મિનિટ પલટતાં રાંધો જેથી દાણા નરમ અને સોસ ક્રીમી થાય. તાપ બંધ કરી લીંબુનો રસ અને કોથમીર નાખો; ભાત સાથે પીરસો."],"tips":["ભુટ્ટો ડોડા પરથી ખવાય છે, તેથી ગોળ ટુકડા પકડી શકાય એટલા જાડા રાખો. નાળિયેર-શીંગની સોસ ધીમે ઉકાળો જેથી ફાટે કે બળે નહીં."]}
- },
- "reference":{"url":"https://www.theguardian.com/food/2020/jul/11/ravinder-bhogal-curry-recipes-duck-rendang-massaman-pork-chicken-coconut-seetcorn-peanut","use":"Ravinder Bhogal's sweetcorn-and-peanut makai paka informed the dish identity; quantities and wording independently authored for the reviewed photo."}
+  "sourceReviewId": "R0291",
+  "id": "makai-paka",
+  "status": "published-third-100-intake-batch",
+  "name": "Makai Paka",
+  "cuisine": "East African",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "sweet corn cobs, cut into thick rounds",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "roasted unsalted peanuts, finely ground",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut each corn cob into sturdy rounds and simmer in plain water for 8 minutes until the kernels begin to soften. Drain; the cobs finish cooking in the curry.",
+    "Heat oil in a wide deep pan. Cook sliced onion for 7 minutes until golden, then add ginger and garlic and stir for 1 minute without burning them.",
+    "Add turmeric, chili powder and chopped tomatoes. Cook for 6 minutes, stirring, until the tomatoes break down and the oil begins to separate.",
+    "Whisk ground peanuts with coconut milk and 200 ml water so no dry lumps remain. Pour into the pan, add salt and simmer gently for 8 minutes; stir often so the peanut sauce does not catch.",
+    "Add the drained corn rounds and simmer for another 8 minutes, turning them to coat, until the kernels are tender and sauce is creamy. Switch off heat, add lime juice and coriander, and serve with rice."
+  ],
+  "tips": [
+    "The corn is eaten from the cob, so cut rounds thick enough to hold. Keep the coconut-peanut sauce at a gentle simmer to prevent splitting or scorching."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मकई पाका",
+      "ingredients": [
+        "मक्के के भुट्टे, मोटे गोल टुकड़े",
+        "नारियल का दूध",
+        "भुनी बिना नमक की मूँगफली, बारीक पिसी",
+        "प्याज़, बारीक कटा",
+        "टमाटर, कटे",
+        "अदरक, कद्दूकस",
+        "लहसुन, कद्दूकस",
+        "पिसी हल्दी",
+        "लाल मिर्च पाउडर",
+        "हल्का स्वाद वाला तेल",
+        "पानी",
+        "नींबू का रस",
+        "नमक",
+        "ताज़ा हरा धनिया"
+      ],
+      "steps": [
+        "हर भुट्टे के मज़बूत गोल टुकड़े काटें और सादे पानी में 8 मिनट उबालें ताकि दाने नरम होने लगें। छान लें; भुट्टे करी में पकना पूरा करेंगे।",
+        "चौड़े गहरे पैन में तेल गरम करें। कटा प्याज़ 7 मिनट सुनहरा होने तक पकाएँ, फिर अदरक और लहसुन डालकर बिना जलाए 1 मिनट चलाएँ।",
+        "हल्दी, मिर्च पाउडर और कटे टमाटर डालें। 6 मिनट चलाते हुए पकाएँ, जब तक टमाटर गलें और तेल अलग दिखने लगे।",
+        "पिसी मूँगफली को नारियल दूध और 200 मिली पानी से फेंटें ताकि सूखी गाँठें न रहें। पैन में डालें, नमक मिलाएँ और 8 मिनट धीमे उबालें; बार-बार चलाएँ ताकि मूँगफली की सॉस तले में न लगे।",
+        "छाने हुए भुट्टे डालकर और 8 मिनट पलटते हुए पकाएँ, जब तक दाने नरम और सॉस क्रीमी हो। आँच बंद कर नींबू रस और धनिया डालें; चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "भुट्टा डंठल से खाया जाता है, इसलिए गोल टुकड़े इतने मोटे रखें कि पकड़ सकें। नारियल-मूँगफली की सॉस को धीमे उबालें ताकि वह फटे या जले नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "મકાઈ પકા",
+      "ingredients": [
+        "મકાઈના ભુટ્ટા, જાડા ગોળ ટુકડા",
+        "નાળિયેરનું દૂધ",
+        "શેકેલી મીઠા વગરની શીંગ, બારીક દળેલી",
+        "ડુંગળી, બારીક સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "આદુ, છીણેલું",
+        "લસણ, છીણેલું",
+        "દળેલી હળદર",
+        "લાલ મરચું પાઉડર",
+        "હળવા સ્વાદનું તેલ",
+        "પાણી",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "તાજી કોથમીર"
+      ],
+      "steps": [
+        "દરેક ભુટ્ટાના મજબૂત ગોળ ટુકડા કાપી સાદા પાણીમાં 8 મિનિટ ઉકાળો જેથી દાણા નરમ થવા લાગે. નિતારી લો; ભુટ્ટા કઢીમાં બાકી પકશે.",
+        "પહોળા ઊંડા પૅનમાં તેલ ગરમ કરો. સમારેલી ડુંગળી 7 મિનિટ સોનેરી થાય ત્યાં સુધી પકાવો, પછી આદુ અને લસણ નાખી બળે નહીં એમ 1 મિનિટ હલાવો.",
+        "હળદર, મરચું પાઉડર અને સમારેલાં ટામેટાં નાખો. ટામેટાં નરમ થાય અને તેલ અલગ દેખાય ત્યાં સુધી 6 મિનિટ હલાવી રાંધો.",
+        "દળેલી શીંગને નાળિયેરના દૂધ અને 200 મિલી પાણી સાથે ફેંટો જેથી ગાંઠો ન રહે. પૅનમાં રેડી મીઠું નાખો અને 8 મિનિટ ધીમે ઉકાળો; શીંગની સોસ તળિયે ચોંટે નહીં તેથી વારંવાર હલાવો.",
+        "નિતારેલા ભુટ્ટા નાખીને વધુ 8 મિનિટ પલટતાં રાંધો જેથી દાણા નરમ અને સોસ ક્રીમી થાય. તાપ બંધ કરી લીંબુનો રસ અને કોથમીર નાખો; ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ભુટ્ટો ડોડા પરથી ખવાય છે, તેથી ગોળ ટુકડા પકડી શકાય એટલા જાડા રાખો. નાળિયેર-શીંગની સોસ ધીમે ઉકાળો જેથી ફાટે કે બળે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.theguardian.com/food/2020/jul/11/ravinder-bhogal-curry-recipes-duck-rendang-massaman-pork-chicken-coconut-seetcorn-peanut",
+    "use": "Ravinder Bhogal's sweetcorn-and-peanut makai paka informed the dish identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/makai-paka.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

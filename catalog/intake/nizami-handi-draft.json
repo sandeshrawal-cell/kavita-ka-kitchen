@@ -1,0 +1,189 @@
+{
+  "sourceReviewId": "R0269",
+  "id": "nizami-handi",
+  "status": "published-third-100-intake-batch",
+  "name": "Nizami Handi",
+  "cuisine": "Hyderabadi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, diced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green beans, cut",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spinach leaves, chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "saffron strands",
+      "qty": 0.5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak cashews 15 minutes in hot water, then blend smooth with 100 ml measured water. Steep saffron in 20 ml warm water. Cut all vegetables to similar size.",
+    "Blanch cauliflower, carrot, peas and beans in boiling water for 4 minutes. Add spinach for the final minute, then drain everything; vegetables should stay firm because they cook again in sauce.",
+    "Heat ghee in a handi. Cook sliced onion 8 minutes until light golden; add ginger-garlic paste for 1 minute. Stir in tomato puree, coriander powder and garam masala; cook 6 minutes until thick.",
+    "Lower heat. Stir in cashew paste and remaining 180 ml water, then whisked yogurt one spoon at a time so the tomato-cashew sauce stays smooth. Add blanched vegetables, spinach and salt; simmer gently 6 minutes.",
+    "Add paneer, cream and saffron water. Warm 3 minutes without a hard boil, taste for seasoning and serve in the handi with naan or rice."
+  ],
+  "tips": [
+    "A tomato-cashew base, spinach and mixed vegetables distinguish Nizami Handi; keep the yogurt simmer gentle."
+  ],
+  "translations": {
+    "hi": {
+      "name": "निज़ामी हांडी",
+      "ingredients": [
+        "पनीर, टुकड़े",
+        "फूलगोभी के फूल",
+        "गाजर, टुकड़े",
+        "हरे मटर",
+        "फ्रेंच बीन्स, कटी",
+        "पालक के पत्ते, कटे",
+        "प्याज़, कटा",
+        "टमाटर की प्यूरी",
+        "काजू",
+        "गाढ़ा सादा दही",
+        "अदरक-लहसुन पेस्ट",
+        "घी",
+        "क्रीम",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "केसर के रेशे",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "काजू 15 मिनट गरम पानी में भिगोकर दिए पानी के 100 मि.ली. के साथ चिकना पीसें। केसर 20 मि.ली. गरम पानी में रखें। सब्जियाँ बराबर आकार में काटें।",
+        "फूलगोभी, गाजर, मटर और बीन्स 4 मिनट उबलते पानी में पकाएँ। आखिरी मिनट पालक डालकर सब छानें; सब्जियाँ कुछ कसी रहें क्योंकि ग्रेवी में फिर पकेंगी।",
+        "हांडी में घी गरम कर प्याज़ 8 मिनट हल्का सुनहरा करें; अदरक-लहसुन 1 मिनट पकाएँ। टमाटर प्यूरी, धनिया और गरम मसाला डालकर 6 मिनट गाढ़ा करें।",
+        "आँच धीमी करें। काजू पेस्ट और बचा 180 मि.ली. पानी, फिर फेंटा दही थोड़ा-थोड़ा मिलाएँ ताकि टमाटर-काजू सॉस चिकना रहे। उबली सब्जियाँ, पालक और नमक डालकर 6 मिनट पकाएँ।",
+        "पनीर, क्रीम और केसर पानी डालें। तेज़ उबाल के बिना 3 मिनट गरम करें, मसाला जाँचें और हांडी में नान या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "टमाटर-काजू आधार, पालक और मिली-जुली सब्जियाँ निज़ामी हांडी की पहचान हैं; दही डालकर धीमा पकाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "નિઝામી હાંડી",
+      "ingredients": [
+        "પનીર, ટુકડા",
+        "ફૂલકોબીનાં ફૂલ",
+        "ગાજર, ટુકડા",
+        "લીલા વટાણા",
+        "ફ્રેન્ચ બીન્સ, કાપેલી",
+        "પાલકનાં પાન, સમારેલાં",
+        "ડુંગળી, કાપેલી",
+        "ટામેટાની પ્યુરી",
+        "કાજુ",
+        "ઘાટું સાદું દહીં",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘી",
+        "ક્રીમ",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "કેસરના તાંતણા",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાજુ 15 મિનિટ ગરમ પાણીમાં પલાળી આપેલા 100 મિ.લી. પાણી સાથે મસૃણ પીસો. કેસર 20 મિ.લી. ગરમ પાણીમાં રાખો. બધાં શાક સરખા કદે કાપો.",
+        "ફૂલકોબી, ગાજર, વટાણા અને બીન્સ 4 મિનિટ ઉકળતા પાણીમાં બાફો. છેલ્લી મિનિટ પાલક નાખી બધું નિતારો; શાક થોડાં કરકરાં રહે કારણ કે ગ્રેવીમાં ફરી રંધાશે.",
+        "હાંડીમાં ઘી ગરમ કરી ડુંગળી 8 મિનિટ હળવી સોનેરી કરો; આદુ-લસણ 1 મિનિટ રાંધો. ટામેટાની પ્યુરી, ધાણા અને ગરમ મસાલો નાખી 6 મિનિટ ઘટ્ટ કરો.",
+        "તાપ ધીમો કરો. કાજુ પેસ્ટ અને બાકીનું 180 મિ.લી. પાણી, પછી ફેંટેલું દહીં થોડું થોડું ઉમેરો જેથી ટામેટા-કાજુ સોસ મસૃણ રહે. બાફેલા શાક, પાલક અને મીઠું નાખી 6 મિનિટ રાંધો.",
+        "પનીર, ક્રીમ અને કેસરનું પાણી નાખો. જોરદાર ઉકાળો ટાળી 3 મિનિટ ગરમ કરો, મસાલો ચાખો અને હાંડીમાં નાન કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ટામેટાં-કાજુનો આધાર, પાલક અને મિશ્ર શાક નિઝામી હાંડીની ઓળખ છે; દહીં નાખ્યા પછી ધીમે રાંધો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/veg-nizami-handi-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/nizami-handi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

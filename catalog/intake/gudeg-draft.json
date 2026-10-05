@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0243",
+  "id": "gudeg",
+  "status": "published-third-100-intake-batch",
+  "name": "Gudeg",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 110,
+  "ingredients": [
+    {
+      "name": "young green jackfruit, drained and shredded",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu, cubed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "tempeh, cubed",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "shallots",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "candlenuts or cashews",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "galangal, sliced",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "bay leaves",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black tea leaves in a sachet",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse canned or cooked young jackfruit thoroughly and shred the soft pieces with forks. Blend shallots, garlic, candlenuts or cashews and coriander with a little water to form a smooth spice paste.",
+    "Heat oil in a heavy pot and fry the paste for 5 minutes until aromatic. Add jackfruit and toss for 3 minutes so every strand is coated.",
+    "Add coconut milk, 250 ml water, palm sugar, galangal, bay leaves, salt and the tea sachet. Bring just to a simmer, cover and cook very gently for 60 minutes, stirring occasionally.",
+    "Remove the tea sachet. Add tofu and tempeh and simmer uncovered for 25–30 minutes until the jackfruit is tender, reddish brown and the liquid has reduced to a moist coating. Turn the cubes carefully so they stay intact.",
+    "Discard galangal and bay leaves. Rest 10 minutes before serving with steamed rice; the palm sugar and slow cooking give gudeg its characteristic sweet, earthy flavour."
+  ],
+  "tips": [
+    "Use young unripe jackfruit, not sweet ripe fruit. Tea deepens the colour; remove the sachet before its tannins make the dish bitter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गुडेग",
+      "ingredients": [
+        "कच्चा कटहल, निथारा और रेशों में तोड़ा",
+        "सख्त टोफू, टुकड़ों में",
+        "टेम्पेह, टुकड़ों में",
+        "नारियल दूध",
+        "ताड़ का गुड़",
+        "छोटे प्याज़",
+        "लहसुन",
+        "कैंडलनट या काजू",
+        "पिसा धनिया",
+        "गलंगल, कटा",
+        "तेजपत्ता",
+        "पोटली में काली चाय",
+        "हल्का तेल",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "डिब्बाबंद या उबला कच्चा कटहल अच्छी तरह धोकर नरम टुकड़ों को काँटे से रेशों में तोड़ें। छोटे प्याज़, लहसुन, कैंडलनट या काजू और धनिया थोड़े पानी से पीसकर चिकना मसाला बनाएँ।",
+        "भारी बर्तन में तेल गरम करके मसाला 5 मिनट खुशबू आने तक भूनें। कटहल डालकर 3 मिनट पलटें ताकि हर रेशे पर मसाला चढ़े।",
+        "नारियल दूध, 250 मिली पानी, ताड़ का गुड़, गलंगल, तेजपत्ता, नमक और चाय की पोटली डालें। हल्का उबाल लाकर ढकें और बहुत धीमी आँच पर बीच-बीच में चलाते हुए 60 मिनट पकाएँ।",
+        "चाय की पोटली निकालें। टोफू और टेम्पेह डालकर बिना ढके 25–30 मिनट पकाएँ ताकि कटहल नरम, लाल-भूरा और तरल घटकर नम परत बने। टुकड़ों को सावधानी से पलटें ताकि टूटें नहीं।",
+        "गलंगल और तेजपत्ता निकालें। चावल के साथ परोसने से पहले 10 मिनट रखें; ताड़ का गुड़ और धीमी पकाई गुडेग का खास मीठा मिट्टी जैसा स्वाद देते हैं।"
+      ],
+      "tips": [
+        "कच्चा हरा कटहल लें, मीठा पका फल नहीं। चाय से रंग गहरा होता है; कड़वाहट आने से पहले उसकी पोटली निकाल दें।"
+      ]
+    },
+    "gu": {
+      "name": "ગુડેગ",
+      "ingredients": [
+        "કાચું લીલું ફણસ, નીતારી રેસામાં તોડેલું",
+        "કડક ટોફુ, ટુકડામાં",
+        "ટેમ્પેહ, ટુકડામાં",
+        "નાળિયેરનું દૂધ",
+        "તાડનો ગોળ",
+        "નાની ડુંગળી",
+        "લસણ",
+        "કૅન્ડલનટ અથવા કાજુ",
+        "દળેલા ધાણા",
+        "ગાલંગલ, સમારેલું",
+        "તેજપાન",
+        "પોટલીમાં કાળી ચા",
+        "હળવું તેલ",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "ડબ્બાનું કે બાફેલું કાચું ફણસ સારી રીતે ધોઈ નરમ ટુકડા કાંટાથી રેસામાં તોડો. નાની ડુંગળી, લસણ, કૅન્ડલનટ કે કાજુ અને ધાણા થોડા પાણી સાથે સુંવાળી મસાલા પેસ્ટમાં વાટો.",
+        "જાડા વાસણમાં તેલ ગરમ કરી પેસ્ટ 5 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો. ફણસ નાખી 3 મિનિટ ફેરવો જેથી દરેક રેસાને મસાલો ચડે.",
+        "નાળિયેરનું દૂધ, 250 મિલી પાણી, તાડનો ગોળ, ગાલંગલ, તેજપાન, મીઠું અને ચાની પોટલી નાખો. હળવો ઉકળાટ લાવી ઢાંકી ખૂબ ધીમા તાપે વચ્ચે-વચ્ચે હલાવી 60 મિનિટ રાંધો.",
+        "ચાની પોટલી કાઢો. ટોફુ અને ટેમ્પેહ નાખી ઢાંક્યા વગર 25–30 મિનિટ રાંધો જેથી ફણસ નરમ, લાલ-ભૂખરું થાય અને પ્રવાહી ઘટી ભીની પરત બને. ટુકડા તૂટે નહીં તેમ કાળજીથી ફેરવો.",
+        "ગાલંગલ અને તેજપાન કાઢો. ભાત સાથે પીરસતાં પહેલાં 10 મિનિટ રહેવા દો; તાડનો ગોળ અને ધીમી રાંધણી ગુડેગને ખાસ મીઠો, માટી જેવો સ્વાદ આપે છે."
+      ],
+      "tips": [
+        "કાચું લીલું ફણસ લો, મીઠું પાકેલું ફળ નહીં. ચાથી રંગ ઘેરો થાય છે; કડવાશ આવે તે પહેલાં તેની પોટલી કાઢી લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://keasberry.com/recipes/gudeg-yogya-green-jackfruit-stew/",
+    "use": "Yogyakarta young-jackfruit gudeg flavour and slow cooking informed this vegetarian version; quantities and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/gudeg.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

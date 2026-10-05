@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0275",
+  "id": "afghani-soya-chaap",
+  "status": "published-third-100-intake-batch",
+  "name": "Afghani Soya Chaap",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "plain soya chaap sticks, drained",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chili",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "white pepper powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak cashews in hot water for 15 minutes and blend with green chili to a fine paste. Cut soya chaap into thick pieces, pat dry and score lightly so the marinade enters.",
+    "Whisk yogurt, cashew paste, cream, ginger-garlic, lemon juice, white pepper, garam masala and salt. Coat chaap thoroughly and refrigerate 30 minutes.",
+    "Preheat oven to 220°C. Thread chaap onto skewers or spread on a lined tray, leaving space between pieces. Brush lightly with oil.",
+    "Roast 15–18 minutes, turning once, until hot through with charred spots at the edges. For a skillet, sear on medium-high heat 4–5 minutes per side.",
+    "Rest 3 minutes, sprinkle coriander, and serve hot with lemon and mint chutney. Do not bury the charred chaap in extra sauce."
+  ],
+  "tips": [
+    "Choose clearly labelled vegetarian soya chaap and check the package ingredients before marinating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अफ़ग़ानी सोया चाप",
+      "ingredients": [
+        "सादा सोया चाप, छाना",
+        "गाढ़ा सादा दही",
+        "काजू",
+        "क्रीम",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च",
+        "नींबू रस",
+        "हल्का तेल",
+        "सफ़ेद मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "काजू 15 मिनट गरम पानी में भिगोकर हरी मिर्च के साथ चिकना पीसें। सोया चाप मोटे टुकड़ों में काटकर सुखाएँ और हल्की चीरे लगाएँ ताकि मसाला भीतर जाए।",
+        "दही, काजू पेस्ट, क्रीम, अदरक-लहसुन, नींबू रस, सफ़ेद मिर्च, गरम मसाला और नमक फेंटें। चाप पर अच्छी तरह लगाकर 30 मिनट ठंडे रखें।",
+        "ओवन 220°C पर गरम करें। चाप सींखों में लगाएँ या बिछी ट्रे पर टुकड़ों के बीच जगह रखते हुए फैलाएँ। हल्का तेल लगाएँ।",
+        "बीच में एक बार पलटकर 15–18 मिनट सेंकें, जब तक भीतर गरम और किनारे झुलसे हों। तवे पर हर तरफ़ मध्यम-तेज़ आँच पर 4–5 मिनट सेंकें।",
+        "3 मिनट आराम दें, हरा धनिया छिड़कें और नींबू तथा पुदीना चटनी के साथ गरम परोसें। झुलसी चाप को अतिरिक्त सॉस में न डुबोएँ।"
+      ],
+      "tips": [
+        "स्पष्ट शाकाहारी लिखा सोया चाप चुनें और मैरिनेट करने से पहले पैकेट की सामग्री जाँचें।"
+      ]
+    },
+    "gu": {
+      "name": "અફઘાની સોયા ચાપ",
+      "ingredients": [
+        "સાદી સોયા ચાપ, નિતારેલી",
+        "ઘાટું સાદું દહીં",
+        "કાજુ",
+        "ક્રીમ",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું",
+        "લીંબુનો રસ",
+        "હળવું તેલ",
+        "સફેદ મરી પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "કોથમીર"
+      ],
+      "steps": [
+        "કાજુ 15 મિનિટ ગરમ પાણીમાં પલાળી લીલા મરચાં સાથે મસૃણ પીસો. સોયા ચાપ જાડા ટુકડામાં કાપી સૂકવો અને હળવા ચીરા કરો જેથી મસાલો અંદર જાય.",
+        "દહીં, કાજુ પેસ્ટ, ક્રીમ, આદુ-લસણ, લીંબુનો રસ, સફેદ મરી, ગરમ મસાલો અને મીઠું ફેંટો. ચાપને સારી રીતે લગાવી 30 મિનિટ ઠંડું રાખો.",
+        "ઓવન 220°C પર ગરમ કરો. ચાપને શૂલમાં પરોવો અથવા પાથરેલી ટ્રેમાં ટુકડા વચ્ચે જગ્યા રાખી ગોઠવો. હળવું તેલ લગાવો.",
+        "વચ્ચે એક વાર ફેરવી 15–18 મિનિટ શેકો, અંદર ગરમ અને કિનારે શેકાયેલા ડાઘ થાય ત્યાં સુધી. તવા પર દરેક બાજુ મધ્યમથી વધુ તાપે 4–5 મિનિટ શેકો.",
+        "3 મિનિટ રહેવા દો, કોથમીર ભભરાવી લીંબુ અને ફુદીનાની ચટણી સાથે ગરમ પીરસો. શેકાયેલી ચાપને વધારાના સોસમાં ન ડુબાડો."
+      ],
+      "tips": [
+        "સ્પષ્ટ શાકાહારી લખેલો સોયા ચાપ પસંદ કરો અને મેરિનેટ કરતાં પહેલાં પૅકેટની સામગ્રી તપાસો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.herzindagi.com/recipe-tips/afghani-chaap-recipe-article-286228",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/afghani-soya-chaap.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0259",
+  "id": "butternut-squash-gratin",
+  "status": "published-third-100-intake-batch",
+  "name": "Butternut Squash Gratin",
+  "cuisine": "French-inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "butternut squash, peeled and thinly sliced",
+      "qty": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "single cream",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian Gruyère-style cheese, grated",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "dry breadcrumbs",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 190°C. Peel and seed squash, then slice into even 3 mm pieces. Butter a shallow baking dish with 15 g butter.",
+    "Melt 10 g butter in a pan and cook onion 7 minutes until soft; stir in garlic and thyme for 1 minute. Whisk cream, milk, salt, pepper and nutmeg together.",
+    "Layer half the squash in the dish, overlapping slices. Scatter half the onion and one-third of the cheese over it; repeat with remaining squash and onion.",
+    "Pour cream mixture evenly over the layers. Cover tightly with foil and bake 30 minutes until a knife meets only slight resistance in the squash.",
+    "Mix breadcrumbs with remaining cheese and 10 g melted butter. Remove foil, scatter topping and bake 15–20 minutes until deeply golden and squash fully tender. Rest 10 minutes before cutting."
+  ],
+  "tips": [
+    "Slice squash thinly and evenly so the centre cooks before the cheese browns; choose clearly labelled vegetarian cheese."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बटरनट स्क्वैश ग्रातां",
+      "ingredients": [
+        "बटरनट कद्दू, छीलकर पतला कटा",
+        "प्याज़, पतला कटा",
+        "पतली क्रीम",
+        "दूध",
+        "वेजिटेरियन रेनेट वाला ग्रुयेरे जैसा चीज़, कद्दूकस",
+        "मक्खन",
+        "लहसुन, बारीक कटा",
+        "ताज़ी थाइम पत्तियाँ",
+        "सूखे ब्रेडक्रम्ब",
+        "नमक",
+        "पिसी काली मिर्च",
+        "पिसा जायफल"
+      ],
+      "steps": [
+        "ओवन 190°C पर गरम करें। कद्दू छीलकर बीज निकालें और समान 3 मिमी फाँकें काटें। उथली बेकिंग डिश पर 15 ग्राम मक्खन लगाएँ।",
+        "पैन में 10 ग्राम मक्खन पिघलाकर प्याज़ 7 मिनट नरम करें; लहसुन और थाइम 1 मिनट चलाएँ। क्रीम, दूध, नमक, मिर्च और जायफल फेंटें।",
+        "आधा कद्दू डिश में फाँकें चढ़ाते हुए बिछाएँ। आधा प्याज़ और एक-तिहाई चीज़ डालें; बचे कद्दू और प्याज़ से परत दोहराएँ।",
+        "क्रीम मिश्रण परतों पर समान रूप से डालें। फ़ॉइल से कसकर ढकें और 30 मिनट बेक करें ताकि चाकू कद्दू में केवल हल्के प्रतिरोध से जाए।",
+        "ब्रेडक्रम्ब, बचा चीज़ और 10 ग्राम पिघला मक्खन मिलाएँ। फ़ॉइल हटाकर ऊपर छिड़कें और 15–20 मिनट गहरा सुनहरा तथा कद्दू पूरी तरह नरम होने तक बेक करें। काटने से पहले 10 मिनट रखें।"
+      ],
+      "tips": [
+        "स्क्वैश समान मोटाई में पतला काटें ताकि चीज़ भूरा होने से पहले बीच तक पक जाए; स्पष्ट शाकाहारी लिखा चीज़ चुनें।"
+      ]
+    },
+    "gu": {
+      "name": "બટરનટ સ્ક્વોશ ગ્રાતાં",
+      "ingredients": [
+        "બટરનટ કોળું, છાલ ઉતારી પાતળું સમારેલું",
+        "ડુંગળી, પાતળી સમારેલી",
+        "પાતળી ક્રીમ",
+        "દૂધ",
+        "વેજિટેરિયન રેનેટવાળું ગ્રુયેર જેવું ચીઝ, છીણેલું",
+        "માખણ",
+        "લસણ, બારીક સમારેલું",
+        "તાજા થાઇમનાં પાન",
+        "સૂકા બ્રેડક્રમ્બ",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "દળેલું જાયફળ"
+      ],
+      "steps": [
+        "ઓવન 190°C પર ગરમ કરો. કોળાની છાલ અને બી કાઢી સરખી 3 મિમી કતરીઓ કરો. છીછરી બેકિંગ ડિશમાં 15 ગ્રામ માખણ લગાવો.",
+        "પૅનમાં 10 ગ્રામ માખણ ઓગાળી ડુંગળી 7 મિનિટ નરમ કરો; લસણ અને થાઇમ 1 મિનિટ હલાવો. ક્રીમ, દૂધ, મીઠું, મરી અને જાયફળ ફેંટો.",
+        "અડધાં કોળાની કતરીઓ એકબીજા ઉપર ચડાવી ડિશમાં ગોઠવો. અડધી ડુંગળી અને ત્રીજા ભાગનું ચીઝ છાંટો; બાકીનાં કોળા અને ડુંગળીથી પડ ફરી ગોઠવો.",
+        "ક્રીમનું મિશ્રણ પડ પર સરખું રેડો. ફોઇલથી બરાબર ઢાંકી 30 મિનિટ બેક કરો જેથી કોળામાં ચપ્પુ માત્ર થોડા પ્રતિકારથી જાય.",
+        "બ્રેડક્રમ્બ, બાકીનું ચીઝ અને 10 ગ્રામ ઓગળેલું માખણ ભેળવો. ફોઇલ હટાવી ઉપર છાંટી 15–20 મિનિટ ઘેરું સોનેરી અને કોળું સંપૂર્ણ નરમ થાય ત્યાં સુધી બેક કરો. કાપતાં પહેલાં 10 મિનિટ રાખો."
+      ],
+      "tips": [
+        "સ્ક્વોશને સરખી જાડાઈમાં પાતળું કાપો જેથી ચીઝ ભૂખરું થાય પહેલાં વચ્ચે સુધી પાકે; સ્પષ્ટ શાકાહારી લખેલું ચીઝ પસંદ કરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.bonappetit.com/recipe/butternut-squash-gratin-with-goat-cheese-and-hazelnuts",
+    "use": "Butternut gratin layering and baking approach; different vegetarian cheese and original measurements and wording."
+  },
+  "photoDraft": "catalog/intake/photos/butternut-squash-gratin.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

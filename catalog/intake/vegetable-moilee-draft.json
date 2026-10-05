@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0289",
+  "id": "vegetable-moilee",
+  "status": "published-third-100-intake-batch",
+  "name": "Vegetable Moilee",
+  "cuisine": "Kerala",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "potato, small cubes",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, thin slices",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "green beans, cut",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "thick coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger, julienned",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, slit",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut vegetables to similar bite-sized pieces. Heat coconut oil in a deep pan and cook sliced onion 5 minutes until soft and translucent, not browned.",
+    "Add ginger, slit green chili and curry leaves; stir for 1 minute. Add potato, carrot and beans with turmeric, salt and 250 ml water.",
+    "Cover and simmer 7 minutes, then add cauliflower and cook 5 more minutes until all vegetables are just tender. Keep the broth pale and gently flavored.",
+    "Pour in coconut milk and black pepper. Warm gently for 4–5 minutes without a hard boil so the milk stays smooth and vegetables keep their shape.",
+    "Turn off heat, stir in lemon juice and taste salt. Serve the fragrant coconut stew with appam or steamed rice."
+  ],
+  "tips": [
+    "Moilee is a delicate pale coconut-milk stew; do not darken it with roasted red masala."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल मोईली",
+      "ingredients": [
+        "आलू, छोटे टुकड़े",
+        "फूलगोभी के फूल",
+        "गाजर, पतली कटी",
+        "फ्रेंच बीन्स, कटी",
+        "प्याज़, कटा",
+        "गाढ़ा नारियल दूध",
+        "अदरक, लंबी कटी",
+        "हरी मिर्च, चीरी",
+        "करी पत्ते",
+        "नारियल तेल",
+        "हल्दी पाउडर",
+        "काली मिर्च पाउडर",
+        "नींबू रस",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सब्जियाँ समान छोटे टुकड़ों में काटें। गहरे पैन में नारियल तेल गरम कर प्याज़ 5 मिनट नरम और पारदर्शी करें, भूरा न करें।",
+        "अदरक, चीरी हरी मिर्च और करी पत्ते 1 मिनट चलाएँ। आलू, गाजर और बीन्स के साथ हल्दी, नमक और 250 मि.ली. पानी डालें।",
+        "ढककर 7 मिनट पकाएँ, फिर फूलगोभी डालकर 5 मिनट और पकाएँ, सब्जियाँ बस नरम हों। शोरबा हल्का रंग और स्वाद वाला रखें।",
+        "नारियल दूध और काली मिर्च डालें। तेज़ उबाल के बिना 4–5 मिनट धीरे गरम करें ताकि दूध चिकना और सब्जियाँ साबुत रहें।",
+        "आँच बंद करके नींबू रस मिलाएँ और नमक चखें। महकदार नारियल स्ट्यू अप्पम या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "मोईली हल्की रंग की नाज़ुक नारियल-दूध करी है; गहरे भुने लाल मसाले से न बदलें।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ મોઇલી",
+      "ingredients": [
+        "બટાકા, નાના ટુકડા",
+        "ફૂલકોબીનાં ફૂલ",
+        "ગાજર, પાતળી કાપેલી",
+        "ફ્રેન્ચ બીન્સ, કાપેલી",
+        "ડુંગળી, કાપેલી",
+        "ઘાટું નાળિયેરનું દૂધ",
+        "આદુ, લાંબું કાપેલું",
+        "લીલું મરચું, ચીરેલું",
+        "મીઠા લીમડાનાં પાન",
+        "નાળિયેરનું તેલ",
+        "હળદર પાઉડર",
+        "કાળા મરીનો ભૂકો",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "શાક સરખા નાના ટુકડામાં કાપો. ઊંડી કડાઈમાં નાળિયેરનું તેલ ગરમ કરી ડુંગળી 5 મિનિટ નરમ અને પારદર્શક કરો, ભૂરું નહીં.",
+        "આદુ, ચીરેલું લીલું મરચું અને મીઠા લીમડાનાં પાન 1 મિનિટ હલાવો. બટાકા, ગાજર અને બીન્સ સાથે હળદર, મીઠું અને 250 મિ.લી. પાણી નાખો.",
+        "ઢાંકી 7 મિનિટ રાંધો, પછી ફૂલકોબી નાખી 5 મિનિટ વધુ રાંધો, શાક માત્ર નરમ થાય. રસ આછા રંગ અને હળવા સ્વાદનો રાખો.",
+        "નાળિયેરનું દૂધ અને મરી નાખો. જોરદાર ઉકાળો ટાળી 4–5 મિનિટ ધીમે ગરમ કરો જેથી દૂધ મસૃણ અને શાક આખાં રહે.",
+        "તાપ બંધ કરી લીંબુનો રસ ઉમેરો અને મીઠું ચાખો. સુગંધિત નાળિયેરનું શાક અપ્પમ કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "મોઇલી આછા રંગનું નાજુક નાળિયેરના દૂધનું શાક છે; ઘેરા શેકેલા લાલ મસાલાથી ન બદલો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://holycowvegan.net/vegetable-moilee/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-moilee.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0216",
+  "id": "veg-do-pyaza",
+  "status": "published-third-100-intake-batch",
+  "name": "Veg Do Pyaza",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "onions, half finely chopped and half in petals",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum, diced",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Blanch cauliflower and peas in boiling water for 3 minutes, then drain. Keep the onion petals separate from the finely chopped onion.",
+    "Heat 15 ml oil in a pan and stir-fry onion petals and capsicum for 3 minutes until lightly browned but still crisp; remove to a plate.",
+    "Heat remaining oil, sizzle cumin and cook chopped onion for 7–8 minutes until golden. Add ginger-garlic paste, coriander and chili; fry 1 minute.",
+    "Add tomato puree, salt and water. Simmer 8 minutes until the gravy thickens, then add cauliflower and peas and cook 5 minutes.",
+    "Fold in the reserved onion petals and capsicum with garam masala. Cook just 1 minute and serve, leaving the second batch of onions clearly visible."
+  ],
+  "tips": [
+    "Do pyaza gets its character from onions cooked twice to two textures; do not simmer the onion petals until soft."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेज दो प्याज़ा",
+      "ingredients": [
+        "प्याज़, आधे बारीक कटे और आधे पंखुड़ियों में",
+        "फूलगोभी के टुकड़े",
+        "हरी मटर",
+        "हरी शिमला मिर्च, टुकड़ों में",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "फूलगोभी और मटर 3 मिनट खौलते पानी में उबालकर छानें। प्याज़ की पंखुड़ियाँ बारीक कटे प्याज़ से अलग रखें।",
+        "पैन में 15 मिली तेल गरम करके प्याज़ की पंखुड़ियाँ और शिमला मिर्च 3 मिनट हल्का भूरा लेकिन कुरकुरा होने तक भूनें; निकाल लें।",
+        "बचा तेल गरम करके जीरा चटकाएँ और बारीक प्याज़ 7–8 मिनट सुनहरा भूनें। अदरक-लहसुन पेस्ट, धनिया और मिर्च डालकर 1 मिनट भूनें।",
+        "टमाटर प्यूरी, नमक और पानी डालें। 8 मिनट गाढ़ी तरी पकाएँ, फिर फूलगोभी और मटर डालकर 5 मिनट पकाएँ।",
+        "अलग रखी प्याज़ की पंखुड़ियाँ और शिमला मिर्च गरम मसाले के साथ मिलाएँ। केवल 1 मिनट पकाकर परोसें ताकि दूसरी किस्त का प्याज़ स्पष्ट दिखे।"
+      ],
+      "tips": [
+        "दो प्याज़ा की पहचान दो तरह पके प्याज़ हैं; पंखुड़ियों को बहुत नरम होने तक न उबालें।"
+      ]
+    },
+    "gu": {
+      "name": "વેજ દો પ્યાઝા",
+      "ingredients": [
+        "ડુંગળી, અડધી ઝીણી અને અડધી પાંખડીઓમાં",
+        "ફૂલકોબીના ટુકડા",
+        "લીલા વટાણા",
+        "લીલું શિમલા મરચું, ટુકડામાં",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ફૂલકોબી અને વટાણાને 3 મિનિટ ઉકળતા પાણીમાં બાફી નિતારો. ડુંગળીની પાંખડીઓને ઝીણી ડુંગળીથી અલગ રાખો.",
+        "કડાઈમાં 15 મિ.લી. તેલ ગરમ કરી ડુંગળીની પાંખડીઓ અને શિમલા મરચું 3 મિનિટ હળવું ભૂરું પણ કરકરું થાય ત્યાં સુધી શેકી કાઢો.",
+        "બાકી તેલ ગરમ કરી જીરું ચટકાવો અને ઝીણી ડુંગળી 7–8 મિનિટ સોનેરી શેકો. આદુ-લસણની પેસ્ટ, ધાણા અને મરચું નાખી 1 મિનિટ શેકો.",
+        "ટામેટાંની પ્યૂરી, મીઠું અને પાણી નાખો. 8 મિનિટ ઘટ્ટ ગ્રેવી રાંધો, પછી ફૂલકોબી અને વટાણા નાખી 5 મિનિટ રાંધો.",
+        "અલગ રાખેલી ડુંગળીની પાંખડીઓ અને શિમલા મરચું ગરમ મસાલા સાથે ભેળવો. માત્ર 1 મિનિટ રાંધી પીરસો જેથી બીજી હપ્તાની ડુંગળી દેખાય."
+      ],
+      "tips": [
+        "દો પ્યાઝાની ઓળખ બે રીતે રાંધેલી ડુંગળી છે; પાંખડીઓ બહુ નરમ થાય ત્યાં સુધી ન ઉકાળો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.asknestle.in/recipes/veg-do-pyaza",
+    "use": "Mixed vegetable do pyaza onion-forward method; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/veg-do-pyaza.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

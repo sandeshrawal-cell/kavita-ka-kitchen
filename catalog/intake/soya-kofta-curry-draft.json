@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0268",
+  "id": "soya-kofta-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Soya Kofta Curry",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "dry soya granules",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "potato, boiled and mashed",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak soya granules in boiling water for 10 minutes, drain and squeeze very dry. Chop finely; blend cashews with 80 ml of the measured water until smooth.",
+    "Mix squeezed soya with mashed potato, chickpea flour, 4 g salt and half the coriander leaves. Shape 12 compact kofta balls; chill 10 minutes so they hold together.",
+    "Heat 75 ml oil in a deep pan. Fry kofta in batches on medium heat for 5–6 minutes until deep golden; drain on paper.",
+    "In a separate pan, heat remaining oil and cook onion 7 minutes. Add ginger-garlic paste, tomato puree, coriander powder, chili and remaining salt; cook 8 minutes until thick. Stir in cashew paste and remaining 220 ml water.",
+    "Simmer gravy 5 minutes, then add garam masala. Put kofta in the serving bowl and spoon gravy over them just before eating; garnish with remaining coriander."
+  ],
+  "tips": [
+    "Squeezing soaked soya thoroughly prevents spongy, fragile kofta."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया कोफ्ता करी",
+      "ingredients": [
+        "सूखे सोया दाने",
+        "आलू, उबले मसले",
+        "बेसन",
+        "प्याज़, बारीक कटा",
+        "टमाटर प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "काजू",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "हल्का तेल",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सोया दाने 10 मिनट उबलते पानी में भिगोकर छानें और बहुत अच्छी तरह निचोड़ें। बारीक काटें; काजू 80 मि.ली. दिए पानी के साथ चिकना पीसें।",
+        "निचोड़े सोया में मसले आलू, बेसन, 4 ग्राम नमक और आधा धनिया मिलाएँ। 12 कसे कोफ्ते बनाएँ; बँधे रहने के लिए 10 मिनट ठंडे रखें।",
+        "गहरे पैन में 75 मि.ली. तेल गरम करें। कोफ्ते मध्यम आँच पर थोड़े-थोड़े 5–6 मिनट गहरे सुनहरे तलें; कागज़ पर छानें।",
+        "अलग पैन में बचा तेल गरम कर प्याज़ 7 मिनट पकाएँ। अदरक-लहसुन, टमाटर प्यूरी, धनिया, मिर्च और बचा नमक डालकर 8 मिनट गाढ़ा करें। काजू पेस्ट और बचा 220 मि.ली. पानी मिलाएँ।",
+        "ग्रेवी 5 मिनट हल्की उबालें, फिर गरम मसाला डालें। परोसने की कटोरी में कोफ्ते रखें और खाने से ठीक पहले ग्रेवी डालें; बचे धनिये से सजाएँ।"
+      ],
+      "tips": [
+        "भीगे सोया को अच्छी तरह निचोड़ने से कोफ्ते स्पंजी और टूटने वाले नहीं बनते।"
+      ]
+    },
+    "gu": {
+      "name": "સોયા કોફ્તા કરી",
+      "ingredients": [
+        "સૂકા સોયા દાણા",
+        "બટાકા, બાફેલા મસળેલા",
+        "ચણાનો લોટ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાની પ્યુરી",
+        "આદુ-લસણની પેસ્ટ",
+        "કાજુ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સોયા દાણા 10 મિનિટ ઉકળતા પાણીમાં પલાળી નિતારી ખૂબ સારી રીતે નીચોવો. ઝીણા કાપો; કાજુને આપેલા 80 મિ.લી. પાણી સાથે મસૃણ પીસો.",
+        "નીચોવેલા સોયામાં મસળેલા બટાકા, ચણાનો લોટ, 4 ગ્રામ મીઠું અને અડધી કોથમીર ભેળવો. 12 ઘટ્ટ કોફ્તા બનાવી 10 મિનિટ ઠંડા રાખો.",
+        "ઊંડી કડાઈમાં 75 મિ.લી. તેલ ગરમ કરો. કોફ્તા મધ્યમ તાપે થોડા થોડા 5–6 મિનિટ ઘેરા સોનેરી તળો; કાગળ પર નિતારો.",
+        "અલગ કડાઈમાં બાકીનું તેલ ગરમ કરી ડુંગળી 7 મિનિટ રાંધો. આદુ-લસણ, ટામેટાની પ્યુરી, ધાણા, મરચું અને બાકીનું મીઠું નાખી 8 મિનિટ ઘટ્ટ કરો. કાજુ પેસ્ટ અને બાકીનું 220 મિ.લી. પાણી ઉમેરો.",
+        "ગ્રેવી 5 મિનિટ ધીમે ઉકાળો, પછી ગરમ મસાલો ઉમેરો. પીરસવાની વાટકીમાં કોફ્તા મૂકી ખાતા પહેલાં જ ગ્રેવી રેડો; બાકી કોથમીરથી સજાવો."
+      ],
+      "tips": [
+        "પલાળેલા સોયાને સારી રીતે નીચોવવાથી કોફ્તા સ્પોન્જી અને તૂટક નથી બનતા."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/veg-kofta-curry-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/soya-kofta-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0255",
+  "id": "tokfozelek",
+  "status": "published-third-100-intake-batch",
+  "name": "Tökfőzelék",
+  "cuisine": "Hungarian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "summer squash or marrow, coarsely grated",
+      "qty": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "sweet paprika",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Coarsely grate squash, sprinkle with 5 g salt and leave 10 minutes. Squeeze out excess water but do not press it dry; the strands should still be tender.",
+    "Melt butter in a deep pan over medium heat. Cook onion 5 minutes until translucent, then stir in paprika for 20 seconds without scorching.",
+    "Add grated squash and vegetable stock. Cover and simmer 8–10 minutes until the squash is soft but its strands are still visible.",
+    "Whisk sour cream with flour and a ladleful of hot cooking liquid until smooth. Lower the heat and stir this mixture into the squash; simmer 3–4 minutes, stirring, until lightly thickened, without a hard boil.",
+    "Add chopped dill, vinegar, remaining 5 g salt and black pepper. Rest 3 minutes and serve warm with bread. Tökfőzelék should be creamy and spoonable, not a smooth soup."
+  ],
+  "tips": [
+    "Temper the sour cream with hot liquid before adding it to the pot, and keep the heat low so the sauce stays silky."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तोकफूज़ेलैक",
+      "ingredients": [
+        "समर स्क्वैश या नरम लौकी, मोटी कद्दूकस",
+        "प्याज़, बारीक कटा",
+        "खट्टी क्रीम",
+        "मैदा",
+        "सब्ज़ियों का शोरबा",
+        "मक्खन",
+        "ताज़ी डिल, कटी",
+        "मीठा पापरिका",
+        "सफेद सिरका",
+        "नमक",
+        "पिसी काली मिर्च"
+      ],
+      "steps": [
+        "स्क्वैश मोटा कद्दूकस करें, 5 ग्राम नमक लगाकर 10 मिनट रखें। अतिरिक्त पानी निचोड़ें पर बिल्कुल सूखा न करें; रेशे नरम रहने चाहिए।",
+        "गहरे पैन में मध्यम आँच पर मक्खन पिघलाएँ। प्याज़ 5 मिनट पारदर्शी करें, फिर पापरिका 20 सेकंड बिना जलाए चलाएँ।",
+        "कद्दूकस स्क्वैश और सब्ज़ियों का शोरबा डालें। ढककर 8–10 मिनट उबालें ताकि स्क्वैश नरम हो पर रेशे अलग दिखें।",
+        "खट्टी क्रीम, मैदा और एक करछी गरम रस फेंटकर चिकना करें। आँच धीमी कर मिश्रण स्क्वैश में मिलाएँ; तेज़ उबाल के बिना चलाते हुए 3–4 मिनट हल्का गाढ़ा करें।",
+        "कटी डिल, सिरका, बचा 5 ग्राम नमक और काली मिर्च डालें। 3 मिनट रखकर ब्रेड के साथ गरम परोसें। तोकफूज़ेलैक मलाईदार और चम्मच से खाने लायक हो, चिकना सूप नहीं।"
+      ],
+      "tips": [
+        "खट्टी क्रीम बर्तन में डालने से पहले गरम रस से मिलाएँ और आँच धीमी रखें ताकि चटनी रेशमी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ટોકફોઝેલેક",
+      "ingredients": [
+        "સમર સ્ક્વોશ કે કુમળી દૂધી, જાડું છીણેલું",
+        "ડુંગળી, બારીક સમારેલી",
+        "ખાટી ક્રીમ",
+        "મેંદો",
+        "શાકભાજીનો સ્ટોક",
+        "માખણ",
+        "તાજી ડિલ, સમારેલી",
+        "મીઠું પાપરિકા",
+        "સફેદ વિનેગર",
+        "મીઠું",
+        "દળેલી કાળી મરી"
+      ],
+      "steps": [
+        "સ્ક્વોશ જાડું છીણી 5 ગ્રામ મીઠું લગાવી 10 મિનિટ રાખો. વધારાનું પાણી નિચોવો પણ સાવ સૂકું ન કરો; રેસા નરમ રહેવા જોઈએ.",
+        "ઊંડા પૅનમાં મધ્યમ તાપે માખણ ઓગાળો. ડુંગળી 5 મિનિટ પારદર્શક કરો, પછી પાપરિકા 20 સેકન્ડ બળે નહીં તેમ હલાવો.",
+        "છીણેલું સ્ક્વોશ અને શાકભાજીનો સ્ટોક નાખો. ઢાંકી 8–10 મિનિટ સ્ક્વોશ નરમ પણ રેસા અલગ દેખાય ત્યાં સુધી ઉકાળો.",
+        "ખાટી ક્રીમ, મેંદો અને એક કડછી ગરમ રસ ભેળવી સુંવાળું ફેંટો. તાપ ધીમો કરી આ મિશ્રણ સ્ક્વોશમાં ભેળવો; તેજ ઉકળાટ વગર હલાવતા 3–4 મિનિટ સહેજ ઘાટું કરો.",
+        "સમારેલી ડિલ, વિનેગર, બાકીનું 5 ગ્રામ મીઠું અને કાળી મરી નાખો. 3 મિનિટ રાખી બ્રેડ સાથે ગરમ પીરસો. ટોકફોઝેલેક મલાઈદાર અને ચમચીથી ખાઈ શકાય તેવું હોય, સુંવાળું સૂપ નહીં."
+      ],
+      "tips": [
+        "ખાટી ક્રીમ વાસણમાં નાખતાં પહેલાં ગરમ રસ સાથે ભેળવો અને તાપ ધીમો રાખો જેથી રસો મસૃણ રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://thehungarysoul.com/recipe-post/creamy-hungarian-summer-squash-with-dill-kremes-tok-kapor/",
+    "use": "Hungarian summer-squash, sour-cream and dill method; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/tokfozelek.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

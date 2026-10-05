@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0274",
+  "id": "baby-corn-masala",
+  "status": "published-third-100-intake-batch",
+  "name": "Baby Corn Masala",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "baby corn, halved lengthwise",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, chunks",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Blanch halved baby corn in boiling water for 3 minutes, then drain. Soak cashews in hot water 10 minutes and blend with 70 ml measured water until smooth.",
+    "Heat oil in a wide pan. Add cumin and onion; cook 6–7 minutes until golden. Stir in ginger-garlic paste for 1 minute.",
+    "Add tomato puree, coriander powder, chili and salt. Cook 7–8 minutes until thick and glossy. Stir in cashew paste and remaining 130 ml water.",
+    "Add baby corn and bell pepper. Cover and simmer 6 minutes until corn is tender but still slightly crisp and the pepper remains bright.",
+    "Add garam masala, taste salt, and simmer uncovered 2 minutes if the gravy is thin. Garnish with coriander and serve with roti."
+  ],
+  "tips": [
+    "Use tender baby corn and avoid overcooking so its characteristic crunch remains."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बेबी कॉर्न मसाला",
+      "ingredients": [
+        "बेबी कॉर्न, लंबाई में आधे",
+        "हरी शिमला मिर्च, टुकड़े",
+        "प्याज़, बारीक कटा",
+        "टमाटर प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "काजू",
+        "हल्का तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "बेबी कॉर्न 3 मिनट उबलते पानी में पकाकर छानें। काजू 10 मिनट गरम पानी में भिगोकर दिए 70 मि.ली. पानी से चिकना पीसें।",
+        "चौड़े पैन में तेल गरम करें। जीरा और प्याज़ डालकर 6–7 मिनट सुनहरा करें। अदरक-लहसुन पेस्ट 1 मिनट चलाएँ।",
+        "टमाटर प्यूरी, धनिया, मिर्च और नमक डालकर 7–8 मिनट गाढ़ा और चमकदार करें। काजू पेस्ट और बचा 130 मि.ली. पानी मिलाएँ।",
+        "बेबी कॉर्न और शिमला मिर्च डालें। ढककर 6 मिनट पकाएँ ताकि कॉर्न नरम लेकिन थोड़ा कुरकुरा और मिर्च चमकीली रहे।",
+        "गरम मसाला डालकर नमक जाँचें; ग्रेवी पतली हो तो 2 मिनट बिना ढके पकाएँ। धनिया से सजाकर रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "नरम बेबी कॉर्न लें और ज़्यादा न पकाएँ ताकि उसकी खास कुरकुराहट रहे।"
+      ]
+    },
+    "gu": {
+      "name": "બેબી કોર્ન મસાલો",
+      "ingredients": [
+        "બેબી કોર્ન, લાંબાઈમાં અડધા",
+        "લીલું કેપ્સિકમ, ટુકડા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાની પ્યુરી",
+        "આદુ-લસણની પેસ્ટ",
+        "કાજુ",
+        "હળવું તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "બેબી કોર્ન 3 મિનિટ ઉકળતા પાણીમાં બાફી નિતારો. કાજુ 10 મિનિટ ગરમ પાણીમાં પલાળી આપેલા 70 મિ.લી. પાણીથી મસૃણ પીસો.",
+        "પહોળી કડાઈમાં તેલ ગરમ કરો. જીરું અને ડુંગળી નાખી 6–7 મિનિટ સોનેરી કરો. આદુ-લસણની પેસ્ટ 1 મિનિટ હલાવો.",
+        "ટામેટાની પ્યુરી, ધાણા, મરચું અને મીઠું નાખી 7–8 મિનિટ ઘટ્ટ અને ચમકતું કરો. કાજુ પેસ્ટ અને બાકીનું 130 મિ.લી. પાણી ઉમેરો.",
+        "બેબી કોર્ન અને કેપ્સિકમ નાખો. ઢાંકી 6 મિનિટ રાંધો જેથી કોર્ન નરમ પણ થોડો કરકરો અને કેપ્સિકમ ચમકતું રહે.",
+        "ગરમ મસાલો નાખી મીઠું ચાખો; ગ્રેવી પાતળી હોય તો 2 મિનિટ ઢાંકણ વગર રાંધો. કોથમીરથી સજાવી રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "નરમ બેબી કોર્ન લો અને વધુ ન રાંધો જેથી તેની ખાસ કરકરાશ રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/baby-corn-masala-curry-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/baby-corn-masala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

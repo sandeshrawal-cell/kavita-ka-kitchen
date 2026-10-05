@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0283",
+  "id": "shev-bhaji",
+  "status": "published-third-100-intake-batch",
+  "name": "Shev Bhaji",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "thick spicy besan shev",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "dry grated coconut",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic cloves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Maharashtrian kala masala",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast coconut and half the onion over low heat for 5–6 minutes until brown and nutty. Cool and grind with garlic and ginger to a thick paste.",
+    "Heat oil in a pan. Cook remaining onion for 6 minutes until golden. Stir in the coconut paste and roast 4 minutes, scraping the bottom.",
+    "Add tomato, kala masala, chili powder and salt; cook 5 minutes until the masala darkens and oil shows at the edges.",
+    "Pour in 450 ml water and simmer uncovered 8 minutes to make a spicy, pourable rassa. Taste the salt before adding shev.",
+    "Add half the thick shev just before serving, ladle curry into bowls and top with remaining shev and coriander. Serve with jowar bhakri while some shev stays crisp."
+  ],
+  "tips": [
+    "This Maharashtrian onion-coconut rassa is distinct from Gujarati tomato-based sev sabzi."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शेव भाजी",
+      "ingredients": [
+        "मोटी तीखी बेसन शेव",
+        "प्याज़, कटा",
+        "सूखा कसा नारियल",
+        "टमाटर, कटा",
+        "लहसुन की कलियाँ",
+        "अदरक",
+        "महाराष्ट्रीयन काला मसाला",
+        "लाल मिर्च पाउडर",
+        "हल्का तेल",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सूखा नारियल और आधा प्याज़ धीमी आँच पर 5–6 मिनट भूरा और महकदार भूनें। ठंडा कर लहसुन और अदरक के साथ गाढ़ा पीसें।",
+        "पैन में तेल गरम कर बचा प्याज़ 6 मिनट सुनहरा करें। नारियल पेस्ट डालकर तला खुरचते हुए 4 मिनट भूनें।",
+        "टमाटर, काला मसाला, मिर्च और नमक डालकर 5 मिनट पकाएँ, मसाला गहरा हो और किनारों पर तेल दिखे।",
+        "450 मि.ली. पानी डालकर 8 मिनट बिना ढके पकाएँ, तीखा बहने वाला रस्सा बने। शेव डालने से पहले नमक जाँचें।",
+        "परोसने से ठीक पहले आधी मोटी शेव डालें, कटोरी में रस्सा निकालकर ऊपर बची शेव और धनिया रखें। कुछ शेव कुरकुरी रहे तब ज्वार भाकरी के साथ खाएँ।"
+      ],
+      "tips": [
+        "यह महाराष्ट्रीयन प्याज़-नारियल रस्सा गुजराती टमाटर वाली सेव सब्ज़ी से अलग है।"
+      ]
+    },
+    "gu": {
+      "name": "શેવ ભાજી",
+      "ingredients": [
+        "જાડી તીખી ચણાના લોટની શેવ",
+        "ડુંગળી, કાપેલી",
+        "સૂકું છીણેલું નાળિયેર",
+        "ટામેટાં, સમારેલાં",
+        "લસણની કળીઓ",
+        "આદુ",
+        "મહારાષ્ટ્રિયન કાળો મસાલો",
+        "લાલ મરચું પાઉડર",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સૂકું નાળિયેર અને અડધી ડુંગળી ધીમા તાપે 5–6 મિનિટ ભૂરું અને સુગંધિત શેકો. ઠંડું કરી લસણ અને આદુ સાથે ઘટ્ટ પીસો.",
+        "કડાઈમાં તેલ ગરમ કરી બાકી ડુંગળી 6 મિનિટ સોનેરી કરો. નાળિયેર પેસ્ટ નાખી તળિયું ખુરચતા 4 મિનિટ શેકો.",
+        "ટામેટાં, કાળો મસાલો, મરચું અને મીઠું નાખી 5 મિનિટ રાંધો, મસાલો ઘેરો થાય અને કિનારે તેલ દેખાય.",
+        "450 મિ.લી. પાણી નાખી 8 મિનિટ ઢાંકણ વગર રાંધો, તીખો રેડી શકાય એવો રસ્સો બને. શેવ નાખતા પહેલાં મીઠું ચાખો.",
+        "પીરસતા પહેલાં અડધી જાડી શેવ નાખો, વાટકીમાં રસ્સો કાઢી ઉપર બાકી શેવ અને કોથમીર મૂકો. થોડી શેવ કરકરી હોય ત્યારે જુવાર ભાખરી સાથે ખાઓ."
+      ],
+      "tips": [
+        "આ મહારાષ્ટ્રિયન ડુંગળી-નાળિયેરનો રસ્સો ગુજરાતી ટામેટાંવાળી સેવના શાકથી અલગ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://madhurasrecipe.com/veg-sabzi/shev-bhaji-marathi-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/shev-bhaji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0230",
+  "id": "kaju-gathiya-nu-shaak",
+  "status": "published-third-100-intake-batch",
+  "name": "Kaju Gathiya nu Shaak",
+  "cuisine": "Kathiyawadi Gujarati",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "plain Gujarati gathiya, broken into short pieces",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "whole cashews",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, finely chopped",
+      "qty": 340,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, crushed",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toast cashews in a dry pan for 3 minutes until lightly golden; set aside. Break gathiya into short pieces but do not crush to powder.",
+    "Heat oil and crackle mustard and cumin. Add onion, garlic and green chili; sauté 5–6 minutes until the onion softens.",
+    "Add tomatoes, turmeric, chili, jaggery and salt. Cook 8 minutes, pressing the tomatoes until the masala becomes pulpy and glossy.",
+    "Add water and simmer 5 minutes to make a thick, tangy Kathiyawadi gravy. Stir in toasted cashews.",
+    "Turn off heat. Fold in gathiya only just before serving so some pieces soften while others retain bite. Garnish with coriander and serve with rotla."
+  ],
+  "tips": [
+    "Gathiya absorbs gravy fast; add it at the table rather than simmering it for a long time."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काजू गांठिया का शाक",
+      "ingredients": [
+        "सादा गुजराती गांठिया, छोटे टुकड़े",
+        "साबुत काजू",
+        "टमाटर, बारीक कटे",
+        "प्याज़, बारीक कटा",
+        "लहसुन, कूटा",
+        "हरी मिर्च, कटी",
+        "तेल",
+        "राई",
+        "जीरा",
+        "हल्दी",
+        "कश्मीरी मिर्च पाउडर",
+        "गुड़",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सूखे पैन में काजू 3 मिनट हल्के सुनहरे भूनकर अलग रखें। गांठिया छोटे टुकड़े करें, चूरा न बनाएँ।",
+        "तेल गरम करके राई और जीरा चटकाएँ। प्याज़, लहसुन और हरी मिर्च डालकर 5–6 मिनट प्याज़ नरम होने तक भूनें।",
+        "टमाटर, हल्दी, मिर्च, गुड़ और नमक डालें। 8 मिनट टमाटर मसलते हुए गूदा और चमकदार मसाला पकाएँ।",
+        "पानी डालकर 5 मिनट उबालें ताकि गाढ़ी, खट्टी-मीठी काठियावाड़ी तरी बने। भुने काजू मिलाएँ।",
+        "आँच बंद करें। परोसने से ठीक पहले गांठिया मिलाएँ ताकि कुछ टुकड़े नरम और कुछ कुरकुरे रहें। धनिया डालकर रोटले के साथ परोसें।"
+      ],
+      "tips": [
+        "गांठिया जल्दी तरी सोखता है; लंबे समय उबालने की बजाय परोसते समय डालें।"
+      ]
+    },
+    "gu": {
+      "name": "કાજુ ગાંઠિયાનું શાક",
+      "ingredients": [
+        "સાદા ગુજરાતી ગાંઠિયા, નાના ટુકડા",
+        "આખા કાજુ",
+        "ટામેટાં, ઝીણાં સમારેલાં",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "લસણ, વાટેલું",
+        "લીલું મરચું, સમારેલું",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "હળદર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગોળ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સૂકી કડાઈમાં કાજુ 3 મિનિટ આછા સોનેરી શેકી અલગ રાખો. ગાંઠિયાને નાના ટુકડા કરો, ભૂકો ન કરો.",
+        "તેલ ગરમ કરી રાઈ અને જીરું ચટકાવો. ડુંગળી, લસણ અને લીલું મરચું નાખી 5–6 મિનિટ ડુંગળી નરમ થાય ત્યાં સુધી શેકો.",
+        "ટામેટાં, હળદર, મરચું, ગોળ અને મીઠું નાખો. 8 મિનિટ ટામેટાં મસળતાં માવા જેવી ચમકતી ગ્રેવી રાંધો.",
+        "પાણી નાખી 5 મિનિટ ઉકાળો જેથી ઘટ્ટ, ખાટી-મીઠી કાઠિયાવાડી ગ્રેવી બને. શેકેલા કાજુ ભેળવો.",
+        "તાપ બંધ કરો. પીરસતાં જ પહેલાં ગાંઠિયા ભેળવો જેથી કેટલાક ટુકડા નરમ અને કેટલાક કરકરા રહે. કોથમીર નાખી રોટલા સાથે પીરસો."
+      ],
+      "tips": [
+        "ગાંઠિયા ઝડપથી ગ્રેવી શોષે છે; લાંબો સમય ઉકાળવાને બદલે પીરસતી વખતે નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.gujaratijagran.com/lifestyle/food/kaju-gathiya-sabji-recipe-in-kathiyawadi-style-626326",
+    "use": "Kathiyawadi cashew-gathiya shaak profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kaju-gathiya-nu-shaak.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

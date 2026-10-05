@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0271",
+  "id": "matar-mushroom",
+  "status": "published-third-100-intake-batch",
+  "name": "Matar Mushroom",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "button mushrooms, halved",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wipe mushrooms clean and halve them; do not soak them in water. Boil peas for 3–4 minutes until almost tender and drain.",
+    "Heat oil in a wide pan, add cumin and onion, and cook 7 minutes until golden. Stir in ginger-garlic paste for 1 minute.",
+    "Add tomato, coriander powder, turmeric, chili and salt. Cook 7–8 minutes until tomato breaks down and oil shows at the edges.",
+    "Add mushrooms and stir-fry 5 minutes until their released moisture mostly evaporates. Add peas and 150 ml water; simmer 5 minutes until both are tender.",
+    "Taste and adjust salt, then scatter coriander leaves. Serve this semi-dry curry hot with chapati or rice."
+  ],
+  "tips": [
+    "Brown mushrooms before adding water for a fuller flavor."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मटर मशरूम",
+      "ingredients": [
+        "बटन मशरूम, आधे कटे",
+        "हरे मटर",
+        "प्याज़, कटा",
+        "टमाटर, कटे",
+        "अदरक-लहसुन पेस्ट",
+        "हल्का तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "हल्दी पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मशरूम पोंछकर आधे काटें; पानी में न भिगोएँ। मटर 3–4 मिनट लगभग नरम होने तक उबालकर छानें।",
+        "पैन में तेल गरम कर जीरा और प्याज़ 7 मिनट सुनहरा करें। अदरक-लहसुन पेस्ट 1 मिनट चलाएँ।",
+        "टमाटर, धनिया, हल्दी, मिर्च और नमक डालें। 7–8 मिनट पकाएँ, जब तक टमाटर गलें और किनारों पर तेल दिखे।",
+        "मशरूम डालकर 5 मिनट भूनें, जब तक निकला पानी अधिकतर सूख जाए। मटर और 150 मि.ली. पानी डालकर दोनों नरम होने तक 5 मिनट पकाएँ।",
+        "नमक जाँचें, ऊपर हरा धनिया डालें। यह हल्की सूखी सब्ज़ी चपाती या चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "अधिक स्वाद के लिए पानी डालने से पहले मशरूम अच्छी तरह भूनें।"
+      ]
+    },
+    "gu": {
+      "name": "વટાણા મશરૂમ",
+      "ingredients": [
+        "બટન મશરૂમ, અડધાં કાપેલા",
+        "લીલા વટાણા",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "હળવું તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "હળદર પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "મશરૂમ સાફ કરી અડધાં કાપો; પાણીમાં ન પલાળો. વટાણા 3–4 મિનિટ લગભગ નરમ થાય ત્યાં સુધી બાફી નિતારો.",
+        "કડાઈમાં તેલ ગરમ કરી જીરું અને ડુંગળી 7 મિનિટ સોનેરી કરો. આદુ-લસણની પેસ્ટ 1 મિનિટ હલાવો.",
+        "ટામેટાં, ધાણા, હળદર, મરચું અને મીઠું નાખો. 7–8 મિનિટ રાંધો, ટામેટાં ઓગળે અને કિનારે તેલ દેખાય ત્યાં સુધી.",
+        "મશરૂમ નાખી 5 મિનિટ શેકો, છૂટેલું પાણી મોટેભાગે સુકાય ત્યાં સુધી. વટાણા અને 150 મિ.લી. પાણી નાખી બંને નરમ થાય ત્યાં સુધી 5 મિનિટ રાંધો.",
+        "મીઠું ચાખો, ઉપર કોથમીર ભભરાવો. આ અર્ધસૂકું શાક ચપાટી કે ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "વધુ સ્વાદ માટે પાણી ઉમેરતા પહેલાં મશરૂમ સારી રીતે શેકો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/matar-mushroom-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/matar-mushroom.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0279",
+  "id": "al-yakhni",
+  "status": "published-third-100-intake-batch",
+  "name": "Al Yakhni",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "bottle gourd, peeled and thick wedges",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "full-fat plain yogurt",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "fennel powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "dry ginger powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 0.5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel bottle gourd, remove hard seeds if present and cut into thick wedges. Whisk yogurt very smooth with 120 ml measured water, fennel powder and dry ginger.",
+    "Heat mustard oil in a heavy pan until lightly smoking, then reduce to medium. Shallow-fry gourd in batches for 6–8 minutes until edges are golden and centers nearly tender; remove.",
+    "In the remaining oil bloom cumin, cardamom, cinnamon and asafoetida for 30 seconds. Add remaining 100 ml water and bring to a gentle simmer.",
+    "Turn heat very low. Pour in whisked yogurt slowly, stirring continuously for 5–6 minutes until hot and slightly thickened; do not let it boil hard or separate. Add salt.",
+    "Return gourd, cover and simmer very gently 8–10 minutes until fully tender. Serve the pale fennel-scented yakhni with steamed rice."
+  ],
+  "tips": [
+    "Use full-fat room-temperature yogurt and low heat to prevent curdling; this curry has no tomato."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अल यखनी",
+      "ingredients": [
+        "लौकी, छीलकर मोटे टुकड़े",
+        "फुल-फ़ैट सादा दही",
+        "सरसों का तेल",
+        "सौंफ पाउडर",
+        "सोंठ पाउडर",
+        "जीरा",
+        "हरी इलायची",
+        "दालचीनी",
+        "हींग",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "लौकी छीलकर कड़े बीज हों तो निकालें और मोटे टुकड़े करें। दही को दिए पानी के 120 मि.ली., सौंफ और सोंठ के साथ बिल्कुल चिकना फेंटें।",
+        "भारी पैन में सरसों तेल हल्का धुआँ आने तक गरम कर आँच मध्यम करें। लौकी थोड़ी-थोड़ी 6–8 मिनट किनारे सुनहरे और बीच लगभग नरम होने तक सेंककर निकालें।",
+        "बचे तेल में जीरा, इलायची, दालचीनी और हींग 30 सेकंड महकाएँ। बचा 100 मि.ली. पानी डालकर हल्का उबाल लाएँ।",
+        "आँच बहुत धीमी करें। फेंटा दही धीरे डालकर 5–6 मिनट लगातार चलाएँ, गरम और थोड़ा गाढ़ा हो; तेज़ उबाल से फटेगा। नमक डालें।",
+        "लौकी वापस डालकर ढकें और 8–10 मिनट बहुत हल्का पकाएँ, जब तक पूरी नरम हो। हल्की सौंफ-महक वाली यखनी चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "दही फटने से बचाने को सामान्य ताप का फुल-फ़ैट दही और धीमी आँच लें; इसमें टमाटर नहीं है।"
+      ]
+    },
+    "gu": {
+      "name": "અલ યખની",
+      "ingredients": [
+        "દૂધી, છોલી જાડા ટુકડા",
+        "પૂર્ણ ચરબીવાળું સાદું દહીં",
+        "સરસવનું તેલ",
+        "વરિયાળી પાઉડર",
+        "સૂંઠ પાઉડર",
+        "જીરું",
+        "લીલી એલચી",
+        "તજ",
+        "હિંગ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "દૂધી છોલી કઠણ બીજ હોય તો કાઢી જાડા ટુકડા કરો. દહીંને આપેલા 120 મિ.લી. પાણી, વરિયાળી અને સૂંઠ સાથે એકદમ મસૃણ ફેંટો.",
+        "ભારે કડાઈમાં સરસવનું તેલ થોડું ધુમાડે ત્યાં સુધી ગરમ કરી તાપ મધ્યમ કરો. દૂધી થોડીથોડી 6–8 મિનિટ કિનારે સોનેરી અને વચ્ચે લગભગ નરમ થાય ત્યાં સુધી શેકી કાઢો.",
+        "બાકી તેલમાં જીરું, એલચી, તજ અને હિંગ 30 સેકંડ સુગંધે ત્યાં સુધી શેકો. બાકીનું 100 મિ.લી. પાણી નાખી ધીમો ઉકાળો લાવો.",
+        "તાપ ખૂબ ધીમો કરો. ફેંટેલું દહીં ધીમે નાખી 5–6 મિનિટ સતત હલાવો, ગરમ અને થોડું ઘટ્ટ થાય; જોરદાર ઉકાળે ફાટી જશે. મીઠું નાખો.",
+        "દૂધી પાછી નાખી ઢાંકી 8–10 મિનિટ ખૂબ ધીમે રાંધો, સંપૂર્ણ નરમ થાય ત્યાં સુધી. હળવી વરિયાળીની સુગંધવાળી યખની ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "દહીં ન ફાટે માટે રૂમ તાપમાનનું પૂર્ણ ચરબીવાળું દહીં અને ધીમો તાપ લો; તેમાં ટામેટાં નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/kashmiri-al-yakhni-recipe-lauki-yakhni-recipe-bottle-gourd-in-yogurt-gravy",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/al-yakhni.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

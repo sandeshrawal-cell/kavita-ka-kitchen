@@ -2853,5 +2853,605 @@
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-05",
     "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-bhuna-masala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Bhuna Masala: Paneer roasted in thick caramelised onion-tomato masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "methi-paneer": {
+    "prompt": "Use case: photorealistic-natural. Authentic Methi Paneer: Paneer with fresh fenugreek in spiced gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-lahori": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Lahori: Paneer in rich Lahori-style tomato-cream gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-peshawari": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Peshawari: Paneer in aromatic Peshawari-spiced gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-patiala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Patiala: Paneer rolls in rich spiced Patiala-style gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kaju-paneer": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kaju Paneer: Paneer and cashews in creamy gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "dahi-paneer": {
+    "prompt": "Use case: photorealistic-natural. Authentic Dahi Paneer: Paneer simmered in spiced yogurt gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pudina-paneer": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pudina Paneer: Paneer in fresh mint and yogurt gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-keema": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Keema: Grated paneer cooked like keema with peas. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cheese-butter-masala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cheese Butter Masala: Cheese cubes in buttery tomato makhani gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-sukka": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Sukka: Dry paneer with roasted coconut and spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-pepper-fry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Pepper Fry: Paneer tossed in crushed pepper and curry leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-xacuti": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Xacuti: Paneer in roasted coconut xacuti masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-cafreal": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Cafreal: Paneer in tangy green coriander-chilli masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-malaikari": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Malaikari: Paneer in sweet-mild coconut milk curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "veg-do-pyaza": {
+    "prompt": "Use case: photorealistic-natural. Authentic Veg Do Pyaza: Mixed vegetables with double onions. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "veg-kheema": {
+    "prompt": "Use case: photorealistic-natural. Authentic Veg Kheema: Minced mixed vegetables in spicy keema-style masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kathal-kofta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kathal Kofta: Raw jackfruit dumplings in spicy gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kaddu-kofta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kaddu Kofta: Pumpkin dumplings in onion-tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mochar-kofta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mochar Kofta: Banana blossom dumplings in rich gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "achari-soya-chaap": {
+    "prompt": "Use case: photorealistic-natural. Authentic Achari Soya Chaap: Soya chaap in tangy pickle-spiced gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "soya-chaap-tikka-masala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Soya Chaap Tikka Masala: Grilled soya chaap in tikka masala gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-makhani": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Makhani: Tofu in buttery tomato makhani gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "palak-tofu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Palak Tofu: Tofu cubes in smooth spiced spinach gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chilli-tofu": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chilli Tofu: Crispy tofu in spicy soy-chilli gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mushroom-kurma": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mushroom Kurma: Mushrooms in coconut-cashew kurma. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kathal-korma": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kathal Korma: Raw jackfruit in rich Awadhi korma. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kanguch-yakhni": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kanguch Yakhni: Morel mushrooms in fennel-yogurt gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kachri-ki-sabzi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kachri ki Sabzi: Tangy wild cucumber curry from the Thar. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kaju-gathiya-nu-shaak": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kaju Gathiya nu Shaak: Cashews and gathiya in spicy dhaba gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kaju-karela": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kaju Karela: Crisp bitter gourd and cashews in sweet-spicy masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "phulkopir-roast": {
+    "prompt": "Use case: photorealistic-natural. Authentic Phulkopir Roast: Festive whole cauliflower florets in rich yogurt gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "palda": {
+    "prompt": "Use case: photorealistic-natural. Authentic Palda: Dham-style yogurt curry with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vendakkai-mandi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vendakkai Mandi: Okra simmered in tangy rice-water gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chakka-kuru-manga-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chakka Kuru Manga Curry: Jackfruit seeds and raw mango in coconut gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kerala-mushroom-roast": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kerala Mushroom Roast: Mushrooms roasted in dark onion-pepper masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kerala-soya-roast": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kerala Soya Roast: Soya chunks roasted in spicy coconut-onion masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ambe-sasam": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ambe Sasam: Ripe mango in mustard-coconut sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kumm-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kumm Curry: Coorg-style wild mushroom curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kinema-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kinema Curry: Fermented soybean curry with tomatoes. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "malaysian-vegetable-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Malaysian Vegetable Curry: Vegetables in spiced coconut curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mushroom-rendang": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mushroom Rendang: Mushrooms slow-cooked in dry coconut rendang spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gudeg": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gudeg: Young jackfruit stewed in palm sugar and coconut. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tahu-bumbu-bali": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tahu Bumbu Bali: Fried tofu in spicy Balinese sambal sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ginataang-kalabasa": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ginataang Kalabasa: Squash and long beans in coconut milk. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kho-chay": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kho Chay: Tofu and mushrooms braised in caramelised soy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sri-lankan-cashew-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sri Lankan Cashew Curry: Cashews in mild coconut milk curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sri-lankan-mango-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sri Lankan Mango Curry: Ripe mango in sweet-spicy coconut curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sri-lankan-soya-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sri Lankan Soya Curry: Soya meat in roasted Sri Lankan curry spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetarian-fesenjan": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetarian Fesenjan: Walnut-pomegranate stew with aubergine or mushrooms. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "egyptian-moussaka": {
+    "prompt": "Use case: photorealistic-natural. Authentic Egyptian Moussaka: Fried aubergine stewed in spiced tomato sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ghiveci": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ghiveci: Slow-cooked mixed vegetable stew. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "alboronia": {
+    "prompt": "Use case: photorealistic-natural. Authentic Alboronía: Stewed aubergine, squash, pepper and tomato. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "peperonata": {
+    "prompt": "Use case: photorealistic-natural. Authentic Peperonata: Slow-cooked sweet peppers, onions and tomatoes. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tokfozelek": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tökfőzelék: Dill-scented marrow stew with sour cream. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mushroom-julienne": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mushroom Julienne: Mushrooms baked in cream under melted cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "leek-gratin": {
+    "prompt": "Use case: photorealistic-natural. Authentic Leek Gratin: Leeks baked in béchamel with cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gratin-de-blettes": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gratin de Blettes: Swiss chard baked in béchamel and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "butternut-squash-gratin": {
+    "prompt": "Use case: photorealistic-natural. Authentic Butternut Squash Gratin: Butternut squash baked in cream and cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-do-pyaza": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Do Pyaza: Paneer cooked with double onions in spicy masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-handi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Handi: Paneer cooked in a clay pot with thick spiced gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-jalfrezi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Jalfrezi: Paneer stir-fried with peppers, onions and tangy spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-hariyali": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Hariyali: Paneer in green herb and spinach gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-ghee-roast": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Ghee Roast: Paneer in tangy red chilli ghee-roast masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-chettinad": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Chettinad: Paneer in roasted pepper-coconut Chettinad masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "dahi-kofta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Dahi Kofta: Hung curd and paneer dumplings in rich gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cabbage-kofta": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cabbage Kofta: Cabbage dumplings in onion-tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "soya-kofta-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Soya Kofta Curry: Soya mince dumplings in rich gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "nizami-handi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Nizami Handi: Mixed vegetables in rich nutty Hyderabadi gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "makhana-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Makhana Curry: Roasted fox nuts in creamy tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "matar-mushroom": {
+    "prompt": "Use case: photorealistic-natural. Authentic Matar Mushroom: Mushrooms and peas in onion-tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kadai-mushroom": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kadai Mushroom: Mushrooms and capsicum in kadai masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mushroom-chettinad": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mushroom Chettinad: Mushrooms in fiery Chettinad spice gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "baby-corn-masala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Baby Corn Masala: Baby corn in spicy onion-tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "afghani-soya-chaap": {
+    "prompt": "Use case: photorealistic-natural. Authentic Afghani Soya Chaap: Creamy tandoor-roasted soya chaap. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "soya-keema-matar": {
+    "prompt": "Use case: photorealistic-natural. Authentic Soya Keema Matar: Minced soya with peas in spiced masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-tikka-masala": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Tikka Masala: Grilled tofu in spiced tikka masala gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ruwangan-chaman": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ruwangan Chaman: Paneer in tangy tomato and fennel gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "al-yakhni": {
+    "prompt": "Use case: photorealistic-natural. Authentic Al Yakhni: Bottle gourd in yogurt-fennel gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gucchi-matar": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gucchi Matar: Morel mushrooms with peas in rich gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "rajasthani-haldi-ki-sabzi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Rajasthani Haldi ki Sabzi: Fresh turmeric cooked in ghee, curd and peas, a winter special. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sev-ki-sabzi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sev ki Sabzi: Besan sev simmered in spicy curd-tomato gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "shev-bhaji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Shev Bhaji: Spicy Khandeshi curry with thick besan sev. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kaju-usal": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kaju Usal: Tender cashews in Malvani coconut masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "goan-vegetable-vindaloo": {
+    "prompt": "Use case: photorealistic-natural. Authentic Goan Vegetable Vindaloo: Vegetables in tangy vinegar-chilli vindaloo masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "goan-vegetable-caldine": {
+    "prompt": "Use case: photorealistic-natural. Authentic Goan Vegetable Caldine: Vegetables in mild coconut-turmeric curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetable-ghassi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetable Ghassi: Vegetables in roasted coconut-red chilli gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "menaskai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Menaskai: Sweet, sour and spicy coconut curry with pineapple or gourd. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vegetable-moilee": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vegetable Moilee: Vegetables in mild coconut milk and turmeric gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gongura-paneer": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gongura Paneer: Paneer in tangy sorrel leaf gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "makai-paka": {
+    "prompt": "Use case: photorealistic-natural. Authentic Makai Paka: Corn on the cob in creamy coconut-peanut curry. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "thai-yellow-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Thai Yellow Curry: Mild turmeric-coconut curry with tofu and potatoes. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "thai-jungle-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Thai Jungle Curry: Fiery coconut-free curry loaded with vegetables. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-katsu-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Katsu Curry: Crispy panko tofu cutlet with Japanese curry sauce and rice. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tofu-amok": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tofu Amok: Tofu in fragrant coconut-kroeung curry steamed in banana leaf. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ca-ri-chay": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cà Ri Chay: Lemongrass coconut curry with tofu, sweet potato and taro. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "polos-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Polos Curry: Young jackfruit in dark roasted Sri Lankan spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kiri-hodi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kiri Hodi: Mild turmeric coconut milk gravy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "wambatu-moju": {
+    "prompt": "Use case: photorealistic-natural. Authentic Wambatu Moju: Sweet-sour fried aubergine curry-pickle. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sri-lankan-beetroot-curry": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sri Lankan Beetroot Curry: Beetroot simmered in spiced coconut milk. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-05",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
   }
 }

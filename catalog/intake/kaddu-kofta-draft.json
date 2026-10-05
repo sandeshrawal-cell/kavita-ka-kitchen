@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0219",
+  "id": "kaddu-kofta",
+  "status": "published-third-100-intake-batch",
+  "name": "Kaddu Kofta",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "pumpkin, peeled and grated",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sprinkle grated pumpkin with 3 g salt and leave 10 minutes. Squeeze dry, saving about 100 ml of the released juice to use in the gravy.",
+    "Mix squeezed pumpkin with chickpea flour and 2 g salt. Shape into 12 small balls; if soft, rest 5 minutes so flour absorbs moisture.",
+    "Shallow-fry the balls in 55 ml hot oil in batches, turning gently until golden and cooked through, about 6–7 minutes. Drain.",
+    "In remaining oil, fry onion 7 minutes and ginger-garlic paste 1 minute. Add tomato puree, coriander, chili and remaining salt; cook 9 minutes. Add water and reserved pumpkin juice and simmer 5 minutes.",
+    "Finish gravy with garam masala. Arrange pumpkin kofta in a bowl and pour hot gravy around them at serving time; serve with roti."
+  ],
+  "tips": [
+    "Squeeze grated pumpkin before mixing the kofta; otherwise the batter needs too much flour and turns dense."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कद्दू कोफ्ता",
+      "ingredients": [
+        "कद्दू, छिला और कसा",
+        "बेसन",
+        "प्याज़, बारीक कटा",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "कसे कद्दू पर 3 ग्राम नमक डालकर 10 मिनट रखें। निचोड़कर सुखाएँ और निकला लगभग 100 मिली रस तरी के लिए सँभालें।",
+        "निचोड़े कद्दू में बेसन और 2 ग्राम नमक मिलाएँ। 12 छोटे गोले बनाएँ; नरम हों तो 5 मिनट रखें ताकि बेसन नमी सोखे।",
+        "55 मिली गरम तेल में गोले बैच में हल्के से पलटते हुए 6–7 मिनट सुनहरे और भीतर तक पके होने तक सेंकें। निकालें।",
+        "बचे तेल में प्याज़ 7 मिनट और अदरक-लहसुन पेस्ट 1 मिनट भूनें। टमाटर प्यूरी, धनिया, मिर्च और बचा नमक डालकर 9 मिनट पकाएँ। पानी और कद्दू रस डालकर 5 मिनट उबालें।",
+        "तरी में गरम मसाला मिलाएँ। कटोरे में कद्दू कोफ्ते रखकर परोसते समय उनके आसपास गरम तरी डालें; रोटी के साथ दें।"
+      ],
+      "tips": [
+        "कोफ्ते मिलाने से पहले कद्दू निचोड़ें; वरना अधिक बेसन से कोफ्ते भारी हो जाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કોળાના કોફ્તા",
+      "ingredients": [
+        "કોળું, છોલી છીણેલું",
+        "બેસન",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "છીણેલા કોળા પર 3 ગ્રામ મીઠું નાખી 10 મિનિટ રાખો. નિચોવી સૂકવો અને નીકળેલો આશરે 100 મિ.લી. રસ ગ્રેવી માટે સાચવો.",
+        "નિચોવેલા કોળામાં બેસન અને 2 ગ્રામ મીઠું ભેળવો. 12 નાના ગોળા બનાવો; નરમ હોય તો 5 મિનિટ રાખો જેથી બેસન ભેજ શોષે.",
+        "55 મિ.લી. ગરમ તેલમાં ગોળાને હપ્તામાં હળવેથી ફેરવી 6–7 મિનિટ સોનેરી અને અંદરથી પાકે ત્યાં સુધી શેકી કાઢો.",
+        "બાકી તેલમાં ડુંગળી 7 મિનિટ અને આદુ-લસણની પેસ્ટ 1 મિનિટ શેકો. ટામેટાંની પ્યૂરી, ધાણા, મરચું અને બાકી મીઠું નાખી 9 મિનિટ રાંધો. પાણી અને કોળાનો રસ નાખી 5 મિનિટ ઉકાળો.",
+        "ગ્રેવીમાં ગરમ મસાલો ભેળવો. વાટકામાં કોળાના કોફ્તા મૂકી પીરસતી વખતે આસપાસ ગરમ ગ્રેવી રેડો; રોટલી સાથે આપો."
+      ],
+      "tips": [
+        "કોફ્તા ભેળવતાં પહેલાં કોળું નિચોવો; નહીં તો વધુ બેસનથી કોફ્તા ભારે બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://nishamadhulika.com/en/437-kaddu-kofta-curry-recipe.html",
+    "use": "Pumpkin-besan kofta curry technique; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kaddu-kofta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

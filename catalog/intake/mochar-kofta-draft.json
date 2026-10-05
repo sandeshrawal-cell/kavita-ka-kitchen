@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0220",
+  "id": "mochar-kofta",
+  "status": "published-third-100-intake-batch",
+  "name": "Mochar Kofta",
+  "cuisine": "Bengali",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "cleaned banana blossom, finely chopped",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "potato, boiled and mashed",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "ginger paste",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Separate banana-blossom florets and remove the tough stigma and clear sheath from each. Chop finely, rinse, and boil with a pinch of turmeric for 15 minutes; drain and squeeze dry.",
+    "Mix cooked blossom with mashed potato, chickpea flour, 4 g salt and half the garam masala. Form 12 oval kofta and let stand 10 minutes.",
+    "Heat 50 ml mustard oil until shimmering, lower heat and shallow-fry kofta in batches until browned on all sides. Drain without breaking them.",
+    "In the remaining oil, sizzle cumin, cook onion 7 minutes, then ginger paste 1 minute. Add tomato puree, coriander, remaining turmeric and salt; fry 9 minutes, add water and simmer 5 minutes.",
+    "Stir remaining garam masala into gravy. Set kofta in a shallow bowl and spoon gravy around them immediately before serving with rice."
+  ],
+  "tips": [
+    "Cleaning banana blossom thoroughly prevents tough fibers in the kofta; the cooked blossom must be dry before shaping."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मोचार कोफ्ता",
+      "ingredients": [
+        "साफ केले का फूल, बारीक कटा",
+        "आलू, उबला और मसला",
+        "बेसन",
+        "प्याज़, बारीक कटा",
+        "टमाटर की प्यूरी",
+        "अदरक पेस्ट",
+        "जीरा",
+        "धनिया पाउडर",
+        "हल्दी",
+        "गरम मसाला",
+        "सरसों का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "केले के फूल की कलियाँ अलग करके हर एक का कठोर रेशा और पारदर्शी आवरण हटाएँ। बारीक काटकर धोएँ, चुटकी हल्दी के साथ 15 मिनट उबालें; छानकर निचोड़ें।",
+        "पके फूल में मसला आलू, बेसन, 4 ग्राम नमक और आधा गरम मसाला मिलाएँ। 12 अंडाकार कोफ्ते बनाकर 10 मिनट रखें।",
+        "50 मिली सरसों तेल चमकने तक गरम करके आँच घटाएँ। कोफ्ते बैच में हर तरफ भूरे होने तक सेंकें। बिना तोड़े निकालें।",
+        "बचे तेल में जीरा चटकाकर प्याज़ 7 मिनट और अदरक पेस्ट 1 मिनट पकाएँ। टमाटर प्यूरी, धनिया, बची हल्दी और नमक डालकर 9 मिनट भूनें; पानी डालकर 5 मिनट उबालें।",
+        "तरी में बचा गरम मसाला मिलाएँ। उथले कटोरे में कोफ्ते रखकर चावल के साथ परोसने से ठीक पहले उनके आसपास तरी डालें।"
+      ],
+      "tips": [
+        "केले के फूल के कठोर रेशे अच्छी तरह निकालें और कोफ्ते बनाने से पहले पका फूल सुखाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "કેળફૂલ કોફ્તા",
+      "ingredients": [
+        "સાફ કેળફૂલ, ઝીણું સમારેલું",
+        "બટાકું, બાફી મસળેલું",
+        "બેસન",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુની પેસ્ટ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "હળદર",
+        "ગરમ મસાલો",
+        "રાઈનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કેળફૂલની કળીઓ અલગ કરી દરેકનું સખત રેસું અને પારદર્શક આવરણ કાઢો. ઝીણું સમારી ધોઈ ચપટી હળદર સાથે 15 મિનિટ બાફો; નિતારી નિચોવો.",
+        "રાંધેલા ફૂલમાં મસળેલું બટાકું, બેસન, 4 ગ્રામ મીઠું અને અડધો ગરમ મસાલો ભેળવો. 12 અંડાકાર કોફ્તા બનાવી 10 મિનિટ રાખો.",
+        "50 મિ.લી. રાઈનું તેલ ચમકે ત્યાં સુધી ગરમ કરી તાપ ઘટાડો. કોફ્તા હપ્તામાં દરેક બાજુ ભૂરા થાય ત્યાં સુધી શેકો. તોડ્યા વગર કાઢો.",
+        "બાકી તેલમાં જીરું ચટકાવી ડુંગળી 7 મિનિટ અને આદુની પેસ્ટ 1 મિનિટ રાંધો. ટામેટાંની પ્યૂરી, ધાણા, બાકી હળદર અને મીઠું નાખી 9 મિનિટ શેકો; પાણી નાખી 5 મિનિટ ઉકાળો.",
+        "ગ્રેવીમાં બાકી ગરમ મસાલો ભેળવો. છીછરી વાટકીમાં કોફ્તા મૂકી ભાત સાથે પીરસતાં જ આસપાસ ગ્રેવી રેડો."
+      ],
+      "tips": [
+        "કેળફૂલના સખત રેસા સારી રીતે કાઢો અને કોફ્તા બનાવતાં પહેલાં રાંધેલું ફૂલ સૂકવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://motionsandemotions.com/mochar-ghonto-bengali-banana-blossom-curry/",
+    "use": "Bengali banana-blossom cleaning and cooking method; kofta gravy independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/mochar-kofta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

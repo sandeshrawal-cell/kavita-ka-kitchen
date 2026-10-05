@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0276",
+  "id": "soya-keema-matar",
+  "status": "published-third-100-intake-batch",
+  "name": "Soya Keema Matar",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "dry soya granules",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, finely chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 13,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cover soya granules with boiling water for 10 minutes, drain and squeeze very dry. Fluff with a fork to keep a mince-like texture.",
+    "Heat oil in a wide pan. Add cumin and onion; cook 7–8 minutes until golden. Stir in ginger-garlic and green chili for 1 minute.",
+    "Add tomato, coriander powder, turmeric and salt. Cook 8 minutes, stirring, until the tomato is thick and oil appears at the edges.",
+    "Add squeezed soya and peas; stir-fry 3 minutes to coat each granule. Add 180 ml water, cover and simmer 8 minutes until peas are tender and the mixture remains moist, not soupy.",
+    "Stir in garam masala and simmer uncovered 2 minutes. Scatter coriander leaves and serve with roti or eggless pav."
+  ],
+  "tips": [
+    "Use small soya granules rather than whole chunks for a proper keema texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया कीमा मटर",
+      "ingredients": [
+        "सूखे सोया दाने",
+        "हरे मटर",
+        "प्याज़, बारीक कटा",
+        "टमाटर, बारीक कटे",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च, कटी",
+        "हल्का तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "हल्दी पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सोया दाने 10 मिनट उबलते पानी में भिगोकर छानें और बहुत अच्छी तरह निचोड़ें। कीमे जैसी बनावट के लिए काँटे से फुलाएँ।",
+        "चौड़े पैन में तेल गरम करें। जीरा और प्याज़ 7–8 मिनट सुनहरा करें। अदरक-लहसुन और हरी मिर्च 1 मिनट चलाएँ।",
+        "टमाटर, धनिया, हल्दी और नमक डालें। 8 मिनट चलाते हुए गाढ़ा करें, जब तक किनारों पर तेल दिखे।",
+        "निचोड़ा सोया और मटर 3 मिनट भूनें ताकि हर दाना मसाले से ढके। 180 मि.ली. पानी डालकर ढकें और 8 मिनट पकाएँ, मटर नरम और मिश्रण नम रहे, पतला नहीं।",
+        "गरम मसाला मिलाकर 2 मिनट बिना ढके पकाएँ। हरा धनिया डालें और रोटी या बिना अंडे के पाव के साथ परोसें।"
+      ],
+      "tips": [
+        "कीमे जैसी बनावट के लिए साबुत सोया चंक्स की जगह छोटे दाने लें।"
+      ]
+    },
+    "gu": {
+      "name": "સોયા કીમા વટાણા",
+      "ingredients": [
+        "સૂકા સોયા દાણા",
+        "લીલા વટાણા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાં, ઝીણાં સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું, સમારેલું",
+        "હળવું તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "હળદર પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સોયા દાણા 10 મિનિટ ઉકળતા પાણીમાં પલાળી નિતારી ખૂબ સારી રીતે નીચોવો. કીમા જેવી રચના માટે કાંટાથી છૂટા કરો.",
+        "પહોળી કડાઈમાં તેલ ગરમ કરો. જીરું અને ડુંગળી 7–8 મિનિટ સોનેરી કરો. આદુ-લસણ અને લીલું મરચું 1 મિનિટ હલાવો.",
+        "ટામેટાં, ધાણા, હળદર અને મીઠું નાખો. 8 મિનિટ હલાવી ઘટ્ટ કરો, કિનારે તેલ દેખાય ત્યાં સુધી.",
+        "નીચોવેલા સોયા અને વટાણા 3 મિનિટ શેકો જેથી દરેક દાણા પર મસાલો ચડે. 180 મિ.લી. પાણી નાખી ઢાંકી 8 મિનિટ રાંધો, વટાણા નરમ અને મિશ્રણ ભીનું રહે, પાતળું નહીં.",
+        "ગરમ મસાલો ભેળવી 2 મિનિટ ઢાંકણ વગર રાંધો. કોથમીર ભભરાવી રોટલી કે ઈંડા વગરના પાવ સાથે પીરસો."
+      ],
+      "tips": [
+        "કીમા જેવી રચના માટે મોટા સોયા ચંક્સને બદલે નાના દાણા લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/soya-keema/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/soya-keema-matar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

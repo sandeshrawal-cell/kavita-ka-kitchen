@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0227",
+  "id": "kathal-korma",
+  "status": "published-third-100-intake-batch",
+  "name": "Kathal Korma",
+  "cuisine": "Mughlai-inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "young green jackfruit, drained and cubed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 260,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil young jackfruit 12–15 minutes until just tender, then drain and pat dry. Soak cashews in 100 ml hot water and blend smooth.",
+    "Heat ghee and fry sliced onions 10 minutes until deep golden. Remove one-third for garnish; add cardamom, cinnamon and ginger-garlic paste to the rest, and cook 1 minute.",
+    "Add jackfruit and ground coriander, toss for 3 minutes so the edges take colour. Lower the heat.",
+    "Whisk yogurt with cashew paste and 60 ml water. Add it gradually, stirring constantly so it does not split. Add remaining water and salt; cover and simmer 12 minutes.",
+    "Finish with garam masala and reserved golden onions. Rest 5 minutes and serve the creamy korma with naan or rice."
+  ],
+  "tips": [
+    "Use unripe jackfruit; ripe sweet jackfruit will not give the savoury korma texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कटहल कोरमा",
+      "ingredients": [
+        "कच्चा कटहल, निथारा और टुकड़ों में",
+        "प्याज़, पतले कटे",
+        "गाढ़ा सादा दही",
+        "कच्चे काजू",
+        "अदरक-लहसुन पेस्ट",
+        "हरी इलायची",
+        "दालचीनी",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "घी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "कच्चा कटहल 12–15 मिनट बस नरम होने तक उबालकर छानें और सुखाएँ। काजू 100 मिली गरम पानी में भिगोकर चिकना पीसें।",
+        "घी गरम करके पतले प्याज़ 10 मिनट गहरे सुनहरे भूनें। एक-तिहाई सजाने के लिए निकालें; बचे में इलायची, दालचीनी और अदरक-लहसुन पेस्ट 1 मिनट पकाएँ।",
+        "कटहल और धनिया पाउडर डालकर 3 मिनट चलाएँ ताकि किनारों पर रंग आए। आँच धीमी करें।",
+        "दही को काजू पेस्ट और 60 मिली पानी के साथ फेंटें। इसे लगातार चलाते हुए धीरे डालें ताकि न फटे। बचा पानी और नमक डालकर ढककर 12 मिनट पकाएँ।",
+        "गरम मसाला और अलग रखे सुनहरे प्याज़ डालें। 5 मिनट रहने देकर क्रीमी कोरमा नान या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "कच्चा कटहल लें; पका मीठा कटहल नमकीन कोरमे की बनावट नहीं देगा।"
+      ]
+    },
+    "gu": {
+      "name": "કઠલ કોરમા",
+      "ingredients": [
+        "કાચું કઠલ, નિતારી ટુકડામાં",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ઘટ્ટ સાદું દહીં",
+        "કાચા કાજુ",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલી એલચી",
+        "તજ",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "ઘી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાચું કઠલ 12–15 મિનિટ માત્ર નરમ થાય ત્યાં સુધી બાફી નિતારી સૂકવો. કાજુ 100 મિ.લી. ગરમ પાણીમાં પલાળી લીસાં પીસો.",
+        "ઘી ગરમ કરી પાતળી ડુંગળી 10 મિનિટ ઘેરી સોનેરી શેકો. ત્રીજો ભાગ સજાવટ માટે કાઢો; બાકીમાં એલચી, તજ અને આદુ-લસણની પેસ્ટ 1 મિનિટ રાંધો.",
+        "કઠલ અને ધાણા પાઉડર નાખી 3 મિનિટ ભેળવો જેથી કિનારી રંગ પકડે. તાપ ધીમો કરો.",
+        "દહીંને કાજુની પેસ્ટ અને 60 મિ.લી. પાણી સાથે ફેંટો. સતત હલાવતા ધીમે ઉમેરો જેથી ફાટે નહીં. બાકી પાણી અને મીઠું નાખી ઢાંકી 12 મિનિટ રાંધો.",
+        "ગરમ મસાલો અને અલગ રાખેલી સોનેરી ડુંગળી ઉમેરો. 5 મિનિટ રહેવા દઈ મલાઈદાર કોરમા નાન કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "કાચું કઠલ લો; પાકેલું મીઠું કઠલ ખારા કોરમાની બનાવટ નહીં આપે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://batterupwithsujata.com/2022/06/shai-kathal-or-jackfruit-korma-mughlai-kathal-korma/",
+    "use": "Young jackfruit in rich yogurt-cashew korma; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kathal-korma.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

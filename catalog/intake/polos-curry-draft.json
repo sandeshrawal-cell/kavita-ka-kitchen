@@ -1,31 +1,154 @@
 {
- "sourceReviewId":"R0297","id":"polos-curry","status":"draft-photo-and-translation-reviewed","name":"Polos Curry","cuisine":"Sri Lankan","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":80,
- "ingredients":[
-  {"name":"young green jackfruit in brine, drained","qty":700,"unit":"g"},
-  {"name":"coconut milk","qty":450,"unit":"ml"},
-  {"name":"onion, sliced","qty":200,"unit":"g"},
-  {"name":"garlic, minced","qty":20,"unit":"g"},
-  {"name":"ginger, grated","qty":15,"unit":"g"},
-  {"name":"roasted Sri Lankan curry powder","qty":25,"unit":"g"},
-  {"name":"red chili powder","qty":7,"unit":"g"},
-  {"name":"ground turmeric","qty":4,"unit":"g"},
-  {"name":"fresh curry leaves","qty":15,"unit":"g"},
-  {"name":"pandan leaf, tied into a knot","qty":10,"unit":"g"},
-  {"name":"tamarind paste","qty":30,"unit":"g"},
-  {"name":"coconut oil","qty":30,"unit":"ml"},
-  {"name":"salt","qty":8,"unit":"g"}
- ],
- "steps":[
-  "Drain and rinse young jackfruit, squeeze out brine and cut large wedges to similar size. Keep the tender fibrous pieces intact; mature sweet jackfruit is unsuitable here.",
-  "Heat coconut oil in a heavy pot. Fry sliced onion for 7 minutes until golden, then add garlic, ginger, curry leaves and tied pandan leaf for 1 minute.",
-  "Add roasted curry powder, chili powder and turmeric and stir for 30 seconds. Fold in jackfruit until every piece is darkly coated with the aromatic spices.",
-  "Pour in 300 ml of the coconut milk, add salt, cover and simmer gently for 35 minutes, stirring occasionally, until jackfruit is tender and the gravy has turned deep brown.",
-  "Stir in the remaining 150 ml coconut milk and tamarind paste. Simmer uncovered for 10 minutes until thick and clinging to the jackfruit. Remove the pandan knot and serve with rice."
- ],
- "tips":["Use unripe jackfruit packed in water or brine, not ripe sweet fruit or syrup. Slow cooking develops the characteristic dark roasted-spice gravy."],
- "translations":{
-  "hi":{"name":"पोलोस करी","ingredients":["कच्चा हरा कटहल नमकीन पानी में, छाना","नारियल का दूध","प्याज़, कटा","लहसुन, बारीक कटा","अदरक, कद्दूकस","भुना श्रीलंकाई करी पाउडर","लाल मिर्च पाउडर","पिसी हल्दी","ताज़े करी पत्ते","पांडन पत्ता, गाँठ बाँधा","इमली का पेस्ट","नारियल तेल","नमक"],"steps":["कच्चा कटहल छानकर धोएँ, नमकीन पानी निचोड़ें और बड़े टुकड़े बराबर काटें। नरम रेशेदार टुकड़े साबुत रखें; पका मीठा कटहल इसके लिए सही नहीं है।","भारी बर्तन में नारियल तेल गरम करें। कटा प्याज़ 7 मिनट सुनहरा भूनें, फिर लहसुन, अदरक, करी पत्ते और गाँठ वाला पांडन पत्ता 1 मिनट पकाएँ।","भुना करी पाउडर, मिर्च पाउडर और हल्दी डालकर 30 सेकंड चलाएँ। कटहल मिलाएँ ताकि हर टुकड़ा गहरे खुशबूदार मसाले से ढक जाए।","नारियल दूध में से 300 मिली डालें, नमक मिलाएँ, ढककर 35 मिनट धीमे उबालें और बीच-बीच में चलाएँ, जब तक कटहल नरम और सॉस गहरी भूरी हो।","बचा 150 मिली नारियल दूध और इमली पेस्ट मिलाएँ। बिना ढके 10 मिनट पकाएँ, जब तक गाढ़ी सॉस कटहल से चिपके। पांडन की गाँठ निकालकर चावल के साथ परोसें।"],"tips":["पानी या नमकीन पानी में रखा कच्चा कटहल लें, पका मीठा फल या चाशनी वाला नहीं। धीमी पकाई से गहरा भुना-मसालेदार रस बनता है।"]},
-  "gu":{"name":"પોલોસ કરી","ingredients":["કાચું લીલું ફણસ ખારા પાણીમાં, નિતારેલું","નાળિયેરનું દૂધ","ડુંગળી, સમારેલી","લસણ, બારીક સમારેલું","આદુ, છીણેલું","શેકેલો શ્રીલંકન કરી પાઉડર","લાલ મરચું પાઉડર","દળેલી હળદર","તાજા મીઠા લીમડાના પાન","પાંડન પાન, ગાંઠ વાળેલું","આંબલીની પેસ્ટ","નાળિયેરનું તેલ","મીઠું"],"steps":["કાચું ફણસ નિતારી ધોઈ ખારું પાણી નીચોવો અને મોટા ફાચર સરખા કાપો. નરમ રેસાવાળા ટુકડા અખંડ રાખો; પાકેલું મીઠું ફણસ અહીં યોગ્ય નથી.","ભારે વાસણમાં નાળિયેર તેલ ગરમ કરો. સમારેલી ડુંગળી 7 મિનિટ સોનેરી શેકો, પછી લસણ, આદુ, મીઠા લીમડાના પાન અને ગાંઠવાળું પાંડન પાન 1 મિનિટ રાંધો.","શેકેલો કરી પાઉડર, મરચું પાઉડર અને હળદર નાખી 30 સેકન્ડ હલાવો. ફણસ ભેળવો જેથી દરેક ટુકડો ઘેરા સુગંધી મસાલાથી ઢંકાય.","નાળિયેરના દૂધમાંથી 300 મિલી રેડો, મીઠું નાખો, ઢાંકી 35 મિનિટ ધીમે ઉકાળો અને વચ્ચે હલાવો, ફણસ નરમ અને રસો ઘેરો બદામી થાય ત્યાં સુધી.","બાકીનું 150 મિલી નાળિયેર દૂધ અને આંબલી પેસ્ટ ભેળવો. ઢાંક્યા વગર 10 મિનિટ ઘાટો રસો ફણસને ચોંટે ત્યાં સુધી રાંધો. પાંડનની ગાંઠ કાઢી ભાત સાથે પીરસો."],"tips":["પાણી કે ખારા પાણીમાં રાખેલું કાચું ફણસ લો, પાકેલું મીઠું ફળ કે ચાસણીવાળું નહીં. ધીમે રાંધવાથી ઘેરો શેકેલા મસાલાનો રસો બને છે."]}
- },
- "reference":{"url":"https://gosrilankan.com/recipes/polos-curry/","use":"Sri Lankan young-jackfruit curry method and roasted-spice profile; quantities and wording independently authored for the reviewed photo."}
+  "sourceReviewId": "R0297",
+  "id": "polos-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Polos Curry",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "young green jackfruit in brine, drained",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "roasted Sri Lankan curry powder",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "pandan leaf, tied into a knot",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Drain and rinse young jackfruit, squeeze out brine and cut large wedges to similar size. Keep the tender fibrous pieces intact; mature sweet jackfruit is unsuitable here.",
+    "Heat coconut oil in a heavy pot. Fry sliced onion for 7 minutes until golden, then add garlic, ginger, curry leaves and tied pandan leaf for 1 minute.",
+    "Add roasted curry powder, chili powder and turmeric and stir for 30 seconds. Fold in jackfruit until every piece is darkly coated with the aromatic spices.",
+    "Pour in 300 ml of the coconut milk, add salt, cover and simmer gently for 35 minutes, stirring occasionally, until jackfruit is tender and the gravy has turned deep brown.",
+    "Stir in the remaining 150 ml coconut milk and tamarind paste. Simmer uncovered for 10 minutes until thick and clinging to the jackfruit. Remove the pandan knot and serve with rice."
+  ],
+  "tips": [
+    "Use unripe jackfruit packed in water or brine, not ripe sweet fruit or syrup. Slow cooking develops the characteristic dark roasted-spice gravy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पोलोस करी",
+      "ingredients": [
+        "कच्चा हरा कटहल नमकीन पानी में, छाना",
+        "नारियल का दूध",
+        "प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, कद्दूकस",
+        "भुना श्रीलंकाई करी पाउडर",
+        "लाल मिर्च पाउडर",
+        "पिसी हल्दी",
+        "ताज़े करी पत्ते",
+        "पांडन पत्ता, गाँठ बाँधा",
+        "इमली का पेस्ट",
+        "नारियल तेल",
+        "नमक"
+      ],
+      "steps": [
+        "कच्चा कटहल छानकर धोएँ, नमकीन पानी निचोड़ें और बड़े टुकड़े बराबर काटें। नरम रेशेदार टुकड़े साबुत रखें; पका मीठा कटहल इसके लिए सही नहीं है।",
+        "भारी बर्तन में नारियल तेल गरम करें। कटा प्याज़ 7 मिनट सुनहरा भूनें, फिर लहसुन, अदरक, करी पत्ते और गाँठ वाला पांडन पत्ता 1 मिनट पकाएँ।",
+        "भुना करी पाउडर, मिर्च पाउडर और हल्दी डालकर 30 सेकंड चलाएँ। कटहल मिलाएँ ताकि हर टुकड़ा गहरे खुशबूदार मसाले से ढक जाए।",
+        "नारियल दूध में से 300 मिली डालें, नमक मिलाएँ, ढककर 35 मिनट धीमे उबालें और बीच-बीच में चलाएँ, जब तक कटहल नरम और सॉस गहरी भूरी हो।",
+        "बचा 150 मिली नारियल दूध और इमली पेस्ट मिलाएँ। बिना ढके 10 मिनट पकाएँ, जब तक गाढ़ी सॉस कटहल से चिपके। पांडन की गाँठ निकालकर चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "पानी या नमकीन पानी में रखा कच्चा कटहल लें, पका मीठा फल या चाशनी वाला नहीं। धीमी पकाई से गहरा भुना-मसालेदार रस बनता है।"
+      ]
+    },
+    "gu": {
+      "name": "પોલોસ કરી",
+      "ingredients": [
+        "કાચું લીલું ફણસ ખારા પાણીમાં, નિતારેલું",
+        "નાળિયેરનું દૂધ",
+        "ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "આદુ, છીણેલું",
+        "શેકેલો શ્રીલંકન કરી પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "દળેલી હળદર",
+        "તાજા મીઠા લીમડાના પાન",
+        "પાંડન પાન, ગાંઠ વાળેલું",
+        "આંબલીની પેસ્ટ",
+        "નાળિયેરનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કાચું ફણસ નિતારી ધોઈ ખારું પાણી નીચોવો અને મોટા ફાચર સરખા કાપો. નરમ રેસાવાળા ટુકડા અખંડ રાખો; પાકેલું મીઠું ફણસ અહીં યોગ્ય નથી.",
+        "ભારે વાસણમાં નાળિયેર તેલ ગરમ કરો. સમારેલી ડુંગળી 7 મિનિટ સોનેરી શેકો, પછી લસણ, આદુ, મીઠા લીમડાના પાન અને ગાંઠવાળું પાંડન પાન 1 મિનિટ રાંધો.",
+        "શેકેલો કરી પાઉડર, મરચું પાઉડર અને હળદર નાખી 30 સેકન્ડ હલાવો. ફણસ ભેળવો જેથી દરેક ટુકડો ઘેરા સુગંધી મસાલાથી ઢંકાય.",
+        "નાળિયેરના દૂધમાંથી 300 મિલી રેડો, મીઠું નાખો, ઢાંકી 35 મિનિટ ધીમે ઉકાળો અને વચ્ચે હલાવો, ફણસ નરમ અને રસો ઘેરો બદામી થાય ત્યાં સુધી.",
+        "બાકીનું 150 મિલી નાળિયેર દૂધ અને આંબલી પેસ્ટ ભેળવો. ઢાંક્યા વગર 10 મિનિટ ઘાટો રસો ફણસને ચોંટે ત્યાં સુધી રાંધો. પાંડનની ગાંઠ કાઢી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "પાણી કે ખારા પાણીમાં રાખેલું કાચું ફણસ લો, પાકેલું મીઠું ફળ કે ચાસણીવાળું નહીં. ધીમે રાંધવાથી ઘેરો શેકેલા મસાલાનો રસો બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://gosrilankan.com/recipes/polos-curry/",
+    "use": "Sri Lankan young-jackfruit curry method and roasted-spice profile; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/polos-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

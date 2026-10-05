@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0239",
+  "id": "kumm-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Kumm Curry",
+  "cuisine": "Kodava",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "button mushrooms, thickly sliced",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garlic cloves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns, lightly crushed",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds, crushed",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Grind coconut, cumin and garlic with 100 ml water to a smooth paste. Wipe mushrooms clean and slice thickly so they stay substantial in the gravy.",
+    "Heat oil in a wide pan. Fry curry leaves, dried red chilies and crushed peppercorns for 30 seconds, then add onions and green chilies. Cook for 7 minutes until the onions turn golden.",
+    "Add mushrooms and cook uncovered for 5 minutes, stirring until they release moisture and shrink. Do not add extra water at this stage.",
+    "Stir in the coconut paste, chopped tomatoes, crushed coriander, turmeric and salt. Cook for 5 minutes until the raw coconut aroma fades and the tomatoes soften.",
+    "Add the remaining 100 ml water and simmer for 6 minutes until the peppery coconut gravy coats the mushrooms. Taste, adjust salt and serve with rice or parotta."
+  ],
+  "tips": [
+    "This Kodava curry is peppery and coconut-rich; keep the mushrooms thickly cut so they do not disappear in the sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुम्म करी",
+      "ingredients": [
+        "बटन मशरूम, मोटे कटे",
+        "ताज़ा कसा नारियल",
+        "जीरा",
+        "लहसुन की कलियाँ",
+        "प्याज़, पतले कटे",
+        "टमाटर, कटे",
+        "हरी मिर्च, कटी",
+        "सूखी लाल मिर्च",
+        "काली मिर्च के दाने, हल्के कुटे",
+        "धनिया के दाने, कुटे",
+        "पिसी हल्दी",
+        "ताज़े करी पत्ते",
+        "हल्का स्वाद वाला तेल",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "नारियल, जीरा और लहसुन को 100 मिली पानी के साथ चिकना पीसें। मशरूम नम कपड़े से साफ़ करके मोटे काटें ताकि वे तरी में दबकर न गलें।",
+        "चौड़े पैन में तेल गरम करें। करी पत्ते, सूखी लाल मिर्च और कुटी काली मिर्च 30 सेकंड भूनें, फिर प्याज़ और हरी मिर्च डालें। प्याज़ सुनहरा होने तक 7 मिनट पकाएँ।",
+        "मशरूम डालकर 5 मिनट बिना ढके पकाएँ; चलाते रहें जब तक वे पानी छोड़ें और सिकुड़ें। इस समय अतिरिक्त पानी न डालें।",
+        "नारियल पेस्ट, कटे टमाटर, कुटा धनिया, हल्दी और नमक मिलाएँ। लगभग 5 मिनट पकाएँ, जब तक कच्चे नारियल की गंध जाए और टमाटर नरम हों।",
+        "बचा 100 मिली पानी डालकर 6 मिनट उबालें, जब तक काली मिर्च वाली नारियल की तरी मशरूम पर लिपट जाए। नमक जाँचें और चावल या परोट्टा के साथ परोसें।"
+      ],
+      "tips": [
+        "यह कोडवा करी काली मिर्च और नारियल से भरपूर है; मशरूम मोटे काटें ताकि वे सॉस में खो न जाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "કુમ્મ કરી",
+      "ingredients": [
+        "બટન મશરૂમ, જાડા સમારેલા",
+        "તાજું છીણેલું નાળિયેર",
+        "જીરું",
+        "લસણની કળીઓ",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "લીલાં મરચાં, સમારેલાં",
+        "સૂકાં લાલ મરચાં",
+        "કાળા મરીના દાણા, હળવા ખાંડેલા",
+        "ધાણાના દાણા, ખાંડેલા",
+        "દળેલી હળદર",
+        "તાજા મીઠા લીમડાનાં પાન",
+        "હળવા સ્વાદનું તેલ",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "નાળિયેર, જીરું અને લસણને 100 મિલી પાણી સાથે સુંવાળું વાટો. મશરૂમ ભીના કપડાથી સાફ કરીને જાડા સમારો જેથી રસામાં ઓગળી ન જાય.",
+        "પહોળા પૅનમાં તેલ ગરમ કરો. મીઠા લીમડાનાં પાન, સૂકાં લાલ મરચાં અને ખાંડેલા કાળા મરીને 30 સેકન્ડ સાંતળો, પછી ડુંગળી અને લીલાં મરચાં નાખો. ડુંગળી સોનેરી થાય ત્યાં સુધી 7 મિનિટ રાંધો.",
+        "મશરૂમ નાખી 5 મિનિટ ઢાંક્યા વગર રાંધો; પાણી છોડે અને સંકોચાય ત્યાં સુધી હલાવો. આ સમયે વધુ પાણી ન નાખો.",
+        "નાળિયેરની પેસ્ટ, ટામેટાં, ખાંડેલો ધાણો, હળદર અને મીઠું ભેળવો. કાચા નાળિયેરની વાસ જાય અને ટામેટાં નરમ થાય ત્યાં સુધી લગભગ 5 મિનિટ રાંધો.",
+        "બાકીનું 100 મિલી પાણી નાખી 6 મિનિટ ઉકાળો જેથી મરીવાળી નાળિયેરની રસાવાળી કરી મશરૂમને ચોંટે. મીઠું તપાસી ભાત કે પરોટ્ટા સાથે પીરસો."
+      ],
+      "tips": [
+        "આ કોડવા કરી મરી અને નાળિયેરના સ્વાદથી ભરપૂર છે; મશરૂમ જાડા સમારો જેથી સોસમાં ગાયબ ન થઈ જાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/kodava-kummu-curry-recipe-coorg-style-mushroom-curry",
+    "use": "Kodava mushroom curry's coconut, cumin, garlic and pepper profile informed independently authored ingredients and cooking method."
+  },
+  "photoDraft": "catalog/intake/photos/kumm-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

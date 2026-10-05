@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0224",
+  "id": "palak-tofu",
+  "status": "published-third-100-intake-batch",
+  "name": "Palak Tofu",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed and cubed",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chili",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Blanch washed spinach in boiling water for 1 minute, then plunge into cold water and drain. Blend with green chili and 60 ml water to a smooth green puree.",
+    "Press and cube tofu; pat dry. Heat 15 ml oil and sear tofu for 2 minutes per side until light gold; remove.",
+    "Heat remaining oil and sizzle cumin. Fry onion for 7 minutes, add ginger-garlic paste for 1 minute, then tomato and 5 g salt; cook 6 minutes until soft.",
+    "Add spinach puree and remaining water. Simmer uncovered for 4–5 minutes, stirring, but avoid a long boil so the green remains bright.",
+    "Fold in tofu, garam masala and remaining salt. Warm gently for 3 minutes and serve with roti."
+  ],
+  "tips": [
+    "Cool blanched spinach promptly to preserve its green colour; add tofu near the end."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पालक टोफू",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर टुकड़ों में",
+        "ताज़े पालक के पत्ते",
+        "प्याज़, कटा",
+        "टमाटर, कटा",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च",
+        "जीरा",
+        "गरम मसाला",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "धोया पालक 1 मिनट खौलते पानी में डालें, फिर ठंडे पानी में डालकर छानें। हरी मिर्च और 60 मिली पानी के साथ चिकना हरा पेस्ट पीसें।",
+        "टोफू दबाकर टुकड़े काटें और सुखाएँ। 15 मिली तेल गरम करके हर तरफ 2 मिनट हल्का सुनहरा सेंकें; निकालें।",
+        "बचे तेल में जीरा चटकाएँ। प्याज़ 7 मिनट भूनें, अदरक-लहसुन पेस्ट 1 मिनट, फिर टमाटर और 5 ग्राम नमक 6 मिनट नरम होने तक पकाएँ।",
+        "पालक प्यूरी और बचा पानी डालें। 4–5 मिनट बिना ढके चलाते हुए पकाएँ, लंबे उबाल से बचें ताकि रंग चटकीला रहे।",
+        "टोफू, गरम मसाला और बचा नमक मिलाएँ। 3 मिनट हल्का गरम करके रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "पालक का हरा रंग बनाए रखने के लिए उबालने के बाद तुरंत ठंडा करें; टोफू अंत में डालें।"
+      ]
+    },
+    "gu": {
+      "name": "પાલક ટોફુ",
+      "ingredients": [
+        "ઘણું મજબૂત ટોફુ, દબાવી ટુકડામાં",
+        "તાજા પાલકનાં પાન",
+        "ડુંગળી, સમારેલી",
+        "ટામેટું, સમારેલું",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું",
+        "જીરું",
+        "ગરમ મસાલો",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ધોયેલા પાલકને 1 મિનિટ ઉકળતા પાણીમાં નાખો, પછી ઠંડા પાણીમાં મૂકી નિતારો. લીલા મરચા અને 60 મિ.લી. પાણી સાથે લીસી લીલી પેસ્ટ પીસો.",
+        "ટોફુ દબાવી ટુકડા કરો અને સૂકવો. 15 મિ.લી. તેલ ગરમ કરી દરેક બાજુ 2 મિનિટ આછું સોનેરી સેકી કાઢો.",
+        "બાકી તેલમાં જીરું ચટકાવો. ડુંગળી 7 મિનિટ શેકો, આદુ-લસણની પેસ્ટ 1 મિનિટ, પછી ટામેટું અને 5 ગ્રામ મીઠું 6 મિનિટ નરમ થાય ત્યાં સુધી રાંધો.",
+        "પાલકની પ્યૂરી અને બાકી પાણી નાખો. 4–5 મિનિટ ઢાંક્યા વગર હલાવી રાંધો, લાંબો ઉકાળો ટાળો જેથી રંગ ચમકતો રહે.",
+        "ટોફુ, ગરમ મસાલો અને બાકી મીઠું ભેળવો. 3 મિનિટ હળવું ગરમ કરી રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "પાલકનો લીલો રંગ જળવાય તે માટે બાફ્યા પછી તરત ઠંડો કરો; ટોફુ અંતે નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://holycowvegan.net/palak-paneer/",
+    "use": "Spinach-tofu curry and blanching technique; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/palak-tofu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0281",
+  "id": "rajasthani-haldi-ki-sabzi",
+  "status": "published-third-100-intake-batch",
+  "name": "Rajasthani Haldi ki Sabzi",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "fresh turmeric root, peeled and grated",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wear gloves to peel and grate fresh turmeric finely. Boil peas 3 minutes and drain; whisk yogurt smooth with 120 ml water.",
+    "Heat ghee on medium-low heat. Add cumin, then grated turmeric and ginger; cook 8–10 minutes, stirring often, until the raw sharpness softens and turmeric turns golden.",
+    "Add green chili, coriander powder, red chili powder and salt. Stir 1 minute, then add peas and cook 3 minutes to coat them with spiced turmeric.",
+    "Turn heat low. Add whisked yogurt gradually, stirring continuously, and simmer gently 5 minutes without a hard boil so it does not split.",
+    "Taste for salt, garnish with coriander and serve warm in small portions with bajra roti or chapati."
+  ],
+  "tips": [
+    "This winter dish uses fresh turmeric root, not a large quantity of dried turmeric powder."
+  ],
+  "translations": {
+    "hi": {
+      "name": "राजस्थानी हल्दी की सब्ज़ी",
+      "ingredients": [
+        "ताज़ी हल्दी की जड़, छीलकर कसी",
+        "हरे मटर",
+        "सादा दही",
+        "घी",
+        "अदरक, कसा",
+        "हरी मिर्च, कटी",
+        "जीरा",
+        "धनिया पाउडर",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "हाथ रंगने से बचाने को दस्ताने पहनकर ताज़ी हल्दी छीलें और बारीक कसें। मटर 3 मिनट उबालकर छानें; दही को 120 मि.ली. पानी से फेंटें।",
+        "घी मध्यम-धीमी आँच पर गरम करें। जीरा, फिर कसी हल्दी और अदरक डालकर 8–10 मिनट बार-बार चलाएँ, जब तक कच्ची तीखापन घटे और हल्दी सुनहरी हो।",
+        "हरी मिर्च, धनिया, लाल मिर्च और नमक डालकर 1 मिनट चलाएँ। मटर डालकर 3 मिनट भूनें ताकि हल्दी का मसाला चढ़े।",
+        "आँच धीमी करें। फेंटा दही धीरे-धीरे लगातार चलाते हुए डालें और बिना तेज़ उबाल के 5 मिनट पकाएँ ताकि फटे नहीं।",
+        "नमक जाँचें, हरा धनिया डालें और बाजरे की रोटी या चपाती के साथ थोड़ी मात्रा में गरम परोसें।"
+      ],
+      "tips": [
+        "इस सर्दियों की सब्ज़ी में ताज़ी हल्दी की जड़ लें, बहुत सारा सूखा हल्दी पाउडर नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "રાજસ્થાની હળદરનું શાક",
+      "ingredients": [
+        "તાજી હળદરની ગાંઠ, છોલી છીણેલી",
+        "લીલા વટાણા",
+        "સાદું દહીં",
+        "ઘી",
+        "આદુ, છીણેલું",
+        "લીલું મરચું, સમારેલું",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "હાથ રંગાય નહીં માટે હાથમોજાં પહેરી તાજી હળદર છોલી ઝીણી છીણો. વટાણા 3 મિનિટ બાફી નિતારો; દહીંને 120 મિ.લી. પાણીથી ફેંટો.",
+        "ઘી મધ્યમથી ધીમા તાપે ગરમ કરો. જીરું, પછી છીણેલી હળદર અને આદુ નાખી 8–10 મિનિટ વારંવાર હલાવો, કાચી તીખાશ ઘટે અને હળદર સોનેરી થાય ત્યાં સુધી.",
+        "લીલું મરચું, ધાણા, લાલ મરચું અને મીઠું નાખી 1 મિનિટ હલાવો. વટાણા નાખી 3 મિનિટ શેકો જેથી હળદરનો મસાલો ચડે.",
+        "તાપ ધીમો કરો. ફેંટેલું દહીં ધીમે ધીમે સતત હલાવી નાખો અને જોરદાર ઉકાળો ટાળી 5 મિનિટ રાંધો જેથી ફાટે નહીં.",
+        "મીઠું ચાખો, કોથમીર નાખો અને બાજરીની રોટલી કે ચપાટી સાથે થોડા પ્રમાણમાં ગરમ પીરસો."
+      ],
+      "tips": [
+        "આ શિયાળાના શાકમાં તાજી હળદરની ગાંઠ લો, ખૂબ સૂકો હળદર પાઉડર નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.whiskaffair.com/kacchi-haldi-ki-sabzi/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/rajasthani-haldi-ki-sabzi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

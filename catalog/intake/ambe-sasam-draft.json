@@ -1,22 +1,61 @@
 {
   "sourceReviewId": "R0238",
   "id": "ambe-sasam",
-  "status": "draft-photo-and-translation-reviewed",
+  "status": "published-third-100-intake-batch",
   "name": "Ambe Sasam",
   "cuisine": "Konkani",
-  "categories": ["Lunch", "Dinner"],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
   "baseServings": 4,
   "prepAndCookMinutes": 25,
   "ingredients": [
-    {"name":"firm ripe mango flesh, cut into chunks","qty":600,"unit":"g"},
-    {"name":"fresh grated coconut","qty":150,"unit":"g"},
-    {"name":"dried red chilies","qty":8,"unit":"g"},
-    {"name":"black mustard seeds","qty":8,"unit":"g"},
-    {"name":"jaggery, grated","qty":18,"unit":"g"},
-    {"name":"water","qty":180,"unit":"ml"},
-    {"name":"coconut oil","qty":15,"unit":"ml"},
-    {"name":"fresh curry leaves","qty":8,"unit":"g"},
-    {"name":"salt","qty":5,"unit":"g"}
+    {
+      "name": "firm ripe mango flesh, cut into chunks",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black mustard seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery, grated",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
   ],
   "steps": [
     "Choose mangoes that are ripe and sweet but still firm enough to cut. Peel, cut the flesh into generous chunks, and collect any juice in the serving bowl.",
@@ -25,11 +64,23 @@
     "Warm coconut oil in a small pan. Crackle the remaining 3 g mustard seeds, then fry the remaining 2 g dried chili and curry leaves for 20 seconds. Pour over the mango mixture.",
     "Rest covered for 10 minutes, then serve at room temperature alongside rice and a mild dal. Do not simmer the ripe mango; its fresh texture is part of this Konkani dish."
   ],
-  "tips": ["Use sweet, fragrant ripe mango, not sour green mango. If mangoes are very sweet, reduce jaggery after tasting; grind mustard briefly to avoid bitterness."],
+  "tips": [
+    "Use sweet, fragrant ripe mango, not sour green mango. If mangoes are very sweet, reduce jaggery after tasting; grind mustard briefly to avoid bitterness."
+  ],
   "translations": {
     "hi": {
       "name": "आंबे सासम",
-      "ingredients": ["पके लेकिन सख़्त आम के गूदे के बड़े टुकड़े","ताज़ा कसा नारियल","सूखी लाल मिर्च","राई","कसा गुड़","पानी","नारियल तेल","ताज़े करी पत्ते","नमक"],
+      "ingredients": [
+        "पके लेकिन सख़्त आम के गूदे के बड़े टुकड़े",
+        "ताज़ा कसा नारियल",
+        "सूखी लाल मिर्च",
+        "राई",
+        "कसा गुड़",
+        "पानी",
+        "नारियल तेल",
+        "ताज़े करी पत्ते",
+        "नमक"
+      ],
       "steps": [
         "ऐसे आम चुनें जो मीठे और पके हों, फिर भी काटने लायक सख़्त हों। छीलकर गूदे के बड़े टुकड़े करें और निकला रस परोसने वाले कटोरे में रखें।",
         "6 ग्राम सूखी लाल मिर्च को 1 मिनट बिना तेल भूनें। इसे नारियल, 5 ग्राम राई और 120 मिली पानी के साथ गाढ़ा चिकना पीसें; चिकना होते ही रोकें ताकि राई कड़वी न हो।",
@@ -37,11 +88,23 @@
         "छोटे पैन में नारियल तेल गरम करें। बची 3 ग्राम राई चटकाएँ, फिर बची 2 ग्राम सूखी मिर्च और करी पत्ते 20 सेकंड भूनें। तड़का आम पर डालें।",
         "ढककर 10 मिनट रखें, फिर चावल और हल्की दाल के साथ कमरे के तापमान पर परोसें। पके आम को न उबालें; उसकी ताज़ी बनावट इस कोंकणी व्यंजन की पहचान है।"
       ],
-      "tips": ["मीठे, सुगंधित पके आम लें, खट्टे कच्चे आम नहीं। आम बहुत मीठे हों तो चखकर गुड़ घटाएँ; राई को ज़्यादा न पीसें, वरना कड़वाहट आएगी।"]
+      "tips": [
+        "मीठे, सुगंधित पके आम लें, खट्टे कच्चे आम नहीं। आम बहुत मीठे हों तो चखकर गुड़ घटाएँ; राई को ज़्यादा न पीसें, वरना कड़वाहट आएगी।"
+      ]
     },
     "gu": {
       "name": "આંબે સાસમ",
-      "ingredients": ["પાકેલી પણ કઠણ કેરીના મોટા ટુકડા","તાજું છીણેલું નાળિયેર","સૂકાં લાલ મરચાં","રાઈ","છીણેલો ગોળ","પાણી","નાળિયેરનું તેલ","તાજા મીઠા લીમડાનાં પાન","મીઠું"],
+      "ingredients": [
+        "પાકેલી પણ કઠણ કેરીના મોટા ટુકડા",
+        "તાજું છીણેલું નાળિયેર",
+        "સૂકાં લાલ મરચાં",
+        "રાઈ",
+        "છીણેલો ગોળ",
+        "પાણી",
+        "નાળિયેરનું તેલ",
+        "તાજા મીઠા લીમડાનાં પાન",
+        "મીઠું"
+      ],
       "steps": [
         "મીઠી અને પાકેલી, છતાં કાપી શકાય એટલી કઠણ કેરી પસંદ કરો. છોલીને ગરનાં મોટા ટુકડા કરો અને નીકળેલો રસ પીરસવાના વાટકામાં ભેગો કરો.",
         "6 ગ્રામ સૂકાં લાલ મરચાંને 1 મિનિટ તેલ વગર શેકો. તેને નાળિયેર, 5 ગ્રામ રાઈ અને 120 મિલી પાણી સાથે જાડી સુંવાળી પેસ્ટ વાટો; સુંવાળી થાય કે તરત રોકો જેથી રાઈ કડવી ન બને.",
@@ -49,8 +112,15 @@
         "નાના પૅનમાં નાળિયેરનું તેલ ગરમ કરો. બચેલી 3 ગ્રામ રાઈ તતડાવો, પછી બચેલાં 2 ગ્રામ સૂકાં મરચાં અને મીઠા લીમડાનાં પાન 20 સેકન્ડ સાંતળો. વઘાર કેરી પર રેડો.",
         "ઢાંકીને 10 મિનિટ રાખો, પછી ભાત અને હળવી દાળ સાથે સામાન્ય તાપમાને પીરસો. પાકેલી કેરી ઉકાળશો નહીં; તેની તાજી બનાવટ આ કોંકણી વાનગીની ઓળખ છે."
       ],
-      "tips": ["મીઠી, સુગંધિત પાકેલી કેરી લો, ખાટી કાચી કેરી નહીં. કેરી બહુ મીઠી હોય તો ચાખીને ગોળ ઘટાડો; રાઈ વધુ ન વાટો, નહીં તો કડવાશ આવશે."]
+      "tips": [
+        "મીઠી, સુગંધિત પાકેલી કેરી લો, ખાટી કાચી કેરી નહીં. કેરી બહુ મીઠી હોય તો ચાખીને ગોળ ઘટાડો; રાઈ વધુ ન વાટો, નહીં તો કડવાશ આવશે."
+      ]
     }
   },
-  "reference": {"url":"https://www.konkanifoodrecipes.com/recipes/pineapple-mango-in-a-spicy-sweet-coconut-gravy-avnas-ambe-sasam","use":"Konkani mango, coconut and mustard preparation informed dish identity; measurements and wording independently authored for mango-only Ambe Sasam."}
+  "reference": {
+    "url": "https://www.konkanifoodrecipes.com/recipes/pineapple-mango-in-a-spicy-sweet-coconut-gravy-avnas-ambe-sasam",
+    "use": "Konkani mango, coconut and mustard preparation informed dish identity; measurements and wording independently authored for mango-only Ambe Sasam."
+  },
+  "photoDraft": "catalog/intake/photos/ambe-sasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

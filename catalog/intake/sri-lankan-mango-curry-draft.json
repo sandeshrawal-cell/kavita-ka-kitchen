@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0248",
+  "id": "sri-lankan-mango-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Sri Lankan Mango Curry",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "firm unripe green mangoes, wedged",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "Sri Lankan curry powder",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash firm green mangoes and cut around each stone into thick wedges, keeping the peel on to help them hold their shape. Do not use soft ripe mangoes.",
+    "Heat coconut oil in a deep pan. Crackle mustard seeds, then add onion and curry leaves for 5 minutes. Stir in garlic and ginger for 1 minute.",
+    "Add curry powder, turmeric and chilli with a splash of water and fry 1 minute. Add mango wedges, 180 ml water, sugar and salt, then cover and simmer 8–10 minutes until the mango begins to soften.",
+    "Pour in coconut milk and simmer uncovered for 8–10 minutes until the mango is tender but not collapsing and the sauce coats a spoon. Stir gently to avoid breaking the wedges.",
+    "Taste for sour-sweet balance, adding a little more sugar only if the mango is very tart. Rest 5 minutes and serve with rice and a mild dhal."
+  ],
+  "tips": [
+    "Choose hard green mangoes; their acidity is the defining flavour, while a small amount of sugar rounds off excessive tartness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "श्रीलंकाई आम करी",
+      "ingredients": [
+        "सख्त कच्चे हरे आम, फाँकों में",
+        "प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "अदरक, कद्दूकस",
+        "नारियल दूध",
+        "पानी",
+        "श्रीलंकाई करी पाउडर",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "करी पत्ते",
+        "राई",
+        "नारियल तेल",
+        "भूरी चीनी",
+        "नमक"
+      ],
+      "steps": [
+        "सख्त हरे आम धोकर गुठली के चारों ओर मोटी फाँकें काटें; छिलका रहने दें ताकि आकार बना रहे। नरम पके आम न लें।",
+        "गहरे पैन में नारियल तेल गरम करें। राई चटकाएँ, फिर प्याज़ और करी पत्ते 5 मिनट पकाएँ। लहसुन और अदरक 1 मिनट चलाएँ।",
+        "करी पाउडर, हल्दी और मिर्च थोड़ा पानी डालकर 1 मिनट भूनें। आम की फाँकें, 180 मिली पानी, चीनी और नमक डालें, ढककर 8–10 मिनट आम नरम होने तक उबालें।",
+        "नारियल दूध डालकर 8–10 मिनट बिना ढके उबालें जब तक आम नरम पर साबुत और रस चम्मच पर चढ़े। फाँकें न टूटें इसलिए धीरे चलाएँ।",
+        "खट्टा-मीठा स्वाद चखें, आम बहुत खट्टा हो तभी थोड़ी और चीनी डालें। 5 मिनट रखकर चावल और हल्की दाल के साथ परोसें।"
+      ],
+      "tips": [
+        "सख्त हरे आम लें; उनका खट्टापन इस करी का मुख्य स्वाद है, थोड़ी चीनी अधिक खटास को संतुलित करती है।"
+      ]
+    },
+    "gu": {
+      "name": "શ્રીલંકન કેરી કરી",
+      "ingredients": [
+        "કડક કાચી લીલી કેરી, ફાડામાં",
+        "ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "આદુ, છીણેલું",
+        "નાળિયેરનું દૂધ",
+        "પાણી",
+        "શ્રીલંકન કરી પાઉડર",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "મીઠા લીમડાનાં પાન",
+        "રાઈ",
+        "નાળિયેરનું તેલ",
+        "ભૂરી ખાંડ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કડક લીલી કેરી ધોઈ ગોટલાની આસપાસ જાડા ફાડા કરો; આકાર રહે તેથી છાલ રાખો. નરમ પાકેલી કેરી ન લો.",
+        "ઊંડા પૅનમાં નાળિયેરનું તેલ ગરમ કરો. રાઈ તતડાવો, પછી ડુંગળી અને મીઠા લીમડાનાં પાન 5 મિનિટ રાંધો. લસણ અને આદુ 1 મિનિટ હલાવો.",
+        "કરી પાઉડર, હળદર અને મરચું થોડા પાણી સાથે 1 મિનિટ શેકો. કેરીના ફાડા, 180 મિલી પાણી, ખાંડ અને મીઠું નાખી ઢાંકી 8–10 મિનિટ કેરી નરમ થવા લાગે ત્યાં સુધી ઉકાળો.",
+        "નાળિયેરનું દૂધ નાખી 8–10 મિનિટ ઢાંક્યા વગર કેરી નરમ પરંતુ આખી અને રસો ચમચાને ચોંટે ત્યાં સુધી ઉકાળો. ફાડા ન તૂટે તેમ હળવેથી હલાવો.",
+        "ખાટો-મીઠો સ્વાદ ચાખો, કેરી ખૂબ ખાટી હોય તો જ થોડી વધુ ખાંડ નાખો. 5 મિનિટ રાખી ભાત અને હળવી દાળ સાથે પીરસો."
+      ],
+      "tips": [
+        "કડક લીલી કેરી લો; તેની ખટાશ આ કરીનો મુખ્ય સ્વાદ છે, થોડી ખાંડ વધુ ખટાશ સંતુલિત કરે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.hungrylankan.com/recipes/sri-lankan-mango-curry/",
+    "use": "Sri Lankan firm green mango curry identity; quantities and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/sri-lankan-mango-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0267",
+  "id": "cabbage-kofta",
+  "status": "published-third-100-intake-batch",
+  "name": "Cabbage Kofta",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "cabbage, finely shredded",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toss shredded cabbage with 4 g salt and leave 10 minutes. Squeeze firmly to remove excess water; this keeps kofta from falling apart.",
+    "Mix squeezed cabbage with chickpea flour, half the green chili and half the coriander leaves. Shape 12 compact balls; add a spoon of squeezed cabbage liquid only if the mixture is too dry.",
+    "Heat 75 ml oil in a deep pan. Fry the kofta in batches over medium heat for 5–6 minutes until cooked through and golden; drain well.",
+    "Heat remaining oil in a separate pan. Add cumin and onion, cooking 7 minutes until golden. Add ginger-garlic paste, remaining chili, tomato puree, coriander powder, turmeric and remaining salt; cook 8 minutes until thick.",
+    "Add 220 ml water and simmer gravy for 5 minutes. Place kofta in the serving bowl, ladle gravy over just before serving, and garnish with coriander."
+  ],
+  "tips": [
+    "Finely shred and squeeze cabbage; wet cabbage makes the kofta oil-heavy and fragile."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पत्ता गोभी कोफ्ता",
+      "ingredients": [
+        "पत्ता गोभी, बारीक कटी",
+        "बेसन",
+        "प्याज़, बारीक कटा",
+        "टमाटर प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च, कटी",
+        "धनिया पाउडर",
+        "हल्दी पाउडर",
+        "जीरा",
+        "हल्का तेल",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "कटी गोभी में 4 ग्राम नमक मिलाकर 10 मिनट रखें। अतिरिक्त पानी अच्छी तरह निचोड़ें; इससे कोफ्ते टूटेंगे नहीं।",
+        "निचोड़ी गोभी में बेसन, आधी हरी मिर्च और आधा धनिया मिलाएँ। 12 कसे गोले बनाएँ; मिश्रण सूखा हो तभी थोड़ा निचोड़ा पानी डालें।",
+        "गहरे पैन में 75 मि.ली. तेल गरम करें। कोफ्ते मध्यम आँच पर थोड़े-थोड़े 5–6 मिनट भीतर तक पकने और सुनहरे होने तक तलें; छानें।",
+        "अलग पैन में बचा तेल गरम करें। जीरा और प्याज़ 7 मिनट सुनहरा करें। अदरक-लहसुन, बची मिर्च, टमाटर प्यूरी, धनिया, हल्दी और बचा नमक डालकर 8 मिनट गाढ़ा करें।",
+        "220 मि.ली. पानी डालकर ग्रेवी 5 मिनट उबालें। कोफ्ते परोसने की कटोरी में रखें, खाने से ठीक पहले ऊपर ग्रेवी डालें और धनिया से सजाएँ।"
+      ],
+      "tips": [
+        "गोभी बारीक काटकर निचोड़ें; गीली गोभी से कोफ्ते तेलदार और नाज़ुक बनते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કોબીજ કોફ્તા",
+      "ingredients": [
+        "કોબીજ, ઝીણી સમારેલી",
+        "ચણાનો લોટ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાની પ્યુરી",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું, સમારેલું",
+        "ધાણા પાઉડર",
+        "હળદર પાઉડર",
+        "જીરું",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સમારેલી કોબીજમાં 4 ગ્રામ મીઠું ભેળવી 10 મિનિટ રાખો. વધારાનું પાણી સારી રીતે નીચોવો જેથી કોફ્તા તૂટે નહીં.",
+        "નીચોવેલી કોબીજમાં ચણાનો લોટ, અડધું મરચું અને અડધી કોથમીર ભેળવો. 12 ઘટ્ટ ગોળા બનાવો; મિશ્રણ સૂકું હોય તો જ થોડું નીચોવેલું પાણી ઉમેરો.",
+        "ઊંડી કડાઈમાં 75 મિ.લી. તેલ ગરમ કરો. કોફ્તા મધ્યમ તાપે થોડા થોડા 5–6 મિનિટ અંદરથી પાકે અને સોનેરી થાય ત્યાં સુધી તળો; નિતારો.",
+        "અલગ કડાઈમાં બાકીનું તેલ ગરમ કરો. જીરું અને ડુંગળી 7 મિનિટ સોનેરી કરો. આદુ-લસણ, બાકી મરચું, ટામેટાની પ્યુરી, ધાણા, હળદર અને બાકીનું મીઠું નાખી 8 મિનિટ ઘટ્ટ કરો.",
+        "220 મિ.લી. પાણી નાખી ગ્રેવી 5 મિનિટ ઉકાળો. કોફ્તા પીરસવાની વાટકીમાં મૂકો, ખાતા પહેલાં જ ઉપર ગ્રેવી રેડી કોથમીરથી સજાવો."
+      ],
+      "tips": [
+        "કોબીજ ઝીણી કાપી નીચોવો; ભીની કોબીજથી કોફ્તા તેલિયા અને નાજુક બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/veg-kofta-curry-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/cabbage-kofta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

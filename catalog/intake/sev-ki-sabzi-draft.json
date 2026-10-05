@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0282",
+  "id": "sev-ki-sabzi",
+  "status": "published-third-100-intake-batch",
+  "name": "Sev ki Sabzi",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "thick plain besan sev",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ripe tomato, chopped",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Choose thick sev that will hold its shape in hot gravy. Chop tomatoes finely and keep the sev dry until the moment of serving.",
+    "Heat oil in a pan; add mustard and cumin and let them crackle for 30 seconds. Add chopped tomato, turmeric, chili, coriander powder and salt.",
+    "Cook 8–10 minutes, stirring often, until tomatoes break down to a glossy thick sauce. Add jaggery and stir until dissolved.",
+    "Add 250 ml water and simmer 4 minutes. Taste for a balanced sweet-tangy-spicy flavor; adjust salt if needed.",
+    "Turn off heat. Fold in half the sev briefly, ladle into bowls, then top with remaining crisp sev and coriander. Serve immediately with rotli."
+  ],
+  "tips": [
+    "Use thick sev, not fine chaat sev; add it at serving time to avoid a soggy curry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सेव की सब्ज़ी",
+      "ingredients": [
+        "मोटी सादी बेसन सेव",
+        "पके टमाटर, कटे",
+        "हल्का तेल",
+        "जीरा",
+        "राई",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गुड़",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मोटी सेव लें जो गरम ग्रेवी में आकार बनाए रखे। टमाटर बारीक काटें और सेव परोसने तक सूखी रखें।",
+        "पैन में तेल गरम कर राई और जीरा 30 सेकंड चटकाएँ। टमाटर, हल्दी, मिर्च, धनिया पाउडर और नमक डालें।",
+        "8–10 मिनट बार-बार चलाकर टमाटर गाढ़ी चमकदार चटनी जैसे करें। गुड़ डालकर घुलने तक मिलाएँ।",
+        "250 मि.ली. पानी डालकर 4 मिनट पकाएँ। मीठा-खट्टा-तीखा संतुलन चखें; ज़रूरत हो तो नमक बढ़ाएँ।",
+        "आँच बंद करें। आधी सेव थोड़ी देर मिलाकर कटोरियों में निकालें, ऊपर बची कुरकुरी सेव और धनिया डालें। रोटली के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "मोटी सेव लें, चाट की बारीक सेव नहीं; गलने से बचाने को परोसते समय डालें।"
+      ]
+    },
+    "gu": {
+      "name": "સેવનું શાક",
+      "ingredients": [
+        "જાડી સાદી ચણાના લોટની સેવ",
+        "પાકા ટામેટાં, સમારેલાં",
+        "હળવું તેલ",
+        "જીરું",
+        "રાઈ",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગોળ",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "જાડી સેવ લો જે ગરમ ગ્રેવીમાં આકાર રાખે. ટામેટાં ઝીણાં સમારો અને સેવ પીરસતા સુધી સૂકી રાખો.",
+        "કડાઈમાં તેલ ગરમ કરી રાઈ અને જીરું 30 સેકંડ તડકાવો. ટામેટાં, હળદર, મરચું, ધાણા પાઉડર અને મીઠું નાખો.",
+        "8–10 મિનિટ વારંવાર હલાવી ટામેટાં ઘટ્ટ ચમકતી ચટણી જેવાં કરો. ગોળ નાખી ઓગળે ત્યાં સુધી ભેળવો.",
+        "250 મિ.લી. પાણી નાખી 4 મિનિટ રાંધો. ગળ્યા-ખાટા-તીખા સ્વાદનું સંતુલન ચાખો; જરૂર હોય તો મીઠું વધારો.",
+        "તાપ બંધ કરો. અડધી સેવ થોડી વાર ભેળવી વાટકીઓમાં કાઢો, ઉપર બાકી કરકરી સેવ અને કોથમીર નાખો. રોટલી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "જાડી સેવ લો, ચાટની ઝીણી સેવ નહીં; ઢીલી ન પડે માટે પીરસતા સમયે ઉમેરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/sev-tameta-nu-shaak-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/sev-ki-sabzi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

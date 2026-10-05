@@ -1,31 +1,154 @@
 {
- "sourceReviewId":"R0300","id":"sri-lankan-beetroot-curry","status":"draft-photo-and-translation-reviewed","name":"Sri Lankan Beetroot Curry","cuisine":"Sri Lankan","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":40,
- "ingredients":[
-  {"name":"beetroot, peeled and diced","qty":600,"unit":"g"},
-  {"name":"coconut milk","qty":400,"unit":"ml"},
-  {"name":"onion, finely sliced","qty":180,"unit":"g"},
-  {"name":"garlic, minced","qty":15,"unit":"g"},
-  {"name":"fresh curry leaves","qty":12,"unit":"g"},
-  {"name":"black mustard seeds","qty":5,"unit":"g"},
-  {"name":"fenugreek seeds","qty":3,"unit":"g"},
-  {"name":"ground turmeric","qty":4,"unit":"g"},
-  {"name":"cinnamon stick","qty":3,"unit":"g"},
-  {"name":"white vinegar","qty":20,"unit":"ml"},
-  {"name":"coconut oil","qty":25,"unit":"ml"},
-  {"name":"salt","qty":8,"unit":"g"},
-  {"name":"water","qty":150,"unit":"ml"}
- ],
- "steps":[
-  "Peel beetroot and dice it into even 1.5 cm cubes so it cooks uniformly. Thinly slice onion and keep the curry leaves ready; beetroot may stain work surfaces.",
-  "Heat coconut oil in a heavy pan over medium heat. Add mustard and fenugreek seeds, then curry leaves and cinnamon; stir for 30 seconds until aromatic.",
-  "Add onion and cook for 5 minutes until soft. Stir in garlic and turmeric for 1 minute, then add diced beetroot and salt and toss until each piece is coated.",
-  "Pour in 150 ml water, cover and simmer for 15 minutes. Stir in coconut milk and cook gently for another 8 minutes until the beetroot is tender and the sauce is vivid pink; avoid a fierce boil.",
-  "Stir in vinegar, simmer for 1 minute and taste. Remove the cinnamon stick and serve with rice while the beetroot pieces still hold their shape."
- ],
- "tips":["The vinegar balances beetroot's sweetness and brightens its colour. Add coconut milk after the beetroot has partly softened, then keep the heat gentle."],
- "translations":{
-  "hi":{"name":"श्रीलंकाई चुकंदर करी","ingredients":["चुकंदर, छीलकर छोटे टुकड़े","नारियल का दूध","प्याज़, बारीक कटा","लहसुन, बारीक कटा","ताज़े करी पत्ते","काली राई","मेथी दाना","पिसी हल्दी","दालचीनी की डंडी","सफेद सिरका","नारियल तेल","नमक","पानी"],"steps":["चुकंदर छीलकर एक समान 1.5 सेमी टुकड़े काटें ताकि बराबर पकें। प्याज़ पतला काटें और करी पत्ते तैयार रखें; चुकंदर से सतह पर रंग लग सकता है।","भारी पैन में नारियल तेल मध्यम आँच पर गरम करें। राई और मेथी दाना डालें, फिर करी पत्ते और दालचीनी; खुशबू आने तक 30 सेकंड चलाएँ।","प्याज़ 5 मिनट नरम होने तक पकाएँ। लहसुन और हल्दी 1 मिनट चलाएँ, फिर कटा चुकंदर और नमक डालकर हर टुकड़े पर मसाला लगाएँ।","150 मिली पानी डालकर ढकें और 15 मिनट उबालें। नारियल दूध मिलाएँ और और 8 मिनट धीमे पकाएँ, जब तक चुकंदर नरम और सॉस चमकीली गुलाबी हो; तेज़ उबाल न आने दें।","सिरका मिलाकर 1 मिनट उबालें और चखें। दालचीनी की डंडी निकालें और चावल के साथ परोसें, जब चुकंदर के टुकड़े अपना आकार बनाए रखें।"],"tips":["सिरका चुकंदर की मिठास संतुलित कर रंग चमकाता है। चुकंदर कुछ नरम होने के बाद नारियल दूध डालें और फिर आँच धीमी रखें।"]},
-  "gu":{"name":"શ્રીલંકન બીટ કરી","ingredients":["બીટ, છાલ ઉતારી નાના ટુકડા","નાળિયેરનું દૂધ","ડુંગળી, બારીક સમારેલી","લસણ, બારીક સમારેલું","તાજા મીઠા લીમડાના પાન","કાળી રાઈ","મેથી દાણા","દળેલી હળદર","તજની ડાંડી","સફેદ સરકો","નાળિયેરનું તેલ","મીઠું","પાણી"],"steps":["બીટ છોલી સરખા 1.5 સેમી ટુકડા કાપો જેથી સમાન રીતે રંધાય. ડુંગળી પાતળી કાપો અને મીઠા લીમડાનાં પાન તૈયાર રાખો; બીટ કામની સપાટી પર રંગ મૂકી શકે.","ભારે પૅનમાં નાળિયેર તેલ મધ્યમ તાપે ગરમ કરો. રાઈ અને મેથી દાણા નાખો, પછી મીઠા લીમડાનાં પાન અને તજ નાખી સુગંધ આવે ત્યાં સુધી 30 સેકન્ડ હલાવો.","ડુંગળી 5 મિનિટ નરમ થાય ત્યાં સુધી રાંધો. લસણ અને હળદર 1 મિનિટ હલાવો, પછી સમારેલું બીટ અને મીઠું નાખી દરેક ટુકડાને મસાલો ચડાવો.","150 મિલી પાણી નાખી ઢાંકો અને 15 મિનિટ ઉકાળો. નાળિયેર દૂધ ભેળવી વધુ 8 મિનિટ ધીમે રાંધો, બીટ નરમ અને સોસ ચમકતી ગુલાબી થાય ત્યાં સુધી; જોરનો ઉકાળો ટાળો.","સરકો ભેળવી 1 મિનિટ ઉકાળો અને ચાખો. તજની ડાંડી કાઢો અને બીટના ટુકડા અખંડ હોય ત્યારે ભાત સાથે પીરસો."],"tips":["સરકો બીટની મીઠાશ સંતુલિત કરી રંગ ચમકાવે છે. બીટ થોડું નરમ થયા પછી નાળિયેર દૂધ ઉમેરો અને પછી તાપ ધીમો રાખો."]}
- },
- "reference":{"url":"https://www.hungrylankan.com/recipes/sri-lankan-beetroot-curry/","use":"Sri Lankan beetroot-coconut curry and vinegar balance informed this independently measured recipe and reviewed photo."}
+  "sourceReviewId": "R0300",
+  "id": "sri-lankan-beetroot-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Sri Lankan Beetroot Curry",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "beetroot, peeled and diced",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, finely sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "black mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel beetroot and dice it into even 1.5 cm cubes so it cooks uniformly. Thinly slice onion and keep the curry leaves ready; beetroot may stain work surfaces.",
+    "Heat coconut oil in a heavy pan over medium heat. Add mustard and fenugreek seeds, then curry leaves and cinnamon; stir for 30 seconds until aromatic.",
+    "Add onion and cook for 5 minutes until soft. Stir in garlic and turmeric for 1 minute, then add diced beetroot and salt and toss until each piece is coated.",
+    "Pour in 150 ml water, cover and simmer for 15 minutes. Stir in coconut milk and cook gently for another 8 minutes until the beetroot is tender and the sauce is vivid pink; avoid a fierce boil.",
+    "Stir in vinegar, simmer for 1 minute and taste. Remove the cinnamon stick and serve with rice while the beetroot pieces still hold their shape."
+  ],
+  "tips": [
+    "The vinegar balances beetroot's sweetness and brightens its colour. Add coconut milk after the beetroot has partly softened, then keep the heat gentle."
+  ],
+  "translations": {
+    "hi": {
+      "name": "श्रीलंकाई चुकंदर करी",
+      "ingredients": [
+        "चुकंदर, छीलकर छोटे टुकड़े",
+        "नारियल का दूध",
+        "प्याज़, बारीक कटा",
+        "लहसुन, बारीक कटा",
+        "ताज़े करी पत्ते",
+        "काली राई",
+        "मेथी दाना",
+        "पिसी हल्दी",
+        "दालचीनी की डंडी",
+        "सफेद सिरका",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चुकंदर छीलकर एक समान 1.5 सेमी टुकड़े काटें ताकि बराबर पकें। प्याज़ पतला काटें और करी पत्ते तैयार रखें; चुकंदर से सतह पर रंग लग सकता है।",
+        "भारी पैन में नारियल तेल मध्यम आँच पर गरम करें। राई और मेथी दाना डालें, फिर करी पत्ते और दालचीनी; खुशबू आने तक 30 सेकंड चलाएँ।",
+        "प्याज़ 5 मिनट नरम होने तक पकाएँ। लहसुन और हल्दी 1 मिनट चलाएँ, फिर कटा चुकंदर और नमक डालकर हर टुकड़े पर मसाला लगाएँ।",
+        "150 मिली पानी डालकर ढकें और 15 मिनट उबालें। नारियल दूध मिलाएँ और और 8 मिनट धीमे पकाएँ, जब तक चुकंदर नरम और सॉस चमकीली गुलाबी हो; तेज़ उबाल न आने दें।",
+        "सिरका मिलाकर 1 मिनट उबालें और चखें। दालचीनी की डंडी निकालें और चावल के साथ परोसें, जब चुकंदर के टुकड़े अपना आकार बनाए रखें।"
+      ],
+      "tips": [
+        "सिरका चुकंदर की मिठास संतुलित कर रंग चमकाता है। चुकंदर कुछ नरम होने के बाद नारियल दूध डालें और फिर आँच धीमी रखें।"
+      ]
+    },
+    "gu": {
+      "name": "શ્રીલંકન બીટ કરી",
+      "ingredients": [
+        "બીટ, છાલ ઉતારી નાના ટુકડા",
+        "નાળિયેરનું દૂધ",
+        "ડુંગળી, બારીક સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "તાજા મીઠા લીમડાના પાન",
+        "કાળી રાઈ",
+        "મેથી દાણા",
+        "દળેલી હળદર",
+        "તજની ડાંડી",
+        "સફેદ સરકો",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બીટ છોલી સરખા 1.5 સેમી ટુકડા કાપો જેથી સમાન રીતે રંધાય. ડુંગળી પાતળી કાપો અને મીઠા લીમડાનાં પાન તૈયાર રાખો; બીટ કામની સપાટી પર રંગ મૂકી શકે.",
+        "ભારે પૅનમાં નાળિયેર તેલ મધ્યમ તાપે ગરમ કરો. રાઈ અને મેથી દાણા નાખો, પછી મીઠા લીમડાનાં પાન અને તજ નાખી સુગંધ આવે ત્યાં સુધી 30 સેકન્ડ હલાવો.",
+        "ડુંગળી 5 મિનિટ નરમ થાય ત્યાં સુધી રાંધો. લસણ અને હળદર 1 મિનિટ હલાવો, પછી સમારેલું બીટ અને મીઠું નાખી દરેક ટુકડાને મસાલો ચડાવો.",
+        "150 મિલી પાણી નાખી ઢાંકો અને 15 મિનિટ ઉકાળો. નાળિયેર દૂધ ભેળવી વધુ 8 મિનિટ ધીમે રાંધો, બીટ નરમ અને સોસ ચમકતી ગુલાબી થાય ત્યાં સુધી; જોરનો ઉકાળો ટાળો.",
+        "સરકો ભેળવી 1 મિનિટ ઉકાળો અને ચાખો. તજની ડાંડી કાઢો અને બીટના ટુકડા અખંડ હોય ત્યારે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "સરકો બીટની મીઠાશ સંતુલિત કરી રંગ ચમકાવે છે. બીટ થોડું નરમ થયા પછી નાળિયેર દૂધ ઉમેરો અને પછી તાપ ધીમો રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.hungrylankan.com/recipes/sri-lankan-beetroot-curry/",
+    "use": "Sri Lankan beetroot-coconut curry and vinegar balance informed this independently measured recipe and reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/sri-lankan-beetroot-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

@@ -1,32 +1,161 @@
 {
- "sourceReviewId":"R0295","id":"tofu-amok","status":"draft-photo-and-translation-reviewed","name":"Tofu Amok","cuisine":"Cambodian","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":60,
- "ingredients":[
-  {"name":"firm tofu, cut into bite-size cubes","qty":500,"unit":"g"},
-  {"name":"coconut milk","qty":450,"unit":"ml"},
-  {"name":"lemongrass tender inner stalk, sliced","qty":50,"unit":"g"},
-  {"name":"galangal, sliced","qty":20,"unit":"g"},
-  {"name":"fresh turmeric, sliced","qty":25,"unit":"g"},
-  {"name":"shallots, sliced","qty":100,"unit":"g"},
-  {"name":"garlic","qty":12,"unit":"g"},
-  {"name":"red chili","qty":12,"unit":"g"},
-  {"name":"makrut lime leaves","qty":8,"unit":"g"},
-  {"name":"rice flour","qty":25,"unit":"g"},
-  {"name":"light soy sauce","qty":25,"unit":"ml"},
-  {"name":"palm sugar","qty":16,"unit":"g"},
-  {"name":"banana leaves for steaming cups","qty":80,"unit":"g"},
-  {"name":"Thai basil leaves","qty":20,"unit":"g"}
- ],
- "steps":[
-  "Pound lemongrass, galangal, turmeric, shallots, garlic and chili to a fine yellow kroeung paste. Finely shred half the lime leaves and reserve the rest for the top.",
-  "Whisk rice flour into 100 ml of the measured coconut milk until smooth. Stir in the remaining coconut milk, kroeung paste, soy sauce, palm sugar, shredded lime leaves and tofu cubes.",
-  "Rinse banana leaves and briefly pass them over low heat until pliable. Fold into four sturdy cups and place each in a heatproof bowl for support; divide the tofu mixture and basil among them.",
-  "Set the cups in a steamer over gently boiling water. Cover and steam for 20 minutes, checking that the filling is hot throughout and softly thickened; keep the leaves above the water.",
-  "Rest for 5 minutes so the coconut custard-like sauce sets slightly. Garnish with the reserved lime leaves and a few chili slices, then serve the banana-leaf cups with steamed rice; the leaves are not eaten."
- ],
- "tips":["Use rice flour rather than egg to lightly set this vegetarian amok. The banana leaves are a steaming wrapper, not an edible ingredient; a heatproof bowl supports each cup."],
- "translations":{
-  "hi":{"name":"टोफू अमोक","ingredients":["सख़्त टोफू, खाने योग्य टुकड़े","नारियल का दूध","लेमनग्रास की नरम अंदरूनी डंडी, कटी","गलगल, कटा","ताज़ी हल्दी, कटी","छोटे प्याज़, कटे","लहसुन","लाल मिर्च","मकरुत नींबू के पत्ते","चावल का आटा","हल्का सोया सॉस","पाम शुगर","भाप वाले कपों के लिए केले के पत्ते","थाई तुलसी की पत्तियाँ"],"steps":["लेमनग्रास, गलगल, हल्दी, छोटे प्याज़, लहसुन और मिर्च कूटकर महीन पीला क्रोएंग पेस्ट बनाएँ। आधे नींबू पत्ते बारीक काटें और बाकी ऊपर डालने के लिए रखें।","नापे हुए नारियल दूध के 100 मिली में चावल का आटा फेंटकर चिकना करें। बचा नारियल दूध, क्रोएंग पेस्ट, सोया सॉस, पाम शुगर, कटे नींबू पत्ते और टोफू के टुकड़े मिलाएँ।","केले के पत्ते धोकर धीमी आँच पर थोड़ी देर नरम करें। चार मज़बूत कप मोड़ें और हर एक को सहारे के लिए गर्मी-सहने वाली कटोरी में रखें; मिश्रण और तुलसी बाँटें।","कपों को हल्के उबलते पानी के ऊपर स्टीमर में रखें। ढककर 20 मिनट भाप दें, जब तक भरावन पूरी तरह गरम और हल्का गाढ़ा हो; पत्ते पानी के ऊपर रहें।","5 मिनट रखने से नारियल की कस्टर्ड-जैसी सॉस थोड़ी जमती है। बचे नींबू पत्ते और कुछ मिर्च के टुकड़े ऊपर रखें; केले के पत्तों के कप चावल के साथ परोसें, पत्ते न खाएँ।"],"tips":["इस शाकाहारी अमोक को हल्का जमाने के लिए अंडे के बजाय चावल का आटा लें। केले का पत्ता भाप देने का आवरण है, खाने की सामग्री नहीं; कप को गर्मी-सहने वाली कटोरी सहारा देती है।"]},
-  "gu":{"name":"ટોફુ અમોક","ingredients":["કડક ટોફુ, ખાવા જેવા ટુકડા","નાળિયેરનું દૂધ","લેમનગ્રાસની નરમ અંદરની ડાંડી, સમારેલી","ગલંગલ, સમારેલું","તાજી હળદર, સમારેલી","નાની ડુંગળી, સમારેલી","લસણ","લાલ મરચું","મકરુત લીંબુનાં પાન","ચોખાનો લોટ","હળવો સોયા સોસ","પામ સુગર","વરાળના કપ માટે કેળાનાં પાન","થાઈ બેસિલના પાન"],"steps":["લેમનગ્રાસ, ગલંગલ, હળદર, નાની ડુંગળી, લસણ અને મરચું કૂટી બારીક પીળી ક્રોએંગ પેસ્ટ બનાવો. અડધાં લીંબુનાં પાન બારીક સમારો અને બાકી ઉપર માટે રાખો.","માપેલા નાળિયેરના દૂધના 100 મિલીમાં ચોખાનો લોટ સુંવાળો ફેંટો. બાકીનું નાળિયેર દૂધ, ક્રોએંગ પેસ્ટ, સોયા સોસ, પામ સુગર, સમારેલાં લીંબુનાં પાન અને ટોફુના ટુકડા ભેળવો.","કેળાનાં પાન ધોઈ ધીમા તાપ પર થોડી વાર નરમ કરો. ચાર મજબૂત કપ વાળી દરેકને ટેકા માટે ગરમી સહન કરતી વાટકીમાં મૂકો; મિશ્રણ અને બેસિલ વહેંચો.","કપને હળવેથી ઉકળતા પાણી ઉપર સ્ટીમરમાં મૂકો. ઢાંકી 20 મિનિટ વરાળમાં પકાવો, ભરાવણ અંદર સુધી ગરમ અને સહેજ ઘાટું થાય ત્યાં સુધી; પાન પાણી ઉપર રહે.","5 મિનિટ રાખતાં નાળિયેરની કસ્ટર્ડ જેવી સોસ સહેજ જામશે. બાકી લીંબુનાં પાન અને થોડાં મરચાં ઉપર મૂકો; કેળાના પાનના કપ ભાત સાથે પીરસો, પાન ન ખાવાં."],"tips":["આ શાકાહારી અમોકને સહેજ જમાવવા ઈંડાને બદલે ચોખાનો લોટ લો. કેળાનું પાન વરાળ માટેનું આવરણ છે, ખાવાનું નથી; કપને ગરમી સહન કરતી વાટકી ટેકો આપે છે."]}
- },
- "reference":{"url":"https://www.khmergourmetcookingclass.com/2886-2/","use":"Cambodian cooking-class tofu amok and banana-leaf method informed this independently measured eggless preparation."}
+  "sourceReviewId": "R0295",
+  "id": "tofu-amok",
+  "status": "published-third-100-intake-batch",
+  "name": "Tofu Amok",
+  "cuisine": "Cambodian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "firm tofu, cut into bite-size cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "lemongrass tender inner stalk, sliced",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "galangal, sliced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "fresh turmeric, sliced",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "shallots, sliced",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "red chili",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "makrut lime leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "banana leaves for steaming cups",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "Thai basil leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pound lemongrass, galangal, turmeric, shallots, garlic and chili to a fine yellow kroeung paste. Finely shred half the lime leaves and reserve the rest for the top.",
+    "Whisk rice flour into 100 ml of the measured coconut milk until smooth. Stir in the remaining coconut milk, kroeung paste, soy sauce, palm sugar, shredded lime leaves and tofu cubes.",
+    "Rinse banana leaves and briefly pass them over low heat until pliable. Fold into four sturdy cups and place each in a heatproof bowl for support; divide the tofu mixture and basil among them.",
+    "Set the cups in a steamer over gently boiling water. Cover and steam for 20 minutes, checking that the filling is hot throughout and softly thickened; keep the leaves above the water.",
+    "Rest for 5 minutes so the coconut custard-like sauce sets slightly. Garnish with the reserved lime leaves and a few chili slices, then serve the banana-leaf cups with steamed rice; the leaves are not eaten."
+  ],
+  "tips": [
+    "Rice flour lightly sets this vegetarian amok. The banana leaves are a steaming wrapper, not an edible ingredient; a heatproof bowl supports each cup."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू अमोक",
+      "ingredients": [
+        "सख़्त टोफू, खाने योग्य टुकड़े",
+        "नारियल का दूध",
+        "लेमनग्रास की नरम अंदरूनी डंडी, कटी",
+        "गलगल, कटा",
+        "ताज़ी हल्दी, कटी",
+        "छोटे प्याज़, कटे",
+        "लहसुन",
+        "लाल मिर्च",
+        "मकरुत नींबू के पत्ते",
+        "चावल का आटा",
+        "हल्का सोया सॉस",
+        "पाम शुगर",
+        "भाप वाले कपों के लिए केले के पत्ते",
+        "थाई तुलसी की पत्तियाँ"
+      ],
+      "steps": [
+        "लेमनग्रास, गलगल, हल्दी, छोटे प्याज़, लहसुन और मिर्च कूटकर महीन पीला क्रोएंग पेस्ट बनाएँ। आधे नींबू पत्ते बारीक काटें और बाकी ऊपर डालने के लिए रखें।",
+        "नापे हुए नारियल दूध के 100 मिली में चावल का आटा फेंटकर चिकना करें। बचा नारियल दूध, क्रोएंग पेस्ट, सोया सॉस, पाम शुगर, कटे नींबू पत्ते और टोफू के टुकड़े मिलाएँ।",
+        "केले के पत्ते धोकर धीमी आँच पर थोड़ी देर नरम करें। चार मज़बूत कप मोड़ें और हर एक को सहारे के लिए गर्मी-सहने वाली कटोरी में रखें; मिश्रण और तुलसी बाँटें।",
+        "कपों को हल्के उबलते पानी के ऊपर स्टीमर में रखें। ढककर 20 मिनट भाप दें, जब तक भरावन पूरी तरह गरम और हल्का गाढ़ा हो; पत्ते पानी के ऊपर रहें।",
+        "5 मिनट रखने से नारियल की कस्टर्ड-जैसी सॉस थोड़ी जमती है। बचे नींबू पत्ते और कुछ मिर्च के टुकड़े ऊपर रखें; केले के पत्तों के कप चावल के साथ परोसें, पत्ते न खाएँ।"
+      ],
+      "tips": [
+        "चावल का आटा इस शाकाहारी अमोक को हल्का जमाता है। केले के पत्ते भाप में पकाने का आवरण हैं, खाने की सामग्री नहीं; हर कप को गर्मी सहने वाले कटोरे का सहारा दें।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ અમોક",
+      "ingredients": [
+        "કડક ટોફુ, ખાવા જેવા ટુકડા",
+        "નાળિયેરનું દૂધ",
+        "લેમનગ્રાસની નરમ અંદરની ડાંડી, સમારેલી",
+        "ગલંગલ, સમારેલું",
+        "તાજી હળદર, સમારેલી",
+        "નાની ડુંગળી, સમારેલી",
+        "લસણ",
+        "લાલ મરચું",
+        "મકરુત લીંબુનાં પાન",
+        "ચોખાનો લોટ",
+        "હળવો સોયા સોસ",
+        "પામ સુગર",
+        "વરાળના કપ માટે કેળાનાં પાન",
+        "થાઈ બેસિલના પાન"
+      ],
+      "steps": [
+        "લેમનગ્રાસ, ગલંગલ, હળદર, નાની ડુંગળી, લસણ અને મરચું કૂટી બારીક પીળી ક્રોએંગ પેસ્ટ બનાવો. અડધાં લીંબુનાં પાન બારીક સમારો અને બાકી ઉપર માટે રાખો.",
+        "માપેલા નાળિયેરના દૂધના 100 મિલીમાં ચોખાનો લોટ સુંવાળો ફેંટો. બાકીનું નાળિયેર દૂધ, ક્રોએંગ પેસ્ટ, સોયા સોસ, પામ સુગર, સમારેલાં લીંબુનાં પાન અને ટોફુના ટુકડા ભેળવો.",
+        "કેળાનાં પાન ધોઈ ધીમા તાપ પર થોડી વાર નરમ કરો. ચાર મજબૂત કપ વાળી દરેકને ટેકા માટે ગરમી સહન કરતી વાટકીમાં મૂકો; મિશ્રણ અને બેસિલ વહેંચો.",
+        "કપને હળવેથી ઉકળતા પાણી ઉપર સ્ટીમરમાં મૂકો. ઢાંકી 20 મિનિટ વરાળમાં પકાવો, ભરાવણ અંદર સુધી ગરમ અને સહેજ ઘાટું થાય ત્યાં સુધી; પાન પાણી ઉપર રહે.",
+        "5 મિનિટ રાખતાં નાળિયેરની કસ્ટર્ડ જેવી સોસ સહેજ જામશે. બાકી લીંબુનાં પાન અને થોડાં મરચાં ઉપર મૂકો; કેળાના પાનના કપ ભાત સાથે પીરસો, પાન ન ખાવાં."
+      ],
+      "tips": [
+        "ચોખાનો લોટ આ શાકાહારી અમોકને હળવું જમાવે છે. કેળાનાં પાન વરાળમાં રાંધવાનું આવરણ છે, ખાવાની સામગ્રી નહીં; દરેક કપને ગરમી સહે એવા વાટકાનો આધાર આપો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.khmergourmetcookingclass.com/2886-2/",
+    "use": "Cambodian cooking-class tofu amok and banana-leaf method informed this independently measured eggless preparation."
+  },
+  "photoDraft": "catalog/intake/photos/tofu-amok.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

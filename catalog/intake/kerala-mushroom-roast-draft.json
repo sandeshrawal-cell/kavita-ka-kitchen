@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0236",
+  "id": "kerala-mushroom-roast",
+  "status": "published-third-100-intake-batch",
+  "name": "Kerala Mushroom Roast",
+  "cuisine": "Kerala",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "button mushrooms, cleaned and halved",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "fresh curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri red chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds, lightly crushed",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Clean mushrooms with a damp cloth and halve large ones. Keep them dry so they brown instead of steaming.",
+    "Heat 20 ml coconut oil in a wide pan. Cook onions with half the curry leaves for 10 minutes until deep golden. Add ginger, garlic and slit green chilies; stir for 1 minute.",
+    "Add coriander, chili powder, turmeric, pepper and crushed fennel. Stir for 30 seconds, then add chopped tomatoes and salt. Cook for 6 minutes until the tomato moisture reduces to a thick masala.",
+    "Add mushrooms and spread them across the pan. Cook uncovered over medium-high heat for 8 to 10 minutes, stirring only occasionally, until the water they release evaporates and their edges brown.",
+    "Add the remaining 10 ml coconut oil and curry leaves. Roast for 2 minutes more until the masala clings to the mushrooms; serve semi-dry with appam or chapati."
+  ],
+  "tips": [
+    "Use a wide pan and avoid crowding it: mushrooms release water, and a Kerala roast should finish with concentrated masala rather than thin gravy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केरल मशरूम रोस्ट",
+      "ingredients": [
+        "बटन मशरूम, साफ़ और आधे किए हुए",
+        "प्याज़, पतले कटे",
+        "टमाटर, कटे",
+        "नारियल तेल",
+        "अदरक, बारीक कटा",
+        "लहसुन, बारीक कटा",
+        "हरी मिर्च, चीरी हुई",
+        "ताज़े करी पत्ते",
+        "पिसा धनिया",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "पिसी हल्दी",
+        "पिसी काली मिर्च",
+        "सौंफ, हल्की कुटी",
+        "नमक"
+      ],
+      "steps": [
+        "मशरूम को नम कपड़े से साफ़ करें और बड़े मशरूम आधे करें। इन्हें सूखा रखें ताकि भाप में पकने के बजाय भुनें।",
+        "चौड़े पैन में 20 मिली नारियल तेल गरम करें। प्याज़ और आधे करी पत्ते 10 मिनट गहरा सुनहरा होने तक पकाएँ। अदरक, लहसुन और चीरी हरी मिर्च डालकर 1 मिनट चलाएँ।",
+        "धनिया, मिर्च पाउडर, हल्दी, काली मिर्च और कुटी सौंफ डालें। 30 सेकंड चलाएँ, फिर कटे टमाटर और नमक मिलाएँ। लगभग 6 मिनट पकाएँ, जब तक टमाटर का पानी घटकर गाढ़ा मसाला न बने।",
+        "मशरूम डालकर पैन में फैलाएँ। मध्यम-तेज़ आँच पर 8 से 10 मिनट बिना ढके पकाएँ, बीच-बीच में ही चलाएँ, जब तक उनका छोड़ा पानी सूख जाए और किनारे भूरे हो जाएँ।",
+        "बचा 10 मिली नारियल तेल और करी पत्ते डालें। 2 मिनट और भूनें ताकि मसाला मशरूम से लिपट जाए; अप्पम या चपाती के साथ हल्का सूखा परोसें।"
+      ],
+      "tips": [
+        "चौड़ा पैन लें और मशरूम की भीड़ न करें: मशरूम पानी छोड़ते हैं, और केरल रोस्ट में पतली तरी के बजाय गाढ़ा मसाला होना चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "કેરળ મશરૂમ રોસ્ટ",
+      "ingredients": [
+        "બટન મશરૂમ, સાફ કરીને અડધાં કરેલાં",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "નાળિયેરનું તેલ",
+        "આદુ, બારીક સમારેલું",
+        "લસણ, બારીક સમારેલું",
+        "લીલાં મરચાં, ચીરેલાં",
+        "તાજા મીઠા લીમડાનાં પાન",
+        "દળેલો ધાણો",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "દળેલી હળદર",
+        "દળેલો કાળો મરી",
+        "વરીયાળી, હળવી ખાંડેલી",
+        "મીઠું"
+      ],
+      "steps": [
+        "મશરૂમને ભીના કપડાથી સાફ કરો અને મોટાં મશરૂમ અડધાં કરો. સૂકાં રાખો જેથી વરાળમાં બફાય નહીં પણ શેકાય.",
+        "પહોળા પૅનમાં 20 મિલી નાળિયેરનું તેલ ગરમ કરો. ડુંગળી અને અડધાં મીઠા લીમડાનાં પાન 10 મિનિટ ઘેરા સોનેરી થાય ત્યાં સુધી રાંધો. આદુ, લસણ અને ચીરેલાં લીલાં મરચાં નાખી 1 મિનિટ હલાવો.",
+        "ધાણો, મરચું પાઉડર, હળદર, કાળો મરી અને ખાંડેલી વરીયાળી નાખો. 30 સેકન્ડ હલાવી ટામેટાં અને મીઠું ઉમેરો. ટામેટાનું પાણી ઘટીને જાડો મસાલો થાય ત્યાં સુધી લગભગ 6 મિનિટ રાંધો.",
+        "મશરૂમ નાખી પૅનમાં પાથરો. મધ્યમ-તેજ તાપે 8 થી 10 મિનિટ ઢાંક્યા વગર રાંધો, વચ્ચે ક્યારેક જ હલાવો, જેથી છૂટેલું પાણી સૂકાય અને કિનારા ભૂખરા થાય.",
+        "બાકીનું 10 મિલી નાળિયેરનું તેલ અને મીઠા લીમડાનાં પાન નાખો. મસાલો મશરૂમને ચોંટે ત્યાં સુધી વધુ 2 મિનિટ શેકો; અપ્પમ કે રોટલી સાથે અર્ધસૂકું પીરસો."
+      ],
+      "tips": [
+        "પહોળું પૅન લો અને મશરૂમ ભેગાં ન કરો: મશરૂમ પાણી છોડે છે, અને કેરળ રોસ્ટમાં પાતળી રસાવાળી કરી નહીં પણ ઘટ્ટ મસાલો હોવો જોઈએ."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://homesteadsviands.com/recipes/mushroom-roast-ularthiyathu",
+    "use": "Kerala semi-dry mushroom roast identity and onion-curry-leaf method informed independently authored quantities and instructions."
+  },
+  "photoDraft": "catalog/intake/photos/kerala-mushroom-roast.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

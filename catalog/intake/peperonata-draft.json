@@ -1,0 +1,133 @@
+{
+  "sourceReviewId": "R0254",
+  "id": "peperonata",
+  "status": "published-third-100-intake-batch",
+  "name": "Peperonata",
+  "cuisine": "Italian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "red bell peppers, sliced into strips",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "yellow bell peppers, sliced into strips",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, thinly sliced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "red wine vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh basil leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove pepper seeds and membranes and slice the flesh into long 1 cm strips. Slice onions thinly so they soften at a similar rate.",
+    "Heat olive oil in a broad pan over medium-low heat. Add onion and 4 g salt and cook 10–12 minutes, stirring, until soft and sweet but not dark.",
+    "Add pepper strips and remaining salt. Cook 12 minutes uncovered, turning often, until peppers begin to slump and shine. Add garlic for the final minute.",
+    "Add chopped tomatoes and black pepper. Cover and cook 10 minutes, then uncover for 5–8 minutes until the vegetables are silky and most watery juice has evaporated.",
+    "Stir in vinegar and torn basil off the heat. Rest 10 minutes before serving warm or at room temperature with bread or as a vegetable side."
+  ],
+  "tips": [
+    "Cook peppers gently until silky rather than charring them; peperonata's sweetness comes from slow softened peppers and onions."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पेपरोनाता",
+      "ingredients": [
+        "लाल शिमला मिर्च, लंबी कटी",
+        "पीली शिमला मिर्च, लंबी कटी",
+        "प्याज़, पतला कटा",
+        "टमाटर, कटे",
+        "लहसुन, पतला कटा",
+        "एक्स्ट्रा वर्जिन जैतून तेल",
+        "रेड वाइन सिरका",
+        "ताज़ी तुलसी की पत्तियाँ",
+        "नमक",
+        "पिसी काली मिर्च"
+      ],
+      "steps": [
+        "शिमला मिर्च के बीज और अंदर की सफेद झिल्लियाँ हटाकर गूदे को 1 सेमी लंबी पट्टियों में काटें। प्याज़ पतला काटें ताकि लगभग समान समय में नरम हो।",
+        "चौड़े पैन में मध्यम-धीमी आँच पर जैतून तेल गरम करें। प्याज़ और 4 ग्राम नमक डालकर 10–12 मिनट चलाते हुए नरम-मीठा, पर गहरा भूरा नहीं, पकाएँ।",
+        "मिर्च की पट्टियाँ और बचा नमक डालें। 12 मिनट बिना ढके बार-बार पलटते हुए पकाएँ ताकि मिर्च नरम होकर चमके। अंतिम मिनट में लहसुन डालें।",
+        "कटे टमाटर और काली मिर्च डालें। ढककर 10 मिनट पकाएँ, फिर 5–8 मिनट बिना ढके ताकि सब्ज़ियाँ रेशमी और अधिकांश पानी सूख जाए।",
+        "आँच बंद कर सिरका और फटी तुलसी पत्तियाँ मिलाएँ। 10 मिनट रखकर ब्रेड के साथ या सब्ज़ी की तरह गरम अथवा कमरे के तापमान पर परोसें।"
+      ],
+      "tips": [
+        "मिर्च को जलाने के बजाय धीरे नरम करें; पेपरोनाता की मिठास धीरे पके मिर्च और प्याज़ से आती है।"
+      ]
+    },
+    "gu": {
+      "name": "પેપેરોનાતા",
+      "ingredients": [
+        "લાલ શિમલા મરચાં, લાંબાં સમારેલાં",
+        "પીળાં શિમલા મરચાં, લાંબાં સમારેલાં",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "લસણ, પાતળું સમારેલું",
+        "એક્સ્ટ્રા વર્જિન ઓલિવ તેલ",
+        "રેડ વાઇન વિનેગર",
+        "તાજાં બેસિલનાં પાન",
+        "મીઠું",
+        "દળેલી કાળી મરી"
+      ],
+      "steps": [
+        "શિમલા મરચાંનાં બી અને અંદરની સફેદ પટ્ટી કાઢી ગૂદાને 1 સેમી લાંબી પટ્ટીમાં કાપો. ડુંગળી પાતળી કાપો જેથી લગભગ સરખા સમયે નરમ થાય.",
+        "પહોળા પૅનમાં મધ્યમથી ધીમા તાપે ઓલિવ તેલ ગરમ કરો. ડુંગળી અને 4 ગ્રામ મીઠું નાખી 10–12 મિનિટ હલાવતા નરમ-મીઠી થાય પણ ઘેરી ભૂખરી ન થાય ત્યાં સુધી રાંધો.",
+        "મરચાંની પટ્ટીઓ અને બાકીનું મીઠું નાખો. 12 મિનિટ ઢાંક્યા વગર વારંવાર ફેરવી મરચાં નરમ અને ચમકદાર થાય ત્યાં સુધી પકાવો. છેલ્લી મિનિટે લસણ નાખો.",
+        "સમારેલાં ટામેટાં અને કાળી મરી નાખો. ઢાંકી 10 મિનિટ રાંધો, પછી 5–8 મિનિટ ઢાંક્યા વગર જેથી શાક મસૃણ બને અને મોટા ભાગનું પાણી ઊડી જાય.",
+        "તાપ બંધ કરીને વિનેગર અને ફાડેલાં બેસિલનાં પાન ભેળવો. 10 મિનિટ રાખી બ્રેડ સાથે કે શાક તરીકે ગરમ અથવા ઓરડાના તાપમાને પીરસો."
+      ],
+      "tips": [
+        "મરચાંને બાળવાને બદલે ધીમે નરમ કરો; પેપેરોનાતાની મીઠાશ ધીમે પકેલી મરચાં અને ડુંગળીમાંથી આવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.lacucinaitaliana.com/recipe/sides-and-vegetables/peperonata-italian-sauteed-peppers-tomatoes-and-onions",
+    "use": "Italian pepper-onion-tomato peperonata identity; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/peperonata.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

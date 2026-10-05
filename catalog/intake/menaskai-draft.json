@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0288",
+  "id": "menaskai",
+  "status": "published-third-100-intake-batch",
+  "name": "Menaskai",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "pineapple, fresh cubes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Toast sesame seeds on low heat until fragrant and set aside. Dry-roast red chilies and coconut for 2–3 minutes until the coconut is lightly golden; cool.",
+    "Grind roasted sesame, coconut and chilies with tamarind and 100 ml measured water into a smooth thick paste.",
+    "Put pineapple, jaggery, turmeric, salt and remaining 180 ml water in a pan. Simmer 8 minutes until pineapple softens and releases its juice.",
+    "Stir in coconut-sesame paste and simmer 6–8 minutes until glossy, thick and sweet-sour-spicy. Stir often to prevent the jaggery from catching.",
+    "Heat coconut oil in a small pan and crackle mustard seeds and curry leaves. Pour tempering over the menaskai; rest 5 minutes and serve with rice."
+  ],
+  "tips": [
+    "Menaskai is a thick pineapple, sesame and coconut relish-curry, not a thin sweet soup."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मेनस्काई",
+      "ingredients": [
+        "ताज़ा अनानास, टुकड़े",
+        "ताज़ा कसा नारियल",
+        "सफ़ेद तिल",
+        "सूखी लाल मिर्च",
+        "इमली का गूदा",
+        "गुड़",
+        "राई",
+        "करी पत्ते",
+        "हल्दी पाउडर",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "तिल धीमी आँच पर महकने तक भूनकर अलग रखें। लाल मिर्च और नारियल 2–3 मिनट नारियल हल्का सुनहरा होने तक भूनें; ठंडा करें।",
+        "भुने तिल, नारियल और मिर्च इमली तथा दिए 100 मि.ली. पानी के साथ गाढ़ा चिकना पेस्ट पीसें।",
+        "पैन में अनानास, गुड़, हल्दी, नमक और बचा 180 मि.ली. पानी डालें। 8 मिनट पकाएँ, अनानास नरम होकर रस छोड़े।",
+        "नारियल-तिल पेस्ट मिलाकर 6–8 मिनट चमकदार, गाढ़ा और मीठा-खट्टा-तीखा करें। गुड़ तले में न लगे इसलिए बार-बार चलाएँ।",
+        "छोटे पैन में नारियल तेल गरम कर राई और करी पत्ते चटकाएँ। तड़का मेनस्काई पर डालें; 5 मिनट रखकर चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "मेनस्काई गाढ़ी अनानास-तिल-नारियल की चटनी जैसी करी है, पतला मीठा सूप नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "મેનસ્કાઈ",
+      "ingredients": [
+        "તાજો અનાનસ, ટુકડા",
+        "તાજું છીણેલું નાળિયેર",
+        "સફેદ તલ",
+        "સૂકાં લાલ મરચાં",
+        "આંબલીનો માવો",
+        "ગોળ",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર પાઉડર",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "તલ ધીમા તાપે સુગંધે ત્યાં સુધી શેકી બાજુએ રાખો. લાલ મરચાં અને નાળિયેર 2–3 મિનિટ નાળિયેર હળવું સોનેરી થાય ત્યાં સુધી શેકો; ઠંડું કરો.",
+        "શેકેલા તલ, નાળિયેર અને મરચાં આંબલી તથા આપેલા 100 મિ.લી. પાણી સાથે ઘટ્ટ મસૃણ પેસ્ટ પીસો.",
+        "કડાઈમાં અનાનસ, ગોળ, હળદર, મીઠું અને બાકીનું 180 મિ.લી. પાણી નાખો. 8 મિનિટ રાંધો, અનાનસ નરમ થઈ રસ છોડે.",
+        "નાળિયેર-તલની પેસ્ટ ભેળવી 6–8 મિનિટ ચમકતું, ઘટ્ટ અને ગળ્યું-ખાટું-તીખું કરો. ગોળ તળિયે ન ચોંટે માટે વારંવાર હલાવો.",
+        "નાની કડાઈમાં નાળિયેરનું તેલ ગરમ કરી રાઈ અને મીઠા લીમડાનાં પાન તડકાવો. વઘાર મેનસ્કાઈ પર રેડો; 5 મિનિટ રાખી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "મેનસ્કાઈ ઘટ્ટ અનાનસ-તલ-નાળિયેરનું ચટણી જેવું શાક છે, પાતળું મીઠું સૂપ નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/pineapple-curry-pineapple-gojju-menaskai/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/menaskai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

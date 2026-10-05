@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0280",
+  "id": "gucchi-matar",
+  "status": "published-third-100-intake-batch",
+  "name": "Gucchi Matar",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "dried morel mushrooms, gucchi",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak dried morels in 300 ml warm water for 20 minutes. Lift out, split large caps and rinse carefully to remove grit; strain and reserve the soaking liquid.",
+    "Heat ghee in a heavy pan. Cook onion 7 minutes until golden, then add ginger for 1 minute. Add tomato puree, coriander powder, chili and salt; cook 8 minutes until thick.",
+    "Whisk yogurt with a spoonful of warm masala, lower the heat and stir it into the pan. Add cleaned morels and 200 ml strained soaking liquid; cover and simmer 10 minutes.",
+    "Add peas and simmer 7–8 minutes until peas are tender and morels are soft but still springy. Add a little remaining soaking liquid if gravy becomes too thick.",
+    "Stir in garam masala, taste the salt and finish with coriander leaves. Serve warm with basmati rice so the morel aroma remains prominent."
+  ],
+  "tips": [
+    "Gucchi are true honeycomb morels, not ordinary button mushrooms; wash away every grain of grit."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गुच्छी मटर",
+      "ingredients": [
+        "सूखी गुच्छी मशरूम",
+        "हरे मटर",
+        "प्याज़, बारीक कटा",
+        "टमाटर प्यूरी",
+        "सादा दही",
+        "अदरक, कसा",
+        "घी",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सूखी गुच्छी 300 मि.ली. गरम पानी में 20 मिनट भिगोएँ। निकालकर बड़े टुकड़े काटें और मिट्टी हटाने को सावधानी से धोएँ; भिगोया पानी छानकर रखें।",
+        "भारी पैन में घी गरम कर प्याज़ 7 मिनट सुनहरा करें, फिर अदरक 1 मिनट चलाएँ। टमाटर प्यूरी, धनिया, मिर्च और नमक डालकर 8 मिनट गाढ़ा करें।",
+        "दही में एक चम्मच गरम मसाला फेंटें, आँच धीमी कर पैन में मिलाएँ। साफ गुच्छी और 200 मि.ली. छना भिगोया पानी डालकर ढकें और 10 मिनट पकाएँ।",
+        "मटर डालकर 7–8 मिनट पकाएँ, मटर नरम और गुच्छी मुलायम लेकिन लचीली रहे। ग्रेवी बहुत गाढ़ी हो तो बचा भिगोया पानी थोड़ा डालें।",
+        "गरम मसाला मिलाएँ, नमक जाँचें और हरा धनिया डालें। बासमती चावल के साथ गरम परोसें ताकि गुच्छी की महक उभरे।"
+      ],
+      "tips": [
+        "गुच्छी जालीदार मोरेल होती है, साधारण बटन मशरूम नहीं; सारी मिट्टी अच्छी तरह धोएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ગુચ્છી વટાણા",
+      "ingredients": [
+        "સૂકાં ગુચ્છી મશરૂમ",
+        "લીલા વટાણા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાની પ્યુરી",
+        "સાદું દહીં",
+        "આદુ, છીણેલું",
+        "ઘી",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સૂકાં ગુચ્છી 300 મિ.લી. ગરમ પાણીમાં 20 મિનિટ પલાળો. કાઢી મોટા ટુકડા કાપો અને રેતી દૂર કરવા સાવચેતીથી ધોવો; પલાળેલું પાણી ગાળી રાખો.",
+        "ભારે કડાઈમાં ઘી ગરમ કરી ડુંગળી 7 મિનિટ સોનેરી કરો, પછી આદુ 1 મિનિટ હલાવો. ટામેટાની પ્યુરી, ધાણા, મરચું અને મીઠું નાખી 8 મિનિટ ઘટ્ટ કરો.",
+        "દહીંમાં એક ચમચી ગરમ મસાલો ફેંટો, તાપ ધીમો કરી કડાઈમાં ભેળવો. સાફ ગુચ્છી અને 200 મિ.લી. ગાળેલું પલાળેલું પાણી નાખી ઢાંકી 10 મિનિટ રાંધો.",
+        "વટાણા નાખી 7–8 મિનિટ રાંધો, વટાણા નરમ અને ગુચ્છી મૃદુ પણ લવચીક રહે. ગ્રેવી બહુ ઘટ્ટ થાય તો બાકીનું પલાળેલું પાણી થોડું ઉમેરો.",
+        "ગરમ મસાલો ઉમેરો, મીઠું ચાખો અને કોથમીર નાખો. બાસમતી ભાત સાથે ગરમ પીરસો જેથી ગુચ્છીની સુગંધ મુખ્ય રહે."
+      ],
+      "tips": [
+        "ગુચ્છી જાળીદાર મોરેલ છે, સામાન્ય બટન મશરૂમ નહીં; બધી રેતી સારી રીતે ધોઈ કાઢો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://foragerchef.com/mushroom-matar-mutter-mushroom-masala/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/gucchi-matar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

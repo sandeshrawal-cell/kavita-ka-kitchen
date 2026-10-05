@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0252",
+  "id": "ghiveci",
+  "status": "published-third-100-intake-batch",
+  "name": "Ghiveci",
+  "cuisine": "Romanian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "aubergine, cubed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "zucchini, cubed",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes, cubed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, sliced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "tomato paste",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "bay leaves",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sweet paprika",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "parsley, chopped",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut all vegetables into roughly 2–3 cm pieces, keeping potatoes and carrots separate from the softer zucchini and aubergine.",
+    "Heat oil in a heavy ovenproof pot. Cook onion 5 minutes, then add carrot, potato and bell pepper and cook 6 minutes, stirring until lightly coloured.",
+    "Add tomato paste and paprika and stir 1 minute. Add chopped tomatoes, stock, bay leaves, salt and pepper. Cover and simmer 10 minutes.",
+    "Fold in aubergine and zucchini. Cover and bake at 190°C for 25–30 minutes, stirring once, until all vegetables are tender yet retain their shapes and the juices form a light tomato sauce.",
+    "Remove bay leaves. Rest 10 minutes, stir in parsley and serve warm with bread. Ghiveci is a chunky mixed-vegetable stew, not a blended purée."
+  ],
+  "tips": [
+    "Add zucchini and aubergine after the firmer roots so they do not collapse before the potatoes cook."
+  ],
+  "translations": {
+    "hi": {
+      "name": "घिवेच",
+      "ingredients": [
+        "बैंगन, टुकड़ों में",
+        "ज़ूकीनी, टुकड़ों में",
+        "आलू, टुकड़ों में",
+        "शिमला मिर्च, कटी",
+        "गाजर, कटी",
+        "प्याज़, कटा",
+        "टमाटर, कटे",
+        "टमाटर पेस्ट",
+        "जैतून तेल",
+        "सब्ज़ियों का शोरबा",
+        "तेजपत्ता",
+        "मीठा पापरिका",
+        "नमक",
+        "पिसी काली मिर्च",
+        "पार्सले, कटी"
+      ],
+      "steps": [
+        "सभी सब्ज़ियाँ लगभग 2–3 सेमी टुकड़ों में काटें; आलू और गाजर को जल्दी नरम होने वाली ज़ूकीनी और बैंगन से अलग रखें।",
+        "भारी ओवन-सुरक्षित बर्तन में तेल गरम करें। प्याज़ 5 मिनट पकाएँ, फिर गाजर, आलू और शिमला मिर्च डालकर हल्का रंग आने तक 6 मिनट चलाएँ।",
+        "टमाटर पेस्ट और पापरिका 1 मिनट चलाएँ। कटे टमाटर, शोरबा, तेजपत्ता, नमक और काली मिर्च डालें। ढककर 10 मिनट हल्का उबालें।",
+        "बैंगन और ज़ूकीनी मिलाएँ। ढककर 190°C पर 25–30 मिनट बेक करें, बीच में एक बार चलाएँ, ताकि सभी सब्ज़ियाँ नरम पर आकार में रहें और रस हल्की टमाटर चटनी बने।",
+        "तेजपत्ता निकालें। 10 मिनट रखकर पार्सले मिलाएँ और ब्रेड के साथ गरम परोसें। घिवेच टुकड़ों वाला मिला-जुला शाक है, पीसी हुई प्यूरी नहीं।"
+      ],
+      "tips": [
+        "ज़ूकीनी और बैंगन सख्त जड़ों के बाद डालें ताकि आलू पकने से पहले वे गल न जाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ઘિવેચ",
+      "ingredients": [
+        "રિંગણ, ટુકડામાં",
+        "ઝૂકીની, ટુકડામાં",
+        "બટાકા, ટુકડામાં",
+        "શિમલા મરચાં, સમારેલાં",
+        "ગાજર, સમારેલાં",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "ટામેટાંની પેસ્ટ",
+        "ઓલિવ તેલ",
+        "શાકભાજીનો સ્ટોક",
+        "તેજપાન",
+        "મીઠું પાપરિકા",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "પાર્સલી, સમારેલી"
+      ],
+      "steps": [
+        "બધાં શાક લગભગ 2–3 સેમી ટુકડામાં કાપો; બટાકા અને ગાજરને ઝડપથી નરમ થતાં ઝૂકીની અને રિંગણથી અલગ રાખો.",
+        "જાડા ઓવનમાં મૂકી શકાય એવા વાસણમાં તેલ ગરમ કરો. ડુંગળી 5 મિનિટ રાંધો, પછી ગાજર, બટાકા અને શિમલા મરચાં નાખી હળવો રંગ આવે ત્યાં સુધી 6 મિનિટ હલાવો.",
+        "ટામેટાંની પેસ્ટ અને પાપરિકા 1 મિનિટ હલાવો. સમારેલાં ટામેટાં, સ્ટોક, તેજપાન, મીઠું અને કાળી મરી નાખી ઢાંકી 10 મિનિટ ધીમે ઉકાળો.",
+        "રિંગણ અને ઝૂકીની ભેળવો. ઢાંકી 190°C પર 25–30 મિનિટ બેક કરો, વચ્ચે એક વાર હલાવો, જેથી બધા શાક નરમ પણ આકારમાં રહે અને રસ આછો ટામેટાંનો સોસ બને.",
+        "તેજપાન કાઢો. 10 મિનિટ રાખી પાર્સલી ભેળવો અને બ્રેડ સાથે ગરમ પીરસો. ઘિવેચ ટુકડાવાળું મિશ્ર શાક છે, વાટેલી પ્યુરી નહીં."
+      ],
+      "tips": [
+        "ઝૂકીની અને રિંગણ સખત મૂળ શાક પછી નાખો જેથી બટાકા પકે તે પહેલાં તે ગળી ન જાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://theromaniancookbook.com/romanian-vegetables-stew-recipe/",
+    "use": "Romanian ghiveci mixed-vegetable stew identity; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/ghiveci.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,182 @@
+{
+  "sourceReviewId": "R0286",
+  "id": "goan-vegetable-caldine",
+  "status": "published-third-100-intake-batch",
+  "name": "Goan Vegetable Caldine",
+  "cuisine": "Goan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "potato, small cubes",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, diced",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "green beans, cut",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, slit",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut vegetables to similar size. Lightly toast coriander and cumin for 2 minutes, then grind them finely with turmeric and 100 ml coconut milk to make the mild caldine spice mix.",
+    "Heat coconut oil in a heavy pot. Cook onion 5 minutes until translucent, not brown; add ginger, garlic and slit green chili and stir for 1 minute.",
+    "Add potato, carrot, beans and cauliflower; stir in spice mix, 200 ml water and salt. Cover and simmer 8 minutes until vegetables are almost tender.",
+    "Add peas and remaining 400 ml coconut milk. Simmer gently 5–6 minutes until everything is just cooked; avoid a vigorous boil that can split the milk.",
+    "Turn off heat, stir in lemon juice and taste salt. Serve this pale golden, mildly spiced coconut curry with steamed rice."
+  ],
+  "tips": [
+    "Caldine is a mild yellow coconut curry; keep red chili and deep roasting out of it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोअन वेजिटेबल कालदीन",
+      "ingredients": [
+        "आलू, छोटे टुकड़े",
+        "फूलगोभी के फूल",
+        "गाजर, टुकड़े",
+        "फ्रेंच बीन्स, कटी",
+        "हरे मटर",
+        "नारियल दूध",
+        "प्याज़, कटा",
+        "हरी मिर्च, चीरी",
+        "अदरक, कसा",
+        "लहसुन, बारीक कटा",
+        "साबुत धनिया",
+        "जीरा",
+        "हल्दी पाउडर",
+        "नारियल तेल",
+        "नींबू रस",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सब्जियाँ बराबर आकार में काटें। धनिया और जीरा 2 मिनट हल्का भूनकर हल्दी और 100 मि.ली. नारियल दूध के साथ बारीक पीसकर हल्का कालदीन मसाला बनाएँ।",
+        "भारी बर्तन में नारियल तेल गरम करें। प्याज़ 5 मिनट पारदर्शी करें, भूरा नहीं; अदरक, लहसुन और चीरी मिर्च 1 मिनट चलाएँ।",
+        "आलू, गाजर, बीन्स और फूलगोभी डालें; मसाला, 200 मि.ली. पानी और नमक मिलाएँ। ढककर 8 मिनट पकाएँ, सब्जियाँ लगभग नरम हों।",
+        "मटर और बचा 400 मि.ली. नारियल दूध डालें। 5–6 मिनट हल्का पकाएँ, सब बस पक जाएँ; तेज़ उबाल से दूध फट सकता है।",
+        "आँच बंद करके नींबू रस मिलाएँ और नमक जाँचें। यह हल्की सुनहरी, कम तीखी नारियल करी चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "कालदीन हल्की पीली नारियल करी है; इसमें लाल मिर्च और गहरा भूना मसाला न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ગોવન વેજિટેબલ કાલદીન",
+      "ingredients": [
+        "બટાકા, નાના ટુકડા",
+        "ફૂલકોબીનાં ફૂલ",
+        "ગાજર, ટુકડા",
+        "ફ્રેન્ચ બીન્સ, કાપેલી",
+        "લીલા વટાણા",
+        "નાળિયેરનું દૂધ",
+        "ડુંગળી, કાપેલી",
+        "લીલું મરચું, ચીરેલું",
+        "આદુ, છીણેલું",
+        "લસણ, ઝીણું સમારેલું",
+        "આખા ધાણા",
+        "જીરું",
+        "હળદર પાઉડર",
+        "નાળિયેરનું તેલ",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "શાક સરખા કદે કાપો. ધાણા અને જીરું 2 મિનિટ હળવું શેકી હળદર અને 100 મિ.લી. નાળિયેરના દૂધ સાથે ઝીણું પીસી હળવો કાલદીન મસાલો બનાવો.",
+        "ભારે વાસણમાં નાળિયેરનું તેલ ગરમ કરો. ડુંગળી 5 મિનિટ પારદર્શક કરો, ભૂરું નહીં; આદુ, લસણ અને ચીરેલું મરચું 1 મિનિટ હલાવો.",
+        "બટાકા, ગાજર, બીન્સ અને ફૂલકોબી નાખો; મસાલો, 200 મિ.લી. પાણી અને મીઠું ભેળવો. ઢાંકી 8 મિનિટ રાંધો, શાક લગભગ નરમ થાય.",
+        "વટાણા અને બાકીનું 400 મિ.લી. નાળિયેરનું દૂધ નાખો. 5–6 મિનિટ ધીમે રાંધો, બધું માત્ર પાકે; જોરદાર ઉકાળે દૂધ ફાટી શકે છે.",
+        "તાપ બંધ કરી લીંબુનો રસ ઉમેરો અને મીઠું ચાખો. આ આછા સોનેરી રંગની, હળવા મસાલાવાળી નાળિયેર કરી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "કાલદીન હળવી પીળી નાળિયેર કરી છે; તેમાં લાલ મરચું અને ઘેરો શેકેલો મસાલો ન નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.mydiversekitchen.com/vegetable-caldeen-caldinho-de-legumes-goan-recipe",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/goan-vegetable-caldine.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

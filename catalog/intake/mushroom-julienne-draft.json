@@ -1,0 +1,133 @@
+{
+  "sourceReviewId": "R0256",
+  "id": "mushroom-julienne",
+  "status": "published-third-100-intake-batch",
+  "name": "Mushroom Julienne",
+  "cuisine": "Russian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "button mushrooms, thinly sliced",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian melting cheese, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 200°C. Thinly slice mushrooms and onion. Melt 25 g butter in a broad pan and cook onion 5 minutes until soft.",
+    "Add mushrooms in batches and cook over medium-high heat for 8–10 minutes until their released water has evaporated and the edges begin to brown. Season with 6 g salt and pepper.",
+    "In a saucepan melt remaining 20 g butter. Stir in flour for 1 minute, then whisk in milk gradually and cook 3 minutes until smooth and thick. Lower heat and stir in sour cream without boiling.",
+    "Fold mushrooms and onion into the creamy sauce. Adjust with remaining 3 g salt, then divide among four small ovenproof dishes and cover with grated vegetarian cheese.",
+    "Bake 12–15 minutes until bubbling and golden on top. Rest 5 minutes, scatter parsley and serve with bread; Russian julienne is a baked creamy mushroom dish, not a matchstick knife cut."
+  ],
+  "tips": [
+    "Cook the mushrooms until their liquid evaporates before adding sauce, or the individual baked dishes will turn watery. Use a clearly labelled vegetarian cheese."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम जूलिएन",
+      "ingredients": [
+        "बटन मशरूम, पतले कटे",
+        "प्याज़, पतला कटा",
+        "खट्टी क्रीम",
+        "मैदा",
+        "दूध",
+        "मक्खन",
+        "वेजिटेरियन रेनेट वाला पिघलने वाला चीज़, कद्दूकस",
+        "नमक",
+        "पिसी काली मिर्च",
+        "ताज़ी पार्सले, कटी"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। मशरूम और प्याज़ पतले काटें। चौड़े पैन में 25 ग्राम मक्खन पिघलाकर प्याज़ 5 मिनट नरम करें।",
+        "मशरूम थोड़ी-थोड़ी मात्रा में डालकर मध्यम-तेज़ आँच पर 8–10 मिनट पकाएँ, जब तक निकला पानी सूखे और किनारे भूरे हों। 6 ग्राम नमक और काली मिर्च डालें।",
+        "दूसरे बर्तन में बचा 20 ग्राम मक्खन पिघलाएँ। मैदा 1 मिनट चलाएँ, फिर दूध धीरे-धीरे फेंटकर 3 मिनट चिकना गाढ़ा पकाएँ। आँच धीमी करके बिना उबाले खट्टी क्रीम मिलाएँ।",
+        "मशरूम और प्याज़ मलाईदार चटनी में मिलाएँ। बचा 3 ग्राम नमक डालें, चार छोटी ओवन-सुरक्षित डिश में बाँटें और कद्दूकस शाकाहारी चीज़ से ढकें।",
+        "12–15 मिनट ऊपर बुलबुले और सुनहरा रंग आने तक बेक करें। 5 मिनट रखें, पार्सले छिड़कें और ब्रेड के साथ परोसें; रूसी जूलिएन बेक किया मलाईदार मशरूम व्यंजन है, केवल पतली कटाई नहीं।"
+      ],
+      "tips": [
+        "सॉस डालने से पहले मशरूम का पानी पूरी तरह सुखाएँ, नहीं तो अलग-अलग बेक किए कटोरे पानीदार हो जाएँगे। स्पष्ट शाकाहारी लिखा चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ જુલિએન",
+      "ingredients": [
+        "બટન મશરૂમ, પાતળા સમારેલા",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ખાટી ક્રીમ",
+        "મેંદો",
+        "દૂધ",
+        "માખણ",
+        "વેજિટેરિયન રેનેટવાળું ઓગળતું ચીઝ, છીણેલું",
+        "મીઠું",
+        "દળેલી કાળી મરી",
+        "તાજી પાર્સલી, સમારેલી"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. મશરૂમ અને ડુંગળી પાતળાં સમારો. પહોળા પૅનમાં 25 ગ્રામ માખણ ઓગાળી ડુંગળી 5 મિનિટ નરમ કરો.",
+        "મશરૂમ થોડા-થોડા ભાગમાં નાખી મધ્યમથી ઊંચા તાપે 8–10 મિનિટ નીકળેલું પાણી ઊડી જાય અને કિનારી ભૂખરી થાય ત્યાં સુધી રાંધો. 6 ગ્રામ મીઠું અને કાળી મરી નાખો.",
+        "બીજા વાસણમાં બાકીનું 20 ગ્રામ માખણ ઓગાળો. મેંદો 1 મિનિટ હલાવો, પછી ધીમે-ધીમે દૂધ ફેંટીને 3 મિનિટ સુંવાળું ઘાટું રાંધો. તાપ ધીમો કરી ઉકાળ્યા વગર ખાટી ક્રીમ ભેળવો.",
+        "મશરૂમ અને ડુંગળી મલાઈદાર રસામાં ભેળવો. બાકીનું 3 ગ્રામ મીઠું નાખી ચાર નાની ઓવનપ્રૂફ ડિશમાં વહેંચો અને છીણેલા શાકાહારી ચીઝથી ઢાંકો.",
+        "12–15 મિનિટ ઉપર પરપોટા આવે અને સોનેરી થાય ત્યાં સુધી બેક કરો. 5 મિનિટ રાખી પાર્સલી છાંટો અને બ્રેડ સાથે પીરસો; રશિયન જુલિએન બેક કરેલી મલાઈદાર મશરૂમ વાનગી છે, માત્ર પાતળી કતરણ નહીં."
+      ],
+      "tips": [
+        "સોસ ઉમેરતાં પહેલાં મશરૂમનું પાણી સંપૂર્ણ સૂકવો, નહીં તો અલગ શેકેલાં વાસણો પાણીદાર થશે. સ્પષ્ટ શાકાહારી લખેલું ચીઝ લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://food52.com/recipes/70955-russian-mushroom-julienne",
+    "use": "Russian creamy baked mushroom julienne identity; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-julienne.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

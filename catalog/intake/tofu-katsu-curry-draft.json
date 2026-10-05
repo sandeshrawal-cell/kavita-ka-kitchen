@@ -1,31 +1,154 @@
 {
- "sourceReviewId":"R0294","id":"tofu-katsu-curry","status":"draft-photo-and-translation-reviewed","name":"Tofu Katsu Curry","cuisine":"Japanese-inspired","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":65,
- "ingredients":[
-  {"name":"extra-firm tofu, pressed into four slabs","qty":600,"unit":"g"},
-  {"name":"short-grain rice, dry","qty":320,"unit":"g"},
-  {"name":"eggless panko breadcrumbs","qty":140,"unit":"g"},
-  {"name":"plain wheat flour","qty":110,"unit":"g"},
-  {"name":"water for batter","qty":180,"unit":"ml"},
-  {"name":"light soy sauce","qty":35,"unit":"ml"},
-  {"name":"onion, chopped","qty":180,"unit":"g"},
-  {"name":"carrots, diced","qty":200,"unit":"g"},
-  {"name":"potatoes, diced","qty":250,"unit":"g"},
-  {"name":"Japanese-style curry powder","qty":18,"unit":"g"},
-  {"name":"vegetable stock","qty":650,"unit":"ml"},
-  {"name":"neutral oil","qty":90,"unit":"ml"},
-  {"name":"salt","qty":7,"unit":"g"}
- ],
- "steps":[
-  "Press tofu for 20 minutes, then cut into four thick slabs and pat dry. Brush with soy sauce. Rinse rice and cook according to its packet until tender; keep covered and warm.",
-  "Whisk 60 g flour with 180 ml water into a smooth coating batter. Spread eggless panko on a plate. Dip each tofu slab into batter, let excess drip off, then press into crumbs on both sides.",
-  "Heat 60 ml oil in a broad pan over medium heat. Shallow-fry tofu for 4 minutes per side until the crumb is crisp and deep golden. Drain on a rack so the underside remains crisp.",
-  "In another pan heat the remaining 30 ml oil. Cook onion for 5 minutes, add carrots and potatoes for 3 minutes, then stir in curry powder and the remaining 50 g flour for 1 minute.",
-  "Slowly add vegetable stock while stirring so the sauce is smooth. Simmer for 15 minutes until vegetables are tender and the curry is thick; season with salt. Divide rice, spoon curry beside it and place sliced crisp tofu on top just before serving."
- ],
- "tips":["Use eggless panko and a vegetarian curry powder instead of a prepared roux with uncertain ingredients. Keep the tofu cutlet separate from the sauce until serving to preserve the crust."],
- "translations":{
-  "hi":{"name":"टोफू कात्सू करी","ingredients":["एक्स्ट्रा-फर्म टोफू, दबाकर चार मोटे टुकड़े","छोटे दाने के चावल, सूखे","बिना अंडे के पांको ब्रेडक्रम्ब","मैदा","घोल के लिए पानी","हल्का सोया सॉस","प्याज़, कटा","गाजर, छोटे टुकड़े","आलू, छोटे टुकड़े","जापानी शैली का करी पाउडर","सब्ज़ियों का स्टॉक","हल्का स्वाद वाला तेल","नमक"],"steps":["टोफू 20 मिनट दबाएँ, फिर चार मोटे टुकड़े काटकर सुखाएँ। सोया सॉस लगाएँ। चावल धोकर पैकेट के अनुसार नरम होने तक पकाएँ; ढककर गरम रखें।","60 ग्राम मैदे को 180 मिली पानी में फेंटकर चिकना घोल बनाएँ। बिना अंडे के पांको प्लेट में फैलाएँ। टोफू को घोल में डुबोकर अतिरिक्त टपकाएँ, फिर दोनों तरफ़ चूरा अच्छी तरह दबाएँ।","चौड़े पैन में 60 मिली तेल मध्यम आँच पर गरम करें। टोफू हर तरफ़ 4 मिनट सुनहरा और कुरकुरा होने तक कम तेल में तलें। जाली पर निकालें ताकि नीचे भी कुरकुरा रहे।","दूसरे पैन में बचा 30 मिली तेल गरम करें। प्याज़ 5 मिनट पकाएँ, गाजर और आलू 3 मिनट भूनें, फिर करी पाउडर और बचा 50 ग्राम मैदा 1 मिनट चलाएँ।","सब्ज़ियों का स्टॉक धीरे-धीरे चलाते हुए डालें ताकि सॉस चिकनी रहे। 15 मिनट उबालें, जब तक सब्ज़ियाँ नरम और करी गाढ़ी हो; नमक डालें। चावल बाँटें, पास में करी डालें और परोसने से ठीक पहले ऊपर कटा कुरकुरा टोफू रखें।"],"tips":["सामग्री अनिश्चित तैयार करी ब्लॉक के बजाय बिना अंडे का पांको और शाकाहारी करी पाउडर लें। परोसने तक टोफू कटलेट सॉस से अलग रखें ताकि परत कुरकुरी रहे।"]},
-  "gu":{"name":"ટોફુ કાત્સુ કરી","ingredients":["એક્સ્ટ્રા-ફર્મ ટોફુ, દબાવી ચાર જાડા ટુકડા","ટૂંકા દાણાનો સૂકો ભાત","ઈંડા વગરના પાંકો બ્રેડક્રમ્બ","મેંદો","ખીરા માટે પાણી","હળવો સોયા સોસ","ડુંગળી, સમારેલી","ગાજર, નાના ટુકડા","બટાકા, નાના ટુકડા","જાપાની શૈલીનો કરી પાઉડર","શાકભાજીનો સ્ટોક","હળવા સ્વાદનું તેલ","મીઠું"],"steps":["ટોફુ 20 મિનિટ દબાવો, પછી ચાર જાડા ટુકડા કાપી સૂકવો. સોયા સોસ લગાવો. ચોખા ધોઈ પૅકેટ પ્રમાણે નરમ થાય ત્યાં સુધી રાંધી ઢાંકી ગરમ રાખો.","60 ગ્રામ મેંદાને 180 મિલી પાણીમાં ફેંટીને સુંવાળું ખીરું બનાવો. ઈંડા વગરના પાંકો થાળીમાં પાથરો. ટોફુ ખીરામાં ડુબાડી વધારું ટપકવા દો, પછી બંને બાજુ ભૂકો સારી રીતે દબાવો.","પહોળા પૅનમાં 60 મિલી તેલ મધ્યમ તાપે ગરમ કરો. ટોફુ દરેક બાજુ 4 મિનિટ ઘેરો સોનેરી અને કરકરો થાય ત્યાં સુધી ઓછા તેલમાં તળો. નીચે પણ કરકરો રહે માટે જાળી પર કાઢો.","બીજા પૅનમાં બાકીનું 30 મિલી તેલ ગરમ કરો. ડુંગળી 5 મિનિટ પકાવો, ગાજર અને બટાકા 3 મિનિટ શેકો, પછી કરી પાઉડર અને બાકીનો 50 ગ્રામ મેંદો 1 મિનિટ હલાવો.","શાકભાજીનો સ્ટોક ધીમે ધીમે હલાવતાં નાખો જેથી સોસ સુંવાળી રહે. શાક નરમ અને કરી ઘાટી થાય ત્યાં સુધી 15 મિનિટ ઉકાળો; મીઠું નાખો. ભાત વહેંચો, બાજુમાં કરી નાખો અને પીરસતાં જ ઉપર સમારેલો કરકરો ટોફુ મૂકો."],"tips":["અજાણી સામગ્રીવાળા તૈયાર કરી બ્લોકને બદલે ઈંડા વગરના પાંકો અને શાકાહારી કરી પાઉડર લો. પીરસતાં સુધી ટોફુ કટલેટ સોસથી અલગ રાખો જેથી પડ કરકરો રહે."]}
- },
- "reference":{"url":"https://norecipes.com/vegan-katsu-curry/","use":"Japanese vegan katsu curry composition and crisp tofu method informed this independently measured recipe and reviewed photo."}
+  "sourceReviewId": "R0294",
+  "id": "tofu-katsu-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Tofu Katsu Curry",
+  "cuisine": "Japanese-inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed into four slabs",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "short-grain rice, dry",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "eggless panko breadcrumbs",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "plain wheat flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "water for batter",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, diced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes, diced",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Japanese-style curry powder",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu for 20 minutes, then cut into four thick slabs and pat dry. Brush with soy sauce. Rinse rice and cook according to its packet until tender; keep covered and warm.",
+    "Whisk 60 g flour with 180 ml water into a smooth coating batter. Spread eggless panko on a plate. Dip each tofu slab into batter, let excess drip off, then press into crumbs on both sides.",
+    "Heat 60 ml oil in a broad pan over medium heat. Shallow-fry tofu for 4 minutes per side until the crumb is crisp and deep golden. Drain on a rack so the underside remains crisp.",
+    "In another pan heat the remaining 30 ml oil. Cook onion for 5 minutes, add carrots and potatoes for 3 minutes, then stir in curry powder and the remaining 50 g flour for 1 minute.",
+    "Slowly add vegetable stock while stirring so the sauce is smooth. Simmer for 15 minutes until vegetables are tender and the curry is thick; season with salt. Divide rice, spoon curry beside it and place sliced crisp tofu on top just before serving."
+  ],
+  "tips": [
+    "Use eggless panko and a vegetarian curry powder instead of a prepared roux with uncertain ingredients. Keep the tofu cutlet separate from the sauce until serving to preserve the crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू कात्सू करी",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर चार मोटे टुकड़े",
+        "छोटे दाने के चावल, सूखे",
+        "बिना अंडे के पांको ब्रेडक्रम्ब",
+        "मैदा",
+        "घोल के लिए पानी",
+        "हल्का सोया सॉस",
+        "प्याज़, कटा",
+        "गाजर, छोटे टुकड़े",
+        "आलू, छोटे टुकड़े",
+        "जापानी शैली का करी पाउडर",
+        "सब्ज़ियों का स्टॉक",
+        "हल्का स्वाद वाला तेल",
+        "नमक"
+      ],
+      "steps": [
+        "टोफू 20 मिनट दबाएँ, फिर चार मोटे टुकड़े काटकर सुखाएँ। सोया सॉस लगाएँ। चावल धोकर पैकेट के अनुसार नरम होने तक पकाएँ; ढककर गरम रखें।",
+        "60 ग्राम मैदे को 180 मिली पानी में फेंटकर चिकना घोल बनाएँ। बिना अंडे के पांको प्लेट में फैलाएँ। टोफू को घोल में डुबोकर अतिरिक्त टपकाएँ, फिर दोनों तरफ़ चूरा अच्छी तरह दबाएँ।",
+        "चौड़े पैन में 60 मिली तेल मध्यम आँच पर गरम करें। टोफू हर तरफ़ 4 मिनट सुनहरा और कुरकुरा होने तक कम तेल में तलें। जाली पर निकालें ताकि नीचे भी कुरकुरा रहे।",
+        "दूसरे पैन में बचा 30 मिली तेल गरम करें। प्याज़ 5 मिनट पकाएँ, गाजर और आलू 3 मिनट भूनें, फिर करी पाउडर और बचा 50 ग्राम मैदा 1 मिनट चलाएँ।",
+        "सब्ज़ियों का स्टॉक धीरे-धीरे चलाते हुए डालें ताकि सॉस चिकनी रहे। 15 मिनट उबालें, जब तक सब्ज़ियाँ नरम और करी गाढ़ी हो; नमक डालें। चावल बाँटें, पास में करी डालें और परोसने से ठीक पहले ऊपर कटा कुरकुरा टोफू रखें।"
+      ],
+      "tips": [
+        "सामग्री अनिश्चित तैयार करी ब्लॉक के बजाय बिना अंडे का पांको और शाकाहारी करी पाउडर लें। परोसने तक टोफू कटलेट सॉस से अलग रखें ताकि परत कुरकुरी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ કાત્સુ કરી",
+      "ingredients": [
+        "એક્સ્ટ્રા-ફર્મ ટોફુ, દબાવી ચાર જાડા ટુકડા",
+        "ટૂંકા દાણાનો સૂકો ભાત",
+        "ઈંડા વગરના પાંકો બ્રેડક્રમ્બ",
+        "મેંદો",
+        "ખીરા માટે પાણી",
+        "હળવો સોયા સોસ",
+        "ડુંગળી, સમારેલી",
+        "ગાજર, નાના ટુકડા",
+        "બટાકા, નાના ટુકડા",
+        "જાપાની શૈલીનો કરી પાઉડર",
+        "શાકભાજીનો સ્ટોક",
+        "હળવા સ્વાદનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટોફુ 20 મિનિટ દબાવો, પછી ચાર જાડા ટુકડા કાપી સૂકવો. સોયા સોસ લગાવો. ચોખા ધોઈ પૅકેટ પ્રમાણે નરમ થાય ત્યાં સુધી રાંધી ઢાંકી ગરમ રાખો.",
+        "60 ગ્રામ મેંદાને 180 મિલી પાણીમાં ફેંટીને સુંવાળું ખીરું બનાવો. ઈંડા વગરના પાંકો થાળીમાં પાથરો. ટોફુ ખીરામાં ડુબાડી વધારું ટપકવા દો, પછી બંને બાજુ ભૂકો સારી રીતે દબાવો.",
+        "પહોળા પૅનમાં 60 મિલી તેલ મધ્યમ તાપે ગરમ કરો. ટોફુ દરેક બાજુ 4 મિનિટ ઘેરો સોનેરી અને કરકરો થાય ત્યાં સુધી ઓછા તેલમાં તળો. નીચે પણ કરકરો રહે માટે જાળી પર કાઢો.",
+        "બીજા પૅનમાં બાકીનું 30 મિલી તેલ ગરમ કરો. ડુંગળી 5 મિનિટ પકાવો, ગાજર અને બટાકા 3 મિનિટ શેકો, પછી કરી પાઉડર અને બાકીનો 50 ગ્રામ મેંદો 1 મિનિટ હલાવો.",
+        "શાકભાજીનો સ્ટોક ધીમે ધીમે હલાવતાં નાખો જેથી સોસ સુંવાળી રહે. શાક નરમ અને કરી ઘાટી થાય ત્યાં સુધી 15 મિનિટ ઉકાળો; મીઠું નાખો. ભાત વહેંચો, બાજુમાં કરી નાખો અને પીરસતાં જ ઉપર સમારેલો કરકરો ટોફુ મૂકો."
+      ],
+      "tips": [
+        "અજાણી સામગ્રીવાળા તૈયાર કરી બ્લોકને બદલે ઈંડા વગરના પાંકો અને શાકાહારી કરી પાઉડર લો. પીરસતાં સુધી ટોફુ કટલેટ સોસથી અલગ રાખો જેથી પડ કરકરો રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://norecipes.com/vegan-katsu-curry/",
+    "use": "Japanese vegan katsu curry composition and crisp tofu method informed this independently measured recipe and reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/tofu-katsu-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

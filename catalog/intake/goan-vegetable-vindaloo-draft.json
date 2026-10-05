@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0285",
+  "id": "goan-vegetable-vindaloo",
+  "status": "published-third-100-intake-batch",
+  "name": "Goan Vegetable Vindaloo",
+  "cuisine": "Goan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "potato, 2 cm cubes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower florets",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, diced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper, chunks",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "dried Kashmiri red chilies",
+      "qty": 28,
+      "unit": "g"
+    },
+    {
+      "name": "garlic cloves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "malt or apple cider vinegar",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak dried chilies in hot water for 10 minutes. Grind them with garlic, ginger, vinegar, cumin, pepper and cinnamon into a smooth red vindaloo paste.",
+    "Heat oil in a heavy pot. Cook onion 7 minutes until golden; add vindaloo paste and fry 4–5 minutes, stirring, until fragrant and the raw vinegar edge softens.",
+    "Add potato and carrot, toss in paste for 2 minutes, then add 350 ml water and salt. Cover and simmer 10 minutes until almost tender.",
+    "Add cauliflower and pepper; simmer uncovered 8–10 minutes until vegetables are cooked but not mushy and sauce is deep red and tangy.",
+    "Rest covered 10 minutes for the vinegar and spice flavors to settle. Taste salt and serve with steamed rice."
+  ],
+  "tips": [
+    "Vinegar, dried chilies and garlic define vindaloo; do not replace the tang with only tomato."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोअन वेजिटेबल विंदालू",
+      "ingredients": [
+        "आलू, 2 सेमी टुकड़े",
+        "फूलगोभी के फूल",
+        "गाजर, टुकड़े",
+        "लाल शिमला मिर्च, टुकड़े",
+        "प्याज़, कटा",
+        "सूखी कश्मीरी लाल मिर्च",
+        "लहसुन की कलियाँ",
+        "अदरक",
+        "माल्ट या सेब का सिरका",
+        "जीरा",
+        "काली मिर्च के दाने",
+        "दालचीनी",
+        "हल्का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सूखी मिर्च 10 मिनट गरम पानी में भिगोएँ। लहसुन, अदरक, सिरका, जीरा, काली मिर्च और दालचीनी के साथ चिकना लाल विंदालू पेस्ट पीसें।",
+        "भारी बर्तन में तेल गरम कर प्याज़ 7 मिनट सुनहरा करें; विंदालू पेस्ट डालकर 4–5 मिनट चलाते हुए भूनें, सिरके की कच्ची तीक्ष्णता घटे।",
+        "आलू और गाजर पेस्ट में 2 मिनट चलाएँ, फिर 350 मि.ली. पानी और नमक डालें। ढककर लगभग नरम होने तक 10 मिनट पकाएँ।",
+        "फूलगोभी और शिमला मिर्च डालकर 8–10 मिनट बिना ढके पकाएँ, सब्जियाँ पकी पर गली नहीं और सॉस गहरा लाल-खट्टा हो।",
+        "ढककर 10 मिनट रखें ताकि सिरका और मसाले का स्वाद संतुलित हो। नमक जाँचें और भाप वाले चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "सिरका, सूखी मिर्च और लहसुन विंदालू की पहचान हैं; खटास के लिए केवल टमाटर न लें।"
+      ]
+    },
+    "gu": {
+      "name": "ગોવન વેજિટેબલ વિંદાલૂ",
+      "ingredients": [
+        "બટાકા, 2 સેમી ટુકડા",
+        "ફૂલકોબીનાં ફૂલ",
+        "ગાજર, ટુકડા",
+        "લાલ કેપ્સિકમ, ટુકડા",
+        "ડુંગળી, સમારેલી",
+        "સૂકાં કાશ્મીરી લાલ મરચાં",
+        "લસણની કળીઓ",
+        "આદુ",
+        "માલ્ટ કે સફરજનનો વિનેગર",
+        "જીરું",
+        "કાળા મરીના દાણા",
+        "તજ",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "સૂકાં મરચાં 10 મિનિટ ગરમ પાણીમાં પલાળો. લસણ, આદુ, વિનેગર, જીરું, મરી અને તજ સાથે મસૃણ લાલ વિંદાલૂ પેસ્ટ પીસો.",
+        "ભારે વાસણમાં તેલ ગરમ કરી ડુંગળી 7 મિનિટ સોનેરી કરો; વિંદાલૂ પેસ્ટ નાખી 4–5 મિનિટ હલાવી શેકો, વિનેગરની કાચી તીખાશ ઘટે.",
+        "બટાકા અને ગાજર પેસ્ટમાં 2 મિનિટ હલાવો, પછી 350 મિ.લી. પાણી અને મીઠું નાખો. ઢાંકી લગભગ નરમ થાય ત્યાં સુધી 10 મિનિટ રાંધો.",
+        "ફૂલકોબી અને કેપ્સિકમ નાખી 8–10 મિનિટ ઢાંકણ વગર રાંધો, શાક પાકે પણ ઢીલાં ન થાય અને સોસ ઘેરો લાલ-ખાટો થાય.",
+        "ઢાંકી 10 મિનિટ રાખો જેથી વિનેગર અને મસાલાનો સ્વાદ સંતુલિત થાય. મીઠું ચાખી બાફેલા ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "વિનેગર, સૂકાં મરચાં અને લસણ વિંદાલૂની ઓળખ છે; ખટાશ માટે માત્ર ટામેટાં ન લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/mushroom-vindaloo-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/goan-vegetable-vindaloo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

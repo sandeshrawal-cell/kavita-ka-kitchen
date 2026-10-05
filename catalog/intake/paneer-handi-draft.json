@@ -1,7 +1,7 @@
 {
   "sourceReviewId": "R0261",
   "id": "paneer-handi",
-  "status": "draft-recipe-translations-and-photo-ready",
+  "status": "published-third-100-intake-batch",
   "name": "Paneer Handi",
   "cuisine": "North Indian",
   "categories": [
@@ -150,5 +150,5 @@
     "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
   },
   "photoDraft": "catalog/intake/photos/paneer-handi.png",
-  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

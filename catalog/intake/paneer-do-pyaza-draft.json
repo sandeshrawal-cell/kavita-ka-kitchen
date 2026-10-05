@@ -1,0 +1,182 @@
+{
+  "sourceReviewId": "R0260",
+  "id": "paneer-do-pyaza",
+  "status": "published-third-100-intake-batch",
+  "name": "Paneer Do Pyaza",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onions, cut into petals",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, puréed",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, sliced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Separate 300 g onion into large petals and finely chop the other 250 g. Heat 15 ml oil in a pan and sear onion petals over high heat for 3–4 minutes so their edges colour but centres stay crisp; remove.",
+    "Add remaining oil and butter to the pan. Crackle cumin, add chopped onion and cook 8 minutes until golden. Stir in ginger-garlic paste and green chilies for 1 minute.",
+    "Add coriander, turmeric and chilli powder for 30 seconds, then tomato purée and 7 g salt. Cook uncovered for 8–10 minutes until thick and oil appears at the edges.",
+    "Lower heat and whisk yogurt into the masala a spoonful at a time. Add 180 ml water, paneer cubes and seared onion petals; simmer gently for 5 minutes without breaking the paneer.",
+    "Sprinkle garam masala, crushed dried fenugreek and remaining 3 g salt. Rest 5 minutes and serve with naan or roti. The second addition of onion petals is what makes this do pyaza distinct."
+  ],
+  "tips": [
+    "Keep the later-added onion petals slightly crisp and simmer paneer only briefly; this preserves the dish's two onion textures and soft cheese."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर दो प्याज़ा",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "प्याज़, बारीक कटा",
+        "प्याज़, बड़ी पंखुड़ियों में",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च, कटी",
+        "सादा दही",
+        "हल्का तेल",
+        "मक्खन",
+        "जीरा",
+        "पिसा धनिया",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "सूखी कसूरी मेथी",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "300 ग्राम प्याज़ को बड़ी पंखुड़ियों में अलग करें और बाकी 250 ग्राम बारीक काटें। पैन में 15 मिली तेल गरम कर बड़ी पंखुड़ियाँ तेज़ आँच पर 3–4 मिनट किनारे रंगने पर पर बीच से कुरकुरी रहने तक सेकें और निकालें।",
+        "पैन में बचा तेल और मक्खन डालें। जीरा चटकाकर बारीक प्याज़ 8 मिनट सुनहरा पकाएँ। अदरक-लहसुन पेस्ट और हरी मिर्च 1 मिनट चलाएँ।",
+        "धनिया, हल्दी और मिर्च पाउडर 30 सेकंड चलाएँ, फिर टमाटर प्यूरी और 7 ग्राम नमक डालें। 8–10 मिनट बिना ढके गाढ़ा और किनारों पर तेल दिखने तक पकाएँ।",
+        "आँच धीमी कर दही एक-एक चम्मच फेंटकर मसाले में डालें। 180 मिली पानी, पनीर के टुकड़े और सिकी प्याज़ पंखुड़ियाँ मिलाएँ; पनीर तोड़े बिना 5 मिनट हल्का उबालें।",
+        "गरम मसाला, मसलकर कसूरी मेथी और बचा 3 ग्राम नमक डालें। 5 मिनट रखकर नान या रोटी के साथ परोसें। प्याज़ की दूसरी बार डाली गई पंखुड़ियाँ ही इसे दो प्याज़ा बनाती हैं।"
+      ],
+      "tips": [
+        "बाद में डाली प्याज़ पंखुड़ियाँ थोड़ी कुरकुरी रखें और पनीर कम देर उबालें; इससे दो तरह का प्याज़ और नरम पनीर बने रहते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર દો પ્યાઝા",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "ડુંગળી, બારીક સમારેલી",
+        "ડુંગળી, મોટા પડમાં",
+        "ટામેટાંની પ્યુરી",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલાં મરચાં, સમારેલાં",
+        "સાદું દહીં",
+        "હળવું તેલ",
+        "માખણ",
+        "જીરું",
+        "દળેલા ધાણા",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "સૂકી કસૂરી મેથી",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "300 ગ્રામ ડુંગળીને મોટા પડમાં છૂટી કરો અને બાકીની 250 ગ્રામ બારીક સમારો. પૅનમાં 15 મિલી તેલ ગરમ કરી મોટા પડ ઊંચા તાપે 3–4 મિનિટ કિનારી રંગાય પણ વચ્ચે કરકરા રહે ત્યાં સુધી શેકી કાઢો.",
+        "પૅનમાં બાકીનું તેલ અને માખણ નાખો. જીરું તતડાવી બારીક ડુંગળી 8 મિનિટ સોનેરી કરો. આદુ-લસણની પેસ્ટ અને લીલાં મરચાં 1 મિનિટ હલાવો.",
+        "ધાણા, હળદર અને મરચું પાઉડર 30 સેકન્ડ હલાવો, પછી ટામેટાંની પ્યુરી અને 7 ગ્રામ મીઠું નાખો. 8–10 મિનિટ ઢાંક્યા વગર ઘાટું અને કિનારીથી તેલ છૂટે ત્યાં સુધી રાંધો.",
+        "તાપ ધીમો કરી દહીં એક-એક ચમચી ફેંટીને મસાલામાં નાખો. 180 મિલી પાણી, પનીરના ટુકડા અને શેકેલી ડુંગળીના પડ ભેળવો; પનીર તૂટે નહીં તેમ 5 મિનિટ હળવેથી ઉકાળો.",
+        "ગરમ મસાલો, મસળેલી કસૂરી મેથી અને બાકીનું 3 ગ્રામ મીઠું નાખો. 5 મિનિટ રાખી નાન કે રોટલી સાથે પીરસો. બીજી વખત ઉમેરેલા ડુંગળીના પડ જ તેને દો પ્યાઝા બનાવે છે."
+      ],
+      "tips": [
+        "પછી ઉમેરેલી ડુંગળીના પડ સહેજ કરકરા રાખો અને પનીર થોડો સમય જ ઉકાળો; તેથી બે પ્રકારની ડુંગળી અને નરમ પનીર રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-do-pyaza-recipe/",
+    "use": "Two onion treatments define the paneer do pyaza dish; measurements and wording independently written."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-do-pyaza.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

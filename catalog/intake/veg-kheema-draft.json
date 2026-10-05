@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0217",
+  "id": "veg-kheema",
+  "status": "published-third-100-intake-batch",
+  "name": "Veg Kheema",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "cauliflower, finely minced",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, finely minced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, finely chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pulse cauliflower and carrot briefly to a coarse mince; do not puree. Keep peas whole for colour and bite.",
+    "Heat oil and cumin in a wide pan. Fry onion for 7–8 minutes until golden, then add ginger-garlic paste and green chili for 1 minute.",
+    "Add tomatoes, coriander powder and 5 g salt. Cook uncovered for 8 minutes, pressing tomatoes until the masala is thick and nearly dry.",
+    "Add minced cauliflower, carrot and peas. Cook uncovered for 8–10 minutes, stirring, until vegetables are tender and excess moisture evaporates.",
+    "Finish with remaining salt, garam masala and coriander leaves. Serve the semi-dry vegetable keema with pav or roti."
+  ],
+  "tips": [
+    "A coarse mince gives the right texture; finely pureed vegetables release too much water."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेज कीमा",
+      "ingredients": [
+        "फूलगोभी, बारीक कटी",
+        "गाजर, बारीक कटी",
+        "हरी मटर",
+        "प्याज़, बारीक कटे",
+        "टमाटर, बारीक कटे",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च, कटी",
+        "तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "फूलगोभी और गाजर को थोड़ी देर चलाकर दरदरा कीमे-जैसा काटें; पेस्ट न बनाएँ। रंग और बनावट के लिए मटर साबुत रखें।",
+        "चौड़े पैन में तेल और जीरा गरम करें। प्याज़ 7–8 मिनट सुनहरा भूनें, फिर अदरक-लहसुन पेस्ट और हरी मिर्च 1 मिनट पकाएँ।",
+        "टमाटर, धनिया पाउडर और 5 ग्राम नमक डालें। 8 मिनट बिना ढके टमाटर मसलते हुए मसाला गाढ़ा और लगभग सूखा पकाएँ।",
+        "बारीक फूलगोभी, गाजर और मटर डालें। 8–10 मिनट बिना ढके चलाते हुए पकाएँ, जब तक सब्जियाँ नरम और अतिरिक्त पानी सूख जाए।",
+        "बचा नमक, गरम मसाला और हरा धनिया मिलाएँ। अर्ध-सूखा सब्ज़ी कीमा पाव या रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "दरदरा कीमा सही बनावट देता है; पिसी सब्जियाँ बहुत पानी छोड़ती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજ કીમા",
+      "ingredients": [
+        "ફૂલકોબી, ઝીણી સમારેલી",
+        "ગાજર, ઝીણી સમારેલી",
+        "લીલા વટાણા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાં, ઝીણાં સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું, સમારેલું",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "કોથમીર"
+      ],
+      "steps": [
+        "ફૂલકોબી અને ગાજરને થોડું પલ્સ કરી દરદરા કીમા જેવી સમારો; પેસ્ટ ન બનાવો. રંગ અને બનાવટ માટે વટાણા આખા રાખો.",
+        "પહોળી કડાઈમાં તેલ અને જીરું ગરમ કરો. ડુંગળી 7–8 મિનિટ સોનેરી શેકો, પછી આદુ-લસણની પેસ્ટ અને લીલું મરચું 1 મિનિટ રાંધો.",
+        "ટામેટાં, ધાણા પાઉડર અને 5 ગ્રામ મીઠું નાખો. 8 મિનિટ ઢાંક્યા વગર ટામેટાં મસળતાં મસાલો ઘટ્ટ અને લગભગ સૂકો રાંધો.",
+        "ઝીણી ફૂલકોબી, ગાજર અને વટાણા નાખો. 8–10 મિનિટ ઢાંક્યા વગર હલાવી રાંધો, શાક નરમ અને વધારાનો ભેજ સુકાય ત્યાં સુધી.",
+        "બાકી મીઠું, ગરમ મસાલો અને કોથમીર ભેળવો. અર્ધસૂકો શાકનો કીમો પાવ કે રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "દરદરો કીમો યોગ્ય બનાવટ આપે છે; લીસાં પીસેલા શાક બહુ પાણી છોડે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/veg-kheema-recipe/",
+    "use": "Mixed minced vegetable semi-dry keema technique; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/veg-kheema.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

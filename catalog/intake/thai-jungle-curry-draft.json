@@ -1,33 +1,168 @@
 {
- "sourceReviewId":"R0293","id":"thai-jungle-curry","status":"draft-photo-and-translation-reviewed","name":"Thai Jungle Curry","cuisine":"Thai","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":55,
- "ingredients":[
-  {"name":"Thai green eggplant, quartered","qty":240,"unit":"g"},
-  {"name":"green beans, cut into short lengths","qty":200,"unit":"g"},
-  {"name":"baby corn, halved","qty":160,"unit":"g"},
-  {"name":"mushrooms, sliced","qty":200,"unit":"g"},
-  {"name":"fresh green peppercorn clusters","qty":20,"unit":"g"},
-  {"name":"red chilies","qty":35,"unit":"g"},
-  {"name":"lemongrass tender inner stalk","qty":30,"unit":"g"},
-  {"name":"galangal, sliced","qty":20,"unit":"g"},
-  {"name":"garlic","qty":15,"unit":"g"},
-  {"name":"lime zest","qty":5,"unit":"g"},
-  {"name":"vegetable stock","qty":650,"unit":"ml"},
-  {"name":"light soy sauce","qty":30,"unit":"ml"},
-  {"name":"palm sugar","qty":15,"unit":"g"},
-  {"name":"neutral oil","qty":25,"unit":"ml"},
-  {"name":"Thai basil leaves","qty":25,"unit":"g"}
- ],
- "steps":[
-  "Pound red chilies, finely sliced lemongrass, galangal, garlic and lime zest into a smooth aromatic paste. Cut eggplant, beans, baby corn and mushrooms into even pieces and rinse the peppercorn clusters.",
-  "Heat oil in a deep pan over medium heat. Fry the fresh aromatic paste for 3 minutes, stirring constantly, until it smells fragrant but has not browned.",
-  "Pour in vegetable stock and stir to loosen the paste. Add eggplant and green beans, bring to a gentle boil and cook for 7 minutes.",
-  "Add baby corn, mushrooms, green peppercorns, soy sauce and palm sugar. Simmer uncovered for 8 minutes until the vegetables are tender but still colourful and the clear spicy broth tastes balanced.",
-  "Turn off heat and fold in Thai basil. Rest for 2 minutes so the leaves perfume the broth, then serve hot with rice; this jungle curry intentionally has no coconut milk."
- ],
- "tips":["Make the paste from these listed vegetarian aromatics rather than assuming a packaged paste is suitable. Jungle curry is a hot water-based broth, so do not add coconut milk."],
- "translations":{
-  "hi":{"name":"थाई जंगल करी","ingredients":["थाई हरा बैंगन, चौथाई टुकड़ों में","हरी फलियाँ, छोटे टुकड़े","बेबी कॉर्न, आधा कटा","मशरूम, कटे","ताज़ी हरी मिर्च-दाने की डालियाँ","लाल मिर्च","लेमनग्रास की नरम अंदरूनी डंडी","गलगल, कटा","लहसुन","नींबू के छिलके की बारीक कतरन","सब्ज़ियों का स्टॉक","हल्का सोया सॉस","पाम शुगर","हल्का स्वाद वाला तेल","थाई तुलसी की पत्तियाँ"],"steps":["लाल मिर्च, बारीक कटी लेमनग्रास, गलगल, लहसुन और नींबू की कतरन कूटकर चिकना खुशबूदार पेस्ट बनाएँ। बैंगन, फलियाँ, बेबी कॉर्न और मशरूम बराबर टुकड़ों में काटें तथा हरी मिर्च-दाने की डालियाँ धोएँ।","गहरे पैन में तेल मध्यम आँच पर गरम करें। ताज़ा खुशबूदार पेस्ट लगातार चलाते हुए 3 मिनट भूनें, जब तक महके लेकिन भूरा न हो।","सब्ज़ियों का स्टॉक डालकर पेस्ट घोलें। बैंगन और हरी फलियाँ डालें, हल्का उबाल आने दें और 7 मिनट पकाएँ।","बेबी कॉर्न, मशरूम, हरी मिर्च-दाने की डालियाँ, सोया सॉस और पाम शुगर डालें। बिना ढके 8 मिनट पकाएँ, जब तक सब्ज़ियाँ नरम मगर रंगीन रहें और साफ़ तीखा शोरबा संतुलित लगे।","आँच बंद कर थाई तुलसी मिलाएँ। 2 मिनट रखने से पत्तियों की खुशबू शोरबे में आ जाएगी; चावल के साथ गरम परोसें। इस जंगल करी में नारियल दूध जानबूझकर नहीं है।"],"tips":["तैयार पेस्ट को शाकाहारी मानने के बजाय दी हुई सामग्री से ही पेस्ट बनाएँ। जंगल करी तीखा पानी-आधारित शोरबा है, इसलिए नारियल दूध न डालें।"]},
-  "gu":{"name":"થાઈ જંગલ કરી","ingredients":["થાઈ લીલા રીંગણ, ચાર ભાગમાં","લીલા વાલ, નાના ટુકડામાં","બેબી કોર્ન, અડધાં કાપેલાં","મશરૂમ, સમારેલાં","તાજા લીલા મરીદાણાના ઝૂમખાં","લાલ મરચાં","લેમનગ્રાસની નરમ અંદરની ડાંડી","ગલંગલ, સમારેલું","લસણ","લીંબુની છાલનું બારીક છીણ","શાકભાજીનો સ્ટોક","હળવો સોયા સોસ","પામ સુગર","હળવા સ્વાદનું તેલ","થાઈ બેસિલના પાન"],"steps":["લાલ મરચાં, બારીક સમારેલું લેમનગ્રાસ, ગલંગલ, લસણ અને લીંબુની છાલ કૂટી સુંવાળું સુગંધી પેસ્ટ બનાવો. રીંગણ, વાલ, બેબી કોર્ન અને મશરૂમ સરખા ટુકડામાં કાપો તથા લીલા મરીદાણાના ઝૂમખાં ધુઓ.","ઊંડા પૅનમાં તેલ મધ્યમ તાપે ગરમ કરો. તાજું સુગંધી પેસ્ટ સતત હલાવી 3 મિનિટ સુગંધ આવે પણ ભૂરું ન થાય ત્યાં સુધી શેકો.","શાકભાજીનો સ્ટોક રેડી પેસ્ટ છૂટું કરો. રીંગણ અને લીલા વાલ નાખી ધીમો ઉકાળો લાવો અને 7 મિનિટ પકાવો.","બેબી કોર્ન, મશરૂમ, લીલા મરીદાણા, સોયા સોસ અને પામ સુગર નાખો. ઢાંક્યા વગર 8 મિનિટ ઉકાળો જેથી શાક નરમ પણ રંગીન રહે અને ચોખ્ખા તીખા રસાનો સ્વાદ સંતુલિત થાય.","તાપ બંધ કરી થાઈ બેસિલ ભેળવો. 2 મિનિટ રાખતાં પાનની સુગંધ રસામાં આવશે; ભાત સાથે ગરમ પીરસો. આ જંગલ કરીમાં જાણપૂર્વક નાળિયેરનું દૂધ નથી."],"tips":["તૈયાર પેસ્ટને શાકાહારી માની લેવાને બદલે સૂચિત સામગ્રીથી જ પેસ્ટ બનાવો. જંગલ કરી તીખો પાણી આધારિત રસો છે, તેથી નાળિયેરનું દૂધ ન નાખો."]}
- },
- "reference":{"url":"https://hot-thai-kitchen.com/jungle-curry/","use":"Thai jungle curry's water-based, herbaceous method informed this independently written vegetarian preparation."}
+  "sourceReviewId": "R0293",
+  "id": "thai-jungle-curry",
+  "status": "published-third-100-intake-batch",
+  "name": "Thai Jungle Curry",
+  "cuisine": "Thai",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "Thai green eggplant, quartered",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "green beans, cut into short lengths",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "baby corn, halved",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "mushrooms, sliced",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh green peppercorn clusters",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "red chilies",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "lemongrass tender inner stalk",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "galangal, sliced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "lime zest",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "Thai basil leaves",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Pound red chilies, finely sliced lemongrass, galangal, garlic and lime zest into a smooth aromatic paste. Cut eggplant, beans, baby corn and mushrooms into even pieces and rinse the peppercorn clusters.",
+    "Heat oil in a deep pan over medium heat. Fry the fresh aromatic paste for 3 minutes, stirring constantly, until it smells fragrant but has not browned.",
+    "Pour in vegetable stock and stir to loosen the paste. Add eggplant and green beans, bring to a gentle boil and cook for 7 minutes.",
+    "Add baby corn, mushrooms, green peppercorns, soy sauce and palm sugar. Simmer uncovered for 8 minutes until the vegetables are tender but still colourful and the clear spicy broth tastes balanced.",
+    "Turn off heat and fold in Thai basil. Rest for 2 minutes so the leaves perfume the broth, then serve hot with rice; this jungle curry intentionally has no coconut milk."
+  ],
+  "tips": [
+    "Make the paste from these listed vegetarian aromatics rather than assuming a packaged paste is suitable. Jungle curry is a hot water-based broth, so do not add coconut milk."
+  ],
+  "translations": {
+    "hi": {
+      "name": "थाई जंगल करी",
+      "ingredients": [
+        "थाई हरा बैंगन, चौथाई टुकड़ों में",
+        "हरी फलियाँ, छोटे टुकड़े",
+        "बेबी कॉर्न, आधा कटा",
+        "मशरूम, कटे",
+        "ताज़ी हरी मिर्च-दाने की डालियाँ",
+        "लाल मिर्च",
+        "लेमनग्रास की नरम अंदरूनी डंडी",
+        "गलगल, कटा",
+        "लहसुन",
+        "नींबू के छिलके की बारीक कतरन",
+        "सब्ज़ियों का स्टॉक",
+        "हल्का सोया सॉस",
+        "पाम शुगर",
+        "हल्का स्वाद वाला तेल",
+        "थाई तुलसी की पत्तियाँ"
+      ],
+      "steps": [
+        "लाल मिर्च, बारीक कटी लेमनग्रास, गलगल, लहसुन और नींबू की कतरन कूटकर चिकना खुशबूदार पेस्ट बनाएँ। बैंगन, फलियाँ, बेबी कॉर्न और मशरूम बराबर टुकड़ों में काटें तथा हरी मिर्च-दाने की डालियाँ धोएँ।",
+        "गहरे पैन में तेल मध्यम आँच पर गरम करें। ताज़ा खुशबूदार पेस्ट लगातार चलाते हुए 3 मिनट भूनें, जब तक महके लेकिन भूरा न हो।",
+        "सब्ज़ियों का स्टॉक डालकर पेस्ट घोलें। बैंगन और हरी फलियाँ डालें, हल्का उबाल आने दें और 7 मिनट पकाएँ।",
+        "बेबी कॉर्न, मशरूम, हरी मिर्च-दाने की डालियाँ, सोया सॉस और पाम शुगर डालें। बिना ढके 8 मिनट पकाएँ, जब तक सब्ज़ियाँ नरम मगर रंगीन रहें और साफ़ तीखा शोरबा संतुलित लगे।",
+        "आँच बंद कर थाई तुलसी मिलाएँ। 2 मिनट रखने से पत्तियों की खुशबू शोरबे में आ जाएगी; चावल के साथ गरम परोसें। इस जंगल करी में नारियल दूध जानबूझकर नहीं है।"
+      ],
+      "tips": [
+        "तैयार पेस्ट को शाकाहारी मानने के बजाय दी हुई सामग्री से ही पेस्ट बनाएँ। जंगल करी तीखा पानी-आधारित शोरबा है, इसलिए नारियल दूध न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "થાઈ જંગલ કરી",
+      "ingredients": [
+        "થાઈ લીલા રીંગણ, ચાર ભાગમાં",
+        "લીલા વાલ, નાના ટુકડામાં",
+        "બેબી કોર્ન, અડધાં કાપેલાં",
+        "મશરૂમ, સમારેલાં",
+        "તાજા લીલા મરીદાણાના ઝૂમખાં",
+        "લાલ મરચાં",
+        "લેમનગ્રાસની નરમ અંદરની ડાંડી",
+        "ગલંગલ, સમારેલું",
+        "લસણ",
+        "લીંબુની છાલનું બારીક છીણ",
+        "શાકભાજીનો સ્ટોક",
+        "હળવો સોયા સોસ",
+        "પામ સુગર",
+        "હળવા સ્વાદનું તેલ",
+        "થાઈ બેસિલના પાન"
+      ],
+      "steps": [
+        "લાલ મરચાં, બારીક સમારેલું લેમનગ્રાસ, ગલંગલ, લસણ અને લીંબુની છાલ કૂટી સુંવાળું સુગંધી પેસ્ટ બનાવો. રીંગણ, વાલ, બેબી કોર્ન અને મશરૂમ સરખા ટુકડામાં કાપો તથા લીલા મરીદાણાના ઝૂમખાં ધુઓ.",
+        "ઊંડા પૅનમાં તેલ મધ્યમ તાપે ગરમ કરો. તાજું સુગંધી પેસ્ટ સતત હલાવી 3 મિનિટ સુગંધ આવે પણ ભૂરું ન થાય ત્યાં સુધી શેકો.",
+        "શાકભાજીનો સ્ટોક રેડી પેસ્ટ છૂટું કરો. રીંગણ અને લીલા વાલ નાખી ધીમો ઉકાળો લાવો અને 7 મિનિટ પકાવો.",
+        "બેબી કોર્ન, મશરૂમ, લીલા મરીદાણા, સોયા સોસ અને પામ સુગર નાખો. ઢાંક્યા વગર 8 મિનિટ ઉકાળો જેથી શાક નરમ પણ રંગીન રહે અને ચોખ્ખા તીખા રસાનો સ્વાદ સંતુલિત થાય.",
+        "તાપ બંધ કરી થાઈ બેસિલ ભેળવો. 2 મિનિટ રાખતાં પાનની સુગંધ રસામાં આવશે; ભાત સાથે ગરમ પીરસો. આ જંગલ કરીમાં જાણપૂર્વક નાળિયેરનું દૂધ નથી."
+      ],
+      "tips": [
+        "તૈયાર પેસ્ટને શાકાહારી માની લેવાને બદલે સૂચિત સામગ્રીથી જ પેસ્ટ બનાવો. જંગલ કરી તીખો પાણી આધારિત રસો છે, તેથી નાળિયેરનું દૂધ ન નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hot-thai-kitchen.com/jungle-curry/",
+    "use": "Thai jungle curry's water-based, herbaceous method informed this independently written vegetarian preparation."
+  },
+  "photoDraft": "catalog/intake/photos/thai-jungle-curry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

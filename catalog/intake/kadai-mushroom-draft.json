@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0272",
+  "id": "kadai-mushroom",
+  "status": "published-third-100-intake-batch",
+  "name": "Kadai Mushroom",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "button mushrooms, halved",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper, chunks",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, chunks",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "dried Kashmiri red chilies",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast coriander seeds, red chilies, cumin and pepper for 2 minutes on low heat. Cool and crush coarsely to make fresh kadai masala.",
+    "Wipe mushrooms clean. Heat half the oil in a kadai and sauté mushrooms 5–6 minutes until their water evaporates and edges brown; remove.",
+    "Add remaining oil and cook onion 5 minutes. Add ginger-garlic paste for 1 minute, then tomato puree and salt; cook 7 minutes until thick and glossy.",
+    "Add both peppers and stir-fry 4 minutes so they remain firm. Add crushed kadai masala and 120 ml water; simmer 3 minutes.",
+    "Return mushrooms and warm 2 minutes. Crush dried fenugreek over the top and serve hot with roti."
+  ],
+  "tips": [
+    "Fresh coarse kadai masala and peppers distinguish this from ordinary mushroom curry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कड़ाही मशरूम",
+      "ingredients": [
+        "बटन मशरूम, आधे कटे",
+        "लाल शिमला मिर्च, टुकड़े",
+        "हरी शिमला मिर्च, टुकड़े",
+        "प्याज़, कटा",
+        "टमाटर प्यूरी",
+        "साबुत धनिया",
+        "सूखी कश्मीरी लाल मिर्च",
+        "जीरा",
+        "काली मिर्च के दाने",
+        "अदरक-लहसुन पेस्ट",
+        "हल्का तेल",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "धनिया, लाल मिर्च, जीरा और काली मिर्च धीमी आँच पर 2 मिनट भूनें। ठंडा कर दरदरा कूटकर ताज़ा कड़ाही मसाला बनाएँ।",
+        "मशरूम साफ पोंछें। कड़ाही में आधा तेल गरम कर मशरूम 5–6 मिनट भूनें, जब तक पानी सूखे और किनारे सुनहरे हों; निकालें।",
+        "बचा तेल डालकर प्याज़ 5 मिनट पकाएँ। अदरक-लहसुन 1 मिनट, फिर टमाटर प्यूरी और नमक डालकर 7 मिनट गाढ़ा और चमकदार करें।",
+        "दोनों शिमला मिर्च डालकर 4 मिनट भूनें ताकि कसावट रहे। कुटा कड़ाही मसाला और 120 मि.ली. पानी डालकर 3 मिनट पकाएँ।",
+        "मशरूम वापस डालकर 2 मिनट गरम करें। ऊपर कसूरी मेथी मसलकर डालें और रोटी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "ताज़ा दरदरा कड़ाही मसाला और शिमला मिर्च इसे साधारण मशरूम करी से अलग रखते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કડાઈ મશરૂમ",
+      "ingredients": [
+        "બટન મશરૂમ, અડધાં કાપેલા",
+        "લાલ કેપ્સિકમ, ટુકડા",
+        "લીલું કેપ્સિકમ, ટુકડા",
+        "ડુંગળી, કાપેલી",
+        "ટામેટાની પ્યુરી",
+        "આખા ધાણા",
+        "સૂકાં કાશ્મીરી લાલ મરચાં",
+        "જીરું",
+        "કાળા મરીના દાણા",
+        "આદુ-લસણની પેસ્ટ",
+        "હળવું તેલ",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ધાણા, લાલ મરચાં, જીરું અને મરી ધીમા તાપે 2 મિનિટ શેકો. ઠંડું કરી કરકરું ખાંડી તાજો કડાઈ મસાલો બનાવો.",
+        "મશરૂમ સાફ કરો. કડાઈમાં અડધું તેલ ગરમ કરી મશરૂમ 5–6 મિનિટ શેકો, પાણી સુકાય અને કિનારી સોનેરી થાય ત્યાં સુધી; કાઢો.",
+        "બાકીનું તેલ નાખી ડુંગળી 5 મિનિટ રાંધો. આદુ-લસણ 1 મિનિટ, પછી ટામેટાની પ્યુરી અને મીઠું નાખી 7 મિનિટ ઘટ્ટ અને ચમકતું કરો.",
+        "બંને કેપ્સિકમ નાખી 4 મિનિટ શેકો જેથી કરકરાં રહે. ખાંડેલો કડાઈ મસાલો અને 120 મિ.લી. પાણી નાખી 3 મિનિટ રાંધો.",
+        "મશરૂમ પાછાં નાખી 2 મિનિટ ગરમ કરો. ઉપર કસૂરી મેથી મસળી નાખો અને રોટલી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "તાજો કરકરો કડાઈ મસાલો અને કેપ્સિકમ આને સામાન્ય મશરૂમ કરીથી અલગ રાખે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/kadai-mushroom-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/kadai-mushroom.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

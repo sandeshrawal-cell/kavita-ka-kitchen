@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0218",
+  "id": "kathal-kofta",
+  "status": "published-third-100-intake-batch",
+  "name": "Kathal Kofta",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "young green jackfruit, drained and chopped",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "potato, boiled and mashed",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil the young jackfruit until tender, about 15 minutes, then drain very well and shred finely. Squeeze out excess moisture so kofta will hold together.",
+    "Mix jackfruit with mashed potato, chickpea flour, 4 g salt and half the garam masala. Shape into 12 firm balls; rest 10 minutes.",
+    "Heat 55 ml oil in a pan and shallow-fry kofta in batches until golden on all sides, about 7 minutes per batch. Drain on kitchen paper.",
+    "Heat remaining oil, fry onion 7 minutes, then ginger-garlic paste 1 minute. Add tomato puree, coriander, chili and remaining salt; cook 10 minutes until thick. Add water and simmer 5 minutes.",
+    "Stir in remaining garam masala. Place kofta in a serving dish and spoon hot gravy around them just before eating so the crust stays intact."
+  ],
+  "tips": [
+    "Drain jackfruit thoroughly; wet shreds make fragile kofta that break during frying."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कटहल कोफ्ता",
+      "ingredients": [
+        "कच्चा कटहल, निथारा और कटा",
+        "आलू, उबला और मसला",
+        "बेसन",
+        "प्याज़, बारीक कटा",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "कच्चा कटहल लगभग 15 मिनट नरम होने तक उबालें, फिर खूब छानकर बारीक रेशा करें। अतिरिक्त पानी निचोड़ें ताकि कोफ्ते बँधें।",
+        "कटहल में मसला आलू, बेसन, 4 ग्राम नमक और आधा गरम मसाला मिलाएँ। 12 कसे गोले बनाएँ और 10 मिनट रहने दें।",
+        "पैन में 55 मिली तेल गरम करके कोफ्ते बैच में हर तरफ सुनहरे होने तक लगभग 7 मिनट सेंकें। कागज़ पर निकालें।",
+        "बचे तेल में प्याज़ 7 मिनट और अदरक-लहसुन पेस्ट 1 मिनट भूनें। टमाटर प्यूरी, धनिया, मिर्च और बचा नमक डालकर 10 मिनट गाढ़ा पकाएँ। पानी डालकर 5 मिनट उबालें।",
+        "बचा गरम मसाला मिलाएँ। परोसने के बर्तन में कोफ्ते रखें और खाते समय उनके आसपास गरम तरी डालें ताकि परत बनी रहे।"
+      ],
+      "tips": [
+        "कटहल खूब निथारें; गीले रेशों से कोफ्ते तलते समय टूट सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કઠલ કોફ્તા",
+      "ingredients": [
+        "કાચું કઠલ, નિતારી સમારેલું",
+        "બટાકું, બાફી મસળેલું",
+        "બેસન",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાચું કઠલ આશરે 15 મિનિટ નરમ થાય ત્યાં સુધી બાફો, પછી સારી રીતે નિતારી ઝીણા રેસા કરો. વધારાનું પાણી નિચોવો જેથી કોફ્તા બંધાય.",
+        "કઠલમાં મસળેલું બટાકું, બેસન, 4 ગ્રામ મીઠું અને અડધો ગરમ મસાલો ભેળવો. 12 મજબૂત ગોળા બનાવી 10 મિનિટ રહેવા દો.",
+        "કડાઈમાં 55 મિ.લી. તેલ ગરમ કરી કોફ્તા હપ્તામાં દરેક બાજુ સોનેરી થાય ત્યાં સુધી આશરે 7 મિનિટ શેકો. કાગળ પર કાઢો.",
+        "બાકી તેલમાં ડુંગળી 7 મિનિટ અને આદુ-લસણની પેસ્ટ 1 મિનિટ શેકો. ટામેટાંની પ્યૂરી, ધાણા, મરચું અને બાકી મીઠું નાખી 10 મિનિટ ઘટ્ટ રાંધો. પાણી નાખી 5 મિનિટ ઉકાળો.",
+        "બાકી ગરમ મસાલો ભેળવો. પીરસવાના વાસણમાં કોફ્તા મૂકી ખાતાં જ ગરમ ગ્રેવી આસપાસ રેડો જેથી બહારનું પડ જળવાય."
+      ],
+      "tips": [
+        "કઠલ સારી રીતે નિતારો; ભીના રેસાથી કોફ્તા તળતાં તૂટી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/raw-jackfruit-kofta-curry-recipe-kathal-kofta-curry-recipe//",
+    "use": "Young jackfruit kofta in onion-tomato gravy; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kathal-kofta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

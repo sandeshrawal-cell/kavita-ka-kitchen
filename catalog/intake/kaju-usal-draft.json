@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0284",
+  "id": "kaju-usal",
+  "status": "published-third-100-intake-batch",
+  "name": "Kaju Usal",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "raw whole cashews, preferably tender",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Maharashtrian goda masala",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "If using dry raw cashews, soak them in hot water for 30 minutes and drain; fresh tender cashews need no soaking. Grind coconut with 100 ml measured water to a smooth paste.",
+    "Heat oil in a heavy pan. Crackle mustard seeds and curry leaves for 30 seconds, then cook onion 7 minutes until golden. Add ginger-garlic paste for 1 minute.",
+    "Add tomato, goda masala, chili, turmeric and salt. Cook 6 minutes until thick; add coconut paste and cook another 3 minutes, stirring.",
+    "Add cashews and remaining 250 ml water. Cover and simmer 10–12 minutes until cashews are tender but intact and the coconut gravy coats them.",
+    "Taste the seasoning and simmer uncovered briefly if too thin. Garnish with coriander and serve hot with chapati or rice."
+  ],
+  "tips": [
+    "Fresh tender cashews are traditional; soaked raw cashews are a practical substitute."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काजू उसळ",
+      "ingredients": [
+        "कच्चे साबुत काजू, संभव हो तो नरम",
+        "प्याज़, बारीक कटा",
+        "ताज़ा कसा नारियल",
+        "टमाटर, कटा",
+        "अदरक-लहसुन पेस्ट",
+        "महाराष्ट्रीयन गोडा मसाला",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "हल्का तेल",
+        "राई",
+        "करी पत्ते",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सूखे कच्चे काजू हों तो 30 मिनट गरम पानी में भिगोकर छानें; ताज़े नरम काजू न भिगोएँ। नारियल 100 मि.ली. दिए पानी से चिकना पीसें।",
+        "भारी पैन में तेल गरम करें। राई और करी पत्ते 30 सेकंड चटकाएँ, फिर प्याज़ 7 मिनट सुनहरा करें। अदरक-लहसुन 1 मिनट पकाएँ।",
+        "टमाटर, गोडा मसाला, मिर्च, हल्दी और नमक डालकर 6 मिनट गाढ़ा करें; नारियल पेस्ट डालकर 3 मिनट और चलाते हुए पकाएँ।",
+        "काजू और बचा 250 मि.ली. पानी डालें। ढककर 10–12 मिनट पकाएँ, काजू नरम लेकिन साबुत और नारियल ग्रेवी से लिपटे रहें।",
+        "मसाला चखें; बहुत पतला हो तो थोड़ी देर बिना ढके पकाएँ। धनिया डालकर चपाती या चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "ताज़े नरम काजू पारंपरिक हैं; भिगोए कच्चे काजू आसान विकल्प हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કાજુ ઉસળ",
+      "ingredients": [
+        "કાચાં આખાં કાજુ, શક્ય હોય તો નરમ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "તાજું છીણેલું નાળિયેર",
+        "ટામેટાં, સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "મહારાષ્ટ્રિયન ગોડા મસાલો",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "હળવું તેલ",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "સૂકા કાચા કાજુ હોય તો 30 મિનિટ ગરમ પાણીમાં પલાળી નિતારો; તાજા નરમ કાજુ ન પલાળો. નાળિયેરને આપેલા 100 મિ.લી. પાણીથી મસૃણ પીસો.",
+        "ભારે કડાઈમાં તેલ ગરમ કરો. રાઈ અને મીઠા લીમડાનાં પાન 30 સેકંડ તડકાવો, પછી ડુંગળી 7 મિનિટ સોનેરી કરો. આદુ-લસણ 1 મિનિટ રાંધો.",
+        "ટામેટાં, ગોડા મસાલો, મરચું, હળદર અને મીઠું નાખી 6 મિનિટ ઘટ્ટ કરો; નાળિયેર પેસ્ટ નાખી 3 મિનિટ વધુ હલાવી રાંધો.",
+        "કાજુ અને બાકીનું 250 મિ.લી. પાણી નાખો. ઢાંકી 10–12 મિનિટ રાંધો, કાજુ નરમ પણ આખાં અને નાળિયેરની ગ્રેવીથી ઢંકાયેલા રહે.",
+        "મસાલો ચાખો; બહુ પાતળું હોય તો થોડી વાર ઢાંકણ વગર રાંધો. કોથમીર નાખી ચપાટી કે ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "તાજા નરમ કાજુ પરંપરાગત છે; પલાળેલા કાચા કાજુ સરળ વિકલ્પ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://myfamilyrecipes.kunkalienkar.com/2023/03/olya-kajuchi-usal/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/kaju-usal.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

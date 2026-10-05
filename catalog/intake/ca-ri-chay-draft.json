@@ -1,33 +1,168 @@
 {
- "sourceReviewId":"R0296","id":"ca-ri-chay","status":"draft-photo-and-translation-reviewed","name":"Cà Ri Chay","cuisine":"Vietnamese","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":55,
- "ingredients":[
-  {"name":"firm tofu, cubed","qty":500,"unit":"g"},
-  {"name":"sweet potato, peeled and cubed","qty":300,"unit":"g"},
-  {"name":"taro, peeled and cubed","qty":250,"unit":"g"},
-  {"name":"carrot, cut into chunks","qty":200,"unit":"g"},
-  {"name":"lemongrass stalks, bruised","qty":45,"unit":"g"},
-  {"name":"Vietnamese-style curry powder","qty":20,"unit":"g"},
-  {"name":"coconut milk","qty":450,"unit":"ml"},
-  {"name":"vegetable stock","qty":350,"unit":"ml"},
-  {"name":"onion, sliced","qty":150,"unit":"g"},
-  {"name":"garlic, minced","qty":15,"unit":"g"},
-  {"name":"neutral oil","qty":25,"unit":"ml"},
-  {"name":"light soy sauce","qty":30,"unit":"ml"},
-  {"name":"sugar","qty":12,"unit":"g"},
-  {"name":"salt","qty":6,"unit":"g"},
-  {"name":"fresh coriander leaves","qty":20,"unit":"g"}
- ],
- "steps":[
-  "Press tofu and cut into cubes. Peel sweet potato and taro carefully, cut them and carrot into even chunks, and bruise the lemongrass so it releases its aroma.",
-  "Heat oil in a deep pan over medium heat. Brown tofu for 3 minutes per side, lift it out, then soften sliced onion for 4 minutes. Add garlic and curry powder and stir for 1 minute.",
-  "Add sweet potato, taro, carrot and lemongrass. Pour in vegetable stock and coconut milk, stir gently and bring only to a simmer.",
-  "Cover and cook for 18 minutes, checking that taro and sweet potato are completely tender but not falling apart. Return tofu with soy sauce, sugar and salt; simmer uncovered for 5 minutes.",
-  "Remove the tough lemongrass stalks. Scatter coriander over the golden curry and serve with rice or an eggless baguette while the vegetables still hold their shape."
- ],
- "tips":["Peel taro with gloves if it irritates your skin, and cook it until fully tender. The bruised lemongrass stalks perfume the curry but should be removed before serving."],
- "translations":{
-  "hi":{"name":"का री चाय","ingredients":["सख़्त टोफू, टुकड़ों में","शकरकंद, छीलकर टुकड़ों में","अरबी की जड़, छीलकर टुकड़ों में","गाजर, टुकड़ों में","लेमनग्रास की डंडियाँ, कुचली","वियतनामी शैली का करी पाउडर","नारियल का दूध","सब्ज़ियों का स्टॉक","प्याज़, कटा","लहसुन, बारीक कटा","हल्का स्वाद वाला तेल","हल्का सोया सॉस","चीनी","नमक","ताज़ा हरा धनिया"],"steps":["टोफू दबाकर टुकड़े करें। शकरकंद और अरबी की जड़ सावधानी से छीलें, उन्हें और गाजर को बराबर टुकड़ों में काटें, और लेमनग्रास को कुचलें ताकि खुशबू निकले।","गहरे पैन में तेल मध्यम आँच पर गरम करें। टोफू हर तरफ़ 3 मिनट सुनहरा कर निकालें, फिर प्याज़ 4 मिनट नरम करें। लहसुन और करी पाउडर डालकर 1 मिनट चलाएँ।","शकरकंद, अरबी, गाजर और लेमनग्रास डालें। सब्ज़ियों का स्टॉक और नारियल दूध डालकर धीरे मिलाएँ और बस हल्का उबाल आने दें।","ढककर 18 मिनट पकाएँ, अरबी और शकरकंद पूरी तरह नरम हों मगर बिखरें नहीं। टोफू, सोया सॉस, चीनी और नमक डालें; बिना ढके 5 मिनट उबालें।","सख़्त लेमनग्रास डंडियाँ निकाल दें। सुनहरी करी पर धनिया बिखेरें और चावल या बिना अंडे की बागेट के साथ परोसें, जब सब्ज़ियाँ अपना आकार बनाए रखें।"],"tips":["अगर अरबी छीलने से त्वचा में खुजली हो तो दस्ताने पहनें और अरबी पूरी नरम होने तक पकाएँ। कुचली लेमनग्रास की डंडियाँ खुशबू देती हैं, पर परोसने से पहले निकाल दें।"]},
-  "gu":{"name":"કા રી ચાય","ingredients":["કડક ટોફુ, ટુકડામાં","શક્કરિયાં, છાલ ઉતારી ટુકડામાં","અરબીનું મૂળ, છાલ ઉતારી ટુકડામાં","ગાજર, ટુકડામાં","લેમનગ્રાસની ડાંડી, કચડેલી","વિયેતનામી શૈલીનો કરી પાઉડર","નાળિયેરનું દૂધ","શાકભાજીનો સ્ટોક","ડુંગળી, સમારેલી","લસણ, બારીક સમારેલું","હળવા સ્વાદનું તેલ","હળવો સોયા સોસ","ખાંડ","મીઠું","તાજી કોથમીર"],"steps":["ટોફુ દબાવી ટુકડા કરો. શક્કરિયાં અને અરબીનું મૂળ કાળજીથી છોલી ગાજર સાથે સરખા ટુકડામાં કાપો, અને લેમનગ્રાસ કચડી તેની સુગંધ બહાર લાવો.","ઊંડા પૅનમાં તેલ મધ્યમ તાપે ગરમ કરો. ટોફુ દરેક બાજુ 3 મિનિટ સોનેરી કરી કાઢો, પછી ડુંગળી 4 મિનિટ નરમ કરો. લસણ અને કરી પાઉડર નાખી 1 મિનિટ હલાવો.","શક્કરિયાં, અરબી, ગાજર અને લેમનગ્રાસ નાખો. શાકભાજીનો સ્ટોક અને નાળિયેર દૂધ રેડી ધીમેથી હલાવો અને માત્ર હળવો ઉકાળો લાવો.","ઢાંકી 18 મિનિટ રાંધો જેથી અરબી અને શક્કરિયાં સંપૂર્ણ નરમ પણ અકબંધ રહે. ટોફુ સાથે સોયા સોસ, ખાંડ અને મીઠું નાખો; ઢાંક્યા વગર 5 મિનિટ ઉકાળો.","કડક લેમનગ્રાસની ડાંડી કાઢી લો. સોનેરી કરી પર કોથમીર છાંટી ભાત કે ઈંડા વગરની બાગેટ સાથે પીરસો, જ્યારે શાક પોતાનો આકાર જાળવે."],"tips":["અરબી છોલતાં ચામડીમાં ખંજવાળ આવે તો મોજાં પહેરો અને તેને પૂરી નરમ થાય ત્યાં સુધી પકાવો. કચડેલી લેમનગ્રાસની ડાંડી સુગંધ આપે છે પણ પીરસતાં પહેલાં કાઢો."]}
- },
- "reference":{"url":"https://veggieanh.com/vegan-vietnamese-curry/","use":"Vietnamese vegetarian coconut curry with tofu, sweet potato and taro; quantities and wording independently authored for the reviewed photo."}
+  "sourceReviewId": "R0296",
+  "id": "ca-ri-chay",
+  "status": "published-third-100-intake-batch",
+  "name": "Cà Ri Chay",
+  "cuisine": "Vietnamese",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "firm tofu, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "sweet potato, peeled and cubed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "taro, peeled and cubed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, cut into chunks",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "lemongrass stalks, bruised",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "Vietnamese-style curry powder",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu and cut into cubes. Peel sweet potato and taro carefully, cut them and carrot into even chunks, and bruise the lemongrass so it releases its aroma.",
+    "Heat oil in a deep pan over medium heat. Brown tofu for 3 minutes per side, lift it out, then soften sliced onion for 4 minutes. Add garlic and curry powder and stir for 1 minute.",
+    "Add sweet potato, taro, carrot and lemongrass. Pour in vegetable stock and coconut milk, stir gently and bring only to a simmer.",
+    "Cover and cook for 18 minutes, checking that taro and sweet potato are completely tender but not falling apart. Return tofu with soy sauce, sugar and salt; simmer uncovered for 5 minutes.",
+    "Remove the tough lemongrass stalks. Scatter coriander over the golden curry and serve with rice or an eggless baguette while the vegetables still hold their shape."
+  ],
+  "tips": [
+    "Peel taro with gloves if it irritates your skin, and cook it until fully tender. The bruised lemongrass stalks perfume the curry but should be removed before serving."
+  ],
+  "translations": {
+    "hi": {
+      "name": "का री चाय",
+      "ingredients": [
+        "सख़्त टोफू, टुकड़ों में",
+        "शकरकंद, छीलकर टुकड़ों में",
+        "अरबी की जड़, छीलकर टुकड़ों में",
+        "गाजर, टुकड़ों में",
+        "लेमनग्रास की डंडियाँ, कुचली",
+        "वियतनामी शैली का करी पाउडर",
+        "नारियल का दूध",
+        "सब्ज़ियों का स्टॉक",
+        "प्याज़, कटा",
+        "लहसुन, बारीक कटा",
+        "हल्का स्वाद वाला तेल",
+        "हल्का सोया सॉस",
+        "चीनी",
+        "नमक",
+        "ताज़ा हरा धनिया"
+      ],
+      "steps": [
+        "टोफू दबाकर टुकड़े करें। शकरकंद और अरबी की जड़ सावधानी से छीलें, उन्हें और गाजर को बराबर टुकड़ों में काटें, और लेमनग्रास को कुचलें ताकि खुशबू निकले।",
+        "गहरे पैन में तेल मध्यम आँच पर गरम करें। टोफू हर तरफ़ 3 मिनट सुनहरा कर निकालें, फिर प्याज़ 4 मिनट नरम करें। लहसुन और करी पाउडर डालकर 1 मिनट चलाएँ।",
+        "शकरकंद, अरबी, गाजर और लेमनग्रास डालें। सब्ज़ियों का स्टॉक और नारियल दूध डालकर धीरे मिलाएँ और बस हल्का उबाल आने दें।",
+        "ढककर 18 मिनट पकाएँ, अरबी और शकरकंद पूरी तरह नरम हों मगर बिखरें नहीं। टोफू, सोया सॉस, चीनी और नमक डालें; बिना ढके 5 मिनट उबालें।",
+        "सख़्त लेमनग्रास डंडियाँ निकाल दें। सुनहरी करी पर धनिया बिखेरें और चावल या बिना अंडे की बागेट के साथ परोसें, जब सब्ज़ियाँ अपना आकार बनाए रखें।"
+      ],
+      "tips": [
+        "अगर अरबी छीलने से त्वचा में खुजली हो तो दस्ताने पहनें और अरबी पूरी नरम होने तक पकाएँ। कुचली लेमनग्रास की डंडियाँ खुशबू देती हैं, पर परोसने से पहले निकाल दें।"
+      ]
+    },
+    "gu": {
+      "name": "કા રી ચાય",
+      "ingredients": [
+        "કડક ટોફુ, ટુકડામાં",
+        "શક્કરિયાં, છાલ ઉતારી ટુકડામાં",
+        "અરબીનું મૂળ, છાલ ઉતારી ટુકડામાં",
+        "ગાજર, ટુકડામાં",
+        "લેમનગ્રાસની ડાંડી, કચડેલી",
+        "વિયેતનામી શૈલીનો કરી પાઉડર",
+        "નાળિયેરનું દૂધ",
+        "શાકભાજીનો સ્ટોક",
+        "ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "હળવા સ્વાદનું તેલ",
+        "હળવો સોયા સોસ",
+        "ખાંડ",
+        "મીઠું",
+        "તાજી કોથમીર"
+      ],
+      "steps": [
+        "ટોફુ દબાવી ટુકડા કરો. શક્કરિયાં અને અરબીનું મૂળ કાળજીથી છોલી ગાજર સાથે સરખા ટુકડામાં કાપો, અને લેમનગ્રાસ કચડી તેની સુગંધ બહાર લાવો.",
+        "ઊંડા પૅનમાં તેલ મધ્યમ તાપે ગરમ કરો. ટોફુ દરેક બાજુ 3 મિનિટ સોનેરી કરી કાઢો, પછી ડુંગળી 4 મિનિટ નરમ કરો. લસણ અને કરી પાઉડર નાખી 1 મિનિટ હલાવો.",
+        "શક્કરિયાં, અરબી, ગાજર અને લેમનગ્રાસ નાખો. શાકભાજીનો સ્ટોક અને નાળિયેર દૂધ રેડી ધીમેથી હલાવો અને માત્ર હળવો ઉકાળો લાવો.",
+        "ઢાંકી 18 મિનિટ રાંધો જેથી અરબી અને શક્કરિયાં સંપૂર્ણ નરમ પણ અકબંધ રહે. ટોફુ સાથે સોયા સોસ, ખાંડ અને મીઠું નાખો; ઢાંક્યા વગર 5 મિનિટ ઉકાળો.",
+        "કડક લેમનગ્રાસની ડાંડી કાઢી લો. સોનેરી કરી પર કોથમીર છાંટી ભાત કે ઈંડા વગરની બાગેટ સાથે પીરસો, જ્યારે શાક પોતાનો આકાર જાળવે."
+      ],
+      "tips": [
+        "અરબી છોલતાં ચામડીમાં ખંજવાળ આવે તો મોજાં પહેરો અને તેને પૂરી નરમ થાય ત્યાં સુધી પકાવો. કચડેલી લેમનગ્રાસની ડાંડી સુગંધ આપે છે પણ પીરસતાં પહેલાં કાઢો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://veggieanh.com/vegan-vietnamese-curry/",
+    "use": "Vietnamese vegetarian coconut curry with tofu, sweet potato and taro; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/ca-ri-chay.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
 }

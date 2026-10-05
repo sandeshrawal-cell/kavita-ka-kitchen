@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0223",
+  "id": "tofu-makhani",
+  "status": "published-third-100-intake-batch",
+  "name": "Tofu Makhani",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "extra-firm tofu, pressed and cubed",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "kasuri methi",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Press tofu for 15 minutes, cut into even cubes and pat dry. Soak cashews in 100 ml hot water for 15 minutes, then blend smooth with the soaking liquid.",
+    "Melt half the butter in a pan. Lightly sear tofu for 2 minutes per side, just enough to colour the edges; remove.",
+    "In the same pan melt remaining butter and fry ginger-garlic paste for 1 minute. Add tomato puree, chili and salt; cook 10–12 minutes until thick and the raw tomato aroma disappears.",
+    "Stir in cashew paste and remaining water. Simmer gently for 5 minutes. Add tofu and cook 3 minutes so the sauce coats the cubes.",
+    "Switch off heat and stir in cream, garam masala and crushed kasuri methi. Rest 3 minutes and serve with roti or rice."
+  ],
+  "tips": [
+    "Pressing tofu keeps the cubes firm in the silky makhani sauce; add cream only after turning off heat."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू मखनी",
+      "ingredients": [
+        "एक्स्ट्रा-फर्म टोफू, दबाकर टुकड़ों में",
+        "टमाटर की प्यूरी",
+        "कच्चे काजू",
+        "बिना नमक का मक्खन",
+        "क्रीम",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "टोफू 15 मिनट दबाकर बराबर टुकड़े काटें और सुखाएँ। काजू 100 मिली गरम पानी में 15 मिनट भिगोकर उसी पानी के साथ चिकना पीसें।",
+        "पैन में आधा मक्खन पिघलाएँ। टोफू हर तरफ 2 मिनट हल्का सेंकें, केवल किनारे रंग लें; निकालें।",
+        "उसी पैन में बचा मक्खन पिघलाकर अदरक-लहसुन पेस्ट 1 मिनट भूनें। टमाटर प्यूरी, मिर्च और नमक डालकर 10–12 मिनट गाढ़ा पकाएँ ताकि कच्ची महक जाए।",
+        "काजू पेस्ट और बचा पानी मिलाकर 5 मिनट हल्का उबालें। टोफू डालकर 3 मिनट पकाएँ ताकि चटनी टुकड़ों पर चढ़े।",
+        "आँच बंद कर क्रीम, गरम मसाला और मसलकर कसूरी मेथी मिलाएँ। 3 मिनट रहने देकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "टोफू दबाने से मखनी तरी में टुकड़े टिकते हैं; क्रीम आँच बंद करने के बाद डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ મખની",
+      "ingredients": [
+        "ઘણું મજબૂત ટોફુ, દબાવી ટુકડામાં",
+        "ટામેટાંની પ્યૂરી",
+        "કાચા કાજુ",
+        "મીઠા વગરનું માખણ",
+        "ક્રીમ",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ટોફુ 15 મિનિટ દબાવી સરખા ટુકડા કરો અને સૂકવો. કાજુ 100 મિ.લી. ગરમ પાણીમાં 15 મિનિટ પલાળી એ જ પાણી સાથે લીસાં પીસો.",
+        "કડાઈમાં અડધું માખણ ઓગાળો. ટોફુ દરેક બાજુ 2 મિનિટ હળવું સેકો, માત્ર કિનારી રંગ પકડે; કાઢો.",
+        "એ જ કડાઈમાં બાકી માખણ ઓગાળી આદુ-લસણની પેસ્ટ 1 મિનિટ શેકો. ટામેટાંની પ્યૂરી, મરચું અને મીઠું નાખી 10–12 મિનિટ ઘટ્ટ રાંધો જેથી કાચી વાસ જાય.",
+        "કાજુની પેસ્ટ અને બાકી પાણી ભેળવી 5 મિનિટ હળવું ઉકાળો. ટોફુ નાખી 3 મિનિટ રાંધો જેથી ગ્રેવી ટુકડા પર ચડે.",
+        "તાપ બંધ કરી ક્રીમ, ગરમ મસાલો અને મસળેલી કસૂરી મેથી ભેળવો. 3 મિનિટ રહેવા દઈ રોટલી કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ટોફુ દબાવવાથી મખની ગ્રેવીમાં ટુકડા ટકે છે; ક્રીમ તાપ બંધ કર્યા પછી નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://ministryofcurry.com/tofu-makhani/",
+    "use": "Tofu in tomato-cashew makhani sauce; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/tofu-makhani.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

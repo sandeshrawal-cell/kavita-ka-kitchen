@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0246",
+  "id": "kho-chay",
+  "status": "published-third-100-intake-batch",
+  "name": "Kho Chay",
+  "cuisine": "Vietnamese",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "firm tofu, drained and cubed",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "shallots, sliced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian soy sauce",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu for 15 minutes and cut into 3 cm cubes. Pat dry. Heat 25 ml oil and pan-fry tofu in batches for 7–8 minutes, turning until golden on several sides; remove.",
+    "Warm brown sugar with 20 ml coconut water in a small heavy pan over medium heat until amber, about 3–4 minutes. Carefully add remaining coconut water a little at a time; it will bubble, so keep hands clear.",
+    "In a clay pot or deep pan, heat remaining oil and cook shallots 3 minutes. Add garlic and shiitake and cook 4 minutes until the mushrooms begin to brown.",
+    "Pour in the caramel-coconut liquid and soy sauce. Add fried tofu, black pepper and salt. Cover and simmer gently for 10 minutes, then uncover for 5 minutes to reduce the sauce to a glossy coating.",
+    "Turn tofu carefully, scatter spring onions over it and serve hot with plain rice. Use clearly labelled vegetarian soy sauce for the caramel braise."
+  ],
+  "tips": [
+    "Do not stir the tofu vigorously during braising; gently turn the cubes so they stay intact and absorb the caramel-soy sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "खो चाय",
+      "ingredients": [
+        "सख्त टोफू, निथारा और टुकड़ों में",
+        "शीटाके मशरूम, कटे",
+        "छोटे प्याज़, कटे",
+        "लहसुन, बारीक कटा",
+        "शाकाहारी सोया सॉस",
+        "नारियल पानी",
+        "भूरी चीनी",
+        "हल्का तेल",
+        "पिसी काली मिर्च",
+        "हरा प्याज़, कटा",
+        "नमक"
+      ],
+      "steps": [
+        "टोफू 15 मिनट दबाकर 3 सेमी टुकड़ों में काटें और सुखाएँ। 25 मिली तेल गरम कर थोड़ी-थोड़ी मात्रा में टोफू 7–8 मिनट कई ओर से सुनहरा तलें और निकालें।",
+        "छोटे भारी पैन में भूरी चीनी और 20 मिली नारियल पानी मध्यम आँच पर लगभग 3–4 मिनट अंबर रंग तक गरम करें। बचा नारियल पानी सावधानी से थोड़ा-थोड़ा डालें; उफान आएगा, इसलिए हाथ दूर रखें।",
+        "मिट्टी के बर्तन या गहरे पैन में बचा तेल गरम कर छोटे प्याज़ 3 मिनट पकाएँ। लहसुन और शीटाके डालकर मशरूम हल्के भूरे होने तक 4 मिनट पकाएँ।",
+        "कैरमेल-नारियल का तरल और सोया सॉस डालें। तला टोफू, काली मिर्च और नमक मिलाएँ। ढककर 10 मिनट हल्का उबालें, फिर 5 मिनट बिना ढके रस घटाकर चमकदार परत बनाएँ।",
+        "टोफू को सावधानी से पलटें, ऊपर हरा प्याज़ डालें और सादे चावल के साथ गरम परोसें। कैरमेल वाली तरी के लिए स्पष्ट शाकाहारी सोया सॉस लें।"
+      ],
+      "tips": [
+        "पकाते समय टोफू को तेज़ी से न चलाएँ; धीरे पलटें ताकि टुकड़े साबुत रहें और कैरमेल-सोया रस सोखें।"
+      ]
+    },
+    "gu": {
+      "name": "ખો ચાય",
+      "ingredients": [
+        "કડક ટોફુ, નીતારી ટુકડામાં",
+        "શીટાકે મશરૂમ, સમારેલા",
+        "નાની ડુંગળી, સમારેલી",
+        "લસણ, બારીક સમારેલું",
+        "શાકાહારી સોયા સોસ",
+        "નાળિયેરનું પાણી",
+        "ભૂરી ખાંડ",
+        "હળવું તેલ",
+        "દળેલી કાળી મરી",
+        "લીલી ડુંગળી, સમારેલી",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટોફુને 15 મિનિટ દબાવી 3 સેમી ટુકડામાં કાપી સૂકવો. 25 મિલી તેલ ગરમ કરી થોડા-થોડા ટોફુ 7–8 મિનિટ અનેક બાજુ સોનેરી તળી કાઢો.",
+        "નાના જાડા પૅનમાં ભૂરી ખાંડ અને 20 મિલી નાળિયેરનું પાણી મધ્યમ તાપે લગભગ 3–4 મિનિટ અંબર રંગ થાય ત્યાં સુધી ગરમ કરો. બાકીનું નાળિયેરનું પાણી કાળજીથી થોડું-થોડું નાખો; ઊભરો આવશે, તેથી હાથ દૂર રાખો.",
+        "માટીના વાસણ કે ઊંડા પૅનમાં બાકીનું તેલ ગરમ કરી નાની ડુંગળી 3 મિનિટ રાંધો. લસણ અને શીટાકે નાખી મશરૂમ ભૂખરા થવા લાગે ત્યાં સુધી 4 મિનિટ રાંધો.",
+        "કૅરમલ-નાળિયેરનું પ્રવાહી અને સોયા સોસ રેડો. તળેલું ટોફુ, કાળી મરી અને મીઠું નાખો. ઢાંકી 10 મિનિટ ધીમે ઉકાળો, પછી 5 મિનિટ ઢાંક્યા વગર રસો ઘટાડી ચમકદાર પરત બનાવો.",
+        "ટોફુને કાળજીથી પલટો, ઉપર લીલી ડુંગળી નાખો અને સાદા ભાત સાથે ગરમ પીરસો. કારમેલવાળી રસાવાળી વાનગી માટે સ્પષ્ટ શાકાહારી સોયા સોસ લો."
+      ],
+      "tips": [
+        "રાંધતી વખતે ટોફુને જોરથી ન હલાવો; ટુકડા આખા રહે અને કૅરમલ-સોયા રસ શોષે તેમ હળવેથી ફેરવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://tulinhduong.com/tofu_braise_a_la_pate_de_soja/",
+    "use": "Vietnamese vegetarian tofu braise identity; caramel-coconut soy proportions and method independently written."
+  },
+  "photoDraft": "catalog/intake/photos/kho-chay.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}
