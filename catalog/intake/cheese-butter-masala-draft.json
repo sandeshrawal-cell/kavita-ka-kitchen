@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0210",
+  "id": "cheese-butter-masala",
+  "status": "draft-third-100-intake-batch",
+  "name": "Cheese Butter Masala",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "vegetarian firm cheese, cubed",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "kasuri methi",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak cashews in 100 ml hot water for 15 minutes and blend smooth with the soaking liquid. Keep cheese chilled until the sauce is ready so its cubes hold shape.",
+    "Melt half the butter in a heavy pan. Cook onion for 6 minutes until soft, add ginger-garlic paste for 1 minute, then pour in tomato puree.",
+    "Add chili powder and salt. Simmer 10 minutes, stirring, until the tomato tastes cooked and the sauce thickens; blend if desired for a smooth finish.",
+    "Stir in cashew paste and remaining water, then simmer 4 minutes. Add cream and crushed kasuri methi; reduce heat to very low.",
+    "Add cheese cubes and the remaining butter. Fold gently for just 1–2 minutes until the cheese begins to soften but does not melt away; serve at once."
+  ],
+  "tips": [
+    "Use firm vegetarian cheese and add it only after the gravy is finished; soft cheese can disappear into the sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चीज़ बटर मसाला",
+      "ingredients": [
+        "शाकाहारी रेनेट-मुक्त सख्त चीज़, टुकड़ों में",
+        "टमाटर की प्यूरी",
+        "प्याज़, कटा",
+        "कच्चे काजू",
+        "बिना नमक का मक्खन",
+        "क्रीम",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी मिर्च पाउडर",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "काजू 100 मिली गरम पानी में 15 मिनट भिगोकर उसी पानी के साथ चिकना पीसें। चीज़ को चटनी तैयार होने तक ठंडा रखें ताकि टुकड़े आकार रखें।",
+        "भारी पैन में आधा मक्खन पिघलाएँ। प्याज़ 6 मिनट नरम करें, अदरक-लहसुन पेस्ट 1 मिनट पकाएँ और फिर टमाटर प्यूरी डालें।",
+        "मिर्च पाउडर और नमक डालें। 10 मिनट चलाते हुए उबालें जब तक टमाटर का कच्चापन जाए और तरी गाढ़ी हो; चाहें तो चिकना पीसें।",
+        "काजू पेस्ट और बचा पानी मिलाकर 4 मिनट पकाएँ। क्रीम और मसलकर कसूरी मेथी डालें; आँच बहुत धीमी करें।",
+        "चीज़ के टुकड़े और बचा मक्खन डालें। केवल 1–2 मिनट हल्के हाथ से मिलाएँ ताकि चीज़ नरम हो पर पूरी तरह न पिघले; तुरंत परोसें।"
+      ],
+      "tips": [
+        "सख्त शाकाहारी चीज़ लें और तरी तैयार होने के बाद ही डालें; मुलायम चीज़ चटनी में घुल सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "ચીઝ બટર મસાલા",
+      "ingredients": [
+        "શાકાહારી રેનેટ વગરનું મજબૂત ચીઝ, ટુકડામાં",
+        "ટામેટાંની પ્યૂરી",
+        "ડુંગળી, સમારેલી",
+        "કાચા કાજુ",
+        "મીઠા વગરનું માખણ",
+        "ક્રીમ",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાજુને 100 મિ.લી. ગરમ પાણીમાં 15 મિનિટ પલાળી એ જ પાણી સાથે લીસાં પીસો. ગ્રેવી તૈયાર થાય ત્યાં સુધી ચીઝ ઠંડું રાખો જેથી ટુકડા આકાર રાખે.",
+        "ભારે કડાઈમાં અડધું માખણ ઓગાળો. ડુંગળી 6 મિનિટ નરમ કરો, આદુ-લસણની પેસ્ટ 1 મિનિટ રાંધો અને પછી ટામેટાંની પ્યૂરી નાખો.",
+        "મરચું પાઉડર અને મીઠું નાખો. 10 મિનિટ હલાવી ઉકાળો, ટામેટાંની કાચી વાસ જાય અને ગ્રેવી ઘટ્ટ થાય ત્યાં સુધી; ઇચ્છો તો લીસી પીસો.",
+        "કાજુની પેસ્ટ અને બાકી પાણી ભેળવી 4 મિનિટ રાંધો. ક્રીમ અને મસળેલી કસૂરી મેથી નાખો; તાપ ખૂબ ધીમો કરો.",
+        "ચીઝના ટુકડા અને બાકી માખણ નાખો. માત્ર 1–2 મિનિટ હળવેથી ભેળવો જેથી ચીઝ નરમ થાય પણ સંપૂર્ણ ઓગળી ન જાય; તરત પીરસો."
+      ],
+      "tips": [
+        "મજબૂત શાકાહારી ચીઝ લો અને ગ્રેવી તૈયાર થયા પછી જ નાખો; નરમ ચીઝ ઓગળી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/cheese-butter-masala-recipe/",
+    "use": "Cheese butter masala flavor profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/cheese-butter-masala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

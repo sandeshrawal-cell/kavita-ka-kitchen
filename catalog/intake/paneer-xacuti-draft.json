@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0213",
+  "id": "paneer-xacuti",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Xacuti",
+  "cuisine": "Goan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "white poppy seeds",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "star anise",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast coconut, chilies, coriander, cumin, poppy seeds, pepper and star anise separately until aromatic and golden, taking care not to burn the coconut.",
+    "Cool the spices, remove the star-anise husk, then grind everything with 150 ml water into a fine but textured xacuti paste.",
+    "Heat oil and fry onion for 8 minutes until golden. Add the ground paste and cook 5 minutes, stirring, until it darkens and smells nutty.",
+    "Add remaining water, tamarind and salt. Simmer uncovered for 8 minutes until the roasted-coconut gravy thickens.",
+    "Add paneer and simmer gently for 3–4 minutes. Rest 5 minutes before serving with steamed rice or poi bread."
+  ],
+  "tips": [
+    "Roast the coconut to a deep golden shade for xacuti's characteristic dark, nutty sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर शाकुती",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "ताज़ा कसा नारियल",
+        "प्याज़, कटा",
+        "सूखी लाल मिर्च",
+        "साबुत धनिया",
+        "जीरा",
+        "सफेद खसखस",
+        "काली मिर्च के दाने",
+        "चक्र फूल",
+        "इमली का गूदा",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "नारियल, मिर्च, धनिया, जीरा, खसखस, काली मिर्च और चक्र फूल अलग-अलग सुगंधित और सुनहरा होने तक सूखा भूनें; नारियल न जलाएँ।",
+        "मसाले ठंडे करें, चक्र फूल का कठोर भाग हटाएँ, फिर सब कुछ 150 मिली पानी के साथ महीन लेकिन थोड़ा बनावट वाला शाकुती पेस्ट पीसें।",
+        "तेल गरम करके प्याज़ 8 मिनट सुनहरा भूनें। पिसा पेस्ट डालकर 5 मिनट चलाते हुए पकाएँ जब तक रंग गहरा और मेवेदार महक आए।",
+        "बचा पानी, इमली और नमक डालें। 8 मिनट बिना ढके उबालें ताकि भुने नारियल की तरी गाढ़ी हो।",
+        "पनीर डालकर 3–4 मिनट हल्का पकाएँ। चावल या पोई ब्रेड के साथ परोसने से पहले 5 मिनट रहने दें।"
+      ],
+      "tips": [
+        "शाकुती की खास गहरी, मेवेदार तरी के लिए नारियल को गहरा सुनहरा भूनें।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર શાકુતી",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "તાજું છીણેલું નાળિયેર",
+        "ડુંગળી, સમારેલી",
+        "સૂકાં લાલ મરચાં",
+        "આખા ધાણા",
+        "જીરું",
+        "સફેદ ખસખસ",
+        "કાળા મરીના દાણા",
+        "બાદિયાન",
+        "આમલીનો માવો",
+        "નાળિયેર તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "નાળિયેર, મરચાં, ધાણા, જીરું, ખસખસ, કાળા મરી અને બાદિયાન અલગ અલગ સુગંધિત અને સોનેરી થાય ત્યાં સુધી સૂકાં શેકો; નાળિયેર બળે નહીં.",
+        "મસાલા ઠંડા કરો, બાદિયાનનો સખત ભાગ કાઢો, પછી બધું 150 મિ.લી. પાણી સાથે ઝીણી પણ થોડી બનાવટવાળી શાકુતી પેસ્ટ પીસો.",
+        "તેલ ગરમ કરી ડુંગળી 8 મિનિટ સોનેરી શેકો. પીસેલી પેસ્ટ નાખી 5 મિનિટ હલાવતા રાંધો, રંગ ઘેરો અને મેવાદાર સુગંધ આવે ત્યાં સુધી.",
+        "બાકી પાણી, આમલી અને મીઠું નાખો. 8 મિનિટ ઢાંક્યા વગર ઉકાળો જેથી શેકેલા નાળિયેરની ગ્રેવી ઘટ્ટ થાય.",
+        "પનીર નાખી 3–4 મિનિટ હળવું રાંધો. ભાત કે પોઈ બ્રેડ સાથે પીરસતાં પહેલાં 5 મિનિટ રહેવા દો."
+      ],
+      "tips": [
+        "શાકુતીની ખાસ ઘેરી, મેવાદાર ગ્રેવી માટે નાળિયેરને ઘેરું સોનેરી શેકો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://plateup.app/recipe/goan-paneer-xacuti",
+    "use": "Vegetarian paneer xacuti with roasted coconut spice paste; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-xacuti.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

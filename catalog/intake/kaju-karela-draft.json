@@ -1,0 +1,60 @@
+{
+  "sourceReviewId": "R0231",
+  "id": "kaju-karela",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Kaju Karela",
+  "cuisine": "Gujarati",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "bitter gourd, deseeded and thinly sliced", "qty": 600, "unit": "g"},
+    {"name": "cashews", "qty": 120, "unit": "g"},
+    {"name": "onion, finely sliced", "qty": 140, "unit": "g"},
+    {"name": "neutral oil", "qty": 45, "unit": "ml"},
+    {"name": "salt", "qty": 9, "unit": "g"},
+    {"name": "turmeric powder", "qty": 3, "unit": "g"},
+    {"name": "red chilli powder", "qty": 4, "unit": "g"},
+    {"name": "coriander-cumin powder", "qty": 9, "unit": "g"},
+    {"name": "jaggery, grated", "qty": 18, "unit": "g"},
+    {"name": "lemon juice", "qty": 15, "unit": "ml"},
+    {"name": "mustard seeds", "qty": 4, "unit": "g"}
+  ],
+  "steps": [
+    "Halve the bitter gourds lengthwise, scoop out mature seeds and slice thinly. Toss with 5 g salt and rest for 15 minutes, then squeeze firmly and pat dry; this moderates bitterness without removing its characteristic flavour.",
+    "Heat 15 ml oil in a wide pan. Fry the cashews over medium-low heat for 2–3 minutes until evenly golden, lifting them out before they darken.",
+    "Add remaining oil to the pan. Let mustard seeds crackle, then add onion and cook 5–6 minutes until golden. Add sliced karela and turmeric; spread in one layer and cook uncovered for 12–15 minutes, turning occasionally, until tender and browned at the edges.",
+    "Stir in remaining 4 g salt, chilli and coriander-cumin powder. Cook 3 minutes so the spices cling to the karela. Mix in jaggery and lemon juice and cook 2 minutes more for a balanced sweet-sour finish.",
+    "Fold in the fried cashews only at the end so they stay crisp. Serve hot with roti or dal-rice; the finished shaak should be fairly dry rather than swimming in gravy."
+  ],
+  "tips": ["Dry the squeezed karela before frying so it browns instead of steaming; add cashews after cooking to preserve crunch."],
+  "translations": {
+    "hi": {
+      "name": "काजू करेला",
+      "ingredients": ["करेला, बीज निकालकर पतला कटा", "काजू", "प्याज़, पतला कटा", "हल्का स्वाद वाला तेल", "नमक", "हल्दी पाउडर", "लाल मिर्च पाउडर", "धनिया-जीरा पाउडर", "कद्दूकस गुड़", "नींबू का रस", "राई"],
+      "steps": [
+        "करेलों को लंबाई में आधा काटें, पके बीज निकालें और पतले टुकड़े करें। 5 ग्राम नमक लगाकर 15 मिनट रखें, फिर अच्छी तरह निचोड़कर सुखाएँ; इससे कड़वापन संतुलित होगा पर करेले का स्वाद बना रहेगा।",
+        "चौड़े पैन में 15 मिली तेल गरम करें। काजू मध्यम-धीमी आँच पर 2–3 मिनट समान रूप से सुनहरे होने तक तलें और गहरे होने से पहले निकाल लें।",
+        "पैन में बचा तेल डालें। राई चटकाएँ, प्याज़ डालकर 5–6 मिनट सुनहरा करें। करेला और हल्दी डालें; एक परत में फैलाकर बिना ढके 12–15 मिनट बीच-बीच में पलटते हुए नरम और किनारों से भूरा होने तक पकाएँ।",
+        "बचा 4 ग्राम नमक, मिर्च और धनिया-जीरा पाउडर मिलाएँ। मसाले करेले पर चिपकने तक 3 मिनट पकाएँ। गुड़ और नींबू रस डालकर संतुलित खट्टा-मीठा स्वाद आने तक 2 मिनट और पकाएँ।",
+        "अंत में तले काजू मिलाएँ ताकि कुरकुरे रहें। रोटी या दाल-चावल के साथ गरम परोसें; तैयार शाक सूखा होना चाहिए, तरल ग्रेवी वाला नहीं।"
+      ],
+      "tips": ["निचोड़े करेले को तलने से पहले सुखाएँ ताकि वे भाप में पकने के बजाय भूरे हों; कुरकुरापन रखने के लिए काजू अंत में डालें।"]
+    },
+    "gu": {
+      "name": "કાજુ કારેલા",
+      "ingredients": ["કારેલા, બી કાઢી પાતળા સમારેલા", "કાજુ", "ડુંગળી, પાતળી સમારેલી", "હળવા સ્વાદનું તેલ", "મીઠું", "હળદર પાઉડર", "લાલ મરચું પાઉડર", "ધાણા-જીરું પાઉડર", "છીણેલો ગોળ", "લીંબુનો રસ", "રાઈ"],
+      "steps": [
+        "કારેલાંને લંબાઈમાં અડધાં કાપી પાકેલાં બી કાઢો અને પાતળાં સમારો. 5 ગ્રામ મીઠું ભેળવી 15 મિનિટ રાખો, પછી સારી રીતે નિચોવી સૂકવો; તેથી કડવાશ સંતુલિત થશે પણ ખાસ સ્વાદ રહેશે.",
+        "પહોળા પૅનમાં 15 મિલી તેલ ગરમ કરો. કાજુ મધ્યમથી ધીમા તાપે 2–3 મિનિટ સરખા સોનેરી થાય ત્યાં સુધી તળી વધુ ઘેરા થાય તે પહેલાં કાઢો.",
+        "પૅનમાં બાકીનું તેલ નાખો. રાઈ તતડાવો, ડુંગળી ઉમેરી 5–6 મિનિટ સોનેરી કરો. કારેલાં અને હળદર નાખી એક જ પડમાં ફેલાવો અને ઢાંક્યા વગર 12–15 મિનિટ વચ્ચે ફેરવતા નરમ તથા કિનારીથી ભૂખરા થાય ત્યાં સુધી શેકો.",
+        "બાકીનું 4 ગ્રામ મીઠું, મરચું અને ધાણા-જીરું પાઉડર ઉમેરો. મસાલો કારેલાં પર ચોંટે ત્યાં સુધી 3 મિનિટ પકાવો. ગોળ અને લીંબુનો રસ ઉમેરી ખાટો-મીઠો સ્વાદ સંતુલિત થાય ત્યાં સુધી 2 મિનિટ વધુ પકાવો.",
+        "છેલ્લે તળેલા કાજુ ભેળવો જેથી કરકરા રહે. રોટલી કે દાળ-ભાત સાથે ગરમ પીરસો; તૈયાર શાક લગભગ કોરું હોવું જોઈએ, રસાવાળું નહીં."
+      ],
+      "tips": ["નિચોવેલાં કારેલાં તળતાં પહેલાં સૂકવો જેથી વરાળમાં બફાવાને બદલે શેકાય; કાજુ છેલ્લે નાખવાથી કરકરા રહે."] 
+    }
+  },
+  "reference": {"url": "https://www.archanaskitchen.com/recipe/kaju-karela-recipe-bitter-gourd-and-cashew-nuts-stir-fry", "use": "Bitter-gourd-and-cashew dish identity; measured proportions and wording independently developed."},
+  "photoDraft": "catalog/intake/photos/kaju-karela.png",
+  "photoReview": "Visually reviewed for bitter-gourd rings, cashews, realistic appearance and photo quality on 2026-10-05."
+}

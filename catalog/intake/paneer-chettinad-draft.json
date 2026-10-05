@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0265",
+  "id": "paneer-chettinad",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Paneer Chettinad",
+  "cuisine": "Chettinad",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast coriander seeds, pepper, fennel, cumin, red chilies and cinnamon on low heat for 3–4 minutes until fragrant. Add coconut for the last minute, cool, and grind with 100 ml water into a coarse paste.",
+    "Heat oil in a pan. Fry curry leaves for 20 seconds, then add onion and cook 7–8 minutes until golden. Add ginger-garlic paste and stir for 1 minute.",
+    "Add tomato and salt; cook 6–8 minutes until soft and thick. Stir in the roasted spice-coconut paste and cook 3 minutes, scraping the bottom so it does not stick.",
+    "Pour in remaining 180 ml water and simmer 6 minutes until the gravy is aromatic and lightly thickened. Taste and adjust salt, keeping the pepper flavor prominent.",
+    "Add paneer cubes and warm gently for 3 minutes without a fierce boil. Serve hot with rice, appam or chapati."
+  ],
+  "tips": [
+    "Freshly roasted whole spices and coconut define this Chettinad masala; keep the paneer tender."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर चेट्टीनाड",
+      "ingredients": [
+        "पनीर, टुकड़े",
+        "प्याज़, बारीक कटा",
+        "टमाटर, कटे",
+        "ताज़ा कसा नारियल",
+        "साबुत धनिया",
+        "काली मिर्च के दाने",
+        "सौंफ",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "दालचीनी",
+        "करी पत्ते",
+        "अदरक-लहसुन पेस्ट",
+        "हल्का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "धनिया, काली मिर्च, सौंफ, जीरा, लाल मिर्च और दालचीनी धीमी आँच पर 3–4 मिनट महक आने तक भूनें। आखिरी मिनट नारियल डालें, ठंडा कर 100 मि.ली. पानी से दरदरा पीसें।",
+        "પैन में तेल गरम करें। करी पत्ते 20 सेकंड भूनें, फिर प्याज़ 7–8 मिनट सुनहरा करें। अदरक-लहसुन पेस्ट डालकर 1 मिनट चलाएँ।",
+        "टमाटर और नमक डालकर 6–8 मिनट नरम और गाढ़ा करें। भुना मसाला-नारियल पेस्ट मिलाकर 3 मिनट चलाते हुए पकाएँ ताकि तले में चिपके नहीं।",
+        "बचा 180 मि.ली. पानी डालकर 6 मिनट हल्का उबालें, जब तक ग्रेवी महकदार और कुछ गाढ़ी हो। नमक जाँचें और काली मिर्च का स्वाद उभरा रहने दें।",
+        "पनीर डालकर तेज़ उबाल के बिना 3 मिनट गरम करें। चावल, अप्पम या चपाती के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "ताज़ा भुने साबुत मसाले और नारियल इस चेट्टीनाड मसाले की पहचान हैं; पनीर नरम रखें।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ચેટ્ટીનાડ",
+      "ingredients": [
+        "પનીર, ટુકડા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "તાજું છીણેલું નાળિયેર",
+        "આખા ધાણા",
+        "કાળા મરીના દાણા",
+        "વરિયાળી",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "તજ",
+        "મીઠા લીમડાનાં પાન",
+        "આદુ-લસણની પેસ્ટ",
+        "હળવું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ધાણા, મરી, વરિયાળી, જીરું, લાલ મરચાં અને તજ ધીમા તાપે 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો. છેલ્લી મિનિટ નાળિયેર ઉમેરો, ઠંડું કરી 100 મિ.લી. પાણીથી કરકરું પીસો.",
+        "કડાઈમાં તેલ ગરમ કરો. મીઠા લીમડાનાં પાન 20 સેકંડ શેકો, પછી ડુંગળી 7–8 મિનિટ સોનેરી કરો. આદુ-લસણની પેસ્ટ નાખી 1 મિનિટ હલાવો.",
+        "ટામેટાં અને મીઠું નાખી 6–8 મિનિટ નરમ અને ઘટ્ટ કરો. શેકેલી મસાલા-નાળિયેર પેસ્ટ ઉમેરી 3 મિનિટ હલાવી રાંધો જેથી તળિયે ચોંટે નહીં.",
+        "બાકીનું 180 મિ.લી. પાણી નાખી 6 મિનિટ ધીમે ઉકાળો જેથી ગ્રેવી સુગંધિત અને થોડી ઘટ્ટ થાય. મીઠું ચાખો અને મરીનો સ્વાદ મુખ્ય રહેવા દો.",
+        "પનીર નાખી જોરદાર ઉકાળો ટાળી 3 મિનિટ ગરમ કરો. ભાત, અપ્પમ કે ચપાટી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "તાજા શેકેલા આખા મસાલા અને નાળિયેર આ ચેટ્ટીનાડ મસાલાની ઓળખ છે; પનીર નરમ રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/chettinad-paneer-curry-recipe",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-chettinad.png",
+  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+}

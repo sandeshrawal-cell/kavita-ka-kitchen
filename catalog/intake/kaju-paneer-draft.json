@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0206",
+  "id": "kaju-paneer",
+  "status": "draft-third-100-intake-batch",
+  "name": "Kaju Paneer",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "whole cashews",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "onions, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak 70 g cashews in 120 ml hot water for 15 minutes. Blend with the soaking liquid into a smooth paste; reserve the remaining whole cashews for the finished curry.",
+    "Heat ghee and toast the reserved cashews for 2 minutes until golden; lift them out. In the same pan, fry onions for 7 minutes, then ginger-garlic paste for 1 minute.",
+    "Add tomato puree, coriander, chili and salt. Cook 9–10 minutes, stirring, until the tomato base is thick and glossy.",
+    "Stir in cashew paste and remaining water. Simmer gently for 5 minutes, then add paneer and cook 3–4 minutes just until hot.",
+    "Turn off heat, fold in cream and garam masala, and top with toasted whole cashews. Serve with roti."
+  ],
+  "tips": [
+    "Reserve visible whole cashews for a distinct kaju paneer finish instead of blending all the nuts."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काजू पनीर",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "साबुत काजू",
+        "प्याज़, कटे",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "क्रीम",
+        "घी",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "70 ग्राम काजू 120 मिली गरम पानी में 15 मिनट भिगोएँ। उसी पानी के साथ चिकना पीसें; बचे साबुत काजू ऊपर डालने के लिए रखें।",
+        "घी गरम करके बचे काजू 2 मिनट सुनहरे भूनकर निकाल लें। उसी पैन में प्याज़ 7 मिनट और फिर अदरक-लहसुन पेस्ट 1 मिनट भूनें।",
+        "टमाटर प्यूरी, धनिया, मिर्च और नमक डालें। 9–10 मिनट चलाते हुए पकाएँ ताकि टमाटर का आधार गाढ़ा और चमकदार हो।",
+        "काजू पेस्ट और बचा पानी मिलाएँ। 5 मिनट हल्का उबालें, फिर पनीर डालकर केवल गरम होने तक 3–4 मिनट पकाएँ।",
+        "आँच बंद करके क्रीम और गरम मसाला मिलाएँ, ऊपर भुने साबुत काजू रखें। रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "सभी काजू न पीसें; कुछ साबुत काजू ऊपर रखने से काजू पनीर की पहचान स्पष्ट रहती है।"
+      ]
+    },
+    "gu": {
+      "name": "કાજુ પનીર",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "આખા કાજુ",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "ક્રીમ",
+        "ઘી",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "70 ગ્રામ કાજુ 120 મિ.લી. ગરમ પાણીમાં 15 મિનિટ પલાળો. એ જ પાણી સાથે લીસાં પીસો; બાકી આખા કાજુ ઉપર નાખવા રાખો.",
+        "ઘી ગરમ કરી બાકી કાજુ 2 મિનિટ સોનેરી શેકી કાઢો. એ જ કડાઈમાં ડુંગળી 7 મિનિટ અને પછી આદુ-લસણની પેસ્ટ 1 મિનિટ શેકો.",
+        "ટામેટાંની પ્યૂરી, ધાણા, મરચું અને મીઠું નાખો. 9–10 મિનિટ હલાવતા રાંધો જેથી ટામેટાંનો મસાલો ઘટ્ટ અને ચમકદાર થાય.",
+        "કાજુની પેસ્ટ અને બાકી પાણી ભેળવો. 5 મિનિટ ધીમે ઉકાળો, પછી પનીર નાખી માત્ર ગરમ થાય ત્યાં સુધી 3–4 મિનિટ રાંધો.",
+        "તાપ બંધ કરી ક્રીમ અને ગરમ મસાલો ભેળવો, ઉપર શેકેલા આખા કાજુ મૂકો. રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "બધા કાજુ ન પીસો; થોડા આખા કાજુ ઉપર રાખવાથી કાજુ પનીરની ઓળખ સ્પષ્ટ રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/kaju-paneer-masala-recipe-kaju-paneer/",
+    "use": "Cashew-paneer tomato curry profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/kaju-paneer.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

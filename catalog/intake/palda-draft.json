@@ -1,0 +1,61 @@
+{
+  "sourceReviewId": "R0233",
+  "id": "palda",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Palda",
+  "cuisine": "Himachali",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name": "potatoes, peeled and cubed", "qty": 650, "unit": "g"},
+    {"name": "plain yogurt, at room temperature", "qty": 450, "unit": "g"},
+    {"name": "rice flour", "qty": 18, "unit": "g"},
+    {"name": "ghee", "qty": 35, "unit": "g"},
+    {"name": "water", "qty": 320, "unit": "ml"},
+    {"name": "cumin seeds", "qty": 5, "unit": "g"},
+    {"name": "fennel seeds", "qty": 4, "unit": "g"},
+    {"name": "green cardamom pods, lightly crushed", "qty": 3, "unit": "g"},
+    {"name": "cloves", "qty": 2, "unit": "g"},
+    {"name": "turmeric powder", "qty": 3, "unit": "g"},
+    {"name": "dried red chilli", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 9, "unit": "g"}
+  ],
+  "steps": [
+    "Cube peeled potatoes into even 2–3 cm pieces. Simmer in lightly salted water for 8–10 minutes until almost tender, then drain; they will finish cooking in the yogurt gravy.",
+    "Whisk room-temperature yogurt with rice flour, turmeric and 320 ml water until completely smooth. The rice flour stabilizes the yogurt and lightly thickens the sauce.",
+    "Warm ghee in a heavy pan over medium heat. Sizzle cumin, fennel, crushed cardamom, cloves and dried red chilli for 30 seconds without burning them.",
+    "Add potatoes and toss in the scented ghee for 2 minutes. Reduce heat to low and slowly pour in the yogurt mixture, stirring continuously until it begins to steam; do not let it boil hard.",
+    "Add 9 g salt and simmer gently for 10–12 minutes, stirring often, until the potatoes are soft and the gravy coats a spoon. Rest for 5 minutes, remove the whole cloves if desired, and serve with steamed rice."
+  ],
+  "tips": ["Use room-temperature yogurt and gentle heat throughout; a rapid boil can split this Himachali yogurt gravy."],
+  "translations": {
+    "hi": {
+      "name": "पालड़ा",
+      "ingredients": ["आलू, छीलकर टुकड़ों में", "सादा दही, कमरे के तापमान पर", "चावल का आटा", "घी", "पानी", "जीरा", "सौंफ", "हरी इलायची, हल्की कुचली", "लौंग", "हल्दी पाउडर", "सूखी लाल मिर्च", "नमक"],
+      "steps": [
+        "छिले आलू समान 2–3 सेमी टुकड़ों में काटें। हल्के नमकीन पानी में 8–10 मिनट लगभग नरम होने तक उबालें और छानें; वे दही की ग्रेवी में पूरी तरह पकेंगे।",
+        "कमरे के तापमान वाले दही में चावल का आटा, हल्दी और 320 मिली पानी डालकर एकदम चिकना फेंटें। चावल का आटा दही को फटने से बचाता और ग्रेवी को हल्का गाढ़ा करता है।",
+        "भारी पैन में मध्यम आँच पर घी गरम करें। जीरा, सौंफ, कुचली इलायची, लौंग और सूखी लाल मिर्च 30 सेकंड बिना जलाए चटकाएँ।",
+        "आलू डालकर सुगंधित घी में 2 मिनट पलटें। आँच धीमी करें और लगातार चलाते हुए दही का मिश्रण धीरे-धीरे डालें; भाप निकलने तक गरम करें पर तेज़ उबाल न आने दें।",
+        "9 ग्राम नमक डालकर बार-बार चलाते हुए 10–12 मिनट हल्का उबालें, ताकि आलू नरम हों और ग्रेवी चम्मच पर चढ़े। 5 मिनट रखें, चाहें तो साबुत लौंग निकालें और चावल के साथ परोसें।"
+      ],
+      "tips": ["दही कमरे के तापमान पर रखें और पूरे समय धीमी आँच इस्तेमाल करें; तेज़ उबाल से यह हिमाचली दही की ग्रेवी फट सकती है।"]
+    },
+    "gu": {
+      "name": "પાલડા",
+      "ingredients": ["બટાકા, છાલ ઉતારી ટુકડામાં", "સાદું દહીં, ઓરડાના તાપમાને", "ચોખાનો લોટ", "ઘી", "પાણી", "જીરું", "વરિયાળી", "લીલી એલચી, સહેજ વાટેલી", "લવિંગ", "હળદર પાઉડર", "સૂકું લાલ મરચું", "મીઠું"],
+      "steps": [
+        "છાલ ઉતારેલા બટાકા સરખા 2–3 સેમી ટુકડામાં કાપો. થોડું મીઠું નાખેલા પાણીમાં 8–10 મિનિટ લગભગ નરમ થાય ત્યાં સુધી ઉકાળી નિતારો; દહીંના રસામાં બાકી પકશે.",
+        "ઓરડાના તાપમાનના દહીંમાં ચોખાનો લોટ, હળદર અને 320 મિલી પાણી નાખી સાવ મસૃણ થાય ત્યાં સુધી ફેંટો. ચોખાનો લોટ દહીંને સ્થિર રાખે છે અને રસાને થોડો ઘાટો કરે છે.",
+        "જાડા પૅનમાં મધ્યમ તાપે ઘી ગરમ કરો. જીરું, વરિયાળી, વાટેલી એલચી, લવિંગ અને સૂકું લાલ મરચું બળે નહીં તેમ 30 સેકંડ તતડાવો.",
+        "બટાકા નાખી સુગંધી ઘીમાં 2 મિનિટ ફેરવો. તાપ ધીમો કરી સતત હલાવતા દહીંનું મિશ્રણ ધીમે-ધીમે રેડો; વરાળ નીકળે ત્યાં સુધી ગરમ કરો પણ ખૂબ ઉકાળશો નહીં.",
+        "9 ગ્રામ મીઠું નાખી વારંવાર હલાવતા 10–12 મિનિટ હળવેથી ઉકાળો, જેથી બટાકા નરમ થાય અને રસો ચમચાને ચોંટે. 5 મિનિટ રહેવા દો, ઇચ્છો તો આખાં લવિંગ કાઢો અને ભાત સાથે પીરસો."
+      ],
+      "tips": ["દહીં ઓરડાના તાપમાનનું લો અને આખો સમય ધીમો તાપ રાખો; વધુ ઉકાળવાથી આ હિમાચલી દહીંનો રસો ફાટી શકે છે."]
+    }
+  },
+  "reference": {"url": "https://www.saffrontrail.com/recipe-pahari-aloo-palda-from-the-mountains-of-himachal/", "use": "Himachali potato-yogurt palda identity; measured recipe and wording independently developed."},
+  "photoDraft": "catalog/intake/photos/palda.png",
+  "photoReview": "Visually reviewed for creamy yogurt gravy and potatoes, realistic appearance and photo quality on 2026-10-05."
+}

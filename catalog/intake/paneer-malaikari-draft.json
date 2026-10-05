@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0215",
+  "id": "paneer-malaikari",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Malaikari",
+  "cuisine": "Bengali",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "paneer, large cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "thick unsweetened coconut milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pat paneer dry. Heat mustard oil until shimmering, lower heat, and briefly sear paneer cubes for 1 minute per side. Remove so they stay tender.",
+    "In the same oil, fry cardamom and cinnamon for 30 seconds. Add onion and cook 6 minutes until soft and pale golden; add ginger paste and cook 1 minute.",
+    "Stir in turmeric, chili powder and salt. Add water and simmer 3 minutes to cook the spices and loosen the onion base.",
+    "Pour in unsweetened coconut milk and slit chilies. Simmer gently for 5–6 minutes without boiling hard, until the pale golden sauce coats a spoon.",
+    "Return paneer and warm through for 3 minutes. Rest covered 5 minutes and serve the coconut-scented malaikari with steamed rice."
+  ],
+  "tips": [
+    "Use unsweetened coconut milk and a gentle simmer so the sauce stays silky instead of separating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर मलाईकारी",
+      "ingredients": [
+        "पनीर, बड़े टुकड़े",
+        "गाढ़ा बिना मीठा नारियल दूध",
+        "प्याज़, बारीक कटा",
+        "अदरक पेस्ट",
+        "हरी मिर्च, चीरी",
+        "हरी इलायची",
+        "दालचीनी",
+        "हल्दी",
+        "कश्मीरी मिर्च पाउडर",
+        "सरसों का तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "पनीर सुखाएँ। सरसों का तेल धुआँ आने तक गरम कर आँच घटाएँ, फिर पनीर हर तरफ 1 मिनट हल्का सेंककर निकालें ताकि नरम रहे।",
+        "उसी तेल में इलायची और दालचीनी 30 सेकंड भूनें। प्याज़ 6 मिनट नरम और हल्का सुनहरा करें; अदरक पेस्ट 1 मिनट पकाएँ।",
+        "हल्दी, मिर्च पाउडर और नमक मिलाएँ। पानी डालकर 3 मिनट उबालें ताकि मसाले पकें और प्याज़ का आधार खुल जाए।",
+        "बिना मीठा नारियल दूध और चीरी हरी मिर्च डालें। तेज़ उबाल के बिना 5–6 मिनट हल्का पकाएँ जब तक हल्की सुनहरी तरी चम्मच पर चढ़े।",
+        "पनीर लौटाकर 3 मिनट गरम करें। 5 मिनट ढककर रहने दें और नारियल की खुशबू वाली मलाईकारी चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "बिना मीठा नारियल दूध लें और हल्का उबाल रखें ताकि तरी रेशमी रहे और फटे नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર મલાઈકારી",
+      "ingredients": [
+        "પનીર, મોટા ટુકડા",
+        "ઘટ્ટ મીઠાશ વગરનું નાળિયેર દૂધ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "આદુની પેસ્ટ",
+        "લીલાં મરચાં, ચીરેલાં",
+        "લીલી એલચી",
+        "તજ",
+        "હળદર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "રાઈનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "પનીર સૂકવો. રાઈનું તેલ ચમકે ત્યાં સુધી ગરમ કરી તાપ ઘટાડો, પછી પનીર દરેક બાજુ 1 મિનિટ હળવું સેકી કાઢો જેથી નરમ રહે.",
+        "એ જ તેલમાં એલચી અને તજ 30 સેકન્ડ શેકો. ડુંગળી 6 મિનિટ નરમ અને આછી સોનેરી કરો; આદુની પેસ્ટ 1 મિનિટ રાંધો.",
+        "હળદર, મરચું પાઉડર અને મીઠું ભેળવો. પાણી નાખી 3 મિનિટ ઉકાળો જેથી મસાલા રંધાય અને ડુંગળીનો આધાર છૂટે.",
+        "મીઠાશ વગરનું નાળિયેર દૂધ અને ચીરેલાં લીલાં મરચાં નાખો. તેજ ઉકાળ્યા વગર 5–6 મિનિટ હળવું રાંધો, આછી સોનેરી ગ્રેવી ચમચીને ચોંટે ત્યાં સુધી.",
+        "પનીર પાછું નાખી 3 મિનિટ ગરમ કરો. 5 મિનિટ ઢાંકી રહેવા દો અને નાળિયેરની સુગંધવાળી મલાઈકારી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "મીઠાશ વગરનું નાળિયેર દૂધ લો અને હળવું ઉકાળો જેથી ગ્રેવી મખમલી રહે અને ફાટે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://batterupwithsujata.com/2023/10/paneer-malai-curry-no-onion-no-garlic-curry/",
+    "use": "Bengali-style paneer coconut-milk malai curry; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-malaikari.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

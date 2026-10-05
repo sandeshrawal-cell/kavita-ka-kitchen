@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0261",
+  "id": "paneer-handi",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Paneer Handi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, 2 cm cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, pureed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak cashews in hot water for 15 minutes, then blend with 80 ml of the measured water until smooth. Cube and cover the paneer so it does not dry out.",
+    "Heat ghee in a heavy pan on medium heat. Cook onion for 8–10 minutes until golden; add ginger-garlic paste and stir for 1 minute until its raw smell disappears.",
+    "Add tomato puree, chili powder, coriander powder and salt. Cook 8–10 minutes, stirring often, until the puree darkens and ghee separates at the edges.",
+    "Stir in cashew paste and remaining 170 ml water. Simmer gently for 5 minutes until gravy coats a spoon. Lower the heat before adding cream and garam masala.",
+    "Fold in paneer and warm for 3–4 minutes without a hard boil so the cubes remain tender. Taste for salt, top with coriander and serve with roti."
+  ],
+  "tips": [
+    "A heavy pan works if you do not have a clay handi; avoid boiling paneer after adding it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर हांडी",
+      "ingredients": [
+        "पनीर, 2 सेमी टुकड़े",
+        "प्याज़, बारीक कटा",
+        "टमाटर की प्यूरी",
+        "काजू",
+        "अदरक-लहसुन पेस्ट",
+        "घी",
+        "क्रीम",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "काजू 15 मिनट गरम पानी में भिगोएँ, फिर दिए गए पानी में से 80 मि.ली. लेकर चिकना पीसें। पनीर काटकर ढक दें ताकि सूखे नहीं।",
+        "भारी पैन में घी मध्यम आँच पर गरम करें। प्याज़ 8–10 मिनट सुनहरा करें; अदरक-लहसुन पेस्ट डालकर कच्ची गंध जाने तक 1 मिनट चलाएँ।",
+        "टमाटर प्यूरी, मिर्च, धनिया पाउडर और नमक डालें। 8–10 मिनट बार-बार चलाते हुए पकाएँ, जब तक प्यूरी गहरी हो और किनारों पर घी अलग दिखे।",
+        "काजू पेस्ट और बचा 170 मि.ली. पानी मिलाएँ। 5 मिनट हल्का उबालें, जब तक ग्रेवी चम्मच पर टिके। क्रीम और गरम मसाला डालने से पहले आँच धीमी करें।",
+        "पनीर धीरे मिलाकर तेज़ उबाल के बिना 3–4 मिनट गरम करें ताकि टुकड़े नरम रहें। नमक जाँचें, हरा धनिया डालें और रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "मिट्टी की हांडी न हो तो भारी पैन लें; पनीर डालने के बाद तेज़ उबाल न आने दें।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર હાંડી",
+      "ingredients": [
+        "પનીર, 2 સેમી ટુકડા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાની પ્યુરી",
+        "કાજુ",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘી",
+        "ક્રીમ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "કોથમીર"
+      ],
+      "steps": [
+        "કાજુ 15 મિનિટ ગરમ પાણીમાં પલાળો, પછી આપેલા પાણીમાંથી 80 મિ.લી. લઈ મસૃણ પીસો. પનીર કાપી ઢાંકી રાખો જેથી સુકાય નહીં.",
+        "ભારે કડાઈમાં ઘી મધ્યમ તાપે ગરમ કરો. ડુંગળી 8–10 મિનિટ સોનેરી કરો; આદુ-લસણની પેસ્ટ નાખી કાચી સુગંધ જાય ત્યાં સુધી 1 મિનિટ હલાવો.",
+        "ટામેટાની પ્યુરી, મરચું, ધાણા પાઉડર અને મીઠું નાખો. 8–10 મિનિટ વારંવાર હલાવી પ્યુરી ઘેરી થાય અને કિનારે ઘી છૂટે ત્યાં સુધી રાંધો.",
+        "કાજુની પેસ્ટ અને બાકીનું 170 મિ.લી. પાણી ઉમેરો. ગ્રેવી ચમચીને ચોંટે ત્યાં સુધી 5 મિનિટ ધીમે ઉકાળો. ક્રીમ અને ગરમ મસાલો ઉમેરતા પહેલાં તાપ ધીમો કરો.",
+        "પનીર હળવેથી ભેળવી જોરદાર ઉકાળો ટાળી 3–4 મિનિટ ગરમ કરો જેથી ટુકડા નરમ રહે. મીઠું ચાખો, કોથમીર ભભરાવી રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "માટીની હાંડી ન હોય તો ભારે કડાઈ લો; પનીર ઉમેર્યા પછી જોરદાર ઉકાળો ટાળો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-handi-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-handi.png",
+  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+}

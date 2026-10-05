@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0209",
+  "id": "paneer-keema",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Keema",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "paneer, coarsely crumbled",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, finely chopped",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "green chili, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Crumble paneer by hand into small uneven pieces, but do not grind it into a paste. Blanch peas for 3 minutes and drain.",
+    "Heat oil and cumin in a wide pan. Add onions and fry 7–8 minutes until golden; add ginger-garlic paste and green chili for 1 minute.",
+    "Add tomatoes, coriander powder, chili powder and 5 g salt. Cook uncovered 8–10 minutes, pressing the tomatoes until thick and almost dry.",
+    "Add peas and crumbled paneer. Toss gently over medium heat for 4–5 minutes until the paneer is coated and heated but still soft.",
+    "Sprinkle garam masala, remaining salt and coriander leaves. Serve the moist, mince-like keema with pav or roti."
+  ],
+  "tips": [
+    "Add crumbled paneer at the end; prolonged frying dries it out."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर कीमा",
+      "ingredients": [
+        "पनीर, मोटा चूरा किया",
+        "हरी मटर",
+        "प्याज़, बारीक कटे",
+        "टमाटर, बारीक कटे",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च, कटी",
+        "तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "ताज़ा हरा धनिया"
+      ],
+      "steps": [
+        "पनीर को हाथ से छोटे असमान टुकड़ों में चूरा करें, पेस्ट न बनाएँ। मटर 3 मिनट उबालकर छानें।",
+        "चौड़े पैन में तेल और जीरा गरम करें। प्याज़ 7–8 मिनट सुनहरा भूनें; अदरक-लहसुन पेस्ट और हरी मिर्च 1 मिनट पकाएँ।",
+        "टमाटर, धनिया पाउडर, मिर्च पाउडर और 5 ग्राम नमक डालें। 8–10 मिनट बिना ढके टमाटर मसलते हुए लगभग सूखा, गाढ़ा मसाला पकाएँ।",
+        "मटर और चूरा पनीर डालें। मध्यम आँच पर 4–5 मिनट हल्के हाथ से मिलाएँ ताकि पनीर मसाले से ढके और गरम हो, लेकिन नरम रहे।",
+        "गरम मसाला, बचा नमक और हरा धनिया छिड़कें। नम, कीमा-जैसा मिश्रण पाव या रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "चूरा पनीर अंत में डालें; लंबे समय भूनने से वह सूख जाता है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર કીમા",
+      "ingredients": [
+        "પનીર, મોટો ભૂકો કરેલું",
+        "લીલા વટાણા",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાં, ઝીણાં સમારેલાં",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલું મરચું, સમારેલું",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "તાજી કોથમીર"
+      ],
+      "steps": [
+        "પનીરને હાથથી નાનાં અસમાન ટુકડામાં ભૂકો કરો, પેસ્ટ ન બનાવો. વટાણા 3 મિનિટ ઉકાળી નિતારો.",
+        "પહોળી કડાઈમાં તેલ અને જીરું ગરમ કરો. ડુંગળી 7–8 મિનિટ સોનેરી શેકો; આદુ-લસણની પેસ્ટ અને લીલું મરચું 1 મિનિટ રાંધો.",
+        "ટામેટાં, ધાણા પાઉડર, મરચું પાઉડર અને 5 ગ્રામ મીઠું નાખો. 8–10 મિનિટ ઢાંક્યા વગર ટામેટાં મસળતાં લગભગ સૂકો, ઘટ્ટ મસાલો રાંધો.",
+        "વટાણા અને ભૂકો પનીર નાખો. મધ્યમ તાપે 4–5 મિનિટ હળવે ભેળવો જેથી પનીર મસાલાથી ઢંકાય અને ગરમ થાય પણ નરમ રહે.",
+        "ગરમ મસાલો, બાકી મીઠું અને કોથમીર છાંટો. ભેજવાળું કીમા જેવું મિશ્રણ પાવ કે રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "ભૂકો પનીર અંતે નાખો; લાંબો સમય શેકવાથી તે સૂકાઈ જાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-bhurji-recipe/",
+    "use": "Crumbled paneer technique; pea and keema-style masala independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-keema.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

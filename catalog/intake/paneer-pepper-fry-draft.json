@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R0212",
+  "id": "paneer-pepper-fry",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Pepper Fry",
+  "cuisine": "South Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, cut into petals",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "freshly crushed black pepper",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pat paneer cubes dry and season with 3 g salt and half the crushed pepper. Sear in 15 ml hot coconut oil for 2 minutes per side; remove.",
+    "Heat remaining oil in the same pan. Sizzle mustard seeds and curry leaves, then add garlic and slit green chilies for 30 seconds.",
+    "Add onion petals and stir-fry over medium-high heat for 4 minutes, leaving them slightly crisp. Sprinkle turmeric and remaining salt.",
+    "Return paneer to the pan. Add remaining freshly crushed pepper and toss 2 minutes until the paneer is coated with the dark peppery spices.",
+    "Turn off heat, squeeze lime juice over the dry fry, and serve immediately with paratha or as a side."
+  ],
+  "tips": [
+    "Crush pepper just before cooking; pre-ground pepper loses the sharp aroma that defines this dish."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर पेपर फ्राय",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "प्याज़ की पंखुड़ियाँ",
+        "हरी मिर्च, चीरी",
+        "कड़ी पत्ता",
+        "ताज़ी कुटी काली मिर्च",
+        "लहसुन, बारीक कटा",
+        "राई",
+        "हल्दी",
+        "नारियल तेल",
+        "नमक",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "पनीर सुखाकर 3 ग्राम नमक और आधी कुटी काली मिर्च लगाएँ। 15 मिली गरम नारियल तेल में हर तरफ 2 मिनट सेंककर निकालें।",
+        "उसी पैन में बचा तेल गरम करें। राई और कड़ी पत्ता चटकाएँ, फिर लहसुन और चीरी हरी मिर्च 30 सेकंड भूनें।",
+        "प्याज़ की पंखुड़ियाँ डालकर मध्यम-तेज़ आँच पर 4 मिनट चलाएँ ताकि वे हल्की कुरकुरी रहें। हल्दी और बचा नमक छिड़कें।",
+        "पनीर पैन में लौटाएँ। बची ताज़ी कुटी काली मिर्च डालकर 2 मिनट मिलाएँ ताकि मसाला पनीर पर चढ़े।",
+        "आँच बंद करके सूखी फ्राय पर नींबू रस निचोड़ें और पराठे के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "पकाने से ठीक पहले काली मिर्च कूटें; पहले से पिसी मिर्च की तेज़ सुगंध कम होती है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર પેપર ફ્રાય",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "ડુંગળીની પાંખડીઓ",
+        "લીલાં મરચાં, ચીરેલાં",
+        "મીઠો લીમડો",
+        "તાજાં ભૂકાં કાળા મરી",
+        "લસણ, ઝીણું સમારેલું",
+        "રાઈ",
+        "હળદર",
+        "નાળિયેર તેલ",
+        "મીઠું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "પનીર સૂકવી 3 ગ્રામ મીઠું અને અડધાં ભૂકાં મરી લગાવો. 15 મિ.લી. ગરમ નાળિયેર તેલમાં દરેક બાજુ 2 મિનિટ સેકી કાઢો.",
+        "એ જ કડાઈમાં બાકી તેલ ગરમ કરો. રાઈ અને મીઠો લીમડો ચટકાવો, પછી લસણ અને ચીરેલાં લીલાં મરચાં 30 સેકન્ડ શેકો.",
+        "ડુંગળીની પાંખડીઓ નાખી મધ્યમથી વધુ તાપે 4 મિનિટ હલાવો જેથી થોડું કરકરું રહે. હળદર અને બાકી મીઠું છાંટો.",
+        "પનીર પાછું કડાઈમાં નાખો. બાકીનાં તાજાં ભૂકાં મરી નાખી 2 મિનિટ ભેળવો જેથી મસાલો પનીર પર ચડે.",
+        "તાપ બંધ કરી સૂકી ફ્રાય પર લીંબુનો રસ નીચોવો અને પરાઠા સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "રાંધતાં જ પહેલાં કાળા મરી ભૂકો કરો; અગાઉથી પીસેલાં મરીની તીવ્ર સુગંધ ઓછી હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.chefajaychopra.com/food-recipes/restaurant-style-paneer-pepper-fry-recipe",
+    "use": "South Indian black-pepper paneer fry profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-pepper-fry.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

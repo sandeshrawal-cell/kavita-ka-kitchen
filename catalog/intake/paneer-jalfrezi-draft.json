@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0262",
+  "id": "paneer-jalfrezi",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Paneer Jalfrezi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "paneer, cut into batons",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, julienned",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut paneer and vegetables into similar-length strips. Pat paneer dry, and keep peppers separate from tomato so they stay crisp.",
+    "Heat half the oil in a wide pan over medium-high heat. Sear paneer for 1 minute per side until lightly golden; lift it out before it toughens.",
+    "Add remaining oil and cumin to the pan. Stir-fry onion and peppers for 4–5 minutes so their edges char slightly while the centers remain firm.",
+    "Add ginger, garlic, chopped tomato, tomato paste, coriander powder, chili powder and salt. Cook 4–5 minutes until tomato becomes a thick coating, not watery gravy.",
+    "Return paneer, toss gently for 2 minutes to coat, and turn off heat. Add lemon juice and coriander; serve immediately with roti."
+  ],
+  "tips": [
+    "Jalfrezi should be semi-dry with distinct crisp pepper and paneer strips, not a smooth curry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर जालफ्रेज़ी",
+      "ingredients": [
+        "पनीर, लंबी पट्टियाँ",
+        "लाल शिमला मिर्च, कटी",
+        "हरी शिमला मिर्च, कटी",
+        "प्याज़, कटा",
+        "टमाटर, कटे",
+        "अदरक, लंबी कटी",
+        "लहसुन, बारीक कटा",
+        "हल्का तेल",
+        "टमाटर पेस्ट",
+        "धनिया पाउडर",
+        "जीरा",
+        "कश्मीरी मिर्च पाउडर",
+        "नींबू रस",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पनीर और सब्जियाँ बराबर लंबी पट्टियों में काटें। पनीर सुखाएँ और शिमला मिर्च टमाटर से अलग रखें ताकि कुरकुरी रहे।",
+        "चौड़े पैन में आधा तेल मध्यम-तेज़ आँच पर गरम करें। पनीर हर तरफ़ 1 मिनट हल्का सुनहरा सेंककर सख्त होने से पहले निकालें।",
+        "बचा तेल और जीरा डालें। प्याज़ और शिमला मिर्च 4–5 मिनट तेज़ी से भूनें, किनारे थोड़े झुलसें लेकिन बीच में कसावट रहे।",
+        "अदरक, लहसुन, टमाटर, टमाटर पेस्ट, धनिया, मिर्च और नमक डालें। 4–5 मिनट पकाएँ ताकि टमाटर गाढ़ी परत बने, पतली ग्रेवी नहीं।",
+        "पनीर वापस डालकर 2 मिनट धीरे मिलाएँ और आँच बंद करें। नींबू रस और हरा धनिया डालकर तुरंत रोटी के साथ परोसें।"
+      ],
+      "tips": [
+        "जालफ्रेज़ी हल्की सूखी रखें, शिमला मिर्च और पनीर की अलग पट्टियाँ दिखें; चिकनी ग्रेवी न बनाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર જાલફ્રેઝી",
+      "ingredients": [
+        "પનીર, લાંબી પટ્ટીઓ",
+        "લાલ કેપ્સિકમ, કાપેલું",
+        "લીલું કેપ્સિકમ, કાપેલું",
+        "ડુંગળી, કાપેલી",
+        "ટામેટાં, સમારેલાં",
+        "આદુ, લાંબું કાપેલું",
+        "લસણ, ઝીણું સમારેલું",
+        "હળવું તેલ",
+        "ટામેટાની પેસ્ટ",
+        "ધાણા પાઉડર",
+        "જીરું",
+        "કાશ્મીરી મરચું પાઉડર",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "કોથમીર"
+      ],
+      "steps": [
+        "પનીર અને શાક સરખી લાંબી પટ્ટીઓમાં કાપો. પનીર સૂકવો અને કેપ્સિકમ ટામેટાથી અલગ રાખો જેથી કરકરું રહે.",
+        "પહોળી કડાઈમાં અડધું તેલ મધ્યમથી વધુ તાપે ગરમ કરો. પનીર દરેક બાજુ 1 મિનિટ હળવું સોનેરી શેકી કઠણ થાય પહેલાં કાઢો.",
+        "બાકીનું તેલ અને જીરું નાખો. ડુંગળી અને કેપ્સિકમ 4–5 મિનિટ ઝડપથી શેકો, કિનારી થોડી શેકાય પણ વચ્ચે કરકરું રહે.",
+        "આદુ, લસણ, ટામેટાં, ટામેટાની પેસ્ટ, ધાણા, મરચું અને મીઠું નાખો. 4–5 મિનિટ રાંધો જેથી ટામેટાં ઘટ્ટ આવરણ બને, પાતળી ગ્રેવી નહીં.",
+        "પનીર પાછું નાખી 2 મિનિટ હળવેથી ભેળવો અને તાપ બંધ કરો. લીંબુનો રસ અને કોથમીર ઉમેરી તરત રોટલી સાથે પીરસો."
+      ],
+      "tips": [
+        "જાલફ્રેઝી અર્ધસૂકી રાખો, કેપ્સિકમ અને પનીરની જુદી પટ્ટીઓ દેખાય; મસૃણ ગ્રેવી ન બનાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-jalfrezi-recipe-paneer-recipes/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-jalfrezi.png",
+  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+}

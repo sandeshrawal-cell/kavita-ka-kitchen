@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0264",
+  "id": "paneer-ghee-roast",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Paneer Ghee Roast",
+  "cuisine": "Mangalorean",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "dried Kashmiri red chilies",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk yogurt with 3 g salt and coat paneer cubes. Set aside for 15 minutes while preparing the roast masala.",
+    "Dry-roast chilies, coriander, cumin, fennel, pepper and fenugreek on low heat for 3–4 minutes until fragrant, without burning. Cool, then blend with tamarind and 100 ml water into a thick paste.",
+    "Heat half the ghee in a wide pan. Sear marinated paneer on two sides for about 2 minutes total and remove; keep the heat moderate so the yogurt does not scorch.",
+    "Add remaining ghee, curry leaves and spice paste. Stir frequently for 8–10 minutes until the paste deepens to brick-red and ghee appears at the edges; add jaggery and remaining salt.",
+    "Fold paneer into the thick masala and cook 2–3 minutes until every cube is coated. Serve warm with neer dosa or rice; this roast should be thick, not soupy."
+  ],
+  "tips": [
+    "Mild Kashmiri chilies give the traditional deep red color without relying on food dye."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर घी रोस्ट",
+      "ingredients": [
+        "पनीर, टुकड़े",
+        "गाढ़ा सादा दही",
+        "घी",
+        "सूखी कश्मीरी लाल मिर्च",
+        "साबुत धनिया",
+        "जीरा",
+        "सौंफ",
+        "काली मिर्च के दाने",
+        "मेथी दाना",
+        "इमली का गूदा",
+        "गुड़",
+        "करी पत्ते",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "दही में 3 ग्राम नमक फेंटकर पनीर पर लगाएँ। रोस्ट मसाला तैयार करते समय 15 मिनट अलग रखें।",
+        "मिर्च, धनिया, जीरा, सौंफ, काली मिर्च और मेथी धीमी आँच पर 3–4 मिनट बिना जलाए भूनें। ठंडा कर इमली और 100 मि.ली. पानी के साथ गाढ़ा पीसें।",
+        "चौड़े पैन में आधा घी गरम करें। दही लगे पनीर को कुल लगभग 2 मिनट दोनों तरफ़ सेंककर निकालें; आँच मध्यम रखें ताकि दही न जले।",
+        "बचा घी, करी पत्ते और मसाला पेस्ट डालें। 8–10 मिनट बार-बार चलाएँ, जब तक गहरा ईंट-लाल रंग आए और किनारों पर घी दिखे; गुड़ और बचा नमक मिलाएँ।",
+        "पनीर गाढ़े मसाले में धीरे मिलाकर 2–3 मिनट पकाएँ ताकि हर टुकड़े पर मसाला चढ़े। नीर डोसा या चावल के साथ परोसें; यह रोस्ट गाढ़ा रहे, पतला नहीं।"
+      ],
+      "tips": [
+        "हल्की कश्मीरी मिर्च से बिना रंग मिलाए पारंपरिक गहरा लाल रंग आता है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ઘી રોસ્ટ",
+      "ingredients": [
+        "પનીર, ટુકડા",
+        "ઘાટું સાદું દહીં",
+        "ઘી",
+        "સૂકા કાશ્મીરી લાલ મરચાં",
+        "આખા ધાણા",
+        "જીરું",
+        "વરિયાળી",
+        "કાળા મરીના દાણા",
+        "મેથીના દાણા",
+        "આંબલીનો માવો",
+        "ગોળ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "દહીંમાં 3 ગ્રામ મીઠું ફેંટી પનીરને લગાવો. રોસ્ટ મસાલો બનાવતાં 15 મિનિટ બાજુએ રાખો.",
+        "મરચાં, ધાણા, જીરું, વરિયાળી, મરી અને મેથી ધીમા તાપે 3–4 મિનિટ બળ્યા વગર શેકો. ઠંડું કરી આંબલી અને 100 મિ.લી. પાણી સાથે ઘટ્ટ પીસો.",
+        "પહોળી કડાઈમાં અડધું ઘી ગરમ કરો. દહીંવાળું પનીર કુલ લગભગ 2 મિનિટ બંને બાજુ શેકી કાઢો; તાપ મધ્યમ રાખો જેથી દહીં બળે નહીં.",
+        "બાકીનું ઘી, મીઠા લીમડાનાં પાન અને મસાલાની પેસ્ટ નાખો. 8–10 મિનિટ વારંવાર હલાવો, ઈંટ જેવો ઘેરો લાલ રંગ થાય અને કિનારે ઘી દેખાય; ગોળ અને બાકીનું મીઠું ઉમેરો.",
+        "પનીર ઘટ્ટ મસાલામાં હળવેથી ભેળવી 2–3 મિનિટ રાંધો જેથી દરેક ટુકડા પર મસાલો ચડે. નીર ઢોસા કે ભાત સાથે પીરસો; આ રોસ્ટ ઘટ્ટ રહે, પાતળું નહીં."
+      ],
+      "tips": [
+        "હળવાં કાશ્મીરી મરચાંથી કૃત્રિમ રંગ વગર પરંપરાગત ઘેરો લાલ રંગ આવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/paneer-ghee-roast-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-ghee-roast.png",
+  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+}

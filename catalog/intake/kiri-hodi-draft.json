@@ -1,0 +1,29 @@
+{
+ "sourceReviewId":"R0298","id":"kiri-hodi","status":"draft-photo-and-translation-reviewed","name":"Kiri Hodi","cuisine":"Sri Lankan","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":30,
+ "ingredients":[
+  {"name":"full-fat coconut milk","qty":500,"unit":"ml"},
+  {"name":"water","qty":250,"unit":"ml"},
+  {"name":"onion, thinly sliced","qty":150,"unit":"g"},
+  {"name":"green chilies, split","qty":20,"unit":"g"},
+  {"name":"fresh curry leaves","qty":12,"unit":"g"},
+  {"name":"ground turmeric","qty":4,"unit":"g"},
+  {"name":"fenugreek seeds","qty":3,"unit":"g"},
+  {"name":"black mustard seeds","qty":4,"unit":"g"},
+  {"name":"coconut oil","qty":20,"unit":"ml"},
+  {"name":"lime juice","qty":25,"unit":"ml"},
+  {"name":"salt","qty":7,"unit":"g"}
+ ],
+ "steps":[
+  "Thinly slice onion and split the green chilies lengthwise. Whisk coconut milk with 250 ml water and turmeric until the colour is even and no thick coconut lumps remain.",
+  "Heat coconut oil in a saucepan over medium-low heat. Add mustard and fenugreek seeds; when the mustard starts to pop, add curry leaves carefully and stir for 30 seconds.",
+  "Add onion and green chilies and cook for 5 minutes, just until the onion softens without browning. A pale curry is the goal.",
+  "Pour in the turmeric-coconut mixture and add salt. Heat slowly to a gentle simmer and cook for 10 minutes, stirring often; do not boil hard or the coconut milk may split.",
+  "Turn off heat and stir in lime juice. Rest for 2 minutes, taste for a balanced gentle tang and serve this light yellow coconut gravy with rice or string hoppers."
+ ],
+ "tips":["Kiri hodi is a thin, pale coconut milk gravy rather than a thick vegetable curry. Add the lime after cooking and keep the simmer gentle."],
+ "translations":{
+  "hi":{"name":"किरी होदी","ingredients":["फुल-फैट नारियल दूध","पानी","प्याज़, पतला कटा","हरी मिर्च, चीरी","ताज़े करी पत्ते","पिसी हल्दी","मेथी दाना","काली राई","नारियल तेल","नींबू का रस","नमक"],"steps":["प्याज़ पतला काटें और हरी मिर्च लंबाई में चीरें। नारियल दूध को 250 मिली पानी और हल्दी से फेंटें ताकि रंग एक समान हो और नारियल की गाढ़ी गाँठें न रहें।","सॉसपैन में नारियल तेल मध्यम-धीमी आँच पर गरम करें। राई और मेथी दाना डालें; राई चटकने लगे तो सावधानी से करी पत्ते डालकर 30 सेकंड चलाएँ।","प्याज़ और हरी मिर्च डालकर 5 मिनट पकाएँ, बस प्याज़ नरम हो, भूरा न हो। इस करी का रंग हल्का रहना चाहिए।","हल्दी-नारियल मिश्रण डालें और नमक मिलाएँ। धीरे हल्के उबाल तक गरम करके 10 मिनट बार-बार चलाते पकाएँ; तेज़ न उबालें, वरना नारियल दूध फट सकता है।","आँच बंद करके नींबू रस मिलाएँ। 2 मिनट रखें, हल्की खटास का स्वाद जाँचें और इस पतली पीली नारियल सॉस को चावल या इडियप्पम के साथ परोसें।"],"tips":["किरी होदी गाढ़ी सब्ज़ी करी नहीं, पतली हल्के रंग की नारियल दूध सॉस है। नींबू पकने के बाद डालें और उबाल धीमा रखें।"]},
+  "gu":{"name":"કિરી હોડી","ingredients":["પૂરું ચરબીવાળું નાળિયેર દૂધ","પાણી","ડુંગળી, પાતળી સમારેલી","લીલા મરચાં, ચીરેલાં","તાજા મીઠા લીમડાના પાન","દળેલી હળદર","મેથી દાણા","કાળી રાઈ","નાળિયેરનું તેલ","લીંબુનો રસ","મીઠું"],"steps":["ડુંગળી પાતળી કાપો અને લીલા મરચાં લંબાઈમાં ચીરો. નાળિયેરના દૂધને 250 મિલી પાણી અને હળદર સાથે ફેંટો જેથી રંગ સરખો થાય અને નાળિયેરના ઘાટા ગઠ્ઠા ન રહે.","સોસપૅનમાં નાળિયેર તેલ મધ્યમથી ધીમા તાપે ગરમ કરો. રાઈ અને મેથી દાણા નાખો; રાઈ ચટકે ત્યારે કાળજીથી મીઠા લીમડાના પાન નાખી 30 સેકન્ડ હલાવો.","ડુંગળી અને લીલા મરચાં નાખી 5 મિનિટ રાંધો, ડુંગળી નરમ થાય પણ ભૂરું ન થાય. આ કરી આછી રંગની જ હોવી જોઈએ.","હળદર-નાળિયેર મિશ્રણ રેડો અને મીઠું નાખો. ધીમે હળવા ઉકાળે લાવી 10 મિનિટ વારંવાર હલાવતાં રાંધો; જોરથી ઉકાળશો નહીં, નહીં તો નાળિયેર દૂધ ફાટી શકે.","તાપ બંધ કરીને લીંબુનો રસ ભેળવો. 2 મિનિટ રાખી હળવી ખટાશ ચાખો અને આ પાતળો પીળો નાળિયેર રસો ભાત કે ઇડિયપ્પમ સાથે પીરસો."],"tips":["કિરી હોડી ઘાટી શાકની કરી નથી, પણ પાતળી આછા રંગની નાળિયેર દૂધની સોસ છે. લીંબુ રાંધ્યા પછી ઉમેરો અને ઉકાળો ધીમો રાખો."]}
+ },
+ "reference":{"url":"https://www.theguardian.com/food/2022/jan/01/meera-sodha-vegan-recipe-kiri-hodi-butternut-squash","use":"Meera Sodha's vegan kiri hodi informed the gentle coconut gravy technique; quantities and wording independently authored for the reviewed photo."}
+}

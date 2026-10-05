@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R0211",
+  "id": "paneer-sukka",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Sukka",
+  "cuisine": "Mangalorean",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "onions, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 70,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast coriander, cumin, pepper and dried chilies for 2 minutes until fragrant. Add coconut and roast 3 more minutes until golden; cool and pulse to a coarse crumb.",
+    "Heat coconut oil and fry onions for 7 minutes until golden. Add curry leaves and stir for 30 seconds.",
+    "Mix tamarind pulp with water. Add it to the onions with salt and the roasted coconut-spice crumb; cook 4 minutes until the moisture nearly evaporates.",
+    "Add paneer cubes and toss carefully over medium heat for 4–5 minutes, coating every side with the fragrant dry masala.",
+    "Rest off heat for 2 minutes, then serve as a dry sukka with neer dosa or rice."
+  ],
+  "tips": [
+    "Pulse the coconut mixture coarsely, not into a smooth paste; sukka should have a dry crumbly coating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर सुक्का",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "ताज़ा कसा नारियल",
+        "प्याज़, कटा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "साबुत धनिया",
+        "जीरा",
+        "काली मिर्च के दाने",
+        "इमली का गूदा",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "धनिया, जीरा, काली मिर्च और सूखी मिर्च 2 मिनट महकने तक सूखा भूनें। नारियल डालकर 3 मिनट और सुनहरा भूनें; ठंडा करके दरदरा पीसें।",
+        "नारियल तेल गरम करके प्याज़ 7 मिनट सुनहरा भूनें। कड़ी पत्ता डालकर 30 सेकंड चलाएँ।",
+        "इमली का गूदा पानी में मिलाएँ। प्याज़ में नमक और भुना नारियल-मसाला चूरा डालकर 4 मिनट पकाएँ ताकि नमी लगभग सूख जाए।",
+        "पनीर के टुकड़े डालकर मध्यम आँच पर 4–5 मिनट हल्के हाथ से मिलाएँ ताकि हर तरफ सूखा सुगंधित मसाला चढ़े।",
+        "आँच बंद करके 2 मिनट रहने दें, फिर सूखा सुक्का नीर डोसा या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "नारियल मिश्रण दरदरा पीसें, चिकना पेस्ट नहीं; सुक्का पर सूखी कुरकुरी परत रहनी चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર સુક્કા",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "તાજું છીણેલું નાળિયેર",
+        "ડુંગળી, સમારેલી",
+        "સૂકાં લાલ મરચાં",
+        "મીઠો લીમડો",
+        "આખા ધાણા",
+        "જીરું",
+        "કાળા મરીના દાણા",
+        "આમલીનો માવો",
+        "નાળિયેર તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ધાણા, જીરું, કાળા મરી અને સૂકાં મરચાં 2 મિનિટ સુગંધ આવે ત્યાં સુધી સૂકાં શેકો. નાળિયેર નાખી વધુ 3 મિનિટ સોનેરી શેકો; ઠંડું કરી દરદરો ભૂકો કરો.",
+        "નાળિયેર તેલ ગરમ કરી ડુંગળી 7 મિનિટ સોનેરી શેકો. મીઠો લીમડો નાખી 30 સેકન્ડ હલાવો.",
+        "આમલીનો માવો પાણીમાં ભેળવો. ડુંગળીમાં મીઠું અને શેકેલો નાળિયેર-મસાલાનો ભૂકો નાખી 4 મિનિટ રાંધો જેથી ભેજ લગભગ સુકાઈ જાય.",
+        "પનીરના ટુકડા નાખી મધ્યમ તાપે 4–5 મિનિટ હળવેથી ભેળવો જેથી દરેક બાજુ સૂકો સુગંધિત મસાલો ચડે.",
+        "તાપ બંધ કરી 2 મિનિટ રહેવા દો, પછી સૂકું સુક્કા નીર ડોસા કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "નાળિયેરનું મિશ્રણ દરદરું પીસો, લીસી પેસ્ટ નહીં; સુક્કા પર સૂકો ભરભરો આવરણ હોવો જોઈએ."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://healthy-cooking-with-mitha.com/2020/06/04/paneer-sukka/",
+    "use": "Roasted coconut dry paneer sukka method; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-sukka.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

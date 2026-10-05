@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0207",
+  "id": "dahi-paneer",
+  "status": "draft-third-100-intake-batch",
+  "name": "Dahi Paneer",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt, room temperature",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies, slit",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "chickpea flour",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk room-temperature yogurt with chickpea flour, turmeric and 120 ml water until smooth with no flour lumps. This stabilizes the sauce when heated.",
+    "Heat oil in a heavy pan and sizzle cumin. Add onion and fry 6–7 minutes until golden, then stir in ginger and slit chilies for 1 minute.",
+    "Lower heat and stir in coriander powder. Pour in the yogurt mixture slowly while stirring without stopping. Keep the heat low until it begins to steam, not boil rapidly.",
+    "Add remaining water and salt. Simmer gently, stirring often, for 6–8 minutes until the flour is cooked and the sauce coats a spoon.",
+    "Add paneer and warm through for 3–4 minutes. Scatter coriander leaves over the pale yellow dahi gravy and serve immediately with roti."
+  ],
+  "tips": [
+    "Do not use cold yogurt or boil the gravy hard; either can split the sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दही पनीर",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "गाढ़ा सादा दही, कमरे के तापमान पर",
+        "प्याज़, बारीक कटा",
+        "हरी मिर्च, चीरी हुई",
+        "अदरक, कद्दूकस",
+        "बेसन",
+        "तेल",
+        "जीरा",
+        "हल्दी",
+        "धनिया पाउडर",
+        "नमक",
+        "पानी",
+        "ताज़ा हरा धनिया"
+      ],
+      "steps": [
+        "कमरे के तापमान वाला दही, बेसन, हल्दी और 120 मिली पानी बिना गुठली के फेंटें। इससे गरम करते समय तरी स्थिर रहती है।",
+        "भारी पैन में तेल गरम करके जीरा चटकाएँ। प्याज़ 6–7 मिनट सुनहरा भूनें, फिर अदरक और चीरी मिर्च 1 मिनट चलाएँ।",
+        "आँच धीमी करके धनिया पाउडर मिलाएँ। दही मिश्रण लगातार चलाते हुए धीरे डालें। हल्की भाप आने तक धीमी आँच रखें, तेज़ उबाल न दें।",
+        "बचा पानी और नमक डालें। बार-बार चलाते हुए 6–8 मिनट हल्का पकाएँ, जब तक बेसन पककर तरी चम्मच पर चढ़ने लगे।",
+        "पनीर डालकर 3–4 मिनट गरम करें। हल्की पीली दही की तरी पर धनिया बिखेरकर रोटी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "ठंडा दही न लें और तरी तेज़ न उबालें; दोनों से दही फट सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "દહીં પનીર",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "ઘટ્ટ સાદું દહીં, ઓરડાના તાપે",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "લીલાં મરચાં, ચીરેલાં",
+        "આદુ, છીણેલું",
+        "બેસન",
+        "તેલ",
+        "જીરું",
+        "હળદર",
+        "ધાણા પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તાજી કોથમીર"
+      ],
+      "steps": [
+        "ઓરડાના તાપનું દહીં, બેસન, હળદર અને 120 મિ.લી. પાણી ગાંઠ વગર ફેંટો. આથી ગરમ કરતી વખતે ગ્રેવી સ્થિર રહે છે.",
+        "ભારે કડાઈમાં તેલ ગરમ કરી જીરું ચટકાવો. ડુંગળી 6–7 મિનિટ સોનેરી શેકો, પછી આદુ અને ચીરેલાં મરચાં 1 મિનિટ હલાવો.",
+        "તાપ ધીમો કરી ધાણા પાઉડર ભેળવો. સતત હલાવતા દહીંનું મિશ્રણ ધીમે રેડો. હળવી વરાળ આવે ત્યાં સુધી ધીમો તાપ રાખો, તેજ ઉકાળો નહીં.",
+        "બાકી પાણી અને મીઠું નાખો. વારંવાર હલાવી 6–8 મિનિટ હળવું રાંધો, બેસન પાકી ગ્રેવી ચમચીને ચોંટે ત્યાં સુધી.",
+        "પનીર નાખી 3–4 મિનિટ ગરમ કરો. આછી પીળી દહીંની ગ્રેવી પર કોથમીર છાંટી રોટલી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "ઠંડું દહીં ન લો અને ગ્રેવી તેજ ન ઉકાળો; બંનેથી દહીં ફાટી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/dahi-bhindi-dahi-wali-bhindi/",
+    "use": "Yogurt gravy stabilization with besan; adapted for paneer with independently authored quantities and steps."
+  },
+  "photoDraft": "catalog/intake/photos/dahi-paneer.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

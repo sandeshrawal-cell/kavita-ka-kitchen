@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0205",
+  "id": "paneer-patiala",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Patiala",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "paneer, crumbled",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "thin eggless papads, 4 pieces",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum, finely diced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat 15 ml oil and sauté half the onions with capsicum and peas for 5 minutes. Add half the crumbled paneer, a pinch of salt and half the garam masala; cook 2 minutes and cool the filling.",
+    "Briefly dip each papad in water until pliable, then pat dry. Place a quarter of the filling on each, roll firmly, and shallow-fry in 15 ml oil until set and lightly golden. Cut the rolls in half.",
+    "For the gravy, heat remaining oil and cook remaining onions until golden. Add ginger-garlic paste, coriander and chili; stir 1 minute. Add tomato puree and 5 g salt, and cook 10 minutes until thick.",
+    "Add water and simmer the gravy 5 minutes. Stir in remaining crumbled paneer and cream, then season with remaining salt and garam masala. Keep the sauce thick enough to cradle the rolls.",
+    "Arrange papad-paneer rolls in a shallow serving bowl and spoon hot gravy around them just before serving. Leave the roll tops visible so their delicate wrappers retain some texture."
+  ],
+  "tips": [
+    "Fill softened papads promptly and add gravy at serving time, or the rolls become soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर पटियाला",
+      "ingredients": [
+        "पनीर, चूरा किया",
+        "बिना अंडे के पतले पापड़, 4 नग",
+        "प्याज़, बारीक कटे",
+        "टमाटर की प्यूरी",
+        "हरी शिमला मिर्च, बारीक कटी",
+        "हरी मटर",
+        "अदरक-लहसुन पेस्ट",
+        "तेल",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "क्रीम",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "15 मिली तेल गरम करके आधे प्याज़, शिमला मिर्च और मटर 5 मिनट भूनें। आधा चूरा पनीर, चुटकी नमक और आधा गरम मसाला डालें; 2 मिनट पकाकर भरावन ठंडी करें।",
+        "हर पापड़ को पानी में क्षण भर डुबोकर नरम करें और थपथपाकर सुखाएँ। चार भाग भरावन रखकर कसकर रोल बनाएँ। 15 मिली तेल में हल्का सुनहरा और सेट होने तक सेंकें, फिर आधे काटें।",
+        "तरी के लिए बचा तेल गरम कर बाकी प्याज़ सुनहरा भूनें। अदरक-लहसुन पेस्ट, धनिया और मिर्च डालकर 1 मिनट चलाएँ। टमाटर प्यूरी और 5 ग्राम नमक डालकर 10 मिनट गाढ़ा पकाएँ।",
+        "पानी डालकर तरी 5 मिनट उबालें। बचा चूरा पनीर और क्रीम मिलाएँ, फिर बचा नमक और गरम मसाला डालें। तरी इतनी गाढ़ी रखें कि रोल उसमें टिकें।",
+        "उथले बर्तन में पापड़-पनीर रोल सजाएँ और परोसने से ठीक पहले गरम तरी उनके आसपास डालें। रोल का ऊपरी भाग खुला रखें ताकि पापड़ की कुछ बनावट बनी रहे।"
+      ],
+      "tips": [
+        "नरम पापड़ में तुरंत भरावन भरें और तरी परोसते समय डालें, वरना रोल गीले हो जाएँगे।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર પટિયાલા",
+      "ingredients": [
+        "પનીર, ભૂકો કરેલું",
+        "ઈંડા વગરના પાતળા પાપડ, 4 નંગ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "લીલું શિમલા મરચું, ઝીણું સમારેલું",
+        "લીલા વટાણા",
+        "આદુ-લસણની પેસ્ટ",
+        "તેલ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "ક્રીમ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "15 મિ.લી. તેલ ગરમ કરી અડધી ડુંગળી, શિમલા મરચું અને વટાણા 5 મિનિટ શેકો. અડધું ભૂકો કરેલું પનીર, ચપટી મીઠું અને અડધો ગરમ મસાલો નાખો; 2 મિનિટ રાંધી પૂરણ ઠંડું કરો.",
+        "દરેક પાપડને ક્ષણભર પાણીમાં ડુબાડી નરમ કરી થપથપાવી સૂકવો. ચોથો ભાગ પૂરણ મૂકી કસીને રોલ વાળો. 15 મિ.લી. તેલમાં હળવો સોનેરી અને ગોઠવાય ત્યાં સુધી શેકો, પછી અડધા કાપો.",
+        "ગ્રેવી માટે બાકી તેલ ગરમ કરી બાકી ડુંગળી સોનેરી શેકો. આદુ-લસણની પેસ્ટ, ધાણા અને મરચું નાખી 1 મિનિટ હલાવો. ટામેટાંની પ્યૂરી અને 5 ગ્રામ મીઠું નાખી 10 મિનિટ ઘટ્ટ રાંધો.",
+        "પાણી નાખી ગ્રેવી 5 મિનિટ ઉકાળો. બાકી ભૂકો પનીર અને ક્રીમ ભેળવો, પછી બાકી મીઠું અને ગરમ મસાલો નાખો. ગ્રેવી એટલી ઘટ્ટ રાખો કે રોલ ટકી રહે.",
+        "છીછરા વાસણમાં પાપડ-પનીર રોલ ગોઠવો અને પીરસતાં જ તેમની આસપાસ ગરમ ગ્રેવી રેડો. રોલનો ઉપરનો ભાગ દેખાય તેવો રાખો જેથી પાપડની થોડી બનાવટ રહે."
+      ],
+      "tips": [
+        "નરમ પાપડમાં તરત પૂરણ ભરો અને ગ્રેવી પીરસતી વખતે નાખો, નહીં તો રોલ પોચા થઈ જશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://ranveerbrar.com/recipes/shahi-paneer-patiala/",
+    "use": "Paneer-papad roll presentation in gravy; independently measured home version."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-patiala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

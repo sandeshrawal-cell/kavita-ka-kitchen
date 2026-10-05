@@ -1,0 +1,59 @@
+{
+  "sourceReviewId": "R0235",
+  "id": "chakka-kuru-manga-curry",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Chakka Kuru Manga Curry",
+  "cuisine": "Kerala",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {"name":"jackfruit seeds, peeled and halved","qty":350,"unit":"g"},
+    {"name":"raw green mango, peeled and chopped","qty":200,"unit":"g"},
+    {"name":"fresh grated coconut","qty":150,"unit":"g"},
+    {"name":"cumin seeds","qty":5,"unit":"g"},
+    {"name":"green chilies, chopped","qty":12,"unit":"g"},
+    {"name":"ground turmeric","qty":3,"unit":"g"},
+    {"name":"water","qty":600,"unit":"ml"},
+    {"name":"coconut oil","qty":20,"unit":"ml"},
+    {"name":"black mustard seeds","qty":5,"unit":"g"},
+    {"name":"dried red chilies","qty":4,"unit":"g"},
+    {"name":"fresh curry leaves","qty":10,"unit":"g"},
+    {"name":"salt","qty":8,"unit":"g"}
+  ],
+  "steps": [
+    "Peel the papery outer skin from the jackfruit seeds and remove any hard brown coating. Halve large seeds, cover with 450 ml water and simmer for 15 minutes until nearly tender.",
+    "Add raw mango, turmeric and salt to the jackfruit seeds. Simmer for 7 minutes more, until the mango softens but keeps some shape.",
+    "Grind grated coconut, cumin and green chilies with 150 ml water to a smooth paste. Stir the paste into the pot and simmer gently for 4 minutes; do not boil hard after adding coconut.",
+    "Heat coconut oil in a small pan. Let mustard seeds crackle, then add dried red chilies and curry leaves for 30 seconds. Pour this tempering over the curry.",
+    "Cover and rest for 5 minutes so the coconut and tempering mingle. Serve warm with steamed rice; taste first and add a little more salt only if the mango needs it."
+  ],
+  "tips": ["Jackfruit seeds must be fully cooked before eating. The tartness of raw mango varies; start with the stated amount and adjust at the end."],
+  "translations": {
+    "hi": {
+      "name": "चक्का कुरु मंगा करी",
+      "ingredients": ["कटहल के बीज, छिले और आधे किए हुए","कच्चा हरा आम, छिला और कटा","ताज़ा कसा नारियल","जीरा","हरी मिर्च, कटी","पिसी हल्दी","पानी","नारियल तेल","राई","सूखी लाल मिर्च","ताज़े करी पत्ते","नमक"],
+      "steps": [
+        "कटहल के बीज का कागज़ जैसा बाहरी छिलका और सख़्त भूरा आवरण निकालें। बड़े बीज आधे करें, 450 मिली पानी में ढककर लगभग 15 मिनट उबालें, जब तक वे लगभग नरम न हो जाएँ।",
+        "बीजों में कच्चा आम, हल्दी और नमक डालें। लगभग 7 मिनट और धीमी आँच पर पकाएँ, जब तक आम नरम हो लेकिन अपना आकार रखे।",
+        "कसे नारियल, जीरे और हरी मिर्च को 150 मिली पानी के साथ चिकना पीसें। यह पेस्ट बर्तन में मिलाकर 4 मिनट धीमे पकाएँ; नारियल डालने के बाद तेज़ उबाल न लाएँ।",
+        "छोटे पैन में नारियल तेल गरम करें। राई चटकाएँ, फिर सूखी लाल मिर्च और करी पत्ते 30 सेकंड भूनें। यह तड़का करी पर डालें।",
+        "ढककर 5 मिनट रहने दें ताकि नारियल और तड़के का स्वाद मिल जाए। उबले चावल के साथ गरम परोसें; चखकर ही ज़रूरत हो तो नमक बढ़ाएँ।"
+      ],
+      "tips": ["कटहल के बीज खाने से पहले पूरी तरह पके होने चाहिए। कच्चे आम की खटास अलग-अलग होती है; बताई मात्रा से शुरू करें और अंत में स्वाद ठीक करें।"]
+    },
+    "gu": {
+      "name": "ચક્કા કુરુ મંગા કરી",
+      "ingredients": ["ફણસનાં બીજ, છોલેલાં અને અડધાં કરેલાં","કાચી લીલી કેરી, છોલેલી અને સમારેલી","તાજું છીણેલું નાળિયેર","જીરું","લીલાં મરચાં, સમારેલાં","દળેલી હળદર","પાણી","નાળિયેરનું તેલ","રાઈ","સૂકાં લાલ મરચાં","તાજા મીઠા લીમડાનાં પાન","મીઠું"],
+      "steps": [
+        "ફણસનાં બીજની કાગળ જેવી બહારની છાલ અને કઠણ ભૂરું પડ કાઢો. મોટાં બીજ અડધાં કરો, 450 મિલી પાણીમાં ઢાંકી લગભગ 15 મિનિટ ઉકાળો જેથી લગભગ નરમ થાય.",
+        "બીજમાં કાચી કેરી, હળદર અને મીઠું નાખો. કેરી નરમ થાય પણ આકાર રાખે ત્યાં સુધી લગભગ 7 મિનિટ વધુ ધીમી આંચે રાંધો.",
+        "છીણેલા નાળિયેર, જીરું અને લીલાં મરચાંને 150 મિલી પાણી સાથે સુંવાળું વાટો. આ પેસ્ટ વાસણમાં ભેળવી 4 મિનિટ ધીમે રાંધો; નાળિયેર નાખ્યા પછી તેજ ઉકાળો નહીં.",
+        "નાના પૅનમાં નાળિયેરનું તેલ ગરમ કરો. રાઈ તતડાવો, પછી સૂકાં લાલ મરચાં અને મીઠા લીમડાનાં પાન 30 સેકન્ડ સાંતળો. આ વઘાર કરી પર રેડો.",
+        "ઢાંકીને 5 મિનિટ રહેવા દો જેથી નાળિયેર અને વઘારનો સ્વાદ ભળે. બાફેલા ભાત સાથે ગરમ પીરસો; ચાખીને જ જરૂર પડે તો મીઠું વધારો."
+      ],
+      "tips": ["ફણસનાં બીજ ખાતાં પહેલાં સંપૂર્ણપણે પાકેલાં હોવાં જોઈએ. કાચી કેરીની ખટાશ બદલાય છે; આપેલી માત્રાથી શરૂ કરી અંતે સ્વાદ સંતુલિત કરો."]
+    }
+  },
+  "reference": {"url":"https://aahaaramonline.com/chakka-kuru-manga-curry-jackfruit-seed-and-mango-curry/","use":"Traditional Kerala jackfruit-seed, raw-mango and coconut combination informed the independently written quantities and method."}
+}

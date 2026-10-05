@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0201",
+  "id": "paneer-bhuna-masala",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Bhuna Masala",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cut into cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum, diced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "kasuri methi",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oil and half the ghee in a wide heavy pan. Add cumin; when fragrant, cook onions over medium heat for 8–10 minutes until deeply golden, stirring often.",
+    "Add ginger-garlic paste, coriander, chili and turmeric. Stir for 1 minute, then add tomatoes and 5 g salt. Cook uncovered for 12–15 minutes, pressing tomatoes down until the masala thickens and fat begins to separate.",
+    "Add water in three small splashes, frying the masala back down after each addition. This repeated bhuna step builds a dark, clingy sauce rather than a thin gravy.",
+    "In a separate pan heat the remaining ghee. Toss capsicum for 2 minutes, add paneer and sear gently for 2 minutes so the edges colour without becoming rubbery.",
+    "Fold the paneer and capsicum into the reduced masala with remaining salt and crushed kasuri methi. Cover and simmer 4 minutes, then serve hot with roti."
+  ],
+  "tips": [
+    "Do not add all the water at once; the repeated frying after each splash is what makes this a bhuna masala."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर भुना मसाला",
+      "ingredients": [
+        "पनीर, टुकड़ों में कटा",
+        "प्याज़, बारीक कटे",
+        "टमाटर, कटे",
+        "हरी शिमला मिर्च, टुकड़ों में",
+        "अदरक-लहसुन पेस्ट",
+        "घी",
+        "हल्का तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "हल्दी",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चौड़े भारी पैन में तेल और आधा घी गरम करें। जीरा महकने पर प्याज़ मध्यम आँच पर 8–10 मिनट गहरा सुनहरा होने तक बार-बार चलाते हुए भूनें।",
+        "अदरक-लहसुन पेस्ट, धनिया, मिर्च और हल्दी डालें। 1 मिनट चलाएँ, फिर टमाटर और 5 ग्राम नमक डालें। 12–15 मिनट बिना ढके पकाएँ और टमाटर मसलें, जब तक मसाला गाढ़ा होकर तेल न छोड़ने लगे।",
+        "पानी तीन छोटी किस्तों में डालें और हर बार मसाले को फिर गाढ़ा होने तक भूनें। इस भुनाई से पतली तरी की जगह गाढ़ा, चिपकने वाला मसाला बनता है।",
+        "दूसरे पैन में बचा घी गरम करें। शिमला मिर्च 2 मिनट भूनें, फिर पनीर डालकर 2 मिनट हल्का सेंकें ताकि किनारे रंग लें लेकिन पनीर सख्त न हो।",
+        "भुने मसाले में पनीर और शिमला मिर्च, बचा नमक और मसलकर कसूरी मेथी मिलाएँ। ढककर 4 मिनट धीमी आँच पर पकाएँ और रोटी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "सारा पानी एक साथ न डालें; हर छींटे के बाद भुनाई ही इसे भुना मसाला बनाती है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ભૂના મસાલા",
+      "ingredients": [
+        "પનીર, ટુકડામાં કાપેલું",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "લીલું શિમલા મરચું, ટુકડામાં",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘી",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "હળદર",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "પહોળી ભારે કડાઈમાં તેલ અને અડધું ઘી ગરમ કરો. જીરું સુગંધ આપે ત્યારે ડુંગળી મધ્યમ તાપે 8–10 મિનિટ ઘેરી સોનેરી થાય ત્યાં સુધી વારંવાર હલાવી શેકો.",
+        "આદુ-લસણની પેસ્ટ, ધાણા, મરચું અને હળદર ઉમેરો. 1 મિનિટ હલાવો, પછી ટામેટાં અને 5 ગ્રામ મીઠું નાખો. 12–15 મિનિટ ઢાંક્યા વગર રાંધી ટામેટાં મસળો, મસાલો ઘટ્ટ થઈ તેલ છોડે ત્યાં સુધી.",
+        "પાણી ત્રણ નાની હપ્તામાં ઉમેરો અને દર વખતે મસાલો ફરી ઘટ્ટ થાય ત્યાં સુધી શેકો. આ ભૂના પદ્ધતિથી પાતળી રસાવાળી નહીં પણ ચોંટે તેવી ઘટ્ટ ગ્રેવી બને છે.",
+        "અલગ કડાઈમાં બાકી ઘી ગરમ કરો. શિમલા મરચું 2 મિનિટ શેકો, પછી પનીર નાખી 2 મિનિટ હળવું સેકો જેથી કિનારી રંગ પકડે પરંતુ પનીર કડક ન બને.",
+        "ભૂના મસાલામાં પનીર, શિમલા મરચું, બાકી મીઠું અને મસળેલી કસૂરી મેથી ભેળવો. ઢાંકી 4 મિનિટ ધીમે રાંધી રોટલી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બધું પાણી એકસાથે ન નાખો; દરેક છાંટા પછી શેકવાથી જ ભૂના મસાલાનો સ્વાદ આવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/paneer-bhuna-masala-recipe-dhaba-style/",
+    "use": "Bhuna reduction technique and paneer-capsicum pairing; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-bhuna-masala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,28 @@
+{
+ "sourceReviewId":"R0299","id":"wambatu-moju","status":"draft-photo-and-translation-reviewed","name":"Wambatu Moju","cuisine":"Sri Lankan","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":50,
+ "ingredients":[
+  {"name":"aubergine, cut into thick batons","qty":650,"unit":"g"},
+  {"name":"onion, thinly sliced","qty":220,"unit":"g"},
+  {"name":"green chilies, slit","qty":25,"unit":"g"},
+  {"name":"black mustard seeds","qty":12,"unit":"g"},
+  {"name":"white vinegar","qty":90,"unit":"ml"},
+  {"name":"sugar","qty":60,"unit":"g"},
+  {"name":"neutral oil","qty":100,"unit":"ml"},
+  {"name":"fresh curry leaves","qty":12,"unit":"g"},
+  {"name":"red chili powder","qty":6,"unit":"g"},
+  {"name":"salt","qty":8,"unit":"g"}
+ ],
+ "steps":[
+  "Cut aubergine into thick even batons, sprinkle with 4 g of the salt and leave for 10 minutes. Pat thoroughly dry so the pieces fry rather than steam.",
+  "Heat 80 ml oil in a broad pan over medium-high heat. Fry aubergine in batches for 5 minutes, turning until browned and soft; lift onto a rack or paper to drain.",
+  "In a clean pan heat the remaining 20 ml oil. Fry sliced onion for 6 minutes until browned at the edges, then add mustard seeds, curry leaves and slit green chilies for 1 minute.",
+  "Stir in vinegar, sugar, chili powder and the remaining 4 g salt. Bubble for 3 minutes until the mixture turns glossy and slightly syrupy; taste for sweet, sour and heat.",
+  "Fold the fried aubergine into the glossy pickle mixture and cook for 2 minutes so it coats every piece. Cool until warm, then serve a modest spoonful beside rice and curries."
+ ],
+ "tips":["Wambatu moju is a sweet-sour fried aubergine pickle served as an accompaniment, not a bowl of gravy. Dry the aubergine well before frying and keep the vinegar-sugar glaze glossy."],
+ "translations":{
+  "hi":{"name":"वाम्बटु मोजु","ingredients":["बैंगन, मोटी लंबी पट्टियाँ","प्याज़, पतला कटा","हरी मिर्च, चीरी","काली राई","सफेद सिरका","चीनी","हल्का स्वाद वाला तेल","ताज़े करी पत्ते","लाल मिर्च पाउडर","नमक"],"steps":["बैंगन की बराबर मोटी लंबी पट्टियाँ काटें, 4 ग्राम नमक छिड़ककर 10 मिनट रखें। अच्छी तरह सुखाएँ ताकि तलते समय भाप न बने।","चौड़े पैन में 80 मिली तेल मध्यम-तेज़ आँच पर गरम करें। बैंगन थोड़े-थोड़े करके 5 मिनट पलटते हुए भूरा और नरम होने तक तलें; जाली या कागज़ पर निकालकर तेल टपकाएँ।","साफ़ पैन में बचा 20 मिली तेल गरम करें। कटा प्याज़ 6 मिनट किनारों से भूरा होने तक भूनें, फिर राई, करी पत्ते और चीरी हरी मिर्च 1 मिनट पकाएँ।","सिरका, चीनी, मिर्च पाउडर और बचा 4 ग्राम नमक मिलाएँ। 3 मिनट बुलबुले आने दें, जब तक मिश्रण चमकदार और हल्का चाशनी-जैसा हो; मीठा, खट्टा और तीखा संतुलन चखें।","तला बैंगन चमकदार अचार मिश्रण में मिलाकर 2 मिनट पकाएँ ताकि हर टुकड़े पर परत चढ़े। थोड़ा ठंडा कर चावल और करी के साथ सीमित मात्रा में परोसें।"],"tips":["वाम्बटु मोजु मीठा-खट्टा तला बैंगन अचार है जो साथ परोसा जाता है, कटोरी भर सॉस नहीं। तलने से पहले बैंगन सुखाएँ और सिरका-चीनी की परत चमकदार रखें।"]},
+  "gu":{"name":"વાંબટુ મોજુ","ingredients":["રીંગણ, જાડી લાંબી પટ્ટીઓ","ડુંગળી, પાતળી સમારેલી","લીલા મરચાં, ચીરેલાં","કાળી રાઈ","સફેદ સરકો","ખાંડ","હળવા સ્વાદનું તેલ","તાજા મીઠા લીમડાના પાન","લાલ મરચું પાઉડર","મીઠું"],"steps":["રીંગણની સરખી જાડી લાંબી પટ્ટીઓ કાપી 4 ગ્રામ મીઠું છાંટી 10 મિનિટ રાખો. સારી રીતે સૂકવો જેથી તળતાં વરાળમાં ન બફાય.","પહોળા પૅનમાં 80 મિલી તેલ મધ્યમથી વધુ તાપે ગરમ કરો. રીંગણ થોડાં-થોડાં કરીને 5 મિનિટ પલટતાં બદામી અને નરમ થાય ત્યાં સુધી તળો; જાળી કે કાગળ પર કાઢી તેલ નિતારો.","સાફ પૅનમાં બાકીનું 20 મિલી તેલ ગરમ કરો. ડુંગળી 6 મિનિટ કિનારીથી બદામી થાય ત્યાં સુધી શેકો, પછી રાઈ, મીઠા લીમડાનાં પાન અને ચીરેલાં લીલાં મરચાં 1 મિનિટ પકાવો.","સરકો, ખાંડ, મરચું પાઉડર અને બાકીનું 4 ગ્રામ મીઠું ભેળવો. 3 મિનિટ પરપોટા આવે ત્યાં સુધી ઉકાળો જેથી મિશ્રણ ચળકતું અને સહેજ ચાસણી જેવું થાય; મીઠું, ખાટું અને તીખું ચાખી સંતુલન કરો.","તળેલું રીંગણ ચળકતા અથાણાના મિશ્રણમાં ભેળવી 2 મિનિટ રાંધો જેથી દરેક ટુકડા પર પડ ચડે. થોડું ઠંડું કરી ભાત અને કઢી સાથે ઓછી માત્રામાં પીરસો."],"tips":["વાંબટુ મોજુ મીઠું-ખાટું તળેલું રીંગણ અથાણું છે જે સાથે પીરસાય છે, રસાની ભરેલી વાટકી નથી. તળતાં પહેલાં રીંગણ સૂકવો અને સરકો-ખાંડનો પડ ચળકતો રાખો."]}
+ },
+ "reference":{"url":"https://ceyloncooking.com/recipes/eggplant-moju","use":"Sri Lankan aubergine moju's fried vegetable and sweet-sour mustard-vinegar glaze informed this independently measured version and reviewed photo."}
+}

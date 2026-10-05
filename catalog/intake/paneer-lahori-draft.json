@@ -1,0 +1,161 @@
+{
+  "sourceReviewId": "R0203",
+  "id": "paneer-lahori",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Lahori",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, cut into thin matchsticks",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt, whisked",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "kasuri methi",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oil in a wide pan. Sizzle cumin, then cook the chopped onions for 8 minutes until golden. Add garlic and half the ginger matchsticks; fry 1 minute.",
+    "Stir in coriander and Kashmiri chili for 30 seconds. Add tomato puree and 5 g salt; cook 10–12 minutes until the sauce thickens and oil begins to show at the edges.",
+    "Turn the heat low. Whisk yogurt with a spoonful of warm masala, then add it gradually to the pan while stirring so it does not split. Cook gently for 3 minutes.",
+    "Pour in water, simmer 5 minutes and blend only if a smoother restaurant-style gravy is preferred. Add paneer cubes and cook over low heat for another 4 minutes.",
+    "Finish with garam masala, crushed kasuri methi and remaining salt. Garnish with the reserved ginger matchsticks and serve hot with naan or roti."
+  ],
+  "tips": [
+    "Warm the yogurt with a little masala before adding it to the pan to prevent curdling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर लाहौरी",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "प्याज़, बारीक कटे",
+        "टमाटर की प्यूरी",
+        "अदरक की पतली तीलियाँ",
+        "लहसुन, बारीक कटा",
+        "फेंटा हुआ सादा दही",
+        "तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चौड़े पैन में तेल गरम करें। जीरा चटकाकर कटे प्याज़ 8 मिनट सुनहरे होने तक भूनें। लहसुन और आधी अदरक की तीलियाँ डालकर 1 मिनट पकाएँ।",
+        "धनिया और कश्मीरी मिर्च 30 सेकंड चलाएँ। टमाटर प्यूरी और 5 ग्राम नमक डालकर 10–12 मिनट पकाएँ, जब तक चटनी गाढ़ी हो और किनारों पर तेल दिखे।",
+        "आँच धीमी करें। दही में एक चम्मच गरम मसाला मिलाकर फेंटें, फिर इसे धीरे-धीरे चलाते हुए पैन में डालें ताकि दही न फटे। 3 मिनट हल्का पकाएँ।",
+        "पानी डालकर 5 मिनट उबालें; अधिक चिकनी होटल जैसी तरी चाहें तो थोड़ा पीसें। पनीर के टुकड़े डालकर धीमी आँच पर 4 मिनट और पकाएँ।",
+        "गरम मसाला, मसलकर कसूरी मेथी और बचा नमक मिलाएँ। बची अदरक की तीलियों से सजाकर नान या रोटी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "दही को पैन में डालने से पहले थोड़ा गरम मसाला मिलाएँ ताकि वह फटे नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર લાહોરી",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુની પાતળી સળીઓ",
+        "લસણ, ઝીણું સમારેલું",
+        "ફેંટેલું સાદું દહીં",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "પહોળી કડાઈમાં તેલ ગરમ કરો. જીરું ચટકાવી સમારેલી ડુંગળી 8 મિનિટ સોનેરી થાય ત્યાં સુધી શેકો. લસણ અને અડધી આદુની સળીઓ નાખી 1 મિનિટ રાંધો.",
+        "ધાણા અને કાશ્મીરી મરચું 30 સેકન્ડ હલાવો. ટામેટાંની પ્યૂરી અને 5 ગ્રામ મીઠું નાખી 10–12 મિનિટ રાંધો, ગ્રેવી ઘટ્ટ થઈ કિનારે તેલ દેખાય ત્યાં સુધી.",
+        "તાપ ધીમો કરો. દહીંમાં એક ચમચી ગરમ મસાલો ભેળવી ફેંટો, પછી હલાવતા હલાવતા ધીમે કડાઈમાં ઉમેરો જેથી દહીં ફાટે નહીં. 3 મિનિટ હળવું રાંધો.",
+        "પાણી નાખી 5 મિનિટ ઉકાળો; વધુ મખમલી રેસ્ટોરાં જેવી ગ્રેવી જોઈએ તો થોડું પીસો. પનીરના ટુકડા નાખી ધીમા તાપે વધુ 4 મિનિટ રાંધો.",
+        "ગરમ મસાલો, મસળેલી કસૂરી મેથી અને બાકી મીઠું ભેળવો. બાકી આદુની સળીઓથી સજાવી નાન કે રોટલી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "દહીં કડાઈમાં નાખતાં પહેલાં થોડો ગરમ મસાલો ભેળવો જેથી તે ફાટે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://purvanchaltadka.com/2024/02/08/paneer-recipe/",
+    "use": "Lahori paneer onion-tomato masala profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-lahori.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0263",
+  "id": "paneer-hariyali",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Paneer Hariyali",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves and stems",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "spinach leaves",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chili",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Blanch spinach in boiling water for 1 minute and cool immediately in cold water; squeeze gently. Blend spinach, coriander, mint, green chili, cashews and 80 ml water to a smooth green puree.",
+    "Heat oil in a heavy pan on medium heat. Add cumin and onion; cook 7–8 minutes until onion softens and turns pale golden. Add ginger-garlic paste and cook 1 minute.",
+    "Lower heat. Add the green puree and remaining 100 ml water; simmer 4 minutes, stirring, until the raw herb taste mellows but the color stays bright.",
+    "Whisk yogurt smooth with a spoonful of warm gravy. Stir it slowly into the pan, then add salt and garam masala. Keep heat low and do not boil vigorously.",
+    "Add paneer cubes and heat gently for 3 minutes, just until warm through. Turn off heat, stir in lemon juice, and serve with phulka or rice."
+  ],
+  "tips": [
+    "Blanching and rapid cooling keep the herb gravy green; overheating the yogurt can split it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर हरियाली",
+      "ingredients": [
+        "पनीर, टुकड़े",
+        "हरा धनिया पत्ते और डंठल",
+        "पुदीने के पत्ते",
+        "पालक के पत्ते",
+        "हरी मिर्च",
+        "प्याज़, बारीक कटा",
+        "अदरक-लहसुन पेस्ट",
+        "गाढ़ा सादा दही",
+        "काजू",
+        "हल्का तेल",
+        "जीरा",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "नींबू रस"
+      ],
+      "steps": [
+        "पालक 1 मिनट उबलते पानी में डालकर तुरंत ठंडे पानी में ठंडा करें और हल्का निचोड़ें। पालक, धनिया, पुदीना, हरी मिर्च, काजू और 80 मि.ली. पानी चिकना हरा पीसें।",
+        "भारी पैन में तेल मध्यम आँच पर गरम करें। जीरा और प्याज़ डालकर 7–8 मिनट नरम और हल्का सुनहरा करें। अदरक-लहसुन पेस्ट डालकर 1 मिनट पकाएँ।",
+        "आँच धीमी करें। हरी प्यूरी और बचा 100 मि.ली. पानी डालकर 4 मिनट चलाते हुए पकाएँ, ताकि कच्चा स्वाद जाए लेकिन रंग चमकीला रहे।",
+        "दही को एक चम्मच गरम ग्रेवी से फेंटकर चिकना करें। धीरे-धीरे पैन में मिलाएँ, फिर नमक और गरम मसाला डालें। धीमी आँच रखें और तेज़ न उबालें।",
+        "पनीर डालकर सिर्फ गरम होने तक 3 मिनट धीरे पकाएँ। आँच बंद करें, नींबू रस मिलाएँ और फुल्के या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "पालक को तुरंत ठंडा करने से ग्रेवी हरी रहती है; दही तेज़ उबालने पर फट सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર હરિયાળી",
+      "ingredients": [
+        "પનીર, ટુકડા",
+        "કોથમીરનાં પાન અને દાંડી",
+        "ફુદીનાનાં પાન",
+        "પાલકનાં પાન",
+        "લીલું મરચું",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘાટું સાદું દહીં",
+        "કાજુ",
+        "હળવું તેલ",
+        "જીરું",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "પાલકને 1 મિનિટ ઉકળતા પાણીમાં નાખી તરત ઠંડા પાણીમાં ઠંડું કરો અને હળવેથી નીચોવો. પાલક, કોથમીર, ફુદીનો, મરચું, કાજુ અને 80 મિ.લી. પાણી મસૃણ લીલું પીસો.",
+        "ભારે કડાઈમાં તેલ મધ્યમ તાપે ગરમ કરો. જીરું અને ડુંગળી નાખી 7–8 મિનિટ નરમ અને હળવી સોનેરી કરો. આદુ-લસણની પેસ્ટ નાખી 1 મિનિટ રાંધો.",
+        "તાપ ધીમો કરો. લીલી પ્યુરી અને બાકીનું 100 મિ.લી. પાણી નાખી 4 મિનિટ હલાવી રાંધો જેથી કાચો સ્વાદ જાય પણ રંગ ચમકતો રહે.",
+        "દહીંને એક ચમચી ગરમ ગ્રેવી સાથે ફેંટી મસૃણ કરો. ધીમે ધીમે કડાઈમાં ભેળવો, પછી મીઠું અને ગરમ મસાલો ઉમેરો. ધીમો તાપ રાખો અને જોરથી ન ઉકાળો.",
+        "પનીર નાખી માત્ર ગરમ થાય ત્યાં સુધી 3 મિનિટ ધીમે રાંધો. તાપ બંધ કરો, લીંબુનો રસ ભેળવો અને ફુલકા કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "પાલકને તરત ઠંડો કરવાથી ગ્રેવી લીલી રહે છે; દહીં જોરથી ઉકાળતાં ફાટી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/hariyali-paneer-tikka-recipe/",
+    "use": "Dish method and identity; quantities and wording independently authored for the reviewed photo."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-hariyali.png",
+  "photoReview": "Visually reviewed for dish identity, realistic appetizing appearance and photo quality on 2026-10-05."
+}

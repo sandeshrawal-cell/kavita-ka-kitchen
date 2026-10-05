@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0202",
+  "id": "methi-paneer",
+  "status": "draft-third-100-intake-batch",
+  "name": "Methi Paneer",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh fenugreek leaves, picked and chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onions, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, pureed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cream",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pick only tender fenugreek leaves, wash thoroughly and drain dry. Chop them finely; discard coarse stems, which can taste bitter.",
+    "Heat oil in a wide pan and sizzle cumin. Add onions and cook 7–8 minutes until golden. Stir in ginger-garlic paste for 1 minute.",
+    "Add tomato puree, coriander, chili, turmeric and 5 g salt. Cook over medium heat for 8–10 minutes until the puree darkens and the oil appears at the edges.",
+    "Add chopped methi and cook uncovered for 4–5 minutes until wilted and its raw aroma fades. Pour in water and simmer 3 minutes to marry the greens with the masala.",
+    "Lower the heat. Stir in cream and paneer, then simmer gently for 3–4 minutes without boiling hard. Add remaining salt to taste and serve with chapati."
+  ],
+  "tips": [
+    "Dry the washed leaves well so the curry does not become watery; cream is added only at the end."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मेथी पनीर",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "ताज़ी मेथी की पत्तियाँ, साफ करके कटी",
+        "प्याज़, कटे",
+        "टमाटर की प्यूरी",
+        "अदरक-लहसुन पेस्ट",
+        "तेल",
+        "क्रीम",
+        "जीरा",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "हल्दी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "केवल कोमल मेथी पत्तियाँ चुनें, अच्छी तरह धोकर सुखाएँ और बारीक काटें। मोटे डंठल हटा दें, वे कड़वे लग सकते हैं।",
+        "चौड़े पैन में तेल गरम करके जीरा चटकाएँ। प्याज़ डालकर 7–8 मिनट सुनहरा भूनें। अदरक-लहसुन पेस्ट 1 मिनट चलाएँ।",
+        "टमाटर प्यूरी, धनिया, मिर्च, हल्दी और 5 ग्राम नमक डालें। मध्यम आँच पर 8–10 मिनट पकाएँ जब तक प्यूरी गहरी हो और किनारों पर तेल दिखे।",
+        "कटी मेथी डालकर 4–5 मिनट बिना ढके पकाएँ ताकि पत्तियाँ बैठें और कच्ची महक दूर हो। पानी डालकर 3 मिनट उबालें ताकि मेथी मसाले में मिल जाए।",
+        "आँच धीमी करें। क्रीम और पनीर मिलाकर 3–4 मिनट हल्का पकाएँ, तेज़ उबाल न दें। बचा नमक स्वादानुसार डालकर चपाती के साथ परोसें।"
+      ],
+      "tips": [
+        "धोई मेथी को अच्छी तरह सुखाएँ ताकि करी पानीदार न हो; क्रीम अंत में ही डालें।"
+      ]
+    },
+    "gu": {
+      "name": "મેથી પનીર",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "તાજી મેથીનાં પાન, સાફ કરી સમારેલાં",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાંની પ્યૂરી",
+        "આદુ-લસણની પેસ્ટ",
+        "તેલ",
+        "ક્રીમ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "હળદર",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "માત્ર કોમળ મેથીનાં પાન ચૂંટો, સારી રીતે ધોઈ સૂકવો અને ઝીણાં સમારો. જાડા ડાંટા કાઢી નાખો, તે કડવા લાગી શકે.",
+        "પહોળી કડાઈમાં તેલ ગરમ કરી જીરું ચટકાવો. ડુંગળી નાખી 7–8 મિનિટ સોનેરી શેકો. આદુ-લસણની પેસ્ટ 1 મિનિટ હલાવો.",
+        "ટામેટાંની પ્યૂરી, ધાણા, મરચું, હળદર અને 5 ગ્રામ મીઠું નાખો. મધ્યમ તાપે 8–10 મિનિટ રાંધો, પ્યૂરી ઘેરી થાય અને કિનારે તેલ દેખાય ત્યાં સુધી.",
+        "સમારેલી મેથી નાખી 4–5 મિનિટ ઢાંક્યા વગર રાંધો જેથી પાન ચીમળાય અને કાચી સુગંધ જાય. પાણી નાખી 3 મિનિટ ધીમે ઉકાળો જેથી મેથી મસાલામાં ભળી જાય.",
+        "તાપ ધીમો કરો. ક્રીમ અને પનીર ભેળવી 3–4 મિનિટ હળવું રાંધો; તેજ ઉકાળો નહીં. બાકી મીઠું સ્વાદ પ્રમાણે નાખી ચપાટી સાથે પીરસો."
+      ],
+      "tips": [
+        "ધોયેલી મેથી સારી રીતે સૂકવો જેથી કરી પાણી જેવી ન બને; ક્રીમ અંતે જ ઉમેરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/methi-malai-paneer-recipe-paneer-methi/",
+    "use": "Fresh fenugreek and paneer in lightly creamy onion-tomato sauce; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/methi-paneer.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

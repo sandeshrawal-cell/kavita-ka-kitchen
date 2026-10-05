@@ -1,0 +1,63 @@
+{
+  "sourceReviewId": "R0232",
+  "id": "phulkopir-roast",
+  "status": "draft-recipe-translations-and-photo-ready",
+  "name": "Phulkopir Roast",
+  "cuisine": "Bengali",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {"name": "cauliflower florets", "qty": 700, "unit": "g"},
+    {"name": "potato, cubed", "qty": 250, "unit": "g"},
+    {"name": "onion, finely sliced", "qty": 180, "unit": "g"},
+    {"name": "tomato, chopped", "qty": 220, "unit": "g"},
+    {"name": "ginger paste", "qty": 20, "unit": "g"},
+    {"name": "plain yogurt", "qty": 120, "unit": "g"},
+    {"name": "mustard oil", "qty": 55, "unit": "ml"},
+    {"name": "ground turmeric", "qty": 4, "unit": "g"},
+    {"name": "ground cumin", "qty": 7, "unit": "g"},
+    {"name": "ground coriander", "qty": 9, "unit": "g"},
+    {"name": "red chilli powder", "qty": 5, "unit": "g"},
+    {"name": "garam masala", "qty": 3, "unit": "g"},
+    {"name": "salt", "qty": 10, "unit": "g"},
+    {"name": "water", "qty": 120, "unit": "ml"}
+  ],
+  "steps": [
+    "Cut cauliflower into large even florets and potatoes into 2 cm cubes. Dry the cauliflower thoroughly, then toss both vegetables with 2 g turmeric and 3 g salt.",
+    "Heat 35 ml mustard oil until shimmering, then lower to medium heat. Shallow-fry cauliflower in batches until golden at the edges, about 6 minutes per batch; lift out. Fry potatoes until lightly browned and remove.",
+    "Add the remaining oil and soften onion for 7–8 minutes. Stir in ginger, tomato, cumin, coriander, chilli and remaining turmeric; cook until the tomato collapses and oil begins to separate.",
+    "Lower the heat and whisk yogurt into the masala a spoonful at a time to prevent splitting. Add 120 ml water and remaining 7 g salt, return the fried potato and cauliflower, cover and simmer 10–12 minutes until potato is tender and sauce is thick.",
+    "Uncover and cook 3–4 minutes more, gently turning the cauliflower to coat each floret without breaking it. Sprinkle garam masala, rest 5 minutes, and serve with luchi or rice."
+  ],
+  "tips": ["Keep the cauliflower florets large and pre-fry them; this preserves their shape in the rich Bengali masala."],
+  "translations": {
+    "hi": {
+      "name": "फूलकोपी रोस्ट",
+      "ingredients": ["फूलगोभी के फूल", "आलू, टुकड़ों में", "प्याज़, पतला कटा", "टमाटर, कटा", "अदरक का पेस्ट", "सादा दही", "सरसों का तेल", "पिसी हल्दी", "पिसा जीरा", "पिसा धनिया", "लाल मिर्च पाउडर", "गरम मसाला", "नमक", "पानी"],
+      "steps": [
+        "फूलगोभी को बड़े समान फूलों में और आलू को 2 सेमी टुकड़ों में काटें। फूलगोभी अच्छी तरह सुखाएँ, फिर दोनों सब्ज़ियों में 2 ग्राम हल्दी और 3 ग्राम नमक मिलाएँ।",
+        "35 मिली सरसों का तेल चमकने तक गरम करें, फिर आँच मध्यम करें। फूलगोभी को थोड़ी-थोड़ी करके हर बार लगभग 6 मिनट किनारों से सुनहरा होने तक तलकर निकालें। आलू भी हल्के भूरे होने तक तलकर निकालें।",
+        "बचा तेल डालकर प्याज़ 7–8 मिनट नरम करें। अदरक, टमाटर, जीरा, धनिया, मिर्च और बची हल्दी डालें; टमाटर गलने और तेल अलग दिखने तक भूनें।",
+        "आँच धीमी करें और दही एक-एक चम्मच फेंटकर मसाले में मिलाएँ ताकि फटे नहीं। 120 मिली पानी और बचा 7 ग्राम नमक डालें, तले आलू व फूलगोभी लौटाएँ, ढककर 10–12 मिनट आलू नरम और चटनी गाढ़ी होने तक पकाएँ।",
+        "ढक्कन हटाकर 3–4 मिनट और पकाएँ, फूलगोभी को बिना तोड़े धीरे पलटते हुए हर फूल पर मसाला चढ़ाएँ। गरम मसाला छिड़कें, 5 मिनट रखकर लूची या चावल के साथ परोसें।"
+      ],
+      "tips": ["फूलगोभी के बड़े फूल रखें और पहले तलें; इससे गाढ़े बंगाली मसाले में उनका आकार बना रहता है।"]
+    },
+    "gu": {
+      "name": "ફૂલકોપીર રોસ્ટ",
+      "ingredients": ["ફૂલકોબીના ફૂલ", "બટાકા, ટુકડામાં", "ડુંગળી, પાતળી સમારેલી", "ટામેટાં, સમારેલાં", "આદુની પેસ્ટ", "સાદું દહીં", "સરસવનું તેલ", "દળેલી હળદર", "દળેલું જીરું", "દળેલા ધાણા", "લાલ મરચું પાઉડર", "ગરમ મસાલો", "મીઠું", "પાણી"],
+      "steps": [
+        "ફૂલકોબીને મોટા સરખા ફૂલમાં અને બટાકાને 2 સેમી ટુકડામાં કાપો. ફૂલકોબી સારી રીતે સૂકવી બંને શાકમાં 2 ગ્રામ હળદર અને 3 ગ્રામ મીઠું ભેળવો.",
+        "35 મિલી સરસવનું તેલ ચમકે ત્યાં સુધી ગરમ કરી તાપ મધ્યમ કરો. ફૂલકોબી થોડા-થોડા ભાગમાં દરેક વખતે લગભગ 6 મિનિટ કિનારીથી સોનેરી થાય ત્યાં સુધી તળી કાઢો. બટાકા પણ હળવા ભૂખરા થાય ત્યાં સુધી તળી કાઢો.",
+        "બાકીનું તેલ નાખી ડુંગળી 7–8 મિનિટ નરમ કરો. આદુ, ટામેટાં, જીરું, ધાણા, મરચું અને બાકી હળદર નાખી ટામેટાં ગળી જાય અને તેલ છૂટે ત્યાં સુધી શેકો.",
+        "તાપ ધીમો કરી દહીં એક-એક ચમચી ફેંટીને મસાલામાં ભેળવો જેથી ફાટે નહીં. 120 મિલી પાણી અને બાકીનું 7 ગ્રામ મીઠું નાખો, તળેલા બટાકા અને ફૂલકોબી પાછાં નાખી ઢાંકી 10–12 મિનિટ બટાકા નરમ અને રસો ઘાટો થાય ત્યાં સુધી પકાવો.",
+        "ઢાંકણ કાઢી 3–4 મિનિટ વધુ પકાવો, ફૂલકોબી તૂટે નહીં તેમ હળવેથી ફેરવી દરેક ફૂલ પર મસાલો ચઢાવો. ગરમ મસાલો છાંટી 5 મિનિટ રહેવા દો અને લૂચી કે ભાત સાથે પીરસો."
+      ],
+      "tips": ["ફૂલકોબીના ફૂલ મોટા રાખી પહેલાં તળો; તેથી ઘાટા બંગાળી મસાલામાં તેમનો આકાર જળવાય છે."]
+    }
+  },
+  "reference": {"url": "https://kitchenofdebjani.com/2018/10/phulkopir-roast-bengali-roasted-cauliflower/", "use": "Bengali roasted-cauliflower technique; measured proportions and wording independently developed."},
+  "photoDraft": "catalog/intake/photos/phulkopir-roast.png",
+  "photoReview": "Visually reviewed for roasted cauliflower, realistic appearance and photo quality on 2026-10-05."
+}

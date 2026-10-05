@@ -1,0 +1,150 @@
+{
+  "sourceReviewId": "R0214",
+  "id": "paneer-cafreal",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Cafreal",
+  "cuisine": "Goan",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "passiveTime": "15 minutes marinating",
+  "ingredients": [
+    {
+      "name": "paneer, large cubes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves and tender stems",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Blend coriander, chilies, ginger, garlic, lime juice, vinegar, cumin, pepper, cinnamon and salt into a thick green cafreal paste.",
+    "Coat large paneer cubes evenly with the paste and refrigerate 15 minutes. Reserve any paste left in the bowl.",
+    "Heat oil in a wide pan over medium-high heat. Sear the marinated paneer in one layer for 2–3 minutes per side until lightly charred; turn gently.",
+    "Lower the heat, add reserved green paste with a splash of water if necessary, and cook 3 minutes until it clings to the paneer and no raw aroma remains.",
+    "Rest 2 minutes, then serve the bright green, mostly dry cafreal with lime wedges and Goan poi or rice."
+  ],
+  "tips": [
+    "Cafreal is a seared green-masala dish, not a thin curry; use only enough liquid to coat paneer."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर काफ्रियल",
+      "ingredients": [
+        "पनीर, बड़े टुकड़े",
+        "ताज़ा धनिया पत्ती और नरम डंठल",
+        "हरी मिर्च",
+        "अदरक",
+        "लहसुन",
+        "नींबू का रस",
+        "सफेद सिरका",
+        "जीरा",
+        "काली मिर्च के दाने",
+        "दालचीनी",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "धनिया, मिर्च, अदरक, लहसुन, नींबू रस, सिरका, जीरा, काली मिर्च, दालचीनी और नमक पीसकर गाढ़ा हरा काफ्रियल पेस्ट बनाएँ।",
+        "पनीर के बड़े टुकड़ों पर पेस्ट समान रूप से लगाकर 15 मिनट फ्रिज में रखें। कटोरे में बचा पेस्ट सँभालें।",
+        "चौड़े पैन में तेल मध्यम-तेज़ आँच पर गरम करें। मेरिनेट पनीर एक परत में रखकर हर तरफ 2–3 मिनट हल्का जला-सुनहरा सेंकें; धीरे पलटें।",
+        "आँच धीमी करें, बचा हरा पेस्ट और जरूरत हो तो थोड़ा पानी डालें। 3 मिनट पकाएँ जब तक पेस्ट पनीर पर चिपके और कच्ची महक जाए।",
+        "2 मिनट रहने दें, फिर चटकीला हरा, लगभग सूखा काफ्रियल नींबू की फाँकों और गोअन पोई या चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "काफ्रियल हरे मसाले में सेंका व्यंजन है, पतली करी नहीं; पनीर पर चढ़ने भर तरल रखें।"
+      ],
+      "passiveTime": "15 मिनट मेरिनेट करना"
+    },
+    "gu": {
+      "name": "પનીર કાફ્રિયલ",
+      "ingredients": [
+        "પનીર, મોટા ટુકડા",
+        "તાજી કોથમીરનાં પાન અને કોમળ ડાંટા",
+        "લીલાં મરચાં",
+        "આદુ",
+        "લસણ",
+        "લીંબુનો રસ",
+        "સફેદ સરકો",
+        "જીરું",
+        "કાળા મરીના દાણા",
+        "તજ",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કોથમીર, મરચાં, આદુ, લસણ, લીંબુનો રસ, સરકો, જીરું, કાળા મરી, તજ અને મીઠું પીસી ઘટ્ટ લીલી કાફ્રિયલ પેસ્ટ બનાવો.",
+        "પનીરના મોટા ટુકડા પર પેસ્ટ સરખી લગાવી 15 મિનિટ ફ્રિજમાં રાખો. વાસણમાં બાકી પેસ્ટ સાચવો.",
+        "પહોળી કડાઈમાં તેલ મધ્યમથી વધુ તાપે ગરમ કરો. મેરિનેટ કરેલું પનીર એક પડમાં રાખી દરેક બાજુ 2–3 મિનિટ હળવું શેકો; હળવેથી ફેરવો.",
+        "તાપ ધીમો કરો, બાકી લીલી પેસ્ટ અને જરૂર હોય તો થોડું પાણી ઉમેરો. પેસ્ટ પનીર પર ચોંટે અને કાચી સુગંધ જાય ત્યાં સુધી 3 મિનિટ રાંધો.",
+        "2 મિનિટ રહેવા દો, પછી ચમકતું લીલું, લગભગ સૂકું કાફ્રિયલ લીંબુની ચીરી અને ગોવાની પોઈ કે ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "કાફ્રિયલ લીલા મસાલામાં શેકાયેલી વાનગી છે, પાતળી કરી નહીં; પનીર પર ચડે એટલું જ પ્રવાહી રાખો."
+      ],
+      "passiveTime": "15 મિનિટ મેરિનેટ કરવું"
+    }
+  },
+  "reference": {
+    "url": "https://www.zaykakatadka.com/recipe/paneer-cafreal/",
+    "use": "Goan green cafreal marinade and seared paneer method; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-cafreal.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

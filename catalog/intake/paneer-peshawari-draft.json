@@ -1,0 +1,168 @@
+{
+  "sourceReviewId": "R0204",
+  "id": "paneer-peshawari",
+  "status": "draft-third-100-intake-batch",
+  "name": "Paneer Peshawari",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onions, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "pistachios, roughly chopped",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom pods",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "kasuri methi",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak cashews in 120 ml warm water for 15 minutes, then blend with their soaking water until completely smooth. Keep the remaining water for adjusting the gravy.",
+    "Melt ghee in a pan and fry cardamom and cinnamon briefly. Add onions and cook 7 minutes until golden; stir in ginger-garlic paste for 1 minute.",
+    "Add tomatoes, coriander, chili and salt. Cook 10 minutes, stirring and crushing tomatoes, until the masala thickens. Remove cinnamon and blend the masala if a velvety texture is wanted.",
+    "Return masala to the pan, add cashew paste and remaining water. Simmer gently 5 minutes, stirring so the nuts do not catch. Add paneer and warm through for 4 minutes.",
+    "Switch off the heat, stir in cream and crushed kasuri methi, and scatter chopped pistachios over the top. Serve with roti or jeera rice."
+  ],
+  "tips": [
+    "Keep the cashew sauce at a gentle simmer; vigorous boiling can make it grainy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर पेशावरी",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "प्याज़, कटे",
+        "टमाटर, कटे",
+        "कच्चे काजू",
+        "पिस्ता, मोटे कटे",
+        "क्रीम",
+        "घी",
+        "अदरक-लहसुन पेस्ट",
+        "हरी इलायची",
+        "दालचीनी",
+        "धनिया पाउडर",
+        "कश्मीरी मिर्च पाउडर",
+        "कसूरी मेथी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "काजू को 120 मिली गरम पानी में 15 मिनट भिगोकर उसी पानी के साथ एकदम चिकना पीसें। बचा पानी तरी समायोजित करने के लिए रखें।",
+        "पैन में घी पिघलाकर इलायची और दालचीनी थोड़ी देर भूनें। प्याज़ डालकर 7 मिनट सुनहरा करें; अदरक-लहसुन पेस्ट 1 मिनट चलाएँ।",
+        "टमाटर, धनिया, मिर्च और नमक डालें। 10 मिनट चलाकर टमाटर मसलते हुए गाढ़ा मसाला पकाएँ। दालचीनी निकालें और मखमली तरी के लिए चाहें तो मसाला पीसें।",
+        "मसाला पैन में लौटाएँ, काजू पेस्ट और बचा पानी डालें। मेवे चिपकें नहीं इसलिए चलाते हुए 5 मिनट हल्का उबालें। पनीर डालकर 4 मिनट गरम करें।",
+        "आँच बंद कर क्रीम और मसलकर कसूरी मेथी मिलाएँ। ऊपर कटे पिस्ता डालें और रोटी या जीरा चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "काजू की तरी हल्की आँच पर रखें; तेज़ उबाल से वह दानेदार हो सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર પેશાવરી",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "ડુંગળી, સમારેલી",
+        "ટામેટાં, સમારેલાં",
+        "કાચા કાજુ",
+        "પિસ્તાં, મોટા સમારેલાં",
+        "ક્રીમ",
+        "ઘી",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલી એલચી",
+        "તજ",
+        "ધાણા પાઉડર",
+        "કાશ્મીરી મરચું પાઉડર",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાજુને 120 મિ.લી. ગરમ પાણીમાં 15 મિનિટ પલાળી એ જ પાણી સાથે એકદમ લીસાં પીસો. બાકી પાણી ગ્રેવી ગોઠવવા રાખો.",
+        "કડાઈમાં ઘી ઓગાળી એલચી અને તજ થોડાં શેકો. ડુંગળી નાખી 7 મિનિટ સોનેરી કરો; આદુ-લસણની પેસ્ટ 1 મિનિટ હલાવો.",
+        "ટામેટાં, ધાણા, મરચું અને મીઠું નાખો. 10 મિનિટ હલાવી ટામેટાં મસળી ઘટ્ટ મસાલો રાંધો. તજ કાઢી મખમલી ગ્રેવી માટે ઇચ્છો તો મસાલો પીસો.",
+        "મસાલો પાછો કડાઈમાં નાખી કાજુની પેસ્ટ અને બાકી પાણી ઉમેરો. કાજુ ચોંટે નહીં માટે હલાવી 5 મિનિટ હળવું ઉકાળો. પનીર નાખી 4 મિનિટ ગરમ કરો.",
+        "તાપ બંધ કરી ક્રીમ અને મસળેલી કસૂરી મેથી ભેળવો. ઉપર સમારેલાં પિસ્તાં છાંટી રોટલી કે જીરા ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "કાજુની ગ્રેવી ધીમા તાપે રાખો; તેજ ઉકાળવાથી દાણાદાર થઈ શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/paneer-peshawari-recipe-cottage-cheese-in-rich-gravy",
+    "use": "Cashew-onion-tomato and cream profile; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-peshawari.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}

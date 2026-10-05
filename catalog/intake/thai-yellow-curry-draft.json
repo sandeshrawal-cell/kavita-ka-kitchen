@@ -1,0 +1,30 @@
+{
+ "sourceReviewId":"R0292","id":"thai-yellow-curry","status":"draft-photo-and-translation-reviewed","name":"Thai Yellow Curry","cuisine":"Thai","categories":["Lunch","Dinner"],"baseServings":4,"prepAndCookMinutes":45,
+ "ingredients":[
+  {"name":"firm tofu, pressed and cubed","qty":500,"unit":"g"},
+  {"name":"potatoes, peeled and cubed","qty":400,"unit":"g"},
+  {"name":"carrots, cut into chunks","qty":200,"unit":"g"},
+  {"name":"vegetarian Thai yellow curry paste","qty":90,"unit":"g"},
+  {"name":"coconut milk","qty":500,"unit":"ml"},
+  {"name":"vegetable stock","qty":250,"unit":"ml"},
+  {"name":"onion, sliced","qty":150,"unit":"g"},
+  {"name":"neutral oil","qty":25,"unit":"ml"},
+  {"name":"light soy sauce","qty":25,"unit":"ml"},
+  {"name":"palm sugar","qty":18,"unit":"g"},
+  {"name":"lime juice","qty":25,"unit":"ml"},
+  {"name":"Thai basil leaves","qty":20,"unit":"g"}
+ ],
+ "steps":[
+  "Press the tofu, cut it into bite-size cubes and dry the surfaces. Cut potatoes and carrots to a similar size so they finish together; check that the yellow curry paste is fully vegetarian.",
+  "Heat oil in a deep pan over medium heat. Sear tofu for 3 minutes per side until lightly golden, then lift it onto a plate. Add sliced onion to the pan and soften for 4 minutes.",
+  "Stir in yellow curry paste and fry for 2 minutes until fragrant. Add a small splash of coconut milk and scrape the pan to dissolve the paste without letting it burn.",
+  "Pour in remaining coconut milk and vegetable stock. Add potatoes and carrots, cover and simmer gently for 15 minutes, until a knife enters the potatoes easily.",
+  "Return tofu to the sauce. Add soy sauce and palm sugar and simmer for 5 minutes so the tofu absorbs the curry. Switch off heat, stir in lime juice and Thai basil, and serve with steamed rice."
+ ],
+ "tips":["Many commercial curry pastes contain animal-derived ingredients; choose a verified vegetarian paste. Add lime juice only after turning off the heat to keep the curry bright."],
+ "translations":{
+  "hi":{"name":"थाई येलो करी","ingredients":["सख़्त टोफू, दबाकर टुकड़े किए","आलू, छीलकर टुकड़े किए","गाजर, टुकड़ों में","शाकाहारी थाई येलो करी पेस्ट","नारियल का दूध","सब्ज़ियों का स्टॉक","प्याज़, कटा","हल्का स्वाद वाला तेल","हल्का सोया सॉस","पाम शुगर","नींबू का रस","थाई तुलसी की पत्तियाँ"],"steps":["टोफू दबाकर खाने योग्य टुकड़े करें और ऊपर से सुखाएँ। आलू और गाजर बराबर आकार के काटें ताकि साथ पकें; जाँचें कि येलो करी पेस्ट पूरी तरह शाकाहारी है।","गहरे पैन में मध्यम आँच पर तेल गरम करें। टोफू हर तरफ़ 3 मिनट हल्का सुनहरा सेंककर प्लेट में निकालें। पैन में प्याज़ डालकर 4 मिनट नरम करें।","येलो करी पेस्ट डालकर 2 मिनट खुशबू आने तक भूनें। नारियल के दूध की थोड़ी मात्रा डालें और तले को खुरचकर पेस्ट घोलें, जलने न दें।","बचा नारियल दूध और सब्ज़ियों का स्टॉक डालें। आलू और गाजर डालकर ढकें और 15 मिनट धीमे उबालें, जब तक चाकू आलू में आसानी से जाए।","टोफू सॉस में वापस डालें। सोया सॉस और पाम शुगर मिलाकर 5 मिनट उबालें ताकि स्वाद टोफू में जाए। आँच बंद कर नींबू रस और थाई तुलसी मिलाएँ; भाप वाले चावल के साथ परोसें।"],"tips":["कई तैयार करी पेस्ट में पशु-जनित सामग्री होती है; प्रमाणित शाकाहारी पेस्ट चुनें। करी का स्वाद ताज़ा रखने के लिए आँच बंद करने के बाद नींबू रस डालें।"]},
+  "gu":{"name":"થાઈ યેલો કરી","ingredients":["કડક ટોફુ, દબાવી ટુકડા કરેલું","બટાકા, છાલ ઉતારી ટુકડા કરેલા","ગાજર, ટુકડામાં","શાકાહારી થાઈ યેલો કરી પેસ્ટ","નાળિયેરનું દૂધ","શાકભાજીનો સ્ટોક","ડુંગળી, સમારેલી","હળવા સ્વાદનું તેલ","હળવો સોયા સોસ","પામ સુગર","લીંબુનો રસ","થાઈ બેસિલના પાન"],"steps":["ટોફુ દબાવી ખાવા જેવા ટુકડા કરી ઉપરથી સૂકવો. બટાકા અને ગાજર સરખા કદના કાપો જેથી સાથે રંધાય; યેલો કરી પેસ્ટ સંપૂર્ણ શાકાહારી છે તે તપાસો.","ઊંડા પૅનમાં મધ્યમ તાપે તેલ ગરમ કરો. ટોફુને દરેક બાજુ 3 મિનિટ આછો સોનેરી શેકી થાળીમાં કાઢો. પૅનમાં ડુંગળી નાખી 4 મિનિટ નરમ કરો.","યેલો કરી પેસ્ટ નાખી 2 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો. થોડું નાળિયેરનું દૂધ નાખીને તળિયું ખુરચી પેસ્ટ ઓગાળો, બળવા ન દો.","બાકીનું નાળિયેર દૂધ અને શાકભાજીનો સ્ટોક રેડો. બટાકા અને ગાજર નાખી ઢાંકો અને 15 મિનિટ ધીમે ઉકાળો, છરી બટાકામાં સહેલાઈથી જાય ત્યાં સુધી.","ટોફુ ફરી સોસમાં નાખો. સોયા સોસ અને પામ સુગર ભેળવી 5 મિનિટ ઉકાળો જેથી સ્વાદ ટોફુમાં ઉતરે. તાપ બંધ કરી લીંબુનો રસ અને થાઈ બેસિલ ભેળવો; બાફેલા ભાત સાથે પીરસો."],"tips":["ઘણી તૈયાર કરી પેસ્ટમાં પ્રાણીજન્ય સામગ્રી હોય છે; ખાતરીવાળી શાકાહારી પેસ્ટ પસંદ કરો. કરીનો તાજો સ્વાદ જળવાય માટે તાપ બંધ કર્યા પછી લીંબુ નાખો."]}
+ },
+ "reference":{"url":"https://veganpunks.com/tofu-yellow-curry/","use":"Vegetarian yellow coconut curry with tofu and potato; measured quantities and wording independently authored for the reviewed photo."}
+}

@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R0208",
+  "id": "pudina-paneer",
+  "status": "draft-third-100-intake-batch",
+  "name": "Pudina Paneer",
+  "cuisine": "North Indian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "paneer, cubed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash mint and coriander well, then dry. Blend herbs, green chilies, ginger, lime juice and 60 ml water into a vivid green paste; do not cook the herbs before blending.",
+    "Heat oil and sizzle cumin. Add onion and sauté 7 minutes until lightly golden. Stir in coriander powder for 30 seconds.",
+    "Lower the heat and add yogurt in two batches, stirring so it coats the onion without splitting. Simmer for 2 minutes, then add remaining water.",
+    "Stir in green herb paste and cook only 2–3 minutes on low heat to keep the mint fresh and green. Add salt and gently fold in paneer cubes.",
+    "Cover for 3 minutes to warm paneer through. Serve promptly, topped with a few extra mint leaves if available."
+  ],
+  "tips": [
+    "Long boiling turns mint dull and bitter; add the herb paste near the end."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पुदीना पनीर",
+      "ingredients": [
+        "पनीर, टुकड़ों में",
+        "ताज़े पुदीने के पत्ते",
+        "ताज़ा हरा धनिया",
+        "प्याज़, कटा",
+        "हरी मिर्च",
+        "अदरक",
+        "गाढ़ा सादा दही",
+        "तेल",
+        "जीरा",
+        "धनिया पाउडर",
+        "नींबू का रस",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "पुदीना और धनिया अच्छी तरह धोकर सुखाएँ। पत्तियाँ, हरी मिर्च, अदरक, नींबू रस और 60 मिली पानी पीसकर चटकीला हरा पेस्ट बनाएँ; पत्तियाँ पहले न पकाएँ।",
+        "तेल गरम कर जीरा चटकाएँ। प्याज़ 7 मिनट हल्का सुनहरा भूनें। धनिया पाउडर 30 सेकंड चलाएँ।",
+        "आँच धीमी करके दही दो बार में डालें और चलाएँ ताकि वह प्याज़ पर चढ़े, फटे नहीं। 2 मिनट हल्का पकाकर बचा पानी डालें।",
+        "हरा पेस्ट मिलाकर धीमी आँच पर केवल 2–3 मिनट पकाएँ ताकि पुदीने का रंग और ताज़गी रहे। नमक और पनीर हल्के से मिलाएँ।",
+        "ढककर 3 मिनट पनीर गरम करें। चाहें तो ऊपर थोड़े पुदीने के पत्ते रखकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "लंबा उबाल पुदीने को फीका और कड़वा कर देता है; हरा पेस्ट अंत में डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ફુદીના પનીર",
+      "ingredients": [
+        "પનીર, ટુકડામાં",
+        "તાજા ફુદીનાના પાન",
+        "તાજી કોથમીર",
+        "ડુંગળી, સમારેલી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "ઘટ્ટ સાદું દહીં",
+        "તેલ",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ફુદીનો અને કોથમીર સારી રીતે ધોઈ સૂકવો. પાન, લીલાં મરચાં, આદુ, લીંબુનો રસ અને 60 મિ.લી. પાણી પીસી ચમકતી લીલી પેસ્ટ બનાવો; પાન પહેલાં રાંધશો નહીં.",
+        "તેલ ગરમ કરી જીરું ચટકાવો. ડુંગળી 7 મિનિટ હળવી સોનેરી શેકો. ધાણા પાઉડર 30 સેકન્ડ હલાવો.",
+        "તાપ ધીમો કરી દહીં બે હપ્તામાં નાખી હલાવો જેથી તે ડુંગળી પર ચડે, ફાટે નહીં. 2 મિનિટ હળવું રાંધી બાકી પાણી ઉમેરો.",
+        "લીલી પેસ્ટ ભેળવી ધીમા તાપે માત્ર 2–3 મિનિટ રાંધો જેથી ફુદીનાનો રંગ અને તાજગી રહે. મીઠું અને પનીર હળવેથી ભેળવો.",
+        "ઢાંકી 3 મિનિટ પનીર ગરમ કરો. ઇચ્છો તો ઉપર થોડાં ફુદીનાના પાન મૂકી તરત પીરસો."
+      ],
+      "tips": [
+        "લાંબો ઉકાળો ફુદીનાને ફિક્કો અને કડવો કરે છે; લીલી પેસ્ટ અંતે નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/pudina-paneer-recipe-mint-cottage-cheese-curry",
+    "use": "Mint-paneer pairing; independently measured and authored."
+  },
+  "photoDraft": "catalog/intake/photos/pudina-paneer.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-05."
+}
