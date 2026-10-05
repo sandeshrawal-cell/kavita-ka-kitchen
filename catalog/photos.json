@@ -9581,5 +9581,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "tofu-poke-bowl": {
+    "name": "Tofu Poke Bowl",
+    "src": "/photos/tofu-poke-bowl-1200.webp",
+    "small": "/photos/tofu-poke-bowl-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Tofu Poke Bowl served ready to eat",
+    "kind": "generated",
+    "title": "Tofu Poke Bowl",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }

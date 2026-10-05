@@ -1,0 +1,64 @@
+{
+  "sourceReviewId": "R0171",
+  "id": "tofu-poke-bowl",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Tofu Poke Bowl",
+  "cuisine": "Hawaiian-inspired",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {"name": "dry sushi rice", "qty": 260, "unit": "g"},
+    {"name": "water", "qty": 480, "unit": "ml"},
+    {"name": "extra-firm tofu, drained", "qty": 400, "unit": "g"},
+    {"name": "shelled edamame, cooked", "qty": 240, "unit": "g"},
+    {"name": "cucumber, thinly sliced", "qty": 200, "unit": "g"},
+    {"name": "carrot, cut into fine ribbons", "qty": 160, "unit": "g"},
+    {"name": "radishes, thinly sliced", "qty": 100, "unit": "g"},
+    {"name": "ripe avocado, sliced", "qty": 240, "unit": "g"},
+    {"name": "soy sauce", "qty": 50, "unit": "ml"},
+    {"name": "toasted sesame oil", "qty": 20, "unit": "ml"},
+    {"name": "rice vinegar", "qty": 35, "unit": "ml"},
+    {"name": "sugar", "qty": 10, "unit": "g"},
+    {"name": "fresh ginger, finely grated", "qty": 12, "unit": "g"},
+    {"name": "sesame seeds", "qty": 15, "unit": "g"},
+    {"name": "spring onion, thinly sliced", "qty": 60, "unit": "g"},
+    {"name": "nori seaweed strips", "qty": 8, "unit": "g"},
+    {"name": "neutral oil", "qty": 15, "unit": "ml"}
+  ],
+  "steps": [
+    "Rinse the sushi rice in several changes of water until the water runs nearly clear. Add the measured 480 ml water, bring to a boil, cover and cook over very low heat for 12–15 minutes. Turn off the heat and rest covered for 10 minutes. Dissolve the sugar in 20 ml rice vinegar, fold gently into the rice and let it cool until just warm.",
+    "Press the drained extra-firm tofu between clean towels for 15 minutes, then cut into bite-sized cubes. Mix soy sauce, toasted sesame oil, grated ginger and the remaining 15 ml rice vinegar. Toss the tofu in this mixture and marinate for 10 minutes, reserving any marinade for finishing.",
+    "Heat the neutral oil in a non-stick pan over medium-high heat. Lift the tofu from the marinade and sear for 2–3 minutes per side until lightly browned. Pour in only the remaining marinade and simmer briefly until it coats the tofu; do not leave raw marinade standing at room temperature. Let the tofu cool slightly.",
+    "Cook the shelled edamame if needed according to its pack, drain and cool. Slice cucumber and radishes thinly, cut carrot into ribbons, slice spring onions and prepare nori strips. Slice the avocado last so it does not brown.",
+    "Divide the seasoned sushi rice among four bowls. Arrange the glazed tofu, edamame, cucumber, carrot, radish and avocado in distinct sections. Sprinkle with spring onion, sesame seeds and nori. Serve promptly while the rice is slightly warm and the vegetables crisp."
+  ],
+  "tips": ["Use cooked shelled edamame and extra-firm tofu that holds its shape. The reviewed photo shows browned soy-sesame tofu cubes, white rice, edamame, cucumber, carrot, radish, avocado, scallion, sesame and nori in separate sections; there is no fish."],
+  "translations": {
+    "hi": {
+      "name": "टोफू पोके बाउल",
+      "ingredients": ["सूखे सुशी चावल", "पानी", "एक्स्ट्रा-फर्म टोफू, पानी निकाला हुआ", "छिले एडामामे, पके", "खीरा, पतला कटा", "गाजर, बारीक पट्टियों में", "मूली, पतली कटी", "पका एवोकाडो, कटा", "सोया सॉस", "भुने तिल का तेल", "राइस विनेगर", "चीनी", "ताज़ा अदरक, बारीक कद्दूकस", "तिल", "हरा प्याज़, पतला कटा", "नोरी समुद्री शैवाल की पट्टियाँ", "हल्का स्वाद वाला तेल"],
+      "steps": [
+        "सुशी चावल कई बार धोएँ, जब तक पानी लगभग साफ़ न निकले। नापा 480 मिली पानी डालकर उबालें, ढकें और बहुत धीमी आँच पर 12–15 मिनट पकाएँ। आँच बंद करके 10 मिनट ढका छोड़ें। 20 मिली राइस विनेगर में चीनी घोलें, चावल में हल्के मिलाएँ और बस गुनगुना होने दें।",
+        "छाने एक्स्ट्रा-फर्म टोफू को साफ़ कपड़ों के बीच 15 मिनट दबाएँ, फिर खाने योग्य छोटे टुकड़े करें। सोया सॉस, भुने तिल का तेल, कद्दूकस अदरक और बचा 15 मिली राइस विनेगर मिलाएँ। टोफू इसमें 10 मिनट रखें; बची मैरिनेड ऊपर डालने के लिए सुरक्षित रखें।",
+        "नॉन-स्टिक पैन में हल्का तेल मध्यम-तेज़ आँच पर गरम करें। टोफू को मैरिनेड से निकालकर हर ओर 2–3 मिनट हल्का भूरा सेंकें। सिर्फ़ बची मैरिनेड डालकर थोड़ी देर उबालें ताकि टोफू पर चढ़ जाए; कच्ची मैरिनेड कमरे के ताप पर न छोड़ें। टोफू थोड़ा ठंडा करें।",
+        "ज़रूरत हो तो छिले एडामामे को पैक के निर्देश अनुसार पकाकर छानें और ठंडा करें। खीरा और मूली पतले काटें, गाजर की पट्टियाँ, हरे प्याज़ के टुकड़े और नोरी की पट्टियाँ तैयार करें। एवोकाडो सबसे अंत में काटें ताकि भूरा न हो।",
+        "मसाला मिले सुशी चावल चार बाउल में बाँटें। ग्लेज़्ड टोफू, एडामामे, खीरा, गाजर, मूली और एवोकाडो अलग हिस्सों में सजाएँ। ऊपर हरा प्याज़, तिल और नोरी छिड़कें। चावल हल्के गरम और सब्ज़ियाँ कुरकुरी हों तब तुरंत परोसें।"
+      ],
+      "tips": ["पके छिले एडामामे और आकार सँभालने वाला एक्स्ट्रा-फर्म टोफू लें। समीक्षित तस्वीर में भूरे सोया-तिल टोफू, सफेद चावल, एडामामे, खीरा, गाजर, मूली, एवोकाडो, हरा प्याज़, तिल और नोरी अलग हिस्सों में हैं; मछली नहीं है।"]
+    },
+    "gu": {
+      "name": "ટોફુ પોકે બાઉલ",
+      "ingredients": ["સૂકા સુશી ચોખા", "પાણી", "ઘણું મજબૂત ટોફુ, પાણી નિતારેલું", "છોલેલા એડામામે, રાંધેલા", "કાકડી, પાતળી કાપેલી", "ગાજર, ઝીણી પટ્ટીઓ", "મૂળા, પાતળા કાપેલા", "પાકું એવોકાડો, કાપેલું", "સોયા સોસ", "શેકેલા તલનું તેલ", "રાઇસ વિનેગર", "ખાંડ", "તાજું આદુ, ઝીણું છીણેલું", "તલ", "લીલી ડુંગળી, પાતળી કાપેલી", "નોરી સમુદ્રી શેવાળની પટ્ટીઓ", "હળવા સ્વાદનું તેલ"],
+      "steps": [
+        "સુશી ચોખા ઘણી વાર ધુઓ જેથી પાણી લગભગ ચોખ્ખું નીકળે. માપેલું 480 મિલી પાણી નાખી ઉકાળો, ઢાંકી ખૂબ ધીમા તાપે 12–15 મિનિટ રાંધો. તાપ બંધ કરી 10 મિનિટ ઢાંકેલું રાખો. 20 મિલી રાઇસ વિનેગરમાં ખાંડ ઓગાળી ભાતમાં હળવેથી ભેળવો અને સહેજ ગરમ રહે ત્યાં સુધી ઠંડો કરો.",
+        "પાણી નિતારેલા મજબૂત ટોફુને સ્વચ્છ કપડાં વચ્ચે 15 મિનિટ દબાવો, પછી ખાઈ શકાય એવા નાના કટકા કરો. સોયા સોસ, શેકેલા તલનું તેલ, છીણેલું આદુ અને બાકીનું 15 મિલી રાઇસ વિનેગર ભેળવો. ટોફુને તેમાં 10 મિનિટ રાખો; બચેલી મેરિનેડ ઉપર માટે રાખો.",
+        "નોન-સ્ટિક કડાઈમાં હળવું તેલ મધ્યમથી વધુ તાપે ગરમ કરો. ટોફુને મેરિનેડમાંથી કાઢી દરેક બાજુ 2–3 મિનિટ આછું બદામી શેકો. ફક્ત બાકી મેરિનેડ નાખી થોડી વાર ઉકાળો જેથી ટોફુ પર ચઢે; કાચી મેરિનેડ ઓરડાના તાપે ન રાખો. ટોફુ સહેજ ઠંડો કરો.",
+        "જરૂર હોય તો છોલેલા એડામામેને પેકના સૂચન પ્રમાણે રાંધી નિતારો અને ઠંડા કરો. કાકડી અને મૂળા પાતળા કાપો, ગાજરની પટ્ટીઓ, લીલી ડુંગળી અને નોરીની પટ્ટીઓ તૈયાર કરો. એવોકાડો સૌથી છેલ્લે કાપો જેથી બદામી ન થાય.",
+        "મસાલાવાળા સુશી ભાતને ચાર બાઉલમાં વહેંચો. ચમકદાર ટોફુ, એડામામે, કાકડી, ગાજર, મૂળા અને એવોકાડો અલગ ભાગમાં ગોઠવો. ઉપર લીલી ડુંગળી, તલ અને નોરી છાંટો. ભાત સહેજ ગરમ અને શાક કરકરાં હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": ["રાંધેલા છોલેલા એડામામે અને આકાર જાળવે એવું મજબૂત ટોફુ લો. તપાસેલા ફોટામાં બદામી સોયા-તલ ટોફુ, સફેદ ભાત, એડામામે, કાકડી, ગાજર, મૂળા, એવોકાડો, લીલી ડુંગળી, તલ અને નોરી અલગ ભાગમાં છે; માછલી નથી."]
+    }
+  },
+  "reference": {"url": "https://www.thekitchn.com/tofu-poke-bowl-22902634", "use": "Sesame-ginger tofu poke-bowl composition and assembly; cooked-tofu method, exact quantities and wording independently authored for the reviewed photo."}
+}
