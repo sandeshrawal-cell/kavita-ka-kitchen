@@ -9533,5 +9533,21 @@
     "sourceWidth": 1254,
     "sourceHeight": 1254,
     "reviewedAt": "2026-10-05"
+  },
+  "beyaynetu": {
+    "name": "Beyaynetu",
+    "src": "/photos/beyaynetu-1200.webp",
+    "small": "/photos/beyaynetu-600.webp",
+    "width": 1200,
+    "height": 1200,
+    "alt": "Beyaynetu served ready to eat",
+    "kind": "generated",
+    "title": "Beyaynetu",
+    "author": "OpenAI image generation",
+    "changes": "AI-generated realistic dish photo, visually reviewed, resized and converted to WebP.",
+    "status": "reviewed",
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "reviewedAt": "2026-10-05"
   }
 }

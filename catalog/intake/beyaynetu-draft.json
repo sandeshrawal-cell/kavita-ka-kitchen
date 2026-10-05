@@ -1,0 +1,67 @@
+{
+  "sourceReviewId": "R0168",
+  "id": "beyaynetu",
+  "status": "draft-photo-and-translation-reviewed",
+  "name": "Vegetarian Beyaynetu",
+  "cuisine": "Ethiopian",
+  "categories": ["Lunch", "Dinner"],
+  "baseServings": 4,
+  "prepAndCookMinutes": 135,
+  "ingredients": [
+    {"name": "ready-made injera flatbread", "qty": 600, "unit": "g"},
+    {"name": "dry red lentils, rinsed", "qty": 180, "unit": "g"},
+    {"name": "dry yellow split peas, rinsed", "qty": 180, "unit": "g"},
+    {"name": "water", "qty": 1300, "unit": "ml"},
+    {"name": "onion, finely diced", "qty": 220, "unit": "g"},
+    {"name": "cabbage, shredded", "qty": 280, "unit": "g"},
+    {"name": "carrot, diced", "qty": 150, "unit": "g"},
+    {"name": "potato, diced", "qty": 180, "unit": "g"},
+    {"name": "collard greens or sturdy spinach, chopped", "qty": 260, "unit": "g"},
+    {"name": "tomato, diced", "qty": 120, "unit": "g"},
+    {"name": "neutral oil", "qty": 60, "unit": "ml"},
+    {"name": "garlic, minced", "qty": 15, "unit": "g"},
+    {"name": "ginger, grated", "qty": 15, "unit": "g"},
+    {"name": "berbere spice blend", "qty": 14, "unit": "g"},
+    {"name": "ground turmeric", "qty": 5, "unit": "g"},
+    {"name": "fine salt", "qty": 12, "unit": "g"},
+    {"name": "lemon juice", "qty": 25, "unit": "ml"}
+  ],
+  "steps": [
+    "Soak the rinsed yellow split peas in some of the measured water for 60 minutes, then drain and reserve the soaking water. Rinse the red lentils separately. Dice the onion and divide it into 100 g for the red lentils, 50 g for the peas, 40 g for cabbage and 30 g for greens. Use oil rather than spiced butter to keep all four portions plant-based.",
+    "For misir wot, heat 20 ml oil in a saucepan and soften the 100 g onion for 6 minutes. Add 7 g garlic, 7 g ginger and the berbere; stir for 1 minute. Add red lentils, 450 ml water and 4 g salt. Simmer uncovered for 20–25 minutes, stirring and adding a splash of the reserved water if needed, until thick and tender.",
+    "For kik alicha, heat 15 ml oil in another pan and soften 50 g onion for 5 minutes. Add 4 g garlic, 4 g ginger and 2 g turmeric for 30 seconds. Add drained split peas, 550 ml water and 3 g salt. Simmer covered for 35–45 minutes until soft but not watery; stir near the end so the peas do not stick.",
+    "For tikil gomen, heat 15 ml oil and cook 40 g onion for 3 minutes. Add the remaining 4 g ginger, 3 g turmeric, diced carrot and potato, 120 ml water and 3 g salt. Cover and cook 10 minutes. Add cabbage and cook uncovered another 10–12 minutes until all vegetables are tender and the liquid has mostly evaporated.",
+    "For gomen, heat the remaining 10 ml oil with the remaining 30 g onion and 4 g garlic for 3 minutes. Add chopped greens, the remaining 180 ml water and 2 g salt. Cover for 5 minutes, then uncover and cook until the greens are tender and no liquid pools in the pan. Toss diced tomato with lemon juice just before serving.",
+    "Lay a large piece of injera across a platter and keep extra injera rolled at the side. Spoon the red lentils, yellow peas, cabbage-carrot-potato mix and greens into four separate mounds on the bread, with the fresh tomato salad in a small fifth area. Serve immediately for four people, tearing pieces of injera to pick up each component."
+  ],
+  "tips": ["Beyaynetu is a platter of separate dishes, not a single mixed stew. The reviewed photo shows red lentils, yellow split peas, dark greens, turmeric cabbage with carrot and potato, and tomato salad arranged in distinct mounds over spongy injera."],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी बेयायनेतु",
+      "ingredients": ["तैयार इंजेरा फ्लैटब्रेड", "सूखी लाल मसूर, धुली", "सूखे पीले मटर दाल, धुले", "पानी", "प्याज़, बारीक कटा", "पत्तागोभी, कटी", "गाजर, टुकड़ों में", "आलू, टुकड़ों में", "कॉलार्ड पत्ते या मज़बूत पालक, कटे", "टमाटर, टुकड़ों में", "हल्का स्वाद वाला तेल", "लहसुन, बारीक कटा", "अदरक, कद्दूकस", "बर्बेरे मसाला", "पिसी हल्दी", "बारीक नमक", "नींबू का रस"],
+      "steps": [
+        "धुले पीले मटर दाल को नापे पानी में से कुछ में 60 मिनट भिगोएँ, फिर छानकर वह पानी बचाएँ। लाल मसूर अलग धोएँ। प्याज़ के 100 ग्राम लाल मसूर, 50 ग्राम पीली दाल, 40 ग्राम गोभी और 30 ग्राम साग के लिए अलग करें। चारों हिस्सों को वनस्पति रखने के लिए मसाला मक्खन की जगह तेल लें।",
+        "मिसिर वॉट के लिए सॉसपैन में 20 मिली तेल गरम करें और 100 ग्राम प्याज़ 6 मिनट नरम करें। 7 ग्राम लहसुन, 7 ग्राम अदरक और बर्बेरे डालकर 1 मिनट चलाएँ। लाल मसूर, 450 मिली पानी और 4 ग्राम नमक डालें। बिना ढके 20–25 मिनट पकाएँ, चलाते रहें और ज़रूरत पर बचा पानी थोड़ा डालें, जब तक गाढ़ी और नरम हो।",
+        "किक अलीचा के लिए दूसरे पैन में 15 मिली तेल गरम करके 50 ग्राम प्याज़ 5 मिनट नरम करें। 4 ग्राम लहसुन, 4 ग्राम अदरक और 2 ग्राम हल्दी 30 सेकंड भूनें। छानी पीली दाल, 550 मिली पानी और 3 ग्राम नमक डालें। ढककर 35–45 मिनट नरम पर पानीदार न होने तक पकाएँ; अंत में चलाएँ ताकि तले से न लगे।",
+        "टिकिल गोमेन के लिए 15 मिली तेल में 40 ग्राम प्याज़ 3 मिनट पकाएँ। बचा 4 ग्राम अदरक, 3 ग्राम हल्दी, कटे गाजर और आलू, 120 मिली पानी और 3 ग्राम नमक डालें। ढककर 10 मिनट पकाएँ। पत्तागोभी डालकर बिना ढके 10–12 मिनट और पकाएँ, जब तक सब्ज़ियाँ नरम और पानी लगभग सूख जाए।",
+        "गोमेन के लिए बचा 10 मिली तेल, बचा 30 ग्राम प्याज़ और 4 ग्राम लहसुन 3 मिनट पकाएँ। कटा साग, बचा 180 मिली पानी और 2 ग्राम नमक डालें। 5 मिनट ढकें, फिर खोलकर साग नरम और पैन में पानी न रहने तक पकाएँ। परोसने से ठीक पहले कटे टमाटर में नींबू रस मिलाएँ।",
+        "बड़ी इंजेरा रोटी थाल में बिछाएँ और अतिरिक्त इंजेरा पास में लपेटकर रखें। रोटी पर लाल मसूर, पीली दाल, गोभी-गाजर-आलू और साग के चार अलग ढेर रखें, ताज़ा टमाटर सलाद छोटी पाँचवीं जगह रखें। चार लोगों को तुरंत परोसें; इंजेरा के टुकड़े तोड़कर हर हिस्से के साथ खाएँ।"
+      ],
+      "tips": ["बेयायनेतु अलग-अलग व्यंजनों की थाली है, एक मिला हुआ स्ट्यू नहीं। समीक्षित तस्वीर में स्पंजी इंजेरा पर लाल मसूर, पीली दाल, गहरा साग, हल्दी वाली गोभी-गाजर-आलू और टमाटर सलाद अलग ढेरों में दिखते हैं।"]
+    },
+    "gu": {
+      "name": "શાકાહારી બેયાયનેતુ",
+      "ingredients": ["તૈયાર ઇન્જેરા ફ્લેટબ્રેડ", "સૂકી લાલ મસૂર, ધોયેલી", "સૂકા પીળા ફાડા વટાણા, ધોયેલા", "પાણી", "ડુંગળી, ઝીણી સમારેલી", "કોબી, સમારેલી", "ગાજર, કટકા", "બટાકા, કટકા", "કોલાર્ડનાં પાન અથવા મજબૂત પાલક, સમારેલું", "ટામેટાં, કટકા", "હળવા સ્વાદનું તેલ", "લસણ, ઝીણું સમારેલું", "આદુ, છીણેલું", "બર્બેરે મસાલો", "હળદર પાઉડર", "બારીક મીઠું", "લીંબુનો રસ"],
+      "steps": [
+        "ધોયેલા પીળા ફાડા વટાણાને માપેલા પાણીમાંથી થોડામાં 60 મિનિટ પલાળો, પછી નિતારી એ પાણી સાચવો. લાલ મસૂર અલગ ધુઓ. ડુંગળીના 100 ગ્રામ લાલ મસૂર માટે, 50 ગ્રામ પીળા વટાણા માટે, 40 ગ્રામ કોબી માટે અને 30 ગ્રામ ભાજી માટે અલગ કરો. ચારેય ભાગ વનસ્પતિ રહે તે માટે મસાલાવાળા માખણને બદલે તેલ વાપરો.",
+        "મિસિર વોટ માટે સોસપેનમાં 20 મિલી તેલ ગરમ કરી 100 ગ્રામ ડુંગળી 6 મિનિટ નરમ કરો. 7 ગ્રામ લસણ, 7 ગ્રામ આદુ અને બર્બેરે નાખી 1 મિનિટ હલાવો. લાલ મસૂર, 450 મિલી પાણી અને 4 ગ્રામ મીઠું નાખો. ઢાંક્યા વગર 20–25 મિનિટ હલાવતા રાંધો, જરૂર પડે તો સાચવેલું પાણી થોડું ઉમેરો, જેથી ઘાટું અને નરમ થાય.",
+        "કિક અલીચા માટે બીજા વાસણમાં 15 મિલી તેલ ગરમ કરી 50 ગ્રામ ડુંગળી 5 મિનિટ નરમ કરો. 4 ગ્રામ લસણ, 4 ગ્રામ આદુ અને 2 ગ્રામ હળદર 30 સેકન્ડ સાંતળો. નિતારેલા પીળા વટાણા, 550 મિલી પાણી અને 3 ગ્રામ મીઠું નાખો. ઢાંકી 35–45 મિનિટ નરમ પણ પાણીદાર ન થાય ત્યાં સુધી રાંધો; અંતે હલાવો જેથી તળિયે ચોંટે નહીં.",
+        "ટિકિલ ગોમેન માટે 15 મિલી તેલમાં 40 ગ્રામ ડુંગળી 3 મિનિટ રાંધો. બાકીનું 4 ગ્રામ આદુ, 3 ગ્રામ હળદર, ગાજર અને બટાકાના કટકા, 120 મિલી પાણી અને 3 ગ્રામ મીઠું નાખો. ઢાંકી 10 મિનિટ રાંધો. કોબી નાખી ઢાંક્યા વગર 10–12 મિનિટ વધુ રાંધો જેથી શાક નરમ અને પાણી લગભગ સૂકી જાય.",
+        "ગોમેન માટે બાકીનું 10 મિલી તેલ, બાકી 30 ગ્રામ ડુંગળી અને 4 ગ્રામ લસણ 3 મિનિટ રાંધો. સમારેલી ભાજી, બાકી 180 મિલી પાણી અને 2 ગ્રામ મીઠું નાખો. 5 મિનિટ ઢાંકો, પછી ખોલીને ભાજી નરમ અને કડાઈમાં પાણી ન રહે ત્યાં સુધી રાંધો. પીરસતાં પહેલાં ટામેટાંના કટકામાં લીંબુનો રસ ભેળવો.",
+        "મોટી ઇન્જેરા રોટલી થાળીમાં પાથરો અને વધારાની ઇન્જેરા બાજુમાં વાળી રાખો. રોટલી પર લાલ મસૂર, પીળા વટાણા, કોબી-ગાજર-બટાકા અને ભાજીના ચાર અલગ ઢગલા મૂકો, તાજું ટામેટાંનું સલાડ નાની પાંચમી જગ્યાએ મૂકો. ચાર વ્યક્તિને તરત પીરસો; ઇન્જેરાના ટુકડા તોડી દરેક ભાગ સાથે ખાઓ."
+      ],
+      "tips": ["બેયાયનેતુ અલગ અલગ વાનગીઓની થાળી છે, એક ભેળવેલું સ્ટ્યૂ નહીં. તપાસેલા ફોટામાં છિદ્રાળુ ઇન્જેરા પર લાલ મસૂર, પીળા વટાણા, ઘેરી લીલી ભાજી, હળદરવાળી કોબી-ગાજર-બટાકા અને ટામેટાંનો સલાડ અલગ ઢગલામાં દેખાય છે."]
+    }
+  },
+  "reference": {"url": "https://myhungrytraveler.com/cuisines/african-cuisine/ethiopia-vegetable-platter/", "use": "Ethiopian vegetable platter composition with misir wot, split peas, greens and tikil gomen on injera; measured four-component method and wording independently authored."}
+}
