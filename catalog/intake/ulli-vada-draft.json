@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0327",
+  "id": "ulli-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Ulli Vada",
+  "cuisine": "Kerala",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "red onions, thinly sliced",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves, chopped",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 550,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Separate the onion slices with your fingers. Toss with salt and leave briefly so the onions release a little moisture.",
+    "Mix in ginger, green chillies, curry leaves, chilli powder, gram flour and rice flour. Rub the flours through the onions rather than making a thick smooth batter.",
+    "Sprinkle in just enough water for the onion strands to cling loosely together. Heat oil over medium heat.",
+    "Drop loose small handfuls into the oil without squeezing them into dense balls. Fry in batches until deep golden, turning for even colour.",
+    "Drain on a rack and serve hot with coconut chutney; the rice flour should make the onion edges distinctly crisp."
+  ],
+  "tips": [
+    "If the mixture becomes wet, dust with a little more rice flour instead of packing the fritters tightly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "उल्ली वड़ा",
+      "ingredients": [
+        "लाल प्याज, पतले कटे",
+        "बेसन",
+        "चावल का आटा",
+        "कसा अदरक",
+        "कटी हरी मिर्च",
+        "कटे करी पत्ते",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "प्याज के लच्छे उँगलियों से अलग करें। नमक मिलाकर कुछ देर रखें ताकि प्याज हल्का पानी छोड़े।",
+        "अदरक, हरी मिर्च, करी पत्ते, मिर्च पाउडर, बेसन और चावल का आटा मिलाएँ। गाढ़ा चिकना घोल बनाने के बजाय आटा प्याज में मलें।",
+        "प्याज के लच्छे बस हल्के जुड़ें इतना ही पानी छिड़कें। तेल मध्यम आँच पर गरम करें।",
+        "मुट्ठीभर मिश्रण बिना दबाकर तेल में छोड़ें। थोड़ा-थोड़ा तलें और पलटते हुए गहरा सुनहरा करें।",
+        "जाली पर निकालकर नारियल चटनी के साथ गरम परोसें; चावल के आटे से प्याज के किनारे कुरकुरे होने चाहिए।"
+      ],
+      "tips": [
+        "मिश्रण गीला हो जाए तो वड़ों को दबाने के बजाय थोड़ा और चावल का आटा लगाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ઉલ્લી વડા",
+      "ingredients": [
+        "લાલ ડુંગળી, પાતળી સમારેલી",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "છીણેલું આદુ",
+        "સમારેલાં લીલાં મરચાં",
+        "સમારેલાં મીઠા લીમડાનાં પાન",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ડુંગળીના પાતળા પડ આંગળીઓથી છૂટા કરો. મીઠું ભેળવી થોડી વાર રાખો જેથી ડુંગળી થોડો રસ છોડે.",
+        "આદુ, લીલાં મરચાં, મીઠા લીમડાનાં પાન, મરચું પાઉડર, ચણાનો અને ચોખાનો લોટ ભેળવો. ઘટ્ટ લીસું ખીરું બનાવવાને બદલે લોટ ડુંગળીમાં ચોળો.",
+        "ડુંગળીના તાર ઢીલા જોડાઈ રહે એટલું જ પાણી છાંટો. તેલ મધ્યમ તાપે ગરમ કરો.",
+        "નાની મુઠ્ઠી મિશ્રણ દબાવ્યા વગર તેલમાં છોડો. થોડું થોડું તળો અને ફેરવતાં ઘેરું સોનેરી કરો.",
+        "જાળી પર કાઢી નાળિયેરની ચટણી સાથે ગરમ પીરસો; ચોખાના લોટથી ડુંગળીની કિનારીઓ કરકરી થવી જોઈએ."
+      ],
+      "tips": [
+        "મિશ્રણ ભીનું થઈ જાય તો વડા દબાવવાને બદલે થોડો વધુ ચોખાનો લોટ છાંટો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/ulli-vada-recipe/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/ulli-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0333",
+  "id": "chana-dal-namkeen",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Chana Dal Namkeen",
+  "cuisine": "North Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 300,
+  "ingredients": [
+    {
+      "name": "split Bengal gram",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water for soaking",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "dry mango powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse chana dal and soak until the grains swell but remain separate. Drain completely and spread on a clean towel until surface-dry.",
+    "Mix the powdered salt, chilli, black salt, mango powder and asafoetida in a dry bowl; keep ready beside the stove.",
+    "Heat oil over medium heat. Add a small batch of dry lentils carefully; fry while stirring until bubbling subsides and the dal is crisp throughout.",
+    "Lift with a mesh skimmer, drain well and toss the warm dal immediately with spice mix. Repeat for remaining batches.",
+    "Cool fully before sealing in an airtight jar; serve in small bowls as a crunchy dry snack."
+  ],
+  "tips": [
+    "Surface-dry lentils prevent dangerous splattering and give a crisp, separate-grain finish."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चना दाल नमकीन",
+      "ingredients": [
+        "चना दाल",
+        "भिगोने का पानी",
+        "नमक",
+        "लाल मिर्च पाउडर",
+        "काला नमक",
+        "अमचूर",
+        "हींग",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "चना दाल धोकर दाने फूलने लेकिन अलग रहने तक भिगोएँ। पूरा पानी निकालकर साफ़ कपड़े पर फैलाकर ऊपर से सुखाएँ।",
+        "नमक, मिर्च, काला नमक, अमचूर और हींग एक सूखे कटोरे में मिलाकर चूल्हे के पास रखें।",
+        "तेल मध्यम आँच पर गरम करें। सूखी दाल थोड़ी-थोड़ी सावधानी से डालें; बुलबुले कम हों और दाल अंदर तक कुरकुरी हो तब तक चलाते तलें।",
+        "जालीदार झारे से निकालकर अच्छी तरह छानें और गरम दाल तुरंत मसाले में मिलाएँ। बाकी दाल भी ऐसे ही तलें।",
+        "हवाबंद डिब्बे में रखने से पहले पूरी ठंडी करें; कुरकुरी सूखी नमकीन छोटी कटोरियों में परोसें।"
+      ],
+      "tips": [
+        "ऊपर से सूखी दाल तेल के छींटे रोकती है और हर दाना अलग कुरकुरा बनता है।"
+      ]
+    },
+    "gu": {
+      "name": "ચણા દાળનો નમકીન",
+      "ingredients": [
+        "ચણા દાળ",
+        "પલાળવાનું પાણી",
+        "મીઠું",
+        "લાલ મરચું પાઉડર",
+        "સંચળ",
+        "આમચૂર",
+        "હિંગ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણા દાળ ધોઈ દાણા ફૂલે પણ અલગ રહે ત્યાં સુધી પલાળો. સંપૂર્ણ નિતારી ચોખ્ખા કપડા પર પાથરી બહારથી સુકવો.",
+        "મીઠું, મરચું, સંચળ, આમચૂર અને હિંગ સૂકા વાસણમાં ભેળવી ચૂલા પાસે રાખો.",
+        "તેલ મધ્યમ તાપે ગરમ કરો. સુકી દાળ થોડીથોડી સાવધાનીથી નાખો; પરપોટા ઘટે અને દાળ અંદર સુધી કરકરી થાય ત્યાં સુધી હલાવતાં તળો.",
+        "જાળીદાર ઝારાથી કાઢી સારી રીતે નિતારો અને ગરમ દાળ તરત મસાલામાં ભેળવો. બાકી દાળ પણ આવી રીતે તળો.",
+        "હવાચુસ્ત ડબ્બામાં ભરતાં પહેલાં સંપૂર્ણ ઠંડી કરો; કરકરો સુકો નાસ્તો નાની વાટકીઓમાં પીરસો."
+      ],
+      "tips": [
+        "બહારથી સુકી દાળ તેલના છાંટા અટકાવે છે અને દરેક દાણો અલગ કરકરો બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/3-must-try-haldiram-namkeen-recipe/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/chana-dal-namkeen.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0392",
+  "id": "crispy-smashed-potatoes",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Crispy Smashed Potatoes",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "small waxy potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh rosemary",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil potatoes in water with half the salt for 18–22 minutes until a knife slips through but they still hold together.",
+    "Drain and let steam dry 5 minutes. Heat oven to 220°C and oil a large metal tray.",
+    "Place potatoes apart on the tray and press each down with a flat glass to about 1 cm thick. Drizzle remaining oil and scatter rosemary, pepper and salt.",
+    "Roast 25–30 minutes without flipping until the ragged edges are deeply golden and crisp. Rest 2 minutes before lifting so the crust releases cleanly."
+  ],
+  "tips": [
+    "Space the potatoes well; crowding traps steam and softens the edges."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुरकुरे दबे आलू",
+      "ingredients": [
+        "छोटे ठोस आलू",
+        "जैतून तेल",
+        "ताज़ी रोज़मेरी",
+        "नमक",
+        "काली मिर्च",
+        "पानी"
+      ],
+      "steps": [
+        "आलू को आधे नमक वाले पानी में 18–22 मिनट उबालें; चाकू आसानी से जाए पर आलू टूटें नहीं।",
+        "पानी निथारकर 5 मिनट भाप निकलने दें। ओवन 220°C गरम करें और बड़ी धातु ट्रे में तेल लगाएँ।",
+        "आलू दूर-दूर रखें और हर एक को गिलास से लगभग 1 से.मी. मोटा दबाएँ। बचा तेल डालें, रोज़मेरी, मिर्च और नमक छिड़कें।",
+        "25–30 मिनट बिना पलटे सेंकें; टूटे-फूटे किनारे गहरे सुनहरे कुरकुरे हों। उठाने से पहले 2 मिनट रखें ताकि परत साफ़ छूटे।"
+      ],
+      "tips": [
+        "आलू दूर-दूर रखें; भीड़ से भाप फँसती है और किनारे नरम होते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કરકરા દબાયેલા બટાકા",
+      "ingredients": [
+        "નાના મજબૂત બટાકા",
+        "ઑલિવ તેલ",
+        "તાજું રોઝમેરી",
+        "મીઠું",
+        "કાળા મરી",
+        "પાણી"
+      ],
+      "steps": [
+        "બટાકાને અડધા મીઠાવાળા પાણીમાં 18–22 મિનિટ ઉકાળો; છરી સરળતાથી જાય પણ બટાકા તૂટે નહીં.",
+        "પાણી નિતારી 5 મિનિટ વરાળ નીકળવા દો. ઓવન 220°C ગરમ કરી મોટી ધાતુની ટ્રેમાં તેલ લગાવો.",
+        "બટાકા દૂર દૂર મૂકી દરેકને ગ્લાસથી લગભગ 1 સે.મી. જાડા દબાવો. બાકીનું તેલ નાખી રોઝમેરી, મરી અને મીઠું છાંટો.",
+        "25–30 મિનિટ ફેરવ્યા વગર શેકો; ખરબચડી કિનારી ઘેરી સોનેરી કરકરી થાય. ઉપાડતાં પહેલાં 2 મિનિટ રાખો જેથી પડ સહેલાઈથી છૂટે."
+      ],
+      "tips": [
+        "બટાકા દૂર દૂર રાખો; ભીડથી વરાળ ફસાય અને કિનારી નરમ થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/crispy-smashed-potatoes.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

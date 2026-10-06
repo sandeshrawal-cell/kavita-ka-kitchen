@@ -3453,5 +3453,605 @@
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-05",
     "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "onion-pakora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Onion Pakora: Crisp besan fritters of sliced onion, monsoon tea-time classic. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "aloo-pakora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Aloo Pakora: Potato slices dipped in spiced gram flour batter and fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "palak-pakora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Palak Pakora: Crispy spinach leaf fritters in ajwain-spiced gram flour batter. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mix-veg-pakora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mix Veg Pakora: Assorted chopped vegetables bound in besan and fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "dal-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Dal Vada: Ahmedabadi moong dal fritters served with fried chillies. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "moong-dal-pakodi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Moong Dal Pakodi: Airy ground moong dal fritters with coriander and chilli. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Vada: Coarse chana dal fritters with fennel, curry leaves and onion. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "butter-murukku": {
+    "prompt": "Use case: photorealistic-natural. Authentic Butter Murukku: Melt-in-mouth rice and gram flour murukku made with butter. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kara-boondi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kara Boondi: Spicy fried gram flour pearls with peanuts and curry leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "madras-mixture": {
+    "prompt": "Use case: photorealistic-natural. Authentic Madras Mixture: Crunchy mix of sev, boondi, peanuts and fried curry leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bhakarwadi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bhakarwadi: Spiral crisp rolls filled with sweet-spicy coconut sesame masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-khakhra": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Khakhra: Thin roasted whole wheat crispbread with spice masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "methi-khakhra": {
+    "prompt": "Use case: photorealistic-natural. Authentic Methi Khakhra: Crisp roasted wheat crackers flavoured with fenugreek leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "jeera-khakhra": {
+    "prompt": "Use case: photorealistic-natural. Authentic Jeera Khakhra: Roasted wafer-thin wheat crackers with cumin seeds. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bajra-khakhra": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bajra Khakhra: Pearl millet crispbread roasted until crunchy. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "nylon-sev": {
+    "prompt": "Use case: photorealistic-natural. Authentic Nylon Sev: Very fine crisp gram flour noodles. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "aloo-bhujia": {
+    "prompt": "Use case: photorealistic-natural. Authentic Aloo Bhujia: Crisp potato and besan noodle namkeen. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "dal-moth": {
+    "prompt": "Use case: photorealistic-natural. Authentic Dal Moth: Fried masoor, moth and sev namkeen mix. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "fulwadi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Fulwadi: Fried spiced besan-dough nuggets with sesame and fennel. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kothimbir-vadi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kothimbir Vadi: Steamed then fried coriander and besan squares. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "makai-na-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Makai na Vada: Spiced maize flour and yogurt fried discs. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ponk-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ponk Vada: Crisp fritters of tender green sorghum. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kara-sev": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kara Sev: Thick crunchy pepper-spiced gram flour sev. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mullu-murukku": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mullu Murukku: Thorny-textured crunchy rice flour murukku. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vazhakkai-bajji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vazhakkai Bajji: Raw banana slices in spiced besan batter. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "doddapatre-bajji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Doddapatre Bajji: Indian borage leaves dipped in batter and fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "ulli-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Ulli Vada: Crisp onion and gram flour fritters with ginger. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kuzhalappam": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kuzhalappam: Crisp rolled rice flour tubes with sesame and garlic. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "corn-pakoda": {
+    "prompt": "Use case: photorealistic-natural. Authentic Corn Pakoda: Sweet corn kernels in spiced besan batter, fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "echorer-chop": {
+    "prompt": "Use case: photorealistic-natural. Authentic Echorer Chop: Raw jackfruit and potato croquettes. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "posto-bora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Posto Bora: Crispy poppy seed paste fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kurdai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kurdai: Sun-dried wheat spirals fried crisp. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chana-dal-namkeen": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chana Dal Namkeen: Crunchy fried spiced chana dal. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-kaju": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Kaju: Roasted cashews tossed with chilli and chaat masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "paneer-manchurian": {
+    "prompt": "Use case: photorealistic-natural. Authentic Paneer Manchurian: Crisp paneer cubes tossed in manchurian sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "methi-dhebra": {
+    "prompt": "Use case: photorealistic-natural. Authentic Methi Dhebra: Bajra and fenugreek spiced soft flatbread snack. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "beguni": {
+    "prompt": "Use case: photorealistic-natural. Authentic Beguni: Thin eggplant slices in besan batter, fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "aloo-chop": {
+    "prompt": "Use case: photorealistic-natural. Authentic Aloo Chop: Spiced mashed potato balls in batter, Kolkata telebhaja. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "phuluri": {
+    "prompt": "Use case: photorealistic-natural. Authentic Phuluri: Small puffy besan fritters with nigella seeds. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "piaji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Piaji: Crisp onion and lentil fritters from Odisha. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pazham-pori": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pazham Pori: Ripe plantain slices in sweet flour batter, fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "parippu-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Parippu Vada: Crunchy chana dal fritters with shallots and chilli. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mysore-bonda": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mysore Bonda: Fluffy maida and curd fritters with coconut bits. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "goli-baje": {
+    "prompt": "Use case: photorealistic-natural. Authentic Goli Baje: Soft curd-maida fritters from Mangalore. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "maddur-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Maddur Vada: Crisp flat vada of rava, rice flour and onion. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kuzhi-paniyaram": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kuzhi Paniyaram: Fermented batter balls cooked in a dimpled pan. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "konkani-phodi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Konkani Phodi: Raw banana or brinjal slices in spiced rice flour, pan fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chura-bhuja": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chura Bhuja: Fried flattened rice with peanuts and spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bhadang": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bhadang: Kolhapuri spicy puffed rice with peanuts and garlic. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chanachur": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chanachur: Bengali spicy namkeen mixture of lentils and sev. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "congress-kadlekai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Congress Kadlekai: Bangalore spiced roasted split peanuts with curry leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "jackfruit-chips": {
+    "prompt": "Use case: photorealistic-natural. Authentic Jackfruit Chips: Crisp raw jackfruit strips fried in coconut oil. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "potato-wafers": {
+    "prompt": "Use case: photorealistic-natural. Authentic Potato Wafers: Thin homemade salted potato chips. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tapioca-chips": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tapioca Chips: Spiced thin cassava chips. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "moong-dal-namkeen": {
+    "prompt": "Use case: photorealistic-natural. Authentic Moong Dal Namkeen: Crisp fried salted yellow moong dal. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "khatta-meetha-mixture": {
+    "prompt": "Use case: photorealistic-natural. Authentic Khatta Meetha Mixture: Sweet and tangy sev, boondi and raisin mixture. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gobi-manchurian": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gobi Manchurian: Crispy cauliflower tossed in tangy soy-chilli sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "beetroot-cutlet": {
+    "prompt": "Use case: photorealistic-natural. Authentic Beetroot Cutlet: Beetroot and potato cutlets crumbed and fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "oats-tikki": {
+    "prompt": "Use case: photorealistic-natural. Authentic Oats Tikki: Oats and vegetable patties, pan fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "corn-tikki": {
+    "prompt": "Use case: photorealistic-natural. Authentic Corn Tikki: Sweet corn and potato patties with spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "papeta-pattice": {
+    "prompt": "Use case: photorealistic-natural. Authentic Papeta Pattice: Potato patties stuffed with sweet coconut and nuts. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cabbage-pakoda": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cabbage Pakoda: Shredded cabbage and onion fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "rava-vada": {
+    "prompt": "Use case: photorealistic-natural. Authentic Rava Vada: Instant semolina and curd fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "keerai-vadai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Keerai Vadai: Spinach and lentil fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "vazhaipoo-vadai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Vazhaipoo Vadai: Banana flower and chana dal fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "karela-chips": {
+    "prompt": "Use case: photorealistic-natural. Authentic Karela Chips: Crisp spiced bitter gourd rings. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "gobi-pakora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Gobi Pakora: Cauliflower florets in spiced besan batter, fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "thavala-vadai": {
+    "prompt": "Use case: photorealistic-natural. Authentic Thavala Vadai: Coarse mixed lentil and rice fritters. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kai-murukku": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kai Murukku: Hand-twisted crunchy rice flour murukku. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "bread-bajji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Bread Bajji: Bread triangles dipped in besan batter and fried. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tomato-bajji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tomato Bajji: Tomato slices in spiced batter, topped with onion masala. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "capsicum-bajji": {
+    "prompt": "Use case: photorealistic-natural. Authentic Capsicum Bajji: Capsicum rings in gram flour batter. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "chire-bhaja": {
+    "prompt": "Use case: photorealistic-natural. Authentic Chire Bhaja: Fried flattened rice with peanuts and green chilli. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "dal-er-bora": {
+    "prompt": "Use case: photorealistic-natural. Authentic Dal er Bora: Crisp masoor dal fritters with nigella. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mushroom-manchurian": {
+    "prompt": "Use case: photorealistic-natural. Authentic Mushroom Manchurian: Crisp mushrooms in tangy manchurian sauce. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-peanuts": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Peanuts: Besan-coated crunchy spiced peanuts. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "masala-popcorn": {
+    "prompt": "Use case: photorealistic-natural. Authentic Masala Popcorn: Popcorn tossed with butter and spices. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "french-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic French Fries: Crisp deep-fried potato batons. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "peri-peri-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic Peri Peri Fries: Fries tossed in spicy peri peri seasoning. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pimientos-de-padron": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pimientos de Padron: Blistered small green peppers with sea salt. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "saganaki": {
+    "prompt": "Use case: photorealistic-natural. Authentic Saganaki: Pan-fried cheese slab with lemon. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "halloumi-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic Halloumi Fries: Crisp fried halloumi batons. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "edamame": {
+    "prompt": "Use case: photorealistic-natural. Authentic Edamame: Steamed salted young soybeans in pods. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "pita-chips": {
+    "prompt": "Use case: photorealistic-natural. Authentic Pita Chips: Baked seasoned pita triangles. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "kale-chips": {
+    "prompt": "Use case: photorealistic-natural. Authentic Kale Chips: Baked seasoned crispy kale leaves. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "trail-mix": {
+    "prompt": "Use case: photorealistic-natural. Authentic Trail Mix: Nuts, seeds and dried fruit mix. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "cheese-crackers": {
+    "prompt": "Use case: photorealistic-natural. Authentic Cheese Crackers: Homemade crisp cheddar crackers. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "loaded-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic Loaded Fries: Fries topped with cheese sauce, jalapenos and salsa. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "curly-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic Curly Fries: Seasoned spiral-cut fries. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "panisse": {
+    "prompt": "Use case: photorealistic-natural. Authentic Panisse: Fried chickpea flour batons. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "fried-pickles": {
+    "prompt": "Use case: photorealistic-natural. Authentic Fried Pickles: Battered dill pickle chips fried crisp. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "crispy-smashed-potatoes": {
+    "prompt": "Use case: photorealistic-natural. Authentic Crispy Smashed Potatoes: Boiled potatoes smashed and roasted with garlic. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "yuca-fries": {
+    "prompt": "Use case: photorealistic-natural. Authentic Yuca Fries: Crisp fried cassava sticks. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "maduros": {
+    "prompt": "Use case: photorealistic-natural. Authentic Maduros: Caramelised fried sweet plantains. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "stuffed-peppadews": {
+    "prompt": "Use case: photorealistic-natural. Authentic Stuffed Peppadews: Sweet peppers stuffed with cream cheese. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "sigara-boregi": {
+    "prompt": "Use case: photorealistic-natural. Authentic Sigara Boregi: Crisp cigar-shaped pastries filled with feta and parsley. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "acili-ezme": {
+    "prompt": "Use case: photorealistic-natural. Authentic Acili Ezme: Spicy chopped tomato, pepper and walnut dip. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "haydari": {
+    "prompt": "Use case: photorealistic-natural. Authentic Haydari: Thick garlicky yogurt dip with dill and mint. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "tirokafteri": {
+    "prompt": "Use case: photorealistic-natural. Authentic Tirokafteri: Spicy whipped feta dip. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "frico": {
+    "prompt": "Use case: photorealistic-natural. Authentic Frico: Crisp pan-fried cheese wafers. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-06",
+    "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
   }
 }

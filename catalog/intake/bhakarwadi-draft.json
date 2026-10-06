@@ -1,0 +1,156 @@
+{
+  "sourceReviewId": "R0311",
+  "id": "bhakarwadi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Bhakarwadi",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "ingredients": [
+    {
+      "name": "gram flour for dough",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for dough",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "water for dough",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "desiccated coconut",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery, grated",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix both dough flours with half the salt. Rub in the measured oil until sandy, then add water gradually and knead a firm smooth dough. Cover and rest.",
+    "Dry-toast coconut, sesame, coriander and fennel separately until fragrant. Cool, grind coarsely, then blend with chilli, jaggery and the remaining salt.",
+    "Divide dough and roll thin rectangles. Brush each lightly with tamarind paste, spread the dry filling to the edges, then roll tightly into logs and seal the ends.",
+    "Cut the logs into narrow pinwheels and press each slice gently so the swirl stays intact. Fry in medium-low oil, turning often, until fully crisp and golden.",
+    "Drain and cool completely before serving; the sweet-spicy centre should stay distinct from the brittle outer pastry."
+  ],
+  "tips": [
+    "Fry pinwheels slowly so the rolled centre dries before the outside darkens."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भाकरवड़ी",
+      "ingredients": [
+        "आटे के लिए बेसन",
+        "मैदा",
+        "आटे के लिए तेल",
+        "आटे के लिए पानी",
+        "सूखा नारियल बुरादा",
+        "सफेद तिल",
+        "साबुत धनिया",
+        "सौंफ",
+        "लाल मिर्च पाउडर",
+        "गुड़, कसा",
+        "इमली का गूदा",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "दोनों आटों में आधा नमक मिलाएँ। नापा तेल रगड़कर रेत जैसा करें, फिर पानी धीरे डालकर कड़ा चिकना आटा गूँधें। ढककर रखें।",
+        "नारियल, तिल, धनिया और सौंफ अलग-अलग सूखा भूनकर सुगंध आने दें। ठंडा करके दरदरा पीसें और मिर्च, गुड़ व बचा नमक मिलाएँ।",
+        "आटे को बाँटकर पतले आयत बेलें। हर आयत पर इमली की पतली परत लगाएँ, सूखी भरावन किनारों तक फैलाएँ, फिर कसकर लपेटें और सिरे बंद करें।",
+        "रोल की पतली चकरी काटें और हर टुकड़े को हल्के दबाएँ ताकि घुमाव जुड़ा रहे। मध्यम-धीमे तेल में बार-बार पलटते हुए पूरी कुरकुरी व सुनहरी होने तक तलें।",
+        "निथारकर पूरी तरह ठंडा करें; मीठी-तीखी भरावन भुरभुरी बाहरी परत से अलग दिखनी चाहिए।"
+      ],
+      "tips": [
+        "चकरी धीरे तलें ताकि बाहर गहरा होने से पहले बीच की परत सूख जाए।"
+      ],
+      "passiveTime": "आटे को आराम देने के लिए 15 मिनट"
+    },
+    "gu": {
+      "name": "ભાખરવડી",
+      "ingredients": [
+        "લોટ માટે ચણાનો લોટ",
+        "મેંદો",
+        "લોટ માટે તેલ",
+        "લોટ માટે પાણી",
+        "સૂકા નાળિયેરનું છીણ",
+        "સફેદ તલ",
+        "આખા ધાણા",
+        "વરિયાળી",
+        "લાલ મરચું પાઉડર",
+        "ગોળ, છીણેલો",
+        "આમલીની પેસ્ટ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "બંને લોટમાં અડધું મીઠું ભેળવો. માપેલું તેલ મસળી રેતી જેવું કરો, પછી પાણી ધીમે ઉમેરી કડક સુંવાળો લોટ બાંધો. ઢાંકી રાખો.",
+        "નાળિયેર, તલ, ધાણા અને વરિયાળી અલગ અલગ સૂકા શેકી સુગંધ આવે ત્યાં સુધી રાખો. ઠંડા કરી દરદરા પીસી મરચું, ગોળ અને બાકી મીઠું ભેળવો.",
+        "લોટના ભાગ કરી પાતળા લંબચોરસ વણો. દરેક પર આમલીની પાતળી પરત લગાવી સૂકું પૂરણ કિનારી સુધી પાથરો, પછી ચુસ્ત વાળી છેડા બંધ કરો.",
+        "રોલના પાતળા ચકતા કાપી દરેકને હળવેથી દબાવો જેથી વળાંક જોડાયેલો રહે. મધ્યમ-ધીમા તેલમાં વારંવાર પલટાવી સંપૂર્ણ કરકરા અને સોનેરી થાય ત્યાં સુધી તળો.",
+        "નિતારી સંપૂર્ણ ઠંડા કરો; મીઠું-તીખું પૂરણ ભુરભુરા બહારના પડથી અલગ દેખાવું જોઈએ."
+      ],
+      "tips": [
+        "ચકરડાં ધીમે તળો જેથી બહાર ઘેરું થાય તે પહેલાં વચ્ચેનો પડ સૂકાય."
+      ],
+      "passiveTime": "લોટને આરામ આપવા માટે 15 મિનિટ"
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/bhakarwadi-recipe/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/bhakarwadi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "15 minutes resting dough"
+}

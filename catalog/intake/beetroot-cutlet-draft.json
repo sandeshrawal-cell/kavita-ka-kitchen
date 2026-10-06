@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0358",
+  "id": "beetroot-cutlet",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Beetroot Cutlet",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "fresh red beetroot",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "bread crumbs",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 55,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Grate the beetroot, squeeze out excess juice and cook it in a dry pan until its raw smell fades; cool.",
+    "Mash the potatoes and mix with beetroot, minced chili, coriander, ginger, chaat masala, salt and half the crumbs.",
+    "Shape equal oval cutlets with firm hands; coat each in the remaining crumbs and chill until set.",
+    "Heat a thin film of oil in a skillet and shallow-fry cutlets over medium heat until one side is golden; turn once carefully.",
+    "Brown the second side, drain briefly and serve hot with coriander chutney while the crust is crisp."
+  ],
+  "tips": [
+    "Drying the beetroot first prevents the patties from turning soft and leaking color into the oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चुकंदर कटलेट",
+      "ingredients": [
+        "ताज़ा लाल चुकंदर",
+        "उबले आलू",
+        "ब्रेड क्रम्ब्स",
+        "हरी मिर्च",
+        "कटा हरा धनिया",
+        "अदरक",
+        "चाट मसाला",
+        "नमक",
+        "वनस्पति तेल"
+      ],
+      "steps": [
+        "चुकंदर कद्दूकस कर अतिरिक्त रस निचोड़ें और कच्ची गंध जाने तक सूखे पैन में पकाकर ठंडा करें।",
+        "आलू मसलकर चुकंदर, बारीक मिर्च, धनिया, अदरक, चाट मसाला, नमक और आधे ब्रेड क्रम्ब्स मिलाएँ।",
+        "मिश्रण से बराबर अंडाकार कटलेट कसकर बनाएँ; बाकी क्रम्ब्स में लपेटकर जमने तक ठंडा करें।",
+        "तवे पर तेल की पतली परत गरम करके कटलेट मध्यम आँच पर एक तरफ़ सुनहरे करें; सावधानी से एक बार पलटें।",
+        "दूसरी तरफ़ भी भूरा कर थोड़ी देर तेल निथारें और परत कुरकुरी रहते धनिया चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "चुकंदर पहले सुखाने से कटलेट नरम नहीं पड़ते और तेल में रंग नहीं छोड़ते।"
+      ]
+    },
+    "gu": {
+      "name": "બીટના કટલેટ",
+      "ingredients": [
+        "તાજા લાલ બીટ",
+        "બાફેલા બટાકા",
+        "બ્રેડનો ભૂકો",
+        "લીલાં મરચાં",
+        "સમારેલી કોથમીર",
+        "આદુ",
+        "ચાટ મસાલો",
+        "મીઠું",
+        "વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "બીટ છીણી વધારાનો રસ નીચોવો અને કાચી સુગંધ જાય ત્યાં સુધી સૂકી કડાઈમાં રાંધી ઠંડું કરો.",
+        "બટાકા મસળી બીટ, ઝીણાં મરચાં, કોથમીર, આદુ, ચાટ મસાલો, મીઠું અને અડધો બ્રેડ ભૂકો ભેળવો.",
+        "મિશ્રણના સરખા લંબગોળ કટલેટ મજબૂત દબાવી બનાવો; બાકી ભૂકામાં લપેટી સેટ થાય ત્યાં સુધી ઠંડા કરો.",
+        "તવા પર તેલનો પાતળો પડ ગરમ કરી કટલેટ મધ્યમ તાપે એક બાજુ સોનેરી કરો; સાવચેતીથી એક વાર ફેરવો.",
+        "બીજી બાજુ પણ સોનેરી કરી થોડું તેલ નિતારો અને ઉપરનો પડ કરકરો હોય ત્યારે કોથમીરની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બીટ પહેલાં સૂકવવાથી કટલેટ નરમ પડતા નથી અને તેલમાં રંગ છોડતા નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://dinedelicious.in/beetroot-cutlet-how-to-make-healthy-beetroot-tikki-recipe-beetroot-chop/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/beetroot-cutlet.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

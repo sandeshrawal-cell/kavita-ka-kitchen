@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0359",
+  "id": "oats-tikki",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Oats Tikki",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 55,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-toast the oats until lightly fragrant; pulse only half to coarse crumbs so the finished tikki still shows flakes.",
+    "Cook peas until tender, drain dry and lightly crush; mash the potatoes separately.",
+    "Combine oats, potato, peas, chopped onion, coriander, chili, ginger, cumin and salt; rest until oats absorb moisture.",
+    "Shape compact patties; if the mixture feels sticky, let it stand longer instead of adding extra flour.",
+    "Pan-fry in a thin layer of oil over medium heat until both sides are crisp and brown; serve with mint chutney."
+  ],
+  "tips": [
+    "Keeping some oats whole gives texture; finely grinding all of them makes a dense, pasty patty."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ओट्स टिक्की",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "उबले आलू",
+        "हरे मटर",
+        "कटी प्याज़",
+        "कटा हरा धनिया",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "नमक",
+        "वनस्पति तेल"
+      ],
+      "steps": [
+        "ओट्स हल्के सुगंधित होने तक सूखे भूनें; केवल आधे मोटे पीसें ताकि टिक्की में कुछ फाहे दिखें।",
+        "मटर नरम होने तक पकाकर सुखाएँ और हल्का मसलें; आलू अलग मसलें।",
+        "ओट्स, आलू, मटर, कटी प्याज़, धनिया, मिर्च, अदरक, जीरा और नमक मिलाकर ओट्स नमी सोखने तक रखें।",
+        "मिश्रण की ठोस टिक्कियाँ बनाएँ; चिपचिपा लगे तो अतिरिक्त आटा डालने के बजाय और देर रखें।",
+        "तेल की पतली परत में मध्यम आँच पर दोनों तरफ़ कुरकुरी भूरी होने तक सेंकें; पुदीना चटनी के साथ दें।"
+      ],
+      "tips": [
+        "कुछ ओट्स साबुत रखने से बनावट अच्छी रहती है; सारे बारीक पीसने से टिक्की भारी और लिसलिसी बनती है।"
+      ]
+    },
+    "gu": {
+      "name": "ઓટ્સ ટિક્કી",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "બાફેલા બટાકા",
+        "લીલા વટાણા",
+        "સમારેલી ડુંગળી",
+        "સમારેલી કોથમીર",
+        "લીલાં મરચાં",
+        "આદુ",
+        "જીરું",
+        "મીઠું",
+        "વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "ઓટ્સ હળવી સુગંધ આવે ત્યાં સુધી સૂકા શેકો; ફક્ત અડધા જાડા દળો જેથી ટિક્કીમાં થોડાં ફ્લેક્સ દેખાય.",
+        "વટાણા નરમ થાય ત્યાં સુધી રાંધી સૂકવો અને હળવા મસળો; બટાકા અલગ મસળો.",
+        "ઓટ્સ, બટાકા, વટાણા, સમારેલી ડુંગળી, કોથમીર, મરચાં, આદુ, જીરું અને મીઠું ભેળવી ઓટ્સ ભેજ શોષે ત્યાં સુધી રાખો.",
+        "મિશ્રણની મજબૂત ટિક્કીઓ બનાવો; ચીકણું લાગે તો વધારાનો લોટ નાખવાને બદલે થોડું વધુ રાખો.",
+        "તેલના પાતળા પડમાં મધ્યમ તાપે બંને બાજુ કરકરી ભૂરી થાય ત્યાં સુધી શેકો; ફુદીનાની ચટણી સાથે આપો."
+      ],
+      "tips": [
+        "થોડાં ઓટ્સ આખાં રાખવાથી સરસ રચના રહે છે; બધાં ઝીણા દળવાથી ટિક્કી ભારે અને ચીકણી બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.bigbasket.com/cookbook/recipes/3169/oats-tikki/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/oats-tikki.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

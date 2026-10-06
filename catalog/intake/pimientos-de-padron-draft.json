@@ -1,0 +1,86 @@
+{
+  "sourceReviewId": "R0380",
+  "id": "pimientos-de-padron",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Pimientos de Padron",
+  "cuisine": "Spanish",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "Padrón peppers",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "flaky sea salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "lemon wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the peppers and dry completely, leaving stems attached; damp skins will steam instead of blister.",
+    "Heat a wide heavy skillet until very hot. Add olive oil, then spread peppers in one layer with space between them.",
+    "Sear without moving for 2 minutes, then turn and cook 3–4 minutes more until the skins blister and char in spots while peppers stay bright green.",
+    "Transfer to a warm plate and scatter flaky sea salt over them while still glossy with oil.",
+    "Serve immediately with lemon wedges; hold each pepper by its stem and discard the stem after eating."
+  ],
+  "tips": [
+    "Padrón peppers vary in heat; taste one first and warn guests that an occasional pepper can be hot."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पैद्रोन मिर्च",
+      "ingredients": [
+        "पैद्रोन हरी मिर्च",
+        "एक्स्ट्रा-वर्जिन जैतून तेल",
+        "दरदरा समुद्री नमक",
+        "नींबू की फाँकें"
+      ],
+      "steps": [
+        "मिर्च धोकर पूरी सुखाएँ और डंठल लगे रहने दें; गीली मिर्च फफोले पड़ने की जगह भाप में पकेगी।",
+        "चौड़ा मोटा तवा बहुत गरम करें। जैतून तेल डालें और मिर्च को बीच में जगह रखते हुए एक परत में फैलाएँ।",
+        "2 मिनट बिना हिलाए सेंकें, फिर पलटकर 3–4 मिनट पकाएँ; छिलके जगह-जगह काले फफोलेदार हों पर मिर्च हरी रहे।",
+        "गरम प्लेट में निकालें और तेल से चमकते हों तभी दरदरा समुद्री नमक छिड़कें।",
+        "नींबू की फाँकों के साथ तुरंत परोसें; डंठल पकड़कर खाएँ और बाद में डंठल हटाएँ।"
+      ],
+      "tips": [
+        "पैद्रोन मिर्च का तीखापन बदलता है; पहले एक चखें और मेहमानों को बताएँ कि कभी-कभी एक मिर्च बहुत तीखी हो सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "પાડ્રોન મરચાં",
+      "ingredients": [
+        "પાડ્રોન લીલાં મરચાં",
+        "એક્સ્ટ્રા-વર્જિન ઑલિવ તેલ",
+        "બરછટ દરિયાઈ મીઠું",
+        "લીંબુની ફાંકો"
+      ],
+      "steps": [
+        "મરચાં ધોઈ સંપૂર્ણ સુકવો અને દાંડી રહેવા દો; ભીની છાલ ફોલ્લા પડવાને બદલે વરાળમાં પાકશે.",
+        "પહોળી જાડી કડાઈ ખૂબ ગરમ કરો. ઑલિવ તેલ નાખી મરચાં વચ્ચે જગ્યા રાખીને એક પડમાં પાથરો.",
+        "2 મિનિટ હલાવ્યા વગર શેકો, પછી ફેરવી 3–4 મિનિટ રાંધો; છાલે ઠેરઠેર કાળા ફોલ્લા પડે પણ મરચાં લીલાં રહે.",
+        "ગરમ થાળીમાં કાઢો અને તેલથી ચમકતા હોય ત્યારે જ બરછટ દરિયાઈ મીઠું છાંટો.",
+        "લીંબુની ફાંકો સાથે તરત પીરસો; દાંડી પકડી ખાઓ અને પછી દાંડી ફેંકો."
+      ],
+      "tips": [
+        "પાડ્રોન મરચાંની તીખાશ બદલાય છે; પહેલા એક ચાખો અને મહેમાનોને કહો કે ક્યારેક એક મરચું ખૂબ તીખું હોઈ શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pimientos-de-padron.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

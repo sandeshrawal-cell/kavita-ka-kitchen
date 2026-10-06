@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0352",
+  "id": "jackfruit-chips",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Jackfruit Chips",
+  "cuisine": "Kerala",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "raw jackfruit strips",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Oil the knife and hands lightly; remove the jackfruit core and seeds, then cut the firm raw flesh into thin even strips.",
+    "Pat the strips very dry. Mix salt, turmeric and chili powder in a dry bowl for seasoning after frying.",
+    "Heat coconut oil in a deep pan. Fry jackfruit in small batches at medium heat, stirring so the strips separate.",
+    "Continue frying until the bubbling nearly stops and the jackfruit strips are fully cooked and crisp; lift out and drain on a rack.",
+    "Fry curry leaves briefly, toss them with the warm chips and dry seasoning, then cool fully before serving or storing airtight."
+  ],
+  "tips": [
+    "Use firm unripe jackfruit; ripe sweet pods soften instead of becoming crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कटहल चिप्स",
+      "ingredients": [
+        "कच्चे कटहल की पतली पट्टियाँ",
+        "नारियल तेल",
+        "नमक",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "करी पत्ते"
+      ],
+      "steps": [
+        "चाकू और हाथों पर हल्का तेल लगाएँ; कटहल का कठोर बीच और बीज निकालकर कच्चे गूदे की बराबर पतली पट्टियाँ काटें।",
+        "पट्टियों को पूरी तरह पोंछकर सुखाएँ। तलने के बाद डालने के लिए नमक, हल्दी और मिर्च पाउडर सूखे कटोरे में मिलाएँ।",
+        "गहरे पैन में नारियल तेल गरम करें। कटहल की छोटी खेप मध्यम आँच पर तलें और पट्टियाँ अलग रखने को चलाएँ।",
+        "बुलबुले लगभग थमने और कटहल की पट्टियाँ पूरी तरह पककर कुरकुरी होने तक तलें; निकालकर जाली पर निथारें।",
+        "करी पत्ते थोड़ी देर तलें, गरम चिप्स और सूखा मसाला मिलाएँ, फिर पूरी तरह ठंडे करके परोसें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "कड़ा कच्चा कटहल लें; पके मीठे फाँक कुरकुरे होने के बजाय नरम पड़ते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ફણસની ચિપ્સ",
+      "ingredients": [
+        "કાચા ફણસની પાતળી પટ્ટીઓ",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "મીઠા લીમડાનાં પાન"
+      ],
+      "steps": [
+        "છરી અને હાથ પર થોડું તેલ લગાવો; ફણસનો કઠણ મધ્યભાગ અને બીજ કાઢી કાચા ગૂદાની સરખી પાતળી પટ્ટીઓ કાપો.",
+        "પટ્ટીઓ બરાબર લૂછીને સૂકવો. તળ્યા પછી નાખવા માટે મીઠું, હળદર અને મરચું પાઉડર સૂકા વાટકામાં ભેળવો.",
+        "ઊંડી કડાઈમાં નાળિયેરનું તેલ ગરમ કરો. ફણસની નાની ખેપ મધ્યમ તાપે તળો અને પટ્ટીઓ અલગ રહે તે માટે હલાવો.",
+        "પરપોટા લગભગ બંધ થાય અને ફણસની પટ્ટીઓ પૂરી રંધાઈ કરકરી થાય ત્યાં સુધી તળો; કાઢી જાળી પર નિતારો.",
+        "મીઠા લીમડાનાં પાન થોડો સમય તળો, ગરમ ચિપ્સ અને સૂકો મસાલો ભેળવો, પછી પૂરી ઠંડી કરી પીરસો અથવા હવાબંધ ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "કડક કાચું ફણસ લો; પાકેલી મીઠી કળીઓ કરકરી બનવાને બદલે નરમ પડે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.cookdtv.com/recipes/jackfruit-chips",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/jackfruit-chips.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

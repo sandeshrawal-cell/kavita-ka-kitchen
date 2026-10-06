@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0315",
+  "id": "bajra-khakhra",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Bajra Khakhra",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "pearl millet flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "whole wheat flour",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "warm water",
+      "qty": 170,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix millet and wheat flours with sesame, carom, turmeric and salt. Use fresh millet flour so the dough does not taste bitter.",
+    "Add the measured oil and water gradually, then knead a firm, smooth dough. Cover and rest briefly so it rolls without cracking.",
+    "Divide into small balls and roll each one extremely thin and evenly round, dusting very lightly with flour only when needed.",
+    "Cook on a dry tawa over low heat. Turn repeatedly and press the whole surface with a folded cloth or khakhra press until the bread is uniformly dry, browned in spots and brittle.",
+    "Cool each khakhra separately on a rack before stacking; serve plain or store airtight once completely cold."
+  ],
+  "tips": [
+    "Millet dough is more fragile than wheat; roll between sheets if it cracks."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बाजरा खाखरा",
+      "ingredients": [
+        "बाजरे का आटा",
+        "गेहूँ का आटा",
+        "तिल",
+        "अजवाइन",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "गुनगुना पानी"
+      ],
+      "steps": [
+        "बाजरे और गेहूँ के आटे में तिल, अजवाइन, हल्दी और नमक मिलाएँ। ताज़ा बाजरे का आटा लें ताकि कड़वापन न हो।",
+        "नापा तेल और पानी धीरे-धीरे डालकर कड़ा, चिकना आटा गूँधें। ढककर थोड़ी देर रखें ताकि बेलते समय न फटे।",
+        "छोटी लोइयाँ बाँटें और हर एक को बहुत पतला, बराबर गोल बेलें। केवल ज़रूरत होने पर थोड़ा सूखा आटा लगाएँ।",
+        "सूखे तवे पर धीमी आँच में सेंकें। बार-बार पलटें और मुड़े कपड़े या खाखरा प्रेस से पूरी सतह दबाएँ, जब तक हर ओर सूखा, जगह-जगह सुनहरा और भुरभुरा न हो।",
+        "हर खाखरा अलग जाली पर ठंडा करके रखें; सादा परोसें या पूरी तरह ठंडा होने पर बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "बाजरे का आटा गेहूँ से अधिक टूटता है; ज़रूरत हो तो दो परतों के बीच बेलें।"
+      ]
+    },
+    "gu": {
+      "name": "બાજરી ખાખરા",
+      "ingredients": [
+        "બાજરીનો લોટ",
+        "ઘઉંનો લોટ",
+        "તલ",
+        "અજમો",
+        "હળદર",
+        "મીઠું",
+        "તેલ",
+        "હૂંફાળું પાણી"
+      ],
+      "steps": [
+        "બાજરી અને ઘઉંના લોટમાં તલ, અજમો, હળદર અને મીઠું ભેળવો. લોટ કડવો ન લાગે માટે તાજી બાજરી વાપરો.",
+        "માપેલું તેલ અને પાણી ધીમે ધીમે ઉમેરી કડક, સુંવાળો લોટ બાંધો. ઢાંકી થોડી વાર રાખો જેથી વણતાં ન ફાટે.",
+        "નાની ગોળીઓ કરી દરેકને ખૂબ પાતળી અને સરખી ગોળ વણો. જરૂર હોય ત્યારે જ થોડો સૂકો લોટ વાપરો.",
+        "સૂકા તવા પર ધીમા તાપે શેકો. વારંવાર પલટાવો અને વાળેલા કપડા અથવા ખાખરા પ્રેસથી આખી સપાટી દબાવો, બધે સૂકો, કશેક સોનેરી અને ભુરભુરો થાય ત્યાં સુધી.",
+        "દરેક ખાખરો અલગ જાળી પર ઠંડો કરો; સાદો પીરસો અથવા સંપૂર્ણ ઠંડો થયા પછી હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "બાજરીનો લોટ ઘઉં કરતાં વધુ તૂટે છે; જરૂર હોય તો બે પડ વચ્ચે વણો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://staging.foodfood.com/public/recipedetails/bajre-ka-khakra",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/bajra-khakhra.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

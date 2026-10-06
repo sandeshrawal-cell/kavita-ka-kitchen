@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0389",
+  "id": "curly-fries",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Curly Fries",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "large starchy potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "rice flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Use a spiral cutter to cut scrubbed potatoes into long curls. Rinse and soak in cold water for 20 minutes to remove loose starch.",
+    "Drain and dry completely. Toss gently with rice flour so every curl gets a light dusting without breaking.",
+    "Heat oil to 175°C. Fry small loose batches for 4–5 minutes, separating curls with a slotted spoon, until uniformly golden and crisp.",
+    "Drain on a rack; mix paprika and salt and dust over the hot fries. Serve at once."
+  ],
+  "tips": [
+    "Do not crowd the pan or the coils clump and steam instead of crisping."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कर्ली फ्राइज़",
+      "ingredients": [
+        "बड़े स्टार्च वाले आलू",
+        "तलने के लिए सादा तेल",
+        "चावल का आटा",
+        "स्मोक्ड पपरिका",
+        "नमक",
+        "ठंडा पानी"
+      ],
+      "steps": [
+        "साफ़ रगड़े आलू स्पाइरल कटर से लंबी घुमावदार कतरनों में काटें। ढीला स्टार्च हटाने के लिए धोकर 20 मिनट ठंडे पानी में भिगोएँ।",
+        "पानी निथारकर पूरा सुखाएँ। हल्के हाथ से चावल के आटे में उलटें ताकि हर घुमाव पर पतली परत आए और टूटे नहीं।",
+        "तेल 175°C करें। थोड़े ढीले गुच्छे 4–5 मिनट छेद वाले चम्मच से अलग करते हुए बराबर सुनहरे कुरकुरे होने तक तलें।",
+        "जाली पर निथारें; पपरिका और नमक मिलाकर गरम फ्राइज़ पर छिड़कें। तुरंत परोसें।"
+      ],
+      "tips": [
+        "कड़ाही न भरें, वरना घुमाव चिपककर कुरकुरे होने के बजाय भाप में पकेंगे।"
+      ]
+    },
+    "gu": {
+      "name": "કર્લી ફ્રાઈઝ",
+      "ingredients": [
+        "મોટા સ્ટાર્ચવાળા બટાકા",
+        "તળવા માટે સાદું તેલ",
+        "ચોખાનો લોટ",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "ઠંડું પાણી"
+      ],
+      "steps": [
+        "ઘસી સાફ કરેલા બટાકા સ્પાઇરલ કટરથી લાંબા વાંકડિયા કાપો. છૂટો સ્ટાર્ચ કાઢવા ધોઈ 20 મિનિટ ઠંડા પાણીમાં પલાળો.",
+        "પાણી નિતારી સાવ સુકવો. હળવા હાથે ચોખાના લોટમાં હલાવો જેથી દરેક વળાંક પર પાતળું પડ ચડે અને તૂટે નહીં.",
+        "તેલ 175°C કરો. થોડાં ઢીલાં ઝૂમખાં 4–5 મિનિટ જાળીદાર ચમચાથી અલગ કરતા સરખા સોનેરી કરકરા થાય ત્યાં સુધી તળો.",
+        "જાળી પર નિતારો; પૅપ્રિકા અને મીઠું ભેળવી ગરમ ફ્રાઈઝ પર છાંટો. તરત પીરસો."
+      ],
+      "tips": [
+        "કડાઈ ન ભરો, નહિતર વળાંકો ચોંટી કરકરા થવાને બદલે વરાળમાં પાકશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/curly-fries.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

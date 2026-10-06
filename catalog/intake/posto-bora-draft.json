@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0331",
+  "id": "posto-bora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Posto Bora",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "nigella seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 85,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 80,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak poppy seeds until softened, drain and grind with green chillies and a little measured water to a coarse thick paste.",
+    "Fold in onion, rice flour, nigella and salt. The mixture should hold its shape on a spoon; add only a few drops of remaining water if needed.",
+    "Heat a thin layer of mustard oil until its raw aroma fades, then lower to medium heat.",
+    "Drop small spoonfuls into the pan and flatten gently into little discs. Fry both sides until brown and firm, adding oil around the edges.",
+    "Drain briefly and serve hot beside rice and dal or as a tea-time snack."
+  ],
+  "tips": [
+    "Do not grind the seeds completely smooth: a little texture makes the crisp crust characteristic."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पोस्तो बोड़ा",
+      "ingredients": [
+        "खसखस",
+        "हरी मिर्च",
+        "बारीक कटा प्याज",
+        "चावल का आटा",
+        "कलौंजी",
+        "नमक",
+        "पानी",
+        "सरसों का तेल"
+      ],
+      "steps": [
+        "खसखस नरम होने तक भिगोएँ, छानें और हरी मिर्च व थोड़े दिए पानी के साथ गाढ़ा दरदरा पीसें।",
+        "प्याज, चावल का आटा, कलौंजी और नमक मिलाएँ। मिश्रण चम्मच पर आकार थामे; ज़रूरत पर ही बचा पानी थोड़ा डालें।",
+        "तवे पर सरसों का थोड़ा तेल गरम कर कच्ची गंध दूर करें, फिर आँच मध्यम रखें।",
+        "छोटे चम्मचभर मिश्रण डालकर हल्के चपटे गोले बनाएँ। किनारों पर तेल डालते हुए दोनों ओर भूरा और सख्त होने तक सेंकें।",
+        "थोड़ा तेल टपकाकर गरम बोड़े दाल-चावल के साथ या नाश्ते में परोसें।"
+      ],
+      "tips": [
+        "खसखस को बिल्कुल चिकना न पीसें; हल्का दानापन इसकी कुरकुरी परत की पहचान है।"
+      ]
+    },
+    "gu": {
+      "name": "પોસ્તો વડા",
+      "ingredients": [
+        "ખસખસ",
+        "લીલાં મરચાં",
+        "બારીક સમારેલી ડુંગળી",
+        "ચોખાનો લોટ",
+        "કલૌંજી",
+        "મીઠું",
+        "પાણી",
+        "સરસવનું તેલ"
+      ],
+      "steps": [
+        "ખસખસ નરમ થાય ત્યાં સુધી પલાળો, નિતારી લીલાં મરચાં અને આપેલા થોડા પાણી સાથે ઘટ્ટ અધકચરી પેસ્ટ પીસો.",
+        "ડુંગળી, ચોખાનો લોટ, કલૌંજી અને મીઠું ભેળવો. મિશ્રણ ચમચી પર આકાર જાળવે; જરૂર પડે તો જ બાકીનું પાણી થોડું ઉમેરો.",
+        "તવા પર સરસવનું થોડું તેલ ગરમ કરી કાચી ગંધ દૂર કરો, પછી મધ્યમ તાપ રાખો.",
+        "નાની ચમચીભર મિશ્રણ નાખી હળવેથી ચપટી ગોળીઓ બનાવો. કિનારે તેલ ઉમેરતાં બંને બાજુ ભૂરું અને મજબૂત થાય ત્યાં સુધી શેકો.",
+        "થોડું તેલ નિતારી ગરમ વડા દાળ-ભાત સાથે અથવા નાસ્તામાં પીરસો."
+      ],
+      "tips": [
+        "ખસખસ એકદમ લીસું ન પીસો; થોડો દાણાદારપણો તેની કરકરી પડની ઓળખ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.bongeats.com/recipe/postor-bora",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/posto-bora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

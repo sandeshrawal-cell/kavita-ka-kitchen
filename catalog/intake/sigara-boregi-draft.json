@@ -1,0 +1,93 @@
+{
+  "sourceReviewId": "R0396",
+  "id": "sigara-boregi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Sigara Boregi",
+  "cuisine": "Turkish",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "vegetarian yufka pastry sheets",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian white cheese, crumbled",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix crumbled cheese with finely chopped parsley. Taste first; most white cheese needs no extra salt.",
+    "Cut yufka into long triangles. Put a narrow strip of filling across the wide end, fold sides inward and roll tightly into slim cigars.",
+    "Wet the tip with measured water to seal each roll. Keep unrolled pastry covered with a damp cloth so it does not crack.",
+    "Heat oil to 175°C. Fry rolls in batches for 3–4 minutes, turning until all sides are evenly golden and crisp.",
+    "Drain on a rack for 2 minutes and serve warm while the filling is soft and the pastry crackles."
+  ],
+  "tips": [
+    "Use cheese labeled vegetarian, and check that the packaged yufka is vegetarian too."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सिगारा बोरेगी",
+      "ingredients": [
+        "शाकाहारी युफ़का चादरें",
+        "चूरा किया शाकाहारी सफ़ेद चीज़",
+        "चौड़ी पत्ती वाली पार्सले",
+        "पानी",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "चूरा किए चीज़ में बारीक कटी पार्सले मिलाएँ। पहले चखें; अधिकतर सफ़ेद चीज़ को और नमक नहीं चाहिए।",
+        "युफ़का के लंबे त्रिकोण काटें। चौड़े सिरे पर भरावन की पतली पट्टी रखें, किनारे भीतर मोड़ें और कसकर पतले रोल बनाएँ।",
+        "हर रोल की नोक दिए पानी से भिगोकर चिपकाएँ। बची चादर गीले कपड़े से ढकें ताकि फटे नहीं।",
+        "तेल 175°C गरम करें। रोल थोड़े-थोड़े 3–4 मिनट पलटते हुए चारों ओर बराबर सुनहरे कुरकुरे होने तक तलें।",
+        "जाली पर 2 मिनट तेल निथारें और भरावन नरम व चादर कुरकुरी हो तभी गरम परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी लिखा चीज़ लें और पैकेट वाली युफ़का भी शाकाहारी हो, यह जाँचें।"
+      ]
+    },
+    "gu": {
+      "name": "સિગારા બોરેગી",
+      "ingredients": [
+        "શાકાહારી યુફકા શીટ",
+        "ભૂકો કરેલું શાકાહારી સફેદ ચીઝ",
+        "પહોળાં પાનવાળું પાર્સલી",
+        "પાણી",
+        "તળવાનું સાદું તેલ"
+      ],
+      "steps": [
+        "ભૂકો કરેલા ચીઝમાં ઝીણું સમારેલું પાર્સલી ભેળવો. પહેલા ચાખો; મોટા ભાગના સફેદ ચીઝને વધુ મીઠું ન જોઈએ.",
+        "યુફકાના લાંબા ત્રિકોણ કાપો. પહોળા છેડે પૂરણની પાતળી પટ્ટી મૂકી બાજુઓ અંદર વાળો અને ચુસ્ત પાતળા રોલ વાળો.",
+        "દરેક રોલની ટોચ આપેલા પાણીથી ભીની કરી ચોંટાડો. બાકી શીટ ભીના કપડાથી ઢાંકો જેથી તૂટે નહીં.",
+        "તેલ 175°C ગરમ કરો. રોલ થોડા થોડા 3–4 મિનિટ ફેરવી ચારે બાજુ સરખા સોનેરી કરકરા થાય ત્યાં સુધી તળો.",
+        "જાળી પર 2 મિનિટ તેલ નિતારી પૂરણ નરમ અને શીટ કરકરી હોય ત્યારે ગરમ પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી લખેલું ચીઝ લો અને પૅકેટની યુફકા પણ શાકાહારી છે તેની ખાતરી કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/sigara-boregi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

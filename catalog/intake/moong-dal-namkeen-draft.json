@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0355",
+  "id": "moong-dal-namkeen",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Moong Dal Namkeen",
+  "cuisine": "North Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "split yellow moong dal",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the moong dal until clear, soak in the measured water until swollen but still firm, then drain thoroughly.",
+    "Spread the dal on towels to remove surface moisture; clumps of wet dal will sputter in oil.",
+    "Heat oil to medium hot. Lower a small portion of dal in a frying sieve and stir until bubbling subsides and grains turn crisp.",
+    "Lift out the sieve, drain the dal well and repeat with remaining portions; do not brown the grains deeply.",
+    "While warm, toss with salt, chaat masala and chili powder; cool fully to retain the signature dry crunch."
+  ],
+  "tips": [
+    "A frying sieve keeps individual lentils together and makes it easy to remove them before they brown."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मूंग दाल नमकीन",
+      "ingredients": [
+        "धुली पीली मूंग दाल",
+        "पानी",
+        "तलने का तेल",
+        "नमक",
+        "चाट मसाला",
+        "लाल मिर्च पाउडर"
+      ],
+      "steps": [
+        "मूंग दाल पानी साफ़ आने तक धोएँ, दिए पानी में फूलने पर भी सख़्त रहने तक भिगोएँ, फिर पूरी तरह निथारें।",
+        "दाल कपड़ों पर फैलाकर सतह का पानी सुखाएँ; गीली दाल तेल में तेज़ छींटे मारती है।",
+        "तेल मध्यम गरम करें। थोड़ी दाल तलने की जाली में डालकर बुलबुले कम होने और दाने कुरकुरे होने तक चलाएँ।",
+        "जाली निकालकर दाल का तेल अच्छी तरह निथारें और बची दाल इसी तरह तलें; दाने गहरे भूरे न हों।",
+        "हल्की गरम दाल में नमक, चाट मसाला और मिर्च मिलाएँ; खास सूखा कुरकुरापन बनाए रखने को पूरी ठंडी करें।"
+      ],
+      "tips": [
+        "तलने की जाली दानों को साथ रखती है और भूरे होने से पहले निकालना आसान बनाती है।"
+      ]
+    },
+    "gu": {
+      "name": "મગની દાળની નમકીન",
+      "ingredients": [
+        "પીળી મગની દાળ",
+        "પાણી",
+        "તળવા માટે તેલ",
+        "મીઠું",
+        "ચાટ મસાલો",
+        "લાલ મરચું પાઉડર"
+      ],
+      "steps": [
+        "મગની દાળ પાણી ચોખ્ખું આવે ત્યાં સુધી ધુઓ, આપેલા પાણીમાં ફૂલે પણ કડક રહે ત્યાં સુધી પલાળો, પછી બરાબર નિતારો.",
+        "દાળ કપડાં પર ફેલાવી ઉપરનું પાણી સૂકવો; ભીની દાળ તેલમાં વધારે છાંટા મારે છે.",
+        "તેલ મધ્યમ ગરમ કરો. થોડી દાળ તળવાની જાળીમાં નાખી પરપોટા ઓછા થાય અને દાણા કરકરા થાય ત્યાં સુધી હલાવો.",
+        "જાળી કાઢી દાળનું તેલ સારી રીતે નિતારો અને બાકી દાળ આ રીતે તળો; દાણા ઘેરા ભૂરા ન થાય.",
+        "હળવી ગરમ દાળમાં મીઠું, ચાટ મસાલો અને મરચું ભેળવો; ખાસ સૂકું કરકરાપણું રહે તે માટે પૂરી ઠંડી કરો."
+      ],
+      "tips": [
+        "તળવાની જાળી દાણાને સાથે રાખે છે અને ભૂરા થાય તે પહેલાં કાઢવામાં મદદ કરે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.ramkishanfoods.com/recipes/moong-dal-namkeen",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/moong-dal-namkeen.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

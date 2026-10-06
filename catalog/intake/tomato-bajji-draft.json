@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R0371",
+  "id": "tomato-bajji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Tomato Bajji",
+  "cuisine": "Andhra",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "firm tomatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 185,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 16,
+      "unit": "ml"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Choose firm tomatoes and slice into thick even rounds; blot cut surfaces to prevent watery batter.",
+    "Whisk gram flour, rice flour, chili powder, turmeric and most salt with measured water to a thick smooth coating.",
+    "Heat oil over medium heat. Dip each tomato round fully and fry in small batches until the batter is crisp and golden.",
+    "Drain on a rack. Toss chopped onion, coriander and minced green chili with lemon juice and remaining salt.",
+    "Spoon a little onion masala over each hot bajji immediately before serving so it remains crisp."
+  ],
+  "tips": [
+    "Top only at serving time; wet onion masala softens the tomato bajji crust quickly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टमाटर बज्जी",
+      "ingredients": [
+        "सख़्त टमाटर",
+        "बेसन",
+        "चावल का आटा",
+        "पानी",
+        "कटी प्याज़",
+        "कटा हरा धनिया",
+        "हरी मिर्च",
+        "नींबू का रस",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "सख़्त टमाटर बराबर मोटे गोल काटें; कटी सतह पोंछें ताकि घोल पानीदार न बने।",
+        "बेसन, चावल का आटा, मिर्च, हल्दी और अधिकतर नमक दिए पानी से गाढ़ा चिकना घोल बनाएँ।",
+        "तेल मध्यम गरम करें। हर टमाटर का गोला पूरा डुबोकर छोटी खेप में घोल कुरकुरा सुनहरा होने तक तलें।",
+        "जाली पर निथारें। कटी प्याज़, धनिया और बारीक हरी मिर्च में नींबू रस तथा बचा नमक मिलाएँ।",
+        "परोसने से ठीक पहले हर गरम बज्जी पर थोड़ा प्याज़ मसाला डालें ताकि परत कुरकुरी रहे।"
+      ],
+      "tips": [
+        "मसाला परोसते समय ही डालें; नम प्याज़ मसाला टमाटर बज्जी की परत जल्दी नरम करता है।"
+      ]
+    },
+    "gu": {
+      "name": "ટમેટા બજ્જી",
+      "ingredients": [
+        "કડક ટમેટાં",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "સમારેલી ડુંગળી",
+        "સમારેલી કોથમીર",
+        "લીલાં મરચાં",
+        "લીંબુનો રસ",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કડક ટમેટાં સરખા જાડા ગોળ કાપો; કાપેલી સપાટી લૂછો જેથી ખીરું પાણીવાળું ન બને.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર અને મોટાભાગનું મીઠું આપેલા પાણીથી જાડું સુંવાળું ખીરું બનાવો.",
+        "તેલ મધ્યમ ગરમ કરો. દરેક ટમેટાંની રિંગ પૂરી ડૂબાડી નાની ખેપમાં ખીરું કરકરું સોનેરી થાય ત્યાં સુધી તળો.",
+        "જાળી પર નિતારો. સમારેલી ડુંગળી, કોથમીર અને ઝીણાં લીલાં મરચાંમાં લીંબુનો રસ તથા બાકી મીઠું ભેળવો.",
+        "પીરસતાં પહેલાં દરેક ગરમ બજ્જી પર થોડો ડુંગળીનો મસાલો મૂકો જેથી પડ કરકરો રહે."
+      ],
+      "tips": [
+        "મસાલો પીરસતાં જ નાખો; ભીનો ડુંગળીનો મસાલો ટમેટા બજ્જીનો પડ ઝડપથી નરમ કરે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.youtube.com/watch?v=zZJDHjwFP-E",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/tomato-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

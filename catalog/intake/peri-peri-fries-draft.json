@@ -1,0 +1,121 @@
+{
+  "sourceReviewId": "R0379",
+  "id": "peri-peri-fries",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Peri Peri Fries",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "starchy potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garlic powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "lemon zest",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut potatoes into even 8 mm sticks. Rinse away surface starch and soak in cold water for 20 minutes, then drain and dry thoroughly.",
+    "Mix paprika, chilli, oregano, garlic powder, lemon zest and salt in a large dry bowl to make the peri-peri coating.",
+    "Fry potatoes in batches at 150°C for 5–6 minutes until cooked but pale. Drain and cool for 10 minutes.",
+    "Increase oil to 185°C and fry again for 2–3 minutes until crisp and golden; drain on a rack.",
+    "While the fries are hot, toss in the seasoning bowl until coated; serve immediately so the crust stays crisp."
+  ],
+  "tips": [
+    "Keep the seasoning dry; a wet sauce makes these fries soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पेरी-पेरी फ्राइज़",
+      "ingredients": [
+        "अधिक स्टार्च वाले आलू",
+        "तलने के लिए सादा तेल",
+        "स्मोक्ड पपरिका",
+        "लाल मिर्च पाउडर",
+        "सूखा ओरिगैनो",
+        "लहसुन पाउडर",
+        "नींबू का कसा छिलका",
+        "नमक",
+        "ठंडा पानी"
+      ],
+      "steps": [
+        "आलू की समान 8 मि.मी. कतरनें काटें। ऊपर का स्टार्च धोकर 20 मिनट ठंडे पानी में भिगोएँ, फिर पानी निथारकर खूब सुखाएँ।",
+        "बड़े सूखे बर्तन में पपरिका, मिर्च, ओरिगैनो, लहसुन पाउडर, नींबू छिलका और नमक मिलाकर पेरी-पेरी मसाला बनाएँ।",
+        "आलू थोड़े-थोड़े 150°C तेल में 5–6 मिनट पकने पर भी हल्के रंग के रहने तक तलें। निथारकर 10 मिनट ठंडा करें।",
+        "तेल 185°C करें और 2–3 मिनट दोबारा सुनहरे कुरकुरे होने तक तलें; जाली पर निथारें।",
+        "फ्राइज़ गरम हों तभी मसाले के बर्तन में उलट-पलट कर लपेटें; कुरकुरा रखने के लिए तुरंत परोसें।"
+      ],
+      "tips": [
+        "मसाला सूखा रखें; गीली चटनी फ्राइज़ को नरम कर देती है।"
+      ]
+    },
+    "gu": {
+      "name": "પેરી-પેરી ફ્રાઈઝ",
+      "ingredients": [
+        "વધુ સ્ટાર્ચવાળા બટાકા",
+        "તળવા માટે સાદું તેલ",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "લાલ મરચું પાઉડર",
+        "સૂકો ઓરેગાનો",
+        "લસણ પાઉડર",
+        "લીંબુની છીણેલી છાલ",
+        "મીઠું",
+        "ઠંડું પાણી"
+      ],
+      "steps": [
+        "બટાકાની સરખી 8 મિ.મી. પટ્ટીઓ કાપો. ઉપરનો સ્ટાર્ચ ધોઈ 20 મિનિટ ઠંડા પાણીમાં પલાળો, પછી પાણી નિતારી ખૂબ સુકવો.",
+        "મોટા સૂકા વાસણમાં પૅપ્રિકા, મરચું, ઓરેગાનો, લસણ પાઉડર, લીંબુની છાલ અને મીઠું ભેળવી પેરી-પેરી મસાલો બનાવો.",
+        "બટાકા થોડા થોડા 150°C તેલમાં 5–6 મિનિટ પાકે પણ ફિક્કા રહે ત્યાં સુધી તળો. નિતારી 10 મિનિટ ઠંડાં કરો.",
+        "તેલ 185°C કરી 2–3 મિનિટ ફરી સોનેરી કરકરા થાય ત્યાં સુધી તળો; જાળી પર નિતારો.",
+        "ફ્રાઈઝ ગરમ હોય ત્યારે જ મસાલાવાળા વાસણમાં હલાવી ચોપડો; કરકરા રહે તે માટે તરત પીરસો."
+      ],
+      "tips": [
+        "મસાલો સૂકો રાખો; ભીની ચટણી ફ્રાઈઝ નરમ કરી દે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/peri-peri-fries.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

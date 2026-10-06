@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0388",
+  "id": "loaded-fries",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Loaded Fries",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "starchy potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, diced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion greens",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut potatoes into 8 mm sticks, rinse until water clears, soak in cold water for 20 minutes and dry thoroughly.",
+    "Fry in small batches at 150°C for 5 minutes until pale and tender; cool 10 minutes. Raise oil to 185°C and refry 2–3 minutes until crisp.",
+    "Salt the hot fries and spread on an oven-safe platter. Scatter cheddar over the top and grill for 1–2 minutes just until melted.",
+    "Scatter drained diced tomato and spring onion greens over the cheese. Dot with sour cream and serve immediately while fries remain crisp."
+  ],
+  "tips": [
+    "Drain the tomato well; excess juice makes the fries soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "लोडेड फ्राइज़",
+      "ingredients": [
+        "अधिक स्टार्च वाले आलू",
+        "तलने के लिए सादा तेल",
+        "कसा शाकाहारी चेडर",
+        "कटा टमाटर",
+        "हरे प्याज़ के पत्ते",
+        "सॉर क्रीम",
+        "नमक",
+        "ठंडा पानी"
+      ],
+      "steps": [
+        "आलू की 8 मि.मी. कतरनें काटें, पानी साफ़ होने तक धोएँ, 20 मिनट ठंडे पानी में भिगोकर पूरी तरह सुखाएँ।",
+        "थोड़े-थोड़े 150°C पर 5 मिनट नरम पर हल्के रंग के रहने तक तलें; 10 मिनट ठंडा करें। तेल 185°C करके 2–3 मिनट कुरकुरे होने तक फिर तलें।",
+        "गरम फ्राइज़ पर नमक डालकर ओवन में रख सकने वाली थाली में फैलाएँ। ऊपर चेडर डालें और 1–2 मिनट बस पिघलने तक ग्रिल करें।",
+        "पानी निथरे टमाटर और हरे प्याज़ के पत्ते ऊपर डालें। सॉर क्रीम के छोटे चम्मच रखकर कुरकुरे रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "टमाटर का रस अच्छी तरह निथारें; अधिक रस फ्राइज़ नरम कर देगा।"
+      ]
+    },
+    "gu": {
+      "name": "લોડેડ ફ્રાઈઝ",
+      "ingredients": [
+        "વધુ સ્ટાર્ચવાળા બટાકા",
+        "તળવા માટે સાદું તેલ",
+        "છીણેલું શાકાહારી ચેડર",
+        "સમારેલું ટમેટું",
+        "લીલી ડુંગળીના પાન",
+        "સાવર ક્રીમ",
+        "મીઠું",
+        "ઠંડું પાણી"
+      ],
+      "steps": [
+        "બટાકાની 8 મિ.મી. પટ્ટીઓ કાપો, પાણી ચોખ્ખું થાય ત્યાં સુધી ધોઈ 20 મિનિટ ઠંડા પાણીમાં પલાળી સંપૂર્ણ સુકવો.",
+        "થોડા થોડા 150°C પર 5 મિનિટ નરમ પણ ફિક્કા રહે ત્યાં સુધી તળો; 10 મિનિટ ઠંડાં કરો. તેલ 185°C કરી 2–3 મિનિટ કરકરા થાય ત્યાં સુધી ફરી તળો.",
+        "ગરમ ફ્રાઈઝ પર મીઠું નાખી ઓવનમાં મૂકી શકાય એવી થાળીમાં પાથરો. ઉપર ચેડર નાખી 1–2 મિનિટ માત્ર પીગળે ત્યાં સુધી ગ્રિલ કરો.",
+        "પાણી નિતારેલા ટમેટાં અને લીલી ડુંગળીનાં પાન ઉપર નાખો. સાવર ક્રીમના નાના ચમચા મૂકી કરકરાં હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "ટમેટાનો રસ બરાબર નિતારો; વધારે રસ ફ્રાઈઝ નરમ કરશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/loaded-fries.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

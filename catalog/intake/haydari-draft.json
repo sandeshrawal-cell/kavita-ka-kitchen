@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0398",
+  "id": "haydari",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Haydari",
+  "cuisine": "Turkish",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "thick strained yogurt",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian white cheese",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fresh dill",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mint",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "If the yogurt is loose, strain it in a cloth until thick enough to hold a spoon mark. Mash the white cheese smooth.",
+    "Finely chop dill and mint and crush garlic to a paste. Stir the cheese, herbs and garlic into the yogurt without thinning it.",
+    "Taste and add only the salt needed because the cheese is already salty. Chill 10 minutes for the garlic and herbs to infuse.",
+    "Spoon into a shallow bowl, make swirls with the back of a spoon and drizzle olive oil into the ridges before serving."
+  ],
+  "tips": [
+    "Use very thick yogurt; haydari should be a spreadable meze, not a pouring sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हायदारी",
+      "ingredients": [
+        "गाढ़ा छना दही",
+        "शाकाहारी सफ़ेद चीज़",
+        "ताज़ा डिल पत्ता",
+        "ताज़ा पुदीना",
+        "लहसुन",
+        "जैतून तेल",
+        "नमक"
+      ],
+      "steps": [
+        "दही पतला हो तो कपड़े में तब तक छानें कि चम्मच का निशान बना रहे। सफ़ेद चीज़ चिकना मसलें।",
+        "डिल और पुदीना बारीक काटें और लहसुन का पेस्ट बनाएँ। चीज़, पत्ते और लहसुन दही में मिलाएँ पर पतला न करें।",
+        "चखकर ज़रूरत भर ही नमक डालें क्योंकि चीज़ पहले से नमकीन है। लहसुन-पत्तों का स्वाद मिलने के लिए 10 मिनट ठंडा करें।",
+        "उथले बर्तन में डालकर चम्मच की पीठ से लहरें बनाएँ और परोसने से पहले उनमें जैतून तेल डालें।"
+      ],
+      "tips": [
+        "बहुत गाढ़ा दही लें; हायदारी फैलाने लायक मेज़े है, बहने वाली सॉस नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "હાયદારી",
+      "ingredients": [
+        "ઘટ્ટ ગાળેલું દહીં",
+        "શાકાહારી સફેદ ચીઝ",
+        "તાજું ડિલ પાન",
+        "તાજો ફુદીનો",
+        "લસણ",
+        "ઑલિવ તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "દહીં પાતળું હોય તો કપડામાં એટલું ગાળો કે ચમચીની લીટી ટકે. સફેદ ચીઝ મસૃણ મસળો.",
+        "ડિલ અને ફુદીનો ઝીણાં સમારો અને લસણની પેસ્ટ કરો. ચીઝ, પાન અને લસણ દહીંમાં ભેળવો પણ પાતળું ન કરો.",
+        "ચાખી જરૂરી હોય એટલું જ મીઠું નાખો કારણ કે ચીઝ પહેલેથી ખારું છે. લસણ-પાનનો સ્વાદ ભળે તે માટે 10 મિનિટ ઠંડું કરો.",
+        "છીછરા વાસણમાં મૂકી ચમચીની પાછળથી વળાંકો બનાવો અને પીરસતાં પહેલાં તેમાં ઑલિવ તેલ રેડો."
+      ],
+      "tips": [
+        "ખૂબ ઘટ્ટ દહીં લો; હાયદારી પાથરી શકાય એવું મેઝે છે, રેડી શકાય એવી સૉસ નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/haydari.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

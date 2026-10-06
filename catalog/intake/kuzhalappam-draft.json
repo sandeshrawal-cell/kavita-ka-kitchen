@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0328",
+  "id": "kuzhalappam",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kuzhalappam",
+  "cuisine": "Kerala",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "shallots",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "garlic cloves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 310,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Grind coconut, shallots, garlic and cumin with part of the measured water; strain to obtain a strongly flavoured liquid.",
+    "Bring that liquid and remaining water to a simmer with salt. Turn off heat and stir in rice flour and sesame to make a soft, non-sticky dough.",
+    "Cover until warm, then knead smooth. Roll small portions between oiled sheets into thin circles.",
+    "Wrap each disc around an oiled narrow handle or tube and seal the overlap with water; slide off gently, keeping the hollow centre open.",
+    "Fry the tubes in medium-hot coconut oil until lightly golden and crisp throughout. Drain, cool completely and store airtight."
+  ],
+  "tips": [
+    "A stiff or dry dough cracks while rolling; knead in a few drops of warm water if needed."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुज़लप्पम",
+      "ingredients": [
+        "चावल का आटा",
+        "ताज़ा कसा नारियल",
+        "छोटे प्याज",
+        "लहसुन की कलियाँ",
+        "जीरा",
+        "सफ़ेद तिल",
+        "नमक",
+        "पानी",
+        "तलने का नारियल तेल"
+      ],
+      "steps": [
+        "नारियल, छोटे प्याज, लहसुन और जीरा दिए पानी के कुछ भाग के साथ पीसें; छानकर सुगंधित रस लें।",
+        "उस रस और बचे पानी में नमक डालकर गरम करें। आँच बंद कर चावल का आटा और तिल मिलाएँ; नरम, न चिपकने वाला आटा बनाएँ।",
+        "ढककर गुनगुना होने दें, फिर चिकना गूँधें। छोटे भाग तेल लगी चादरों के बीच पतले गोल बेलें।",
+        "हर गोल को तेल लगे पतले बेलन या नली पर लपेटें, जोड़ पानी से चिपकाएँ; बीच खोखला रखते हुए धीरे निकालें।",
+        "नलियों को मध्यम गरम नारियल तेल में हल्का सुनहरा और पूरी तरह कुरकुरा तलें। निकालकर पूरा ठंडा करें और बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "कड़ा या सूखा आटा बेलते समय फटता है; ज़रूरत हो तो गर्म पानी की कुछ बूँदें मिलाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "કુઝલપ્પમ",
+      "ingredients": [
+        "ચોખાનો લોટ",
+        "તાજું છીણેલું નાળિયેર",
+        "નાની ડુંગળી",
+        "લસણની કળીઓ",
+        "જીરું",
+        "સફેદ તલ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે નાળિયેરનું તેલ"
+      ],
+      "steps": [
+        "નાળિયેર, નાની ડુંગળી, લસણ અને જીરું આપેલા પાણીના થોડા ભાગ સાથે પીસો; ગાળીને સુગંધિત રસ લો.",
+        "તે રસ અને બાકીનું પાણી મીઠા સાથે ઉકળાવો. તાપ બંધ કરી ચોખાનો લોટ અને તલ ભેળવી નરમ, ન ચોંટે એવો લોટ બનાવો.",
+        "ઢાંકીને હૂંફાળું થાય ત્યારે લીસું મસળો. નાના ભાગને તેલ લગાડેલી ચાદરો વચ્ચે પાતળા ગોળ વણો.",
+        "દરેક ગોળને તેલ લગાડેલા પાતળા વેલણ કે નળી પર વીંટો, સાંધો પાણીથી ચોંટાડો; મધ્યનો પોલો ભાગ ખુલ્લો રાખીને હળવે ઉતારો.",
+        "નળીઓને મધ્યમ ગરમ નાળિયેરના તેલમાં હળવી સોનેરી અને પૂરેપૂરી કરકરી તળો. કાઢી સંપૂર્ણ ઠંડી કરી હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "કઠણ કે સૂકો લોટ વણતાં તૂટે છે; જરૂર પડે તો હૂંફાળા પાણીનાં થોડાં ટીપાં ભેળવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.cheenachatti.com/recipe/kuzhalappam/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/kuzhalappam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

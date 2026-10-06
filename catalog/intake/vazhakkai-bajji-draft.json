@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0325",
+  "id": "vazhakkai-bajji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Vazhakkai Bajji",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "raw green bananas or plantains",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 190,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 225,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel raw green bananas and slice lengthwise into evenly thin oval pieces. Hold briefly in water to prevent browning, then dry the slices thoroughly.",
+    "Whisk gram flour, rice flour, chilli, turmeric, asafoetida and salt with water into a smooth thick-flowing batter.",
+    "Heat oil to medium hot. Dip each dry banana slice in batter and let excess drip off before lowering it into the oil in small batches.",
+    "Turn when the first side sets and fry until both sides are golden, the crust is crisp and the raw banana inside is tender.",
+    "Drain well and serve hot with coconut or coriander chutney."
+  ],
+  "tips": [
+    "Dry banana slices before battering so the coating does not slip off in the oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वाज़क्कै बज्जी",
+      "ingredients": [
+        "कच्चे हरे केले",
+        "बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "हींग",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "कच्चे हरे केले छीलकर लम्बाई में बराबर पतले अंडाकार टुकड़े काटें। कालापन रोकने को थोड़ी देर पानी में रखें, फिर अच्छी तरह सुखाएँ।",
+        "बेसन, चावल का आटा, मिर्च, हल्दी, हींग और नमक को पानी से फेंटकर चिकना गाढ़ा-बहने वाला घोल बनाएँ।",
+        "तेल मध्यम गरम करें। हर सूखे केले के टुकड़े को घोल में डुबोकर अतिरिक्त घोल टपकाएँ और थोड़े-थोड़े तेल में उतारें।",
+        "पहली ओर परत जमने पर पलटें और दोनों ओर सुनहरी, परत कुरकुरी तथा भीतर कच्चा केला नरम होने तक तलें।",
+        "अच्छी तरह निथारकर नारियल या धनिया चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "घोल लगाने से पहले केले के टुकड़े सुखाएँ ताकि परत तेल में न छूटे।"
+      ]
+    },
+    "gu": {
+      "name": "વાઝક્કાઈ બજી",
+      "ingredients": [
+        "કાચાં લીલાં કેળાં",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "હિંગ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કાચાં લીલાં કેળાં છોલી લંબાઈમાં સરખી પાતળી અંડાકાર ચીરીઓ કરો. કાળા ન પડે માટે થોડી વાર પાણીમાં રાખી પછી સારી રીતે સૂકવો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, હિંગ અને મીઠું પાણીથી ફેંટીને સુંવાળું ઘટ્ટ-રેડી શકાય એવું ખીરું બનાવો.",
+        "તેલ મધ્યમ ગરમ કરો. દરેક સૂકી કેળાની ચીરી ખીરામાં ડૂબાડી વધારું ખીરું ટપકાવી થોડા થોડા ટુકડા તેલમાં મૂકો.",
+        "પહેલી બાજુનો પડ જામી જાય પછી પલટાવો અને બંને બાજુ સોનેરી, પડ કરકરો તથા અંદરનું કાચું કેળું નરમ થાય ત્યાં સુધી તળો.",
+        "સારી રીતે નિતારી નાળિયેર અથવા ધાણાની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "ખીરું લગાવતાં પહેલાં કેળાની ચીરીઓ સૂકવો જેથી પડ તેલમાં ઊતરી ન જાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/raw-banana-plantain-pakoras-bhajiya-recipe/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/vazhakkai-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

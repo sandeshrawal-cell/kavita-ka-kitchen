@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0366",
+  "id": "karela-chips",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Karela Chips",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "thin-sliced bitter gourd",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut bitter gourd into very thin rings and remove only the hard mature seeds; keep the scalloped green edges.",
+    "Rub with part of the salt and turmeric, rest until moisture gathers, then squeeze dry without crushing the rings.",
+    "Toss with chili powder, remaining salt, rice flour, gram flour and lemon juice so each slice has a thin dry coating.",
+    "Fry small batches in medium-hot oil, separating stuck rings, until bubbling slows and the edges turn crisp.",
+    "Drain on a wire rack and cool; the chips crisp further as steam escapes."
+  ],
+  "tips": [
+    "Keep the bitter gourd slices thin and dry; thick wet rings remain chewy instead of crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "करेला चिप्स",
+      "ingredients": [
+        "पतली कटी करेला फाँकें",
+        "नमक",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "चावल का आटा",
+        "बेसन",
+        "नींबू का रस",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "करेले के बहुत पतले छल्ले काटें और केवल कड़े पके बीज निकालें; लहरदार हरा किनारा रखें।",
+        "कुछ नमक और हल्दी लगाकर पानी निकलने तक रखें, फिर छल्ले तोड़े बिना निचोड़कर सुखाएँ।",
+        "मिर्च पाउडर, बचा नमक, चावल का आटा, बेसन और नींबू रस मिलाएँ ताकि हर फाँक पर पतला सूखा लेप हो।",
+        "मध्यम गरम तेल में छोटी खेप तलें, चिपके छल्ले अलग करें और बुलबुले कम तथा किनारे कुरकुरे होने तक पकाएँ।",
+        "जाली पर तेल निथारकर ठंडे करें; भाप निकलते ही चिप्स और कुरकुरे बनेंगे।"
+      ],
+      "tips": [
+        "करेले की फाँकें पतली और सूखी रखें; मोटे गीले छल्ले कुरकुरे नहीं, चबाने वाले रहते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કારેલાની ચિપ્સ",
+      "ingredients": [
+        "પાતળાં કાપેલા કારેલાં",
+        "મીઠું",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "ચોખાનો લોટ",
+        "ચણાનો લોટ",
+        "લીંબુનો રસ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કારેલાંની ખૂબ પાતળી રિંગ કાપો અને ફક્ત કડક પાકેલા બીજ કાઢો; લહેરિયું લીલું કિનારું રાખો.",
+        "થોડું મીઠું અને હળદર લગાવી પાણી છૂટે ત્યાં સુધી રાખો, પછી રિંગ તોડ્યા વિના નીચોવી સૂકવો.",
+        "મરચું પાઉડર, બાકી મીઠું, ચોખાનો લોટ, ચણાનો લોટ અને લીંબુનો રસ ભેળવો જેથી દરેક સ્લાઇસ પર પાતળો સૂકો પડ ચડે.",
+        "મધ્યમ ગરમ તેલમાં નાની ખેપ તળો, ચોંટેલી રિંગ અલગ કરો અને પરપોટા ઓછા તથા કિનારા કરકરા થાય ત્યાં સુધી રાંધો.",
+        "જાળી પર તેલ નિતારી ઠંડા કરો; વરાળ નીકળતાં ચિપ્સ વધુ કરકરી થશે."
+      ],
+      "tips": [
+        "કારેલાંની સ્લાઇસ પાતળી અને સૂકી રાખો; જાડી ભીની રિંગ કરકરી નહીં, ચાવવાની રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://blinkit.com/recipe/karela-chips/52256",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/karela-chips.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

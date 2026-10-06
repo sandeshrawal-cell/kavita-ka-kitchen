@@ -1,0 +1,114 @@
+{
+  "sourceReviewId": "R0377",
+  "id": "masala-popcorn",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Masala Popcorn",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oil in a large lidded pot over medium heat. Add three kernels; when all pop, add the remaining kernels in one layer and cover.",
+    "Shake the covered pot every few seconds until popping slows to one pop every 2–3 seconds, about 4 minutes. Immediately pour into a wide bowl.",
+    "In a small pan melt butter, fry curry leaves until crisp, then switch off the heat. Stir in chilli and turmeric for 10 seconds.",
+    "Drizzle the spiced butter over the popcorn while tossing continuously. Sprinkle salt and chaat masala in two additions for even coverage.",
+    "Remove unpopped kernels, taste a warm handful and serve at once while the popcorn is crisp."
+  ],
+  "tips": [
+    "Add dry spices only after turning off the heat; powdered chilli scorches quickly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला पॉपकॉर्न",
+      "ingredients": [
+        "पॉपकॉर्न के दाने",
+        "सादा तेल",
+        "मक्खन",
+        "करी पत्ते",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "चाट मसाला",
+        "नमक"
+      ],
+      "steps": [
+        "बड़े ढक्कन वाले बर्तन में तेल मध्यम आँच पर गरम करें। तीन दाने डालें; तीनों फूट जाएँ तो बाकी दाने एक परत में डालकर ढकें।",
+        "ढका बर्तन हर कुछ सेकंड में हिलाएँ। लगभग 4 मिनट में फूटने की आवाज़ 2–3 सेकंड में एक बार रह जाए तो तुरंत चौड़े बर्तन में निकालें।",
+        "छोटे पैन में मक्खन पिघलाएँ, करी पत्ते कुरकुरे करें, फिर आँच बंद करें। मिर्च और हल्दी 10 सेकंड मिलाएँ।",
+        "मसालेदार मक्खन पॉपकॉर्न पर लगातार उलटते हुए डालें। नमक और चाट मसाला दो बार में छिड़कें ताकि बराबर चढ़े।",
+        "बिना फूटे दाने निकालें, गरम पॉपकॉर्न चखें और कुरकुरा रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "सूखे मसाले आँच बंद करने के बाद ही डालें; पिसी मिर्च जल्दी जलती है।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા પૉપકૉર્ન",
+      "ingredients": [
+        "પૉપકૉર્નના દાણા",
+        "સાદું તેલ",
+        "માખણ",
+        "મીઠા લીમડાનાં પાન",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "ચાટ મસાલો",
+        "મીઠું"
+      ],
+      "steps": [
+        "મોટા ઢાંકણવાળા વાસણમાં તેલ મધ્યમ તાપે ગરમ કરો. ત્રણ દાણા નાખો; બધા ફૂટે પછી બાકીના દાણા એક પડમાં નાખી ઢાંકો.",
+        "ઢાંકેલું વાસણ થોડા થોડા સેકંડે હલાવો. લગભગ 4 મિનિટે 2–3 સેકંડે એક દાણો ફૂટે ત્યારે તરત પહોળા વાસણમાં કાઢો.",
+        "નાની કડાઈમાં માખણ ઓગાળો, મીઠા લીમડાનાં પાન કરકરાં કરો અને તાપ બંધ કરો. મરચું અને હળદર 10 સેકંડ ભેળવો.",
+        "મસાલાવાળું માખણ પૉપકૉર્ન પર સતત હલાવતા રેડો. મીઠું અને ચાટ મસાલો બે વખતમાં છાંટો જેથી સરખું લાગે.",
+        "ન ફૂટેલા દાણા કાઢો, ગરમ પૉપકૉર્ન ચાખો અને કરકરું હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "સૂકા મસાલા તાપ બંધ કર્યા પછી જ નાખો; મરચું પાઉડર ઝડપથી બળી જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/masala-popcorn.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

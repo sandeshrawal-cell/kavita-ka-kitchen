@@ -1,0 +1,83 @@
+{
+  "sourceReviewId": "R0385",
+  "id": "kale-chips",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kale Chips",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 23,
+  "ingredients": [
+    {
+      "name": "curly kale leaves",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 150°C. Strip kale leaves from their tough center stems and tear into broad pieces; they shrink while baking.",
+    "Wash and dry the leaves completely in a spinner or towels. Massage olive oil into every leaf with your fingers; use only a thin coating.",
+    "Spread in a single layer on two trays. Bake 12–15 minutes, rotating trays halfway, until edges are crisp but not brown.",
+    "Cool for 3 minutes, then toss with salt and paprika. Serve immediately; leaving the chips uncovered in humidity softens them."
+  ],
+  "tips": [
+    "Wet leaves steam instead of crisping, so drying is the most important step."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केल चिप्स",
+      "ingredients": [
+        "घुँघराले केल पत्ते",
+        "जैतून तेल",
+        "बारीक नमक",
+        "स्मोक्ड पपरिका"
+      ],
+      "steps": [
+        "ओवन 150°C गरम करें। केल के पत्ते सख्त बीच की डंडी से अलग कर बड़े टुकड़े करें; बेक होने पर सिकुड़ेंगे।",
+        "पत्ते धोकर स्पिनर या कपड़े से पूरी तरह सुखाएँ। उँगलियों से हर पत्ते पर जैतून तेल की बस पतली परत मलें।",
+        "दो ट्रे में एक परत में फैलाएँ। बीच में ट्रे घुमाते हुए 12–15 मिनट बेक करें; किनारे कुरकुरे हों पर भूरे न हों।",
+        "3 मिनट ठंडा करके नमक और पपरिका मिलाएँ। तुरंत परोसें; नमी में खुले रखने से नरम हो जाएँगे।"
+      ],
+      "tips": [
+        "गीले पत्ते कुरकुरे होने के बजाय भाप में पकते हैं; सुखाना सबसे ज़रूरी चरण है।"
+      ]
+    },
+    "gu": {
+      "name": "કેલ ચિપ્સ",
+      "ingredients": [
+        "વાંકડિયા કેલનાં પાન",
+        "ઑલિવ તેલ",
+        "ઝીણું મીઠું",
+        "સ્મોક્ડ પૅપ્રિકા"
+      ],
+      "steps": [
+        "ઓવન 150°C ગરમ કરો. કેલનાં પાન કડક વચ્ચેનાં ડાંઠથી અલગ કરી મોટા ટુકડા કરો; બેક થતાં સંકોચાશે.",
+        "પાન ધોઈ સ્પિનર કે કપડાથી સંપૂર્ણ સુકવો. આંગળીઓથી દરેક પાન પર ઑલિવ તેલનું માત્ર પાતળું પડ ચોપડો.",
+        "બે ટ્રેમાં એક પડમાં પાથરો. વચ્ચે ટ્રે ફેરવી 12–15 મિનિટ બેક કરો; કિનારી કરકરી થાય પણ ભૂરાં ન થાય.",
+        "3 મિનિટ ઠંડાં કરી મીઠું અને પૅપ્રિકા ભેળવો. તરત પીરસો; ભેજમાં ખુલ્લાં રાખવાથી નરમ થઈ જશે."
+      ],
+      "tips": [
+        "ભીના પાન કરકરા થવાને બદલે વરાળમાં પાકે છે; સુકવવું સૌથી જરૂરી પગલું છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kale-chips.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

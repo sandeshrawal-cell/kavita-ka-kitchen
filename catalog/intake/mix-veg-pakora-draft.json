@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R0304",
+  "id": "mix-veg-pakora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Mix Veg Pakora",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "cabbage, finely shredded",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, grated",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely sliced",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 175,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, minced",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water, as needed",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Chop cauliflower and cabbage very finely so they cook during frying. Squeeze excess moisture from the shredded vegetables.",
+    "Toss the vegetables with onion, chilli, coriander, carom and salt. Mix in both flours until all the pieces are lightly coated.",
+    "Add a little water only if needed to bind the vegetables into loose clusters; avoid a runny batter.",
+    "Drop small spoonfuls into medium-hot oil in batches. Fry while turning until the edges are deeply crisp and the vegetable centres are tender.",
+    "Drain well and serve hot with mint chutney."
+  ],
+  "tips": [
+    "Small, evenly chopped vegetables cook through before the outside browns."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मिक्स वेज पकोड़ा",
+      "ingredients": [
+        "पत्तागोभी, बारीक कटी",
+        "फूलगोभी, बारीक कटी",
+        "गाजर, कद्दूकस की हुई",
+        "प्याज़, पतला कटा",
+        "बेसन",
+        "चावल का आटा",
+        "हरी मिर्च, बारीक कटी",
+        "हरा धनिया",
+        "अजवाइन",
+        "नमक",
+        "पानी, आवश्यकतानुसार",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "फूलगोभी और पत्तागोभी बहुत बारीक काटें ताकि तलते समय पक जाएँ। कटी सब्ज़ियों का अतिरिक्त पानी निचोड़ें।",
+        "सब्ज़ियों में प्याज़, मिर्च, धनिया, अजवाइन और नमक मिलाएँ। दोनों आटे डालकर हर टुकड़े पर हल्की परत चढ़ाएँ।",
+        "केवल ज़रूरत पड़ने पर थोड़ा पानी डालें ताकि सब्ज़ियाँ ढीले गुच्छों में बँधें; पतला घोल न बनाएँ।",
+        "मध्यम गरम तेल में छोटे चम्मचभर मिश्रण के हिस्से डालें। पलट-पलटकर किनारे कुरकुरे और अंदर की सब्ज़ियाँ नरम होने तक तलें।",
+        "अच्छी तरह निथारकर पुदीना चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "समान बारीक कटी सब्ज़ियाँ बाहर सुनहरा होने से पहले भीतर पकती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "મિક્સ વેજ ભજિયા",
+      "ingredients": [
+        "કોબી, ઝીણી સમારેલી",
+        "ફૂલકોબી, ઝીણી સમારેલી",
+        "ગાજર, છીણેલું",
+        "ડુંગળી, પાતળી સમારેલી",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લીલું મરચું, ઝીણું સમારેલું",
+        "લીલા ધાણા",
+        "અજમો",
+        "મીઠું",
+        "પાણી, જરૂર મુજબ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ફૂલકોબી અને કોબી બહુ ઝીણી સમારો જેથી તળતી વખતે પાકે. સમારેલી શાકભાજીનું વધારું પાણી નીચોવો.",
+        "શાકમાં ડુંગળી, મરચું, ધાણા, અજમો અને મીઠું ભેળવો. બંને લોટ ઉમેરી દરેક ટુકડે પાતળો પડ ચડાવો.",
+        "જરૂર હોય તો જ થોડું પાણી ઉમેરો જેથી શાક ઢીલા ઝૂમખામાં બંધાય; પાતળું ખીરું ન બનાવો.",
+        "મધ્યમ ગરમ તેલમાં નાની ચમચીભર મિશ્રણની ગાંઠો મૂકો. પલટાવી કિનારી કરકરી અને અંદરનું શાક નરમ થાય ત્યાં સુધી તળો.",
+        "સારી રીતે નિતારી ફુદીનાની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "સરખી ઝીણી સમારેલી શાકભાજી બહાર સોનેરી થાય તે પહેલાં અંદર પાકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/mix-veg-pakora-recipe/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/mix-veg-pakora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

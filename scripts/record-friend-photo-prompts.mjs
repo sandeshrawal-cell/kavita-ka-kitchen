@@ -3,10 +3,11 @@ import fs from 'node:fs/promises';
 const path='catalog/generated-image-prompts.json';
 const prompts=JSON.parse(await fs.readFile(path,'utf8'));
 const intake=JSON.parse(await fs.readFile('catalog/intake/friend-dishes.json','utf8'));
+const fourthBatch=process.argv.includes('--fourth100');
 const thirdBatch=process.argv.includes('--third100');
 const secondBatch=process.argv.includes('--second100');
-if(thirdBatch&&secondBatch)throw Error('Choose one photo batch');
-const start=thirdBatch?200:secondBatch?100:0;
+if([fourthBatch,thirdBatch,secondBatch].filter(Boolean).length>1)throw Error('Choose one photo batch');
+const start=fourthBatch?300:thirdBatch?200:secondBatch?100:0;
 for(const candidate of intake.candidates.slice(start,start+100)){
  const exactPath=`catalog/intake/photos/${candidate.id}-prompt.txt`;
  let prompt,provenance;
@@ -15,7 +16,7 @@ for(const candidate of intake.candidates.slice(start,start+100)){
   prompt=`Use case: photorealistic-natural. Authentic ${candidate.name}: ${candidate.description}. Premium realistic editorial food photograph in natural daylight, whole dish visible, vegetarian and eggless, no text, no watermark.`;
   provenance='reconstructed regeneration prompt; exact original generation prompt was not retained';
  }
- prompts[candidate.id]={prompt,method:'Built-in image generation',reviewedAt:thirdBatch||secondBatch?'2026-10-05':'2026-09-27',provenance};
+ prompts[candidate.id]={prompt,method:'Built-in image generation',reviewedAt:fourthBatch?'2026-10-06':thirdBatch||secondBatch?'2026-10-05':'2026-09-27',provenance};
 }
 await fs.writeFile(path,JSON.stringify(prompts,null,2)+'\n');
 console.log('Recorded provenance for 100 generated dish photos');

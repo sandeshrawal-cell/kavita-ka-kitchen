@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R0376",
+  "id": "masala-peanuts",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Masala Peanuts",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 18,
+  "ingredients": [
+    {
+      "name": "raw peanuts, skin on",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Spread peanuts in a heavy dry pan and roast over medium-low heat for 8–10 minutes, stirring often, until the skins darken and the nuts smell toasted.",
+    "Tip onto a plate and cool for 3 minutes; this lets the centers crisp. Keep the skins on for the characteristic roasted flavor.",
+    "Heat oil in the pan, add curry leaves and cook until they stop spluttering and turn crisp, about 30 seconds. Turn the heat low.",
+    "Add the peanuts, chilli, turmeric and salt. Toss for 1–2 minutes so the spice coats the nuts without burning.",
+    "Switch off the heat, toss with chaat masala and cool completely before serving or storing airtight."
+  ],
+  "tips": [
+    "Do not pack warm peanuts; trapped steam softens the crunch."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला मूँगफली",
+      "ingredients": [
+        "कच्ची मूँगफली, छिलके सहित",
+        "सादा तेल",
+        "करी पत्ते",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "चाट मसाला",
+        "नमक"
+      ],
+      "steps": [
+        "मूँगफली को मोटे सूखे पैन में फैलाकर मध्यम-धीमी आँच पर 8–10 मिनट लगातार चलाते हुए भूनें; छिलके गहरे हों और भुनी खुशबू आए।",
+        "प्लेट पर निकालकर 3 मिनट ठंडा करें ताकि भीतर तक कुरकुरे हों। भुना स्वाद पाने के लिए छिलके रहने दें।",
+        "पैन में तेल गरम करें, करी पत्ते डालकर लगभग 30 सेकंड छींटे बंद होने और कुरकुरे होने तक पकाएँ। आँच धीमी करें।",
+        "मूँगफली, मिर्च, हल्दी और नमक डालें। 1–2 मिनट उलट-पलट करें ताकि मसाला जले बिना मूँगफली पर चढ़ जाए।",
+        "आँच बंद करके चाट मसाला मिलाएँ और परोसने या डिब्बे में बंद करने से पहले पूरी तरह ठंडा करें।"
+      ],
+      "tips": [
+        "गर्म मूँगफली बंद न करें; भाप से कुरकुरापन घटता है।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા મગફળી",
+      "ingredients": [
+        "કાચી મગફળી, છાલ સાથે",
+        "સાદું તેલ",
+        "મીઠા લીમડાનાં પાન",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "ચાટ મસાલો",
+        "મીઠું"
+      ],
+      "steps": [
+        "મગફળી જાડા સૂકા પૅનમાં પાથરી મધ્યમ-ધીમા તાપે 8–10 મિનિટ વારંવાર હલાવી શેકો; છાલ ઘેરી થાય અને શેકેલી સુગંધ આવે.",
+        "થાળીમાં કાઢી 3 મિનિટ ઠંડાં કરો જેથી અંદર સુધી કરકરાં થાય. શેકેલા સ્વાદ માટે છાલ રહેવા દો.",
+        "પૅનમાં તેલ ગરમ કરી મીઠા લીમડાનાં પાન નાખો અને લગભગ 30 સેકંડ છાંટા બંધ થઈ કરકરાં થાય ત્યાં સુધી રાંધો. તાપ ધીમો કરો.",
+        "મગફળી, મરચું, હળદર અને મીઠું નાખો. 1–2 મિનિટ હલાવો જેથી મસાલો બળ્યા વગર મગફળી પર ચડે.",
+        "તાપ બંધ કરી ચાટ મસાલો ભેળવો અને પીરસતાં કે હવાચુસ્ત ડબ્બામાં ભરતાં પહેલાં સાવ ઠંડાં કરો."
+      ],
+      "tips": [
+        "ગરમ મગફળી બંધ ન કરો; અંદરની વરાળથી કરકરાપો ઓછો થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/masala-peanuts.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

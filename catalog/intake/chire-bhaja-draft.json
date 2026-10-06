@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0373",
+  "id": "chire-bhaja",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Chire Bhaja",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "flattened rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "peanuts",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Sift the flattened rice to remove powder; dry-roast in a wide pan on low heat until light and crisp, then transfer out.",
+    "In the same pan, warm oil and fry peanuts until golden; lift out and drain.",
+    "Fry sliced green chilies and curry leaves until dry and crisp, then lower the heat and stir in turmeric.",
+    "Return the chire and peanuts, sprinkle sugar and salt and toss gently until the flakes are evenly seasoned.",
+    "Spread out to cool fully; serve as a dry tea-time snack or store airtight."
+  ],
+  "tips": [
+    "This Bengali chire bhaja is crisp and dry, unlike moist breakfast poha."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिरे भाजा",
+      "ingredients": [
+        "चिवड़ा",
+        "मूंगफली",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "वनस्पति तेल",
+        "हल्दी पाउडर",
+        "चीनी",
+        "नमक"
+      ],
+      "steps": [
+        "चिवड़ा छानकर बारीक चूरा हटाएँ; चौड़े पैन में धीमी आँच पर हल्का कुरकुरा भूनकर निकालें।",
+        "उसी पैन में तेल गरम करके मूंगफली सुनहरी तलें; निकालकर तेल निथारें।",
+        "कटी हरी मिर्च और करी पत्ते सूखे कुरकुरे होने तक तलें, फिर आँच कम कर हल्दी मिलाएँ।",
+        "चिवड़ा और मूंगफली वापस डालें, चीनी और नमक छिड़ककर धीरे मिलाएँ ताकि सब फाहों में मसाला लगे।",
+        "पूरी तरह ठंडा होने को फैलाएँ; चाय संग सूखा नाश्ता दें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "बंगाली चिरे भाजा सूखा और कुरकुरा है, नम नाश्ते वाले पोहे जैसा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ચિરે ભાજા",
+      "ingredients": [
+        "પૌંઆ",
+        "મગફળી",
+        "લીલાં મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "વનસ્પતિ તેલ",
+        "હળદર પાઉડર",
+        "ખાંડ",
+        "મીઠું"
+      ],
+      "steps": [
+        "પૌંઆ ચાળી ઝીણો ભૂકો દૂર કરો; પહોળી કડાઈમાં ધીમા તાપે હળવા કરકરા શેકી કાઢો.",
+        "એ જ કડાઈમાં તેલ ગરમ કરી મગફળી સોનેરી તળો; કાઢીને તેલ નિતારો.",
+        "કાપેલાં લીલાં મરચાં અને મીઠા લીમડાનાં પાન સૂકાં કરકરાં થાય ત્યાં સુધી તળો, પછી તાપ ઓછો કરી હળદર ભેળવો.",
+        "પૌંઆ અને મગફળી પાછાં નાખો, ખાંડ અને મીઠું છાંટી ધીમે ભેળવો જેથી બધાં પૌંઆમાં મસાલો લાગે.",
+        "સંપૂર્ણ ઠંડા થાય તે માટે ફેલાવો; ચા સાથે સૂકો નાસ્તો આપો અથવા હવાબંધ ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "બંગાળી ચિરે ભાજા સૂકું અને કરકરું છે, ભીના નાસ્તાના પૌંઆ જેવું નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.playfulcooking.com/chire-bhaja/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/chire-bhaja.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

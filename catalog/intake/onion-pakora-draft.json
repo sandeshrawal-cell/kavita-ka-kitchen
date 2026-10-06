@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R0301",
+  "id": "onion-pakora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Onion Pakora",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "onions, thinly sliced",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, minced",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves, chopped",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water, as needed",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Separate the onion slices and toss with salt, chilli, carom, turmeric and coriander. Rest until the onion releases moisture.",
+    "Mix in gram flour and rice flour. Add water only a spoonful at a time until the flour just clings to the onion; this should not be a pourable batter.",
+    "Heat oil over medium heat. Drop loose small handfuls of onion mixture into it without compressing them, leaving room around each fritter.",
+    "Turn the pakoras as the edges set and fry until deep golden, crisp and cooked through. Keep the oil at a steady medium heat.",
+    "Lift out with a slotted spoon, drain well and serve immediately with coriander chutney or hot tea."
+  ],
+  "tips": [
+    "Onion moisture should bind the coating; excess water makes heavy, oily pakoras."
+  ],
+  "translations": {
+    "hi": {
+      "name": "प्याज़ पकोड़ा",
+      "ingredients": [
+        "प्याज़, पतले कटे",
+        "बेसन",
+        "चावल का आटा",
+        "हरी मिर्च, बारीक कटी",
+        "अजवाइन",
+        "हल्दी",
+        "हरा धनिया, कटा",
+        "नमक",
+        "पानी, आवश्यकतानुसार",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "प्याज़ की परतें अलग करें और नमक, मिर्च, अजवाइन, हल्दी व धनिया मिलाएँ। प्याज़ से पानी निकलने तक रखें।",
+        "बेसन और चावल का आटा मिलाएँ। पानी थोड़ा-थोड़ा डालें ताकि आटा बस प्याज़ से चिपके; घोल बहने वाला नहीं होना चाहिए।",
+        "तेल मध्यम आँच पर गरम करें। प्याज़ के मिश्रण की छोटी ढीली मुट्ठियाँ तेल में डालें, उन्हें दबाएँ नहीं और बीच में जगह रखें।",
+        "किनारे जमने पर पकोड़े पलटें और गहरे सुनहरे, कुरकुरे तथा भीतर से पके होने तक तलें। तेल मध्यम गरम रखें।",
+        "छेद वाली कलछी से निकालकर तेल निथारें और हरी धनिया चटनी या गरम चाय के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "प्याज़ का अपना पानी ही परत बाँधे; अधिक पानी से पकोड़े भारी और तेल वाले बनते हैं।"
+      ],
+      "passiveTime": "प्याज़ से पानी निकलने के लिए 15 मिनट"
+    },
+    "gu": {
+      "name": "ડુંગળીના ભજિયા",
+      "ingredients": [
+        "ડુંગળી, પાતળી સમારેલી",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લીલું મરચું, ઝીણું સમારેલું",
+        "અજમો",
+        "હળદર",
+        "લીલા ધાણા, સમારેલા",
+        "મીઠું",
+        "પાણી, જરૂર મુજબ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ડુંગળીના પડ અલગ કરી મીઠું, મરચું, અજમો, હળદર અને ધાણા ભેળવો. ડુંગળી પાણી છોડે ત્યાં સુધી રાખો.",
+        "ચણાનો અને ચોખાનો લોટ ભેળવો. પાણી થોડું થોડું ઉમેરી લોટ ડુંગળીને માંડ ચોંટે એટલું જ રાખો; રેડી શકાય એવું ખીરું ન બનાવો.",
+        "મધ્યમ તાપે તેલ ગરમ કરો. મિશ્રણની નાની ઢીલી મૂઠીઓ દબાવ્યા વગર તેલમાં મૂકો અને વચ્ચે જગ્યા રાખો.",
+        "કિનારી જામી જાય ત્યારે ભજિયા પલટાવો અને ઘેરા સોનેરી, કરકરા તથા અંદરથી પાકે ત્યાં સુધી તળો. તેલ મધ્યમ ગરમ રાખો.",
+        "ઝારાથી કાઢી તેલ નિતારો અને લીલા ધાણાની ચટણી અથવા ગરમ ચા સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "ડુંગળીનું પોતાનું પાણી જ પડ બાંધે; વધુ પાણીથી ભજિયા ભારે અને તેલિયા થાય છે."
+      ],
+      "passiveTime": "ડુંગળી પાણી છોડે તે માટે 15 મિનિટ"
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/onion-pakoda/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/onion-pakora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "15 minutes drawing moisture from onions"
+}

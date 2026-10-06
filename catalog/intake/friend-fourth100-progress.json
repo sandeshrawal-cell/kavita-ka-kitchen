@@ -1,0 +1,808 @@
+{
+  "batch": "friend-list-fourth100",
+  "source": "Kavita_ka_Kitchen_dishes_with_batch1.xlsx",
+  "range": "R0301–R0400",
+  "publicationStatus": "published",
+  "items": [
+    {
+      "id": "onion-pakora",
+      "name": "Onion Pakora",
+      "sourceReviewId": "R0301",
+      "sourceRow": 302,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "aloo-pakora",
+      "name": "Aloo Pakora",
+      "sourceReviewId": "R0302",
+      "sourceRow": 303,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "palak-pakora",
+      "name": "Palak Pakora",
+      "sourceReviewId": "R0303",
+      "sourceRow": 304,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "mix-veg-pakora",
+      "name": "Mix Veg Pakora",
+      "sourceReviewId": "R0304",
+      "sourceRow": 305,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "dal-vada",
+      "name": "Dal Vada",
+      "sourceReviewId": "R0305",
+      "sourceRow": 306,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "moong-dal-pakodi",
+      "name": "Moong Dal Pakodi",
+      "sourceReviewId": "R0306",
+      "sourceRow": 307,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "masala-vada",
+      "name": "Masala Vada",
+      "sourceReviewId": "R0307",
+      "sourceRow": 308,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "butter-murukku",
+      "name": "Butter Murukku",
+      "sourceReviewId": "R0308",
+      "sourceRow": 309,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kara-boondi",
+      "name": "Kara Boondi",
+      "sourceReviewId": "R0309",
+      "sourceRow": 310,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "madras-mixture",
+      "name": "Madras Mixture",
+      "sourceReviewId": "R0310",
+      "sourceRow": 311,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "bhakarwadi",
+      "name": "Bhakarwadi",
+      "sourceReviewId": "R0311",
+      "sourceRow": 312,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "masala-khakhra",
+      "name": "Masala Khakhra",
+      "sourceReviewId": "R0312",
+      "sourceRow": 313,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "methi-khakhra",
+      "name": "Methi Khakhra",
+      "sourceReviewId": "R0313",
+      "sourceRow": 314,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "jeera-khakhra",
+      "name": "Jeera Khakhra",
+      "sourceReviewId": "R0314",
+      "sourceRow": 315,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "bajra-khakhra",
+      "name": "Bajra Khakhra",
+      "sourceReviewId": "R0315",
+      "sourceRow": 316,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "nylon-sev",
+      "name": "Nylon Sev",
+      "sourceReviewId": "R0316",
+      "sourceRow": 317,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "aloo-bhujia",
+      "name": "Aloo Bhujia",
+      "sourceReviewId": "R0317",
+      "sourceRow": 318,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "dal-moth",
+      "name": "Dal Moth",
+      "sourceReviewId": "R0318",
+      "sourceRow": 319,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "fulwadi",
+      "name": "Fulwadi",
+      "sourceReviewId": "R0319",
+      "sourceRow": 320,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kothimbir-vadi",
+      "name": "Kothimbir Vadi",
+      "sourceReviewId": "R0320",
+      "sourceRow": 321,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "makai-na-vada",
+      "name": "Makai na Vada",
+      "sourceReviewId": "R0321",
+      "sourceRow": 322,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "ponk-vada",
+      "name": "Ponk Vada",
+      "sourceReviewId": "R0322",
+      "sourceRow": 323,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kara-sev",
+      "name": "Kara Sev",
+      "sourceReviewId": "R0323",
+      "sourceRow": 324,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "mullu-murukku",
+      "name": "Mullu Murukku",
+      "sourceReviewId": "R0324",
+      "sourceRow": 325,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "vazhakkai-bajji",
+      "name": "Vazhakkai Bajji",
+      "sourceReviewId": "R0325",
+      "sourceRow": 326,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "doddapatre-bajji",
+      "name": "Doddapatre Bajji",
+      "sourceReviewId": "R0326",
+      "sourceRow": 327,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "ulli-vada",
+      "name": "Ulli Vada",
+      "sourceReviewId": "R0327",
+      "sourceRow": 328,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kuzhalappam",
+      "name": "Kuzhalappam",
+      "sourceReviewId": "R0328",
+      "sourceRow": 329,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "corn-pakoda",
+      "name": "Corn Pakoda",
+      "sourceReviewId": "R0329",
+      "sourceRow": 330,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "echorer-chop",
+      "name": "Echorer Chop",
+      "sourceReviewId": "R0330",
+      "sourceRow": 331,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "posto-bora",
+      "name": "Posto Bora",
+      "sourceReviewId": "R0331",
+      "sourceRow": 332,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kurdai",
+      "name": "Kurdai",
+      "sourceReviewId": "R0332",
+      "sourceRow": 333,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "chana-dal-namkeen",
+      "name": "Chana Dal Namkeen",
+      "sourceReviewId": "R0333",
+      "sourceRow": 334,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "masala-kaju",
+      "name": "Masala Kaju",
+      "sourceReviewId": "R0334",
+      "sourceRow": 335,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "paneer-manchurian",
+      "name": "Paneer Manchurian",
+      "sourceReviewId": "R0335",
+      "sourceRow": 336,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "methi-dhebra",
+      "name": "Methi Dhebra",
+      "sourceReviewId": "R0336",
+      "sourceRow": 337,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "beguni",
+      "name": "Beguni",
+      "sourceReviewId": "R0337",
+      "sourceRow": 338,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "aloo-chop",
+      "name": "Aloo Chop",
+      "sourceReviewId": "R0338",
+      "sourceRow": 339,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "phuluri",
+      "name": "Phuluri",
+      "sourceReviewId": "R0339",
+      "sourceRow": 340,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "piaji",
+      "name": "Piaji",
+      "sourceReviewId": "R0340",
+      "sourceRow": 341,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "pazham-pori",
+      "name": "Pazham Pori",
+      "sourceReviewId": "R0341",
+      "sourceRow": 342,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "parippu-vada",
+      "name": "Parippu Vada",
+      "sourceReviewId": "R0342",
+      "sourceRow": 343,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "mysore-bonda",
+      "name": "Mysore Bonda",
+      "sourceReviewId": "R0343",
+      "sourceRow": 344,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "goli-baje",
+      "name": "Goli Baje",
+      "sourceReviewId": "R0344",
+      "sourceRow": 345,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "maddur-vada",
+      "name": "Maddur Vada",
+      "sourceReviewId": "R0345",
+      "sourceRow": 346,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kuzhi-paniyaram",
+      "name": "Kuzhi Paniyaram",
+      "sourceReviewId": "R0346",
+      "sourceRow": 347,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "konkani-phodi",
+      "name": "Konkani Phodi",
+      "sourceReviewId": "R0347",
+      "sourceRow": 348,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "chura-bhuja",
+      "name": "Chura Bhuja",
+      "sourceReviewId": "R0348",
+      "sourceRow": 349,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "bhadang",
+      "name": "Bhadang",
+      "sourceReviewId": "R0349",
+      "sourceRow": 350,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "chanachur",
+      "name": "Chanachur",
+      "sourceReviewId": "R0350",
+      "sourceRow": 351,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "congress-kadlekai",
+      "name": "Congress Kadlekai",
+      "sourceReviewId": "R0351",
+      "sourceRow": 352,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "jackfruit-chips",
+      "name": "Jackfruit Chips",
+      "sourceReviewId": "R0352",
+      "sourceRow": 353,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "potato-wafers",
+      "name": "Potato Wafers",
+      "sourceReviewId": "R0353",
+      "sourceRow": 354,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "tapioca-chips",
+      "name": "Tapioca Chips",
+      "sourceReviewId": "R0354",
+      "sourceRow": 355,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "moong-dal-namkeen",
+      "name": "Moong Dal Namkeen",
+      "sourceReviewId": "R0355",
+      "sourceRow": 356,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "khatta-meetha-mixture",
+      "name": "Khatta Meetha Mixture",
+      "sourceReviewId": "R0356",
+      "sourceRow": 357,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "gobi-manchurian",
+      "name": "Gobi Manchurian",
+      "sourceReviewId": "R0357",
+      "sourceRow": 358,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "beetroot-cutlet",
+      "name": "Beetroot Cutlet",
+      "sourceReviewId": "R0358",
+      "sourceRow": 359,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "oats-tikki",
+      "name": "Oats Tikki",
+      "sourceReviewId": "R0359",
+      "sourceRow": 360,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "corn-tikki",
+      "name": "Corn Tikki",
+      "sourceReviewId": "R0360",
+      "sourceRow": 361,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "papeta-pattice",
+      "name": "Papeta Pattice",
+      "sourceReviewId": "R0361",
+      "sourceRow": 362,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "cabbage-pakoda",
+      "name": "Cabbage Pakoda",
+      "sourceReviewId": "R0362",
+      "sourceRow": 363,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "rava-vada",
+      "name": "Rava Vada",
+      "sourceReviewId": "R0363",
+      "sourceRow": 364,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "keerai-vadai",
+      "name": "Keerai Vadai",
+      "sourceReviewId": "R0364",
+      "sourceRow": 365,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "vazhaipoo-vadai",
+      "name": "Vazhaipoo Vadai",
+      "sourceReviewId": "R0365",
+      "sourceRow": 366,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "karela-chips",
+      "name": "Karela Chips",
+      "sourceReviewId": "R0366",
+      "sourceRow": 367,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "gobi-pakora",
+      "name": "Gobi Pakora",
+      "sourceReviewId": "R0367",
+      "sourceRow": 368,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "thavala-vadai",
+      "name": "Thavala Vadai",
+      "sourceReviewId": "R0368",
+      "sourceRow": 369,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kai-murukku",
+      "name": "Kai Murukku",
+      "sourceReviewId": "R0369",
+      "sourceRow": 370,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "bread-bajji",
+      "name": "Bread Bajji",
+      "sourceReviewId": "R0370",
+      "sourceRow": 371,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "tomato-bajji",
+      "name": "Tomato Bajji",
+      "sourceReviewId": "R0371",
+      "sourceRow": 372,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "capsicum-bajji",
+      "name": "Capsicum Bajji",
+      "sourceReviewId": "R0372",
+      "sourceRow": 373,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "chire-bhaja",
+      "name": "Chire Bhaja",
+      "sourceReviewId": "R0373",
+      "sourceRow": 374,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "dal-er-bora",
+      "name": "Dal er Bora",
+      "sourceReviewId": "R0374",
+      "sourceRow": 375,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "mushroom-manchurian",
+      "name": "Mushroom Manchurian",
+      "sourceReviewId": "R0375",
+      "sourceRow": 376,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "masala-peanuts",
+      "name": "Masala Peanuts",
+      "sourceReviewId": "R0376",
+      "sourceRow": 377,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "masala-popcorn",
+      "name": "Masala Popcorn",
+      "sourceReviewId": "R0377",
+      "sourceRow": 378,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries",
+      "sourceReviewId": "R0378",
+      "sourceRow": 379,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "peri-peri-fries",
+      "name": "Peri Peri Fries",
+      "sourceReviewId": "R0379",
+      "sourceRow": 380,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "pimientos-de-padron",
+      "name": "Pimientos de Padron",
+      "sourceReviewId": "R0380",
+      "sourceRow": 381,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "saganaki",
+      "name": "Saganaki",
+      "sourceReviewId": "R0381",
+      "sourceRow": 382,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "halloumi-fries",
+      "name": "Halloumi Fries",
+      "sourceReviewId": "R0382",
+      "sourceRow": 383,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame",
+      "sourceReviewId": "R0383",
+      "sourceRow": 384,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "pita-chips",
+      "name": "Pita Chips",
+      "sourceReviewId": "R0384",
+      "sourceRow": 385,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "kale-chips",
+      "name": "Kale Chips",
+      "sourceReviewId": "R0385",
+      "sourceRow": 386,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "trail-mix",
+      "name": "Trail Mix",
+      "sourceReviewId": "R0386",
+      "sourceRow": 387,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "cheese-crackers",
+      "name": "Cheese Crackers",
+      "sourceReviewId": "R0387",
+      "sourceRow": 388,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "loaded-fries",
+      "name": "Loaded Fries",
+      "sourceReviewId": "R0388",
+      "sourceRow": 389,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "curly-fries",
+      "name": "Curly Fries",
+      "sourceReviewId": "R0389",
+      "sourceRow": 390,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "panisse",
+      "name": "Panisse",
+      "sourceReviewId": "R0390",
+      "sourceRow": 391,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "fried-pickles",
+      "name": "Fried Pickles",
+      "sourceReviewId": "R0391",
+      "sourceRow": 392,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "crispy-smashed-potatoes",
+      "name": "Crispy Smashed Potatoes",
+      "sourceReviewId": "R0392",
+      "sourceRow": 393,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "yuca-fries",
+      "name": "Yuca Fries",
+      "sourceReviewId": "R0393",
+      "sourceRow": 394,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "maduros",
+      "name": "Maduros",
+      "sourceReviewId": "R0394",
+      "sourceRow": 395,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "stuffed-peppadews",
+      "name": "Stuffed Peppadews",
+      "sourceReviewId": "R0395",
+      "sourceRow": 396,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "sigara-boregi",
+      "name": "Sigara Boregi",
+      "sourceReviewId": "R0396",
+      "sourceRow": 397,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "acili-ezme",
+      "name": "Acili Ezme",
+      "sourceReviewId": "R0397",
+      "sourceRow": 398,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "haydari",
+      "name": "Haydari",
+      "sourceReviewId": "R0398",
+      "sourceRow": 399,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "tirokafteri",
+      "name": "Tirokafteri",
+      "sourceReviewId": "R0399",
+      "sourceRow": 400,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    },
+    {
+      "id": "frico",
+      "name": "Frico",
+      "sourceReviewId": "R0400",
+      "sourceRow": 401,
+      "status": "published-fourth-100-intake-batch",
+      "matches": []
+    }
+  ]
+}

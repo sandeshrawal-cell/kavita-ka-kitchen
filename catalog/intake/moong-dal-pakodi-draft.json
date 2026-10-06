@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R0306",
+  "id": "moong-dal-pakodi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Moong Dal Pakodi",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "split yellow moong dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds, coarsely crushed",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper, crushed",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water for grinding",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak moong dal until plump, then drain completely. Grind with ginger, chilli and just enough water to make a thick, nearly smooth paste.",
+    "Stir in crushed coriander, pepper, coriander leaves, asafoetida and salt. Beat the batter briskly to incorporate air; it should hold a spoonful without spreading.",
+    "Heat oil to medium hot. Drop small spoonfuls of batter carefully into the oil, leaving room for the pakodis to expand.",
+    "Turn gently and fry until puffed, golden and cooked through. Keep the heat moderate so the centre cooks without a burnt crust.",
+    "Drain thoroughly and serve hot with green or tamarind chutney."
+  ],
+  "tips": [
+    "Beating a thick moong batter is what gives pakodis their light interior."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मूंग दाल पकौड़ी",
+      "ingredients": [
+        "धुली मूंग दाल",
+        "अदरक",
+        "हरी मिर्च",
+        "साबुत धनिया, दरदरा कुटा",
+        "काली मिर्च, कुटी",
+        "हरा धनिया",
+        "हींग",
+        "नमक",
+        "पीसने के लिए पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मूंग दाल धोकर फूलने तक भिगोएँ, फिर पूरी तरह निथारें। अदरक, मिर्च और बस ज़रूरत भर पानी से गाढ़ा, लगभग चिकना पेस्ट पीसें।",
+        "कुटा धनिया, काली मिर्च, हरा धनिया, हींग और नमक मिलाएँ। हवा भरने के लिए घोल अच्छी तरह फेंटें; चम्मचभर घोल फैलना नहीं चाहिए।",
+        "तेल मध्यम गरम करें। घोल के छोटे चम्मचभर हिस्से सावधानी से तेल में डालें और फूलने की जगह रखें।",
+        "धीरे पलटते हुए फूली, सुनहरी और भीतर से पकी होने तक तलें। आँच मध्यम रखें ताकि अंदर पके और बाहर न जले।",
+        "अच्छी तरह निथारकर हरी या इमली की चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "गाढ़े मूंग घोल को फेंटने से पकौड़ियाँ भीतर से हल्की बनती हैं।"
+      ],
+      "passiveTime": "मूंग दाल भिगोने के लिए 4 घंटे"
+    },
+    "gu": {
+      "name": "મગદાળ પકોડી",
+      "ingredients": [
+        "પીળી મગની દાળ",
+        "આદુ",
+        "લીલું મરચું",
+        "ધાણા, દરદરા ભૂકેલા",
+        "કાળા મરી, ભૂકેલા",
+        "લીલા ધાણા",
+        "હિંગ",
+        "મીઠું",
+        "પીસવા માટે પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મગની દાળ ધોઈ ફૂલે ત્યાં સુધી પલાળો, પછી સંપૂર્ણ નિતારો. આદુ, મરચું અને માત્ર જરૂરી પાણીથી ઘટ્ટ, લગભગ સુંવાળી પેસ્ટ પીસો.",
+        "ભૂકેલા ધાણા, મરી, લીલા ધાણા, હિંગ અને મીઠું ભેળવો. હવા ભળે તેમ ખીરું ઝડપથી ફેંટો; ચમચીભર ખીરું ફેલાવું ન જોઈએ.",
+        "તેલ મધ્યમ ગરમ કરો. નાની ચમચીભર ખીરું સાવચેતીથી તેલમાં મૂકો અને પકોડી ફૂલે એટલી જગ્યા રાખો.",
+        "હળવેથી પલટાવી ફૂલી, સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો. અંદર પાકે અને બહાર ન બળે એવો મધ્યમ તાપ રાખો.",
+        "સારી રીતે નિતારી લીલી અથવા આમલીની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "ઘટ્ટ મગના ખીરાને ફેંટવાથી પકોડી અંદરથી હળવી બને છે."
+      ],
+      "passiveTime": "મગની દાળ પલાળવા માટે 4 કલાક"
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/moong-dal-bhajiya-pakora-recipe/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/moong-dal-pakodi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "4 hours soaking moong dal"
+}

@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0320",
+  "id": "kothimbir-vadi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kothimbir Vadi",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "fresh coriander leaves, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil for pan-frying",
+      "qty": 70,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash coriander, dry well and chop finely including tender stems. Grind chilli, ginger and garlic into a coarse paste.",
+    "Mix coriander, paste, gram flour, rice flour, turmeric, sesame and salt. Add water gradually to make a thick spreadable batter.",
+    "Spread in an oiled shallow tin and steam until a skewer comes out clean and the slab feels firm. Cool completely before cutting into even squares.",
+    "Heat a little oil in a wide pan and shallow-fry the squares on both sides until the surfaces are golden and crisp.",
+    "Drain briefly and serve warm with green chutney."
+  ],
+  "tips": [
+    "Cooling the steamed slab fully is essential for clean squares that do not crumble in the pan."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोथिंबीर वड़ी",
+      "ingredients": [
+        "हरा धनिया, कटा",
+        "बेसन",
+        "चावल का आटा",
+        "हरी मिर्च",
+        "अदरक",
+        "लहसुन",
+        "हल्दी",
+        "तिल",
+        "नमक",
+        "पानी",
+        "सेकने के लिए तेल"
+      ],
+      "steps": [
+        "धनिया धोकर अच्छी तरह सुखाएँ और नरम डंठलों सहित बारीक काटें। मिर्च, अदरक और लहसुन दरदरा पीसें।",
+        "धनिया, पेस्ट, बेसन, चावल का आटा, हल्दी, तिल और नमक मिलाएँ। पानी धीरे डालकर गाढ़ा फैलने वाला घोल बनाएँ।",
+        "तेल लगी उथली थाली में घोल फैलाकर भाप में पकाएँ, जब तक सींक साफ निकले और परत ठोस लगे। बराबर चौकोर काटने से पहले पूरी ठंडी करें।",
+        "चौड़ी कड़ाही में थोड़ा तेल गरम करें और चौकोर टुकड़ों के दोनों ओर सुनहरी कुरकुरी परत आने तक सेकें।",
+        "थोड़ा निथारकर हरी चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "भाप में पकी परत पूरी ठंडी हो तो साफ चौकोर कटते हैं और पैन में टूटते नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "કોથિંબીર વડી",
+      "ingredients": [
+        "લીલા ધાણા, સમારેલા",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લીલું મરચું",
+        "આદુ",
+        "લસણ",
+        "હળદર",
+        "તલ",
+        "મીઠું",
+        "પાણી",
+        "તવા પર શેકવા માટે તેલ"
+      ],
+      "steps": [
+        "ધાણા ધોઈ સારી રીતે સૂકવી નરમ ડાંડી સહિત ઝીણા સમારો. મરચું, આદુ અને લસણ દરદરા પીસો.",
+        "ધાણા, પેસ્ટ, ચણાનો લોટ, ચોખાનો લોટ, હળદર, તલ અને મીઠું ભેળવો. પાણી ધીરે ઉમેરી ઘટ્ટ પાથરી શકાય એવું ખીરું બનાવો.",
+        "તેલ લગાવેલી છીછરી થાળીમાં ખીરું પાથરી વરાળે પકાવો, સળી ચોખ્ખી બહાર આવે અને પડ મજબૂત લાગે ત્યાં સુધી. સમાન ચોરસ કાપતાં પહેલાં સંપૂર્ણ ઠંડું કરો.",
+        "પહોળી કડાઈમાં થોડું તેલ ગરમ કરી ચોરસ ટુકડાની બંને બાજુ સોનેરી કરકરો પડ થાય ત્યાં સુધી શેકો.",
+        "થોડું નિતારી લીલી ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "વરાળે પાકેલો પડ સંપૂર્ણ ઠંડો થાય તો સરસ ચોરસ કપાય અને તવામાં તૂટે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/kothimbir-vadi-maharashtrian-kothimbir-vadi/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/kothimbir-vadi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

@@ -1,0 +1,90 @@
+{
+  "sourceReviewId": "R0381",
+  "id": "saganaki",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Saganaki",
+  "cuisine": "Greek",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "firm Greek frying cheese",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut cheese into four thick slabs and pat completely dry. Check that the cheese is labeled vegetarian.",
+    "Lightly dampen each slab with water and coat both faces with flour, shaking off excess; the thin coating gives the characteristic crust.",
+    "Heat olive oil in a heavy skillet over medium-high heat. Sear cheese for 2–3 minutes per side until a deep golden crust forms; turn only once.",
+    "Move to warm plates immediately, grind black pepper over the top and squeeze lemon onto the hot cheese just before eating."
+  ],
+  "tips": [
+    "Use a firm cheese such as vegetarian halloumi or kefalotyri; soft paneer does not make the same melting crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सागानाकी",
+      "ingredients": [
+        "तलने योग्य सख्त यूनानी चीज़",
+        "मैदा",
+        "जैतून तेल",
+        "नींबू",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "चीज़ के चार मोटे टुकड़े काटकर पूरी तरह सुखाएँ। देख लें कि चीज़ शाकाहारी लिखा हो।",
+        "हर टुकड़े को ज़रा पानी लगाकर दोनों ओर मैदे की पतली परत चढ़ाएँ; अतिरिक्त मैदा झाड़ें। यही खास कुरकुरी सतह बनाता है।",
+        "मोटे तवे में जैतून तेल मध्यम-तेज़ आँच पर गरम करें। चीज़ हर तरफ़ 2–3 मिनट गहरी सुनहरी परत बनने तक सेंकें; केवल एक बार पलटें।",
+        "तुरंत गरम प्लेट में रखें, ऊपर काली मिर्च पीसें और खाते समय गरम चीज़ पर नींबू निचोड़ें।"
+      ],
+      "tips": [
+        "सख्त शाकाहारी हल्लूमी या केफालोटीरी लें; मुलायम पनीर से वैसी पिघली कुरकुरी परत नहीं बनेगी।"
+      ]
+    },
+    "gu": {
+      "name": "સાગાનાકી",
+      "ingredients": [
+        "તળવા યોગ્ય કડક ગ્રીક ચીઝ",
+        "મેંદો",
+        "ઑલિવ તેલ",
+        "લીંબુ",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ચીઝના ચાર જાડા ટુકડા કાપી સંપૂર્ણ સુકવો. ચીઝ પર શાકાહારી લખેલું હોય તેની ખાતરી કરો.",
+        "દરેક ટુકડો જરા પાણીથી ભીનો કરી બંને બાજુ મેંદાનું પાતળું પડ ચઢાવો; વધારાનો મેંદો ખંખેરો. આથી ખાસ કરકરી સપાટી બને છે.",
+        "જાડી કડાઈમાં ઑલિવ તેલ મધ્યમ-તેજ તાપે ગરમ કરો. ચીઝ દરેક બાજુ 2–3 મિનિટ ઘેરું સોનેરી પડ થાય ત્યાં સુધી શેકો; એક જ વાર ફેરવો.",
+        "તરત ગરમ થાળીમાં મૂકો, ઉપર કાળા મરી દળો અને ખાતાં જ ગરમ ચીઝ પર લીંબુ નીચોવો."
+      ],
+      "tips": [
+        "કડક શાકાહારી હલૂમી અથવા કેફાલોટીરી લો; નરમ પનીરથી એવી પીગળેલી કરકરી સપાટી નહીં બને."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/saganaki.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

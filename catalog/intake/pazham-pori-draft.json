@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0341",
+  "id": "pazham-pori",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Pazham Pori",
+  "cuisine": "Kerala",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 205,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel ripe but firm plantains and cut lengthwise into long even slices; avoid slices so thin that they break.",
+    "Whisk flour, rice flour, sugar, turmeric, cardamom and salt. Gradually add water for a smooth batter that clings in a thin layer.",
+    "Heat coconut oil over medium heat. Dip each plantain slice, let excess batter drip away and lower gently into the oil.",
+    "Fry in small batches, turning until each fritter is golden outside and the fruit within is soft and sweet.",
+    "Drain on a rack and serve warm with Kerala tea."
+  ],
+  "tips": [
+    "Use ripe plantain rather than raw cooking banana; ripeness gives the signature sweet soft centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पज़म पोरी",
+      "ingredients": [
+        "पके केले",
+        "मैदा",
+        "चावल का आटा",
+        "चीनी",
+        "हल्दी",
+        "पिसी इलायची",
+        "नमक",
+        "पानी",
+        "तलने का नारियल तेल"
+      ],
+      "steps": [
+        "पके मगर सख्त केले छीलकर लंबाई में लंबे बराबर टुकड़े काटें; इतने पतले न काटें कि टूटें।",
+        "मैदा, चावल का आटा, चीनी, हल्दी, इलायची और नमक फेंटें। धीरे पानी मिलाकर पतली परत में चिपकने वाला चिकना घोल बनाएँ।",
+        "नारियल तेल मध्यम आँच पर गरम करें। हर केले के टुकड़े को घोल में डुबोएँ, अतिरिक्त टपकाएँ और धीरे तेल में डालें।",
+        "थोड़े-थोड़े तलें, पलटते हुए बाहर सुनहरा और अंदर फल नरम मीठा होने तक पकाएँ।",
+        "जाली पर निकालकर केरल की चाय के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "कच्चे कुकिंग केले के बजाय पके केले लें; पकापन इसका मीठा नरम बीच देता है।"
+      ]
+    },
+    "gu": {
+      "name": "પઝમ પોરી",
+      "ingredients": [
+        "પાકાં કેળાં",
+        "મેંદો",
+        "ચોખાનો લોટ",
+        "ખાંડ",
+        "હળદર",
+        "ઈલાયચી પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે નાળિયેરનું તેલ"
+      ],
+      "steps": [
+        "પાકાં પણ મજબૂત કેળાં છોલીને લંબાઈમાં લાંબા સરખા કટકા કરો; તૂટી જાય એટલા પાતળા ન કરો.",
+        "મેંદો, ચોખાનો લોટ, ખાંડ, હળદર, ઈલાયચી અને મીઠું ફેંટો. ધીમે પાણી ઉમેરી પાતળું પડ ચોંટે એવું લીસું ખીરું બનાવો.",
+        "નાળિયેરનું તેલ મધ્યમ તાપે ગરમ કરો. દરેક કેળાના કટકાને ખીરામાં ડુબાડી વધારું ટપકવા દો અને હળવે તેલમાં નાખો.",
+        "થોડા થોડા તળો, ફેરવતાં બહાર સોનેરી અને અંદર ફળ નરમ મીઠું થાય ત્યાં સુધી રાંધો.",
+        "જાળી પર કાઢી કેરળની ચા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "કાચા રસોઈના કેળાને બદલે પાકાં કેળાં લો; પાકેલું કેળું તેનો મીઠો નરમ મધ્ય ભાગ આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/pazham-pori-recipe-ethakka-appam/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/pazham-pori.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

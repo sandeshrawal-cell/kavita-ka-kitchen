@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0369",
+  "id": "kai-murukku",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kai Murukku",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "urad dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 320,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 850,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry-roast urad dal until aromatic but still pale; cool, grind very fine and sieve to remove coarse bits.",
+    "Combine rice flour, urad flour, sesame, salt and asafoetida; rub in the measured vegetable oil until crumbly.",
+    "Add water gradually to make a soft, nonsticky dough; cover with a damp cloth so the surface does not dry.",
+    "Roll a small portion into a slender rope, twist it gently and wind it into a loose open spiral on a greased sheet.",
+    "Slide each hand-twisted spiral into medium-hot oil and fry until bubbling stops and both sides are pale golden; cool fully before storing."
+  ],
+  "tips": [
+    "Kai means hand: twisting the rope by hand gives this murukku its open braided spiral."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काई मुरुक्कू",
+      "ingredients": [
+        "चावल का आटा",
+        "उड़द दाल",
+        "सफ़ेद तिल",
+        "नमक",
+        "हींग",
+        "वनस्पति तेल",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "उड़द दाल महकने तक सूखी भूनें मगर हल्की रखें; ठंडी करके बहुत बारीक पीसें और छानें।",
+        "चावल के आटे, उड़द आटे, तिल, नमक और हींग में दिया वनस्पति तेल रगड़कर भुरभुरा करें।",
+        "पानी धीरे-धीरे डालकर नरम, बिना चिपचिपा आटा बनाएँ; सतह न सूखे इसलिए नम कपड़े से ढकें।",
+        "आटे की छोटी पतली रस्सी बेलें, हल्की मरोड़ दें और चिकनी शीट पर खुली गोल लड़ी बनाएँ।",
+        "हर हाथ से बुनी लड़ी मध्यम गरम तेल में सरकाएँ और बुलबुले थमने तथा दोनों तरफ़ हल्के सुनहरे होने तक तलें; रखरखाव से पहले पूरी ठंडी करें।"
+      ],
+      "tips": [
+        "काई का अर्थ हाथ है: हाथ से रस्सी मरोड़ने से मुरुक्कू की खुली बुनी गोल आकृति बनती है।"
+      ]
+    },
+    "gu": {
+      "name": "કાઈ મુરુક્કુ",
+      "ingredients": [
+        "ચોખાનો લોટ",
+        "અડદની દાળ",
+        "સફેદ તલ",
+        "મીઠું",
+        "હિંગ",
+        "વનસ્પતિ તેલ",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "અડદની દાળ સુગંધ આવે ત્યાં સુધી સૂકી શેકો પણ હળવી રાખો; ઠંડી કરી બહુ ઝીણી દળો અને ચાળો.",
+        "ચોખાનો લોટ, અડદનો લોટ, તલ, મીઠું અને હિંગમાં આપેલું તેલ રગડી ભૂકું કરો.",
+        "પાણી ધીમે ધીમે નાખી નરમ, ન ચોંટે એવો લોટ બનાવો; ઉપર સૂકાય નહીં તે માટે ભીના કપડાથી ઢાંકો.",
+        "લોટની નાની પાતળી દોરી વાળો, હળવી મરોડ આપો અને ચોપડેલી શીટ પર ખુલ્લી ગોળ વીંટો બનાવો.",
+        "દરેક હાથે વળેલી વીંટો મધ્યમ ગરમ તેલમાં સરકાવો અને પરપોટા બંધ થાય તથા બંને બાજુ આછા સોનેરી થાય ત્યાં સુધી તળો; ભરી રાખતાં પહેલાં પૂરી ઠંડી કરો."
+      ],
+      "tips": [
+        "કાઈનો અર્થ હાથ: હાથથી દોરી વળવાથી મુરુક્કુની ખુલ્લી વણેલી ગોળ આકૃતિ બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://indiaofthepast.org/nithya-balaji/recipes/kai-murukku",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/kai-murukku.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

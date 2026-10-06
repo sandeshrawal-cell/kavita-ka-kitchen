@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0362",
+  "id": "cabbage-pakoda",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Cabbage Pakoda",
+  "cuisine": "South Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "shredded cabbage",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slice cabbage and onion very thinly; pat dry so their moisture does not thin the batter.",
+    "Toss vegetables with gram flour, rice flour, minced chili, torn curry leaves, chili powder and salt.",
+    "Add measured water little by little only until flour clings to the shreds; leave the cabbage visible rather than making a runny batter.",
+    "Drop loose small handfuls into medium-hot oil and fry without crowding, turning until rough edges become golden and crisp.",
+    "Drain on a wire rack, not stacked paper, and serve immediately with coconut or coriander chutney."
+  ],
+  "tips": [
+    "A loose, barely moistened coating gives cabbage pakoda its lacy crispy edges."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पत्तागोभी पकौड़ा",
+      "ingredients": [
+        "पतली कटी पत्तागोभी",
+        "कटी प्याज़",
+        "बेसन",
+        "चावल का आटा",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "पत्तागोभी और प्याज़ बहुत पतली काटें; पोंछकर सुखाएँ ताकि उनका पानी घोल पतला न करे।",
+        "सब्ज़ियों में बेसन, चावल का आटा, बारीक मिर्च, टूटे करी पत्ते, मिर्च पाउडर और नमक मिलाएँ।",
+        "दिया पानी थोड़ा-थोड़ा डालें, बस आटा कतरनों से चिपक जाए; पतला घोल बनाने की जगह पत्तागोभी दिखती रहे।",
+        "मध्यम गरम तेल में छोटी ढीली मुट्ठियाँ डालें और भीड़ न करें; खुरदरे किनारे सुनहरे कुरकुरे होने तक पलटकर तलें।",
+        "एक के ऊपर एक कागज़ पर नहीं, जाली पर निथारें और नारियल या धनिया चटनी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "बस हल्का नम लेप पत्तागोभी पकौड़े को जालीदार कुरकुरे किनारे देता है।"
+      ]
+    },
+    "gu": {
+      "name": "કોબીનાં પકોડાં",
+      "ingredients": [
+        "ઝીણી સમારેલી કોબી",
+        "સમારેલી ડુંગળી",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લીલાં મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કોબી અને ડુંગળી ખૂબ પાતળી સમારો; લૂછી સૂકવો જેથી તેનો ભેજ ખીરું પાતળું ન કરે.",
+        "શાકમાં ચણાનો લોટ, ચોખાનો લોટ, ઝીણાં મરચાં, તોડેલા મીઠા લીમડાનાં પાન, મરચું પાઉડર અને મીઠું ભેળવો.",
+        "આપેલું પાણી થોડું થોડું નાખો, ફક્ત લોટ કતરાને ચોંટે એટલું; પાતળું ખીરું ન બનાવો અને કોબી દેખાતી રાખો.",
+        "મધ્યમ ગરમ તેલમાં નાની ઢીલી મુઠ્ઠીઓ નાખો અને ભીડ ન કરો; ખરબચડા કિનારા સોનેરી કરકરા થાય ત્યાં સુધી ફેરવી તળો.",
+        "એક ઉપર એક કાગળ પર નહીં, જાળી પર નિતારો અને નાળિયેર અથવા કોથમીરની ચટણી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "માત્ર થોડો ભીનો પડ કોબીના પકોડાને જાળીદાર કરકરા કિનારા આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/cabbage-pakora-recipe-cabbage-pakora/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/cabbage-pakoda.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

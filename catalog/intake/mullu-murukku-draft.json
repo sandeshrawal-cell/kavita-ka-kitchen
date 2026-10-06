@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0324",
+  "id": "mullu-murukku",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Mullu Murukku",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "fine rice flour",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "roasted urad dal flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "roasted gram flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "warm water, approximately",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sift rice, urad and roasted gram flours together. Mix in sesame, cumin, asafoetida and salt, then rub in ghee.",
+    "Add warm water gradually to form a smooth, pliable dough that can be pressed without cracking. Keep covered while shaping.",
+    "Fit the press with a star-shaped ridged plate. Press distinct thorny spirals onto small oiled squares, keeping coils slightly apart.",
+    "Slide spirals into medium-hot oil and fry in batches, turning once, until bubbling stops and each ring is evenly crisp and golden.",
+    "Drain and cool fully before stacking; serve or store airtight."
+  ],
+  "tips": [
+    "The star die gives mullu murukku its thorny ridges; a round die makes a different snack."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मुल्लू मुरुक्कु",
+      "ingredients": [
+        "बारीक चावल का आटा",
+        "भुनी उड़द दाल का आटा",
+        "भुने चने का आटा",
+        "सफेद तिल",
+        "जीरा",
+        "हींग",
+        "घी",
+        "नमक",
+        "गुनगुना पानी, लगभग",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "चावल, उड़द और भुने चने का आटा छानें। तिल, जीरा, हींग और नमक मिलाएँ, फिर घी रगड़ें।",
+        "गुनगुना पानी धीरे डालकर चिकना लचीला आटा गूँधें जो दबाने पर न फटे। आकार देते समय ढककर रखें।",
+        "प्रेस में सितारा आकार की धारदार जाली लगाएँ। तेल लगे कागज़ के छोटे टुकड़ों पर काँटेदार चक्र दबाएँ और घुमावों में थोड़ी जगह रखें।",
+        "चक्र मध्यम गरम तेल में सरकाकर थोड़े-थोड़े तलें। एक बार पलटें और बुलबुले रुककर हर चक्र सुनहरा व कुरकुरा हो जाए तब निकालें।",
+        "निथारकर पूरी तरह ठंडा करें, फिर सजाकर परोसें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "सितारा जाली से मुल्लू मुरुक्कु की काँटेदार धार बनती है; गोल जाली से अलग नाश्ता बनेगा।"
+      ]
+    },
+    "gu": {
+      "name": "મુલ્લુ મુરુક્કુ",
+      "ingredients": [
+        "ઝીણો ચોખાનો લોટ",
+        "શેકેલી અડદ દાળનો લોટ",
+        "શેકેલી ચણાદાળનો લોટ",
+        "સફેદ તલ",
+        "જીરું",
+        "હિંગ",
+        "ઘી",
+        "મીઠું",
+        "હૂંફાળું પાણી, અંદાજે",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચોખા, અડદ અને શેકેલી ચણાદાળનો લોટ ચાળો. તલ, જીરું, હિંગ અને મીઠું ભેળવી ઘી મસળો.",
+        "હૂંફાળું પાણી ધીરે ઉમેરી સુંવાળો વાળી શકાય એવો લોટ બાંધો જે દબાવતાં ન ફાટે. આકાર આપતાં ઢાંકી રાખો.",
+        "પ્રેસમાં તારાકાર ધારવાળી જાળી લગાવો. તેલ લગાવેલા નાના કાગળ પર કાંટેદાર ચકરડા પાડો અને વળાંકો વચ્ચે થોડી જગ્યા રાખો.",
+        "ચકરડાં મધ્યમ ગરમ તેલમાં સરકાવી થોડા થોડા તળો. એક વાર પલટાવો અને પરપોટા અટકે તથા દરેક ચકરડો સોનેરી અને કરકરો થાય ત્યારે કાઢો.",
+        "નિતારી સંપૂર્ણ ઠંડા કરો, પછી ગોઠવી પીરસો અથવા હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "તારાકાર જાળીથી મુલ્લુ મુરુક્કુની કાંટેદાર ધાર બને છે; ગોળ જાળીથી જુદો નાસ્તો બનશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/mullu-murukku-recipe-mullu-thenkuzhal/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/mullu-murukku.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

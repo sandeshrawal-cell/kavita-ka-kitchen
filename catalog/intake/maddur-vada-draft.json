@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0345",
+  "id": "maddur-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Maddur Vada",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "red onions, thinly sliced",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix semolina, rice flour, all-purpose flour, onion, minced chilli, curry leaves, cumin and salt. Rub together to draw moisture from onion.",
+    "Add water gradually and bring together into a stiff, rough dough; do not knead it smooth like roti dough.",
+    "Divide into small balls and flatten thinly between oiled sheets, leaving ragged onion-studded edges.",
+    "Fry in moderately hot oil, turning until both sides are richly golden and the centre has no raw flour taste.",
+    "Drain on a rack and serve warm with coconut chutney or tea."
+  ],
+  "tips": [
+    "Flatten the discs thinly; thick patties remain soft rather than developing Maddur vada’s signature snap."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मद्दूर वड़ा",
+      "ingredients": [
+        "बारीक सूजी",
+        "चावल का आटा",
+        "मैदा",
+        "लाल प्याज, पतले कटे",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "जीरा",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "सूजी, चावल का आटा, मैदा, प्याज, बारीक मिर्च, करी पत्ते, जीरा और नमक मिलाएँ। प्याज की नमी निकलने तक हाथ से मलें।",
+        "पानी धीरे-धीरे डालकर सख्त खुरदरा आटा जोड़ें; रोटी के आटे जैसा चिकना न गूँधें।",
+        "छोटे गोले तेल लगी चादरों के बीच पतले दबाएँ, प्याज वाले खुरदरे किनारे रहने दें।",
+        "मध्यम गरम तेल में पलटकर दोनों ओर गहरे सुनहरे और बीच का कच्चा आटा पकने तक तलें।",
+        "जाली पर निकालकर नारियल चटनी या चाय के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "वड़े पतले दबाएँ; मोटे वड़े मद्दूर की खास कुरकुराहट के बजाय नरम रहेंगे।"
+      ]
+    },
+    "gu": {
+      "name": "મદ્દુર વડા",
+      "ingredients": [
+        "બારીક રવો",
+        "ચોખાનો લોટ",
+        "મેંદો",
+        "લાલ ડુંગળી, પાતળી સમારેલી",
+        "લીલાં મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "જીરું",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "રવો, ચોખાનો લોટ, મેંદો, ડુંગળી, બારીક મરચાં, મીઠા લીમડાનાં પાન, જીરું અને મીઠું ભેળવો. ડુંગળીનો રસ નીકળે ત્યાં સુધી હાથથી ચોળો.",
+        "પાણી ધીમે ધીમે ઉમેરી કઠણ ખરબચડો લોટ ભેગો કરો; રોટલીના લોટ જેવો લીસો ન મસળો.",
+        "નાના લુવા તેલ લગાડેલી ચાદરો વચ્ચે પાતળા દબાવો, ડુંગળીવાળી ખરબચડી કિનારીઓ રહેવા દો.",
+        "મધ્યમ ગરમ તેલમાં ફેરવી બંને બાજુ ઘેરા સોનેરી અને મધ્યનો કાચો લોટ રંધાય ત્યાં સુધી તળો.",
+        "જાળી પર કાઢી નાળિયેરની ચટણી કે ચા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "વડા પાતળા દબાવો; જાડા વડા મદ્દુરની ખાસ કરકરી મજાને બદલે નરમ રહેશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/maddur-vada-recipe-maddur-vade/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/maddur-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

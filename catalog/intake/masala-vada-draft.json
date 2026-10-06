@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R0307",
+  "id": "masala-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Masala Vada",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "chana dal",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak chana dal until swollen. Drain completely, reserve a small handful of whole dal and coarsely pulse the rest with chillies, fennel and ginger without added water.",
+    "Mix reserved whole dal, onion, chopped curry leaves, coriander and salt into the coarse mixture. It should hold together when pressed but still show dal pieces.",
+    "Form small balls and flatten each between your palms into a thin disc with rough edges.",
+    "Fry in medium-hot oil in batches, turning after the underside is firm, until both faces are golden and the centre is fully cooked.",
+    "Drain well and serve warm with coconut chutney or tea."
+  ],
+  "tips": [
+    "A coarse grind and a few whole lentils create the distinctive crunchy masala-vada texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला वडा",
+      "ingredients": [
+        "चना दाल",
+        "प्याज़, बारीक कटा",
+        "सौंफ",
+        "सूखी लाल मिर्च",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "हरा धनिया",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "चना दाल धोकर फूलने तक भिगोएँ। पूरी तरह निथारें, थोड़ी साबुत दाल अलग रखें और बाकी को मिर्च, सौंफ व अदरक के साथ बिना पानी दरदरा पीसें।",
+        "अलग रखी दाल, प्याज़, कटा करी पत्ता, धनिया और नमक मिलाएँ। दबाने पर मिश्रण जुड़ना चाहिए, पर दाल के टुकड़े दिखें।",
+        "छोटी लोइयाँ बनाकर हथेलियों के बीच पतली, खुरदरे किनारों वाली टिक्की दबाएँ।",
+        "मध्यम गरम तेल में थोड़े-थोड़े डालें। नीचे की सतह जमने पर पलटें और दोनों ओर सुनहरे व भीतर से पके होने तक तलें।",
+        "अच्छी तरह निथारकर नारियल चटनी या चाय के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "दरदरी पिसाई और थोड़ी साबुत दाल से मसाला वड़े की खास कुरकुरी बनावट आती है।"
+      ],
+      "passiveTime": "चना दाल भिगोने के लिए 2 घंटे"
+    },
+    "gu": {
+      "name": "મસાલા વડા",
+      "ingredients": [
+        "ચણાની દાળ",
+        "ડુંગળી, ઝીણી સમારેલી",
+        "વરિયાળી",
+        "સૂકું લાલ મરચું",
+        "લીલું મરચું",
+        "આદુ",
+        "મીઠા લીમડાનાં પાન",
+        "લીલા ધાણા",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણાની દાળ ધોઈ ફૂલે ત્યાં સુધી પલાળો. પૂરેપૂરી નિતારી થોડી આખી દાળ અલગ રાખો અને બાકી દાળને મરચાં, વરિયાળી અને આદુ સાથે પાણી વગર દરદરી પીસો.",
+        "અલગ રાખેલી દાળ, ડુંગળી, સમારેલા લીમડાના પાન, ધાણા અને મીઠું ભેળવો. દબાવતાં મિશ્રણ બંધાય પણ દાળના દાણા દેખાય એવું હોવું જોઈએ.",
+        "નાની ગોળીઓ બનાવી હથેળીઓ વચ્ચે પાતળી અને ખરબચડી કિનારીવાળી ટિક્કીઓ દબાવો.",
+        "મધ્યમ ગરમ તેલમાં થોડા થોડા તળો. નીચેની બાજુ જામી જાય પછી પલટાવી બંને બાજુ સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો.",
+        "સારી રીતે નિતારી નાળિયેરની ચટણી અથવા ચા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "દરદરી પીસેલી અને થોડી આખી દાળથી મસાલા વડાનો ખાસ કરકરો ટેક્સ્ચર આવે છે."
+      ],
+      "passiveTime": "ચણાની દાળ પલાળવા માટે 2 કલાક"
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/masala-vada/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/masala-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "2 hours soaking chana dal"
+}

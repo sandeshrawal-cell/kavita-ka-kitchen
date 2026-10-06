@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0338",
+  "id": "aloo-chop",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Aloo Chop",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil potatoes until just tender, drain thoroughly and mash while warm; let steam escape so the filling becomes dry.",
+    "Mix potato with ginger, chopped chillies, cumin, a little turmeric and salt. Shape into small flattened discs and chill until firm.",
+    "Whisk gram flour, rice flour, remaining turmeric and water into a smooth medium-thick batter.",
+    "Heat mustard oil until the raw smell fades. Dip each potato disc to coat fully and fry in batches, turning until golden and crisp.",
+    "Drain well and serve hot with kasundi mustard and puffed rice if desired."
+  ],
+  "tips": [
+    "Keep the potato patties flat, not round like a bonda; that is the familiar Bengali telebhaja shape."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू चॉप",
+      "ingredients": [
+        "आलू",
+        "बेसन",
+        "चावल का आटा",
+        "कसा अदरक",
+        "हरी मिर्च",
+        "भुना जीरा",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "तलने का सरसों तेल"
+      ],
+      "steps": [
+        "आलू बस नरम होने तक उबालें, पूरा पानी निकालकर गरम ही मसलें; भाप निकलने दें ताकि भरावन सूखा हो।",
+        "आलू में अदरक, कटी मिर्च, जीरा, थोड़ी हल्दी और नमक मिलाएँ। छोटे चपटे गोले बनाकर सख्त होने तक ठंडा करें।",
+        "बेसन, चावल का आटा, बची हल्दी और पानी से मध्यम गाढ़ा चिकना घोल फेंटें।",
+        "सरसों तेल की कच्ची गंध दूर करें। हर आलू चॉप घोल में पूरी तरह लपेटकर थोड़े-थोड़े तलें और सुनहरे कुरकुरे होने तक पलटें।",
+        "अच्छी तरह तेल छानकर कसुंदी सरसों और चाहें तो मुरमुरे के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "आलू के चॉप गोल बोंडा जैसे नहीं, चपटे रखें; यही बंगाली तले नाश्ते की पहचान है।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકા ચોપ",
+      "ingredients": [
+        "બટાકા",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "છીણેલું આદુ",
+        "લીલાં મરચાં",
+        "શેકેલું જીરું",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે સરસવનું તેલ"
+      ],
+      "steps": [
+        "બટાકા માત્ર નરમ થાય ત્યાં સુધી બાફો, સંપૂર્ણ નિતારી ગરમ હોય ત્યારે મસળો; વરાળ નીકળવા દો જેથી પૂરણ સુકું થાય.",
+        "બટાકામાં આદુ, સમારેલાં મરચાં, જીરું, થોડી હળદર અને મીઠું ભેળવો. નાની ચપટી ગોળીઓ બનાવી મજબૂત થાય ત્યાં સુધી ઠંડી કરો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, બાકી હળદર અને પાણીથી મધ્યમ ઘટ્ટ લીસું ખીરું ફેંટો.",
+        "સરસવના તેલની કાચી ગંધ દૂર કરો. દરેક બટાકા ચોપ ખીરામાં સંપૂર્ણ ઢાંકી થોડા થોડા તળો અને સોનેરી કરકરા થાય ત્યાં સુધી ફેરવો.",
+        "સારી રીતે તેલ નિતારી કાસુંદી સરસવ અને ઇચ્છો તો મમરા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બટાકાના ચોપ ગોળ બોંડા જેવા નહીં, ચપટા રાખો; આ બંગાળી તળેલા નાસ્તાની ઓળખ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.yummefy.com/aloo-chop-recipe.html",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/aloo-chop.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

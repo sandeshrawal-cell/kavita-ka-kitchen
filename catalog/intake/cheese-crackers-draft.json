@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0387",
+  "id": "cheese-crackers",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Cheese Crackers",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mature cheddar, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cold butter",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rub flour, grated cheese, cold butter, salt and paprika together until the mixture resembles coarse crumbs.",
+    "Add measured cold water a little at a time and press into a firm dough. Chill 15 minutes so the crackers hold their shape.",
+    "Heat oven to 180°C. Roll dough 3 mm thin between two sheets, cut into 3 cm squares and prick each square with a fork.",
+    "Bake on lined trays for 13–16 minutes until deeply golden and dry. Cool fully on a rack; they crisp as steam escapes."
+  ],
+  "tips": [
+    "Use cheese labeled vegetarian and keep the dough cold for a flaky bite."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चीज़ क्रैकर्स",
+      "ingredients": [
+        "मैदा",
+        "कसा शाकाहारी पुराना चेडर",
+        "ठंडा मक्खन",
+        "ठंडा पानी",
+        "नमक",
+        "स्मोक्ड पपरिका"
+      ],
+      "steps": [
+        "मैदा, कसा चीज़, ठंडा मक्खन, नमक और पपरिका उँगलियों से मिलाएँ ताकि मोटे चूरे जैसा मिश्रण बने।",
+        "दिया हुआ ठंडा पानी थोड़ा-थोड़ा डालकर सख्त आटा जोड़ें। आकार बना रहे इसलिए 15 मिनट ठंडा करें।",
+        "ओवन 180°C गरम करें। दो कागज़ों के बीच आटा 3 मि.मी. पतला बेलें, 3 से.मी. चौकोर काटें और काँटे से छेद करें।",
+        "बिछी ट्रे में 13–16 मिनट गहरे सुनहरे और सूखे होने तक बेक करें। जाली पर पूरी तरह ठंडा करें; भाप निकलने पर कुरकुरे होंगे।"
+      ],
+      "tips": [
+        "शाकाहारी लिखा चीज़ लें और परतदार स्वाद के लिए आटा ठंडा रखें।"
+      ]
+    },
+    "gu": {
+      "name": "ચીઝ ક્રેકર્સ",
+      "ingredients": [
+        "મેંદો",
+        "છીણેલું શાકાહારી પાકું ચેડર",
+        "ઠંડું માખણ",
+        "ઠંડું પાણી",
+        "મીઠું",
+        "સ્મોક્ડ પૅપ્રિકા"
+      ],
+      "steps": [
+        "મેંદો, છીણેલું ચીઝ, ઠંડું માખણ, મીઠું અને પૅપ્રિકા આંગળીઓથી ભેળવી જાડા ભૂકા જેવું બનાવો.",
+        "આપેલું ઠંડું પાણી થોડું થોડું નાખી કડક લોટ બાંધો. આકાર રહે તે માટે 15 મિનિટ ઠંડો કરો.",
+        "ઓવન 180°C ગરમ કરો. બે કાગળ વચ્ચે લોટ 3 મિ.મી. પાતળો વણો, 3 સે.મી. ચોરસ કાપો અને કાંટાથી છિદ્ર કરો.",
+        "પાથરેલી ટ્રેમાં 13–16 મિનિટ ઘેરાં સોનેરી અને સૂકા થાય ત્યાં સુધી બેક કરો. જાળી પર પૂરેપૂરા ઠંડાં કરો; વરાળ નીકળતાં કરકરાં થશે."
+      ],
+      "tips": [
+        "શાકાહારી લખેલું ચીઝ વાપરો અને પડવાળી રચના માટે લોટ ઠંડો રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cheese-crackers.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

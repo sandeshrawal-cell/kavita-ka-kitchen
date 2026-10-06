@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0397",
+  "id": "acili-ezme",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Acili Ezme",
+  "cuisine": "Turkish",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate molasses",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "red pepper paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Deseed tomatoes and peppers, then chop them very finely by hand. Drain tomato juice so the ezme stays thick rather than watery.",
+    "Finely chop onion and parsley. Combine them with the tomato, bell pepper and green chilli; avoid blending into a smooth puree.",
+    "Whisk pomegranate molasses, olive oil, pepper paste, lemon juice and salt, then fold through the chopped vegetables.",
+    "Rest 10 minutes for flavors to blend, taste for sourness and heat, and serve as a thick, textured mezze with bread."
+  ],
+  "tips": [
+    "Hand chopping preserves the relish texture; a blender makes it a thin sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अजिली एज़मे",
+      "ingredients": [
+        "पके टमाटर",
+        "लाल शिमला मिर्च",
+        "हरी मिर्च",
+        "लाल प्याज़",
+        "चौड़ी पत्ती वाली पार्सले",
+        "अनार का गाढ़ा शीरा",
+        "जैतून तेल",
+        "लाल मिर्च का पेस्ट",
+        "नींबू रस",
+        "नमक"
+      ],
+      "steps": [
+        "टमाटर और मिर्च के बीज निकालकर हाथ से बहुत बारीक काटें। टमाटर का रस निथारें ताकि एज़मे गाढ़ा रहे।",
+        "प्याज़ और पार्सले बारीक काटें। टमाटर, शिमला मिर्च और हरी मिर्च से मिलाएँ; चिकना पेस्ट न बनाएँ।",
+        "अनार शीरा, जैतून तेल, मिर्च पेस्ट, नींबू रस और नमक फेंटें, फिर कटी सब्ज़ियों में मिलाएँ।",
+        "स्वाद मिलने के लिए 10 मिनट रखें, खट्टापन और तीखापन चखें और ब्रेड के साथ गाढ़े दानेदार मेज़े के रूप में परोसें।"
+      ],
+      "tips": [
+        "हाथ से काटने पर चटनी जैसी बनावट रहती है; ब्लेंडर से पतली सॉस बन जाती है।"
+      ]
+    },
+    "gu": {
+      "name": "અજિલી એઝમે",
+      "ingredients": [
+        "પાકાં ટમેટાં",
+        "લાલ કૅપ્સિકમ",
+        "લીલાં મરચાં",
+        "લાલ ડુંગળી",
+        "પહોળાં પાનવાળું પાર્સલી",
+        "દાડમનો ઘટ્ટ શીરો",
+        "ઑલિવ તેલ",
+        "લાલ મરચાંની પેસ્ટ",
+        "લીંબુનો રસ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટમેટાં અને મરચાંનાં બીજ કાઢી હાથથી ખૂબ ઝીણાં સમારો. ટમેટાનો રસ નિતારો જેથી એઝમે ઘટ્ટ રહે.",
+        "ડુંગળી અને પાર્સલી ઝીણાં સમારો. ટમેટાં, કૅપ્સિકમ અને લીલાં મરચાં સાથે ભેળવો; મસૃણ પેસ્ટ ન બનાવો.",
+        "દાડમનો શીરો, ઑલિવ તેલ, મરચાંની પેસ્ટ, લીંબુનો રસ અને મીઠું ફેંટો, પછી સમારેલા શાકમાં ભેળવો.",
+        "સ્વાદ ભળે તે માટે 10 મિનિટ રાખો, ખટાશ અને તીખાશ ચાખો અને બ્રેડ સાથે ઘટ્ટ દાણાદાર મેઝે તરીકે પીરસો."
+      ],
+      "tips": [
+        "હાથથી સમારવાથી ચટણી જેવી રચના રહે છે; બ્લેન્ડરથી પાતળી સૉસ બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/acili-ezme.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

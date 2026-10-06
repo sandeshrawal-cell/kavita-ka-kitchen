@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R0330",
+  "id": "echorer-chop",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Echorer Chop",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "raw tender jackfruit, cleaned",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger paste",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "breadcrumbs",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Oil your hands and knife before handling jackfruit. Steam the jackfruit until tender, boil potatoes separately and drain both thoroughly.",
+    "Shred the jackfruit and mash the potatoes. Cook onion, ginger and chilli in a little oil until aromatic, then add jackfruit, cumin, garam masala and salt.",
+    "Cook the filling until dry; fold in potato and cool completely. Shape into firm oval chops.",
+    "Whisk cornflour with water into a thin slurry. Dip each chop and coat all sides evenly with breadcrumbs; chill until the coating sets.",
+    "Fry in medium-hot oil in small batches until crisp and deep golden. Drain well and serve with Bengali mustard relish."
+  ],
+  "tips": [
+    "The filling must be dry and cool before shaping or the croquettes will split in oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एँचोर चॉप",
+      "ingredients": [
+        "साफ़ कच्चा कटहल",
+        "आलू",
+        "बारीक कटा लाल प्याज",
+        "अदरक पेस्ट",
+        "कटी हरी मिर्च",
+        "भुना जीरा पाउडर",
+        "गरम मसाला",
+        "ब्रेड का चूरा",
+        "कॉर्नफ्लोर",
+        "पानी",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "कटहल काटने से पहले हाथ और चाकू पर तेल लगाएँ। कटहल नरम होने तक भाप में पकाएँ, आलू अलग उबालें और दोनों का पानी पूरी तरह निकालें।",
+        "कटहल रेशा-रेशा करें और आलू मसलें। थोड़े तेल में प्याज, अदरक और मिर्च महकने तक भूनें; कटहल, जीरा, गरम मसाला और नमक मिलाएँ।",
+        "भरावन सूखने तक पकाएँ; आलू मिलाकर पूरा ठंडा करें। दबाकर अंडाकार चॉप बनाएँ।",
+        "कॉर्नफ्लोर और पानी का पतला घोल फेंटें। हर चॉप डुबोकर चारों ओर ब्रेड का चूरा लगाएँ; परत जमने तक ठंडा करें।",
+        "मध्यम गरम तेल में थोड़े-थोड़े चॉप कुरकुरे और गहरे सुनहरे तलें। अच्छी तरह छानकर बंगाली सरसों चटनी के साथ परोसें।"
+      ],
+      "tips": [
+        "आकार देने से पहले भरावन सूखा और ठंडा होना चाहिए, नहीं तो चॉप तेल में फटेंगे।"
+      ]
+    },
+    "gu": {
+      "name": "એંચોર ચોપ",
+      "ingredients": [
+        "સાફ કરેલું કાચું ફણસ",
+        "બટાકા",
+        "બારીક સમારેલી લાલ ડુંગળી",
+        "આદુની પેસ્ટ",
+        "સમારેલાં લીલાં મરચાં",
+        "શેકેલા જીરાનો પાઉડર",
+        "ગરમ મસાલો",
+        "બ્રેડનો ભૂકો",
+        "કોર્નફ્લોર",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ફણસ કાપતાં પહેલાં હાથ અને ચાકૂ પર તેલ લગાવો. ફણસ નરમ થાય ત્યાં સુધી બાફો, બટાકા અલગ બાફો અને બંનેનું પાણી સંપૂર્ણ કાઢો.",
+        "ફણસના રેસા કરો અને બટાકા મસળો. થોડા તેલમાં ડુંગળી, આદુ અને મરચાં સુગંધ આવે ત્યાં સુધી સાંતળો; ફણસ, જીરું, ગરમ મસાલો અને મીઠું ઉમેરો.",
+        "પૂરણ સુકાય ત્યાં સુધી રાંધો; બટાકા ભેળવી સંપૂર્ણ ઠંડું કરો. દબાવી અંડાકાર ચોપ બનાવો.",
+        "કોર્નફ્લોર અને પાણીનું પાતળું ખીરું ફેંટો. દરેક ચોપ ડુબાડી ચારે બાજુ બ્રેડનો ભૂકો લગાવો; પડ ચોંટે ત્યાં સુધી ઠંડું કરો.",
+        "મધ્યમ ગરમ તેલમાં થોડા થોડા ચોપ કરકરા અને ઘેરા સોનેરી તળો. સારી રીતે નિતારી બંગાળી સરસવની ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "આકાર આપતાં પહેલાં પૂરણ સુકું અને ઠંડું હોવું જોઈએ, નહીં તો ચોપ તેલમાં તૂટશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://notoutofthebox.in/2023/05/echorer-chop-jackfruit-croquettes/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/echorer-chop.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

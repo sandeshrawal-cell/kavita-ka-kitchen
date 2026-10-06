@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0382",
+  "id": "halloumi-fries",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Halloumi Fries",
+  "cuisine": "Mediterranean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 22,
+  "ingredients": [
+    {
+      "name": "vegetarian halloumi",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut halloumi into 1.5 cm thick batons and blot dry so they brown instead of steaming.",
+    "Mix flour and paprika. Roll each baton lightly in the mixture and shake away loose flour.",
+    "Heat half the oil in a wide skillet. Fry batons in batches for about 2 minutes per side until every face is golden and crisp; add the remaining oil as needed.",
+    "Drain briefly on a rack, scatter chopped parsley and serve immediately with lemon wedges while the centers are warm and springy."
+  ],
+  "tips": [
+    "Halloumi is salty, so taste before adding any extra salt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हल्लूमी फ्राइज़",
+      "ingredients": [
+        "शाकाहारी हल्लूमी चीज़",
+        "मैदा",
+        "स्मोक्ड पपरिका",
+        "जैतून तेल",
+        "नींबू",
+        "चौड़ी पत्ती वाली पार्सले"
+      ],
+      "steps": [
+        "हल्लूमी को 1.5 से.मी. मोटी लंबी कतरनों में काटकर सुखाएँ ताकि भाप में पकने के बजाय सिके।",
+        "मैदा और पपरिका मिलाएँ। हर कतरन पर हल्का लपेटें और ढीला मैदा झाड़ दें।",
+        "चौड़े तवे में आधा तेल गरम करें। कतरनें थोड़ी-थोड़ी हर तरफ़ लगभग 2 मिनट सुनहरी कुरकुरी होने तक तलें; ज़रूरत पर बचा तेल डालें।",
+        "जाली पर थोड़ी देर तेल निथारें, कटी पार्सले छिड़कें और भीतर गरम व मुलायम हों तभी नींबू के साथ परोसें।"
+      ],
+      "tips": [
+        "हल्लूमी नमकीन होता है; अतिरिक्त नमक डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "હલૂમી ફ્રાઈઝ",
+      "ingredients": [
+        "શાકાહારી હલૂમી ચીઝ",
+        "મેંદો",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "ઑલિવ તેલ",
+        "લીંબુ",
+        "પહોળાં પાનવાળું પાર્સલી"
+      ],
+      "steps": [
+        "હલૂમીને 1.5 સે.મી. જાડી લાંબી પટ્ટીઓમાં કાપી સુકવો જેથી વરાળમાં પાકવાને બદલે શેકાય.",
+        "મેંદો અને પૅપ્રિકા ભેળવો. દરેક પટ્ટીને હળવું ચોપડી ઢીલો મેંદો ખંખેરી દો.",
+        "પહોળી કડાઈમાં અડધું તેલ ગરમ કરો. પટ્ટીઓ થોડીથોડી દરેક બાજુ લગભગ 2 મિનિટ સોનેરી કરકરી થાય ત્યાં સુધી તળો; જરૂર પડે તો બાકીનું તેલ નાખો.",
+        "જાળી પર થોડી વાર તેલ નિતારો, સમારેલું પાર્સલી છાંટો અને અંદરથી ગરમ નરમ હોય ત્યારે જ લીંબુ સાથે પીરસો."
+      ],
+      "tips": [
+        "હલૂમી ખારું હોય છે; વધારાનું મીઠું નાખતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/halloumi-fries.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

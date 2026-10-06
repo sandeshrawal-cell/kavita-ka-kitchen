@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0351",
+  "id": "congress-kadlekai",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Congress Kadlekai",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "split roasted peanuts",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "Kashmiri red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "black salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 12,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Warm the split peanuts in a dry pan on low heat until crisp, then spread them on a tray to cool.",
+    "Heat the oil; fry the curry leaves until crisp. Lift them out, drain, and crumble half.",
+    "Turn off the heat and stir chili powder, turmeric and asafoetida into the warm oil for a few seconds without burning them.",
+    "Toss the peanuts with the seasoned oil, curry leaves and both salts until every piece is lightly coated.",
+    "Sprinkle lemon juice over the warm peanuts, toss once more and cool completely before storing airtight."
+  ],
+  "tips": [
+    "Bengaluru bakery-style Congress kadlekai uses split, skinless peanuts; add lemon sparingly to preserve its crunch."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कांग्रेस कडलेकाई",
+      "ingredients": [
+        "भुनी फूटी मूंगफली",
+        "करी पत्ते",
+        "वनस्पति तेल",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "हींग",
+        "काला नमक",
+        "नमक",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "फूटी मूंगफली को धीमी आँच पर सूखे पैन में कुरकुरी होने तक गरम करें, फिर थाली पर फैलाकर ठंडा करें।",
+        "तेल गरम कर करी पत्ते कुरकुरे होने तक तलें। निकालकर तेल छानें और आधे पत्ते मसलें।",
+        "आँच बंद करके गरम तेल में मिर्च पाउडर, हल्दी और हींग कुछ सेकंड मिलाएँ; मसाले न जलें।",
+        "मूंगफली में मसालेदार तेल, करी पत्ते और दोनों नमक मिलाएँ ताकि हर दाना हल्का लिपट जाए।",
+        "गरम मूंगफली पर नींबू रस छिड़कें, फिर मिलाएँ और पूरी तरह ठंडी करके बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "बेंगलुरु बेकरी जैसा कांग्रेस कडलेकाई छिलका उतरी, फूटी मूंगफली से बनता है; कुरकुरापन बचाने को नींबू थोड़ा डालें।"
+      ]
+    },
+    "gu": {
+      "name": "કૉંગ્રેસ કડલેકાઈ",
+      "ingredients": [
+        "શેકેલી ફાડેલી મગફળી",
+        "મીઠા લીમડાનાં પાન",
+        "વનસ્પતિ તેલ",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "હિંગ",
+        "સંચળ",
+        "મીઠું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ફાડેલી મગફળી ધીમા તાપે સૂકી કડાઈમાં કરકરી થાય ત્યાં સુધી ગરમ કરો, પછી થાળીમાં ફેલાવી ઠંડી કરો.",
+        "તેલ ગરમ કરી મીઠા લીમડાનાં પાન કરકરા થાય ત્યાં સુધી તળો. કાઢીને તેલ નિતારો અને અડધાં પાન ભૂકો કરો.",
+        "તાપ બંધ કરી ગરમ તેલમાં મરચું પાઉડર, હળદર અને હિંગ થોડી સેકન્ડ હલાવો; મસાલા બળે નહીં.",
+        "મગફળીમાં મસાલેદાર તેલ, મીઠા લીમડાનાં પાન અને બંને મીઠાં ભેળવો જેથી દરેક દાણા પર હળવો મસાલો ચડે.",
+        "ગરમ મગફળી પર લીંબુનો રસ છાંટો, ફરી હલાવો અને પૂરી ઠંડી થયા પછી હવાબંધ ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "બેંગલુરુ બેકરી જેવી કૉંગ્રેસ કડલેકાઈ છાલ કાઢેલી ફાડેલી મગફળીથી બને છે; કરકરાપણું જળવાય તે માટે લીંબુ ઓછું નાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.kiniskitchen.com/post/congress-kadlekayi---masala-peanuts",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/congress-kadlekai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

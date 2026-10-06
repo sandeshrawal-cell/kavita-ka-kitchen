@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0360",
+  "id": "corn-tikki",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Corn Tikki",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "sweet corn kernels",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "bread crumbs",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 55,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cook the sweet corn just until tender and drain completely; roughly crush one-third of the kernels.",
+    "Mash potatoes and mix with whole and crushed corn, half the crumbs, coriander, chili, ginger, cumin, chaat masala and salt.",
+    "Shape firm round tikkis, pressing in loose kernels; dust lightly in remaining bread crumbs.",
+    "Heat oil in a wide skillet and shallow-fry the tikkis over medium heat without crowding or moving them early.",
+    "Turn after the first side forms a crust, brown the other side and serve hot with green chutney."
+  ],
+  "tips": [
+    "The mixture should have visible corn kernels; do not puree the corn into a smooth paste."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कॉर्न टिक्की",
+      "ingredients": [
+        "मकई के मीठे दाने",
+        "उबले आलू",
+        "ब्रेड क्रम्ब्स",
+        "कटा हरा धनिया",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "चाट मसाला",
+        "नमक",
+        "वनस्पति तेल"
+      ],
+      "steps": [
+        "मकई के दाने बस नरम होने तक पकाकर पूरी तरह निथारें; एक तिहाई दाने मोटे कूटें।",
+        "आलू मसलकर साबुत व कुटी मकई, आधे क्रम्ब्स, धनिया, मिर्च, अदरक, जीरा, चाट मसाला और नमक मिलाएँ।",
+        "ढीले दाने अंदर दबाते हुए गोल सख़्त टिक्कियाँ बनाएँ; बाकी ब्रेड क्रम्ब्स हल्के चिपकाएँ।",
+        "चौड़े तवे पर तेल गरम कर टिक्कियाँ मध्यम आँच पर जगह देकर सेंकें; जल्दी न हिलाएँ।",
+        "पहली तरफ़ परत बनने पर पलटें, दूसरी तरफ़ भी भूरी करें और हरी चटनी के साथ गरम दें।"
+      ],
+      "tips": [
+        "मिश्रण में मकई के दाने दिखने चाहिए; मकई का चिकना पेस्ट न बनाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "મકાઈ ટિક્કી",
+      "ingredients": [
+        "મીઠી મકાઈના દાણા",
+        "બાફેલા બટાકા",
+        "બ્રેડનો ભૂકો",
+        "સમારેલી કોથમીર",
+        "લીલાં મરચાં",
+        "આદુ",
+        "જીરું",
+        "ચાટ મસાલો",
+        "મીઠું",
+        "વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "મકાઈના દાણા ફક્ત નરમ થાય ત્યાં સુધી રાંધી પૂરેપૂરા નિતારો; ત્રીજો ભાગ દાણા જાડા વાટો.",
+        "બટાકા મસળી આખી અને કૂટેલી મકાઈ, અડધો ભૂકો, કોથમીર, મરચાં, આદુ, જીરું, ચાટ મસાલો અને મીઠું ભેળવો.",
+        "છૂટા દાણા અંદર દબાવી ગોળ મજબૂત ટિક્કીઓ બનાવો; બાકી બ્રેડનો ભૂકો હળવો લગાવો.",
+        "પહોળા તવા પર તેલ ગરમ કરી ટિક્કીઓ મધ્યમ તાપે જગ્યા રાખી શેકો; વહેલી ન હલાવો.",
+        "પહેલી બાજુ પડ બંધાય પછી ફેરવો, બીજી બાજુ પણ ભૂરી કરો અને લીલી ચટણી સાથે ગરમ આપો."
+      ],
+      "tips": [
+        "મિશ્રણમાં મકાઈના દાણા દેખાવા જોઈએ; મકાઈની સુંવાળી પેસ્ટ ન બનાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.noonionnogarlic.com/corn-tikki",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/corn-tikki.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

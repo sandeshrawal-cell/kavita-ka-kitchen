@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0322",
+  "id": "ponk-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Ponk Vada",
+  "cuisine": "Gujarati (Surat)",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "fresh tender green sorghum grains, ponk",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water, only if needed",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pick through fresh ponk to remove husks, rinse briefly and dry well. Crush only part of it coarsely, leaving many tender grains whole.",
+    "Mix crushed and whole ponk with chilli, ginger, herbs, cumin and salt. Add gram and rice flours; use a little water only if the mixture will not bind.",
+    "Shape small, loose fritters with damp hands; do not pack them tightly or the grains lose their light texture.",
+    "Fry in medium-hot oil in batches until golden outside and hot through, turning gently as they set.",
+    "Drain thoroughly and serve at once with green chutney while the seasonal ponk remains sweet and tender."
+  ],
+  "tips": [
+    "Fresh ponk is seasonal; use tender grains, not dried mature sorghum, for the intended texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पोंक वडा",
+      "ingredients": [
+        "ताज़े नरम हरे ज्वार के दाने, पोंक",
+        "बेसन",
+        "चावल का आटा",
+        "हरी मिर्च, कटी",
+        "अदरक, कसा",
+        "हरा धनिया",
+        "पुदीना पत्ते",
+        "जीरा",
+        "नमक",
+        "पानी, केवल ज़रूरत पर",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "ताज़ा पोंक चुनकर भूसी हटाएँ, जल्दी धोएँ और अच्छी तरह सुखाएँ। केवल कुछ दाने दरदरे कूटें, बहुत से नरम दाने साबुत रखें।",
+        "कुटे और साबुत पोंक में मिर्च, अदरक, हरी पत्तियाँ, जीरा और नमक मिलाएँ। बेसन व चावल का आटा डालें; मिश्रण न बँधे तभी थोड़ा पानी डालें।",
+        "गीले हाथ से छोटे ढीले वडा बनाएँ; कसकर न दबाएँ, वरना दानों की हल्की बनावट खो जाएगी।",
+        "मध्यम गरम तेल में थोड़े-थोड़े सुनहरे और भीतर तक गरम होने तक तलें; जमने पर धीरे पलटें।",
+        "अच्छी तरह निथारकर हरी चटनी के साथ तुरंत परोसें, जब मौसमी पोंक मीठा और नरम हो।"
+      ],
+      "tips": [
+        "ताज़ा पोंक मौसमी है; सही बनावट के लिए सूखे पके ज्वार के बजाय नरम दाने लें।"
+      ]
+    },
+    "gu": {
+      "name": "પોંક વડા",
+      "ingredients": [
+        "તાજા કુમળા લીલા જુવારના દાણા, પોંક",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લીલું મરચું, સમારેલું",
+        "આદુ, છીણેલું",
+        "લીલા ધાણા",
+        "ફુદીનાનાં પાન",
+        "જીરું",
+        "મીઠું",
+        "પાણી, માત્ર જરૂર હોય તો",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "તાજો પોંક વીણી ફોતરાં દૂર કરો, ઝડપથી ધોઈ સારી રીતે સૂકવો. માત્ર થોડા દાણા દરદરા ભૂકો કરો અને ઘણા કુમળા દાણા આખા રાખો.",
+        "ભૂકેલા અને આખા પોંકમાં મરચું, આદુ, લીલાં પાન, જીરું અને મીઠું ભેળવો. ચણાનો અને ચોખાનો લોટ ઉમેરો; મિશ્રણ ન બંધાય તો જ થોડું પાણી નાખો.",
+        "ભીના હાથથી નાના ઢીલા વડા બનાવો; ચુસ્ત ન દબાવો, નહીં તો દાણાનો હળવો સ્વાદ ખોવાય.",
+        "મધ્યમ ગરમ તેલમાં થોડા થોડા બહાર સોનેરી અને અંદર ગરમ થાય ત્યાં સુધી તળો; જામી જાય પછી હળવેથી પલટાવો.",
+        "સારી રીતે નિતારી લીલી ચટણી સાથે તરત પીરસો, જ્યારે મોસમી પોંક મીઠો અને કુમળો હોય."
+      ],
+      "tips": [
+        "તાજો પોંક મોસમી છે; યોગ્ય ટેક્સ્ચર માટે સૂકા પાકેલા જુવારને બદલે કુમળા દાણા લો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.theroute2roots.com/ponk-vada-one-of-the-many-ways-of-enjoying-ponk-hurda/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/ponk-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

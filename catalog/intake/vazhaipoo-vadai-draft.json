@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0365",
+  "id": "vazhaipoo-vadai",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Vazhaipoo Vadai",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "ingredients": [
+    {
+      "name": "cleaned banana flower",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Remove the tough outer bracts and the hard stamen and plastic-like scale from each banana blossom floret; chop the tender parts finely.",
+    "Keep chopped blossom in part of the measured water with a pinch of turmeric; rinse. Soak chana dal in remaining water until plump, then drain well.",
+    "Coarsely grind most dal with chili, ginger and fennel; keep a small handful of dal whole for crunch.",
+    "Squeeze the blossom dry and fold it into the dal with onion, curry leaves, remaining turmeric and salt; shape thin patties.",
+    "Fry in medium-hot oil until both sides are deeply golden and the flower is cooked through; drain on a rack."
+  ],
+  "tips": [
+    "Removing each floret’s hard stamen and translucent scale prevents stringy, bitter bites."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वाज़हाइपू वड़ै",
+      "ingredients": [
+        "साफ़ किया केले का फूल",
+        "चना दाल",
+        "कटी प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "सौंफ",
+        "हल्दी पाउडर",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "केले के फूल की कठोर बाहरी पत्तियाँ, हर फूल का कड़ा पुंकेसर और झिल्ली निकालें; कोमल हिस्सा बारीक काटें।",
+        "कटा फूल दिए पानी में थोड़ी हल्दी के साथ रखें और धोएँ। बची पानी में चना दाल फूलने तक भिगोकर अच्छी तरह निथारें।",
+        "अधिकतर दाल को मिर्च, अदरक और सौंफ के साथ मोटा पीसें; कुरकुरेपन के लिए थोड़ी दाल साबुत रखें।",
+        "फूल निचोड़कर दाल में प्याज़, करी पत्ते, बची हल्दी और नमक संग मिलाएँ; पतली टिक्कियाँ बनाएँ।",
+        "मध्यम गरम तेल में दोनों तरफ़ गहरे सुनहरे और फूल के पूरी तरह पकने तक तलें; जाली पर निथारें।"
+      ],
+      "tips": [
+        "हर छोटे फूल का कड़ा पुंकेसर और पारदर्शी झिल्ली निकालने से रेशेदार कड़वे टुकड़े नहीं आते।"
+      ]
+    },
+    "gu": {
+      "name": "વાઝાઇપૂ વડા",
+      "ingredients": [
+        "સાફ કરેલું કેળાનું ફૂલ",
+        "ચણાની દાળ",
+        "સમારેલી ડુંગળી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "મીઠા લીમડાનાં પાન",
+        "વરિયાળી",
+        "હળદર પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કેળાના ફૂલના કડક બહારના પાંદડા, દરેક નાનાં ફૂલનો કડક પુંકેસર અને પડ કાઢો; નરમ ભાગ ઝીણો સમારો.",
+        "સમારેલું ફૂલ આપેલા પાણીમાં થોડી હળદર સાથે રાખી ધુઓ. બાકી પાણીમાં ચણાની દાળ ફૂલે ત્યાં સુધી પલાળી સારી રીતે નિતારો.",
+        "મોટાભાગની દાળ મરચાં, આદુ અને વરિયાળી સાથે જાડી વાટો; કરકરાપણા માટે થોડી દાળ આખી રાખો.",
+        "ફૂલ નીચોવી દાળમાં ડુંગળી, મીઠા લીમડાનાં પાન, બાકી હળદર અને મીઠું ભેળવો; પાતળી ટિક્કીઓ બનાવો.",
+        "મધ્યમ ગરમ તેલમાં બંને બાજુ ઘેરા સોનેરી થાય અને ફૂલ પૂરેપૂરું રંધાય ત્યાં સુધી તળો; જાળી પર નિતારો."
+      ],
+      "tips": [
+        "દરેક નાનાં ફૂલનો કડક પુંકેસર અને પારદર્શક પડ કાઢવાથી રેસાદાર કડવા કોળિયા નથી આવતા."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vidhyashomecooking.com/vaazhai-poo-vadai-crispy-banana-flower-vadai-recipe/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/vazhaipoo-vadai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

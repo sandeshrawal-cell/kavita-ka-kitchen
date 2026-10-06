@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0347",
+  "id": "konkani-phodi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Konkani Phodi",
+  "cuisine": "Konkani",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "raw green bananas",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "fine semolina",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 90,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel raw bananas and slice lengthwise into medium-thin ovals. Keep slices in water briefly, then drain and pat completely dry.",
+    "Mix tamarind with water, chilli, turmeric and salt. Rub this thin spice coating over all banana slices; rest until absorbed.",
+    "Mix rice flour and semolina on a plate. Coat both sides of every slice and shake off loose flour.",
+    "Heat a thin layer of coconut oil in a skillet. Lay slices in one layer and shallow-fry over medium heat until the undersides are reddish golden.",
+    "Turn and cook the other side until banana is tender and coating crisp. Drain and serve with dal-rice."
+  ],
+  "tips": [
+    "Do not crowd the skillet; trapped steam softens the rice-flour and semolina crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोंकणी फोड़ी",
+      "ingredients": [
+        "कच्चे हरे केले",
+        "चावल का आटा",
+        "बारीक सूजी",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "इमली का गूदा",
+        "नमक",
+        "पानी",
+        "नारियल तेल"
+      ],
+      "steps": [
+        "कच्चे केले छीलकर लंबाई में मध्यम पतले अंडाकार टुकड़े काटें। थोड़ी देर पानी में रखें, फिर छानकर पूरी तरह सुखाएँ।",
+        "इमली को पानी, मिर्च, हल्दी और नमक से मिलाएँ। यह पतला मसाला केले के टुकड़ों पर मलें; सोखने तक रखें।",
+        "थाली में चावल का आटा और सूजी मिलाएँ। हर टुकड़े के दोनों ओर लपेटें और ढीला आटा झाड़ें।",
+        "तवे में नारियल तेल की पतली परत गरम करें। टुकड़े एक परत में रखकर मध्यम आँच पर नीचे लाल-सुनहरा होने तक सेंकें।",
+        "पलटकर दूसरी ओर केला नरम और परत कुरकुरी होने तक पकाएँ। तेल छानकर दाल-चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "तवे पर भीड़ न करें; फँसी भाप चावल-सूजी की परत नरम कर देती है।"
+      ]
+    },
+    "gu": {
+      "name": "કોંકણી ફોડી",
+      "ingredients": [
+        "કાચાં લીલાં કેળાં",
+        "ચોખાનો લોટ",
+        "બારીક રવો",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "આંબલીનો માવો",
+        "મીઠું",
+        "પાણી",
+        "નાળિયેરનું તેલ"
+      ],
+      "steps": [
+        "કાચાં કેળાં છોલી લંબાઈમાં મધ્યમ પાતળા અંડાકાર કટકા કરો. થોડી વાર પાણીમાં રાખી પછી નિતારી સંપૂર્ણ સુકવો.",
+        "આંબલીને પાણી, મરચું, હળદર અને મીઠા સાથે ભેળવો. આ પાતળો મસાલો કેળાના કટકાઓ પર ચોળો; શોષાય ત્યાં સુધી રાખો.",
+        "થાળીમાં ચોખાનો લોટ અને રવો ભેળવો. દરેક કટકાની બંને બાજુ ઢાંકો અને છૂટો લોટ ઝાડો.",
+        "તવામાં નાળિયેરના તેલનો પાતળો પડ ગરમ કરો. કટકા એક પડમાં રાખી મધ્યમ તાપે તળિયું લાલસોનેરી થાય ત્યાં સુધી શેકો.",
+        "ફેરવી બીજી બાજુ કેળું નરમ અને પડ કરકરું થાય ત્યાં સુધી રાંધો. તેલ નિતારી દાળ-ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "તવામાં ભીડ ન કરો; ભરાયેલી વરાળ ચોખા-રવાના પડને નરમ કરે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.cookingwithshobana.com/2021/06/kele-phodi-raw-banana-shallow-fry.html",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/konkani-phodi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

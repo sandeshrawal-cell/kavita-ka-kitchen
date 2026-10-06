@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0374",
+  "id": "dal-er-bora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Dal er Bora",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "masoor dal",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "nigella seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse masoor dal and soak in measured water until the grains soften; drain exceptionally well.",
+    "Coarsely pulse the dal with ginger and chili so some lentil fragments remain visible; avoid adding water.",
+    "Fold in chopped onion, nigella, coriander, rice flour and salt; beat briefly by hand to bind the mixture.",
+    "Drop small irregular spoonfuls into medium-hot oil and fry in batches without crowding, turning after the bottoms set.",
+    "Fry to deep golden and crisp, drain on a rack and serve hot with kasundi or coriander chutney."
+  ],
+  "tips": [
+    "The nigella seeds supply the distinct Bengali aroma; keep the lentil paste coarse for texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दालेर बोरा",
+      "ingredients": [
+        "मसूर दाल",
+        "पानी",
+        "कटी प्याज़",
+        "हरी मिर्च",
+        "कलौंजी",
+        "कटा हरा धनिया",
+        "अदरक",
+        "चावल का आटा",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "मसूर दाल धोकर दिए पानी में दाने नरम होने तक भिगोएँ; बहुत अच्छी तरह निथारें।",
+        "दाल को अदरक और मिर्च के साथ मोटा पीसें ताकि दाल के टुकड़े दिखें; पानी न डालें।",
+        "कटी प्याज़, कलौंजी, धनिया, चावल का आटा और नमक मिलाएँ; हाथ से थोड़ी देर फेंटकर मिश्रण बाँधें।",
+        "मध्यम गरम तेल में चम्मच से छोटी बेढंगी लोइयाँ डालें; भीड़ न करें और नीचे जमने पर पलटें।",
+        "गहरा सुनहरा कुरकुरा तलें, जाली पर निथारें और कसुंदी या धनिया चटनी संग गरम परोसें।"
+      ],
+      "tips": [
+        "कलौंजी खास बंगाली सुगंध देती है; बनावट के लिए दाल का पेस्ट मोटा रखें।"
+      ]
+    },
+    "gu": {
+      "name": "દાલેર બોરા",
+      "ingredients": [
+        "મસૂરની દાળ",
+        "પાણી",
+        "સમારેલી ડુંગળી",
+        "લીલાં મરચાં",
+        "કલોંજી",
+        "સમારેલી કોથમીર",
+        "આદુ",
+        "ચોખાનો લોટ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મસૂરની દાળ ધોઈ આપેલા પાણીમાં દાણા નરમ થાય ત્યાં સુધી પલાળો; બહુ સારી રીતે નિતારો.",
+        "દાળને આદુ અને મરચાં સાથે જાડી વાટો જેથી દાળના ટુકડા દેખાય; પાણી ન નાખો.",
+        "સમારેલી ડુંગળી, કલોંજી, કોથમીર, ચોખાનો લોટ અને મીઠું ભેળવો; હાથથી થોડું ફેંટી મિશ્રણ બાંધો.",
+        "મધ્યમ ગરમ તેલમાં ચમચીથી નાના અનિયમિત ભાગ નાખો; ભીડ ન કરો અને નીચે જામે પછી ફેરવો.",
+        "ઘેરા સોનેરી કરકરા તળો, જાળી પર નિતારો અને કાસુંદી અથવા કોથમીરની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "કલોંજી ખાસ બંગાળી સુગંધ આપે છે; રચના માટે દાળની પેસ્ટ જાડી રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://nadiasmeza.com/2024/04/30/daler-bora-masoor-daler-bora/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dal-er-bora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0336",
+  "id": "methi-dhebra",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Methi Dhebra",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "pearl millet flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "whole wheat flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh fenugreek leaves, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-green chilli paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for cooking",
+      "qty": 60,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash fenugreek, dry it and chop finely; discard coarse stems. Dissolve jaggery in yogurt.",
+    "Combine both flours, fenugreek, sesame, chilli-ginger paste, turmeric and salt. Add sweetened yogurt and just enough water to make a firm pliable dough.",
+    "Rest the dough covered briefly. Divide into small balls and roll each between sheets into a moderately thick round.",
+    "Cook on a medium-hot tawa, turning and brushing lightly with oil until both sides have brown spots and the middle is cooked.",
+    "Stack under a cloth to stay soft. Serve warm with yogurt, pickle or a little butter."
+  ],
+  "tips": [
+    "Roll between sheets because millet flour cracks easily; thick dhebra stay soft rather than drying out."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मेथी ढेबरा",
+      "ingredients": [
+        "बाजरे का आटा",
+        "गेहूँ का आटा",
+        "कटी ताज़ा मेथी",
+        "सादा दही",
+        "तिल",
+        "अदरक-हरी मिर्च पेस्ट",
+        "हल्दी",
+        "गुड़",
+        "नमक",
+        "पानी",
+        "सेंकने का तेल"
+      ],
+      "steps": [
+        "मेथी धोकर सुखाएँ और बारीक काटें; मोटे डंठल हटाएँ। गुड़ दही में घोलें।",
+        "दोनों आटे, मेथी, तिल, मिर्च-अदरक पेस्ट, हल्दी और नमक मिलाएँ। गुड़ वाला दही और बस ज़रूरी पानी डालकर सख्त लचीला आटा गूँधें।",
+        "आटा कुछ देर ढककर रखें। छोटे गोले बनाकर चादरों के बीच मध्यम मोटाई के गोल बेलें।",
+        "मध्यम गरम तवे पर पलटते और हल्का तेल लगाते हुए दोनों तरफ भूरे धब्बे और बीच तक पकने तक सेंकें।",
+        "नरम रखने के लिए कपड़े में ढककर रखें। दही, अचार या थोड़ा मक्खन साथ गरम परोसें।"
+      ],
+      "tips": [
+        "बाजरे का आटा जल्दी फटता है इसलिए चादरों के बीच बेलें; थोड़ा मोटा ढेबरा नरम रहता है।"
+      ]
+    },
+    "gu": {
+      "name": "મેથી ઢેબરા",
+      "ingredients": [
+        "બાજરીનો લોટ",
+        "ઘઉંનો લોટ",
+        "સમારેલી તાજી મેથી",
+        "સાદું દહીં",
+        "તલ",
+        "આદુ-લીલા મરચાંની પેસ્ટ",
+        "હળદર",
+        "ગોળ",
+        "મીઠું",
+        "પાણી",
+        "શેકવા માટે તેલ"
+      ],
+      "steps": [
+        "મેથી ધોઈ સુકવી બારીક સમારો; જાડી દાંડીઓ કાઢો. ગોળ દહીંમાં ઓગાળો.",
+        "બંને લોટ, મેથી, તલ, મરચાં-આદુની પેસ્ટ, હળદર અને મીઠું ભેળવો. ગોળવાળું દહીં અને જરૂર પૂરતું પાણી ઉમેરી કઠણ પણ વળી શકે એવો લોટ બાંધો.",
+        "લોટ થોડી વાર ઢાંકીને રાખો. નાના લુવા બનાવી ચાદરો વચ્ચે મધ્યમ જાડાઈના ગોળ વણો.",
+        "મધ્યમ ગરમ તવા પર ફેરવતાં અને થોડું તેલ લગાવતાં બંને બાજુ ભૂરા ટપકા પડે અને મધ્ય સુધી શેકાય ત્યાં સુધી શેકો.",
+        "નરમ રહે માટે કપડાથી ઢાંકી રાખો. દહીં, અથાણું કે થોડું માખણ સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બાજરીનો લોટ સહેલાઈથી તૂટે છે એટલે ચાદરો વચ્ચે વણો; થોડું જાડું ઢેબરું નરમ રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/gujarati-methi-na-dhebra-recipe/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/methi-dhebra.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

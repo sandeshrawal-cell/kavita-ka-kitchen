@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0312",
+  "id": "masala-khakhra",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Masala Khakhra",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix wheat flour, chilli, turmeric, cumin, carom and salt until the masala is evenly distributed.",
+    "Add the measured oil and water gradually, then knead a firm, smooth dough. Cover and rest briefly so it rolls without cracking.",
+    "Divide into small balls and roll each one extremely thin and evenly round, dusting very lightly with flour only when needed.",
+    "Cook on a dry tawa over low heat. Turn repeatedly and press the whole surface with a folded cloth or khakhra press until the bread is uniformly dry, browned in spots and brittle.",
+    "Cool each khakhra separately on a rack before stacking; serve plain or store airtight once completely cold."
+  ],
+  "tips": [
+    "Press continuously on low heat; merely roasting like a roti leaves the centre soft."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला खाखरा",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "जीरा",
+        "अजवाइन",
+        "नमक",
+        "तेल",
+        "पानी"
+      ],
+      "steps": [
+        "गेहूँ के आटे में मिर्च, हल्दी, जीरा, अजवाइन और नमक बराबर मिलाएँ।",
+        "नापा तेल और पानी धीरे-धीरे डालकर कड़ा, चिकना आटा गूँधें। ढककर थोड़ी देर रखें ताकि बेलते समय न फटे।",
+        "छोटी लोइयाँ बाँटें और हर एक को बहुत पतला, बराबर गोल बेलें। केवल ज़रूरत होने पर थोड़ा सूखा आटा लगाएँ।",
+        "सूखे तवे पर धीमी आँच में सेंकें। बार-बार पलटें और मुड़े कपड़े या खाखरा प्रेस से पूरी सतह दबाएँ, जब तक हर ओर सूखा, जगह-जगह सुनहरा और भुरभुरा न हो।",
+        "हर खाखरा अलग जाली पर ठंडा करके रखें; सादा परोसें या पूरी तरह ठंडा होने पर बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "धीमी आँच पर लगातार दबाएँ; रोटी की तरह केवल सेंकने से बीच नरम रहता है।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા ખાખરા",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "જીરું",
+        "અજમો",
+        "મીઠું",
+        "તેલ",
+        "પાણી"
+      ],
+      "steps": [
+        "ઘઉંના લોટમાં મરચું, હળદર, જીરું, અજમો અને મીઠું સરખું ભેળવો.",
+        "માપેલું તેલ અને પાણી ધીમે ધીમે ઉમેરી કડક, સુંવાળો લોટ બાંધો. ઢાંકી થોડી વાર રાખો જેથી વણતાં ન ફાટે.",
+        "નાની ગોળીઓ કરી દરેકને ખૂબ પાતળી અને સરખી ગોળ વણો. જરૂર હોય ત્યારે જ થોડો સૂકો લોટ વાપરો.",
+        "સૂકા તવા પર ધીમા તાપે શેકો. વારંવાર પલટાવો અને વાળેલા કપડા અથવા ખાખરા પ્રેસથી આખી સપાટી દબાવો, બધે સૂકો, કશેક સોનેરી અને ભુરભુરો થાય ત્યાં સુધી.",
+        "દરેક ખાખરો અલગ જાળી પર ઠંડો કરો; સાદો પીરસો અથવા સંપૂર્ણ ઠંડો થયા પછી હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "ધીમા તાપે સતત દબાવો; રોટલીની જેમ માત્ર શેકવાથી વચ્ચે નરમ રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.easyvegrecipes.com/2016/05/khakhra-recipe.html",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/masala-khakhra.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

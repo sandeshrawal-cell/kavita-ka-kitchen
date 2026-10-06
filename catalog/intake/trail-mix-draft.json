@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0386",
+  "id": "trail-mix",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Trail Mix",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "raw almonds",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "raw cashews",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin seeds",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "dried cranberries",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Warm a dry heavy pan over medium-low heat. Toast almonds for 3 minutes, stirring continuously so they color evenly.",
+    "Add cashews and pumpkin seeds and toast 3–4 minutes more until the seeds pop lightly and nuts smell fragrant; do not darken the cashews.",
+    "Pour onto a wide tray, sprinkle salt and cool completely before adding the fruit; warm nuts make dried fruit sticky.",
+    "Mix in raisins and cranberries, divide into four portions and keep airtight until serving."
+  ],
+  "tips": [
+    "Check dried fruit labels for added sugar if you want a less sweet mix."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ट्रेल मिक्स",
+      "ingredients": [
+        "कच्चे बादाम",
+        "कच्चे काजू",
+        "कद्दू के बीज",
+        "किशमिश",
+        "सूखी क्रैनबेरी",
+        "बारीक नमक"
+      ],
+      "steps": [
+        "सूखा मोटा पैन मध्यम-धीमी आँच पर गरम करें। बादाम 3 मिनट लगातार चलाते हुए बराबर भूनें।",
+        "काजू और कद्दू के बीज डालकर 3–4 मिनट और भूनें; बीज हल्के चटकें और मेवे महकें, काजू गहरे न हों।",
+        "चौड़ी ट्रे में निकालकर नमक छिड़कें और फल मिलाने से पहले पूरा ठंडा करें; गरम मेवों से सूखे फल चिपचिपे हो जाते हैं।",
+        "किशमिश और क्रैनबेरी मिलाएँ, चार भाग करें और परोसने तक बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "कम मीठा मिश्रण चाहिए तो सूखे फलों में मिली चीनी का लेबल जाँचें।"
+      ]
+    },
+    "gu": {
+      "name": "ટ્રેઇલ મિક્સ",
+      "ingredients": [
+        "કાચા બદામ",
+        "કાચા કાજુ",
+        "કોળાનાં બીજ",
+        "કિસમિસ",
+        "સૂકી ક્રૅનબેરી",
+        "ઝીણું મીઠું"
+      ],
+      "steps": [
+        "સૂકી જાડી કડાઈ મધ્યમ-ધીમા તાપે ગરમ કરો. બદામ 3 મિનિટ સતત હલાવી સરખા શેકો.",
+        "કાજુ અને કોળાનાં બીજ નાખી 3–4 મિનિટ વધુ શેકો; બીજ હળવાં તડકે અને સુગંધ આવે, કાજુ ઘેરાં ન થાય.",
+        "પહોળી ટ્રેમાં કાઢી મીઠું છાંટો અને ફળ ભેળવતાં પહેલાં પૂરેપૂરું ઠંડું કરો; ગરમ મેવા સૂકાં ફળ ચીકણાં કરે છે.",
+        "કિસમિસ અને ક્રૅનબેરી ભેળવો, ચાર ભાગ કરો અને પીરસતાં સુધી હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "ઓછું ગળ્યું મિશ્રણ જોઈએ તો સૂકાં ફળમાં ઉમેરેલી ખાંડનું લેબલ તપાસો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/trail-mix.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

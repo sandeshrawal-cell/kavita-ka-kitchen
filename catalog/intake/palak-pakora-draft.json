@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0303",
+  "id": "palak-pakora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Palak Pakora",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "large spinach leaves",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash spinach thoroughly, keep the leaves whole, trim thick stems and dry each leaf completely.",
+    "Whisk gram flour, rice flour, carom, chilli, turmeric and salt with water into a smooth medium-thick batter.",
+    "Heat oil over medium heat. Coat one leaf at a time in a thin layer of batter and gently lower it into the oil, without crowding.",
+    "Turn after the batter sets and fry until the leaf-shaped pakoras are crisp and golden on both sides.",
+    "Drain on a rack and serve promptly with tamarind or green chutney."
+  ],
+  "tips": [
+    "Dry leaves prevent splattering and help the light batter adhere evenly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पालक पकोड़ा",
+      "ingredients": [
+        "पालक के बड़े पत्ते",
+        "बेसन",
+        "चावल का आटा",
+        "अजवाइन",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "पालक अच्छी तरह धोएँ, पत्ते साबुत रखें, मोटी डंडी हटाएँ और हर पत्ता पूरी तरह सुखाएँ।",
+        "बेसन, चावल का आटा, अजवाइन, मिर्च, हल्दी और नमक को पानी के साथ फेंटकर चिकना मध्यम गाढ़ा घोल बनाएँ।",
+        "तेल मध्यम आँच पर गरम करें। एक-एक पत्ते पर घोल की पतली परत चढ़ाकर धीरे से तेल में डालें; कड़ाही न भरें।",
+        "घोल जमने पर पलटें और पत्ते के आकार के पकोड़े दोनों ओर से सुनहरे व कुरकुरे होने तक तलें।",
+        "जाली पर निथारें और इमली या हरी चटनी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "सूखे पत्तों पर घोल बराबर चढ़ता है और तलते समय तेल नहीं उछलता।"
+      ]
+    },
+    "gu": {
+      "name": "પાલકના ભજિયા",
+      "ingredients": [
+        "પાલકનાં મોટા પાન",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "અજમો",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "પાલક સારી રીતે ધોઈ પાન આખાં રાખો, જાડી દાંડી દૂર કરો અને દરેક પાન સંપૂર્ણ સૂકવો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, અજમો, મરચું, હળદર અને મીઠું પાણી સાથે ફેંટીને મધ્યમ ઘટ્ટ સુંવાળું ખીરું બનાવો.",
+        "તેલ મધ્યમ તાપે ગરમ કરો. એક એક પાન પર ખીરાનો પાતળો પડ ચઢાવી ધીમેથી તેલમાં મૂકો; કડાઈ ભરશો નહીં.",
+        "પડ જામી જાય ત્યારે પલટાવો અને પાનના આકારના ભજિયા બંને બાજુ સોનેરી અને કરકરા થાય ત્યાં સુધી તળો.",
+        "જાળી પર નિતારો અને આમલી અથવા લીલી ચટણી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "સૂકા પાન પર ખીરું સરખું ચડે છે અને તળતી વખતે તેલ ઊછળતું નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/palak-chaat-or-spinach-chaat/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/palak-pakora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

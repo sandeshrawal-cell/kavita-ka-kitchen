@@ -1,0 +1,83 @@
+{
+  "sourceReviewId": "R0394",
+  "id": "maduros",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Maduros",
+  "cuisine": "Latin American",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 18,
+  "ingredients": [
+    {
+      "name": "very ripe plantains",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lime",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Choose plantains with mostly black, soft skins. Slit the peel lengthwise and remove it; cut the fruit into thick diagonal slices.",
+    "Warm oil in a wide skillet over medium heat. Lay slices in one layer with space between them.",
+    "Cook 3–4 minutes per side until dark caramel-gold on the outside and soft inside, lowering heat if sugars brown too quickly.",
+    "Drain briefly, add a small pinch of salt and serve warm with lime wedges."
+  ],
+  "tips": [
+    "Green plantains will not become sweet maduros; wait until the peel is heavily spotted black."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मादुरोस",
+      "ingredients": [
+        "बहुत पके प्लांटेन केले",
+        "सादा तेल",
+        "नमक",
+        "नींबू"
+      ],
+      "steps": [
+        "ज़्यादातर काले नरम छिलके वाले प्लांटेन लें। लंबाई में चीरा लगाकर छीलें और मोटी तिरछी फाँकें काटें।",
+        "चौड़े तवे में तेल मध्यम आँच पर गरम करें। फाँकें जगह छोड़कर एक परत में रखें।",
+        "हर तरफ़ 3–4 मिनट बाहर गहरे कैरामेल सुनहरे और भीतर नरम होने तक पकाएँ; चीनी जल्दी भूरी हो तो आँच घटाएँ।",
+        "थोड़ी देर तेल निथारें, चुटकी भर नमक डालें और नींबू के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "हरे प्लांटेन मीठे मादुरोस नहीं बनेंगे; छिलके पर खूब काले धब्बे आने दें।"
+      ]
+    },
+    "gu": {
+      "name": "માદુરોસ",
+      "ingredients": [
+        "ખૂબ પાકેલા પ્લાન્ટેન કેળાં",
+        "સાદું તેલ",
+        "મીઠું",
+        "લીંબુ"
+      ],
+      "steps": [
+        "મોટે ભાગે કાળી નરમ છાલવાળા પ્લાન્ટેન લો. લંબાઈમાં ચીરો પાડી છોલો અને જાડી ત્રાંસી ચીરીઓ કાપો.",
+        "પહોળી કડાઈમાં તેલ મધ્યમ તાપે ગરમ કરો. ચીરીઓ વચ્ચે જગ્યા રાખી એક પડમાં મૂકો.",
+        "દરેક બાજુ 3–4 મિનિટ બહાર ઘેરાં કેરેમલ સોનેરી અને અંદર નરમ થાય ત્યાં સુધી રાંધો; ખાંડ ઝડપથી ભૂરી થાય તો તાપ ઘટાડો.",
+        "થોડી વાર તેલ નિતારો, ચપટી મીઠું નાખી લીંબુ સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "લીલા પ્લાન્ટેન મીઠાં માદુરોસ નહીં બને; છાલ પર ઘણા કાળા ડાઘ પડે ત્યાં સુધી રાહ જુઓ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/maduros.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

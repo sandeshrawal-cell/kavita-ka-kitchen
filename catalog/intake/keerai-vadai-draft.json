@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0364",
+  "id": "keerai-vadai",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Keerai Vadai",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "chana dal",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "chopped spinach",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 850,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak chana dal in the measured water until swollen; drain very well and reserve a small handful whole.",
+    "Pulse the remaining dal with chili, ginger and fennel into a coarse crumbly paste, adding no more water.",
+    "Mix in dry chopped spinach, onion, curry leaves, reserved dal and salt; squeeze lightly to bind.",
+    "Flatten small portions into thin discs and fry in medium-hot oil, turning once the underside has set.",
+    "Cook until deep golden, crisp at the rim and no longer damp in the center; drain and serve hot."
+  ],
+  "tips": [
+    "Dry the spinach well after washing; excess water makes the lentil vadai heavy and oily."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कीरै वड़ै",
+      "ingredients": [
+        "चना दाल",
+        "कटी पालक",
+        "कटी प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "सौंफ",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "चना दाल धोकर दिए पानी में फूलने तक भिगोएँ; अच्छी तरह निथारें और थोड़ी साबुत अलग रखें।",
+        "बची दाल को मिर्च, अदरक और सौंफ के साथ मोटा भुरभुरा पीसें; और पानी न डालें।",
+        "सूखी कटी पालक, प्याज़, करी पत्ते, अलग रखी दाल और नमक मिलाएँ; हल्का दबाकर बाँधें।",
+        "छोटी मात्रा की पतली चपटी टिक्कियाँ बनाकर मध्यम गरम तेल में तलें; नीचे की परत जमने पर पलटें।",
+        "गहरे सुनहरे, किनारों पर कुरकुरे और बीच में बिना गीले रहने तक पकाएँ; निथारकर गरम दें।"
+      ],
+      "tips": [
+        "धोने के बाद पालक अच्छी तरह सुखाएँ; अधिक पानी से दाल वड़ा भारी और तेलदार बनता है।"
+      ]
+    },
+    "gu": {
+      "name": "કીરાઈ વડા",
+      "ingredients": [
+        "ચણાની દાળ",
+        "સમારેલી પાલક",
+        "સમારેલી ડુંગળી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "મીઠા લીમડાનાં પાન",
+        "વરિયાળી",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણાની દાળ ધોઈ આપેલા પાણીમાં ફૂલે ત્યાં સુધી પલાળો; બરાબર નિતારો અને થોડી આખી અલગ રાખો.",
+        "બાકી દાળને મરચાં, આદુ અને વરિયાળી સાથે જાડી ભૂકી જેવી વાટો; વધુ પાણી ન નાખો.",
+        "સૂકી સમારેલી પાલક, ડુંગળી, મીઠા લીમડાનાં પાન, રાખેલી દાળ અને મીઠું ભેળવો; હળવું દબાવી બાંધો.",
+        "નાનાં ભાગની પાતળી ચપટી ટિક્કીઓ બનાવી મધ્યમ ગરમ તેલમાં તળો; નીચેનો પડ જામે પછી ફેરવો.",
+        "ઘેરા સોનેરી, ધારથી કરકરા અને વચ્ચે ભીનાશ ન રહે ત્યાં સુધી રાંધો; નિતારીને ગરમ આપો."
+      ],
+      "tips": [
+        "ધોયા પછી પાલક સારી રીતે સૂકવો; વધારે પાણીથી દાળના વડા ભારે અને તેલિયા બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.cookdtv.com/recipes/keerai-vadai",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/keerai-vadai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

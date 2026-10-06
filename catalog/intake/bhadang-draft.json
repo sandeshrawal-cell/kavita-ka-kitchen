@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0349",
+  "id": "bhadang",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Bhadang",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "puffed rice",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, thinly sliced",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "peanut oil",
+      "qty": 85,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Warm puffed rice in a dry wide pan over low heat until crisp. Transfer to a large bowl without crushing it.",
+    "Heat peanut oil; roast peanuts until crisp and remove. In the same oil fry sliced garlic slowly until golden, then crisp curry leaves.",
+    "Turn heat low and stir chilli powder, turmeric, sugar and salt into the fragrant oil for only a moment.",
+    "Pour spiced oil over puffed rice, add peanuts and toss with two spoons until all grains are evenly reddish and glossy.",
+    "Cool completely to regain crunch and store airtight; serve as a dry Kolhapuri snack."
+  ],
+  "tips": [
+    "Add chilli on low heat so it colours the rice without scorching and tasting bitter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भडंग",
+      "ingredients": [
+        "मुरमुरे",
+        "कच्ची मूँगफली",
+        "पतला कटा लहसुन",
+        "करी पत्ते",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "चीनी",
+        "नमक",
+        "मूँगफली तेल"
+      ],
+      "steps": [
+        "मुरमुरे चौड़े सूखे पैन में धीमी आँच पर कुरकुरे करें। बिना तोड़े बड़े कटोरे में निकालें।",
+        "मूँगफली तेल गरम करके दाने कुरकुरे भूनकर निकालें। उसी तेल में लहसुन की फाँकें धीरे सुनहरी करें, फिर करी पत्ते कुरकुरे करें।",
+        "आँच धीमी करके महकते तेल में मिर्च पाउडर, हल्दी, चीनी और नमक बस पलभर मिलाएँ।",
+        "मसालेदार तेल मुरमुरों पर डालें, मूँगफली मिलाएँ और दो चम्मच से चलाएँ ताकि सारे दाने बराबर लाल और चमकदार हों।",
+        "पूरा ठंडा करके फिर कुरकुरा होने दें और बंद डिब्बे में रखें; सूखे कोल्हापुरी नाश्ते की तरह परोसें।"
+      ],
+      "tips": [
+        "मिर्च धीमी आँच पर डालें ताकि मुरमुरों में रंग आए पर जलकर कड़वी न हो।"
+      ]
+    },
+    "gu": {
+      "name": "ભડંગ",
+      "ingredients": [
+        "મમરા",
+        "કાચી મગફળી",
+        "પાતળું સમારેલું લસણ",
+        "મીઠા લીમડાનાં પાન",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "ખાંડ",
+        "મીઠું",
+        "મગફળીનું તેલ"
+      ],
+      "steps": [
+        "મમરા પહોળી સૂકી કડાઈમાં ધીમા તાપે કરકરા કરો. તોડ્યા વગર મોટી વાટકીમાં કાઢો.",
+        "મગફળીનું તેલ ગરમ કરી દાણા કરકરા શેકી કાઢો. એ જ તેલમાં લસણની ફાંકો ધીમે સોનેરી કરો, પછી મીઠા લીમડાનાં પાન કરકરા કરો.",
+        "તાપ ધીમો કરી સુગંધિત તેલમાં મરચું પાઉડર, હળદર, ખાંડ અને મીઠું માત્ર ક્ષણભર ભેળવો.",
+        "મસાલાવાળું તેલ મમરા પર રેડો, મગફળી ભેળવો અને બે ચમચીથી હલાવો જેથી બધા દાણા સરખા લાલ અને ચમકતા થાય.",
+        "સંપૂર્ણ ઠંડું કરીને ફરી કરકરું થવા દો અને હવાચુસ્ત ડબ્બામાં રાખો; સૂકા કોલ્હાપુરી નાસ્તા તરીકે પીરસો."
+      ],
+      "tips": [
+        "મરચું ધીમા તાપે નાખો જેથી મમરાને રંગ આવે પણ બળીને કડવું ન થાય."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://madhurasrecipe.com/snacks/kolhapuri-bhadang-marathi-recipe",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/bhadang.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

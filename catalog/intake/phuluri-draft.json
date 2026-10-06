@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0339",
+  "id": "phuluri",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Phuluri",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, minced",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "nigella seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sift gram flour and rice flour into a bowl with turmeric and salt; stir in nigella and finely minced chilli.",
+    "Add water gradually and beat vigorously until the batter is smooth, airy and thick enough to mound on a spoon.",
+    "Rest the batter briefly while heating oil over medium heat. Beat it once more just before frying.",
+    "Drop small rounded spoonfuls into oil without overcrowding. Turn until puffed, cooked through and golden all around.",
+    "Drain on a rack and serve hot with kasundi or a tangy chutney."
+  ],
+  "tips": [
+    "Beating the batter adds air; dense batter produces heavy fritters instead of light phuluri."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फुलुरी",
+      "ingredients": [
+        "बेसन",
+        "चावल का आटा",
+        "बारीक हरी मिर्च",
+        "कलौंजी",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "बेसन और चावल का आटा हल्दी और नमक के साथ छानें; कलौंजी और बारीक मिर्च मिलाएँ।",
+        "धीरे-धीरे पानी डालकर तेज़ फेंटें जब तक घोल चिकना, हवादार और चम्मच पर ढेर-सा टिकने वाला हो।",
+        "तेल मध्यम आँच पर गरम करते समय घोल कुछ देर रखें। तलने से ठीक पहले फिर फेंटें।",
+        "छोटे गोल चम्मचभर घोल तेल में डालें, भीड़ न करें। फूले, अंदर तक पके और चारों ओर सुनहरे हों तब तक पलटें।",
+        "जाली पर निकालकर कसुंदी या खट्टी चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "घोल फेंटने से हवा भरती है; बिना फेंटा घोल हल्की फुलुरी के बजाय भारी पकोड़े बनाता है।"
+      ]
+    },
+    "gu": {
+      "name": "ફુલુરી",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "બારીક લીલાં મરચાં",
+        "કલૌંજી",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણાનો અને ચોખાનો લોટ હળદર અને મીઠા સાથે ચાળો; કલૌંજી અને બારીક મરચાં ભેળવો.",
+        "ધીમે ધીમે પાણી ઉમેરી જોરથી ફેંટો જ્યાં સુધી ખીરું લીસું, હવાદાર અને ચમચી પર ઢગલો થાય એવું ઘટ્ટ બને.",
+        "તેલ મધ્યમ તાપે ગરમ થાય ત્યાં સુધી ખીરું થોડી વાર રાખો. તળતાં પહેલાં ફરી ફેંટો.",
+        "નાની ગોળ ચમચીભર ખીરું તેલમાં નાખો, ભીડ ન કરો. ફૂલે, અંદર સુધી રંધાય અને ચારે બાજુ સોનેરી થાય ત્યાં સુધી ફેરવો.",
+        "જાળી પર કાઢી કાસુંદી કે ખાટી ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "ખીરું ફેંટવાથી હવા ભળે છે; ન ફેંટેલું ખીરું હલકી ફુલુરીને બદલે ભારે પકોડા બનાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.bongcookbook.com/2015/04/fuluri-phuluri-Bengali-fried-snack.html",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/phuluri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

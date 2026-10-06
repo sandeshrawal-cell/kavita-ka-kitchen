@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0367",
+  "id": "gobi-pakora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Gobi Pakora",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut cauliflower into bite-size florets, rinse well and blanch briefly in boiling water; drain and dry completely.",
+    "Whisk gram flour, rice flour, chili, turmeric, cumin, asafoetida and salt with measured water into a thick smooth batter.",
+    "Heat oil to medium hot; dip each dry floret so it is fully coated, then lower into oil without crowding.",
+    "Fry, turning gently, until batter is golden and crisp and the cauliflower is tender inside.",
+    "Drain on a rack, dust lightly with chaat masala if desired and serve at once with coriander chutney."
+  ],
+  "tips": [
+    "Blanching larger florets first prevents raw centers while the batter browns."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोभी पकौड़ा",
+      "ingredients": [
+        "फूलगोभी के टुकड़े",
+        "बेसन",
+        "चावल का आटा",
+        "पानी",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "जीरा",
+        "हींग",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "फूलगोभी के छोटे टुकड़े काटें, अच्छी तरह धोकर उबलते पानी में थोड़ी देर रखें; पूरी तरह निथारकर सुखाएँ।",
+        "बेसन, चावल का आटा, मिर्च, हल्दी, जीरा, हींग और नमक दिए पानी से फेंटकर गाढ़ा चिकना घोल बनाएँ।",
+        "तेल मध्यम गरम करें; हर सूखे टुकड़े को पूरे घोल में लपेटें और भीड़ किए बिना तेल में डालें।",
+        "धीरे पलटते हुए घोल सुनहरा कुरकुरा और भीतर फूलगोभी नरम होने तक तलें।",
+        "जाली पर निथारें, चाहें तो थोड़ा चाट मसाला छिड़कें और धनिया चटनी के साथ तुरंत दें।"
+      ],
+      "tips": [
+        "बड़े फूल पहले गरम पानी में रखने से घोल भूरा होने पर भीतर कच्चापन नहीं रहता।"
+      ]
+    },
+    "gu": {
+      "name": "ફૂલકોબીનાં પકોડાં",
+      "ingredients": [
+        "ફૂલકોબીના ફૂલ",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "જીરું",
+        "હિંગ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ફૂલકોબીના નાના ફૂલ કાપો, સારી રીતે ધોઈ ઊકળતા પાણીમાં થોડો સમય મૂકો; બરાબર નિતારી સૂકવો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, જીરું, હિંગ અને મીઠું આપેલા પાણીથી ફેંટીને જાડું સુંવાળું ખીરું બનાવો.",
+        "તેલ મધ્યમ ગરમ કરો; દરેક સૂકા ફૂલને પૂરેપૂરું ખીરું લગાવી ભીડ કર્યા વિના તેલમાં નાખો.",
+        "હળવે ફેરવી ખીરું સોનેરી કરકરું અને અંદર ફૂલકોબી નરમ થાય ત્યાં સુધી તળો.",
+        "જાળી પર નિતારો, ઇચ્છો તો થોડો ચાટ મસાલો છાંટો અને કોથમીરની ચટણી સાથે તરત આપો."
+      ],
+      "tips": [
+        "મોટા ફૂલ પહેલાં ગરમ પાણીમાં મૂકવાથી ખીરું ભૂરું થાય ત્યારે અંદર કાચાશ રહેતી નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/gobi-pakora-cauliflower-pakora/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/gobi-pakora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

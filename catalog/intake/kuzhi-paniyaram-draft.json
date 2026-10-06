@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0346",
+  "id": "kuzhi-paniyaram",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kuzhi Paniyaram",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 780,
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "split urad dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "fenugreek seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "water for soaking and grinding",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for cooking",
+      "qty": 65,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse rice and urad separately. Soak rice in part of the water, and urad with fenugreek in another portion, until soft.",
+    "Grind urad fluffy and rice slightly grainy with only enough measured water. Mix, cover and ferment in a warm place until airy and gently risen.",
+    "Heat a little oil; crackle mustard seeds and cook onion, chilli and curry leaves until onion softens. Cool slightly and fold into the batter with salt.",
+    "Oil the hollows of a paniyaram pan and fill each mostly full. Cover and cook on medium-low heat until bottoms are golden.",
+    "Turn each ball and cook the other side until crisp outside and fluffy inside. Serve hot with coconut chutney."
+  ],
+  "tips": [
+    "The batter needs real fermentation for light centres; a heavy unfermented batter makes dense paniyaram."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुज़ी पनियारम",
+      "ingredients": [
+        "इडली चावल",
+        "धुली उड़द दाल",
+        "मेथी दाना",
+        "भिगोने और पीसने का पानी",
+        "बारीक कटा लाल प्याज",
+        "कटी हरी मिर्च",
+        "कटे करी पत्ते",
+        "राई",
+        "नमक",
+        "पकाने का तेल"
+      ],
+      "steps": [
+        "चावल और उड़द अलग धोएँ। चावल को कुछ पानी में और उड़द को मेथी के साथ अलग पानी में नरम होने तक भिगोएँ।",
+        "उड़द को फूला और चावल को हल्का दरदरा पीसें, दिए पानी का बस ज़रूरी भाग लें। मिलाकर ढकें और गरम जगह हवादार उठने तक खमीर करें।",
+        "थोड़े तेल में राई चटकाएँ और प्याज, मिर्च, करी पत्ते प्याज नरम होने तक पकाएँ। थोड़ा ठंडा कर नमक सहित घोल में मिलाएँ।",
+        "पनियारम तवे के खानों में तेल लगाकर लगभग भरें। ढककर मध्यम-धीमी आँच पर नीचे सुनहरा होने तक पकाएँ।",
+        "हर गोला पलटकर दूसरी ओर पकाएँ ताकि बाहर कुरकुरा और भीतर फूला नरम रहे। नारियल चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "भीतर हल्के बनाने के लिए घोल को सच में खमीर होना चाहिए; बिना खमीर का घोल भारी पनियारम बनाता है।"
+      ]
+    },
+    "gu": {
+      "name": "કુઝી પનિયારમ",
+      "ingredients": [
+        "ઇડલી ચોખા",
+        "છોલેલી અડદ દાળ",
+        "મેથીના દાણા",
+        "પલાળવા અને પીસવા માટે પાણી",
+        "બારીક સમારેલી લાલ ડુંગળી",
+        "સમારેલાં લીલાં મરચાં",
+        "સમારેલાં મીઠા લીમડાનાં પાન",
+        "રાઈ",
+        "મીઠું",
+        "રાંધવા માટે તેલ"
+      ],
+      "steps": [
+        "ચોખા અને અડદ અલગ ધુઓ. ચોખાને થોડા પાણીમાં અને અડદને મેથી સાથે બીજા પાણીમાં નરમ થાય ત્યાં સુધી પલાળો.",
+        "અડદને ફૂલેલું અને ચોખાને થોડા દાણાદાર પીસો, આપેલું પાણી જરૂર મુજબ જ લો. ભેળવી ઢાંકો અને ગરમ જગ્યાએ હવાદાર ઊઠે ત્યાં સુધી આથો આવવા દો.",
+        "થોડા તેલમાં રાઈ તડકાવો અને ડુંગળી, મરચાં, મીઠા લીમડાનાં પાન ડુંગળી નરમ થાય ત્યાં સુધી રાંધો. થોડું ઠંડું કરી મીઠા સાથે ખીરામાં ભેળવો.",
+        "પનિયારમ તવાના ખાડાંમાં તેલ લગાવી લગભગ ભરો. ઢાંકી મધ્યમ-ધીમા તાપે તળિયું સોનેરી થાય ત્યાં સુધી રાંધો.",
+        "દરેક ગોળી ફેરવી બીજી બાજુ રાંધો જેથી બહાર કરકરું અને અંદર ફૂલેલું નરમ રહે. નાળિયેરની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "અંદર હલકું બનાવવા ખીરામાં ખરેખર આથો આવવો જોઈએ; વગર આથાનું ખીરું ભારે પનિયારમ બનાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/masala-paniyaram-recipe/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/kuzhi-paniyaram.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

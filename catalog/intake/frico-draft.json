@@ -1,0 +1,105 @@
+{
+  "sourceReviewId": "R0400",
+  "id": "frico",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Frico",
+  "cuisine": "Italian",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "waxy potatoes",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian firm cow cheese, grated",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel potatoes and grate coarsely; thinly slice onion. Squeeze excess water from the grated potato.",
+    "Heat oil in a nonstick skillet and soften onion for 5 minutes. Add potatoes, water and salt; cover and cook 10–12 minutes until potatoes are tender, then uncover to dry.",
+    "Stir in grated cheese and pepper. Press the mixture into an even round and cook over medium-low heat 7–9 minutes until the bottom forms a deep golden cheese crust.",
+    "Slide onto a plate, invert back into the pan and cook the second side 6–8 minutes. Rest 3 minutes, then cut into wedges while the center stays soft."
+  ],
+  "tips": [
+    "Choose a firm cow cheese explicitly labeled vegetarian."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फ्रिको",
+      "ingredients": [
+        "ठोस आलू",
+        "कसा शाकाहारी सख्त गाय-दूध चीज़",
+        "प्याज़",
+        "जैतून तेल",
+        "काली मिर्च",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "आलू छीलकर मोटे कसें और प्याज़ पतला काटें। कसे आलू का अतिरिक्त पानी निचोड़ें।",
+        "नॉनस्टिक तवे में तेल गरम कर प्याज़ 5 मिनट नरम करें। आलू, पानी और नमक डालकर ढकें और 10–12 मिनट आलू नरम होने तक पकाएँ, फिर खोलकर सुखाएँ।",
+        "कसा चीज़ और काली मिर्च मिलाएँ। मिश्रण को बराबर गोल दबाकर मध्यम-धीमी आँच पर 7–9 मिनट तले गहरी सुनहरी चीज़ परत बनने तक पकाएँ।",
+        "प्लेट में सरकाएँ, उलटकर फिर तवे में रखें और दूसरी तरफ़ 6–8 मिनट पकाएँ। 3 मिनट रखकर फाँकें काटें; बीच नरम रहे।"
+      ],
+      "tips": [
+        "शाकाहारी लिखा सख्त गाय-दूध चीज़ चुनें।"
+      ]
+    },
+    "gu": {
+      "name": "ફ્રિકો",
+      "ingredients": [
+        "મજબૂત બટાકા",
+        "છીણેલું શાકાહારી કડક ગાયના દૂધનું ચીઝ",
+        "ડુંગળી",
+        "ઑલિવ તેલ",
+        "કાળા મરી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બટાકા છોલી મોટા છીણો અને ડુંગળી પાતળી કાપો. છીણેલા બટાકાનું વધારાનું પાણી નીચોવો.",
+        "નૉનસ્ટિક કડાઈમાં તેલ ગરમ કરી ડુંગળી 5 મિનિટ નરમ કરો. બટાકા, પાણી અને મીઠું નાખી ઢાંકી 10–12 મિનિટ બટાકા નરમ થાય ત્યાં સુધી રાંધો, પછી ઢાંકણ ખોલી સુકવો.",
+        "છીણેલું ચીઝ અને કાળા મરી ભેળવો. મિશ્રણને સરખું ગોળ દબાવી મધ્યમ-ધીમા તાપે 7–9 મિનિટ તળિયે ઘેરું સોનેરી ચીઝ પડ થાય ત્યાં સુધી રાંધો.",
+        "થાળીમાં સરકાવો, ઉલટાવી ફરી કડાઈમાં મૂકી બીજી બાજુ 6–8 મિનિટ રાંધો. 3 મિનિટ રાખી ચીરીઓ કાપો; વચ્ચે નરમ રહે."
+      ],
+      "tips": [
+        "શાકાહારી લખેલું કડક ગાયના દૂધનું ચીઝ પસંદ કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/frico.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

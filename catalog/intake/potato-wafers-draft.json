@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0353",
+  "id": "potato-wafers",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Potato Wafers",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "peeled potatoes",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "crushed black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice the peeled potatoes paper-thin with a mandoline and rinse until the water runs mostly clear.",
+    "Dry the slices thoroughly between clean towels. Mix salt, pepper, turmeric and chili powder in a dry bowl.",
+    "Heat the oil moderately hot; slide in a small batch of slices individually and stir gently to prevent sticking.",
+    "Fry until the sizzling slows and the wafers are pale golden and crisp; lift out and drain on a rack.",
+    "Toss the warm wafers with the dry spice mixture, cool completely and store airtight."
+  ],
+  "tips": [
+    "Even thickness and thoroughly dried slices keep homemade bataka wafers crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बटाटा वेफ़र",
+      "ingredients": [
+        "छिले आलू",
+        "तलने का तेल",
+        "नमक",
+        "कुटी काली मिर्च",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर"
+      ],
+      "steps": [
+        "छिले आलू मैंडोलिन से कागज़ जितने पतले काटें और पानी लगभग साफ़ आने तक धोएँ।",
+        "फाँकों को साफ़ कपड़ों के बीच पूरी तरह सुखाएँ। सूखे कटोरे में नमक, काली मिर्च, हल्दी और लाल मिर्च मिलाएँ।",
+        "तेल मध्यम गरम करें; आलू की छोटी खेप की फाँकें अलग-अलग डालें और चिपकने से बचाने को धीरे चलाएँ।",
+        "छनछनाहट कम होने और वेफ़र हल्के सुनहरे कुरकुरे होने तक तलें; निकालकर जाली पर निथारें।",
+        "गरम वेफ़र में सूखा मसाला मिलाएँ, पूरी तरह ठंडे करके बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "बराबर मोटाई और पूरी तरह सूखी फाँकें घर के बटाका वेफ़र कुरकुरे रखती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકા વેફર",
+      "ingredients": [
+        "છોલેલા બટાકા",
+        "તળવા માટે તેલ",
+        "મીઠું",
+        "કૂટેલો કાળો મરી",
+        "હળદર પાઉડર",
+        "લાલ મરચું પાઉડર"
+      ],
+      "steps": [
+        "છોલેલા બટાકા મેન્ડોલિનથી કાગળ જેટલા પાતળા કાપો અને પાણી લગભગ ચોખ્ખું આવે ત્યાં સુધી ધુઓ.",
+        "કાપેલી સ્લાઇસ સાફ કપડાં વચ્ચે સંપૂર્ણ સૂકવો. સૂકા વાટકામાં મીઠું, કાળો મરી, હળદર અને મરચું ભેળવો.",
+        "તેલ મધ્યમ ગરમ કરો; બટાકાની નાની ખેપની સ્લાઇસ એકેક કરી નાખો અને ચોંટે નહીં તે માટે ધીમે હલાવો.",
+        "છાંટા ઓછા થાય અને વેફર આછા સોનેરી કરકરા થાય ત્યાં સુધી તળો; કાઢી જાળી પર નિતારો.",
+        "ગરમ વેફરમાં સૂકો મસાલો ભેળવો, સંપૂર્ણ ઠંડા કરી હવાબંધ ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "સરખી જાડાઈ અને બરાબર સૂકેલી સ્લાઇસ ઘરે બનાવેલા બટાકા વેફર કરકરા રાખે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://zatpatrecipeingujarati.com/potato-wafers-recipe-in-gujarati/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/potato-wafers.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

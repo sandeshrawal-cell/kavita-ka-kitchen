@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0395",
+  "id": "stuffed-peppadews",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Stuffed Peppadews",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "Peppadew peppers, drained",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cream cheese",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian feta",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemon zest",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Drain peppers thoroughly and pat the cavities dry so the filling stays in place.",
+    "Mash cream cheese and vegetarian feta until smooth. Stir in finely chopped parsley, lemon zest and black pepper.",
+    "Spoon or pipe the mixture into each pepper, filling to the rim without squeezing the pepper out of shape.",
+    "Chill for 10 minutes to firm the filling, then arrange upright on a plate and serve cool."
+  ],
+  "tips": [
+    "Peppadews are sweet-piquant, so taste before adding extra salt; feta already seasons the filling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भरी पीपाड्यू मिर्च",
+      "ingredients": [
+        "निथरी पीपाड्यू मिर्च",
+        "क्रीम चीज़",
+        "शाकाहारी फेटा",
+        "चौड़ी पत्ती वाली पार्सले",
+        "नींबू का कसा छिलका",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "मिर्च पूरी निथारें और भीतर भी सुखाएँ ताकि भरावन टिकी रहे।",
+        "क्रीम चीज़ और शाकाहारी फेटा चिकना होने तक मसलें। बारीक कटी पार्सले, नींबू छिलका और काली मिर्च मिलाएँ।",
+        "चम्मच या पाइपिंग बैग से हर मिर्च में किनारे तक भरें; मिर्च को दबाकर आकार न बिगाड़ें।",
+        "भरावन जमाने के लिए 10 मिनट ठंडा करें, फिर प्लेट में सीधा सजाकर ठंडा परोसें।"
+      ],
+      "tips": [
+        "पीपाड्यू मीठी-तीखी होती है; अतिरिक्त नमक से पहले चखें, फेटा पहले ही नमकीन है।"
+      ]
+    },
+    "gu": {
+      "name": "ભરેલાં પીપાડ્યૂ મરચાં",
+      "ingredients": [
+        "નિતારેલાં પીપાડ્યૂ મરચાં",
+        "ક્રીમ ચીઝ",
+        "શાકાહારી ફેટા",
+        "પહોળાં પાનવાળું પાર્સલી",
+        "લીંબુની છીણેલી છાલ",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "મરચાં સારી રીતે નિતારી અંદરથી પણ સુકવો જેથી પૂરણ ટકી રહે.",
+        "ક્રીમ ચીઝ અને શાકાહારી ફેટા મસૃણ થાય ત્યાં સુધી મસળો. ઝીણું સમારેલું પાર્સલી, લીંબુની છાલ અને કાળા મરી ભેળવો.",
+        "ચમચી કે પાઇપિંગ બૅગથી દરેક મરચામાં કિનારા સુધી ભરો; મરચું દબાવી આકાર ન બગાડો.",
+        "પૂરણ જામવા માટે 10 મિનિટ ઠંડાં કરો, પછી થાળીમાં ઊભાં ગોઠવી ઠંડાં પીરસો."
+      ],
+      "tips": [
+        "પીપાડ્યૂ ગળ્યાં-તીખાં હોય છે; વધારું મીઠું નાખતાં પહેલાં ચાખો, ફેટા પહેલેથી ખારું છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/stuffed-peppadews.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

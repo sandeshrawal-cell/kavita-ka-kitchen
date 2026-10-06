@@ -1,0 +1,83 @@
+{
+  "sourceReviewId": "R0383",
+  "id": "edamame",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Edamame",
+  "cuisine": "Japanese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "edamame in pods",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "coarse sea salt",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the edamame pods and rub them with half the salt to clean and season the fuzzy skins.",
+    "Bring water to a strong boil in a large pot. Add the pods and cook uncovered for 4–5 minutes until the beans are tender but still bright green.",
+    "Drain well and shake off excess water; spread the pods briefly on a tray so steam does not make them soggy.",
+    "Toss with the remaining salt and sesame seeds. Serve warm and squeeze the beans from the inedible pods with your fingers or teeth."
+  ],
+  "tips": [
+    "Only the beans inside are eaten; discard the fibrous pods."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एडामामे",
+      "ingredients": [
+        "फलियों सहित एडामामे",
+        "पानी",
+        "दरदरा समुद्री नमक",
+        "भुने तिल"
+      ],
+      "steps": [
+        "एडामामे फलियाँ धोकर आधे नमक से रगड़ें; इससे रोएँदार छिलके साफ़ और स्वादिष्ट होते हैं।",
+        "बड़े बर्तन में पानी तेज़ उबालें। फलियाँ डालकर 4–5 मिनट बिना ढके पकाएँ; दाने नरम पर चमकीले हरे रहें।",
+        "अच्छी तरह निथारकर अतिरिक्त पानी झटकें; भाप से गीले न हों इसलिए थोड़ी देर ट्रे में फैलाएँ।",
+        "बचा नमक और तिल मिलाएँ। गरम परोसें और अखाद्य छिलके से दाने उँगलियों या दाँतों से निकालकर खाएँ।"
+      ],
+      "tips": [
+        "केवल भीतर के दाने खाएँ; रेशेदार फलियाँ फेंक दें।"
+      ]
+    },
+    "gu": {
+      "name": "એડામામે",
+      "ingredients": [
+        "શીંગ સાથે એડામામે",
+        "પાણી",
+        "બરછટ દરિયાઈ મીઠું",
+        "શેકેલા તલ"
+      ],
+      "steps": [
+        "એડામામેની શીંગ ધોઈ અડધા મીઠાથી ઘસો; આથી રૂંવાટાવાળી છાલ સાફ અને સ્વાદિષ્ટ થાય છે.",
+        "મોટા વાસણમાં પાણી ઉકાળો. શીંગ નાખી 4–5 મિનિટ ઢાંક્યા વગર રાંધો; દાણા નરમ પણ ચળકતા લીલા રહે.",
+        "બરાબર નિતારી વધારાનું પાણી ખંખેરો; વરાળથી ભીના ન થાય તેથી થોડું થાળીમાં પાથરો.",
+        "બાકીનું મીઠું અને તલ ભેળવો. ગરમ પીરસો અને ન ખવાય એવી શીંગમાંથી દાણા આંગળીઓ કે દાંતથી કાઢી ખાઓ."
+      ],
+      "tips": [
+        "માત્ર અંદરના દાણા ખાઓ; રેસાવાળી શીંગ ફેંકી દો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/edamame.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

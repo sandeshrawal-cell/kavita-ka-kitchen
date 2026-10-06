@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0350",
+  "id": "chanachur",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Chanachur",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "fine gram-flour sev",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fried split Bengal gram",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "fried split moong dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "plain boondi",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "black salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 45,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Break long sev into short strands. Check that the fried dal and boondi are fully dry and crisp before combining.",
+    "Heat mustard oil in a broad pan. Fry peanuts over medium-low heat until brown, then lift out; crisp curry leaves and whole dried chillies in the same oil.",
+    "Turn heat off. Add sev, both fried dals, boondi and peanuts, tossing gently so fragile strands do not crumble.",
+    "Sprinkle chilli powder, roasted cumin and black salt; toss repeatedly for an even spicy-tangy coating.",
+    "Let the mixture cool fully, then store airtight or serve a small bowl with tea or puffed rice."
+  ],
+  "tips": [
+    "Store-bought plain sev, dal and boondi are measured components here; use fresh unsalted ones so the final seasoning remains balanced."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चानाचुर",
+      "ingredients": [
+        "बारीक बेसन सेव",
+        "तली चना दाल",
+        "तली मूँग दाल",
+        "कच्ची मूँगफली",
+        "सादी बूंदी",
+        "करी पत्ते",
+        "सूखी लाल मिर्च",
+        "लाल मिर्च पाउडर",
+        "भुना जीरा पाउडर",
+        "काला नमक",
+        "सरसों तेल"
+      ],
+      "steps": [
+        "लंबी सेव छोटे टुकड़ों में तोड़ें। मिलाने से पहले तली दाल और बूंदी पूरी सूखी कुरकुरी हों।",
+        "चौड़े पैन में सरसों तेल गरम करें। मूँगफली मध्यम-धीमी आँच पर भूरी भूनकर निकालें; उसी तेल में करी पत्ते और साबुत सूखी मिर्च कुरकुरी करें।",
+        "आँच बंद करें। सेव, दोनों तली दालें, बूंदी और मूँगफली डालकर हल्के मिलाएँ ताकि नाज़ुक सेव न टूटे।",
+        "मिर्च पाउडर, भुना जीरा और काला नमक छिड़कें; बराबर तीखा-खट्टा लेप चढ़ाने के लिए बार-बार हल्के मिलाएँ।",
+        "मिश्रण पूरी तरह ठंडा कर बंद डिब्बे में रखें या चाय व मुरमुरे के साथ छोटी कटोरी परोसें।"
+      ],
+      "tips": [
+        "यहाँ तैयार सादी सेव, दाल और बूंदी मापे हुए घटक हैं; ताज़े बिना नमक वाले लें ताकि अंतिम मसाला संतुलित रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ચાનાચુર",
+      "ingredients": [
+        "બારીક ચણાના લોટની સેવ",
+        "તળેલી ચણા દાળ",
+        "તળેલી મગ દાળ",
+        "કાચી મગફળી",
+        "સાદી બૂંદી",
+        "મીઠા લીમડાનાં પાન",
+        "સૂકાં લાલ મરચાં",
+        "લાલ મરચું પાઉડર",
+        "શેકેલું જીરું પાઉડર",
+        "સંચળ",
+        "સરસવનું તેલ"
+      ],
+      "steps": [
+        "લાંબી સેવ નાના ટુકડાં કરો. ભેળવતાં પહેલાં તળેલી દાળ અને બૂંદી સંપૂર્ણ સૂકી કરકરી હોય તે તપાસો.",
+        "પહોળી કડાઈમાં સરસવનું તેલ ગરમ કરો. મગફળી મધ્યમ-ધીમા તાપે ભૂરાં શેકી કાઢો; એ જ તેલમાં મીઠા લીમડાનાં પાન અને આખાં સૂકાં મરચાં કરકરાં કરો.",
+        "તાપ બંધ કરો. સેવ, બંને તળેલી દાળ, બૂંદી અને મગફળી નાખી હળવે ભેળવો જેથી નાજુક સેવ ન તૂટે.",
+        "મરચું પાઉડર, શેકેલું જીરું અને સંચળ છાંટો; સરખો તીખોખાટો પડ ચડે માટે વારંવાર હળવે ભેળવો.",
+        "મિશ્રણ સંપૂર્ણ ઠંડું કરી હવાચુસ્ત ડબ્બામાં રાખો અથવા ચા અને મમરા સાથે નાની વાટકી પીરસો."
+      ],
+      "tips": [
+        "અહીં તૈયાર સાદી સેવ, દાળ અને બૂંદી માપેલા ઘટકો છે; તાજાં વગર મીઠાવાળાં લો જેથી છેલ્લો મસાલો સંતુલિત રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://eisamay.com/amp/story/lifestyle/know-more/recipe-how-to-make-bengali-chanachur-at-home/85832169.cms",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/chanachur.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

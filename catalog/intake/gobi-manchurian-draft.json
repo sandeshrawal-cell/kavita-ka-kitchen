@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0357",
+  "id": "gobi-manchurian",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Gobi Manchurian",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 95,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onion greens",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Blanch cauliflower briefly in boiling water, drain thoroughly and pat dry so the coating sticks.",
+    "Whisk gram flour, most cornflour, salt and enough measured water into a thick coating batter; reserve a little cornflour and water for the sauce.",
+    "Coat the dry florets and fry in batches at medium-high heat until deeply crisp; drain on a rack rather than paper.",
+    "In a hot wok, briefly sauté minced garlic, ginger and chilies; add soy sauce, ketchup, vinegar and the reserved slurry, and simmer until glossy.",
+    "Toss the cauliflower quickly in the thick sauce, scatter spring onion greens and serve immediately before it softens."
+  ],
+  "tips": [
+    "This is the dry snack version: coat with just enough sauce to glaze, not drown, the cauliflower."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोभी मंचूरियन",
+      "ingredients": [
+        "फूलगोभी के टुकड़े",
+        "बेसन",
+        "कॉर्नफ्लोर",
+        "पानी",
+        "तलने का तेल",
+        "लहसुन",
+        "अदरक",
+        "हरी मिर्च",
+        "सोया सॉस",
+        "टमाटर केचप",
+        "सिरका",
+        "हरे प्याज के पत्ते",
+        "नमक"
+      ],
+      "steps": [
+        "फूलगोभी को उबलते पानी में थोड़ी देर डालें, पूरी निथारें और पोंछें ताकि घोल चिपके।",
+        "बेसन, अधिकतर कॉर्नफ्लोर, नमक और दिए पानी से गाढ़ा लेप वाला घोल बनाएँ; थोड़े कॉर्नफ्लोर और पानी सॉस के लिए रखें।",
+        "सूखे फूलों पर घोल लगाकर मध्यम-तेज़ आँच पर थोड़ी-थोड़ी मात्रा में अच्छी तरह कुरकुरा तलें; कागज़ की जगह जाली पर निकालें।",
+        "गरम कड़ाही में कटा लहसुन, अदरक और मिर्च थोड़ी देर भूनें; सोया सॉस, केचप, सिरका और बचा घोल मिलाकर चमकदार होने तक पकाएँ।",
+        "गाढ़ी सॉस में फूलगोभी जल्दी से मिलाएँ, हरे प्याज के पत्ते छिड़कें और नरम होने से पहले तुरंत परोसें।"
+      ],
+      "tips": [
+        "यह सूखी स्नैक शैली है: फूलगोभी पर बस चमकदार परत चढ़े, सॉस में डूबे नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ગોબી મંચુરિયન",
+      "ingredients": [
+        "ફૂલકોબીના ફૂલ",
+        "ચણાનો લોટ",
+        "કોર્નફ્લોર",
+        "પાણી",
+        "તળવા માટે તેલ",
+        "લસણ",
+        "આદુ",
+        "લીલાં મરચાં",
+        "સોયા સોસ",
+        "ટમેટા કેચપ",
+        "વિનેગર",
+        "લીલી ડુંગળીના પાન",
+        "મીઠું"
+      ],
+      "steps": [
+        "ફૂલકોબીને ઊકળતા પાણીમાં થોડો સમય નાખો, બરાબર નિતારો અને લૂછો જેથી ખીરું ચોંટે.",
+        "ચણાનો લોટ, મોટાભાગનો કોર્નફ્લોર, મીઠું અને આપેલું પાણી ભેળવી જાડું ખીરું બનાવો; થોડો કોર્નફ્લોર અને પાણી સોસ માટે રાખો.",
+        "સૂકાં ફૂલ પર ખીરું લગાવી મધ્યમ-ઉંચા તાપે નાની ખેપમાં સરસ કરકરાં તળો; કાગળને બદલે જાળી પર નિતારો.",
+        "ગરમ કડાઈમાં સમારેલું લસણ, આદુ અને મરચાં થોડું સાંતળો; સોયા સોસ, કેચપ, વિનેગર અને બચેલું ખીરું ભેળવી ચમકતું થાય ત્યાં સુધી રાંધો.",
+        "ઘાટી સોસમાં ફૂલકોબી ઝડપથી ભેળવો, લીલી ડુંગળીના પાન છાંટો અને નરમ થાય તે પહેલાં તરત પીરસો."
+      ],
+      "tips": [
+        "આ સૂકા નાસ્તાની રીત છે: ફૂલકોબી પર ફક્ત ચમકતો પડ ચડે, સોસમાં ડૂબે નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/gobi-manchurian-dry-recipe/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/gobi-manchurian.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

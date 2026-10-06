@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0361",
+  "id": "papeta-pattice",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Papeta Pattice",
+  "cuisine": "Parsi",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "boiled potatoes",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "chopped cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "bread crumbs",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 80,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil potatoes in their skins until just tender, peel and mash smoothly while warm; cool to a firm dough with salt.",
+    "Mix coconut, cashews, raisins, sugar, minced chili, coriander and lemon juice into a moist sweet-tangy filling.",
+    "Flatten a portion of potato in your palm, enclose a spoon of filling and seal all seams; repeat with remaining mixture.",
+    "Shape thick oval pattice, roll lightly in bread crumbs and chill until firm so the filling stays inside.",
+    "Shallow-fry in medium-hot oil, turning carefully, until both sides develop a golden crust; serve hot."
+  ],
+  "tips": [
+    "Parsi papeta pattice contrasts a gently sweet coconut-nut center with a savory potato shell."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पपेटा पैटिस",
+      "ingredients": [
+        "उबले आलू",
+        "ताज़ा कसा नारियल",
+        "कटे काजू",
+        "किशमिश",
+        "चीनी",
+        "हरी मिर्च",
+        "कटा हरा धनिया",
+        "नींबू का रस",
+        "ब्रेड क्रम्ब्स",
+        "नमक",
+        "वनस्पति तेल"
+      ],
+      "steps": [
+        "आलू छिलके सहित बस नरम होने तक उबालें, छीलकर गरम रहते चिकने मसलें; नमक मिलाकर ठोस आटा जैसा ठंडा करें।",
+        "नारियल, काजू, किशमिश, चीनी, बारीक मिर्च, धनिया और नींबू रस से नम मीठा-खट्टा भरावन बनाएँ।",
+        "हथेली पर आलू का हिस्सा चपटा करें, एक चम्मच भरावन रखकर चारों ओर से बंद करें; बाकी भी ऐसे बनाएँ।",
+        "मोटे अंडाकार पैटिस बनाएँ, ब्रेड क्रम्ब्स हल्के लगाएँ और भरावन भीतर रखने के लिए सख़्त होने तक ठंडा करें।",
+        "मध्यम गरम तेल में सावधानी से पलटते हुए दोनों तरफ़ सुनहरी परत होने तक सेंकें; गरम परोसें।"
+      ],
+      "tips": [
+        "पारसी पपेटा पैटिस में हल्की मीठी नारियल-मेवा भरावन और नमकीन आलू की परत का मेल होता है।"
+      ]
+    },
+    "gu": {
+      "name": "પપેટા પેટીસ",
+      "ingredients": [
+        "બાફેલા બટાકા",
+        "તાજું છીણેલું નાળિયેર",
+        "સમારેલા કાજુ",
+        "કિસમિસ",
+        "ખાંડ",
+        "લીલાં મરચાં",
+        "સમારેલી કોથમીર",
+        "લીંબુનો રસ",
+        "બ્રેડનો ભૂકો",
+        "મીઠું",
+        "વનસ્પતિ તેલ"
+      ],
+      "steps": [
+        "બટાકા છાલ સાથે ફક્ત નરમ થાય ત્યાં સુધી બાફો, છોલી ગરમ હોય ત્યારે સુંવાળા મસળો; મીઠું ભેળવી મજબૂત લોટ જેવું ઠંડું કરો.",
+        "નાળિયેર, કાજુ, કિસમિસ, ખાંડ, ઝીણાં મરચાં, કોથમીર અને લીંબુના રસથી ભીનું ગળ્યું-ખાટું પૂરણ બનાવો.",
+        "હથેળીમાં બટાકાનો ભાગ ચપટો કરો, એક ચમચી પૂરણ મૂકી ચારે બાજુથી બંધ કરો; બાકી પણ એમ બનાવો.",
+        "જાડા લંબગોળ પેટીસ બનાવો, બ્રેડનો ભૂકો હળવો લગાવો અને પૂરણ અંદર રહે તે માટે મજબૂત થાય ત્યાં સુધી ઠંડા કરો.",
+        "મધ્યમ ગરમ તેલમાં સાવચેતીથી ફેરવી બંને બાજુ સોનેરી પડ થાય ત્યાં સુધી શેકો; ગરમ પીરસો."
+      ],
+      "tips": [
+        "પારસી પપેટા પેટીસમાં હળવું મીઠું નાળિયેર-મેવાંનું પૂરણ અને ખારું બટાકાનું બહારનું પડ હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/parsi-style-khaman-pattice-recipe",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/papeta-pattice.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

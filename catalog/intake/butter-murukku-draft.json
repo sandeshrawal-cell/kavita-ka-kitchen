@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0308",
+  "id": "butter-murukku",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Butter Murukku",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "fine rice flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "roasted gram flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "soft unsalted butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water, approximately",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sift the three flours together. Rub in butter thoroughly, then mix in sesame, asafoetida and salt.",
+    "Add water gradually to make a soft, smooth dough that can be pressed without cracking; do not make it sticky.",
+    "Fit a murukku press with a small star plate. Press neat loose spirals onto small oiled squares of paper or directly over medium-hot oil.",
+    "Slide the spirals into oil and fry gently, turning once, until bubbling subsides and they are pale golden rather than dark brown.",
+    "Drain, cool completely so they crisp up, then serve or store airtight."
+  ],
+  "tips": [
+    "Too much butter makes the spirals break in the oil; measure it accurately."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बटर मुरुक्कु",
+      "ingredients": [
+        "बारीक चावल का आटा",
+        "बेसन",
+        "भुने चने का आटा",
+        "नरम बिना नमक मक्खन",
+        "तिल",
+        "हींग",
+        "नमक",
+        "पानी, लगभग",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "तीनों आटे छानें। मक्खन अच्छी तरह मलें, फिर तिल, हींग और नमक मिलाएँ।",
+        "पानी धीरे-धीरे डालकर नरम, चिकना आटा गूँधें जो दबाने पर टूटे नहीं; चिपचिपा न करें।",
+        "मुरुक्कु प्रेस में छोटी सितारा जाली लगाएँ। तेल लगे कागज़ के छोटे टुकड़ों पर या सीधे मध्यम गरम तेल के ऊपर ढीले गोल चक्र दबाएँ।",
+        "चक्र तेल में सरकाएँ और धीरे तलें; एक बार पलटें और बुलबुले कम होकर हल्के सुनहरे होने पर निकालें, गहरे भूरे न करें।",
+        "निथारकर पूरी तरह ठंडा करें ताकि कुरकुरे हों, फिर परोसें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "अधिक मक्खन से चक्र तेल में टूटते हैं; इसे ठीक नापें।"
+      ]
+    },
+    "gu": {
+      "name": "બટર મુરુક્કુ",
+      "ingredients": [
+        "ઝીણો ચોખાનો લોટ",
+        "ચણાનો લોટ",
+        "શેકેલી ચણાદાળનો લોટ",
+        "નરમ મીઠા વગરનું માખણ",
+        "તલ",
+        "હિંગ",
+        "મીઠું",
+        "પાણી, અંદાજે",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ત્રણેય લોટ ચાળી લો. માખણ સારી રીતે મસળો, પછી તલ, હિંગ અને મીઠું ભેળવો.",
+        "પાણી ધીરે ઉમેરી નરમ સુંવાળો લોટ બાંધો જે દબાવતાં તૂટે નહીં; ચીકણો ન બનાવો.",
+        "મુરુક્કુ પ્રેસમાં નાની તારાકાર જાળી લગાવો. તેલ લગાવેલા કાગળના ટુકડા પર અથવા સીધા મધ્યમ ગરમ તેલ ઉપર ઢીલા ગોળ ચકરડા પાડો.",
+        "ચકરડાં તેલમાં સરકાવી ધીમે તળો; એક વાર પલટાવો અને પરપોટા ઘટે તથા આછા સોનેરી થાય ત્યારે કાઢો, ઘેરા ભૂરા ન થવા દો.",
+        "નિતારી સંપૂર્ણ ઠંડા થવા દો જેથી કરકરા થાય, પછી પીરસો અથવા હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "વધુ માખણથી ચકરડાં તેલમાં તૂટે છે; બરાબર માપો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://rakskitchen.net/butter-murukku-recipe-easy-diwali-snacks/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/butter-murukku.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

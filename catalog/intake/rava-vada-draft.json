@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0363",
+  "id": "rava-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Rava Vada",
+  "cuisine": "South Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "semolina",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 210,
+      "unit": "g"
+    },
+    {
+      "name": "chopped onions",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "chopped coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix semolina with yogurt and measured water to a thick spoonable dough; cover and rest until the grains swell.",
+    "Fold in finely chopped onion, chili, ginger, curry leaves, coriander and salt; the mixture should hold a small mound.",
+    "Just before frying, sprinkle in baking soda and mix gently; avoid beating out the aeration.",
+    "Drop small portions into medium-hot oil and fry in batches, turning so the vadas brown evenly and cook through.",
+    "Drain until the surface is dry and crisp; serve warm with coconut chutney."
+  ],
+  "tips": [
+    "Unlike soaked-dal medu vada, this quick rava vada gets body from hydrated semolina and yogurt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रवा वड़ा",
+      "ingredients": [
+        "सूजी",
+        "सादा दही",
+        "कटी प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "कटा हरा धनिया",
+        "बेकिंग सोडा",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "सूजी, दही और दिए पानी से गाढ़ा चम्मच से उठने वाला मिश्रण बनाएँ; ढककर दाने फूलने तक रखें।",
+        "बारीक प्याज़, मिर्च, अदरक, करी पत्ते, धनिया और नमक मिलाएँ; मिश्रण की छोटी ढेरी टिकनी चाहिए।",
+        "तलने से ठीक पहले बेकिंग सोडा डालकर हल्के मिलाएँ; ज़्यादा फेंटकर हवा न निकालें।",
+        "मध्यम गरम तेल में छोटी-छोटी मात्रा डालकर खेप में तलें; पलटते रहें ताकि वड़े बराबर भूरे हों और भीतर पकें।",
+        "सतह सूखी कुरकुरी होने पर तेल निथारें; नारियल चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "भीगी दाल के मेदु वड़े से अलग, झटपट रवा वड़े को भीगी सूजी और दही से बनावट मिलती है।"
+      ]
+    },
+    "gu": {
+      "name": "રવાના વડા",
+      "ingredients": [
+        "રવો",
+        "સાદું દહીં",
+        "સમારેલી ડુંગળી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "મીઠા લીમડાનાં પાન",
+        "સમારેલી કોથમીર",
+        "બેકિંગ સોડા",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "રવો, દહીં અને આપેલા પાણીથી જાડું ચમચીએ ચડે એવું ખીરું બનાવો; ઢાંકી દાણા ફૂલે ત્યાં સુધી રાખો.",
+        "ઝીણી ડુંગળી, મરચાં, આદુ, મીઠા લીમડાનાં પાન, કોથમીર અને મીઠું ભેળવો; મિશ્રણની નાની ઢગલી ટકવી જોઈએ.",
+        "તળતાં પહેલાં બેકિંગ સોડા છાંટી હળવે ભેળવો; વધારે ફેંટીને હવા ન કાઢો.",
+        "મધ્યમ ગરમ તેલમાં નાનાં ભાગ નાખી ખેપમાં તળો; ફેરવતા રહો જેથી વડાં સરખાં ભૂખરા થાય અને અંદર રંધાય.",
+        "સપાટી સૂકી કરકરી થાય ત્યારે તેલ નિતારો; નાળિયેરની ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "પલાળેલી દાળના મેંદુ વડાથી અલગ, ઝડપી રવા વડાને પલાળેલા રવા અને દહીંથી રચના મળે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.what2eat.in/recipes/rava-vada-recipe",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/rava-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

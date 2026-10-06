@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0368",
+  "id": "thavala-vadai",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Thavala Vadai",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "raw rice",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "idli rice",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "toor dal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "urad dal",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "split yellow moong dal",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse both rices and all four dals; soak together in the measured water until grains can be crushed but are not mushy.",
+    "Drain thoroughly and grind in batches with green chili and ginger to a coarse gritty mixture, not a smooth batter.",
+    "Fold in grated coconut, torn curry leaves and salt; press a little batter together to check it holds shape.",
+    "Shape small thick discs with damp hands and lower them gently into medium-hot oil in uncrowded batches.",
+    "Fry slowly until the centers cook and the outsides turn deep golden and crisp; drain and serve with coconut chutney."
+  ],
+  "tips": [
+    "The coarse mixture of rice and several dals is essential; a smooth paste loses thavala vadai’s bite."
+  ],
+  "translations": {
+    "hi": {
+      "name": "थवला वड़ा",
+      "ingredients": [
+        "कच्चे चावल",
+        "इडली चावल",
+        "चना दाल",
+        "अरहर दाल",
+        "उड़द दाल",
+        "धुली पीली मूंग दाल",
+        "ताज़ा कसा नारियल",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "दोनों चावल और चारों दालें धोकर दिए पानी में इतना भिगोएँ कि दाने दबें मगर लुगदी न बनें।",
+        "पूरी तरह निथारकर हरी मिर्च और अदरक के साथ खेप में मोटा दानेदार पीसें, चिकना घोल नहीं।",
+        "कसा नारियल, टूटे करी पत्ते और नमक मिलाएँ; थोड़ा मिश्रण दबाकर देखें कि आकार ठहरे।",
+        "गीले हाथों से छोटे मोटे चपटे वड़े बनाकर मध्यम गरम तेल में बिना भीड़ के डालें।",
+        "बीच पकने और बाहर गहरा सुनहरा कुरकुरा होने तक धीरे तलें; निथारकर नारियल चटनी संग परोसें।"
+      ],
+      "tips": [
+        "चावल और कई दालों का मोटा मिश्रण ज़रूरी है; चिकना पेस्ट थवला वड़े की दानेदार बनावट खो देता है।"
+      ]
+    },
+    "gu": {
+      "name": "થવલા વડા",
+      "ingredients": [
+        "કાચા ચોખા",
+        "ઇડલી ચોખા",
+        "ચણાની દાળ",
+        "તુવેર દાળ",
+        "અડદની દાળ",
+        "પીળી મગની દાળ",
+        "તાજું છીણેલું નાળિયેર",
+        "લીલાં મરચાં",
+        "આદુ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "બંને ચોખા અને ચારેય દાળ ધોઈ આપેલા પાણીમાં એટલા પલાળો કે દાણા દબાય પણ પોચા ન બને.",
+        "બરાબર નિતારી લીલાં મરચાં અને આદુ સાથે ખેપમાં જાડું દાણાદાર વાટો, સુંવાળું ખીરું નહીં.",
+        "છીણેલું નાળિયેર, તોડેલા મીઠા લીમડાનાં પાન અને મીઠું ભેળવો; થોડું મિશ્રણ દબાવી જુઓ કે આકાર ટકે છે.",
+        "ભીના હાથથી નાનાં જાડાં ચપટાં વડાં બનાવી મધ્યમ ગરમ તેલમાં ભીડ કર્યા વિના નાખો.",
+        "વચ્ચે રંધાય અને બહાર ઘેરા સોનેરી કરકરા થાય ત્યાં સુધી ધીમે તળો; નિતારી નાળિયેરની ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "ચોખા અને અનેક દાળનું જાડું મિશ્રણ જરૂરી છે; સુંવાળી પેસ્ટ થવલા વડાની દાણાદાર રચના ગુમાવે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.subbuskitchen.com/thavala-vadai/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/thavala-vadai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

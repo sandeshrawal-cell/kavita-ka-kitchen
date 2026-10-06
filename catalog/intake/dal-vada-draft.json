@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R0305",
+  "id": "dal-vada",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Dal Vada",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "split yellow moong dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, chopped",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, chopped",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water for grinding",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse moong dal and soak until swollen but not mushy, then drain thoroughly and leave in a sieve until surface moisture is gone.",
+    "Pulse the dal with ginger, chilli and very little water to a coarse paste with some visible lentil bits. Do not puree it smooth.",
+    "Mix in coriander, cumin, asafoetida and salt. Beat the mixture briefly to lighten it, then shape rough small mounds with wet hands.",
+    "Fry batches in medium-hot oil, turning gently after they firm up, until the vadas are evenly golden and cooked through.",
+    "Drain well and serve hot in the Gujarati street style with chutney and, if desired, fried green chillies."
+  ],
+  "tips": [
+    "Coarse grinding and complete draining make the vadas crisp rather than dense."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गुजराती दाल वडा",
+      "ingredients": [
+        "धुली मूंग दाल",
+        "अदरक, कटा",
+        "हरी मिर्च, कटी",
+        "हरा धनिया",
+        "जीरा",
+        "हींग",
+        "नमक",
+        "पीसने के लिए पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मूंग दाल धोकर फूलने तक भिगोएँ, गलने न दें। अच्छी तरह निथारकर छलनी में रखें ताकि ऊपर का पानी निकल जाए।",
+        "दाल को अदरक, मिर्च और बहुत कम पानी के साथ दरदरा पीसें; दाल के कुछ दाने दिखने चाहिए। एकदम चिकना पेस्ट न बनाएँ।",
+        "धनिया, जीरा, हींग और नमक मिलाएँ। मिश्रण हल्का करने के लिए थोड़ी देर फेंटें, फिर गीले हाथों से छोटी खुरदरी लोइयाँ बनाएँ।",
+        "मध्यम गरम तेल में थोड़े-थोड़े वडा डालें; आकार जमने पर धीरे पलटें और समान सुनहरे व अंदर से पके होने तक तलें।",
+        "अच्छी तरह निथारें और गुजराती सड़क-शैली में चटनी तथा चाहें तो तली हरी मिर्च के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "दाल दरदरी पीसने और अच्छी तरह निथारने से वडा भारी नहीं, कुरकुरा बनता है।"
+      ],
+      "passiveTime": "मूंग दाल भिगोने के लिए 3 घंटे"
+    },
+    "gu": {
+      "name": "ગુજરાતી દાળવડા",
+      "ingredients": [
+        "પીળી મગની દાળ",
+        "આદુ, સમારેલું",
+        "લીલું મરચું, સમારેલું",
+        "લીલા ધાણા",
+        "જીરું",
+        "હિંગ",
+        "મીઠું",
+        "પીસવા માટે પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મગની દાળ ધોઈ ફૂલે ત્યાં સુધી પલાળો, ગળી ન જાય તે જુઓ. સારી રીતે નિતારી ચાળણીમાં રાખી ઉપરનું પાણી કાઢો.",
+        "દાળને આદુ, મરચું અને બહુ ઓછા પાણી સાથે દરદરી પીસો; દાળના થોડા દાણા દેખાવા જોઈએ. એકદમ સુંવાળી પેસ્ટ ન બનાવો.",
+        "ધાણા, જીરું, હિંગ અને મીઠું ભેળવો. મિશ્રણ હળવું થાય એટલું ફેંટો, પછી ભીના હાથથી નાની ખરબચડી ગાંઠો બનાવો.",
+        "મધ્યમ ગરમ તેલમાં થોડા થોડા વડા મૂકો; આકાર જામી જાય ત્યારે હળવેથી પલટાવી સરખા સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો.",
+        "સારી રીતે નિતારી ગુજરાતી શેરીની રીતમાં ચટણી અને ઇચ્છા હોય તો તળેલા લીલા મરચાં સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "દાળ દરદરી પીસવાથી અને બરાબર નિતારવાથી વડા ભારે નહીં, કરકરા બને છે."
+      ],
+      "passiveTime": "મગની દાળ પલાળવા માટે 3 કલાક"
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/moong-dal-vada-recipe-moong-dal-pakoda/comment-page-1/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dal-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "3 hours soaking moong dal"
+}

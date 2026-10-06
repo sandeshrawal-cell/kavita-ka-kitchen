@@ -1,0 +1,83 @@
+{
+  "sourceReviewId": "R0384",
+  "id": "pita-chips",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Pita Chips",
+  "cuisine": "Mediterranean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "pita breads",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "zaatar spice blend",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 190°C. Split each pita around its edge into two thin rounds and cut each round into eight triangles.",
+    "Brush both sides lightly with olive oil; lay triangles in a single layer on baking trays without overlapping.",
+    "Scatter zaatar and salt evenly. Bake for 8–10 minutes, turning once, until golden at the edges and dry in the center.",
+    "Cool on the tray for 5 minutes; the chips crisp as they cool. Serve with a dip or store airtight when completely cold."
+  ],
+  "tips": [
+    "Watch the last two minutes closely; thin pita can burn suddenly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पीटा चिप्स",
+      "ingredients": [
+        "पीटा ब्रेड",
+        "जैतून तेल",
+        "ज़ातर मसाला मिश्रण",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 190°C गरम करें। हर पीटा को किनारे से खोलकर दो पतले गोले बनाएँ और हर गोले के आठ त्रिकोण काटें।",
+        "दोनों ओर हल्का जैतून तेल लगाएँ; त्रिकोण बेकिंग ट्रे पर बिना एक-दूसरे पर चढ़ाए एक परत में रखें।",
+        "ज़ातर और नमक बराबर छिड़कें। 8–10 मिनट एक बार पलटते हुए बेक करें; किनारे सुनहरे और बीच सूखा हो।",
+        "ट्रे पर 5 मिनट ठंडा करें; ठंडे होने पर और कुरकुरे होंगे। डिप के साथ परोसें या पूरी तरह ठंडे होने पर बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "आख़िरी दो मिनट ध्यान रखें; पतला पीटा अचानक जल सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "પિટા ચિપ્સ",
+      "ingredients": [
+        "પિટા બ્રેડ",
+        "ઑલિવ તેલ",
+        "ઝાતાર મસાલા મિશ્રણ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 190°C ગરમ કરો. દરેક પિટાને કિનારેથી ખોલી બે પાતળાં ગોળ બનાવો અને દરેક ગોળના આઠ ત્રિકોણ કાપો.",
+        "બંને બાજુ હળવું ઑલિવ તેલ લગાવો; ત્રિકોણ બેકિંગ ટ્રે પર એકબીજા પર ન ચઢે તેમ એક પડમાં મૂકો.",
+        "ઝાતાર અને મીઠું સરખું છાંટો. 8–10 મિનિટ એક વાર ફેરવી બેક કરો; કિનારી સોનેરી અને વચ્ચે સૂકું થાય.",
+        "ટ્રે પર 5 મિનિટ ઠંડાં કરો; ઠંડાં થતાં વધુ કરકરાં થશે. ડીપ સાથે પીરસો અથવા પૂરેપૂરા ઠંડાં થાય પછી હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "છેલ્લી બે મિનિટ ધ્યાન રાખો; પાતળું પિટા અચાનક બળી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pita-chips.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

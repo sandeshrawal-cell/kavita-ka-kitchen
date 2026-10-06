@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0332",
+  "id": "kurdai",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kurdai",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 2940,
+  "ingredients": [
+    {
+      "name": "whole wheat grains",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water for soaking and batter",
+      "qty": 1800,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "oil for greasing",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash wheat and soak overnight in part of the measured water. Drain, grind finely with fresh measured water and strain through muslin to collect the starch-rich milk.",
+    "Leave the wheat milk undisturbed so starch settles. Pour off the clear liquid carefully; repeat rinsing and settling until the starch is pale and clean.",
+    "Mix the settled starch with remaining water, salt and cumin. Cook over low heat, stirring constantly, until glossy, thick and translucent.",
+    "While warm, press the paste through a sev press into small coiled nests on a clean oiled sheet. Sun-dry completely for two days, turning once; keep covered from dust.",
+    "Store the brittle dried kurdai airtight. To serve, fry a few at a time in hot oil until they puff and turn crisp; drain immediately."
+  ],
+  "tips": [
+    "Any residual moisture causes stored kurdai to spoil, so finish sun-drying before sealing."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुरडई",
+      "ingredients": [
+        "साबुत गेहूँ",
+        "भिगोने और घोल का पानी",
+        "नमक",
+        "जीरा",
+        "चादर चिकनी करने का तेल",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "गेहूँ धोकर दिए पानी के कुछ भाग में रात भर भिगोएँ। छानकर नए दिए पानी के साथ बारीक पीसें और मलमल से छानकर दूधिया रस लें।",
+        "गेहूँ का दूध बिना हिलाए रखें ताकि स्टार्च नीचे बैठे। ऊपर का साफ़ पानी सावधानी से हटाएँ; स्टार्च हल्का और साफ़ होने तक धोना और बैठाना दोहराएँ।",
+        "बैठा स्टार्च बचे पानी, नमक और जीरे से मिलाएँ। धीमी आँच पर लगातार चलाते हुए चमकदार, गाढ़ा और पारदर्शी पकाएँ।",
+        "गरम रहते पेस्ट को सेव मशीन से तेल लगी साफ़ चादर पर छोटे घुमावदार चक्रों में निकालें। दो दिन पूरी तरह धूप में सुखाएँ और बीच में पलटें; धूल से बचाएँ।",
+        "पूरी सूखी कुरडई बंद डिब्बे में रखें। परोसने के लिए गरम तेल में थोड़ी-थोड़ी डालें; फूलकर कुरकुरी होते ही निकालें।"
+      ],
+      "tips": [
+        "थोड़ी भी नमी रखी कुरडई खराब कर सकती है, इसलिए डिब्बा बंद करने से पहले पूरी सुखाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "કુરડઈ",
+      "ingredients": [
+        "આખા ઘઉં",
+        "પલાળવા અને ખીરા માટે પાણી",
+        "મીઠું",
+        "જીરું",
+        "ચાદર ચોપડવા તેલ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ઘઉં ધોઈ આપેલા થોડા પાણીમાં રાતભર પલાળો. નિતારી નવા આપેલા પાણી સાથે બારીક પીસો અને મલમલથી ગાળી દૂધિયો રસ લો.",
+        "ઘઉંનું દૂધ હલાવ્યા વગર રાખો જેથી સ્ટાર્ચ નીચે બેસે. ઉપરનું સ્વચ્છ પાણી સાવધાનીથી કાઢો; સ્ટાર્ચ આછો અને સ્વચ્છ થાય ત્યાં સુધી ધોઈને બેસાડવાની પ્રક્રિયા દોહરાવો.",
+        "બેસેલા સ્ટાર્ચમાં બાકીનું પાણી, મીઠું અને જીરું ભેળવો. ધીમા તાપે સતત હલાવતાં ચમકતું, ઘટ્ટ અને પારદર્શક થાય ત્યાં સુધી રાંધો.",
+        "ગરમ હોય ત્યારે પેસ્ટને સેવના સંચાથી તેલ લગાડેલી ચોખ્ખી ચાદર પર નાનાં ગૂંચવાયેલા ચક્રોમાં પાડો. બે દિવસ તડકામાં સંપૂર્ણ સુકવો અને વચ્ચે ફેરવો; ધૂળથી બચાવો.",
+        "સંપૂર્ણ સુકી કુરડઈ હવાચુસ્ત ડબ્બામાં રાખો. પીરસવા માટે ગરમ તેલમાં થોડીથોડી નાખો; ફૂલીને કરકરી થાય કે તરત કાઢો."
+      ],
+      "tips": [
+        "જરાય ભેજ રહી જાય તો સાચવેલી કુરડઈ બગડે, એટલે ડબ્બો બંધ કરતાં પહેલાં પૂરી સુકવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.youtube.com/watch?v=Qe1XnFWFmEM",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/kurdai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

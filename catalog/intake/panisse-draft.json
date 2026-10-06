@@ -1,0 +1,103 @@
+{
+  "sourceReviewId": "R0390",
+  "id": "panisse",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Panisse",
+  "cuisine": "French",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lemon",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk chickpea flour into cold water until smooth. Add salt and 20 ml of the measured olive oil.",
+    "Cook over medium-low heat for 12–15 minutes, stirring constantly, until a very thick paste pulls away from the pan sides.",
+    "Spread 2 cm thick in an oiled tray, flatten the top and chill at least 2 hours until firm. Cut into sturdy fingers.",
+    "Heat remaining olive oil in a wide skillet and shallow-fry in batches 3–4 minutes per side until both faces have a deep golden crust.",
+    "Drain briefly, add black pepper and serve hot with lemon wedges; the center should remain tender and creamy."
+  ],
+  "tips": [
+    "Chill the slab until truly firm; warm paste will fall apart in the skillet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनिस",
+      "ingredients": [
+        "बेसन",
+        "पानी",
+        "जैतून तेल",
+        "नमक",
+        "काली मिर्च",
+        "नींबू"
+      ],
+      "steps": [
+        "बेसन को ठंडे पानी में गुठली रहित फेंटें। नमक और दिए जैतून तेल में से 20 मि.ली. मिलाएँ।",
+        "मध्यम-धीमी आँच पर 12–15 मिनट लगातार चलाकर पकाएँ; बहुत गाढ़ा पेस्ट पैन के किनारे छोड़ने लगे।",
+        "तेल लगी ट्रे में 2 से.मी. मोटा फैलाकर ऊपर समतल करें और कम से कम 2 घंटे सख्त होने तक ठंडा करें। मोटी लंबी कतरनें काटें।",
+        "बचा जैतून तेल चौड़े तवे में गरम करें और थोड़े-थोड़े टुकड़े हर तरफ़ 3–4 मिनट गहरी सुनहरी परत बनने तक तलें।",
+        "थोड़ी देर तेल निथारें, काली मिर्च डालें और नींबू के साथ गरम परोसें; बीच नरम मलाईदार रहे।"
+      ],
+      "tips": [
+        "टुकड़ा सचमुच सख्त होने तक ठंडा करें; गरम पेस्ट तवे में टूट जाएगा।"
+      ],
+      "passiveTime": "तलने से पहले जमने के लिए 2 घंटे ठंडा करें।"
+    },
+    "gu": {
+      "name": "પાનિસ",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "પાણી",
+        "ઑલિવ તેલ",
+        "મીઠું",
+        "કાળા મરી",
+        "લીંબુ"
+      ],
+      "steps": [
+        "ચણાનો લોટ ઠંડા પાણીમાં ગાંઠ વગર ફેંટો. મીઠું અને આપેલા ઑલિવ તેલમાંથી 20 મિ.લી. ભેળવો.",
+        "મધ્યમ-ધીમા તાપે 12–15 મિનિટ સતત હલાવી રાંધો; ખૂબ ઘટ્ટ પેસ્ટ કડાઈની ધાર છોડવા લાગે.",
+        "તેલ લગાડેલી ટ્રેમાં 2 સે.મી. જાડું પાથરી સપાટી સમાન કરો અને ઓછામાં ઓછા 2 કલાક કડક થાય ત્યાં સુધી ઠંડું કરો. જાડી પટ્ટીઓ કાપો.",
+        "બાકીનું ઑલિવ તેલ પહોળી કડાઈમાં ગરમ કરી થોડા થોડા ટુકડા દરેક બાજુ 3–4 મિનિટ ઘેરું સોનેરી પડ થાય ત્યાં સુધી તળો.",
+        "થોડી વાર તેલ નિતારી કાળા મરી નાખો અને લીંબુ સાથે ગરમ પીરસો; વચ્ચે નરમ મલાઈદાર રહે."
+      ],
+      "tips": [
+        "થર ખરેખર કડક થાય ત્યાં સુધી ઠંડો કરો; ગરમ પેસ્ટ કડાઈમાં તૂટી જશે."
+      ],
+      "passiveTime": "તળતાં પહેલાં જામવા માટે 2 કલાક ઠંડું કરો."
+    }
+  },
+  "photoDraft": "catalog/intake/photos/panisse.png",
+  "passiveTime": "Chill 2 hours to set before frying.",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

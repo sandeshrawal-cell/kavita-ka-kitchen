@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0343",
+  "id": "mysore-bonda",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Mysore Bonda",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coconut, finely chopped",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk yogurt smooth. Stir in both flours, coconut, chilli, ginger, cumin and salt to make a thick batter.",
+    "Add just enough water to let the batter fall slowly from a spoon. Beat well to incorporate air; rest briefly.",
+    "Fold in baking soda just before frying. Heat oil to medium; a small drop of batter should rise steadily, not darken at once.",
+    "Drop rounded spoonfuls into oil, leaving space for them to puff. Turn gently and fry until evenly golden and cooked in the centre.",
+    "Drain and serve hot with coconut chutney; the inside should be light and spongy."
+  ],
+  "tips": [
+    "This instant bonda uses soda for lift; unlike goli baje, the batter does not need long fermentation."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मैसूर बोंडा",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "चावल का आटा",
+        "बारीक ताज़ा नारियल",
+        "कटी हरी मिर्च",
+        "बारीक अदरक",
+        "जीरा",
+        "खाने का सोडा",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "दही चिकना फेंटें। दोनों आटे, नारियल, मिर्च, अदरक, जीरा और नमक डालकर गाढ़ा घोल बनाएँ।",
+        "बस इतना पानी डालें कि घोल चम्मच से धीरे गिरे। हवा भरने के लिए अच्छी तरह फेंटें; थोड़ी देर रखें।",
+        "तलने से ठीक पहले खाने का सोडा मिलाएँ। तेल मध्यम गरम करें; घोल की छोटी बूँद धीरे ऊपर आए, तुरंत काली न हो।",
+        "गोल चम्मचभर घोल तेल में डालें और फूलने की जगह छोड़ें। हल्के पलटकर बराबर सुनहरे और बीच तक पके तलें।",
+        "तेल छानकर नारियल चटनी के साथ गरम परोसें; भीतर हल्का और स्पंजी होना चाहिए।"
+      ],
+      "tips": [
+        "यह तुरंत बनने वाला बोंडा फूलने के लिए सोडा लेता है; गोली बाजे की तरह लंबे खमीर की ज़रूरत नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "મૈસૂર બોંડા",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "ચોખાનો લોટ",
+        "બારીક તાજું નાળિયેર",
+        "સમારેલાં લીલાં મરચાં",
+        "બારીક આદુ",
+        "જીરું",
+        "ખાવાનો સોડા",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "દહીં લીસું ફેંટો. બંને લોટ, નાળિયેર, મરચાં, આદુ, જીરું અને મીઠું ઉમેરી ઘટ્ટ ખીરું બનાવો.",
+        "ખીરું ચમચીમાંથી ધીમે પડે એટલું જ પાણી ઉમેરો. હવા ભળે માટે સારી રીતે ફેંટો; થોડી વાર રાખો.",
+        "તળતાં પહેલાં ખાવાનો સોડા ભેળવો. તેલ મધ્યમ ગરમ કરો; ખીરાનું નાનું ટીપું ધીમે ઉપર આવે, તરત કાળું ન થાય.",
+        "ગોળ ચમચીભર ખીરું તેલમાં નાખો અને ફૂલવાની જગ્યા છોડો. હળવે ફેરવી સરખા સોનેરી અને મધ્ય સુધી રંધાય ત્યાં સુધી તળો.",
+        "તેલ નિતારી નાળિયેરની ચટણી સાથે ગરમ પીરસો; અંદર હળવું અને પોચું હોવું જોઈએ."
+      ],
+      "tips": [
+        "આ તરત બનતું બોંડા ફૂલવા સોડા વાપરે છે; ગોલી બાજેની જેમ લાંબા આથાની જરૂર નથી."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/mysore-bonda-recipe-mysore-bajji/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/mysore-bonda.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

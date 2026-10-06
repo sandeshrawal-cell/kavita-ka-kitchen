@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0340",
+  "id": "piaji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Piaji",
+  "cuisine": "Odia",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 300,
+  "ingredients": [
+    {
+      "name": "split Bengal gram",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "red onions, thinly sliced",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water for soaking",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and soak chana dal until plump. Drain completely; keep a small handful whole and grind the rest coarsely without extra water.",
+    "Mix the dal paste with whole dal, onion, minced chillies, ginger, coriander, cumin and salt. Squeeze gently so the onion moisture binds the mixture.",
+    "Heat oil over medium heat. Press portions between damp palms into small flat patties with ragged edges.",
+    "Slide patties into oil in small batches. Fry slowly, turning, until both sides are deep golden and the lentil centre is fully cooked.",
+    "Drain well and serve while crisp, traditionally with puffed rice and tea."
+  ],
+  "tips": [
+    "Coarse dal and flattened shape distinguish piaji from soft round lentil fritters."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पियाजी",
+      "ingredients": [
+        "चना दाल",
+        "लाल प्याज, पतले कटे",
+        "हरी मिर्च",
+        "अदरक",
+        "हरा धनिया",
+        "जीरा",
+        "नमक",
+        "भिगोने का पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "चना दाल धोकर फूलने तक भिगोएँ। पूरा पानी निकालें; थोड़ी दाल साबुत रखें और बाकी बिना पानी दरदरी पीसें।",
+        "दाल पेस्ट में साबुत दाल, प्याज, बारीक मिर्च, अदरक, धनिया, जीरा और नमक मिलाएँ। हल्का दबाएँ ताकि प्याज की नमी मिश्रण बाँधे।",
+        "तेल मध्यम आँच पर गरम करें। गीली हथेलियों के बीच छोटे हिस्से दबाकर खुरदरे किनारे वाले चपटे वड़े बनाएँ।",
+        "वड़े थोड़े-थोड़े तेल में डालें। पलटते हुए धीरे तलें जब तक दोनों तरफ गहरा सुनहरा और बीच की दाल पूरी पकी न हो।",
+        "अच्छी तरह तेल छानें और कुरकुरे रहते परोसें; पारंपरिक रूप से मुरमुरे और चाय के साथ।"
+      ],
+      "tips": [
+        "दरदरी दाल और चपटा आकार पियाजी को नरम गोल दाल-पकोड़ों से अलग करते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "પિયાજી",
+      "ingredients": [
+        "ચણા દાળ",
+        "લાલ ડુંગળી, પાતળી સમારેલી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "લીલી કોથમીર",
+        "જીરું",
+        "મીઠું",
+        "પલાળવાનું પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણા દાળ ધોઈ ફૂલે ત્યાં સુધી પલાળો. સંપૂર્ણ નિતારો; થોડી દાળ આખી રાખો અને બાકીની પાણી વગર અધકચરી પીસો.",
+        "દાળની પેસ્ટમાં આખી દાળ, ડુંગળી, બારીક મરચાં, આદુ, કોથમીર, જીરું અને મીઠું ભેળવો. હળવે દબાવો જેથી ડુંગળીનો રસ મિશ્રણ બાંધે.",
+        "તેલ મધ્યમ તાપે ગરમ કરો. ભીના હાથ વચ્ચે નાના ભાગને ચપટા, ખરબચડી કિનારીવાળા વડા બનાવો.",
+        "વડા થોડા થોડા તેલમાં નાખો. ફેરવતાં ધીમે તળો જ્યાં સુધી બંને બાજુ ઘેરા સોનેરી અને મધ્યની દાળ પૂરી રંધાય નહીં.",
+        "સારી રીતે તેલ નિતારો અને કરકરા હોય ત્યારે પીરસો; પરંપરાગત રીતે મમરા અને ચા સાથે."
+      ],
+      "tips": [
+        "અધકચરી દાળ અને ચપટો આકાર પિયાજીને નરમ ગોળ દાળ-પકોડાથી અલગ પાડે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.firsttimercook.com/piaji-chana-dal-fritters-in-odia-style/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/piaji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

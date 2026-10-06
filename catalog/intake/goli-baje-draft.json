@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0344",
+  "id": "goli-baje",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Goli Baje",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 210,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coconut bits",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, minced",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk yogurt with a little measured water. Mix in both flours and salt, beating into a thick smooth batter.",
+    "Cover and rest the batter in a warm spot until lightly tangy and bubbly; this coastal version relies on this rest for its soft interior.",
+    "Fold in coconut, chilli, ginger and curry leaves without knocking all the air out. Add only enough remaining water if the batter is too stiff.",
+    "Heat oil over medium heat. Drop small rounded portions and fry slowly, turning as they puff into irregular golden balls.",
+    "Drain and serve fresh with coconut chutney; the crust is lightly crisp and the middle fluffy."
+  ],
+  "tips": [
+    "A thick, rested batter gives goli baje its characteristic tang and airy texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोली बाजे",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "चावल का आटा",
+        "ताज़ा नारियल के टुकड़े",
+        "कटी हरी मिर्च",
+        "बारीक अदरक",
+        "कटे करी पत्ते",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "दही में थोड़ा दिया पानी फेंटें। दोनों आटे और नमक मिलाकर गाढ़ा चिकना घोल बनाएँ।",
+        "घोल ढककर गरम जगह हल्का खट्टा और बुलबुला बनने तक रखें; समुद्री तट वाला रूप इस विश्राम से भीतर नरम बनता है।",
+        "नारियल, मिर्च, अदरक और करी पत्ते हल्के हाथ से मिलाएँ ताकि हवा बनी रहे। घोल बहुत सख्त हो तभी बचा पानी डालें।",
+        "तेल मध्यम आँच पर गरम करें। छोटे गोल हिस्से डालकर धीरे तलें; फूलकर अनगढ़ सुनहरी गोलियाँ बनें तब तक पलटें।",
+        "तेल छानकर नारियल चटनी के साथ ताज़ा परोसें; बाहर हल्का कुरकुरा और भीतर फूला नरम हो।"
+      ],
+      "tips": [
+        "गाढ़ा विश्राम किया घोल गोली बाजे को खास खट्टापन और हल्की बनावट देता है।"
+      ]
+    },
+    "gu": {
+      "name": "ગોલી બાજે",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "ચોખાનો લોટ",
+        "તાજા નાળિયેરના ટુકડા",
+        "સમારેલાં લીલાં મરચાં",
+        "બારીક આદુ",
+        "સમારેલાં મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "દહીંમાં આપેલું થોડું પાણી ફેંટો. બંને લોટ અને મીઠું ભેળવી ઘટ્ટ લીસું ખીરું બનાવો.",
+        "ખીરું ઢાંકી ગરમ જગ્યાએ થોડું ખાટું અને પરપોટાવાળું થાય ત્યાં સુધી રાખો; દરિયાકાંઠાના આ પ્રકારમાં આથાથી અંદર નરમ બને છે.",
+        "નાળિયેર, મરચાં, આદુ અને મીઠા લીમડાનાં પાન હળવે ભેળવો જેથી હવા જળવાય. ખીરું બહુ કઠણ હોય ત્યારે જ બાકીનું પાણી ઉમેરો.",
+        "તેલ મધ્યમ તાપે ગરમ કરો. નાનાં ગોળ ભાગ નાખી ધીમે તળો; ફૂલીને ખરબચડી સોનેરી ગોળીઓ બને ત્યાં સુધી ફેરવો.",
+        "તેલ નિતારી નાળિયેરની ચટણી સાથે તાજું પીરસો; બહાર હળવું કરકરું અને અંદર ફૂલેલું નરમ હોય."
+      ],
+      "tips": [
+        "ઘટ્ટ આથેલું ખીરું ગોલી બાજેને ખાસ ખટાશ અને હલકી બનાવટ આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://karnatakatourism.org/en/experiences/goli-baje/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/goli-baje.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

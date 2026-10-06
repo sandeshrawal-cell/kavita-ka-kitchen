@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0391",
+  "id": "fried-pickles",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Fried Pickles",
+  "cuisine": "American",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "dill pickle slices",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "buttermilk",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "fine breadcrumbs",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 550,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Drain pickle slices well and pat completely dry; wet pickles make the coating slide off.",
+    "Set up separate shallow bowls of flour, buttermilk, and breadcrumbs mixed with paprika. Coat each slice in flour, then buttermilk, then crumbs.",
+    "Heat oil to 175°C. Fry slices in small batches for 2–3 minutes, turning once, until the crumbs are golden and crisp.",
+    "Drain on a rack for 2 minutes and serve while the center is tangy and the crust crisp."
+  ],
+  "tips": [
+    "Choose firm pickle slices, not very thin soft ones; they hold the crust better."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तले अचार की फाँकें",
+      "ingredients": [
+        "डिल अचार की फाँकें",
+        "मैदा",
+        "छाछ",
+        "बारीक ब्रेड चूरा",
+        "स्मोक्ड पपरिका",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "अचार की फाँकें अच्छी तरह निथारकर पूरी सुखाएँ; गीली फाँकों से परत उतर जाती है।",
+        "मैदा, छाछ और पपरिका मिले ब्रेड चूरे के अलग उथले बर्तन रखें। हर फाँक को मैदा, छाछ और फिर चूरे में लपेटें।",
+        "तेल 175°C गरम करें। फाँकें थोड़ी-थोड़ी 2–3 मिनट एक बार पलटकर चूरा सुनहरा कुरकुरा होने तक तलें।",
+        "जाली पर 2 मिनट तेल निथारें और भीतर खट्टा व बाहर कुरकुरा हो तभी परोसें।"
+      ],
+      "tips": [
+        "सख्त अचार की फाँकें लें, बहुत पतली नरम नहीं; उन पर परत अच्छी टिकती है।"
+      ]
+    },
+    "gu": {
+      "name": "તળેલી અથાણાની ચીરીઓ",
+      "ingredients": [
+        "ડિલ અથાણાની ચીરીઓ",
+        "મેંદો",
+        "છાશ",
+        "ઝીણો બ્રેડ ભૂકો",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "તળવાનું સાદું તેલ"
+      ],
+      "steps": [
+        "અથાણાની ચીરીઓ સારી રીતે નિતારી સંપૂર્ણ સુકવો; ભીની ચીરીઓ પરથી પડ ઊતરી જાય છે.",
+        "મેંદો, છાશ અને પૅપ્રિકા ભેળવેલા બ્રેડ ભૂકાનાં અલગ છીછરાં વાસણ રાખો. દરેક ચીરીને મેંદો, છાશ અને પછી ભૂકામાં ચોપડો.",
+        "તેલ 175°C ગરમ કરો. ચીરીઓ થોડી થોડી 2–3 મિનિટ એક વાર ફેરવી ભૂકો સોનેરી કરકરો થાય ત્યાં સુધી તળો.",
+        "જાળી પર 2 મિનિટ તેલ નિતારો અને અંદર ખાટું તથા બહાર કરકરું હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "કડક અથાણાની ચીરીઓ લો, બહુ પાતળી નરમ નહીં; તેના પર પડ સારી રીતે ટકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/fried-pickles.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

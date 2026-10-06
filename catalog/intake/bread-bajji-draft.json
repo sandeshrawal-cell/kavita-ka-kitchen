@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0370",
+  "id": "bread-bajji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Bread Bajji",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "white bread slices",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 215,
+      "unit": "ml"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut each bread slice diagonally into triangles and let any surface moisture dry so the batter will cling.",
+    "Whisk gram flour, rice flour, chili, turmeric, asafoetida and salt with measured water into a smooth medium-thick batter.",
+    "Heat oil over medium heat. Dip one bread triangle quickly so both faces are coated but the crumb does not soak through.",
+    "Fry a few triangles at a time, turning carefully until the batter puffs and becomes evenly golden and crisp.",
+    "Drain upright on a rack and serve promptly with coconut chutney while the bread center stays soft."
+  ],
+  "tips": [
+    "A quick dip keeps the bread tender inside and the bajji coating crisp outside."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ब्रेड बज्जी",
+      "ingredients": [
+        "सफ़ेद ब्रेड स्लाइस",
+        "बेसन",
+        "चावल का आटा",
+        "पानी",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "हींग",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "ब्रेड के हर स्लाइस को तिरछे त्रिकोण में काटें और सतह की नमी सुखाएँ ताकि घोल चिपके।",
+        "बेसन, चावल का आटा, मिर्च, हल्दी, हींग और नमक दिए पानी से फेंटकर चिकना मध्यम गाढ़ा घोल बनाएँ।",
+        "तेल मध्यम गरम करें। ब्रेड त्रिकोण जल्दी डुबोकर दोनों तरफ़ लेप करें, पर भीतर तक भीगने न दें।",
+        "कुछ त्रिकोण एक बार में तलें; ध्यान से पलटें ताकि घोल फूलकर बराबर सुनहरा कुरकुरा बने।",
+        "जाली पर खड़ा करके निथारें और ब्रेड का भीतर का हिस्सा नरम रहते नारियल चटनी संग तुरंत दें।"
+      ],
+      "tips": [
+        "झटपट डुबकी से ब्रेड भीतर नरम और बज्जी का बाहर का घोल कुरकुरा रहता है।"
+      ]
+    },
+    "gu": {
+      "name": "બ્રેડ બજ્જી",
+      "ingredients": [
+        "સફેદ બ્રેડ સ્લાઇસ",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "હિંગ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "બ્રેડની દરેક સ્લાઇસને ત્રાંસી ત્રિકોણમાં કાપો અને ઉપરનો ભેજ સૂકવો જેથી ખીરું ચોંટે.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, હિંગ અને મીઠું આપેલા પાણીથી ફેંટીને સુંવાળું મધ્યમ જાડું ખીરું બનાવો.",
+        "તેલ મધ્યમ ગરમ કરો. બ્રેડના ત્રિકોણને ઝડપથી ડૂબાડી બંને બાજુ પડ ચડાવો, પણ અંદર સુધી ભીંજાવા ન દો.",
+        "થોડાં ત્રિકોણ એક સાથે તળો; સાવચેતીથી ફેરવો જેથી ખીરું ફૂલી સરખું સોનેરી કરકરું બને.",
+        "જાળી પર ઊભા રાખી નિતારો અને બ્રેડનો અંદરનો ભાગ નરમ હોય ત્યારે નાળિયેરની ચટણી સાથે તરત આપો."
+      ],
+      "tips": [
+        "ઝડપી ડૂબકીથી બ્રેડ અંદર નરમ અને બજ્જીનો બહારનો પડ કરકરો રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.sharmispassions.com/bread-bajji-recipe-bread-pakora/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/bread-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

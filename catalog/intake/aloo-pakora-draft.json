@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0302",
+  "id": "aloo-pakora",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Aloo Pakora",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "potatoes, peeled",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slice peeled potatoes into uniformly thin rounds and pat them dry; thick slices may remain raw in the centre.",
+    "Whisk gram flour, rice flour, chilli, carom, turmeric and salt. Add water gradually to make a smooth batter that coats a spoon without running off.",
+    "Heat oil to medium hot. Dip each potato slice in batter, let the excess drip off and slide it carefully into the oil in small batches.",
+    "Fry, turning once the coating sets, until both sides are golden and the potato inside is tender. Adjust the heat so the crust does not brown before the potato cooks.",
+    "Drain on a rack or absorbent paper and serve warm with chutney."
+  ],
+  "tips": [
+    "Cut the potato thinly and evenly so the centre cooks before the crust gets too dark."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू पकोड़ा",
+      "ingredients": [
+        "आलू, छिले",
+        "बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "अजवाइन",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "छिले आलू के बराबर पतले गोल टुकड़े काटकर सुखाएँ; मोटे टुकड़े भीतर से कच्चे रह सकते हैं।",
+        "बेसन, चावल का आटा, मिर्च, अजवाइन, हल्दी और नमक फेंटें। पानी धीरे-धीरे डालकर ऐसा चिकना घोल बनाएँ जो चम्मच पर चढ़े पर बहे नहीं।",
+        "तेल मध्यम गरम करें। आलू का हर टुकड़ा घोल में डुबोएँ, अतिरिक्त घोल टपकाएँ और थोड़े-थोड़े टुकड़े तेल में सावधानी से डालें।",
+        "परत जमने पर पलटते हुए दोनों ओर सुनहरा और भीतर आलू नरम होने तक तलें। आँच ऐसी रखें कि आलू पकने से पहले परत न जल जाए।",
+        "जाली या सोखने वाले कागज़ पर निथारें और चटनी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "आलू समान रूप से पतला काटें ताकि परत गहरी होने से पहले भीतर पक जाए।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકાના ભજિયા",
+      "ingredients": [
+        "બટાકા, છોલેલા",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "અજમો",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "છોલેલા બટાકાની એકસરખી પાતળી ગોળ ચીરીઓ કરી સૂકવો; જાડી ચીરીઓ અંદરથી કાચી રહી શકે છે.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, અજમો, હળદર અને મીઠું ફેંટો. પાણી ધીરે ઉમેરતાં ચમચીને ચોંટે પણ વહે નહીં એવું સુંવાળું ખીરું બનાવો.",
+        "તેલ મધ્યમ ગરમ કરો. બટાકાની દરેક ચીરી ખીરામાં ડૂબાડી વધારું ખીરું ટપકવા દો અને થોડા થોડા ટુકડા સાવચેતીથી તેલમાં મૂકો.",
+        "પડ જામી જાય પછી પલટાવી બંને બાજુ સોનેરી થાય અને અંદરનો બટાકો નરમ પડે ત્યાં સુધી તળો. બટાકો પાકે તે પહેલાં પડ બળી ન જાય એવો તાપ રાખો.",
+        "જાળી અથવા શોષક કાગળ પર નિતારી ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બટાકા એકસરખા પાતળા કાપો જેથી પડ ઘેરો થાય તે પહેલાં અંદર પાકે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/aloo-pakora-aloo-bajji/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/aloo-pakora.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

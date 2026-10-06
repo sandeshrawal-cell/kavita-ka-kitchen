@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0309",
+  "id": "kara-boondi",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kara Boondi",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water, approximately",
+      "qty": 260,
+      "unit": "ml"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves, dried well",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk gram and rice flours with half the salt and water into a lump-free batter that runs from a spoon in a steady ribbon.",
+    "Heat oil to medium hot. Hold a perforated boondi ladle just above it and pour a little batter onto the ladle so round drops fall through. Fry in small batches until crisp.",
+    "Wipe and dry the ladle between batches so boondi stays round. Separately fry peanuts until crisp and dry curry leaves briefly until brittle.",
+    "Drain everything fully and toss the cool boondi with peanuts, curry leaves, chilli, asafoetida and the remaining salt.",
+    "Let the mixture cool completely before serving or storing airtight."
+  ],
+  "tips": [
+    "The batter must flow freely but not be watery; wipe the perforated ladle after each batch."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कारा बूंदी",
+      "ingredients": [
+        "बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "हींग",
+        "नमक",
+        "पानी, लगभग",
+        "कच्ची मूँगफली",
+        "करी पत्ते, अच्छी तरह सूखे",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "बेसन और चावल के आटे में आधा नमक तथा पानी फेंटकर बिना गुठली वाला घोल बनाएँ जो चम्मच से लगातार धार में गिरे।",
+        "तेल मध्यम गरम करें। छेद वाली बूंदी झारी तेल के ठीक ऊपर रखकर उस पर थोड़ा घोल डालें ताकि गोल बूँदें गिरें। थोड़ी-थोड़ी बूंदी कुरकुरी होने तक तलें।",
+        "हर खेप के बीच झारी पोंछकर सुखाएँ ताकि बूंदी गोल बने। अलग से मूँगफली कुरकुरी और सूखे करी पत्ते थोड़ी देर भुरभुरे होने तक तलें।",
+        "सबका तेल अच्छी तरह निथारें। ठंडी बूंदी में मूँगफली, करी पत्ते, मिर्च, हींग और बचा नमक मिलाएँ।",
+        "मिश्रण पूरी तरह ठंडा करके परोसें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "घोल आसानी से गिरे पर पानी जैसा न हो; हर खेप बाद झारी पोंछें।"
+      ]
+    },
+    "gu": {
+      "name": "કારા બૂંદી",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "હિંગ",
+        "મીઠું",
+        "પાણી, અંદાજે",
+        "કાચી મગફળી",
+        "મીઠા લીમડાનાં પાન, સારી રીતે સૂકવેલાં",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણાના અને ચોખાના લોટમાં અડધું મીઠું તથા પાણી ફેંટીને ગાંઠ વગરનું ખીરું બનાવો, જે ચમચીથી સતત ધાર પડે એવું હોય.",
+        "તેલ મધ્યમ ગરમ કરો. છિદ્રવાળી બૂંદીની ઝારી તેલની ઉપર રાખી થોડું ખીરું રેડો જેથી ગોળ ટીપાં પડે. થોડી થોડી બૂંદી કરકરી થાય ત્યાં સુધી તળો.",
+        "દરેક વારા પછી ઝારી લૂછીને સૂકવો જેથી બૂંદી ગોળ બને. અલગથી મગફળી કરકરી અને સૂકા લીમડાનાં પાન થોડા સમય ભુરભુરાં થાય ત્યાં સુધી તળો.",
+        "બધું સારી રીતે નિતારો. ઠંડી બૂંદીમાં મગફળી, લીમડાનાં પાન, મરચું, હિંગ અને બાકી મીઠું ભેળવો.",
+        "મિશ્રણ સંપૂર્ણ ઠંડું કરી પીરસો અથવા હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "ખીરું સહેલાઈથી પડે પણ પાણી જેવું ન હોય; દરેક વારા પછી ઝારી લૂછો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://rakskitchen.net/kara-boondi-recipe-easy-diwali-snacks-recipes/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/kara-boondi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

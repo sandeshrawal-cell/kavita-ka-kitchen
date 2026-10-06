@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0375",
+  "id": "mushroom-manchurian",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Mushroom Manchurian",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "button mushrooms",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "green chilies",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 27,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "vinegar",
+      "qty": 16,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onion greens",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wipe the mushrooms clean rather than soaking them, trim stems and halve only the large ones; dry well.",
+    "Whisk gram flour, most cornflour, salt and most measured water into a thick batter; reserve a little cornflour and water for sauce.",
+    "Coat mushrooms and fry in small batches in medium-hot oil until the coating is crisp and the mushrooms are cooked; drain on a rack.",
+    "Sauté minced garlic, ginger and chilies in a hot wok; add soy sauce, ketchup, vinegar and reserved slurry, simmering until glossy.",
+    "Toss the crisp mushrooms through the sauce just before serving and scatter spring onion greens on top."
+  ],
+  "tips": [
+    "Keep the sauce thick and toss at the last moment so the mushroom coating stays crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम मंचूरियन",
+      "ingredients": [
+        "बटन मशरूम",
+        "बेसन",
+        "कॉर्नफ्लोर",
+        "पानी",
+        "तलने का तेल",
+        "लहसुन",
+        "अदरक",
+        "हरी मिर्च",
+        "सोया सॉस",
+        "टमाटर केचप",
+        "सिरका",
+        "हरे प्याज के पत्ते",
+        "नमक"
+      ],
+      "steps": [
+        "मशरूम भिगोने के बजाय पोंछें, डंठल छाँटें और केवल बड़े मशरूम आधे करें; अच्छी तरह सुखाएँ।",
+        "बेसन, अधिकतर कॉर्नफ्लोर, नमक और अधिकतर दिए पानी से गाढ़ा घोल बनाएँ; थोड़ा कॉर्नफ्लोर और पानी सॉस के लिए रखें।",
+        "मशरूम घोल में लपेटकर मध्यम गरम तेल में छोटी खेप में तलें जब तक परत कुरकुरी और मशरूम पकें; जाली पर निथारें।",
+        "गरम कड़ाही में बारीक लहसुन, अदरक और मिर्च भूनें; सोया सॉस, केचप, सिरका और बचा घोल डालकर चमकदार होने तक पकाएँ।",
+        "परोसने से ठीक पहले कुरकुरे मशरूम सॉस में मिलाएँ और ऊपर हरे प्याज के पत्ते छिड़कें।"
+      ],
+      "tips": [
+        "सॉस गाढ़ी रखें और आख़िरी क्षण मिलाएँ ताकि मशरूम की परत कुरकुरी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ મંચુરિયન",
+      "ingredients": [
+        "બટન મશરૂમ",
+        "ચણાનો લોટ",
+        "કોર્નફ્લોર",
+        "પાણી",
+        "તળવા માટે તેલ",
+        "લસણ",
+        "આદુ",
+        "લીલાં મરચાં",
+        "સોયા સોસ",
+        "ટમેટા કેચપ",
+        "વિનેગર",
+        "લીલી ડુંગળીના પાન",
+        "મીઠું"
+      ],
+      "steps": [
+        "મશરૂમ પલાળવાને બદલે લૂછો, દાંડી કાપો અને ફક્ત મોટા મશરૂમ અડધા કરો; સારી રીતે સૂકવો.",
+        "ચણાનો લોટ, મોટાભાગનો કોર્નફ્લોર, મીઠું અને આપેલું મોટાભાગનું પાણી ભેળવી જાડું ખીરું બનાવો; થોડો કોર્નફ્લોર અને પાણી સોસ માટે રાખો.",
+        "મશરૂમને ખીરામાં લપેટી મધ્યમ ગરમ તેલમાં નાની ખેપમાં તળો જ્યાં સુધી પડ કરકરો અને મશરૂમ રંધાય; જાળી પર નિતારો.",
+        "ગરમ કડાઈમાં ઝીણાં લસણ, આદુ અને મરચાં સાંતળો; સોયા સોસ, કેચપ, વિનેગર અને બચેલું ખીરું નાખી ચમકતું થાય ત્યાં સુધી રાંધો.",
+        "પીરસતાં પહેલાં કરકરા મશરૂમ સોસમાં ભેળવો અને ઉપર લીલી ડુંગળીના પાન છાંટો."
+      ],
+      "tips": [
+        "સોસ ઘાટી રાખો અને છેલ્લી ઘડીએ ભેળવો જેથી મશરૂમનો પડ કરકરો રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/mushroom-manchurian-dry-mushroom-manchurian/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-manchurian.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

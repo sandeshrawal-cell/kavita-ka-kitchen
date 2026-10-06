@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0323",
+  "id": "kara-sev",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Kara Sev",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "fine rice flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper, coarsely crushed",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for dough",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water, approximately",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sift the two flours and blend with pepper, chilli, asafoetida and salt. Rub in the measured dough oil.",
+    "Add water gradually and knead a soft, smooth, non-sticky dough that can pass through the thick sev die.",
+    "Heat oil to medium hot. Press short, thick strands directly into the oil with a broad-hole sev press, working in small batches.",
+    "Turn the strands and fry until crisp and evenly golden, with bubbling almost stopped. Do not darken the pepper-spiced sev.",
+    "Drain, cool completely and break into snack-sized lengths before serving or storing airtight."
+  ],
+  "tips": [
+    "Use a larger press hole than nylon sev; karasev is deliberately thicker and peppery."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कारा सेव",
+      "ingredients": [
+        "बेसन",
+        "बारीक चावल का आटा",
+        "काली मिर्च, दरदरी कुटी",
+        "लाल मिर्च पाउडर",
+        "हींग",
+        "नमक",
+        "आटे के लिए तेल",
+        "पानी, लगभग",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "दोनों आटे छानकर काली मिर्च, लाल मिर्च, हींग और नमक मिलाएँ। नापा आटे वाला तेल रगड़ें।",
+        "पानी धीरे डालकर नरम, चिकना, न चिपकने वाला आटा गूँधें जो मोटी सेव वाली जाली से निकल सके।",
+        "तेल मध्यम गरम करें। बड़े छेद वाली सेव प्रेस से सीधे तेल में छोटे मोटे तार दबाएँ और थोड़े-थोड़े तलें।",
+        "तार पलटकर कुरकुरे और समान सुनहरे होने तक तलें, जब बुलबुले लगभग बंद हों। मिर्च वाली सेव गहरी न करें।",
+        "निथारकर पूरी ठंडी करें और नाश्ते के आकार के टुकड़े तोड़कर परोसें या बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "नायलॉन सेव से बड़ा छेद लें; कारा सेव जानबूझकर मोटी और काली मिर्च वाली होती है।"
+      ]
+    },
+    "gu": {
+      "name": "કારા સેવ",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "ઝીણો ચોખાનો લોટ",
+        "કાળા મરી, દરદરા ભૂકેલા",
+        "લાલ મરચું પાઉડર",
+        "હિંગ",
+        "મીઠું",
+        "લોટ માટે તેલ",
+        "પાણી, અંદાજે",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "બંને લોટ ચાળી તેમાં મરી, લાલ મરચું, હિંગ અને મીઠું ભેળવો. માપેલું લોટનું તેલ મસળો.",
+        "પાણી ધીરે ઉમેરી નરમ, સુંવાળો, ન ચોંટે એવો લોટ બાંધો જે જાડી સેવની જાળીમાંથી નીકળી શકે.",
+        "તેલ મધ્યમ ગરમ કરો. મોટા છિદ્રવાળા સેવ પ્રેસથી સીધા તેલમાં ટૂંકી જાડી સેવ પાડો અને થોડા થોડા તળો.",
+        "સેવ પલટાવી કરકરી અને સરખી સોનેરી થાય તથા પરપોટા લગભગ અટકે ત્યાં સુધી તળો. મરીવાળી સેવ ઘેરી ન થવા દો.",
+        "નિતારી સંપૂર્ણ ઠંડી કરો અને નાસ્તાના કદના ટુકડા તોડી પીરસો અથવા હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "નાયલોન સેવ કરતાં મોટું છિદ્ર લો; કારા સેવ ખાસ જાડી અને મરીવાળી હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://rakskitchen.net/karasev-recipe-how-to-make-karasev/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/kara-sev.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

@@ -1,0 +1,86 @@
+{
+  "sourceReviewId": "R0378",
+  "id": "french-fries",
+  "status": "published-fourth-100-intake-batch",
+  "name": "French Fries",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "starchy potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel or scrub potatoes and cut into even 8 mm sticks. Rinse in cold water until the water runs mostly clear, then soak for 20 minutes.",
+    "Drain and dry the potato sticks thoroughly with clean towels; moisture causes dangerous splattering and prevents crispness.",
+    "Heat oil to 150°C in a deep heavy pan. Fry potatoes in small batches for 5–6 minutes until tender but still pale; lift out and cool for 10 minutes.",
+    "Raise oil to 185°C. Fry the blanched potatoes again in small batches for 2–3 minutes until evenly deep golden and crisp.",
+    "Drain on a rack, sprinkle salt immediately and serve hot. Let the oil regain temperature between batches."
+  ],
+  "tips": [
+    "Drying and the two-stage fry are what make the centers fluffy and the outside crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फ्रेंच फ्राइज़",
+      "ingredients": [
+        "अधिक स्टार्च वाले आलू",
+        "तलने के लिए सादा तेल",
+        "नमक",
+        "ठंडा पानी"
+      ],
+      "steps": [
+        "आलू छीलें या साफ़ रगड़ें और समान 8 मि.मी. मोटी लंबी कतरनें काटें। पानी साफ़ होने तक धोकर 20 मिनट ठंडे पानी में भिगोएँ।",
+        "कतरनों का पानी निथारकर साफ़ कपड़े से पूरी तरह सुखाएँ; पानी तेल उछालता है और कुरकुरापन घटाता है।",
+        "गहरे मोटे पैन में तेल 150°C तक गरम करें। थोड़े-थोड़े आलू 5–6 मिनट नरम पर हल्के रंग के रहने तक तलें; निकालकर 10 मिनट ठंडा करें।",
+        "तेल 185°C तक गरम करें। आधे तले आलू थोड़े-थोड़े करके फिर 2–3 मिनट गहरे सुनहरे और कुरकुरे होने तक तलें।",
+        "जाली पर तेल निथारें, तुरंत नमक छिड़कें और गरम परोसें। हर खेप के बीच तेल फिर गरम होने दें।"
+      ],
+      "tips": [
+        "सुखाने और दो बार तलने से भीतर नरम और बाहर कुरकुरे बनते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ફ્રેન્ચ ફ્રાઈઝ",
+      "ingredients": [
+        "વધુ સ્ટાર્ચવાળા બટાકા",
+        "તળવા માટે સાદું તેલ",
+        "મીઠું",
+        "ઠંડું પાણી"
+      ],
+      "steps": [
+        "બટાકા છોલો અથવા ઘસીને સાફ કરો અને સરખી 8 મિ.મી. જાડી લાંબી પટ્ટીઓ કાપો. પાણી લગભગ ચોખ્ખું થાય ત્યાં સુધી ધોઈ 20 મિનિટ ઠંડા પાણીમાં પલાળો.",
+        "પટ્ટીઓનું પાણી નિતારી સ્વચ્છ કપડાથી સંપૂર્ણ સુકવો; ભેજથી તેલ છાંટે છે અને કરકરાપો ઘટે છે.",
+        "ઊંડી જાડી કડાઈમાં તેલ 150°C સુધી ગરમ કરો. થોડા થોડા બટાકા 5–6 મિનિટ નરમ પણ ફિક્કા રહે ત્યાં સુધી તળો; કાઢી 10 મિનિટ ઠંડાં કરો.",
+        "તેલ 185°C સુધી ગરમ કરો. પહેલા તળેલા બટાકા થોડા થોડા ફરી 2–3 મિનિટ ઘેરા સોનેરી અને કરકરા થાય ત્યાં સુધી તળો.",
+        "જાળી પર તેલ નિતારો, તરત મીઠું છાંટી ગરમ પીરસો. દરેક વારે તેલ ફરી ગરમ થવા દો."
+      ],
+      "tips": [
+        "સુકવવાથી અને બે વાર તળવાથી અંદર નરમ તથા બહાર કરકરા બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/french-fries.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

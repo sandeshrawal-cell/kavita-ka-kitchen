@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0326",
+  "id": "doddapatre-bajji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Doddapatre Bajji",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "Indian borage leaves",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and dry the borage leaves thoroughly. Keep each leaf whole and trim only the toughest stem.",
+    "Whisk gram flour, rice flour, chilli, carom, turmeric and salt. Gradually add water to make a smooth batter that coats a leaf without running off.",
+    "Heat oil over medium heat. Dip one leaf at a time, coat both sides thinly and lower carefully into the oil.",
+    "Fry in small batches, turning once, until the leaf-shaped fritters are golden and crisp; drain on a rack.",
+    "Serve immediately with coconut chutney while the leaf centres are tender and the batter stays crisp."
+  ],
+  "tips": [
+    "Dry leaves prevent the batter from sliding off; do not pile the fried bajji while hot."
+  ],
+  "translations": {
+    "hi": {
+      "name": "डोड्डपत्रे बज्जी",
+      "ingredients": [
+        "अजवाइन के पत्ते",
+        "बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "अजवाइन",
+        "हल्दी",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "अजवाइन के पत्ते धोकर पूरी तरह सुखाएँ। हर पत्ता साबुत रखें और केवल सख्त डंठल काटें।",
+        "बेसन, चावल का आटा, मिर्च, अजवाइन, हल्दी और नमक फेंटें। धीरे-धीरे पानी मिलाकर ऐसा चिकना घोल बनाएँ जो पत्ते पर टिके।",
+        "तेल मध्यम आँच पर गरम करें। एक-एक पत्ता घोल में दोनों ओर से पतला लपेटकर सावधानी से तेल में डालें।",
+        "थोड़े-थोड़े पत्ते तलें, बीच में एक बार पलटें; सुनहरे और कुरकुरे होने पर जाली पर निकालें।",
+        "पत्तों के बीच का भाग नरम और बाहर का घोल कुरकुरा रहते नारियल की चटनी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "सूखे पत्तों पर घोल अच्छी तरह टिकता है; गरम बज्जी को एक-दूसरे पर न रखें।"
+      ]
+    },
+    "gu": {
+      "name": "દોડ્ડપત્રે ભજી",
+      "ingredients": [
+        "અજમાના પાન",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "અજમો",
+        "હળદર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "અજમાના પાન ધોઈને સંપૂર્ણ સુકવો. દરેક પાન આખું રાખો અને માત્ર કઠણ દાંડી કાપો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, અજમો, હળદર અને મીઠું ફેંટો. ધીમે ધીમે પાણી ઉમેરી પાન પર ચોંટી રહે એવું લીસું ખીરું બનાવો.",
+        "તેલ મધ્યમ તાપે ગરમ કરો. એક એક પાનને ખીરામાં બંને બાજુ પાતળું ઢાંકી સાવધાનીથી તેલમાં નાખો.",
+        "થોડાં થોડાં પાન તળો, વચ્ચે એક વાર ફેરવો; સોનેરી અને કરકરા થાય ત્યારે જાળી પર કાઢો.",
+        "પાનનો મધ્ય ભાગ નરમ અને બહારનું ખીરું કરકરું હોય ત્યારે નાળિયેરની ચટણી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "સૂકા પાન પર ખીરું સારી રીતે ચોંટે છે; ગરમ ભજીને એકબીજા પર ઢગલો ન કરો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.sahajaseeds.com/wp-content/uploads/2025/02/SOPPU-CALENDAR-2025.pdf",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/doddapatre-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

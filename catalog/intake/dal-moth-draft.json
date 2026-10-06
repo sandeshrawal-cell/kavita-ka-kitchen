@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R0318",
+  "id": "dal-moth",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Dal Moth",
+  "cuisine": "Marwari",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "whole brown masoor lentils",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "moth beans",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "fine nylon sev",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds, ground",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "dry mango powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak masoor and moth separately until plump but firm. Drain very thoroughly, spread on towels and allow the surface to dry completely before frying.",
+    "Heat oil to medium hot and fry the lentils in small separate batches until crisp, with splatter protection and a dry slotted spoon. Drain each batch.",
+    "Fry peanuts separately until golden and let all fried ingredients cool fully. Break nylon sev into short strands.",
+    "Mix coriander, chilli, mango powder and both salts. Toss with the cooled lentils, peanuts and sev until evenly coated.",
+    "Taste for tartness and serve dry, or store in an airtight jar only after everything is cool."
+  ],
+  "tips": [
+    "Never add damp soaked lentils to hot oil; dry them thoroughly first to prevent violent splattering."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दाल मोठ",
+      "ingredients": [
+        "साबुत भूरी मसूर",
+        "मोठ दाल साबुत",
+        "बारीक नायलॉन सेव",
+        "कच्ची मूँगफली",
+        "पिसा धनिया",
+        "लाल मिर्च पाउडर",
+        "अमचूर",
+        "काला नमक",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मसूर और मोठ अलग-अलग फूलने तक भिगोएँ पर नरम न होने दें। अच्छी तरह निथारें, कपड़े पर फैलाएँ और तलने से पहले ऊपर का पानी पूरी तरह सुखाएँ।",
+        "तेल मध्यम गरम करें और दालें अलग-अलग छोटी खेप में कुरकुरी तलें; छींटों से बचाव करें और सूखी झारी लें। हर खेप निथारें।",
+        "मूँगफली अलग सुनहरी तलें और सब तली चीज़ें पूरी ठंडी करें। नायलॉन सेव छोटे टुकड़ों में तोड़ें।",
+        "धनिया, मिर्च, अमचूर और दोनों नमक मिलाएँ। ठंडी दाल, मूँगफली और सेव पर डालकर बराबर लपेटें।",
+        "खट्टापन चखें और सूखा परोसें, या सब ठंडा होने के बाद ही बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "गीली भीगी दाल गरम तेल में कभी न डालें; तेज छींटे रोकने के लिए पहले पूरी तरह सुखाएँ।"
+      ],
+      "passiveTime": "दाल भिगोने और सुखाने के लिए 6 घंटे"
+    },
+    "gu": {
+      "name": "દાલ મોઠ",
+      "ingredients": [
+        "આખી ભૂરા મસૂર",
+        "આખા મઠ",
+        "ઝીણી નાયલોન સેવ",
+        "કાચી મગફળી",
+        "ધાણા પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "આમચૂર",
+        "સંચળ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મસૂર અને મઠ અલગ અલગ ફૂલે ત્યાં સુધી પલાળો, નરમ ન થવા દો. સારી રીતે નિતારી કપડા પર પાથરો અને તળતા પહેલાં બહારનું પાણી સંપૂર્ણ સૂકવો.",
+        "તેલ મધ્યમ ગરમ કરી દાળને અલગ અલગ નાનાં વારમાં કરકરી તળો; છાંટાથી બચો અને સૂકી ઝારી વાપરો. દરેક વારો નિતારો.",
+        "મગફળી અલગથી સોનેરી તળો અને બધી તળેલી વસ્તુઓ પૂરી ઠંડી કરો. નાયલોન સેવ ટૂંકા ટુકડામાં તોડો.",
+        "ધાણા, મરચું, આમચૂર અને બંને મીઠાં ભેળવો. ઠંડી દાળ, મગફળી અને સેવ સાથે સરખું મિશ્રિત કરો.",
+        "ખટાશ ચાખી સૂકું પીરસો અથવા બધું ઠંડું થયા પછી જ હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "ભીની પલાળેલી દાળ ગરમ તેલમાં ક્યારેય ન નાખો; જોરદાર છાંટા અટકાવવા પહેલાં પૂરી સૂકવો."
+      ],
+      "passiveTime": "દાળ પલાળવા અને સૂકવવા માટે 6 કલાક"
+    }
+  },
+  "reference": {
+    "url": "https://www.nehascookbook.com/dal-moth-namkeen-recipe-how-to-make-dalmoth-namkeen-market-style-dal-moth-namkeen/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/dal-moth.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06.",
+  "passiveTime": "6 hours soaking and drying lentils"
+}

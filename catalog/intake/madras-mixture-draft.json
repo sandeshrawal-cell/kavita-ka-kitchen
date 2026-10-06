@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0310",
+  "id": "madras-mixture",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Madras Mixture",
+  "cuisine": "Tamil",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "water, approximately",
+      "qty": 330,
+      "unit": "ml"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "roasted gram",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves, dried",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix 200 g gram flour, 40 g rice flour, 5 g salt and about 120 ml water into a soft pressable dough. Press fine strands into medium-hot oil and fry until crisp to make sev.",
+    "Whisk the remaining 120 g gram flour and 30 g rice flour with about 210 ml water into a pourable boondi batter. Pour over a perforated ladle held above hot oil and fry the droplets until crisp.",
+    "Fry peanuts and roasted gram separately until crisp, then briefly fry completely dry curry leaves. Drain every component and cool fully.",
+    "Break the sev into short lengths. Toss it with boondi, nuts, curry leaves, chilli powder, asafoetida and remaining salt.",
+    "Taste and adjust seasoning, then serve or transfer the fully cooled mixture to an airtight container."
+  ],
+  "tips": [
+    "Cool each fried component before mixing so the mixture remains crunchy in storage."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मद्रास मिक्सचर",
+      "ingredients": [
+        "बेसन",
+        "चावल का आटा",
+        "पानी, लगभग",
+        "कच्ची मूँगफली",
+        "भुना चना",
+        "करी पत्ते, सूखे",
+        "लाल मिर्च पाउडर",
+        "हींग",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "200 ग्राम बेसन, 40 ग्राम चावल का आटा, 5 ग्राम नमक और लगभग 120 मिली पानी मिलाकर नरम दबने वाला आटा बनाएँ। बारीक तार मध्यम गरम तेल में दबाकर कुरकुरे तलें; यह सेव है।",
+        "बचे 120 ग्राम बेसन और 30 ग्राम चावल के आटे को लगभग 210 मिली पानी से फेंटकर बूंदी का बहने वाला घोल बनाएँ। गरम तेल के ऊपर छेद वाली झारी पर डालें और बूँदें कुरकुरी तलें।",
+        "मूँगफली और भुना चना अलग-अलग कुरकुरे तलें, फिर पूरी तरह सूखे करी पत्ते थोड़ी देर तलें। हर चीज़ निथारकर पूरी तरह ठंडी करें।",
+        "सेव छोटे टुकड़ों में तोड़ें। बूंदी, मेवे, करी पत्ते, मिर्च पाउडर, हींग और बचा नमक मिलाएँ।",
+        "चखकर मसाला ठीक करें, फिर परोसें या पूरी तरह ठंडा मिश्रण बंद डिब्बे में भरें।"
+      ],
+      "tips": [
+        "हर तली चीज़ मिलाने से पहले ठंडी करें ताकि रखा मिश्रण कुरकुरा रहे।"
+      ]
+    },
+    "gu": {
+      "name": "મદ્રાસ મિક્સચર",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી, અંદાજે",
+        "કાચી મગફળી",
+        "શેકેલા ચણા",
+        "મીઠા લીમડાનાં પાન, સૂકવેલાં",
+        "લાલ મરચું પાઉડર",
+        "હિંગ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "200 ગ્રામ ચણાનો લોટ, 40 ગ્રામ ચોખાનો લોટ, 5 ગ્રામ મીઠું અને આશરે 120 મિલી પાણી ભેળવી નરમ દબાવી શકાય એવો લોટ બાંધો. મધ્યમ ગરમ તેલમાં ઝીણી સેવ પાડી કરકરી તળો.",
+        "બાકી 120 ગ્રામ ચણાનો અને 30 ગ્રામ ચોખાનો લોટ આશરે 210 મિલી પાણી સાથે ફેંટીને બૂંદીનું રેડી શકાય એવું ખીરું બનાવો. ગરમ તેલ ઉપર છિદ્રવાળી ઝારી પર રેડી ટીપાં કરકરાં તળો.",
+        "મગફળી અને શેકેલા ચણા અલગ અલગ કરકરા તળો, પછી સંપૂર્ણ સૂકા લીમડાનાં પાન થોડા સમય તળો. બધું નિતારી સંપૂર્ણ ઠંડું કરો.",
+        "સેવને ટૂંકા ટુકડામાં તોડો. બૂંદી, મગફળી, લીમડાનાં પાન, મરચું પાઉડર, હિંગ અને બાકી મીઠું ભેળવો.",
+        "ચાખીને મસાલો ગોઠવો, પછી પીરસો અથવા સંપૂર્ણ ઠંડું મિશ્રણ હવાચુસ્ત ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "દરેક તળેલી વસ્તુ ભેળવતાં પહેલાં ઠંડી કરો જેથી રાખેલું મિશ્રણ કરકરું રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://rakskitchen.net/spicy-mixture-recipe-south-indian-style-deepavali-recipes/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/madras-mixture.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

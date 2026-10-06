@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0354",
+  "id": "tapioca-chips",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Tapioca Chips",
+  "cuisine": "Kerala",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "peeled cassava",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel the cassava thickly to remove the pinkish inner skin; split and pull out the fibrous center, then slice very thinly.",
+    "Rinse the slices in fresh water and pat fully dry; mix salt, chili powder and turmeric in a small bowl.",
+    "Heat coconut oil over medium heat and fry the cassava in small batches, separating slices with a slotted spoon.",
+    "Fry until bubbling nearly stops and the chips are firm and lightly golden; drain well on a rack.",
+    "Briefly fry the curry leaves, toss them with the hot chips and spice mix, then cool before storing."
+  ],
+  "tips": [
+    "Cassava needs thorough peeling and full cooking; do not eat it raw."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कसावा चिप्स",
+      "ingredients": [
+        "छिली कसावा",
+        "नारियल तेल",
+        "नमक",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "करी पत्ते"
+      ],
+      "steps": [
+        "कसावा का गुलाबी भीतरी छिलका भी मोटा छीलें; बीच का रेशेदार भाग निकालें और बहुत पतली फाँकें काटें।",
+        "फाँकें ताज़े पानी से धोकर पूरी तरह सुखाएँ; नमक, मिर्च पाउडर और हल्दी मिलाएँ।",
+        "नारियल तेल मध्यम आँच पर गरम करें और कसावा थोड़ी-थोड़ी मात्रा में तलें; झारे से फाँकें अलग रखें।",
+        "बुलबुले लगभग थमने और चिप्स सख़्त तथा हल्के सुनहरे होने तक तलें; जाली पर तेल निथारें।",
+        "करी पत्ते झटपट तलें, गरम चिप्स और मसाला मिलाएँ, फिर ठंडे करके रखें।"
+      ],
+      "tips": [
+        "कसावा अच्छी तरह छीलना और पूरा पकाना ज़रूरी है; इसे कच्चा न खाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "કસાવાની ચિપ્સ",
+      "ingredients": [
+        "છોલેલું કસાવા",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "મીઠા લીમડાનાં પાન"
+      ],
+      "steps": [
+        "કસાવાની ગુલાબી અંદરની છાલ પણ જાડી રીતે છોલો; વચ્ચેનો રેસાદાર ભાગ કાઢી ખૂબ પાતળી સ્લાઇસ કરો.",
+        "સ્લાઇસ તાજા પાણીથી ધોઈ સંપૂર્ણ સૂકવો; મીઠું, મરચું પાઉડર અને હળદર ભેળવો.",
+        "નાળિયેરનું તેલ મધ્યમ તાપે ગરમ કરી કસાવા નાની ખેપમાં તળો; ઝારાથી સ્લાઇસ અલગ રાખો.",
+        "પરપોટા લગભગ બંધ થાય અને ચિપ્સ કડક તથા આછા સોનેરી થાય ત્યાં સુધી તળો; જાળી પર તેલ નિતારો.",
+        "મીઠા લીમડાનાં પાન ઝડપથી તળો, ગરમ ચિપ્સ અને મસાલો ભેળવો, પછી ઠંડા કરી ભરો."
+      ],
+      "tips": [
+        "કસાવા સારી રીતે છોલવો અને પૂરેપૂરો રાંધવો જરૂરી છે; કાચો ન ખાવો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://dinetable.com/recipe/tapioca-chips-recipe-kappa-chips/",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/tapioca-chips.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

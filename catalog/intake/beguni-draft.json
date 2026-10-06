@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0337",
+  "id": "beguni",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Beguni",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "long eggplant",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 165,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "black salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice eggplant lengthwise into thin even sheets. Sprinkle with part of the salt and sugar, leave briefly, then pat very dry.",
+    "Whisk gram flour, rice flour, turmeric, chilli and remaining salt with water into a smooth batter that coats the back of a spoon.",
+    "Heat mustard oil until its raw aroma fades, then keep it moderately hot. Dip each dry slice and shake off excess batter.",
+    "Fry a few slices at a time, turning once, until the coating is crisp and the eggplant tender. Drain on a rack.",
+    "Dust with black salt and serve immediately alongside tea or khichuri."
+  ],
+  "tips": [
+    "Drying the slices before coating is the key to a thin crisp beguni rather than a soggy one."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बेगुनी",
+      "ingredients": [
+        "लंबा बैंगन",
+        "बेसन",
+        "चावल का आटा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "चीनी",
+        "नमक",
+        "पानी",
+        "तलने का सरसों तेल",
+        "काला नमक"
+      ],
+      "steps": [
+        "बैंगन लंबे पतले बराबर टुकड़ों में काटें। थोड़ा नमक और चीनी छिड़ककर कुछ देर रखें, फिर अच्छी तरह सुखाएँ।",
+        "बेसन, चावल का आटा, हल्दी, मिर्च और बचा नमक पानी के साथ फेंटकर चम्मच के पीछे टिकने वाला चिकना घोल बनाएँ।",
+        "सरसों तेल की कच्ची गंध दूर होने तक गरम करें, फिर मध्यम गरम रखें। हर सूखा टुकड़ा घोल में डुबोकर अतिरिक्त घोल झाड़ें।",
+        "थोड़े-थोड़े टुकड़े एक बार पलटकर परत कुरकुरी और बैंगन नरम होने तक तलें। जाली पर निकालें।",
+        "काला नमक छिड़ककर चाय या खिचुड़ी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "घोल लगाने से पहले टुकड़े सुखाना पतली कुरकुरी बेगुनी के लिए ज़रूरी है।"
+      ]
+    },
+    "gu": {
+      "name": "બેગુની",
+      "ingredients": [
+        "લાંબું રીંગણ",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "ખાંડ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે સરસવનું તેલ",
+        "સંચળ"
+      ],
+      "steps": [
+        "રીંગણને લંબાઈમાં પાતળા સરખા કટકા કરો. થોડું મીઠું અને ખાંડ છાંટી થોડી વાર રાખો, પછી બરાબર સુકવો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, હળદર, મરચું અને બાકીનું મીઠું પાણી સાથે ફેંટી ચમચીની પાછળ ચોંટે એવું લીસું ખીરું બનાવો.",
+        "સરસવના તેલની કાચી ગંધ દૂર થાય ત્યાં સુધી ગરમ કરો, પછી મધ્યમ ગરમ રાખો. દરેક સૂકા કટકાને ખીરામાં ડુબાડી વધારાનું ખીરું ઝાડો.",
+        "થોડા થોડા કટકા એક વાર ફેરવી પડ કરકરું અને રીંગણ નરમ થાય ત્યાં સુધી તળો. જાળી પર કાઢો.",
+        "સંચળ છાંટી ચા કે ખીચડી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "ખીરું લગાડતાં પહેલાં કટકા સુકવવા પાતળી કરકરી બેગુની માટે જરૂરી છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.bongeats.com/recipe/beguni",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/beguni.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

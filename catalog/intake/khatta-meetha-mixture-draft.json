@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0356",
+  "id": "khatta-meetha-mixture",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Khatta Meetha Mixture",
+  "cuisine": "North Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "fine sev",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "boondi",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "peanuts",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "powdered sugar",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Check that the sev and boondi are dry and crisp; if soft, warm them gently in a dry pan and cool.",
+    "Warm oil in a small pan and fry peanuts over medium heat until golden and crunchy; drain well.",
+    "Crisp the curry leaves in the same oil, then fry raisins only until they plump; remove promptly.",
+    "Mix powdered sugar, chaat masala, chili powder and salt. Combine sev, boondi, peanuts, raisins and curry leaves in a wide bowl.",
+    "Toss the seasoning through while the fried items are still slightly warm, cool completely and keep airtight."
+  ],
+  "tips": [
+    "Add the sweet seasoning only after frying; sugar in hot oil burns and turns bitter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "खट्टा मीठा मिक्सचर",
+      "ingredients": [
+        "बारीक सेव",
+        "बूंदी",
+        "मूंगफली",
+        "किशमिश",
+        "करी पत्ते",
+        "वनस्पति तेल",
+        "पिसी चीनी",
+        "चाट मसाला",
+        "लाल मिर्च पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "सेव और बूंदी सूखी व कुरकुरी हों; नरम हों तो सूखे पैन में हल्का गरम करके ठंडी करें।",
+        "छोटे पैन में तेल गरम करके मूंगफली मध्यम आँच पर सुनहरी और कुरकुरी होने तक तलें; तेल निथारें।",
+        "उसी तेल में करी पत्ते कुरकुरे करें, फिर किशमिश केवल फूलने तक तलकर तुरंत निकालें।",
+        "पिसी चीनी, चाट मसाला, मिर्च और नमक मिलाएँ। चौड़े बर्तन में सेव, बूंदी, मूंगफली, किशमिश और करी पत्ते मिलाएँ।",
+        "तली सामग्री हल्की गरम रहते हुए मसाला अच्छी तरह मिलाएँ, पूरी ठंडी करके बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "मीठा मसाला तलने के बाद ही मिलाएँ; गरम तेल में चीनी जलकर कड़वी हो जाती है।"
+      ]
+    },
+    "gu": {
+      "name": "ખાટું મીઠું મિક્સચર",
+      "ingredients": [
+        "ઝીણી સેવ",
+        "બુંદી",
+        "મગફળી",
+        "કિસમિસ",
+        "મીઠા લીમડાનાં પાન",
+        "વનસ્પતિ તેલ",
+        "દળેલી ખાંડ",
+        "ચાટ મસાલો",
+        "લાલ મરચું પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "સેવ અને બુંદી સૂકી તથા કરકરી હોય; નરમ હોય તો સૂકી કડાઈમાં હળવી ગરમ કરી ઠંડી કરો.",
+        "નાની કડાઈમાં તેલ ગરમ કરી મગફળી મધ્યમ તાપે સોનેરી અને કરકરી થાય ત્યાં સુધી તળો; તેલ નિતારો.",
+        "એ જ તેલમાં મીઠા લીમડાનાં પાન કરકરાં કરો, પછી કિસમિસ ફૂલે ત્યાં સુધી જ તળી તરત કાઢો.",
+        "દળેલી ખાંડ, ચાટ મસાલો, મરચું અને મીઠું ભેળવો. પહોળા વાસણમાં સેવ, બુંદી, મગફળી, કિસમિસ અને મીઠા લીમડાનાં પાન ભેળવો.",
+        "તળેલી સામગ્રી હળવી ગરમ હોય ત્યારે મસાલો સારી રીતે ભેળવો, પૂરી ઠંડી કરી હવાબંધ ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "મીઠો મસાલો તળ્યા પછી જ નાખો; ગરમ તેલમાં ખાંડ બળી કડવી થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://nishamadhulika.com/en/421-khatta-mitha-mix-chivda-recipe.html",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/khatta-meetha-mixture.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

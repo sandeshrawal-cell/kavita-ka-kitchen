@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0372",
+  "id": "capsicum-bajji",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Capsicum Bajji",
+  "cuisine": "South Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "green capsicum",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 190,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 210,
+      "unit": "ml"
+    },
+    {
+      "name": "red chili powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slice capsicum across into thick rings and pull out the central seeds and white ribs without breaking each ring.",
+    "Pat the rings completely dry. Mix gram flour, rice flour, chili, turmeric, crushed cumin and salt.",
+    "Whisk in measured water gradually until the batter coats a ring without dripping off.",
+    "Dip each ring and fry in medium-hot oil in uncrowded batches, turning so batter cooks evenly and pepper softens.",
+    "Lift when golden and crisp, drain well and serve hot with mint or coriander chutney."
+  ],
+  "tips": [
+    "Use thick-walled capsicum so the ring keeps its shape during frying."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शिमला मिर्च बज्जी",
+      "ingredients": [
+        "हरी शिमला मिर्च",
+        "बेसन",
+        "चावल का आटा",
+        "पानी",
+        "लाल मिर्च पाउडर",
+        "हल्दी पाउडर",
+        "जीरा",
+        "नमक",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "शिमला मिर्च को आड़ी मोटी रिंग में काटें और हर रिंग तोड़े बिना बीच के बीज तथा सफ़ेद भाग निकालें।",
+        "छल्ले पूरी तरह सुखाएँ। बेसन, चावल का आटा, मिर्च, हल्दी, कुटा जीरा और नमक मिलाएँ।",
+        "दिया पानी धीरे-धीरे फेंटें जब तक घोल छल्ले पर टिके और टपके नहीं।",
+        "हर छल्ला डुबोकर मध्यम गरम तेल में बिना भीड़ के तलें; पलटें ताकि घोल बराबर पके और मिर्च नरम हो।",
+        "सुनहरा कुरकुरा होने पर निकालें, तेल अच्छी तरह निथारें और पुदीना या धनिया चटनी संग गरम दें।"
+      ],
+      "tips": [
+        "मोटी दीवार वाली शिमला मिर्च लें ताकि तलते समय छल्ला अपना आकार बनाए रखे।"
+      ]
+    },
+    "gu": {
+      "name": "શિમલા મરચાં બજ્જી",
+      "ingredients": [
+        "લીલાં કેપ્સિકમ",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "લાલ મરચું પાઉડર",
+        "હળદર પાઉડર",
+        "જીરું",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "શિમલા મરચાંને આડી જાડી રિંગમાં કાપો અને દરેક રિંગ તોડ્યા વિના વચ્ચેના બીજ તથા સફેદ ભાગ કાઢો.",
+        "રિંગ સંપૂર્ણ સૂકવો. ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, કૂટેલું જીરું અને મીઠું ભેળવો.",
+        "આપેલું પાણી ધીમે ધીમે ફેંટો જ્યાં સુધી ખીરું રિંગ પર ટકે અને ટપકે નહીં.",
+        "દરેક રિંગ ડૂબાડી મધ્યમ ગરમ તેલમાં ભીડ વિના તળો; ફેરવો જેથી ખીરું સરખું રંધાય અને મરચું નરમ પડે.",
+        "સોનેરી કરકરા થાય ત્યારે કાઢો, તેલ સારી રીતે નિતારો અને ફુદીનાં અથવા કોથમીરની ચટણી સાથે ગરમ આપો."
+      ],
+      "tips": [
+        "જાડી દીવાલવાળાં શિમલા મરચાં લો જેથી તળતી વખતે રિંગ પોતાનો આકાર રાખે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://blinkit.com/recipe/56548",
+    "use": "Dish identity and method reviewed; quantities and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/capsicum-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

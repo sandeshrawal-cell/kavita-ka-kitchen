@@ -9416,8 +9416,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/onion-pakora.png"
     },
     {
       "id": "aloo-pakora",
@@ -9435,8 +9436,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/aloo-pakora.png"
     },
     {
       "id": "palak-pakora",
@@ -9452,8 +9454,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/palak-pakora.png"
     },
     {
       "id": "mix-veg-pakora",
@@ -9471,8 +9474,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mix-veg-pakora.png"
     },
     {
       "id": "dal-vada",
@@ -9490,8 +9494,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/dal-vada.png"
     },
     {
       "id": "moong-dal-pakodi",
@@ -9509,8 +9514,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/moong-dal-pakodi.png"
     },
     {
       "id": "masala-vada",
@@ -9528,8 +9534,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-vada.png"
     },
     {
       "id": "butter-murukku",
@@ -9545,8 +9552,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/butter-murukku.png"
     },
     {
       "id": "kara-boondi",
@@ -9562,8 +9570,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kara-boondi.png"
     },
     {
       "id": "madras-mixture",
@@ -9586,8 +9595,9 @@
       "relatedReviewIds": [
         "R3608"
       ],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/madras-mixture.png"
     },
     {
       "id": "bhakarwadi",
@@ -9605,8 +9615,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bhakarwadi.png"
     },
     {
       "id": "masala-khakhra",
@@ -9622,8 +9633,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-khakhra.png"
     },
     {
       "id": "methi-khakhra",
@@ -9639,8 +9651,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/methi-khakhra.png"
     },
     {
       "id": "jeera-khakhra",
@@ -9656,8 +9669,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/jeera-khakhra.png"
     },
     {
       "id": "bajra-khakhra",
@@ -9673,8 +9687,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bajra-khakhra.png"
     },
     {
       "id": "nylon-sev",
@@ -9692,8 +9707,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/nylon-sev.png"
     },
     {
       "id": "aloo-bhujia",
@@ -9709,8 +9725,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/aloo-bhujia.png"
     },
     {
       "id": "dal-moth",
@@ -9726,8 +9743,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/dal-moth.png"
     },
     {
       "id": "fulwadi",
@@ -9743,8 +9761,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/fulwadi.png"
     },
     {
       "id": "kothimbir-vadi",
@@ -9760,8 +9779,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kothimbir-vadi.png"
     },
     {
       "id": "makai-na-vada",
@@ -9777,8 +9797,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/makai-na-vada.png"
     },
     {
       "id": "ponk-vada",
@@ -9794,8 +9815,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/ponk-vada.png"
     },
     {
       "id": "kara-sev",
@@ -9811,8 +9833,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kara-sev.png"
     },
     {
       "id": "mullu-murukku",
@@ -9828,8 +9851,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mullu-murukku.png"
     },
     {
       "id": "vazhakkai-bajji",
@@ -9845,8 +9869,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vazhakkai-bajji.png"
     },
     {
       "id": "doddapatre-bajji",
@@ -9864,8 +9889,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/doddapatre-bajji.png"
     },
     {
       "id": "ulli-vada",
@@ -9881,8 +9907,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/ulli-vada.png"
     },
     {
       "id": "kuzhalappam",
@@ -9898,8 +9925,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kuzhalappam.png"
     },
     {
       "id": "corn-pakoda",
@@ -9915,8 +9943,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/corn-pakoda.png"
     },
     {
       "id": "echorer-chop",
@@ -9932,8 +9961,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/echorer-chop.png"
     },
     {
       "id": "posto-bora",
@@ -9949,8 +9979,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/posto-bora.png"
     },
     {
       "id": "kurdai",
@@ -9966,8 +9997,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kurdai.png"
     },
     {
       "id": "chana-dal-namkeen",
@@ -9983,8 +10015,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chana-dal-namkeen.png"
     },
     {
       "id": "masala-kaju",
@@ -10000,8 +10033,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-kaju.png"
     },
     {
       "id": "paneer-manchurian",
@@ -10017,8 +10051,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/paneer-manchurian.png"
     },
     {
       "id": "methi-dhebra",
@@ -10034,8 +10069,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/methi-dhebra.png"
     },
     {
       "id": "beguni",
@@ -10051,8 +10087,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/beguni.png"
     },
     {
       "id": "aloo-chop",
@@ -10068,8 +10105,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/aloo-chop.png"
     },
     {
       "id": "phuluri",
@@ -10085,8 +10123,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/phuluri.png"
     },
     {
       "id": "piaji",
@@ -10102,8 +10141,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/piaji.png"
     },
     {
       "id": "pazham-pori",
@@ -10121,8 +10161,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pazham-pori.png"
     },
     {
       "id": "parippu-vada",
@@ -10138,8 +10179,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/parippu-vada.png"
     },
     {
       "id": "mysore-bonda",
@@ -10155,8 +10197,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mysore-bonda.png"
     },
     {
       "id": "goli-baje",
@@ -10174,8 +10217,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/goli-baje.png"
     },
     {
       "id": "maddur-vada",
@@ -10191,8 +10235,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/maddur-vada.png"
     },
     {
       "id": "kuzhi-paniyaram",
@@ -10210,8 +10255,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kuzhi-paniyaram.png"
     },
     {
       "id": "konkani-phodi",
@@ -10227,8 +10273,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/konkani-phodi.png"
     },
     {
       "id": "chura-bhuja",
@@ -10244,8 +10291,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chura-bhuja.png"
     },
     {
       "id": "bhadang",
@@ -10261,8 +10309,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bhadang.png"
     },
     {
       "id": "chanachur",
@@ -10278,8 +10327,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chanachur.png"
     },
     {
       "id": "congress-kadlekai",
@@ -10295,8 +10345,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/congress-kadlekai.png"
     },
     {
       "id": "jackfruit-chips",
@@ -10312,8 +10363,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/jackfruit-chips.png"
     },
     {
       "id": "potato-wafers",
@@ -10331,8 +10383,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/potato-wafers.png"
     },
     {
       "id": "tapioca-chips",
@@ -10350,8 +10403,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tapioca-chips.png"
     },
     {
       "id": "moong-dal-namkeen",
@@ -10367,8 +10421,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/moong-dal-namkeen.png"
     },
     {
       "id": "khatta-meetha-mixture",
@@ -10384,8 +10439,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/khatta-meetha-mixture.png"
     },
     {
       "id": "gobi-manchurian",
@@ -10401,8 +10457,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/gobi-manchurian.png"
     },
     {
       "id": "beetroot-cutlet",
@@ -10418,8 +10475,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/beetroot-cutlet.png"
     },
     {
       "id": "oats-tikki",
@@ -10435,8 +10493,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/oats-tikki.png"
     },
     {
       "id": "corn-tikki",
@@ -10452,8 +10511,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/corn-tikki.png"
     },
     {
       "id": "papeta-pattice",
@@ -10469,8 +10529,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/papeta-pattice.png"
     },
     {
       "id": "cabbage-pakoda",
@@ -10486,8 +10547,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/cabbage-pakoda.png"
     },
     {
       "id": "rava-vada",
@@ -10503,8 +10565,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/rava-vada.png"
     },
     {
       "id": "keerai-vadai",
@@ -10520,8 +10583,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/keerai-vadai.png"
     },
     {
       "id": "vazhaipoo-vadai",
@@ -10537,8 +10601,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/vazhaipoo-vadai.png"
     },
     {
       "id": "karela-chips",
@@ -10554,8 +10619,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/karela-chips.png"
     },
     {
       "id": "gobi-pakora",
@@ -10571,8 +10637,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/gobi-pakora.png"
     },
     {
       "id": "thavala-vadai",
@@ -10588,8 +10655,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/thavala-vadai.png"
     },
     {
       "id": "kai-murukku",
@@ -10605,8 +10673,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kai-murukku.png"
     },
     {
       "id": "bread-bajji",
@@ -10622,8 +10691,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/bread-bajji.png"
     },
     {
       "id": "tomato-bajji",
@@ -10639,8 +10709,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tomato-bajji.png"
     },
     {
       "id": "capsicum-bajji",
@@ -10656,8 +10727,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/capsicum-bajji.png"
     },
     {
       "id": "chire-bhaja",
@@ -10673,8 +10745,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/chire-bhaja.png"
     },
     {
       "id": "dal-er-bora",
@@ -10690,8 +10763,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/dal-er-bora.png"
     },
     {
       "id": "mushroom-manchurian",
@@ -10707,8 +10781,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/mushroom-manchurian.png"
     },
     {
       "id": "masala-peanuts",
@@ -10726,8 +10801,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-peanuts.png"
     },
     {
       "id": "masala-popcorn",
@@ -10743,8 +10819,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/masala-popcorn.png"
     },
     {
       "id": "french-fries",
@@ -10760,8 +10837,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/french-fries.png"
     },
     {
       "id": "peri-peri-fries",
@@ -10777,8 +10855,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/peri-peri-fries.png"
     },
     {
       "id": "pimientos-de-padron",
@@ -10794,8 +10873,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pimientos-de-padron.png"
     },
     {
       "id": "saganaki",
@@ -10811,8 +10891,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/saganaki.png"
     },
     {
       "id": "halloumi-fries",
@@ -10828,8 +10909,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/halloumi-fries.png"
     },
     {
       "id": "edamame",
@@ -10845,8 +10927,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/edamame.png"
     },
     {
       "id": "pita-chips",
@@ -10862,8 +10945,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/pita-chips.png"
     },
     {
       "id": "kale-chips",
@@ -10879,8 +10963,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/kale-chips.png"
     },
     {
       "id": "trail-mix",
@@ -10896,8 +10981,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/trail-mix.png"
     },
     {
       "id": "cheese-crackers",
@@ -10913,8 +10999,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/cheese-crackers.png"
     },
     {
       "id": "loaded-fries",
@@ -10930,8 +11017,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/loaded-fries.png"
     },
     {
       "id": "curly-fries",
@@ -10947,8 +11035,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/curly-fries.png"
     },
     {
       "id": "panisse",
@@ -10964,8 +11053,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/panisse.png"
     },
     {
       "id": "fried-pickles",
@@ -10981,8 +11071,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/fried-pickles.png"
     },
     {
       "id": "crispy-smashed-potatoes",
@@ -10998,8 +11089,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/crispy-smashed-potatoes.png"
     },
     {
       "id": "yuca-fries",
@@ -11015,8 +11107,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/yuca-fries.png"
     },
     {
       "id": "maduros",
@@ -11032,8 +11125,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/maduros.png"
     },
     {
       "id": "stuffed-peppadews",
@@ -11049,8 +11143,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/stuffed-peppadews.png"
     },
     {
       "id": "sigara-boregi",
@@ -11066,8 +11161,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/sigara-boregi.png"
     },
     {
       "id": "acili-ezme",
@@ -11083,8 +11179,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/acili-ezme.png"
     },
     {
       "id": "haydari",
@@ -11100,8 +11197,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/haydari.png"
     },
     {
       "id": "tirokafteri",
@@ -11117,8 +11215,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/tirokafteri.png"
     },
     {
       "id": "frico",
@@ -11134,8 +11233,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 1
+      "contentStatus": "published-fourth-100-intake-batch",
+      "batch": 1,
+      "photoDraft": "catalog/intake/photos/frico.png"
     },
     {
       "id": "mirchi-bajji",

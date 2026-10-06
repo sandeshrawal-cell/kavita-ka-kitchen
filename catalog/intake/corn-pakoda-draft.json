@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0329",
+  "id": "corn-pakoda",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Corn Pakoda",
+  "cuisine": "Pan-Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "sweet corn kernels",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red onion, chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 550,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Roughly crush a third of the corn kernels and leave the rest whole. Pat the kernels dry to keep the pakoda crisp.",
+    "Combine corn, onion, chillies, ginger, coriander, chilli powder and salt. Mix in gram flour and rice flour until every kernel is coated.",
+    "Sprinkle only enough water to bind small rough clusters; do not make a pourable batter. Heat oil over medium heat.",
+    "Drop small spoonfuls into the oil. Fry without crowding, turning until the corn is cooked and the exterior is evenly golden.",
+    "Drain on a rack, dust lightly with chaat masala if desired and serve at once with green chutney."
+  ],
+  "tips": [
+    "A little crushed corn acts as a binder while whole kernels give each pakoda its signature bite."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कॉर्न पकोड़ा",
+      "ingredients": [
+        "मीठे मक्के के दाने",
+        "बेसन",
+        "चावल का आटा",
+        "कटा लाल प्याज",
+        "कटी हरी मिर्च",
+        "कसा अदरक",
+        "हरा धनिया",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "तलने का तेल"
+      ],
+      "steps": [
+        "मक्के के लगभग एक तिहाई दाने मोटे कूटें, बाकी साबुत रखें। कुरकुरापन बनाए रखने के लिए दाने सुखाएँ।",
+        "मक्का, प्याज, मिर्च, अदरक, धनिया, मिर्च पाउडर और नमक मिलाएँ। बेसन और चावल का आटा मिलाकर हर दाने पर लपेटें।",
+        "बस छोटे अनगढ़ गोले जुड़ें इतना पानी छिड़कें; बहता हुआ घोल न बनाएँ। तेल मध्यम आँच पर गरम करें।",
+        "चम्मच से छोटे हिस्से तेल में डालें। भीड़ न करें; पलटते हुए मक्का पकने और बाहर एकसार सुनहरा होने तक तलें।",
+        "जाली पर निकालें, चाहें तो हल्का चाट मसाला छिड़कें और हरी चटनी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "कुछ कुटे दाने मिश्रण बाँधते हैं और साबुत दाने पकोड़े को खास बनावट देते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "મકાઈના પકોડા",
+      "ingredients": [
+        "મીઠી મકાઈના દાણા",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "સમારેલી લાલ ડુંગળી",
+        "સમારેલાં લીલાં મરચાં",
+        "છીણેલું આદુ",
+        "લીલી કોથમીર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મકાઈના લગભગ ત્રીજા ભાગના દાણા અધકચરા વાટો, બાકીના આખા રાખો. પકોડા કરકરા રહે માટે દાણા સુકવો.",
+        "મકાઈ, ડુંગળી, મરચાં, આદુ, કોથમીર, મરચું પાઉડર અને મીઠું ભેળવો. ચણાનો અને ચોખાનો લોટ ઉમેરી દરેક દાણાને ઢાંકો.",
+        "માત્ર નાના ખરબચડા ગૂંચા બંધાય એટલું પાણી છાંટો; રેડી શકાય એવું ખીરું ન બનાવો. તેલ મધ્યમ તાપે ગરમ કરો.",
+        "ચમચીથી નાના ભાગ તેલમાં નાખો. ભીડ ન કરો; ફેરવતાં મકાઈ રંધાય અને બહાર એકસરખું સોનેરી થાય ત્યાં સુધી તળો.",
+        "જાળી પર કાઢો, ઇચ્છો તો થોડું ચાટ મસાલું છાંટો અને લીલી ચટણી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "થોડા વાટેલા દાણા મિશ્રણ બાંધે છે અને આખા દાણા પકોડાને ખાસ મજા આપે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/corn-pakoda-recipe-corn-bhajiya/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/corn-pakoda.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

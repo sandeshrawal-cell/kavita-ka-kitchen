@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0316",
+  "id": "nylon-sev",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Nylon Sev",
+  "cuisine": "Gujarati",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fine gram flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for dough",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "water, approximately",
+      "qty": 170,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Sift gram flour and rice flour together to remove lumps. Mix in turmeric, asafoetida, salt and the measured dough oil.",
+    "Add water gradually and knead a soft, perfectly smooth dough that can pass through the finest sev plate without tearing.",
+    "Fit the sev press with its tiniest holes and grease it lightly. Heat oil to medium hot and press thin strands directly over the oil in a loose circle.",
+    "Fry briefly, turning once, until bubbling nearly stops and the strands are pale golden. Lift out before they darken.",
+    "Drain and cool completely; break into short nests for chaat or keep the fine strands in an airtight tin."
+  ],
+  "tips": [
+    "The finest press plate and smooth dough make nylon sev distinct from thicker snack sev."
+  ],
+  "translations": {
+    "hi": {
+      "name": "नायलॉन सेव",
+      "ingredients": [
+        "बारीक बेसन",
+        "चावल का आटा",
+        "आटे के लिए तेल",
+        "हल्दी",
+        "हींग",
+        "नमक",
+        "पानी, लगभग",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "बेसन और चावल का आटा छानकर गुठलियाँ हटाएँ। हल्दी, हींग, नमक और नापा आटे वाला तेल मिलाएँ।",
+        "पानी धीरे डालकर नरम, पूरी तरह चिकना आटा गूँधें जो सेव की सबसे बारीक जाली से बिना टूटे निकल सके।",
+        "सेव प्रेस में सबसे बारीक जाली लगाकर हल्का तेल लगाएँ। तेल मध्यम गरम करें और सीधे तेल के ऊपर ढीले गोल में बारीक तार दबाएँ।",
+        "थोड़ी देर तलें, एक बार पलटें और बुलबुले लगभग रुककर तार हल्के सुनहरे हों तो निकालें; गहरे न होने दें।",
+        "निथारकर पूरी तरह ठंडा करें; चाट के लिए छोटी घोंसली जैसी सेव तोड़ें या बारीक तार बंद डिब्बे में रखें।"
+      ],
+      "tips": [
+        "सबसे बारीक जाली और चिकने आटे से नायलॉन सेव मोटी नमकीन सेव से अलग बनती है।"
+      ]
+    },
+    "gu": {
+      "name": "નાયલોન સેવ",
+      "ingredients": [
+        "ઝીણો ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લોટ માટે તેલ",
+        "હળદર",
+        "હિંગ",
+        "મીઠું",
+        "પાણી, અંદાજે",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણાનો અને ચોખાનો લોટ ચાળી ગાંઠ દૂર કરો. હળદર, હિંગ, મીઠું અને માપેલું લોટનું તેલ ભેળવો.",
+        "પાણી ધીરે ઉમેરી નરમ, સંપૂર્ણ સુંવાળો લોટ બાંધો જે સેવની સૌથી ઝીણી જાળીમાંથી તૂટ્યા વગર નીકળી શકે.",
+        "સેવ પ્રેસમાં સૌથી ઝીણી જાળી લગાવી સહેજ તેલ લગાવો. તેલ મધ્યમ ગરમ કરી સીધા તેલ ઉપર ઢીલા ગોળમાં ઝીણી સેવ પાડો.",
+        "થોડો સમય તળો, એક વાર પલટાવો અને પરપોટા લગભગ અટકે તથા સેવ આછી સોનેરી થાય ત્યારે કાઢો; ઘેરી ન થવા દો.",
+        "નિતારી સંપૂર્ણ ઠંડી કરો; ચાટ માટે નાનાં ઝૂમખાં તોડો અથવા ઝીણી સેવ હવાચુસ્ત ડબ્બામાં રાખો."
+      ],
+      "tips": [
+        "સૌથી ઝીણી જાળી અને સુંવાળા લોટથી નાયલોન સેવ જાડી નમકીન સેવથી અલગ બને છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.spiceupthecurry.com/sev-recipe/comment-page-1/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/nylon-sev.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

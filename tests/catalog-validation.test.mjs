@@ -20,7 +20,7 @@ test('duplicates cannot hide behind accents, punctuation or aliases',()=>{
  assert.ok(duplicates([{dish:{id:'one',name:'A'}},{dish:{id:'one',name:'B'}}]).length);
 });
 test('all batch recipes have measured methods and both translated methods',()=>{
- assert.equal(batch.entries.length,360);assert.equal(batch.publicationApproved,true);
+ assert.equal(batch.entries.length,460);assert.equal(batch.publicationApproved,true);
  for(const e of batch.entries){assert.deepEqual(validateEntry(e.dish,e.recipe).errors,[],e.dish.id);for(const lang of ['hi','gu'])for(const s of [e.recipe.name,...e.recipe.ingredients.map(i=>i.name),...e.recipe.steps])assert.ok(e.translations[lang][s],`${e.dish.id} ${lang}: ${s}`);}
 });
 test('each draft name will be discoverable with Category Any after publication',()=>{
@@ -37,8 +37,8 @@ test('the entire published catalogue passes strict validation without legacy exc
  assert.deepEqual(report.draftErrors,[]);
  assert.deepEqual(report.legacyErrors,[]);
  assert.deepEqual(report.legacyReviewNotes,[]);
- assert.equal(report.approvedBatch,360);
- assert.equal(report.published,716);
+ assert.equal(report.approvedBatch,460);
+ assert.equal(report.published,816);
 });
 
 test('honey recipes have no broad Jain label, while household choices remain independent',()=>{

@@ -1,0 +1,160 @@
+{
+  "sourceReviewId": "R0335",
+  "id": "paneer-manchurian",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Paneer Manchurian",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "paneer, cubes",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "red onion, diced",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum, diced",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, chopped",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onion greens",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 140,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pat paneer dry. Mix most cornflour with all-purpose flour, a pinch of salt and enough measured water to make a thin coating; reserve remaining cornflour for the sauce.",
+    "Coat paneer cubes lightly and shallow-fry in hot oil until golden at the edges. Drain without overcooking the soft centres.",
+    "In a hot wok with a little oil, stir-fry garlic and ginger briefly, then add onion and capsicum; keep the vegetables slightly crisp.",
+    "Add soy sauce, ketchup and chilli sauce. Stir remaining cornflour with a splash of water, pour in and bubble until the glossy sauce just coats a spoon.",
+    "Toss the fried paneer through the sauce only until coated. Finish with spring onion greens and serve immediately as a dry starter."
+  ],
+  "tips": [
+    "Use a sauce with no animal-derived additives; the paneer should stay crisp-edged rather than sitting in gravy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर मंचूरियन",
+      "ingredients": [
+        "पनीर के टुकड़े",
+        "कॉर्नफ्लोर",
+        "मैदा",
+        "लाल प्याज, चौकोर कटे",
+        "हरी शिमला मिर्च, चौकोर कटी",
+        "कटा लहसुन",
+        "कटा अदरक",
+        "शाकाहारी सोया सॉस",
+        "टमाटर सॉस",
+        "लाल मिर्च सॉस",
+        "हरे प्याज के पत्ते",
+        "पानी",
+        "नमक",
+        "तेल"
+      ],
+      "steps": [
+        "पनीर सुखाएँ। अधिकतर कॉर्नफ्लोर में मैदा, थोड़ा नमक और दिया पानी मिलाकर पतला लेप बनाएँ; बाकी कॉर्नफ्लोर सॉस के लिए रखें।",
+        "पनीर पर हल्की परत लगाकर गरम तेल में किनारे सुनहरे होने तक तलें। नरम बीच को ज़्यादा पकाए बिना निकालें।",
+        "गरम कड़ाही में थोड़े तेल में लहसुन और अदरक जल्दी भूनें, फिर प्याज और शिमला मिर्च डालें; सब्ज़ियाँ हल्की कुरकुरी रखें।",
+        "सोया सॉस, टमाटर सॉस और मिर्च सॉस डालें। बचा कॉर्नफ्लोर थोड़े पानी में घोलकर डालें और चमकदार सॉस चम्मच पर चढ़ने तक पकाएँ।",
+        "तला पनीर सॉस में बस लेप चढ़ने तक मिलाएँ। हरे प्याज के पत्ते डालकर सूखे स्टार्टर की तरह तुरंत परोसें।"
+      ],
+      "tips": [
+        "ऐसी सॉस लें जिसमें पशु-जन्य मिलावट न हो; पनीर ग्रेवी में डूबने के बजाय किनारों पर कुरकुरा रहे।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર મંચુરિયન",
+      "ingredients": [
+        "પનીરના ટુકડા",
+        "કોર્નફ્લોર",
+        "મેંદો",
+        "લાલ ડુંગળી, ચોરસ સમારેલી",
+        "લીલાં સિમલા મરચાં, ચોરસ સમારેલાં",
+        "સમારેલું લસણ",
+        "સમારેલું આદુ",
+        "શાકાહારી સોયા સોસ",
+        "ટામેટાંની સોસ",
+        "લાલ મરચાંની સોસ",
+        "લીલી ડુંગળીના પાન",
+        "પાણી",
+        "મીઠું",
+        "તેલ"
+      ],
+      "steps": [
+        "પનીર સુકવો. મોટા ભાગના કોર્નફ્લોરમાં મેંદો, થોડું મીઠું અને આપેલું પાણી ભેળવી પાતળું પડ બનાવો; બાકીનું કોર્નફ્લોર સોસ માટે રાખો.",
+        "પનીરને હળવું ઢાંકી ગરમ તેલમાં કિનારીઓ સોનેરી થાય ત્યાં સુધી તળો. નરમ મધ્ય ભાગ વધુ રાંધ્યા વગર કાઢો.",
+        "ગરમ કડાઈમાં થોડા તેલમાં લસણ અને આદુ ઝટપટ સાંતળો, પછી ડુંગળી અને સિમલા મરચાં નાખો; શાક થોડું કરકરું રાખો.",
+        "સોયા સોસ, ટામેટાંની સોસ અને મરચાંની સોસ ઉમેરો. બાકીનું કોર્નફ્લોર થોડા પાણીમાં ઓગાળી નાખો અને ચમકતી સોસ ચમચી પર ચડે ત્યાં સુધી ઉકાળો.",
+        "તળેલું પનીર સોસમાં માત્ર પડ ચડે ત્યાં સુધી ભેળવો. લીલી ડુંગળીના પાન નાખી સુકા સ્ટાર્ટર તરીકે તરત પીરસો."
+      ],
+      "tips": [
+        "પ્રાણીજન્ય ઉમેરા વગરની સોસ લો; પનીર ગ્રેવીમાં ડૂબવાને બદલે કિનારીઓએ કરકરું રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://hebbarskitchen.com/paneer-manchurian-dry-recipe/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/paneer-manchurian.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

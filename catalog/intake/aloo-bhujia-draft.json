@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0317",
+  "id": "aloo-bhujia",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Aloo Bhujia",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "potatoes, boiled and peeled",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "fine gram flour",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "dry mango powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for dough",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil, for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mash boiled potatoes while warm and press through a sieve until completely smooth, with no lumps that could block the sev press.",
+    "Mix in gram flour, rice flour, chilli, turmeric, mango powder, asafoetida, salt and measured dough oil to form a soft, non-sticky dough; add no water unless absolutely needed.",
+    "Fit a thin sev plate to the press. Press the potato dough in loose circles directly into medium-hot oil, taking care not to overlap thickly.",
+    "Turn once and fry until the strands are golden and crisp with no bubbling. Drain thoroughly.",
+    "Cool completely, then gently break into short pieces and store airtight or serve as a snack."
+  ],
+  "tips": [
+    "Use lump-free potato mash or the fine press holes will clog and the strands will break."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू भुजिया",
+      "ingredients": [
+        "आलू, उबले और छिले",
+        "बारीक बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "अमचूर",
+        "हींग",
+        "नमक",
+        "आटे के लिए तेल",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "गरम उबले आलू मसलकर छलनी से निकालें ताकि बिल्कुल चिकने हों और गाँठ सेव प्रेस न रोके।",
+        "बेसन, चावल का आटा, मिर्च, हल्दी, अमचूर, हींग, नमक और नापा आटे वाला तेल मिलाकर नरम, न चिपकने वाला आटा बनाएँ; बहुत ज़रूरी हो तभी पानी डालें।",
+        "प्रेस में पतली सेव वाली जाली लगाएँ। आलू का आटा ढीले गोलों में सीधे मध्यम गरम तेल में दबाएँ; मोटी परत न चढ़ाएँ।",
+        "एक बार पलटकर तार सुनहरे, कुरकुरे और बिना बुलबुलों वाले होने तक तलें। अच्छी तरह निथारें।",
+        "पूरी तरह ठंडा करके हल्के हाथ से छोटे टुकड़े तोड़ें और बंद डिब्बे में रखें या नाश्ते की तरह परोसें।"
+      ],
+      "tips": [
+        "आलू की गाँठ रहित प्यूरी लें, वरना बारीक जाली बंद होगी और सेव टूटेगी।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકાની ભુજિયા",
+      "ingredients": [
+        "બટાકા, બાફેલા અને છોલેલા",
+        "ઝીણો ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "આમચૂર",
+        "હિંગ",
+        "મીઠું",
+        "લોટ માટે તેલ",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ગરમ બાફેલા બટાકા મસળી ચાળણીમાંથી પસાર કરો જેથી એકદમ સુંવાળા થાય અને ગાંઠ પ્રેસ ન અટકાવે.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, આમચૂર, હિંગ, મીઠું અને માપેલું લોટનું તેલ ભેળવી નરમ, ન ચોંટે એવો લોટ બાંધો; ખૂબ જરૂર હોય ત્યારે જ પાણી ઉમેરો.",
+        "પ્રેસમાં પાતળી સેવની જાળી લગાવો. બટાકાનો લોટ ઢીલા ગોળમાં સીધો મધ્યમ ગરમ તેલમાં દબાવો; વધુ જાડો પડ ન થવા દો.",
+        "એક વાર પલટાવી સેવ સોનેરી, કરકરી અને પરપોટા વગરની થાય ત્યાં સુધી તળો. સારી રીતે નિતારો.",
+        "સંપૂર્ણ ઠંડી કરીને હળવે હાથે ટૂંકા ટુકડા કરો અને હવાચુસ્ત ડબ્બામાં રાખો અથવા નાસ્તા તરીકે પીરસો."
+      ],
+      "tips": [
+        "ગાંઠ વગરનો બટાકાનો માવો લો, નહીં તો ઝીણી જાળી બંધ થશે અને સેવ તૂટશે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.vegrecipesofindia.com/potato-sev-recipe-aloo-sev/",
+    "use": "Traditional method and dish identity checked; measurements and wording independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/aloo-bhujia.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}

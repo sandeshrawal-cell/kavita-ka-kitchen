@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0348",
+  "id": "chura-bhuja",
+  "status": "published-fourth-100-intake-batch",
+  "name": "Chura Bhuja",
+  "cuisine": "Bihari",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "thick flattened rice",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "raw peanuts",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 65,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pick through flattened rice to remove husks. If the flakes feel damp, spread them until dry; do not soak or rinse.",
+    "Heat mustard oil in a wide pan and fry peanuts over medium-low heat until browned and crisp; lift out.",
+    "In the same oil crisp the chopped chillies and curry leaves. Add turmeric and chilli powder briefly without burning them.",
+    "Add dry chura in batches and toss continuously over low heat until every flake turns crisp and lightly golden.",
+    "Return peanuts, season with salt and toss well. Cool fully before storing, or serve warm with tea."
+  ],
+  "tips": [
+    "Use thick dry flattened rice; thin flakes break and damp flakes become chewy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चूड़ा भूजा",
+      "ingredients": [
+        "मोटा चूड़ा",
+        "कच्ची मूँगफली",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "सरसों तेल"
+      ],
+      "steps": [
+        "चूड़े में से भूसी निकालें। दाने नम हों तो फैलाकर सुखाएँ; भिगोएँ या धोएँ नहीं।",
+        "चौड़े पैन में सरसों तेल गरम करके मूँगफली मध्यम-धीमी आँच पर भूरी कुरकुरी भूनें; निकाल लें।",
+        "उसी तेल में कटी मिर्च और करी पत्ते कुरकुरे करें। हल्दी और मिर्च पाउडर डालकर बिना जलाए जल्दी मिलाएँ।",
+        "सूखा चूड़ा थोड़ा-थोड़ा डालें और धीमी आँच पर लगातार चलाकर हर दाना कुरकुरा और हल्का सुनहरा करें।",
+        "मूँगफली वापस डालें, नमक मिलाकर अच्छी तरह चलाएँ। रखने से पहले पूरा ठंडा करें या चाय के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "मोटा सूखा चूड़ा लें; पतले दाने टूटते और नम दाने चबाने जैसे रह जाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચૂડા ભૂજા",
+      "ingredients": [
+        "જાડા પૌંઆ",
+        "કાચી મગફળી",
+        "લીલાં મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "સરસવનું તેલ"
+      ],
+      "steps": [
+        "પૌંઆમાંથી ફોતરાં કાઢો. દાણા ભીના લાગે તો પાથરી સુકવો; પલાળો કે ધુઓ નહીં.",
+        "પહોળી કડાઈમાં સરસવનું તેલ ગરમ કરી મગફળી મધ્યમ-ધીમા તાપે ભૂરા કરકરા શેકો; કાઢી લો.",
+        "એ જ તેલમાં સમારેલાં મરચાં અને મીઠા લીમડાનાં પાન કરકરાં કરો. હળદર અને મરચું પાઉડર નાખી બળે નહીં તેમ ઝટપટ ભેળવો.",
+        "સૂકા પૌંઆ થોડા થોડા નાખો અને ધીમા તાપે સતત હલાવી દરેક દાણો કરકરો અને હળવો સોનેરી કરો.",
+        "મગફળી પાછી નાખો, મીઠું ભેળવી સારી રીતે હલાવો. સાચવતાં પહેલાં સંપૂર્ણ ઠંડું કરો અથવા ચા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "જાડા સૂકા પૌંઆ લો; પાતળા દાણા તૂટી જાય અને ભીના દાણા ચવાણા જેવા રહે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.steamingpot.com/chura-bhuja-with-peas/",
+    "use": "Dish identity and method; quantities and wording independently authored for this catalogue."
+  },
+  "photoDraft": "catalog/intake/photos/chura-bhuja.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-06."
+}
