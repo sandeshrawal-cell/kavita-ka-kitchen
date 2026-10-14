@@ -1,0 +1,149 @@
+{
+  "sourceReviewId": "R1403",
+  "id": "chilli-paneer-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Chilli Paneer Roll",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "paneer",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 22,
+      "unit": "ml"
+    },
+    {
+      "name": "red chilli sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead wheat flour with water and a little salt into a soft dough; rest it while you cut paneer and vegetables into strips.",
+    "Divide the dough, roll thin flatbreads and cook each on a hot skillet until lightly spotted and flexible.",
+    "Dust paneer lightly with cornflour and sear in oil until golden; remove, then stir-fry onion, pepper, ginger, garlic and chilli over high heat.",
+    "Return paneer to the pan with soy sauce and chilli sauce; toss until glossy and the sauce clings rather than runs.",
+    "Pile the warm chilli paneer onto flatbreads, fold in the ends and roll tightly; serve while the filling is hot."
+  ],
+  "tips": [
+    "Keep the filling fairly dry so the roll stays easy to hold."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिली पनीर रोल",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "पनीर",
+        "हरी शिमला मिर्च",
+        "प्याज़",
+        "लहसुन",
+        "अदरक",
+        "हरी मिर्च",
+        "हल्का सोया सॉस",
+        "लाल चिली सॉस",
+        "कॉर्नफ्लोर",
+        "सादा तेल",
+        "नमक"
+      ],
+      "steps": [
+        "आटे में पानी और थोड़ा नमक मिलाकर मुलायम गूँधें; पनीर और सब्ज़ियों की लंबी पट्टियाँ काटते समय आटा ढककर रखें।",
+        "आटा बाँटकर पतली रोटियाँ बेलें और गरम तवे पर हल्के चित्ते आने तथा लचीली रहने तक सेकें।",
+        "पनीर पर हल्का कॉर्नफ्लोर लगाकर तेल में सुनहरा करें; निकालकर प्याज़, शिमला मिर्च, अदरक, लहसुन और मिर्च तेज आँच पर भूनें।",
+        "पनीर वापस डालें, सोया और चिली सॉस मिलाकर इतना भूनें कि चमकदार सॉस लिपट जाए, बहे नहीं।",
+        "गरम चिली पनीर रोटियों पर रखें, किनारे मोड़कर कसकर रोल करें और भरावन गरम रहते परोसें।"
+      ],
+      "tips": [
+        "भरावन अपेक्षाकृत सूखा रखें ताकि रोल पकड़कर खाना आसान हो।"
+      ]
+    },
+    "gu": {
+      "name": "ચિલી પનીર રોલ",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "પનીર",
+        "લીલા શિમલા મરચાં",
+        "ડુંગળી",
+        "લસણ",
+        "આદુ",
+        "લીલું મરચું",
+        "હળવો સોયા સોસ",
+        "લાલ ચિલી સોસ",
+        "કોર્નફ્લોર",
+        "સાદું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "લોટમાં પાણી અને થોડું મીઠું ભેળવી નરમ બાંધો; પનીર અને શાકની લાંબી પટ્ટીઓ કાપો ત્યાં સુધી લોટ ઢાંકી રાખો.",
+        "લોટ વહેંચી પાતળી રોટલી વણો અને ગરમ તવા પર હળવા ડાઘ પડે તથા નરમ રહે ત્યાં સુધી શેકો.",
+        "પનીરને હળવો કોર્નફ્લોર લગાવી તેલમાં સોનેરી કરો; કાઢીને ડુંગળી, શિમલા મરચાં, આદુ, લસણ અને મરચાંને ઊંચા તાપે સાંતળો.",
+        "પનીર પાછું નાખી સોયા અને ચિલી સોસ ઉમેરો; ચમકદાર સોસ ચોંટે પણ વહે નહીં ત્યાં સુધી ઉછાળો.",
+        "ગરમ ચિલી પનીર રોટલી પર મૂકો, કિનારીઓ વાળી કસીને રોલ કરો અને ભરાવણ ગરમ હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "ભરાવણ થોડું સૂકું રાખો જેથી રોલ હાથમાં પકડીને ખાવું સરળ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/chilli-paneer-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R1014",
+  "id": "clear-vegetable-soup",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Clear Vegetable Soup",
+  "cuisine": "Global",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "carrot",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "celery",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "mushrooms",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 1100,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice the vegetables thinly and evenly so they cook quickly while keeping a little bite.",
+    "Warm oil in a pot, soften the spring onion whites and garlic, then add carrot, beans, celery and mushrooms.",
+    "Pour in stock and simmer gently until the firmer vegetables are just tender; add cabbage near the end.",
+    "Season with soy sauce, pepper and salt, then serve the clear broth with spring onion greens on top."
+  ],
+  "tips": [
+    "Do not boil the soup vigorously or overcook the cabbage; a clear broth and crisp vegetables are the point."
+  ],
+  "translations": {
+    "hi": {
+      "name": "साफ़ सब्ज़ी सूप",
+      "ingredients": [
+        "गाजर",
+        "पत्ता गोभी",
+        "हरी फलियाँ",
+        "सेलेरी",
+        "मशरूम",
+        "हरा प्याज़",
+        "लहसुन",
+        "सब्ज़ियों का स्टॉक",
+        "सादा तेल",
+        "सोया सॉस",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "सब्ज़ियों को पतले बराबर टुकड़ों में काटें ताकि वे जल्दी पकें और हल्की कुरकुरी रहें।",
+        "बर्तन में तेल गरम करके हरे प्याज़ का सफेद भाग और लहसुन नरम करें; गाजर, फलियाँ, सेलेरी और मशरूम डालें।",
+        "स्टॉक डालकर धीमे पकाएँ जब तक सख्त सब्ज़ियाँ हल्की नरम हों; अंत में पत्ता गोभी डालें।",
+        "सोया सॉस, काली मिर्च और नमक से स्वाद ठीक करें; ऊपर हरे प्याज़ के पत्ते डालकर साफ़ शोरबा परोसें।"
+      ],
+      "tips": [
+        "सूप को तेज न उबालें और पत्ता गोभी अधिक न पकाएँ; शोरबा साफ़ व सब्ज़ियाँ हल्की कुरकुरी रहें।"
+      ]
+    },
+    "gu": {
+      "name": "ચોખ્ખું શાકભાજીનું સૂપ",
+      "ingredients": [
+        "ગાજર",
+        "કોબીજ",
+        "લીલા ફણસી",
+        "સેલરી",
+        "મશરૂમ",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "શાકભાજીનો સ્ટોક",
+        "સાદું તેલ",
+        "સોયા સોસ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "શાકભાજીના પાતળા સરખા ટુકડા કરો જેથી જલદી રંધાય અને થોડાં કરકરાં રહે.",
+        "વાસણમાં તેલ ગરમ કરી લીલી ડુંગળીનો સફેદ ભાગ અને લસણ નરમ કરો; ગાજર, ફણસી, સેલરી અને મશરૂમ ઉમેરો.",
+        "સ્ટોક રેડીને કઠણ શાક થોડાં નરમ થાય ત્યાં સુધી ધીમે રાંધો; છેલ્લે કોબીજ ઉમેરો.",
+        "સોયા સોસ, મરી અને મીઠું નાખો; ઉપર લીલી ડુંગળીનાં પાન નાખીને ચોખ્ખું શોરબું પીરસો."
+      ],
+      "tips": [
+        "સૂપને જોરથી ઉકાળો નહીં અને કોબીજ વધુ ન રાંધો; શોરબું ચોખ્ખું અને શાક થોડાં કરકરાં રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/clear-vegetable-soup.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

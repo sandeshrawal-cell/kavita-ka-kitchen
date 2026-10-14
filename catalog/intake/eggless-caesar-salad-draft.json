@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1103",
+  "id": "eggless-caesar-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Caesar Salad",
+  "cuisine": "Global",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "romaine lettuce",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "bread cubes",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and completely dry the romaine, then chill the leaves so they stay crisp.",
+    "Toss bread cubes with some olive oil and minced garlic; toast until golden and let them cool.",
+    "Whisk eggless mayonnaise, lemon juice, mustard, grated vegetarian hard cheese, pepper and remaining oil into a creamy dressing.",
+    "Tear the lettuce, coat lightly with dressing and add croutons just before serving, finishing with more cheese."
+  ],
+  "tips": [
+    "Check both mayonnaise and cheese labels: the dressing must contain no egg, anchovy or animal rennet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अंडारहित सीज़र सलाद",
+      "ingredients": [
+        "रोमेन लेट्यूस",
+        "ब्रेड के टुकड़े",
+        "जैतून का तेल",
+        "लहसुन",
+        "अंडारहित मेयोनीज़",
+        "नींबू का रस",
+        "डिजॉन मस्टर्ड",
+        "शाकाहारी सख्त चीज़",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "रोमेन पत्तों को धोकर पूरी तरह सुखाएँ और कुरकुरे रखने के लिए ठंडा करें।",
+        "ब्रेड के टुकड़ों में थोड़ा जैतून का तेल और कुटा लहसुन मिलाकर सुनहरे सेंकें; ठंडे करें।",
+        "अंडारहित मेयोनीज़, नींबू रस, मस्टर्ड, कद्दूकस शाकाहारी चीज़, काली मिर्च और बचा तेल फेंटकर क्रीमी ड्रेसिंग बनाएँ।",
+        "लेट्यूस तोड़कर हल्की ड्रेसिंग में मिलाएँ; परोसने से पहले क्रूटॉन डालें और ऊपर थोड़ा चीज़ छिड़कें।"
+      ],
+      "tips": [
+        "मेयोनीज़ और चीज़ के लेबल जाँचें: ड्रेसिंग में अंडा, एन्कोवी या पशु रेनेट न हो।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરનું સીઝર સલાડ",
+      "ingredients": [
+        "રોમેઇન લેટીસ",
+        "બ્રેડના ટુકડા",
+        "ઓલિવ તેલ",
+        "લસણ",
+        "ઈંડા વગરનું મેયોનેઝ",
+        "લીંબુનો રસ",
+        "ડિજોન મસ્ટર્ડ",
+        "શાકાહારી સખત ચીઝ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "રોમેઇનનાં પાન ધોઈ સંપૂર્ણ સુકવો અને કરકરાં રહે તે માટે ઠંડાં રાખો.",
+        "બ્રેડના ટુકડામાં થોડું ઓલિવ તેલ અને કચડેલું લસણ ભેળવી સોનેરી શેકો; ઠંડાં કરો.",
+        "ઈંડા વગરનું મેયોનેઝ, લીંબુનો રસ, મસ્ટર્ડ, છીણેલું શાકાહારી ચીઝ, મરી અને બાકીનું તેલ ફેંટીને ક્રીમી ડ્રેસિંગ બનાવો.",
+        "લેટીસ તોડી હળવી ડ્રેસિંગમાં ભેળવો; પીરસતાં પહેલાં ક્રૂટોન નાખો અને ઉપર થોડું ચીઝ ભભરાવો."
+      ],
+      "tips": [
+        "મેયોનેઝ અને ચીઝનાં લેબલ તપાસો: ડ્રેસિંગમાં ઈંડું, એન્કોવી કે પ્રાણી રેનેટ ન હોવું જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-caesar-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

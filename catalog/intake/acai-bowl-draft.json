@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1909",
+  "id": "acai-bowl",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Acai Bowl",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "unsweetened frozen açaí pulp",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "frozen banana slices",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "frozen mixed berries",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "granola",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh strawberries",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin seeds",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Break the frozen açaí pulp into chunks and let it soften for 2–3 minutes only; slice the fresh strawberries for topping.",
+    "Blend açaí, frozen banana and frozen berries with half the milk, stopping to scrape the blender; add the rest only if the blades cannot turn.",
+    "Keep the mixture thick enough to hold a spoon. Spoon it into four cold bowls rather than pouring it into glasses.",
+    "Top each bowl with granola, sliced strawberries and pumpkin seeds; serve immediately before the frozen base melts."
+  ],
+  "tips": [
+    "Use unsweetened açaí pulp, not bottled açaí juice, to get the thick bowl texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "असाई बाउल",
+      "ingredients": [
+        "बिना चीनी का जमा असाई गूदा",
+        "जमे केले के टुकड़े",
+        "जमी हुई मिली-जुली बेरी",
+        "ठंडा दूध",
+        "ग्रेनोला",
+        "ताज़ी स्ट्रॉबेरी",
+        "कद्दू के बीज"
+      ],
+      "steps": [
+        "जमे असाई गूदे को टुकड़ों में तोड़कर केवल 2–3 मिनट नरम होने दें; सजाने के लिए ताज़ी स्ट्रॉबेरी काटें।",
+        "असाई, जमा केला और जमी बेरी आधे दूध के साथ ब्लेंड करें और बीच में ब्लेंडर का किनारा साफ करें; ब्लेड न घूमें तो ही बाकी दूध डालें।",
+        "मिश्रण इतना गाढ़ा रखें कि चम्मच टिके। इसे गिलासों में डालने के बजाय चार ठंडे कटोरों में भरें।",
+        "हर कटोरे पर ग्रेनोला, कटी स्ट्रॉबेरी और कद्दू के बीज डालें; जमा आधार पिघलने से पहले तुरंत परोसें।"
+      ],
+      "tips": [
+        "गाढ़े बाउल के लिए बोतल वाले असाई रस की जगह बिना चीनी का जमा गूदा लें।"
+      ]
+    },
+    "gu": {
+      "name": "અસાઈ બાઉલ",
+      "ingredients": [
+        "ખાંડ વગરનો ફ્રોઝન અસાઈ ગૂદો",
+        "ફ્રોઝન કેળાના ટુકડા",
+        "ફ્રોઝન મિશ્ર બેરી",
+        "ઠંડું દૂધ",
+        "ગ્રેનોલા",
+        "તાજી સ્ટ્રોબેરી",
+        "કોળાનાં બીજ"
+      ],
+      "steps": [
+        "ફ્રોઝન અસાઈ ગૂદાના ટુકડા કરી માત્ર 2–3 મિનિટ નરમ થવા દો; ઉપર મૂકવા તાજી સ્ટ્રોબેરી સમારો.",
+        "અસાઈ, ફ્રોઝન કેળું અને બેરી અડધા દૂધ સાથે બ્લેન્ડ કરો અને વચ્ચે બ્લેન્ડરની બાજુ સાફ કરો; બ્લેડ ન ફરે તો જ બાકી દૂધ ઉમેરો.",
+        "મિશ્રણ એટલું ઘટ્ટ રાખો કે ચમચી ઊભી રહે. ગ્લાસમાં રેડવાને બદલે ચાર ઠંડા વાટકામાં ભરો.",
+        "દરેક વાટકા પર ગ્રેનોલા, સમારેલી સ્ટ્રોબેરી અને કોળાનાં બીજ મૂકો; ફ્રોઝન મિશ્રણ પીગળે તે પહેલાં તરત પીરસો."
+      ],
+      "tips": [
+        "ઘટ્ટ બાઉલ માટે બોટલના અસાઈ રસને બદલે ખાંડ વગરનો ફ્રોઝન ગૂદો લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/acai-bowl.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

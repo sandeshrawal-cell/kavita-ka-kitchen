@@ -1,0 +1,142 @@
+{
+  "sourceReviewId": "R1405",
+  "id": "schezwan-frankie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Schezwan Frankie",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian Schezwan sauce",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead the flour with water and a pinch of salt; rest, roll and cook soft flatbreads on a hot skillet.",
+    "Shred cabbage and carrot, slice pepper and separate spring onion whites from greens.",
+    "Stir-fry garlic and spring onion whites in hot oil; add the vegetables and cook quickly so they keep their crunch.",
+    "Toss in vegetarian Schezwan sauce and soy sauce until the vegetables are evenly coated; finish with spring onion greens and lemon.",
+    "Spread the warm filling across each flatbread, fold the ends and roll firmly; serve immediately."
+  ],
+  "tips": [
+    "Check the Schezwan sauce label for vegetarian ingredients and keep the vegetables crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शेज़वान फ्रैंकी",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "पत्ता गोभी",
+        "गाजर",
+        "हरी शिमला मिर्च",
+        "हरा प्याज़",
+        "लहसुन",
+        "शाकाहारी शेज़वान सॉस",
+        "हल्का सोया सॉस",
+        "नींबू का रस",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "आटे में पानी और चुटकी नमक मिलाकर गूँधें; आराम देकर पतली रोटियाँ बेलें और गरम तवे पर नरम सेकें।",
+        "पत्ता गोभी और गाजर पतली काटें, शिमला मिर्च की पट्टियाँ करें और हरे प्याज़ के सफेद व हरे भाग अलग करें।",
+        "गरम तेल में लहसुन और प्याज़ का सफेद भाग भूनें; सब्ज़ियाँ डालकर तेज़ी से पकाएँ ताकि वे कुरकुरी रहें।",
+        "शाकाहारी शेज़वान और सोया सॉस में सब्ज़ियाँ लपेटें; अंत में हरे पत्ते और नींबू मिलाएँ।",
+        "गरम भरावन हर रोटी पर फैलाएँ, सिरे मोड़कर कसकर रोल करें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "शेज़वान सॉस का शाकाहारी लेबल जाँचें और सब्ज़ियाँ कुरकुरी रखें।"
+      ]
+    },
+    "gu": {
+      "name": "શેઝવાન ફ્રેન્કી",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "કોબીજ",
+        "ગાજર",
+        "લીલા શિમલા મરચાં",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "શાકાહારી શેઝવાન સોસ",
+        "હળવો સોયા સોસ",
+        "લીંબુનો રસ",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "લોટમાં પાણી અને ચપટી મીઠું ભેળવી બાંધો; આરામ આપીને પાતળી રોટલી વણો અને ગરમ તવા પર નરમ શેકો.",
+        "કોબીજ અને ગાજર પાતળાં કાપો, શિમલા મરચાંની પટ્ટીઓ કરો અને લીલી ડુંગળીના સફેદ તથા લીલા ભાગ અલગ કરો.",
+        "ગરમ તેલમાં લસણ અને ડુંગળીનો સફેદ ભાગ સાંતળો; શાક નાખી ઝડપથી રાંધો જેથી કરકરું રહે.",
+        "શાકાહારી શેઝવાન અને સોયા સોસમાં શાક ભેળવો; છેલ્લે લીલાં પાન અને લીંબુ ઉમેરો.",
+        "ગરમ ભરાવણ દરેક રોટલી પર પાથરો, છેડા વાળી કસીને રોલ કરો અને તરત પીરસો."
+      ],
+      "tips": [
+        "શેઝવાન સોસનું શાકાહારી લેબલ તપાસો અને શાક કરકરું રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/schezwan-frankie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

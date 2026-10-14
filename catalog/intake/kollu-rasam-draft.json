@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1018",
+  "id": "kollu-rasam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kollu Rasam",
+  "cuisine": "Tamil",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "horse gram",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1100,
+      "unit": "ml"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dry red chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak horse gram, then cook it with plenty of water until tender; reserve the earthy cooking broth and mash a little of the gram.",
+    "Crush pepper, cumin and garlic together and extract the tamarind in warm water.",
+    "Simmer tomato with tamarind, turmeric and salt until softened; add horse-gram broth, mashed gram and crushed spices.",
+    "Heat until the rasam foams, then finish with mustard, red chilli and curry leaves crackled in oil."
+  ],
+  "tips": [
+    "Save the horse-gram cooking liquid: it gives this rasam its characteristic deep flavor."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोल्लू रसम",
+      "ingredients": [
+        "कुल्थी दाल",
+        "टमाटर",
+        "इमली का गूदा",
+        "पानी",
+        "काली मिर्च साबुत",
+        "जीरा",
+        "लहसुन",
+        "हल्दी",
+        "राई",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ते",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "कुल्थी भिगोकर भरपूर पानी में नरम होने तक पकाएँ; उसका मिट्टी-सा स्वाद वाला पानी बचाएँ और थोड़ी दाल मसलें।",
+        "काली मिर्च, जीरा और लहसुन साथ कूटें; इमली को गुनगुने पानी में घोलें।",
+        "टमाटर को इमली, हल्दी और नमक के साथ नरम पकाएँ; कुल्थी का पानी, मसली दाल और कुटा मसाला डालें।",
+        "रसम में झाग आने तक गरम करें; फिर तेल में राई, सूखी मिर्च और कड़ी पत्ते चटकाकर ऊपर डालें।"
+      ],
+      "tips": [
+        "कुल्थी का उबला पानी बचाएँ; उसी से इस रसम को खास गहरा स्वाद मिलता है।"
+      ]
+    },
+    "gu": {
+      "name": "કોલ્લુ રસમ",
+      "ingredients": [
+        "કુલથી દાળ",
+        "ટામેટાં",
+        "આમલીનો માવો",
+        "પાણી",
+        "આખા કાળા મરી",
+        "જીરું",
+        "લસણ",
+        "હળદર",
+        "રાઈ",
+        "સૂકું લાલ મરચું",
+        "મીઠા લીમડાનાં પાન",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કુલથી પલાળી પુષ્કળ પાણીમાં નરમ થાય ત્યાં સુધી રાંધો; તેનો ઘેરો રસ સાચવો અને થોડી દાળ મસળો.",
+        "મરી, જીરું અને લસણ સાથે ખાંડો; આમલી નવશેકા પાણીમાં ઘોળો.",
+        "ટામેટાંને આમલી, હળદર અને મીઠા સાથે નરમ રાંધો; કુલથીનો રસ, મસળેલી દાળ અને ખાંડેલો મસાલો ઉમેરો.",
+        "રસમમાં ફીણ આવે ત્યાં સુધી ગરમ કરો; પછી તેલમાં રાઈ, સૂકું મરચું અને મીઠો લીમડો વઘારી ઉપર રેડો."
+      ],
+      "tips": [
+        "કુલથી રાંધેલું પાણી સાચવો; તે જ આ રસમને વિશિષ્ટ ઘેરો સ્વાદ આપે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kollu-rasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

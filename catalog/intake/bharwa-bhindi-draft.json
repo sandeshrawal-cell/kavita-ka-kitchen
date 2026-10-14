@@ -1,0 +1,120 @@
+{
+  "sourceReviewId": "R0505",
+  "id": "bharwa-bhindi",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Bharwa Bhindi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "okra",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ground fennel",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 55,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash okra well and dry completely. Trim only the stems, then slit each pod lengthwise without cutting through.",
+    "Dry-roast gram flour 3–4 minutes until nutty. Cool and mix with coriander, fennel, amchur, chilli, turmeric, salt and 20 ml oil.",
+    "Fill every slit with the spice mixture, pressing gently so the filling stays inside.",
+    "Heat remaining oil in a wide pan. Arrange okra in one layer, cover and cook on low heat 12 minutes; turn carefully and cook uncovered another 8–10 minutes until tender and lightly crisp."
+  ],
+  "tips": [
+    "Do not add water; dry okra and a wide pan prevent sliminess."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भरवाँ भिंडी",
+      "ingredients": [
+        "भिंडी",
+        "बेसन",
+        "धनिया पाउडर",
+        "सौंफ पाउडर",
+        "अमचूर",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "नमक",
+        "तेल"
+      ],
+      "steps": [
+        "भिंडी धोकर पूरी तरह सुखाएँ। सिर्फ डंठल काटें, फिर हर भिंडी में लंबा चीरा लगाएँ पर पूरा न काटें।",
+        "बेसन 3–4 मिनट खुशबू आने तक सूखा भूनें। ठंडा कर धनिया, सौंफ, अमचूर, मिर्च, हल्दी, नमक और 20 मि.ली. तेल मिलाएँ।",
+        "हर चीरे में मसाला भरें और हल्के से दबाएँ ताकि भरावन अंदर रहे।",
+        "बाकी तेल चौड़ी कड़ाही में गरम करें। भिंडी एक परत में रखें, ढककर धीमी आँच पर 12 मिनट पकाएँ; सावधानी से पलटकर बिना ढके 8–10 मिनट नरम और हल्की कुरकुरी करें।"
+      ],
+      "tips": [
+        "पानी न डालें; सूखी भिंडी और चौड़ी कड़ाही चिपचिपाहट रोकती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ભરેલા ભીંડા",
+      "ingredients": [
+        "ભીંડા",
+        "ચણાનો લોટ",
+        "ધાણા પાઉડર",
+        "વરિયાળી પાઉડર",
+        "આમચૂર",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "મીઠું",
+        "તેલ"
+      ],
+      "steps": [
+        "ભીંડા ધોઈ પૂરા સૂકવો. ફક્ત ડાંઠ કાપો, પછી દરેક ભીંડામાં લાંબો ચીરો કરો પણ આખો ન કાપો.",
+        "ચણાનો લોટ 3–4 મિનિટ સુગંધ આવે ત્યાં સુધી સૂકો શેકો. ઠંડો કરી ધાણા, વરિયાળી, આમચૂર, મરચું, હળદર, મીઠું અને 20 મિ.લી. તેલ ભેળવો.",
+        "દરેક ચીરામાં મસાલો ભરો અને હળવે દબાવો જેથી મસાલો અંદર રહે.",
+        "બાકી તેલ પહોળી કડાઈમાં ગરમ કરો. ભીંડા એક પડમાં ગોઠવો, ઢાંકીને ધીમી આંચે 12 મિનિટ પકાવો; સાવચેતીથી ફેરવી ઢાંકણ વિના 8–10 મિનિટ નરમ અને થોડા કરકરા કરો."
+      ],
+      "tips": [
+        "પાણી ન ઉમેરો; સૂકા ભીંડા અને પહોળી કડાઈ ચીકાશ અટકાવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bharwa-bhindi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R2106",
+  "id": "virgin-sangria",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Virgin Sangria",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "red grape juice",
+      "qty": 460,
+      "unit": "ml"
+    },
+    {
+      "name": "pomegranate juice",
+      "qty": 360,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh orange juice",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "orange slices",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "apple",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "lemon slices",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "chilled sparkling water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 300,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash fruit well. Thinly slice orange and lemon, core and dice apple, and put them in a large jug with the cinnamon stick.",
+    "Pour in grape, pomegranate and orange juices; stir gently to coat the fruit without crushing it.",
+    "Cover and refrigerate for at least 30 minutes so the fruit and cinnamon infuse the juices. Remove the cinnamon if its flavour becomes strong.",
+    "Divide ice and some infused fruit among four glasses, pour over the juice mixture, top with sparkling water and serve at once."
+  ],
+  "tips": [
+    "Use 100% fruit juices without alcohol; add the fizzy water only when serving."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वर्जिन संगरिया",
+      "ingredients": [
+        "लाल अंगूर का रस",
+        "अनार का रस",
+        "ताज़ा संतरे का रस",
+        "संतरे की फाँकें",
+        "सेब",
+        "नींबू की फाँकें",
+        "दालचीनी की डंडी",
+        "ठंडा स्पार्कलिंग पानी",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "फलों को अच्छी तरह धोएँ। संतरा और नींबू पतले काटें, सेब का बीच निकालकर टुकड़े करें और दालचीनी के साथ बड़े जग में डालें।",
+        "अंगूर, अनार और संतरे का रस डालें; फल को कुचले बिना धीरे चलाएँ ताकि रस लगे।",
+        "ढककर कम से कम 30 मिनट फ्रिज में रखें ताकि फल और दालचीनी का स्वाद रस में आए। स्वाद अधिक तेज़ हो तो दालचीनी निकालें।",
+        "चार गिलासों में बर्फ और भीगे फल बाँटें, ऊपर रस डालें, स्पार्कलिंग पानी मिलाएँ और तुरंत परोसें।"
+      ],
+      "tips": [
+        "बिना शराब वाले 100% फलों के रस लें; बुलबुले वाला पानी परोसते समय ही डालें।"
+      ]
+    },
+    "gu": {
+      "name": "વર્જિન સાંગરિયા",
+      "ingredients": [
+        "લાલ દ્રાક્ષનો રસ",
+        "દાડમનો રસ",
+        "તાજો નારંગીનો રસ",
+        "નારંગીની ફાંકો",
+        "સફરજન",
+        "લીંબુની ફાંકો",
+        "તજની સળી",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "ફળ સારી રીતે ધુઓ. નારંગી અને લીંબુ પાતળાં કાપો, સફરજનનો ગર્ભ કાઢી ટુકડા કરો અને તજ સાથે મોટા જગમાં નાખો.",
+        "દ્રાક્ષ, દાડમ અને નારંગીનો રસ રેડો; ફળ કચડાય નહીં એમ ધીમે હલાવો.",
+        "ઢાંકી ઓછામાં ઓછું 30 મિનિટ ફ્રિજમાં રાખો જેથી ફળ અને તજનો સ્વાદ રસમાં આવે. સ્વાદ વધુ તીવ્ર થાય તો તજ કાઢો.",
+        "ચાર ગ્લાસમાં બરફ અને પલાળેલાં ફળ વહેંચો, ઉપર રસ રેડો, સોડા વોટર ઉમેરો અને તરત પીરસો."
+      ],
+      "tips": [
+        "આલ્કોહોલ વગરના 100% ફળોના રસ લો; ફીણવાળું પાણી પીરસતી વખતે જ ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/virgin-sangria.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

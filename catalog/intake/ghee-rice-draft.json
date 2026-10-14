@@ -1,0 +1,134 @@
+{
+  "sourceReviewId": "R0706",
+  "id": "ghee-rice",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Ghee Rice",
+  "cuisine": "South Indian",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green cardamom",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cloves",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "bay leaf",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 620,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse rice until water clears, soak 20 minutes and drain thoroughly. Slice onion thinly.",
+    "Heat half the ghee and fry cashews and raisins until golden and plump; remove. Fry sliced onion in the same pan until deeply golden; remove half for garnish.",
+    "Add remaining ghee and whole spices to the pan; toast 30 seconds. Add drained rice and stir 2 minutes to coat each grain.",
+    "Pour in water and salt. Bring to a boil, cover tightly and cook on low heat 13–15 minutes. Rest 10 minutes, fluff and top with onion, cashews and raisins."
+  ],
+  "tips": [
+    "Use good-quality ghee and let the rice rest covered so the grains stay long and separate."
+  ],
+  "translations": {
+    "hi": {
+      "name": "घी राइस",
+      "ingredients": [
+        "बासमती चावल",
+        "घी",
+        "प्याज़",
+        "काजू",
+        "किशमिश",
+        "हरी इलायची",
+        "लौंग",
+        "दालचीनी",
+        "तेजपत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चावल साफ़ पानी आने तक धोकर 20 मिनट भिगोएँ और अच्छी तरह छानें। प्याज़ पतला काटें।",
+        "आधे घी में काजू और किशमिश सुनहरे व फूले होने तक भूनकर निकालें। उसी में प्याज़ गहरा सुनहरा करें; आधा सजाने के लिए निकालें।",
+        "बाकी घी और खड़े मसाले डालकर 30 सेकंड महकाएँ। छने चावल 2 मिनट चलाकर हर दाने पर घी चढ़ाएँ।",
+        "पानी और नमक डालें। उबालकर कसकर ढकें और धीमी आँच पर 13–15 मिनट पकाएँ। 10 मिनट रखें, फुलाकर प्याज़, काजू और किशमिश डालें।"
+      ],
+      "tips": [
+        "अच्छा घी लें और चावल ढककर आराम करने दें ताकि दाने लंबे और अलग रहें।"
+      ]
+    },
+    "gu": {
+      "name": "ઘી ભાત",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "ઘી",
+        "ડુંગળી",
+        "કાજુ",
+        "કિસમિસ",
+        "લીલી એલચી",
+        "લવિંગ",
+        "તજ",
+        "તમાલપત્ર",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચોખા ચોખ્ખું પાણી આવે ત્યાં સુધી ધોઈ 20 મિનિટ પલાળી બરાબર નીતારો. ડુંગળી પાતળી સમારો.",
+        "અડધા ઘીમાં કાજુ અને કિસમિસ સોનેરી અને ફૂલેલા થાય ત્યાં સુધી શેકી કાઢો. એમાં ડુંગળી ઘેરી સોનેરી કરો; અડધી સજાવટ માટે કાઢો.",
+        "બાકી ઘી અને આખા મસાલા ઉમેરી 30 સેકંડ સુગંધિત કરો. નીતારેલા ચોખા 2 મિનિટ હલાવી દરેક દાણે ઘી ચડાવો.",
+        "પાણી અને મીઠું ઉમેરો. ઉકાળી ચુસ્ત ઢાંકી ધીમી આંચે 13–15 મિનિટ પકાવો. 10 મિનિટ રાખી ભાત ખોલો અને ડુંગળી, કાજુ અને કિસમિસ નાખો."
+      ],
+      "tips": [
+        "સારી ગુણવત્તાનું ઘી લો અને ભાત ઢાંકી આરામ કરવા દો જેથી દાણા લાંબા અને છૂટા રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/ghee-rice.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

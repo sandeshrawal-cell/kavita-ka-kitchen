@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1412",
+  "id": "aloo-tikki-wrap",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Aloo Tikki Wrap",
+  "cuisine": "Indian",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "boiled potatoes",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "whole-wheat rotis",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "green chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mash the potato with cooked, well-drained peas, cornflour, grated ginger, minced chilli, cumin, chaat masala and salt. Shape into eight flat, even tikkis.",
+    "Heat oil in a pan and shallow-fry tikkis 4–5 minutes per side over medium heat until both sides are deep golden and crisp; drain briefly.",
+    "Warm rotis and spread each with 20 g green chutney and 20 g yogurt. Arrange two tikkis and sliced cucumber on each.",
+    "Fold in the sides, roll firmly and toast the seam side for 1 minute so the wrap holds together; serve while crisp."
+  ],
+  "tips": [
+    "Use dry, cooled potatoes; wet mash prevents the tikki crust from crisping."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू टिक्की रैप",
+      "ingredients": [
+        "उबले आलू",
+        "हरे मटर",
+        "कॉर्नफ्लोर",
+        "अदरक",
+        "हरी मिर्च",
+        "भुना जीरा पाउडर",
+        "चाट मसाला",
+        "गेहूँ की रोटियाँ",
+        "हरी चटनी",
+        "सादा दही",
+        "खीरा",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "आलू को पके और अच्छी तरह छाने मटर, कॉर्नफ्लोर, कसे अदरक, कटी मिर्च, जीरा, चाट मसाला और नमक के साथ मैश करें। आठ चपटी समान टिक्कियाँ बनाएँ।",
+        "पैन में तेल गरम करके टिक्कियाँ मध्यम आँच पर हर ओर 4–5 मिनट गहरी सुनहरी और कुरकुरी होने तक सेंकें; थोड़ा तेल टपकने दें।",
+        "रोटियाँ गरम करके हर एक पर 20 ग्राम हरी चटनी और 20 ग्राम दही लगाएँ। हर रोटी पर दो टिक्कियाँ और कटा खीरा रखें।",
+        "किनारे अंदर मोड़कर कसकर रोल करें और जोड़ वाली तरफ 1 मिनट सेंकें ताकि रैप बंद रहे; कुरकुरा रहते परोसें।"
+      ],
+      "tips": [
+        "सूखे, ठंडे आलू लें; गीले मिश्रण पर कुरकुरी परत नहीं बनती।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકા ટિક્કી રેપ",
+      "ingredients": [
+        "બાફેલા બટાકા",
+        "લીલા વટાણા",
+        "કોર્નફ્લોર",
+        "આદુ",
+        "લીલાં મરચાં",
+        "શેકેલા જીરાનો ભૂકો",
+        "ચાટ મસાલો",
+        "ઘઉંની રોટલીઓ",
+        "લીલી ચટણી",
+        "સાદું દહીં",
+        "કાકડી",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકાને બાફેલા સારી રીતે નિતારેલા વટાણા, કોર્નફ્લોર, છીણેલું આદુ, સમારેલાં મરચાં, જીરું, ચાટ મસાલો અને મીઠા સાથે મસળો. આઠ સરખી ચપટી ટિક્કી બનાવો.",
+        "પેનમાં તેલ ગરમ કરી ટિક્કી મધ્યમ તાપે દરેક બાજુ 4–5 મિનિટ ઘેરી સોનેરી અને કરકરી થાય ત્યાં સુધી શેકો; થોડું તેલ નિતારો.",
+        "રોટલીઓ ગરમ કરી દરેક પર 20 ગ્રામ લીલી ચટણી અને 20 ગ્રામ દહીં લગાવો. દરેક પર બે ટિક્કી અને સમારેલી કાકડી મૂકો.",
+        "બાજુઓ અંદર વાળી ચુસ્ત રોલ કરો અને જોડાણની બાજુ 1 મિનિટ શેકો જેથી રેપ બંધ રહે; કરકરો હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "સૂકા, ઠંડા બટાકા લો; ભીના મિશ્રણ પર કરકરી પડ બનતી નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/aloo-tikki-wrap.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,176 @@
+{
+  "sourceReviewId": "R0702",
+  "id": "hyderabadi-veg-dum-biryani",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Hyderabadi Veg Dum Biryani",
+  "cuisine": "Hyderabad",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 85,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "mixed vegetables (carrot, beans, peas, cauliflower)",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "biryani masala",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "whole spices (cardamom, cloves, cinnamon, bay)",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.2,
+      "unit": "g"
+    },
+    {
+      "name": "warm milk",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 17,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak rice 30 minutes. Fry sliced onions in oil until deep golden; remove half for layering. Whisk yogurt with ginger, garlic, chillies, biryani masala, half the salt and chopped herbs.",
+    "Mix vegetables into spiced yogurt and let stand 20 minutes. Meanwhile boil measured water with whole spices and remaining salt; cook drained rice 6–7 minutes until about 70% done, then drain.",
+    "Spread marinated vegetables and remaining fried onion in a heavy pot; layer par-cooked rice above. Sprinkle reserved onion, ghee and saffron soaked in warm milk over the top.",
+    "Seal the lid tightly, cook 5 minutes on medium-low then 20 minutes on very low heat over a tawa. Rest sealed 15 minutes; lift rice gently from the bottom and serve."
+  ],
+  "tips": [
+    "The rice must be only partly cooked before dum or it will turn soft and sticky."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हैदराबादी वेज दम बिरयानी",
+      "ingredients": [
+        "बासमती चावल",
+        "मिली-जुली सब्ज़ियाँ (गाजर, बीन्स, मटर, गोभी)",
+        "प्याज़",
+        "सादा दही",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "पुदीना",
+        "हरा धनिया",
+        "घी",
+        "तेल",
+        "बिरयानी मसाला",
+        "खड़े मसाले (इलायची, लौंग, दालचीनी, तेजपत्ता)",
+        "केसर",
+        "गुनगुना दूध",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चावल धोकर 30 मिनट भिगोएँ। कटा प्याज़ तेल में गहरा सुनहरा तलें; आधा परत के लिए निकालें। दही में अदरक, लहसुन, मिर्च, बिरयानी मसाला, आधा नमक और कटे पत्ते फेंटें।",
+        "सब्ज़ियाँ मसालेदार दही में मिलाकर 20 मिनट रखें। इस बीच नापे पानी में खड़े मसाले और बाकी नमक उबालें; छने चावल 6–7 मिनट लगभग 70% पकाकर छानें।",
+        "भारी बर्तन में दही वाली सब्ज़ियाँ और बचा भुना प्याज़ फैलाएँ; ऊपर अधपके चावल की परत दें। बचा प्याज़, घी और गुनगुने दूध में भीगा केसर छिड़कें।",
+        "ढक्कन कसकर बंद करें; तवे पर मध्यम-धीमी आँच 5 मिनट, फिर बहुत धीमी आँच 20 मिनट पकाएँ। 15 मिनट बंद रखें; नीचे से हल्के से निकालकर परोसें।"
+      ],
+      "tips": [
+        "दम लगाने से पहले चावल अधपके रखें, नहीं तो वे नरम और चिपचिपे हो जाएँगे।"
+      ]
+    },
+    "gu": {
+      "name": "હૈદરાબાદી વેજ દમ બિરયાની",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "મિશ્ર શાકભાજી (ગાજર, બીન્સ, વટાણા, કોબી)",
+        "ડુંગળી",
+        "સાદું દહીં",
+        "આદુ",
+        "લસણ",
+        "લીલાં મરચાં",
+        "ફુદીનો",
+        "લીલા ધાણા",
+        "ઘી",
+        "તેલ",
+        "બિરયાની મસાલો",
+        "આખા મસાલા (એલચી, લવિંગ, તજ, તમાલપત્ર)",
+        "કેસર",
+        "હૂંફાળું દૂધ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચોખા ધોઈ 30 મિનિટ પલાળો. સમારેલી ડુંગળી તેલમાં ઘેરી સોનેરી તળો; અડધી પડ માટે કાઢો. દહીંમાં આદુ, લસણ, મરચાં, બિરયાની મસાલો, અડધું મીઠું અને સમારેલી ભાજી ફેંટો.",
+        "શાકભાજી મસાલેદાર દહીંમાં ભેળવી 20 મિનિટ રાખો. દરમ્યાન માપેલા પાણીમાં આખા મસાલા અને બાકી મીઠું ઉકાળો; નીતારેલા ચોખા 6–7 મિનિટ આશરે 70% રાંધી નીતારો.",
+        "જાડા તળિયાના વાસણમાં દહીંવાળાં શાક અને બાકી શેકેલી ડુંગળી પાથરો; ઉપર અધપાકા ચોખાનો પડ કરો. બાકી ડુંગળી, ઘી અને હૂંફાળા દૂધમાં પલાળેલું કેસર છાંટો.",
+        "ઢાંકણ ચુસ્ત બંધ કરો; તવા પર મધ્યમ-ધીમી આંચે 5 મિનિટ, પછી ખૂબ ધીમી આંચે 20 મિનિટ પકાવો. 15 મિનિટ બંધ રાખી નીચેથી હળવેથી કાઢી પીરસો."
+      ],
+      "tips": [
+        "દમ પહેલાં ચોખા અધપાકા રાખો, નહીં તો નરમ અને ચીકણા થશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/hyderabadi-veg-dum-biryani.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

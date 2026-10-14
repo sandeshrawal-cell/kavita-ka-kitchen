@@ -1,0 +1,163 @@
+{
+  "sourceReviewId": "R1705",
+  "id": "eggless-butterscotch-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Butterscotch Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 110,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar for sponge",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 95,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar for caramel",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cream for sauce",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "chilled whipping cream",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "icing sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm tin. Sift flour, baking powder and baking soda; whisk sponge sugar, yogurt, milk, oil and vanilla separately.",
+    "Fold dry ingredients into wet, pour into the tin and bake 30–35 minutes until a skewer is clean. Cool fully and cut into two layers.",
+    "Melt caramel sugar in a heavy pan over medium heat until amber. Take off heat, carefully stir in butter and warm sauce cream, then salt; cool. Chop toasted cashews.",
+    "Whip cold cream with icing sugar to firm peaks. Spread cream, a little sauce and cashews between sponge layers; coat the cake, drizzle with remaining sauce and scatter the remaining nuts.",
+    "Refrigerate the decorated cake for 30 minutes so the layers set before slicing."
+  ],
+  "tips": [
+    "Warm cream before adding it to caramel; cold cream makes the hot sugar seize and splatter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का बटरस्कॉच केक",
+      "ingredients": [
+        "मैदा",
+        "स्पॉन्ज के लिए बारीक चीनी",
+        "सादा दही",
+        "दूध",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "वैनिला अर्क",
+        "कैरामेल के लिए चीनी",
+        "बिना नमक का मक्खन",
+        "सॉस के लिए क्रीम",
+        "भुने काजू",
+        "ठंडी व्हिपिंग क्रीम",
+        "पिसी चीनी",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी टिन में पेपर लगाएँ। मैदा, बेकिंग पाउडर और बेकिंग सोडा छानें; स्पॉन्ज की चीनी, दही, दूध, तेल और वैनिला अलग फेंटें।",
+        "सूखी सामग्री गीले मिश्रण में मिलाएँ, टिन में डालें और सींक साफ आने तक 30–35 मिनट बेक करें। पूरी तरह ठंडा कर दो परतें काटें।",
+        "भारी पैन में कैरामेल की चीनी मध्यम आँच पर एंबर रंग होने तक पिघलाएँ। आँच से हटाकर सावधानी से मक्खन और गरम सॉस क्रीम, फिर नमक मिलाएँ; ठंडा करें। भुने काजू काटें।",
+        "ठंडी क्रीम को पिसी चीनी के साथ कड़े शिखर बनने तक फेंटें। परतों के बीच क्रीम, थोड़ा सॉस और काजू डालें; केक ढकें, बचा सॉस ऊपर डालें और बाकी काजू बिखेरें।",
+        "सजाया केक काटने से पहले परतें जमने के लिए 30 मिनट फ्रिज में रखें।"
+      ],
+      "tips": [
+        "कैरामेल में डालने से पहले क्रीम गरम करें; ठंडी क्रीम से गरम चीनी जम सकती है और छींटे पड़ सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની બટરસ્કોચ કેક",
+      "ingredients": [
+        "મેંદો",
+        "સ્પોન્જ માટે ઝીણી ખાંડ",
+        "સાદું દહીં",
+        "દૂધ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "વેનીલા એસેન્સ",
+        "કેરામેલ માટે ખાંડ",
+        "મીઠા વગરનું માખણ",
+        "સોસ માટે ક્રીમ",
+        "શેકેલા કાજુ",
+        "ઠંડી વ્હિપિંગ ક્રીમ",
+        "આઇસિંગ સુગર",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી ટિનમાં પેપર પાથરો. મેંદો, બેકિંગ પાઉડર અને બેકિંગ સોડા ચાળો; સ્પોન્જની ખાંડ, દહીં, દૂધ, તેલ અને વેનીલા અલગ ફેંટો.",
+        "સૂકી સામગ્રી ભીના મિશ્રણમાં ભેળવો, ટિનમાં નાખો અને સળી ચોખ્ખી નીકળે ત્યાં સુધી 30–35 મિનિટ બેક કરો. પૂરેપૂરું ઠંડું કરી બે પડ કાપો.",
+        "ભારે પેનમાં કેરામેલની ખાંડ મધ્યમ તાપે અંબર રંગ થાય ત્યાં સુધી ઓગાળો. તાપ પરથી ઉતારી કાળજીથી માખણ અને ગરમ સોસ ક્રીમ, પછી મીઠું ભેળવો; ઠંડું કરો. શેકેલા કાજુ સમારો.",
+        "ઠંડી ક્રીમને આઇસિંગ સુગર સાથે મજબૂત શિખર થાય ત્યાં સુધી ફેંટો. પડ વચ્ચે ક્રીમ, થોડો સોસ અને કાજુ ભરો; કેક ઢાંકો, બાકી સોસ ઉપર રેડો અને બાકીના કાજુ છાંટો.",
+        "સજાવેલો કેક કાપતાં પહેલાં પડ સ્થિર થાય તે માટે 30 મિનિટ ફ્રિજમાં રાખો."
+      ],
+      "tips": [
+        "કેરામેલમાં ઉમેરતાં પહેલાં ક્રીમ ગરમ કરો; ઠંડી ક્રીમથી ગરમ ખાંડ જામી શકે અને છાંટા ઊડી શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-butterscotch-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

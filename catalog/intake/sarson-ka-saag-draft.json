@@ -1,0 +1,134 @@
+{
+  "sourceReviewId": "R0503",
+  "id": "sarson-ka-saag",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Sarson ka Saag",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "mustard greens",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "bathua greens",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "maize flour",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash all greens thoroughly, discard tough stalks and chop leaves. Put them in a covered pot with water, half the ginger, chillies and salt.",
+    "Simmer the greens 35–40 minutes until very soft; mash coarsely with a whisk or pulse briefly, keeping some texture.",
+    "Mix maize flour with a little cooking liquid to form a smooth slurry. Stir into the saag and simmer uncovered 15 minutes, stirring to prevent sticking.",
+    "Heat ghee separately; fry onion, remaining ginger and garlic until golden. Fold into the thick saag and simmer 5 minutes before serving."
+  ],
+  "tips": [
+    "Serve hot with makki roti; bathua can be replaced with extra spinach if unavailable."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सरसों का साग",
+      "ingredients": [
+        "सरसों के पत्ते",
+        "पालक",
+        "बथुआ",
+        "प्याज़",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "मक्के का आटा",
+        "घी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सभी साग अच्छी तरह धोकर कड़े डंठल हटाएँ और पत्ते काटें। पानी, आधा अदरक, मिर्च और नमक के साथ ढके बर्तन में डालें।",
+        "साग को 35–40 मिनट बहुत नरम होने तक पकाएँ; रई से दरदरा मसलें या थोड़ी देर पीसें ताकि बनावट रहे।",
+        "मक्के का आटा थोड़े पकने वाले पानी में घोलें। साग में मिलाकर बिना ढके 15 मिनट पकाएँ और चिपकने न दें।",
+        "अलग घी में प्याज़, बाकी अदरक और लहसुन सुनहरा भूनें। गाढ़े साग में मिलाकर परोसने से पहले 5 मिनट पकाएँ।"
+      ],
+      "tips": [
+        "मक्के की रोटी के साथ गरम परोसें; बथुआ न मिले तो उतना ही अतिरिक्त पालक लें।"
+      ]
+    },
+    "gu": {
+      "name": "સરસવનું શાક",
+      "ingredients": [
+        "સરસવના પાન",
+        "પાલક",
+        "બથુઆ",
+        "ડુંગળી",
+        "આદુ",
+        "લસણ",
+        "લીલું મરચું",
+        "મકાઈનો લોટ",
+        "ઘી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બધી ભાજી સારી રીતે ધોઈ કઠણ દાંડી દૂર કરી પાન સમારો. પાણી, અડધું આદુ, મરચાં અને મીઠા સાથે ઢાંકેલા વાસણમાં મૂકો.",
+        "ભાજી 35–40 મિનિટ ખૂબ નરમ થાય ત્યાં સુધી પકાવો; રવૈયાથી દરદરી મસળો અથવા થોડું પીસો જેથી ટેક્સ્ચર રહે.",
+        "મકાઈનો લોટ થોડા રાંધેલા પાણીમાં ઓગાળો. સાગમાં ઉમેરી ઢાંકણ વિના 15 મિનિટ પકાવો અને ચોંટે નહીં એમ હલાવો.",
+        "અલગ ઘીમાં ડુંગળી, બાકી આદુ અને લસણ સોનેરી શેકો. ઘટ્ટ સાગમાં ભેળવી પીરસતાં પહેલાં 5 મિનિટ પકાવો."
+      ],
+      "tips": [
+        "મકાઈના રોટલા સાથે ગરમ પીરસો; બથુઆ ન મળે તો એટલું જ વધારાનું પાલક લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/sarson-ka-saag.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

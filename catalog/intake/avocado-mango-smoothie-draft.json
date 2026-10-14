@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1905",
+  "id": "avocado-mango-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Avocado Mango Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "ripe avocado flesh",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ripe mango flesh",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "honey",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 90,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Halve and pit the avocado, scoop out its flesh and immediately coat it with lime juice to limit browning. Cube the mango.",
+    "Blend avocado, mango, yogurt and half the milk until silky with no avocado pieces remaining.",
+    "Add honey, remaining milk and ice; blend briefly and taste. Add a spoonful of water only if too thick to pour.",
+    "Serve in four cold glasses straight away while the avocado is vivid and the texture is creamy."
+  ],
+  "tips": [
+    "Choose a ripe avocado that yields slightly to pressure; an unripe one tastes grassy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एवोकाडो आम स्मूदी",
+      "ingredients": [
+        "पके एवोकाडो का गूदा",
+        "पके आम का गूदा",
+        "ठंडा दूध",
+        "सादा दही",
+        "नीबू का रस",
+        "शहद",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "एवोकाडो आधा करके गुठली निकालें, गूदा निकालते ही नीबू रस लगाएँ ताकि काला न पड़े। आम काटें।",
+        "एवोकाडो, आम, दही और आधा दूध रेशमी चिकना और बिना टुकड़ों का होने तक ब्लेंड करें।",
+        "शहद, बचा दूध और बर्फ डालकर थोड़ी देर चलाएँ और चखें। बहुत गाढ़ा हो तो ही थोड़ा पानी डालें।",
+        "एवोकाडो का रंग ताज़ा और बनावट क्रीमी रहते ही चार ठंडे गिलासों में परोसें।"
+      ],
+      "tips": [
+        "हल्का दबने वाला पका एवोकाडो लें; कच्चे का स्वाद घास जैसा होता है।"
+      ]
+    },
+    "gu": {
+      "name": "એવોકાડો કેરીની સ્મૂધી",
+      "ingredients": [
+        "પાકા એવોકાડોનો ગૂદો",
+        "પાકી કેરીનો ગૂદો",
+        "ઠંડું દૂધ",
+        "સાદું દહીં",
+        "લીંબુનો રસ",
+        "મધ",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "એવોકાડો અડધું કરી ગોટલો કાઢો, ગૂદો કાઢતાં જ લીંબુનો રસ લગાવો જેથી કાળો ન પડે. કેરી સમારો.",
+        "એવોકાડો, કેરી, દહીં અને અડધું દૂધ રેશમી મસૃણ અને ટુકડા વગરનું થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "મધ, બાકી દૂધ અને બરફ ઉમેરી થોડું ફેરવો અને ચાખો. બહુ ઘટ્ટ હોય તો જ થોડું પાણી ઉમેરો.",
+        "એવોકાડોનો રંગ તાજો અને બનાવટ મલાઈદાર હોય ત્યારે જ ચાર ઠંડા ગ્લાસમાં પીરસો."
+      ],
+      "tips": [
+        "હળવું દબાય એવું પાકું એવોકાડો લો; કાચાનું સ્વાદ ઘાસ જેવું હોય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/avocado-mango-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0904",
+  "id": "pasta-e-lenticchie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pasta e Lenticchie",
+  "cuisine": "Italian",
+  "categories": [
+    "One-Pot Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "egg-free small dry pasta or broken spaghetti",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "celery",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "crushed tomatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "rosemary",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "bay leaf",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse lentils and check for stones. Finely dice onion, carrot and celery; mince garlic.",
+    "Heat olive oil in a deep pot and soften onion, carrot and celery for 7 minutes. Add garlic and rosemary; stir 1 minute, then add tomatoes and bay leaf.",
+    "Add lentils and 1,250 ml water. Simmer covered 25–30 minutes until lentils are nearly tender; season with salt.",
+    "Add pasta and remaining 350 ml water to the same pot. Simmer uncovered, stirring often, until pasta is just tender and the starchy broth is thick, about 10–12 minutes. Remove bay leaf and rest 5 minutes."
+  ],
+  "tips": [
+    "The finished pasta should be thick and spoonable, not dry; loosen with hot water if it stands."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पास्ता ए लेंतिक्किए",
+      "ingredients": [
+        "भूरी साबुत मसूर",
+        "बिना अंडे का छोटा सूखा पास्ता या टूटी स्पेगेटी",
+        "प्याज़",
+        "गाजर",
+        "सेलेरी",
+        "लहसुन",
+        "पिसे टमाटर",
+        "एक्स्ट्रा-वर्जिन ऑलिव ऑयल",
+        "रोज़मेरी",
+        "तेजपत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "दाल धोकर कंकड़ जाँचें। प्याज़, गाजर और सेलेरी बारीक काटें; लहसुन कूटें।",
+        "गहरे बर्तन में ऑलिव ऑयल गरम कर प्याज़, गाजर और सेलेरी 7 मिनट नरम करें। लहसुन व रोज़मेरी 1 मिनट चलाएँ, फिर टमाटर और तेजपत्ता डालें।",
+        "दाल और 1,250 मि.ली. पानी डालें। ढककर 25–30 मिनट दाल लगभग नरम होने तक पकाएँ; नमक डालें।",
+        "उसी बर्तन में पास्ता और बचा 350 मि.ली. पानी डालें। बिना ढके बार-बार चलाकर लगभग 10–12 मिनट पास्ता नरम और स्टार्च वाला रस गाढ़ा होने तक पकाएँ। तेजपत्ता निकालकर 5 मिनट रखें।"
+      ],
+      "tips": [
+        "तैयार पास्ता गाढ़ा पर चम्मच से खाने योग्य हो, सूखा नहीं; देर तक रखने पर गरम पानी से ढीला करें।"
+      ]
+    },
+    "gu": {
+      "name": "પાસ્તા એ લેન્ટિક્કીએ",
+      "ingredients": [
+        "આખી ભૂરા મસૂર",
+        "ઇંડા વગરનો નાનો સૂકો પાસ્તા અથવા તૂટેલી સ્પાઘેટી",
+        "ડુંગળી",
+        "ગાજર",
+        "સેલરી",
+        "લસણ",
+        "પીસેલા ટામેટાં",
+        "એક્સ્ટ્રા વર્જિન ઓલિવ ઓઈલ",
+        "રોઝમેરી",
+        "તમાલપત્ર",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "દાળ ધોઈ કાંકરા તપાસો. ડુંગળી, ગાજર અને સેલરી ઝીણાં સમારો; લસણ વાટો.",
+        "ઊંડા વાસણમાં ઓલિવ ઓઈલ ગરમ કરી ડુંગળી, ગાજર અને સેલરી 7 મિનિટ નરમ કરો. લસણ અને રોઝમેરી 1 મિનિટ હલાવો, પછી ટામેટાં અને તમાલપત્ર નાખો.",
+        "દાળ અને 1,250 મિ.લી. પાણી ઉમેરો. ઢાંકીને 25–30 મિનિટ દાળ લગભગ નરમ થાય ત્યાં સુધી પકાવો; મીઠું નાખો.",
+        "એ જ વાસણમાં પાસ્તા અને બાકી 350 મિ.લી. પાણી ઉમેરો. ઢાંકણ વિના વારંવાર હલાવી આશરે 10–12 મિનિટ પાસ્તા નરમ અને રસ ઘટ્ટ થાય ત્યાં સુધી પકાવો. તમાલપત્ર કાઢી 5 મિનિટ રાખો."
+      ],
+      "tips": [
+        "તૈયાર પાસ્તા ઘટ્ટ પણ ચમચીથી ખાઈ શકાય એવો હોવો જોઈએ, સૂકો નહીં; રાખવાથી ઘટ્ટ થાય તો ગરમ પાણી ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pasta-e-lenticchie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

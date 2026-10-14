@@ -1,0 +1,90 @@
+{
+  "sourceReviewId": "R2107",
+  "id": "shirley-temple",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Shirley Temple",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "chilled ginger ale",
+      "qty": 780,
+      "unit": "ml"
+    },
+    {
+      "name": "non-alcoholic grenadine syrup",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh lime juice",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cocktail cherries",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Chill the ginger ale and four serving glasses. Check that grenadine is a non-alcoholic pomegranate syrup.",
+    "Put 100 g ice into each glass and pour 25 ml grenadine and about 12 ml lime juice over the ice.",
+    "Slowly top each glass with about 195 ml chilled ginger ale so the red syrup makes a gentle gradient.",
+    "Add cocktail cherries, give each drink one gentle stir and serve immediately while sparkling."
+  ],
+  "tips": [
+    "Use plain non-alcoholic grenadine; some cocktail cherry jars contain alcohol, so check the label too."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शर्ली टेंपल",
+      "ingredients": [
+        "ठंडा जिंजर एले",
+        "बिना शराब का ग्रेनेडीन सिरप",
+        "ताज़ा नीबू का रस",
+        "बर्फ के टुकड़े",
+        "कॉकटेल चेरी"
+      ],
+      "steps": [
+        "जिंजर एले और चार गिलास ठंडे करें। जाँचें कि ग्रेनेडीन अनार का शराब-मुक्त सिरप है।",
+        "हर गिलास में 100 ग्राम बर्फ डालकर उस पर 25 मिली ग्रेनेडीन और लगभग 12 मिली नीबू रस डालें।",
+        "हर गिलास में लगभग 195 मिली ठंडा जिंजर एले धीरे डालें ताकि लाल सिरप हल्की रंगत बनाए।",
+        "कॉकटेल चेरी डालें, हर पेय को एक बार हल्के से चलाएँ और बुलबुले रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "सादा शराब-मुक्त ग्रेनेडीन लें; कुछ कॉकटेल चेरी के जार में शराब होती है, उसका लेबल भी जाँचें।"
+      ]
+    },
+    "gu": {
+      "name": "શર્લી ટેમ્પલ",
+      "ingredients": [
+        "ઠંડું જિન્જર એલ",
+        "આલ્કોહોલ વગરનો ગ્રેનેડિન સિરપ",
+        "તાજો લીંબુનો રસ",
+        "બરફના ટુકડા",
+        "કોકટેલ ચેરી"
+      ],
+      "steps": [
+        "જિન્જર એલ અને ચાર ગ્લાસ ઠંડાં કરો. ગ્રેનેડિન દાડમનો આલ્કોહોલ વગરનો સિરપ છે તે તપાસો.",
+        "દરેક ગ્લાસમાં 100 ગ્રામ બરફ નાખી તેના પર 25 મિલી ગ્રેનેડિન અને આશરે 12 મિલી લીંબુનો રસ રેડો.",
+        "દરેક ગ્લાસમાં આશરે 195 મિલી ઠંડું જિન્જર એલ ધીમે રેડો જેથી લાલ સિરપનો હળવો રંગબદલ દેખાય.",
+        "કોકટેલ ચેરી ઉમેરો, દરેક પીણું એક વાર હળવેથી હલાવો અને ફીણ રહે ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "સાદું આલ્કોહોલ વગરનું ગ્રેનેડિન લો; કેટલીક કોકટેલ ચેરીના બરણીમાં આલ્કોહોલ હોય છે, તેનું લેબલ પણ તપાસો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/shirley-temple.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

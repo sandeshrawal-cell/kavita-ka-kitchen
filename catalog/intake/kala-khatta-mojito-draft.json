@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R2110",
+  "id": "kala-khatta-mojito",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kala Khatta Mojito",
+  "cuisine": "Indian",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "non-alcoholic kala khatta syrup",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh lime juice",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled club soda",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "black salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Check that kala khatta syrup is non-alcoholic and taste it for sweetness; rinse and dry the mint leaves.",
+    "Divide mint and lime wedges among four glasses and press gently a few times. Add 30 ml syrup and 25 ml fresh lime juice to each.",
+    "Mix black salt and roasted cumin into the liquid, then put 100 g ice in each glass.",
+    "Top each glass with 150 ml chilled club soda, stir once and serve immediately while bubbly and tangy."
+  ],
+  "tips": [
+    "Kala khatta syrup varies in sweetness; start with the measured amount and adjust only after tasting."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काला खट्टा मोजितो",
+      "ingredients": [
+        "बिना शराब का काला खट्टा सिरप",
+        "ताज़े पुदीने के पत्ते",
+        "ताज़ा नीबू का रस",
+        "ठंडा सोडा पानी",
+        "बर्फ के टुकड़े",
+        "काला नमक",
+        "भुना जीरा पाउडर",
+        "नीबू के टुकड़े"
+      ],
+      "steps": [
+        "जाँचें कि काला खट्टा सिरप शराब-मुक्त है और उसकी मिठास चखें; पुदीने के पत्ते धोकर सुखाएँ।",
+        "पुदीना और नीबू के टुकड़े चार गिलासों में बाँटकर कुछ बार हल्का दबाएँ। हर एक में 30 मिली सिरप और 25 मिली ताज़ा नीबू रस डालें।",
+        "काला नमक और भुना जीरा तरल में मिलाएँ, फिर हर गिलास में 100 ग्राम बर्फ डालें।",
+        "हर गिलास में 150 मिली ठंडा सोडा डालें, एक बार चलाएँ और बुलबुले व खट्टे स्वाद रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "काला खट्टा सिरप अलग-अलग मीठा होता है; नापी मात्रा से शुरू करें और चखने के बाद ही बदलें।"
+      ]
+    },
+    "gu": {
+      "name": "કાળા ખટ્ટા મોજિતો",
+      "ingredients": [
+        "આલ્કોહોલ વગરનો કાળો ખટ્ટો સિરપ",
+        "તાજાં ફુદીનાનાં પાન",
+        "તાજો લીંબુનો રસ",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા",
+        "કાળું મીઠું",
+        "શેકેલા જીરાનો ભૂકો",
+        "લીંબુના ટુકડા"
+      ],
+      "steps": [
+        "કાળો ખટ્ટો સિરપ આલ્કોહોલ વગરનો છે તે તપાસી તેની મીઠાશ ચાખો; ફુદીનાનાં પાન ધોઈ સૂકવો.",
+        "ફુદીનો અને લીંબુના ટુકડા ચાર ગ્લાસમાં વહેંચી થોડું હળવેથી દબાવો. દરેકમાં 30 મિલી સિરપ અને 25 મિલી તાજો લીંબુનો રસ ઉમેરો.",
+        "કાળું મીઠું અને શેકેલું જીરું પ્રવાહીમાં ભેળવો, પછી દરેક ગ્લાસમાં 100 ગ્રામ બરફ નાખો.",
+        "દરેક ગ્લાસમાં 150 મિલી ઠંડું સોડા વોટર રેડો, એક વાર હલાવો અને ફીણ તથા ખાટો સ્વાદ રહે ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "કાળા ખટ્ટા સિરપની મીઠાશ બદલાય છે; માપેલી માત્રાથી શરૂ કરી ચાખ્યા પછી જ બદલો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kala-khatta-mojito.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

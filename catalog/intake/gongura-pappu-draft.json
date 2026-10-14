@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0615",
+  "id": "gongura-pappu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Gongura Pappu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 48,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "gongura (sorrel) leaves",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse toor dal and pressure-cook with 650 ml water and turmeric for 3–4 whistles until soft; mash coarsely.",
+    "Remove thick stalks from gongura, wash and chop leaves. Cook leaves and green chillies with remaining 150 ml water 7–8 minutes until wilted and sour aroma develops.",
+    "Mix gongura into dal with salt; simmer 8 minutes so the tang spreads through the dal.",
+    "Heat oil, crackle mustard and cumin, then fry dried chillies, curry leaves and crushed garlic until aromatic. Pour over the dal and serve with rice."
+  ],
+  "tips": [
+    "Gongura is naturally sour, so taste before adding any extra acid."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोंगूरा पप्पू",
+      "ingredients": [
+        "अरहर दाल",
+        "गोंगूरा के पत्ते",
+        "हरी मिर्च",
+        "लहसुन",
+        "हल्दी",
+        "तेल",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "अरहर दाल धोकर 650 मि.ली. पानी और हल्दी में 3–4 सीटी नरम होने तक पकाएँ; दरदरा मसलें।",
+        "गोंगूरा के मोटे डंठल हटाकर पत्ते धोएँ और काटें। बचा 150 मि.ली. पानी व हरी मिर्च के साथ 7–8 मिनट पत्ते नरम और खट्टी खुशबू आने तक पकाएँ।",
+        "गोंगूरा दाल में नमक के साथ मिलाकर 8 मिनट पकाएँ ताकि खटास दाल में उतर जाए।",
+        "तेल में राई-जीरा चटकाकर सूखी मिर्च, कड़ी पत्ता और कुचला लहसुन महकने तक भूनें। दाल पर डालकर चावल संग परोसें।"
+      ],
+      "tips": [
+        "गोंगूरा स्वाभाविक रूप से खट्टा होता है; अतिरिक्त खटास डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "ગોંગુરા પપ્પુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "ગોંગુરાનાં પાન",
+        "લીલાં મરચાં",
+        "લસણ",
+        "હળદર",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "તુવેર દાળ ધોઈ 650 મિ.લી. પાણી અને હળદર સાથે 3–4 સીટી નરમ થાય ત્યાં સુધી રાંધો; દરદરી મસળો.",
+        "ગોંગુરાની જાડી દાંડી કાઢી પાન ધોઈ સમારો. બાકી 150 મિ.લી. પાણી અને લીલાં મરચાં સાથે 7–8 મિનિટ પાન ચીમળાય અને ખાટી સુગંધ આવે ત્યાં સુધી પકાવો.",
+        "ગોંગુરા દાળમાં મીઠા સાથે ભેળવી 8 મિનિટ પકાવો જેથી ખટાશ આખી દાળમાં ભળે.",
+        "તેલમાં રાઈ-જીરું તતડાવી સૂકાં મરચાં, મીઠા લીમડાનાં પાન અને કચડેલું લસણ સુગંધ આવે ત્યાં સુધી શેકો. દાળ પર નાખી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ગોંગુરા કુદરતી રીતે ખાટું હોય છે; વધારાની ખટાશ ઉમેરતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/gongura-pappu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

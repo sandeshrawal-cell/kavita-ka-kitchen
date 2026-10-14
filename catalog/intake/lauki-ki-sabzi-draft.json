@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0504",
+  "id": "lauki-ki-sabzi",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Lauki ki Sabzi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "bottle gourd",
+      "qty": 750,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel lauki, remove mature seeds if present and cut into 2 cm cubes; chop onion, tomato, ginger and chilli.",
+    "Heat oil and let cumin crackle. Fry onion 5 minutes; add ginger and chilli and stir for 1 minute.",
+    "Add tomato, turmeric, coriander and salt; cook 5–6 minutes until tomato softens and thickens.",
+    "Fold in lauki and water. Cover and cook 15–18 minutes, stirring once, until tender but still holding its shape. Garnish with coriander."
+  ],
+  "tips": [
+    "Young lauki releases water as it cooks; add extra water only if the pan dries out."
+  ],
+  "translations": {
+    "hi": {
+      "name": "लौकी की सब्ज़ी",
+      "ingredients": [
+        "लौकी",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "हरी मिर्च",
+        "तेल",
+        "जीरा",
+        "हल्दी",
+        "धनिया पाउडर",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "लौकी छीलकर बड़े बीज हों तो हटाएँ और 2 सेमी टुकड़े करें; प्याज़, टमाटर, अदरक और मिर्च काटें।",
+        "तेल में जीरा चटकाएँ। प्याज़ 5 मिनट भूनें; अदरक और मिर्च डालकर 1 मिनट चलाएँ।",
+        "टमाटर, हल्दी, धनिया और नमक डालकर 5–6 मिनट टमाटर नरम और गाढ़ा होने तक पकाएँ।",
+        "लौकी और पानी मिलाएँ। ढककर 15–18 मिनट बीच में एक बार चलाते हुए पकाएँ, जब तक नरम पर आकार बनाए रखे। धनिया डालें।"
+      ],
+      "tips": [
+        "नरम लौकी पकते समय पानी छोड़ती है; कड़ाही सूखे तभी और पानी डालें।"
+      ]
+    },
+    "gu": {
+      "name": "દૂધીનું શાક",
+      "ingredients": [
+        "દૂધી",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લીલું મરચું",
+        "તેલ",
+        "જીરું",
+        "હળદર",
+        "ધાણા પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "દૂધી છોલી મોટાં બી હોય તો કાઢી 2 સેમીના ટુકડા કરો; ડુંગળી, ટામેટાં, આદુ અને મરચું સમારો.",
+        "તેલમાં જીરું તતડાવો. ડુંગળી 5 મિનિટ શેકો; આદુ અને મરચું ઉમેરી 1 મિનિટ હલાવો.",
+        "ટામેટાં, હળદર, ધાણા અને મીઠું ઉમેરી 5–6 મિનિટ ટામેટાં નરમ અને ઘટ્ટ થાય ત્યાં સુધી પકાવો.",
+        "દૂધી અને પાણી ઉમેરો. ઢાંકીને 15–18 મિનિટ વચ્ચે એક વાર હલાવી નરમ પરંતુ આકાર જળવાય ત્યાં સુધી પકાવો. ધાણા નાખો."
+      ],
+      "tips": [
+        "કૂણી દૂધી રાંધતાં પાણી છોડે છે; કડાઈ સૂકાય તો જ વધુ પાણી ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/lauki-ki-sabzi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

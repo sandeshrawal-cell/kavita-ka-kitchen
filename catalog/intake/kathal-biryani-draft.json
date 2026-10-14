@@ -1,0 +1,176 @@
+{
+  "sourceReviewId": "R0709",
+  "id": "kathal-biryani",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kathal Biryani",
+  "cuisine": "North Indian",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 90,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 380,
+      "unit": "g"
+    },
+    {
+      "name": "young green jackfruit, cleaned",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "biryani masala",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "whole spices (cardamom, cloves, cinnamon, bay)",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 17,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.2,
+      "unit": "g"
+    },
+    {
+      "name": "warm milk",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 1700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Oil a knife and cut cleaned young jackfruit into 3 cm pieces. Simmer in 400 ml of the measured water for 15 minutes until barely tender; drain. Rinse and soak rice 30 minutes.",
+    "Fry sliced onion in oil until deep golden; remove half. Add ginger, garlic, chilli and jackfruit to the pan; fry 5 minutes. Stir in yogurt, biryani masala, half the salt and half the herbs; cook until thick.",
+    "Boil remaining 1,300 ml water with whole spices and remaining salt. Cook soaked rice 6–7 minutes to 70% done and drain. Layer rice over jackfruit with fried onion, remaining herbs, ghee and saffron soaked in milk.",
+    "Seal the pot, cook on low heat over a tawa for 20–25 minutes and rest sealed 15 minutes. Lift gently from the bottom to preserve layers."
+  ],
+  "tips": [
+    "Use young unripe jackfruit; ripe sweet jackfruit cannot replace it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कटहल बिरयानी",
+      "ingredients": [
+        "बासमती चावल",
+        "कच्चा कटहल, साफ़ किया हुआ",
+        "प्याज़",
+        "सादा दही",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "पुदीना",
+        "हरा धनिया",
+        "घी",
+        "तेल",
+        "बिरयानी मसाला",
+        "खड़े मसाले (इलायची, लौंग, दालचीनी, तेजपत्ता)",
+        "नमक",
+        "केसर",
+        "गुनगुना दूध",
+        "पानी"
+      ],
+      "steps": [
+        "चाकू पर तेल लगाकर साफ़ कच्चा कटहल 3 सेमी टुकड़ों में काटें। नापे पानी में से 400 मि.ली. में 15 मिनट बस नरम होने तक उबालकर छानें। चावल धोकर 30 मिनट भिगोएँ।",
+        "कटे प्याज़ तेल में गहरे सुनहरे करें; आधे निकालें। कड़ाही में अदरक, लहसुन, मिर्च और कटहल 5 मिनट भूनें। दही, बिरयानी मसाला, आधा नमक और आधे पत्ते डालकर गाढ़ा करें।",
+        "बाकी 1,300 मि.ली. पानी में खड़े मसाले और बचा नमक उबालें। भीगे चावल 6–7 मिनट लगभग 70% पकाकर छानें। कटहल पर चावल, भुना प्याज़, बाकी पत्ते, घी और दूध में भीगा केसर परत लगाएँ।",
+        "बर्तन बंद कर तवे पर धीमी आँच पर 20–25 मिनट दम दें और 15 मिनट बंद रखें। परतें बचाते हुए नीचे से हल्के निकालें।"
+      ],
+      "tips": [
+        "कच्चा कटहल ही लें; मीठा पका कटहल इसका विकल्प नहीं है।"
+      ]
+    },
+    "gu": {
+      "name": "ફણસ બિરયાની",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "કાચું ફણસ, સાફ કરેલું",
+        "ડુંગળી",
+        "સાદું દહીં",
+        "આદુ",
+        "લસણ",
+        "લીલાં મરચાં",
+        "ફુદીનો",
+        "લીલા ધાણા",
+        "ઘી",
+        "તેલ",
+        "બિરયાની મસાલો",
+        "આખા મસાલા (એલચી, લવિંગ, તજ, તમાલપત્ર)",
+        "મીઠું",
+        "કેસર",
+        "હૂંફાળું દૂધ",
+        "પાણી"
+      ],
+      "steps": [
+        "છરીને તેલ લગાવી સાફ કાચાં ફણસના 3 સેમીના ટુકડા કરો. માપેલા પાણીમાંથી 400 મિ.લી.માં 15 મિનિટ માંડ નરમ થાય ત્યાં સુધી ઉકાળી નીતારો. ચોખા ધોઈ 30 મિનિટ પલાળો.",
+        "સમારેલી ડુંગળી તેલમાં ઘેરી સોનેરી કરો; અડધી કાઢો. કડાઈમાં આદુ, લસણ, મરચાં અને ફણસ 5 મિનિટ શેકો. દહીં, બિરયાની મસાલો, અડધું મીઠું અને અડધી ભાજી ઉમેરી ઘટ્ટ કરો.",
+        "બાકી 1,300 મિ.લી. પાણીમાં આખા મસાલા અને બાકી મીઠું ઉકાળો. પલાળેલા ચોખા 6–7 મિનિટ આશરે 70% રાંધી નીતારો. ફણસ પર ભાત, શેકેલી ડુંગળી, બાકી ભાજી, ઘી અને દૂધમાં પલાળેલું કેસર પડમાં મૂકો.",
+        "વાસણ બંધ કરી તવા પર ધીમી આંચે 20–25 મિનિટ દમ આપો અને 15 મિનિટ બંધ રાખો. પડ જળવાય એમ નીચેથી હળવેથી કાઢો."
+      ],
+      "tips": [
+        "કાચું ફણસ જ લો; મીઠું પાકેલું ફણસ તેનો વિકલ્પ નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kathal-biryani.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

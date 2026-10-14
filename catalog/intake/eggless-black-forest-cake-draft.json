@@ -1,0 +1,156 @@
+{
+  "sourceReviewId": "R1701",
+  "id": "eggless-black-forest-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Black Forest Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 95,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "pitted cherries",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "cherry syrup",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled whipping cream",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "icing sugar",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "dark chocolate",
+      "qty": 70,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170°C and line a 15 cm round tin. Sift flour, cocoa, baking powder and baking soda together.",
+    "Whisk sugar, yogurt, milk, oil and vanilla until smooth. Fold in the dry mix just until no flour remains; pour into the tin.",
+    "Bake for 30–35 minutes until a skewer comes out clean. Cool completely, then cut the sponge into two even layers.",
+    "Whip cold cream with icing sugar to firm peaks. Brush the cut sponge with cherry syrup, spread cream and chopped cherries between the layers, then cover the top and sides with cream.",
+    "Shave dark chocolate over the cake, add remaining cherries and chill at least 30 minutes before slicing."
+  ],
+  "tips": [
+    "Whip cream straight from the refrigerator so the frosting stays stable."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का ब्लैक फॉरेस्ट केक",
+      "ingredients": [
+        "मैदा",
+        "बिना चीनी का कोको पाउडर",
+        "बारीक चीनी",
+        "सादा दही",
+        "दूध",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "वैनिला अर्क",
+        "गुठली निकाली चेरी",
+        "चेरी सिरप",
+        "ठंडी व्हिपिंग क्रीम",
+        "पिसी चीनी",
+        "डार्क चॉकलेट"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी गोल टिन में बेकिंग पेपर लगाएँ। मैदा, कोको, बेकिंग पाउडर और बेकिंग सोडा साथ छानें।",
+        "चीनी, दही, दूध, तेल और वैनिला चिकना होने तक फेंटें। सूखा मिश्रण बस मैदा गायब होने तक मिलाएँ और टिन में डालें।",
+        "30–35 मिनट बेक करें, जब तक सींक साफ निकले। पूरी तरह ठंडा करके केक की दो बराबर परतें काटें।",
+        "ठंडी क्रीम को पिसी चीनी के साथ कड़े शिखर बनने तक फेंटें। कटी परतों पर चेरी सिरप लगाएँ, बीच में क्रीम और कटी चेरी भरें, फिर ऊपर और किनारे क्रीम से ढकें।",
+        "केक पर डार्क चॉकलेट के छिलके और बची चेरी सजाएँ; काटने से पहले कम से कम 30 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "क्रीम फ्रिज से निकालते ही फेंटें ताकि सजावट स्थिर रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની બ્લેક ફોરેસ્ટ કેક",
+      "ingredients": [
+        "મેંદો",
+        "ખાંડ વગરનો કોકો પાઉડર",
+        "ઝીણી ખાંડ",
+        "સાદું દહીં",
+        "દૂધ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "વેનીલા એસેન્સ",
+        "બી કાઢેલી ચેરી",
+        "ચેરી સિરપ",
+        "ઠંડી વ્હિપિંગ ક્રીમ",
+        "આઇસિંગ સુગર",
+        "ડાર્ક ચોકલેટ"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી ગોળ ટિનમાં બેકિંગ પેપર પાથરો. મેંદો, કોકો, બેકિંગ પાઉડર અને બેકિંગ સોડા સાથે ચાળો.",
+        "ખાંડ, દહીં, દૂધ, તેલ અને વેનીલા સમરસ થાય ત્યાં સુધી ફેંટો. સૂકું મિશ્રણ લોટ દેખાતો બંધ થાય એટલું જ ભેળવી ટિનમાં નાખો.",
+        "30–35 મિનિટ બેક કરો, સળી ચોખ્ખી નીકળે ત્યાં સુધી. પૂરેપૂરું ઠંડું કરી કેકના બે સરખા પડ કાપો.",
+        "ઠંડી ક્રીમને આઇસિંગ સુગર સાથે મજબૂત શિખર બને ત્યાં સુધી ફેંટો. કાપેલા પડ પર ચેરી સિરપ લગાવો, વચ્ચે ક્રીમ અને સમારેલી ચેરી ભરો, પછી ઉપર અને બાજુઓ ક્રીમથી ઢાંકો.",
+        "કેક પર ડાર્ક ચોકલેટની છીણ અને બાકી ચેરી સજાવો; કાપતાં પહેલાં ઓછામાં ઓછું 30 મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "ક્રીમ ફ્રિજમાંથી કાઢતાં જ ફેંટો જેથી આઇસિંગ સ્થિર રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-black-forest-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

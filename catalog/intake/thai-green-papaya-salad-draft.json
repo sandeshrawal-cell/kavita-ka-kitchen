@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R1110",
+  "id": "thai-green-papaya-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Thai Green Papaya Salad",
+  "cuisine": "Thai",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "unripe green papaya",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "carrots",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "long beans",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "bird chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 28,
+      "unit": "ml"
+    },
+    {
+      "name": "palm sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel the green papaya and carrot, remove the papaya seeds and shred both into long thin strands.",
+    "Pound garlic and chilli gently with palm sugar, then stir in lime juice, soy sauce and tamarind until dissolved.",
+    "Lightly bruise the beans and tomatoes in a large bowl; add the shredded papaya and carrot.",
+    "Toss vigorously with the sweet-sour dressing until coated, then top with crushed roasted peanuts and serve at once."
+  ],
+  "tips": [
+    "Use genuinely unripe papaya for crisp strands; soy sauce keeps the dressing vegetarian."
+  ],
+  "translations": {
+    "hi": {
+      "name": "थाई कच्चे पपीते का सलाद",
+      "ingredients": [
+        "कच्चा हरा पपीता",
+        "गाजर",
+        "चेरी टमाटर",
+        "लंबी फलियाँ",
+        "लहसुन",
+        "बर्ड मिर्च",
+        "नींबू का रस",
+        "हल्का सोया सॉस",
+        "ताड़ की चीनी",
+        "भुनी मूंगफली",
+        "इमली का गूदा"
+      ],
+      "steps": [
+        "कच्चा पपीता और गाजर छीलें, पपीते के बीज निकालें और दोनों के लंबे पतले लच्छे करें।",
+        "लहसुन और मिर्च को ताड़ की चीनी के साथ हल्का कूटें; नींबू रस, सोया सॉस और इमली मिलाकर घोलें।",
+        "लंबी फलियों और टमाटरों को बड़े कटोरे में हल्का दबाएँ; पपीते और गाजर के लच्छे डालें।",
+        "खट्टी-मीठी ड्रेसिंग से अच्छी तरह मिलाएँ; ऊपर कुटी भुनी मूंगफली डालकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "कुरकुरे लच्छों के लिए सचमुच कच्चा पपीता लें; सोया सॉस ड्रेसिंग को शाकाहारी रखता है।"
+      ]
+    },
+    "gu": {
+      "name": "થાઈ કાચા પપૈયાનું સલાડ",
+      "ingredients": [
+        "કાચું લીલું પપૈયું",
+        "ગાજર",
+        "ચેરી ટામેટાં",
+        "લાંબા ફણસી",
+        "લસણ",
+        "નાનાં તીખાં મરચાં",
+        "લીંબુનો રસ",
+        "હળવો સોયા સોસ",
+        "તાડની ખાંડ",
+        "શેકેલી મગફળી",
+        "આમલીનો માવો"
+      ],
+      "steps": [
+        "કાચું પપૈયું અને ગાજર છોલો, પપૈયાનાં બી કાઢો અને બંનેનાં લાંબાં પાતળાં છીણ બનાવો.",
+        "લસણ અને મરચાંને તાડની ખાંડ સાથે હળવાં ખાંડો; લીંબુનો રસ, સોયા સોસ અને આમલી ભેળવી ઓગાળો.",
+        "લાંબી ફણસી અને ટામેટાંને મોટા વાટકામાં હળવાં દબાવો; પપૈયું અને ગાજર ઉમેરો.",
+        "ખાટી-મીઠી ડ્રેસિંગ સાથે સારી રીતે ભેળવો; ઉપર ખાંડી શેકેલી મગફળી નાખી તરત પીરસો."
+      ],
+      "tips": [
+        "કરકરાં છીણ માટે ખરેખર કાચું પપૈયું લો; સોયા સોસ ડ્રેસિંગ શાકાહારી રાખે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/thai-green-papaya-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

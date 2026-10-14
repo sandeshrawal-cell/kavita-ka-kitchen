@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R2101",
+  "id": "virgin-mojito",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Virgin Mojito",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "fresh mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "simple sugar syrup",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled club soda",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash mint gently, pat dry and remove tough stems. Cut limes into wedges and squeeze enough fresh juice.",
+    "Divide mint, lime wedges and syrup among four glasses; press each only a few times to release the oils without shredding the mint.",
+    "Add 30 ml lime juice and 100 g ice to each glass. Pour 150 ml chilled club soda into each, then stir once from the bottom.",
+    "Serve immediately while the drink is fizzy, with the mint and lime visible in the glasses."
+  ],
+  "tips": [
+    "Avoid crushing mint too hard; bruised stems make a mojito bitter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वर्जिन मोजितो",
+      "ingredients": [
+        "ताज़े पुदीने के पत्ते",
+        "नीबू का रस",
+        "नीबू के टुकड़े",
+        "सादा चीनी सिरप",
+        "ठंडा सोडा पानी",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "पुदीना हल्के से धोकर सुखाएँ और सख्त डंठल हटाएँ। नीबू के टुकड़े काटकर ताज़ा रस निकालें।",
+        "पुदीना, नीबू के टुकड़े और सिरप चार गिलासों में बाँटें; तेल निकलने तक कुछ ही बार हल्का दबाएँ, पत्ते न कुचलें।",
+        "हर गिलास में 30 मिली नीबू रस और 100 ग्राम बर्फ डालें। हर एक में 150 मिली ठंडा सोडा डालकर नीचे से एक बार चलाएँ।",
+        "पेय में बुलबुले रहते ही, पुदीना और नीबू गिलास में दिखते हुए, तुरंत परोसें।"
+      ],
+      "tips": [
+        "पुदीना ज़ोर से न कूटें; कुचले डंठल मोजितो को कड़वा करते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વર્જિન મોજિતો",
+      "ingredients": [
+        "તાજાં ફુદીનાનાં પાન",
+        "લીંબુનો રસ",
+        "લીંબુના ટુકડા",
+        "સાદો ખાંડનો સિરપ",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "ફુદીનો હળવેથી ધોઈ સૂકવો અને કઠણ ડીટા કાઢો. લીંબુના ટુકડા કરી તાજો રસ કાઢો.",
+        "ફુદીનો, લીંબુના ટુકડા અને સિરપ ચાર ગ્લાસમાં વહેંચો; સુગંધિત તેલ છૂટે એટલું થોડું જ દબાવો, પાનનો ભૂકો ન કરો.",
+        "દરેક ગ્લાસમાં 30 મિલી લીંબુનો રસ અને 100 ગ્રામ બરફ નાખો. દરેકમાં 150 મિલી ઠંડું સોડા વોટર રેડી નીચેથી એક વાર હલાવો.",
+        "પીણામાં ફીણ રહે ત્યારે જ, ફુદીનો અને લીંબુ ગ્લાસમાં દેખાય એમ, તરત પીરસો."
+      ],
+      "tips": [
+        "ફુદીનાને બહુ જોરથી ન કચડો; દબાયેલા ડીટા મોજિતોને કડવું બનાવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/virgin-mojito.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

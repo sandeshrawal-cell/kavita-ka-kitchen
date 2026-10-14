@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R2102",
+  "id": "virgin-pina-colada",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Virgin Pina Colada",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "chilled pineapple chunks",
+      "qty": 440,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened pineapple juice",
+      "qty": 320,
+      "unit": "ml"
+    },
+    {
+      "name": "coconut cream",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "lime juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "pineapple wedges for garnish",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove the tough pineapple core, chill the fruit and reserve four wedges for garnish.",
+    "Blend pineapple chunks with pineapple juice until the fruit is completely smooth; strain only if a very fine texture is wanted.",
+    "Add coconut cream, lime juice and ice; blend until thick, creamy and slushy with no large ice pieces.",
+    "Divide among four chilled glasses, garnish each with a pineapple wedge and serve at once."
+  ],
+  "tips": [
+    "Use coconut cream rather than thin coconut water for the classic creamy body."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वर्जिन पिना कोलाडा",
+      "ingredients": [
+        "ठंडे अनानास के टुकड़े",
+        "बिना चीनी का अनानास रस",
+        "नारियल क्रीम",
+        "नीबू का रस",
+        "बर्फ के टुकड़े",
+        "सजाने के लिए अनानास के टुकड़े"
+      ],
+      "steps": [
+        "अनानास का सख्त बीच निकालें, फल ठंडा करें और सजाने के लिए चार टुकड़े अलग रखें।",
+        "अनानास के टुकड़े और रस फल पूरी तरह चिकना होने तक ब्लेंड करें; बहुत महीन बनावट चाहिए तो ही छानें।",
+        "नारियल क्रीम, नीबू रस और बर्फ डालकर गाढ़ा, क्रीमी और बर्फ के बड़े टुकड़ों से मुक्त होने तक ब्लेंड करें।",
+        "चार ठंडे गिलासों में बाँटें, हर एक पर अनानास का टुकड़ा लगाएँ और तुरंत परोसें।"
+      ],
+      "tips": [
+        "मूल क्रीमी बनावट के लिए पतले नारियल पानी की जगह नारियल क्रीम लें।"
+      ]
+    },
+    "gu": {
+      "name": "વર્જિન પિના કોલાડા",
+      "ingredients": [
+        "ઠંડા અનાનસના ટુકડા",
+        "ખાંડ વગરનો અનાનસનો રસ",
+        "નાળિયેરની ક્રીમ",
+        "લીંબુનો રસ",
+        "બરફના ટુકડા",
+        "સજાવવા માટે અનાનસના ટુકડા"
+      ],
+      "steps": [
+        "અનાનસનો કઠણ મધ્ય ભાગ કાઢો, ફળ ઠંડું કરો અને સજાવવા ચાર ટુકડા અલગ રાખો.",
+        "અનાનસના ટુકડા અને રસ ફળ પૂરેપૂરું મસૃણ થાય ત્યાં સુધી બ્લેન્ડ કરો; ખૂબ ઝીણી બનાવટ જોઈએ તો જ ગાળો.",
+        "નાળિયેરની ક્રીમ, લીંબુનો રસ અને બરફ ઉમેરી ઘટ્ટ, મલાઈદાર અને બરફના મોટા ટુકડા ન રહે ત્યાં સુધી બ્લેન્ડ કરો.",
+        "ચાર ઠંડા ગ્લાસમાં વહેંચો, દરેક પર અનાનસનો ટુકડો લગાવો અને તરત પીરસો."
+      ],
+      "tips": [
+        "મૂળ મલાઈદાર બનાવટ માટે પાતળા નાળિયેરના પાણીને બદલે નાળિયેરની ક્રીમ લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/virgin-pina-colada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

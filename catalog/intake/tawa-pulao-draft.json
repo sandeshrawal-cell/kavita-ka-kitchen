@@ -1,0 +1,162 @@
+{
+  "sourceReviewId": "R0704",
+  "id": "tawa-pulao",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Tawa Pulao",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "cooked, cooled basmati rice",
+      "qty": 750,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green capsicum",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "pav bhaji masala",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Break up clumps in cold cooked rice. Finely chop onion, tomato, capsicum and carrot; mince ginger and garlic.",
+    "Heat butter and oil on a wide tawa or pan. Fry onion 4 minutes, add ginger and garlic, then carrot and peas; cook 4 more minutes.",
+    "Add capsicum and tomato. Sprinkle pav bhaji masala, chilli powder and salt; fry 5–6 minutes until tomato becomes a thick coating.",
+    "Add rice in batches, tossing gently on high heat until every grain is coated and heated through. Finish with lemon and coriander."
+  ],
+  "tips": [
+    "Use properly chilled rice; freshly cooked rice can break and clump on the tawa."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तवा पुलाव",
+      "ingredients": [
+        "पके ठंडे बासमती चावल",
+        "प्याज़",
+        "टमाटर",
+        "हरे मटर",
+        "हरी शिमला मिर्च",
+        "गाजर",
+        "मक्खन",
+        "तेल",
+        "अदरक",
+        "लहसुन",
+        "पाव भाजी मसाला",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "नींबू का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "ठंडे पके चावल के ढेले अलग करें। प्याज़, टमाटर, शिमला मिर्च और गाजर बारीक काटें; अदरक-लहसुन कूटें।",
+        "चौड़े तवे पर मक्खन और तेल गरम करें। प्याज़ 4 मिनट भूनें, अदरक-लहसुन डालें, फिर गाजर और मटर 4 मिनट पकाएँ।",
+        "शिमला मिर्च और टमाटर डालें। पाव भाजी मसाला, मिर्च और नमक छिड़ककर 5–6 मिनट गाढ़ा मसाला बनने तक भूनें।",
+        "चावल थोड़ा-थोड़ा डालकर तेज़ आँच पर हल्के पलटें, जब तक हर दाना मसाले से लिपटकर गरम हो। नींबू और धनिया डालें।"
+      ],
+      "tips": [
+        "अच्छी तरह ठंडे चावल लें; ताज़े चावल तवे पर टूट और चिपक सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "તવા પુલાવ",
+      "ingredients": [
+        "રાંધેલા ઠંડા બાસમતી ચોખા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલા વટાણા",
+        "લીલાં શિમલા મરચાં",
+        "ગાજર",
+        "માખણ",
+        "તેલ",
+        "આદુ",
+        "લસણ",
+        "પાવભાજી મસાલો",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ઠંડા રાંધેલા ભાતના ગાંઠા છૂટા કરો. ડુંગળી, ટામેટાં, શિમલા મરચાં અને ગાજર ઝીણાં સમારો; આદુ-લસણ વાટો.",
+        "પહોળા તવા પર માખણ અને તેલ ગરમ કરો. ડુંગળી 4 મિનિટ શેકો, આદુ-લસણ ઉમેરો, પછી ગાજર અને વટાણા 4 મિનિટ પકાવો.",
+        "શિમલા મરચાં અને ટામેટાં ઉમેરો. પાવભાજી મસાલો, મરચું અને મીઠું છાંટી 5–6 મિનિટ ઘટ્ટ મસાલો બને ત્યાં સુધી શેકો.",
+        "ભાત થોડો થોડો ઉમેરી તેજ આંચે હળવેથી ઉછાળો, દરેક દાણે મસાલો ચડે અને ગરમ થાય ત્યાં સુધી. લીંબુ અને ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "બરાબર ઠંડો ભાત લો; તાજો ભાત તવા પર તૂટી અને ચોંટી શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tawa-pulao.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

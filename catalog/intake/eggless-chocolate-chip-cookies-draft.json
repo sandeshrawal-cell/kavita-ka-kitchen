@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R1708",
+  "id": "eggless-chocolate-chip-cookies",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Chocolate Chip Cookies",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "baking soda",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dark chocolate chips",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cream softened butter with both sugars until smooth and slightly fluffy; mix in milk and vanilla.",
+    "Sift flour, baking soda and salt over the bowl. Fold just until combined, then mix in most chocolate chips. Chill the dough 20 minutes.",
+    "Heat oven to 180°C and line a tray. Divide dough into 12 balls, space them well apart and press the remaining chips on top.",
+    "Bake 10–12 minutes until edges are set and golden but centres are still slightly soft. Leave on the hot tray for 5 minutes, then transfer to a rack."
+  ],
+  "tips": [
+    "Do not overbake; the cookies continue to firm up on the hot tray."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे की चॉकलेट चिप कुकीज़",
+      "ingredients": [
+        "मैदा",
+        "बिना नमक का मक्खन",
+        "भूरी चीनी",
+        "बारीक चीनी",
+        "दूध",
+        "वैनिला अर्क",
+        "बेकिंग सोडा",
+        "डार्क चॉकलेट चिप्स",
+        "नमक"
+      ],
+      "steps": [
+        "नरम मक्खन को दोनों तरह की चीनी के साथ चिकना और हल्का फूला होने तक फेंटें; दूध और वैनिला मिलाएँ।",
+        "कटोरे में मैदा, बेकिंग सोडा और नमक छानें। बस एकसार होने तक मिलाएँ, फिर अधिकांश चॉकलेट चिप्स डालें। आटा 20 मिनट ठंडा करें।",
+        "ओवन 180°C पर गरम करके ट्रे में पेपर बिछाएँ। आटे की 12 गोलियाँ बनाएँ, ट्रे पर दूर-दूर रखें और बची चिप्स ऊपर दबाएँ।",
+        "किनारे जमकर सुनहरे और बीच हल्का नरम रहे तब तक 10–12 मिनट बेक करें। गरम ट्रे पर 5 मिनट रखें, फिर जाली पर निकालें।"
+      ],
+      "tips": [
+        "ज़्यादा न बेक करें; गरम ट्रे पर कुकीज़ और सख्त होती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની ચોકલેટ ચિપ કૂકીઝ",
+      "ingredients": [
+        "મેંદો",
+        "મીઠા વગરનું માખણ",
+        "બ્રાઉન ખાંડ",
+        "ઝીણી ખાંડ",
+        "દૂધ",
+        "વેનીલા એસેન્સ",
+        "બેકિંગ સોડા",
+        "ડાર્ક ચોકલેટ ચિપ્સ",
+        "મીઠું"
+      ],
+      "steps": [
+        "નરમ માખણ બંને પ્રકારની ખાંડ સાથે મસૃણ અને થોડું ફૂલેલું થાય ત્યાં સુધી ફેંટો; દૂધ અને વેનીલા ભેળવો.",
+        "વાટકામાં મેંદો, બેકિંગ સોડા અને મીઠું ચાળો. માત્ર એકસરખું થાય ત્યાં સુધી ભેળવો, પછી મોટાભાગની ચોકલેટ ચિપ્સ નાખો. લોટ 20 મિનિટ ઠંડો કરો.",
+        "ઓવન 180°C પર ગરમ કરી ટ્રેમાં પેપર પાથરો. લોટના 12 ગોળા બનાવી ટ્રે પર અંતરે મૂકો અને બાકી ચિપ્સ ઉપર દબાવો.",
+        "કિનારી સેટ થઈ સોનેરી અને મધ્ય થોડો નરમ રહે ત્યાં સુધી 10–12 મિનિટ બેક કરો. ગરમ ટ્રે પર 5 મિનિટ રાખી પછી જાળી પર કાઢો."
+      ],
+      "tips": [
+        "વધારે ન બેક કરો; ગરમ ટ્રે પર કૂકીઝ વધુ મજબૂત બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-chocolate-chip-cookies.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

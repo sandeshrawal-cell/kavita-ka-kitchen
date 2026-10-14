@@ -22,17 +22,17 @@ export function validateEntry(d,r,{legacy=false}={}){
  for(const i of r.ingredients||[]){
   if(typeof i.name!=='string'||!i.name.trim()||!Number.isFinite(i.qty)||i.qty<=0||!['g','ml'].includes(i.unit)||!['linear','seasoning','evaporation'].includes(i.scale)||!['Bakery','Dairy','Dry Fruits','Fruits','Grains','Other','Packaged','Pulses','Spices','Vegetables'].includes(i.group))fail(`invalid ingredient: ${i.name}`);
   if(i.pricePerUnit!==undefined&&(!Number.isFinite(i.pricePerUnit)||i.pricePerUnit<0))fail('invalid ingredient price');
-  if(i.qty<.5)errors.push(`${d.id}: ${i.name} ${i.qty}${i.unit} below 0.5 minimum`);
+  if(i.qty<(i.name.toLowerCase()==='saffron'?.1:.5))errors.push(`${d.id}: ${i.name} ${i.qty}${i.unit} below minimum`);
  }
  if(JSON.stringify(d.ingredients)!==JSON.stringify(r.ingredients.map(i=>i.name)))fail('dish ingredients differ from measured recipe');
- let text=[...r.ingredients.map(i=>i.name),...r.steps].join(' ').replace(/\beggless\b|\bno eggs?\b|\bagar instead of gelatin\b/gi,'');
+ let text=[...r.ingredients.map(i=>i.name),...r.steps].join(' ').replace(/\beggless\b|\begg[- ]free\b|\bno eggs?\b|\bagar instead of gelatin\b|\b(?:vegetarian|microbial) rennet\b/gi,'');
  if(!d.jainVerified)text=text.replace(/\bhoney\b/gi,'');
  if(banned.test(text))fail('prohibited ingredient or instruction: '+text.match(banned)[0]);
  if(d.jainVerified&&(jainExcluded.test(r.ingredients.map(i=>i.name).join(' '))||/overnight.{0,30}ferment|ferment.{0,40}overnight/i.test(r.steps.join(' ')))){
   fail('Jain label conflicts with ingredient or fermentation');
  }
  if(!legacy&&d.jainVerified)fail('new dishes must not assert universal Jain certification; household rules decide suitability');
- const ing=r.ingredients.map(i=>i.name).join(' ');const expected=[[/\b(milk|paneer|curd|cream|ghee|butter|cheese)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([re])=>re.test(ing)).map(([,v])=>v);
+ const ing=r.ingredients.map(i=>i.name).join(' ').replace(/\b(?:coconut|oat|rice|soy) milk\b/gi,match=>match.replace(/milk$/i,'drink'));const expected=[[/\b(milk|paneer|curd|cream|ghee|butter|cheese)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([re])=>re.test(ing)).map(([,v])=>v);
  if(!legacy&&expected.some(x=>!d.allergens.includes(x)))fail('missing allergen');
  return {errors,warnings};
 }

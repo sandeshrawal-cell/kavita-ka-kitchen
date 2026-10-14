@@ -4555,5 +4555,507 @@
     "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Jeera Aloo, Boiled potatoes tossed with cumin, green chilli and dry spices. Culinary region: Punjabi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-13"
+  },
+  "aloo-matar": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Aloo Matar. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "sarson-ka-saag": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Sarson ka Saag. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "lauki-ki-sabzi": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Lauki ki Sabzi. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "bharwa-bhindi": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Bharwa Bhindi. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "aloo-methi": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Aloo Methi. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "gobi-matar": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Gobi Matar. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "bharwan-karela": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Bharwan Karela. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tinda-masala": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tinda Masala. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "aloo-baingan": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Aloo Baingan. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kathal-ki-sabzi": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kathal ki Sabzi. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "majjige-huli": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Majjige Huli. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14",
+    "correction": "Regenerated after visual review to match the ash-gourd recipe without drumstick pods."
+  },
+  "pulissery": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pulissery. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kadala-curry": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kadala Curry. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tomato-pappu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tomato Pappu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "gongura-pappu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Gongura Pappu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mamidikaya-pappu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mamidikaya Pappu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "muddha-pappu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Muddha Pappu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pappu-charu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pappu Charu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "ulavacharu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Ulavacharu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "dosakaya-pappu": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Dosakaya Pappu. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tomato-rice": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tomato Rice. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "hyderabadi-veg-dum-biryani": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Hyderabadi Veg Dum Biryani. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kashmiri-pulao": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kashmiri Pulao. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tawa-pulao": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tawa Pulao. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "vangi-bath": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Vangi Bath. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "ghee-rice": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Ghee Rice. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pudina-rice": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pudina Rice. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "paneer-pulao": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Paneer Pulao. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kathal-biryani": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kathal Biryani. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mushroom-biryani": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mushroom Biryani. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pasta-e-broccoli": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pasta e Broccoli. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pasta-e-lenticchie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pasta e Lenticchie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pizzoccheri": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pizzoccheri. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "arroz-con-verduras": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Arroz con Verduras. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "huggi": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Huggi. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "thinai-pongal": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Thinai Pongal. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kashmiri-khetchir": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kashmiri Khetchir. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "rasam-sadam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Rasam Sadam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "paruppu-sadam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Paruppu Sadam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "sweet-potato-congee": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Sweet Potato Congee. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "garlic-rasam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Garlic Rasam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "pineapple-rasam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Pineapple Rasam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "paruppu-rasam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Paruppu Rasam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "clear-vegetable-soup": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Clear Vegetable Soup. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "cream-of-mushroom-soup": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Cream of Mushroom Soup. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "broccoli-cheddar-soup": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Broccoli Cheddar Soup. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "jeera-rasam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Jeera Rasam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kollu-rasam": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kollu Rasam. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tomato-saar": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tomato Saar. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kokum-saar": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kokum Saar. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kachumber-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kachumber Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "greek-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Greek Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-caesar-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Caesar Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "caprese-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Caprese Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "gajar-koshimbir": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Gajar Koshimbir. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kakdi-koshimbir": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kakdi Koshimbir. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "fattoush": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Fattoush. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "russian-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Russian Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "coleslaw": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Coleslaw. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "thai-green-papaya-salad": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Thai Green Papaya Salad. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "chilli-paneer-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Chilli Paneer Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "paneer-frankie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Paneer Frankie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "schezwan-frankie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Schezwan Frankie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "manchurian-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Manchurian Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "chowmein-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Chowmein Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "paneer-bhurji-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Paneer Bhurji Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mushroom-tikka-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mushroom Tikka Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "veg-seekh-kebab-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Veg Seekh Kebab Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "rumali-roti-roll": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Rumali Roti Roll. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14",
+    "correction": "Regenerated after visual review to show a thin rumali roti rather than a layered paratha."
+  },
+  "aloo-tikki-wrap": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Aloo Tikki Wrap. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-black-forest-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Black Forest Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-pineapple-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Pineapple Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "nankhatai": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Nankhatai. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-red-velvet-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Red Velvet Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-butterscotch-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Butterscotch Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-mawa-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Mawa Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-plum-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Plum Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-chocolate-chip-cookies": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Chocolate Chip Cookies. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-chocolate-truffle-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Chocolate Truffle Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "eggless-marble-cake": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Eggless Marble Cake. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mango-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mango Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mixed-berry-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mixed Berry Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "strawberry-banana-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Strawberry Banana Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "mango-banana-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Mango Banana Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "avocado-mango-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Avocado Mango Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "blueberry-oat-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Blueberry Oat Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "peanut-butter-oat-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Peanut Butter Oat Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "green-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Green Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "acai-bowl": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Acai Bowl. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "tropical-smoothie": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Tropical Smoothie. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "virgin-mojito": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Virgin Mojito. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "virgin-pina-colada": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Virgin Pina Colada. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "blue-lagoon-mocktail": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Blue Lagoon Mocktail. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "virgin-margarita": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Virgin Margarita. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "virgin-strawberry-daiquiri": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Virgin Strawberry Daiquiri. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "virgin-sangria": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Virgin Sangria. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "shirley-temple": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Shirley Temple. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "watermelon-mojito": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Watermelon Mojito. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "strawberry-mojito": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Strawberry Mojito. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
+  },
+  "kala-khatta-mojito": {
+    "prompt": "Photorealistic premium editorial food photograph of authentic Kala Khatta Mojito. Show the dish-specific ingredients and preparation in a realistic, appetizing presentation with natural window light and a square recipe-card composition. No text, illustration, people, meat, eggs, alcohol or unrelated dishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-14"
   }
 }

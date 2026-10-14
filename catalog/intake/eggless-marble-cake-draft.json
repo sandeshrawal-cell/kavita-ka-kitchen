@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R1710",
+  "id": "eggless-marble-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Marble Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "extra milk for cocoa batter",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm loaf tin. Sift flour, baking powder, baking soda and salt together.",
+    "Whisk sugar, yogurt, 120 ml milk, oil and vanilla; fold in sifted ingredients. Transfer one third of batter to another bowl and stir in cocoa with 20 ml extra milk.",
+    "Spoon alternating dollops of vanilla and cocoa batters into the tin. Draw a skewer through the batter in two gentle figure-eight motions to create a marble pattern.",
+    "Bake 35–40 minutes until a skewer inserted into the centre comes out clean. Cool 15 minutes in the tin, then fully on a rack before slicing."
+  ],
+  "tips": [
+    "Swirl only briefly; too much mixing blurs the dark and light pattern."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का मार्बल केक",
+      "ingredients": [
+        "मैदा",
+        "बारीक चीनी",
+        "सादा दही",
+        "दूध",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "वैनिला अर्क",
+        "बिना चीनी का कोको पाउडर",
+        "कोको घोल के लिए अतिरिक्त दूध",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी लोफ टिन में पेपर लगाएँ। मैदा, बेकिंग पाउडर, बेकिंग सोडा और नमक साथ छानें।",
+        "चीनी, दही, 120 मिली दूध, तेल और वैनिला फेंटें; छनी सामग्री मिलाएँ। घोल का एक तिहाई दूसरे कटोरे में लें और उसमें कोको और 20 मिली अतिरिक्त दूध मिलाएँ।",
+        "टिन में वैनिला और कोको घोल बारी-बारी चम्मच से डालें। सींक से घोल में दो बार धीरे आठ का आकार बनाएँ ताकि मार्बल पैटर्न बने।",
+        "बीच में सींक साफ आने तक 35–40 मिनट बेक करें। टिन में 15 मिनट, फिर जाली पर पूरी तरह ठंडा करके काटें।"
+      ],
+      "tips": [
+        "घोल बहुत कम घुमाएँ; अधिक मिलाने से गहरे और हल्के रंग का पैटर्न मिट जाता है।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની માર્બલ કેક",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી ખાંડ",
+        "સાદું દહીં",
+        "દૂધ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "વેનીલા એસેન્સ",
+        "ખાંડ વગરનો કોકો પાઉડર",
+        "કોકો ખીરા માટે વધારાનું દૂધ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી લોફ ટિનમાં પેપર પાથરો. મેંદો, બેકિંગ પાઉડર, બેકિંગ સોડા અને મીઠું સાથે ચાળો.",
+        "ખાંડ, દહીં, 120 મિલી દૂધ, તેલ અને વેનીલા ફેંટો; ચાળેલી સામગ્રી ભેળવો. ખીરાનું એક તૃતીયાંશ બીજા વાટકામાં લઈ તેમાં કોકો અને 20 મિલી વધારાનું દૂધ ભેળવો.",
+        "ટિનમાં વેનીલા અને કોકો ખીરું વારાફરતી ચમચીથી નાખો. સળીથી ખીરામાં બે વાર ધીમે આઠનો આકાર દોરી માર્બલ નકશો બનાવો.",
+        "વચ્ચે સળી ચોખ્ખી નીકળે ત્યાં સુધી 35–40 મિનિટ બેક કરો. ટિનમાં 15 મિનિટ, પછી જાળી પર પૂરેપૂરું ઠંડું કરી કાપો."
+      ],
+      "tips": [
+        "ખીરું થોડું જ ફેરવો; વધારે મિક્સ કરવાથી ઘેરા અને આછા રંગનો નકશો ભૂંસાઈ જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-marble-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

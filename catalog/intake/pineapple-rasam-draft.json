@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1012",
+  "id": "pineapple-rasam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pineapple Rasam",
+  "cuisine": "South Indian",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "fresh pineapple",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "toor dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 950,
+      "unit": "ml"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "rasam powder",
+      "qty": 13,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook the toor dal until soft and mash it; crush half the pineapple and dice the rest for texture.",
+    "Simmer tomatoes, tamarind water, turmeric and rasam powder until the tomatoes soften and the raw sourness fades.",
+    "Add dal, pineapple and remaining water; warm until the pineapple is just tender and the broth begins to foam.",
+    "Sizzle mustard, cumin and curry leaves in ghee, pour over the rasam and scatter coriander just before serving."
+  ],
+  "tips": [
+    "Use ripe fresh pineapple and keep the final simmer brief so its fruity aroma stays bright."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अनानास रसम",
+      "ingredients": [
+        "ताज़ा अनानास",
+        "टमाटर",
+        "अरहर दाल",
+        "पानी",
+        "इमली का गूदा",
+        "रसम पाउडर",
+        "हल्दी",
+        "राई",
+        "जीरा",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "अरहर दाल नरम पकाकर मसलें; आधा अनानास कुचलें और बाकी छोटे टुकड़ों में काटें।",
+        "टमाटर, इमली का पानी, हल्दी और रसम पाउडर टमाटर नरम तथा कच्ची खटास दूर होने तक पकाएँ।",
+        "दाल, अनानास और बचा पानी डालें; अनानास हल्का नरम और ऊपर झाग आने तक गरम करें।",
+        "घी में राई, जीरा और कड़ी पत्ते चटकाकर रसम पर डालें और परोसने से पहले धनिया बिखेरें।"
+      ],
+      "tips": [
+        "पका ताज़ा अनानास लें और उसकी खुशबू बनाए रखने के लिए अंत में अधिक देर न उबालें।"
+      ]
+    },
+    "gu": {
+      "name": "અનાનસ રસમ",
+      "ingredients": [
+        "તાજું અનાનસ",
+        "ટામેટાં",
+        "તુવેર દાળ",
+        "પાણી",
+        "આમલીનો માવો",
+        "રસમ પાઉડર",
+        "હળદર",
+        "રાઈ",
+        "જીરું",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "તુવેર દાળ નરમ રાંધી મસળો; અડધું અનાનસ કચડો અને બાકીના નાના ટુકડા કરો.",
+        "ટામેટાં, આમલીનું પાણી, હળદર અને રસમ પાઉડર ટામેટાં નરમ થાય તથા કાચી ખટાશ જાય ત્યાં સુધી રાંધો.",
+        "દાળ, અનાનસ અને બાકીનું પાણી નાખો; અનાનસ થોડું નરમ થાય અને ઉપર ફીણ આવે ત્યાં સુધી ગરમ કરો.",
+        "ઘીમાં રાઈ, જીરું અને મીઠો લીમડો વઘારી રસમ પર રેડો અને પીરસતાં પહેલાં ધાણા ભભરાવો."
+      ],
+      "tips": [
+        "પાકેલું તાજું અનાનસ લો અને તેની સુગંધ રહે તે માટે અંતે વધુ ઉકાળો નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pineapple-rasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

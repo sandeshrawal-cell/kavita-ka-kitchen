@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R1015",
+  "id": "cream-of-mushroom-soup",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Cream of Mushroom Soup",
+  "cuisine": "European",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "button mushrooms",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh cream",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "thyme",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice mushrooms and cook them in butter over medium heat until their moisture evaporates and the edges brown.",
+    "Add finely chopped onion, garlic and thyme; cook until soft, then stir in flour and cook away its raw taste.",
+    "Pour in stock gradually while whisking, simmer until the mushrooms are tender, then blend part of the soup for body.",
+    "Stir in milk and cream, warm gently without boiling and season with salt and black pepper."
+  ],
+  "tips": [
+    "Reserve a few browned mushroom slices for the top so the soup still looks and tastes like mushrooms."
+  ],
+  "translations": {
+    "hi": {
+      "name": "क्रीमी मशरूम सूप",
+      "ingredients": [
+        "बटन मशरूम",
+        "प्याज़",
+        "लहसुन",
+        "मक्खन",
+        "मैदा",
+        "सब्ज़ियों का स्टॉक",
+        "दूध",
+        "ताज़ी क्रीम",
+        "थाइम",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "मशरूम काटकर मध्यम आँच पर मक्खन में पानी सूखने और किनारे भूरे होने तक भूनें।",
+        "बारीक प्याज़, लहसुन और थाइम डालकर नरम करें; मैदा मिलाकर उसका कच्चापन दूर करें।",
+        "फेंटते हुए धीरे-धीरे स्टॉक डालें, मशरूम नरम होने तक पकाएँ और सूप का कुछ भाग पीसकर गाढ़ापन दें।",
+        "दूध और क्रीम मिलाकर बिना उबाले हल्का गरम करें; नमक और काली मिर्च डालें।"
+      ],
+      "tips": [
+        "ऊपर सजाने के लिए कुछ भूरे मशरूम के टुकड़े बचाएँ ताकि सूप में मशरूम का रूप और स्वाद रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ક્રીમી મશરૂમ સૂપ",
+      "ingredients": [
+        "બટન મશરૂમ",
+        "ડુંગળી",
+        "લસણ",
+        "માખણ",
+        "મેંદો",
+        "શાકભાજીનો સ્ટોક",
+        "દૂધ",
+        "તાજી ક્રીમ",
+        "થાઇમ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "મશરૂમ કાપીને મધ્યમ આંચે માખણમાં તેનું પાણી સૂકાય અને કિનારીઓ ભૂરી થાય ત્યાં સુધી સાંતળો.",
+        "ઝીણી ડુંગળી, લસણ અને થાઇમ નાખી નરમ કરો; મેંદો ભેળવી કાચો સ્વાદ દૂર કરો.",
+        "ફેંટતા ધીમે ધીમે સ્ટોક રેડો, મશરૂમ નરમ થાય ત્યાં સુધી રાંધો અને થોડું સૂપ પીસીને ઘાટ આપો.",
+        "દૂધ અને ક્રીમ ભેળવી ઉકાળ્યા વિના હળવું ગરમ કરો; મીઠું અને મરી ઉમેરો."
+      ],
+      "tips": [
+        "ઉપર મૂકવા થોડાં ભૂંજી ગયેલા મશરૂમ બચાવો જેથી સૂપમાં મશરૂમનો દેખાવ અને સ્વાદ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cream-of-mushroom-soup.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

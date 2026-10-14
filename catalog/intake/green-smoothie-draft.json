@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R1908",
+  "id": "green-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Green Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "ripe banana",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "kiwi flesh",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "green apple",
+      "qty": 190,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "cold water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 12,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash spinach and mint thoroughly. Peel the kiwi and banana; core the apple and chop it with the cucumber.",
+    "Blend spinach, mint and half the water first until the leaves are finely puréed.",
+    "Add banana, kiwi, apple, cucumber, lemon juice and remaining water; blend until evenly green and smooth.",
+    "Taste for tartness, divide into four glasses and drink immediately while the colour and freshness are at their best."
+  ],
+  "tips": [
+    "Use tender baby spinach rather than mature fibrous leaves for a smoother drink."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्रीन स्मूदी",
+      "ingredients": [
+        "छोटे पालक के पत्ते",
+        "पका केला",
+        "कीवी का गूदा",
+        "खीरा",
+        "हरा सेब",
+        "नींबू का रस",
+        "ठंडा पानी",
+        "पुदीने के पत्ते"
+      ],
+      "steps": [
+        "पालक और पुदीना अच्छी तरह धोएँ। कीवी और केला छीलें; सेब का बीच निकालकर खीरे के साथ काटें।",
+        "पालक, पुदीना और आधा पानी पहले पत्ते बारीक पिसने तक ब्लेंड करें।",
+        "केला, कीवी, सेब, खीरा, नींबू रस और बचा पानी डालकर समान हरा और चिकना होने तक ब्लेंड करें।",
+        "खट्टापन चखें, चार गिलासों में बाँटें और रंग व ताज़गी सर्वोत्तम रहते तुरंत पिएँ।"
+      ],
+      "tips": [
+        "चिकने पेय के लिए सख्त बड़े पत्तों की जगह छोटे नरम पालक लें।"
+      ]
+    },
+    "gu": {
+      "name": "ગ્રીન સ્મૂધી",
+      "ingredients": [
+        "નાનાં પાલકનાં પાન",
+        "પાકું કેળું",
+        "કિવીનો ગૂદો",
+        "કાકડી",
+        "લીલું સફરજન",
+        "લીંબુનો રસ",
+        "ઠંડું પાણી",
+        "ફુદીનાનાં પાન"
+      ],
+      "steps": [
+        "પાલક અને ફુદીનો સારી રીતે ધુઓ. કિવી અને કેળું છોલો; સફરજનનો ગર્ભ કાઢી કાકડી સાથે સમારો.",
+        "પાલક, ફુદીનો અને અડધું પાણી પહેલાં પાન ઝીણાં પિસાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "કેળું, કિવી, સફરજન, કાકડી, લીંબુનો રસ અને બાકી પાણી ઉમેરી એકસરખું લીલું અને મસૃણ થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "ખટાશ ચાખો, ચાર ગ્લાસમાં વહેંચો અને રંગ તથા તાજગી સારી હોય ત્યારે તરત પીવો."
+      ],
+      "tips": [
+        "મસૃણ પીણાં માટે કઠણ મોટાં પાનને બદલે નરમ નાનાં પાલકનાં પાન લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/green-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

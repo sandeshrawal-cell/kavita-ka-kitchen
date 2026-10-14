@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R1902",
+  "id": "mixed-berry-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Mixed Berry Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "mixed frozen berries",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "ripe banana",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "chia seeds",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "honey",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Stir chia seeds into 60 ml of the milk and leave for 10 minutes to swell. Slice the peeled banana.",
+    "Blend frozen berries, banana, yogurt and remaining 160 ml milk until the fruit is fully crushed and the mixture is smooth.",
+    "Add the swollen chia and honey, pulse briefly and taste; add a little more milk only if too thick to pour.",
+    "Divide among four glasses and serve cold while the berry flavour remains bright."
+  ],
+  "tips": [
+    "Use unsweetened frozen berries to control the smoothie’s sweetness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मिक्स्ड बेरी स्मूदी",
+      "ingredients": [
+        "जमी हुई मिली-जुली बेरी",
+        "पका केला",
+        "गाढ़ा सादा दही",
+        "ठंडा दूध",
+        "चिया बीज",
+        "शहद"
+      ],
+      "steps": [
+        "चिया बीज को 60 मिली दूध में मिलाकर 10 मिनट फूलने दें। छिला केला काट लें।",
+        "जमी बेरी, केला, दही और बचा 160 मिली दूध फल पूरी तरह पिसने और मिश्रण चिकना होने तक ब्लेंड करें।",
+        "फूले चिया और शहद डालकर थोड़ी देर चलाएँ और चखें; केवल बहुत गाढ़ा हो तो थोड़ा और दूध डालें।",
+        "चार गिलासों में बाँटें और बेरी का ताज़ा स्वाद रहते ठंडा परोसें।"
+      ],
+      "tips": [
+        "मिठास अपने अनुसार रखने के लिए बिना चीनी वाली जमी बेरी लें।"
+      ]
+    },
+    "gu": {
+      "name": "મિક્સ્ડ બેરી સ્મૂધી",
+      "ingredients": [
+        "ફ્રોઝન મિશ્ર બેરી",
+        "પાકું કેળું",
+        "ઘાટું સાદું દહીં",
+        "ઠંડું દૂધ",
+        "ચિયા બીજ",
+        "મધ"
+      ],
+      "steps": [
+        "ચિયા બીજને 60 મિલી દૂધમાં ભેળવી 10 મિનિટ ફૂલવા દો. છોલેલું કેળું સમારો.",
+        "ફ્રોઝન બેરી, કેળું, દહીં અને બાકી 160 મિલી દૂધ ફળ પૂરેપૂરું પિસાય અને મિશ્રણ મસૃણ થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "ફૂલેલા ચિયા અને મધ ઉમેરી થોડું ફેરવો અને ચાખો; માત્ર રેડી ન શકાય એટલું ઘટ્ટ હોય તો થોડું વધુ દૂધ ઉમેરો.",
+        "ચાર ગ્લાસમાં વહેંચો અને બેરીનો તાજો સ્વાદ રહે ત્યારે ઠંડું પીરસો."
+      ],
+      "tips": [
+        "મીઠાશ પોતાના સ્વાદ મુજબ રાખવા ખાંડ વગરની ફ્રોઝન બેરી લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mixed-berry-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

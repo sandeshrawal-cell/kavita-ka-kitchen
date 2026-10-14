@@ -1,0 +1,160 @@
+{
+  "sourceReviewId": "R1410",
+  "id": "veg-seekh-kebab-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Veg Seekh Kebab Roll",
+  "cuisine": "Indian",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "boiled potatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "grated carrots",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "roasted gram flour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "whole-wheat rotis",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "mint chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil or steam peas and finely chopped beans until tender; drain completely. Mash them with potato, carrot, grated ginger and minced chilli.",
+    "Mix in roasted gram flour, cumin, garam masala and salt. Shape into eight firm logs around damp skewers or into free-standing cylinders.",
+    "Brush kebabs with oil and cook on a medium-hot pan for 10–12 minutes, turning carefully until browned on all sides and hot at the centre.",
+    "Warm the rotis, spread each with 20 g chutney, add two kebabs, sliced onion and lemon juice; fold the bottom and roll snugly."
+  ],
+  "tips": [
+    "Drain cooked vegetables very well; excess moisture makes seekh kebabs break."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेज सीख कबाब रोल",
+      "ingredients": [
+        "उबले आलू",
+        "हरे मटर",
+        "कसी गाजर",
+        "हरी फली",
+        "भुना बेसन",
+        "अदरक",
+        "हरी मिर्च",
+        "जीरा पाउडर",
+        "गरम मसाला",
+        "गेहूँ की रोटियाँ",
+        "लाल प्याज़",
+        "पुदीने की चटनी",
+        "नींबू का रस",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मटर और बारीक कटी फलियाँ नरम होने तक पकाकर अच्छी तरह छानें। आलू, गाजर, कसा अदरक और कटी मिर्च के साथ मैश करें।",
+        "भुना बेसन, जीरा, गरम मसाला और नमक मिलाएँ। मिश्रण को गीली सीकों पर या बिना सींक के आठ मज़बूत लंबे कबाब बनाएँ।",
+        "कबाब पर तेल लगाकर मध्यम-गरम पैन में 10–12 मिनट सावधानी से पलटते हुए चारों ओर सुनहरा और बीच तक गरम होने दें।",
+        "रोटियाँ गरम करें। हर रोटी पर 20 ग्राम चटनी, दो कबाब, कटा प्याज़ और नींबू रस डालें; नीचे से मोड़कर कसकर रोल करें।"
+      ],
+      "tips": [
+        "पकी सब्ज़ियाँ अच्छी तरह छानें; अधिक नमी से सीख कबाब टूटते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજ સીખ કબાબ રોલ",
+      "ingredients": [
+        "બાફેલા બટાકા",
+        "લીલા વટાણા",
+        "છીણેલા ગાજર",
+        "લીલા ફણસી",
+        "શેકેલો ચણાનો લોટ",
+        "આદુ",
+        "લીલાં મરચાં",
+        "જીરાનો ભૂકો",
+        "ગરમ મસાલો",
+        "ઘઉંની રોટલીઓ",
+        "લાલ ડુંગળી",
+        "ફુદીનાની ચટણી",
+        "લીંબુનો રસ",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "વટાણા અને ઝીણી સમારેલી ફણસી નરમ થાય ત્યાં સુધી બાફી સારી રીતે નિતારી લો. બટાકા, ગાજર, છીણેલું આદુ અને સમારેલાં મરચાં સાથે મસળો.",
+        "શેકેલો ચણાનો લોટ, જીરું, ગરમ મસાલો અને મીઠું મિક્સ કરો. ભીની સળીઓ પર અથવા સળી વગર આઠ મજબૂત લાંબા કબાબ આકારો.",
+        "કબાબ પર તેલ લગાવી મધ્યમ-ગરમ પેનમાં 10–12 મિનિટ કાળજીથી ફેરવતાં બધી બાજુ ભૂરા અને અંદર સુધી ગરમ કરો.",
+        "રોટલીઓ ગરમ કરો. દરેક પર 20 ગ્રામ ચટણી, બે કબાબ, સમારેલી ડુંગળી અને લીંબુનો રસ નાખો; નીચેથી વાળી ચુસ્ત રોલ કરો."
+      ],
+      "tips": [
+        "બાફેલા શાક ખૂબ સારી રીતે નિતારો; વધારે ભેજથી સીખ કબાબ તૂટી જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/veg-seekh-kebab-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

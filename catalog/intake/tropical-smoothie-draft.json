@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R1910",
+  "id": "tropical-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Tropical Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "ripe pineapple flesh",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ripe mango flesh",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "ripe banana",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "chilled coconut milk",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove the hard pineapple core, cube the pineapple and mango, and slice the peeled banana; chill the fruit well.",
+    "Blend pineapple and mango with half the coconut milk until the fibrous pineapple is fully puréed.",
+    "Add banana, remaining coconut milk and lime juice; blend until silky, then pulse with ice for a frothy finish.",
+    "Pour into four chilled glasses and serve immediately while thick and cold."
+  ],
+  "tips": [
+    "Use full-fat coconut milk for a creamy texture; shake the can before measuring."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ट्रॉपिकल स्मूदी",
+      "ingredients": [
+        "पके अनानास का गूदा",
+        "पके आम का गूदा",
+        "पका केला",
+        "ठंडा नारियल दूध",
+        "नीबू का रस",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "अनानास का सख्त बीच निकालें, अनानास और आम काटें और छिला केला काटें; फल अच्छी तरह ठंडे करें।",
+        "अनानास और आम को आधे नारियल दूध के साथ अनानास के रेशे पूरी तरह पिसने तक ब्लेंड करें।",
+        "केला, बचा नारियल दूध और नीबू रस डालकर चिकना करें, फिर बर्फ के साथ थोड़ी देर चलाकर झागदार बनाएँ।",
+        "गाढ़ी और ठंडी रहते चार ठंडे गिलासों में डालकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "क्रीमी बनावट के लिए गाढ़ा नारियल दूध लें; नापने से पहले डिब्बा हिलाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટ્રોપિકલ સ્મૂધી",
+      "ingredients": [
+        "પાકા અનાનસનો ગૂદો",
+        "પાકી કેરીનો ગૂદો",
+        "પાકું કેળું",
+        "ઠંડું નાળિયેરનું દૂધ",
+        "લીંબુનો રસ",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "અનાનસનો કઠણ મધ્ય ભાગ કાઢો, અનાનસ અને કેરી સમારો અને છોલેલું કેળું કાપો; ફળ સારી રીતે ઠંડાં કરો.",
+        "અનાનસ અને કેરીને અડધા નાળિયેરના દૂધ સાથે અનાનસના રેસા પૂરેપૂરા પિસાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "કેળું, બાકી નાળિયેરનું દૂધ અને લીંબુનો રસ ઉમેરી મસૃણ કરો, પછી બરફ સાથે થોડું ફેરવી ફીણવાળું બનાવો.",
+        "ઘટ્ટ અને ઠંડું હોય ત્યારે ચાર ઠંડા ગ્લાસમાં રેડી તરત પીરસો."
+      ],
+      "tips": [
+        "મલાઈદાર બનાવટ માટે ભરપૂર ચરબીવાળું નાળિયેરનું દૂધ લો; માપતાં પહેલાં ડબ્બો હલાવો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tropical-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

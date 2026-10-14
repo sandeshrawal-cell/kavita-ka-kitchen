@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R1709",
+  "id": "eggless-chocolate-truffle-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Chocolate Truffle Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 105,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 125,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 105,
+      "unit": "g"
+    },
+    {
+      "name": "milk for sponge",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "dark chocolate",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "cream for ganache",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "milk for soaking",
+      "qty": 45,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm round tin. Sift flour, cocoa, baking powder and soda; whisk sugar, yogurt, sponge milk, oil and vanilla separately.",
+    "Fold dry mix into wet, pour into the tin and bake 30–35 minutes until a skewer comes out clean. Cool completely, then split into two layers.",
+    "Chop chocolate finely. Heat ganache cream until steaming, pour over chocolate, rest 2 minutes and stir from the centre to a glossy smooth ganache; cool until spreadable.",
+    "Brush both cake layers with soaking milk. Spread one third of ganache between them, coat top and sides with the rest, then refrigerate for at least 30 minutes before serving."
+  ],
+  "tips": [
+    "Let the ganache thicken at room temperature before spreading, so it does not run off the cake."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का चॉकलेट ट्रफल केक",
+      "ingredients": [
+        "मैदा",
+        "बिना चीनी का कोको पाउडर",
+        "बारीक चीनी",
+        "सादा दही",
+        "स्पॉन्ज के लिए दूध",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "वैनिला अर्क",
+        "डार्क चॉकलेट",
+        "गनाश के लिए क्रीम",
+        "भिगोने के लिए दूध"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी गोल टिन में पेपर लगाएँ। मैदा, कोको, बेकिंग पाउडर और सोडा छानें; चीनी, दही, स्पॉन्ज का दूध, तेल और वैनिला अलग फेंटें।",
+        "सूखी सामग्री गीले मिश्रण में मिलाएँ, टिन में डालें और सींक साफ आने तक 30–35 मिनट बेक करें। पूरी तरह ठंडा कर दो परतें काटें।",
+        "चॉकलेट बारीक काटें। गनाश की क्रीम भाप उठने तक गरम कर चॉकलेट पर डालें, 2 मिनट रखकर बीच से चलाएँ ताकि चमकदार चिकना गनाश बने; फैलाने योग्य होने तक ठंडा करें।",
+        "दोनों केक परतों पर भिगोने वाला दूध लगाएँ। एक तिहाई गनाश बीच में भरें, बाकी से ऊपर और किनारे ढकें, फिर परोसने से पहले कम से कम 30 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "गनाश लगाने से पहले कमरे के तापमान पर गाढ़ा होने दें ताकि केक से बह न जाए।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની ચોકલેટ ટ્રફલ કેક",
+      "ingredients": [
+        "મેંદો",
+        "ખાંડ વગરનો કોકો પાઉડર",
+        "ઝીણી ખાંડ",
+        "સાદું દહીં",
+        "સ્પોન્જ માટે દૂધ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "વેનીલા એસેન્સ",
+        "ડાર્ક ચોકલેટ",
+        "ગનાશ માટે ક્રીમ",
+        "પલાળવા માટે દૂધ"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી ગોળ ટિનમાં પેપર પાથરો. મેંદો, કોકો, બેકિંગ પાઉડર અને સોડા ચાળો; ખાંડ, દહીં, સ્પોન્જનું દૂધ, તેલ અને વેનીલા અલગ ફેંટો.",
+        "સૂકી સામગ્રી ભીના મિશ્રણમાં ભેળવો, ટિનમાં નાખો અને સળી ચોખ્ખી નીકળે ત્યાં સુધી 30–35 મિનિટ બેક કરો. પૂરેપૂરું ઠંડું કરી બે પડ કાપો.",
+        "ચોકલેટ ઝીણી સમારો. ગનાશની ક્રીમમાંથી વરાળ નીકળે ત્યાં સુધી ગરમ કરી ચોકલેટ પર રેડો, 2 મિનિટ રાખી વચ્ચેથી હલાવો જેથી ચમકતો મસૃણ ગનાશ બને; પાથરી શકાય એટલું ઠંડું કરો.",
+        "બંને કેક પડ પર પલાળવાનું દૂધ લગાવો. એક તૃતીયાંશ ગનાશ વચ્ચે ભરો, બાકીના વડે ઉપર અને બાજુઓ ઢાંકો, પછી પીરસતાં પહેલાં ઓછામાં ઓછું 30 મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "ગનાશ લગાવતાં પહેલાં રૂમના તાપમાને ઘટ્ટ થવા દો જેથી કેક પરથી વહી ન જાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-chocolate-truffle-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

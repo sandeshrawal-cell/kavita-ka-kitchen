@@ -1,0 +1,92 @@
+{
+  "sourceReviewId": "R0617",
+  "id": "muddha-pappu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Muddha Pappu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse toor dal several times until the water is mostly clear; drain well.",
+    "Put dal, turmeric and water in a pressure cooker. Cook 3–4 whistles, then let the pressure fall naturally so the grains become completely soft.",
+    "Mash the dal thoroughly with a whisk into a thick, smooth mound; simmer uncovered 3–4 minutes if too loose.",
+    "Stir in salt and ghee just before serving. Spoon onto hot rice; mix at the table rather than making a runny dal."
+  ],
+  "tips": [
+    "Muddha pappu is intentionally thick; serve with rice, ghee and pickle."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मुद्धा पप्पू",
+      "ingredients": [
+        "अरहर दाल",
+        "हल्दी",
+        "घी",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "अरहर दाल कई बार धोएँ जब तक पानी लगभग साफ़ हो; अच्छी तरह छानें।",
+        "दाल, हल्दी और पानी कुकर में डालें। 3–4 सीटी पकाकर प्रेशर अपने आप उतरने दें ताकि दाने पूरी तरह नरम हों।",
+        "दाल को रई से खूब मसलकर गाढ़ा, चिकना ढेर जैसा बनाएँ; पतली हो तो बिना ढके 3–4 मिनट पकाएँ।",
+        "परोसते समय नमक और घी मिलाएँ। गरम चावल पर डालें; दाल पतली करने के बजाय परोसते समय चावल में मिलाएँ।"
+      ],
+      "tips": [
+        "मुद्धा पप्पू जानबूझकर गाढ़ा होता है; चावल, घी और अचार के साथ दें।"
+      ]
+    },
+    "gu": {
+      "name": "મુદ્ધા પપ્પુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "હળદર",
+        "ઘી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "તુવેર દાળ વારંવાર ધુઓ જ્યાં સુધી પાણી લગભગ ચોખ્ખું થાય; સારી રીતે નીતારો.",
+        "દાળ, હળદર અને પાણી કૂકરમાં નાખો. 3–4 સીટી રાંધી દબાણ આપોઆપ ઉતરવા દો જેથી દાણા પૂરા નરમ થાય.",
+        "દાળ રવૈયાથી સારી રીતે મસળી ઘટ્ટ, લીસા ઢગલા જેવી બનાવો; પાતળી હોય તો ઢાંકણ વિના 3–4 મિનિટ પકાવો.",
+        "પીરસતી વખતે મીઠું અને ઘી ભેળવો. ગરમ ભાત પર નાખો; દાળ પાતળી કરવાની બદલે પીરસતી વખતે ભાતમાં ભેળવો."
+      ],
+      "tips": [
+        "મુદ્ધા પપ્પુ ઈરાદાપૂર્વક ઘટ્ટ હોય છે; ભાત, ઘી અને અથાણા સાથે પીરસો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/muddha-pappu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

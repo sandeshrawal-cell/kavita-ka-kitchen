@@ -1,0 +1,155 @@
+{
+  "sourceReviewId": "R0611",
+  "id": "majjige-huli",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Majjige Huli",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "ash gourd",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coconut",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "split chana dal",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak chana dal 30 minutes. Peel, deseed and cube ash gourd; cook in 200 ml water with turmeric and salt for 12–15 minutes until just tender.",
+    "Grind drained dal with coconut, chillies, ginger, cumin and remaining water to a smooth paste. Whisk yogurt separately until smooth.",
+    "Stir the paste into the cooked gourd and simmer 5 minutes. Turn heat very low, add yogurt and warm gently without boiling so it stays smooth.",
+    "Heat oil in a small pan; crackle mustard, asafoetida and curry leaves. Pour the hot tempering over the huli and serve with rice."
+  ],
+  "tips": [
+    "Never boil the curry after adding yogurt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मज्जिगे हुली",
+      "ingredients": [
+        "सफेद पेठा",
+        "सादा दही",
+        "ताज़ा नारियल",
+        "चना दाल",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "राई",
+        "कड़ी पत्ता",
+        "हल्दी",
+        "हींग",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चना दाल 30 मिनट भिगोएँ। पेठा छीलकर बीज हटाएँ और टुकड़े करें; 200 मि.ली. पानी, हल्दी और नमक में 12–15 मिनट नरम होने तक पकाएँ।",
+        "भीगी दाल छानकर नारियल, मिर्च, अदरक, जीरा और बचा पानी मिलाकर चिकना पीसें। दही अलग फेंटें।",
+        "पका पेठा में पिसा मसाला मिलाकर 5 मिनट पकाएँ। आँच बहुत कम कर दही डालें और उबाल आए बिना गरम करें ताकि फटे नहीं।",
+        "छोटी कड़ाही में तेल गरम कर राई, हींग और कड़ी पत्ता चटकाएँ। तड़का हुली पर डालकर चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "दही डालने के बाद करी को न उबालें।"
+      ]
+    },
+    "gu": {
+      "name": "મજ્જિગે હુળી",
+      "ingredients": [
+        "કોળું",
+        "સાદું દહીં",
+        "તાજું નાળિયેર",
+        "ચણા દાળ",
+        "લીલાં મરચાં",
+        "આદુ",
+        "જીરું",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર",
+        "હિંગ",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચણા દાળ 30 મિનિટ પલાળો. કોળું છોલી બી કાઢી ટુકડા કરો; 200 મિ.લી. પાણી, હળદર અને મીઠામાં 12–15 મિનિટ નરમ થાય ત્યાં સુધી પકાવો.",
+        "પલાળેલી દાળ નીતારી નાળિયેર, મરચાં, આદુ, જીરું અને બાકી પાણી સાથે લીસું પીસો. દહીં અલગ ફેંટો.",
+        "પાકેલા કોળામાં પીસેલો મસાલો ઉમેરી 5 મિનિટ પકાવો. તાપ ખૂબ ઓછો કરી દહીં ઉમેરી ઉકાળો આવ્યા વિના ગરમ કરો જેથી ફાટે નહીં.",
+        "નાની વઘારિયામાં તેલ ગરમ કરી રાઈ, હિંગ અને મીઠા લીમડાનાં પાન તતડાવો. વઘાર હુળીમાં નાખી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "દહીં ઉમેર્યા પછી કઢીને ઉકાળશો નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/majjige-huli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

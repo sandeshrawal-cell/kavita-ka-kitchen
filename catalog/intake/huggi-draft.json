@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R0912",
+  "id": "huggi",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Huggi",
+  "cuisine": "North Karnataka",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "split yellow moong dal",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1100,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the rice and moong dal together until the water runs clear, then drain them well.",
+    "Toast the moong dal gently in a heavy pot until fragrant without browning, and add the rice, water and salt.",
+    "Cook covered over a gentle heat, stirring occasionally, until the grains soften into a loose savory porridge.",
+    "Heat ghee separately; sizzle cumin, crushed pepper, ginger, cashews and curry leaves, then fold this tempering through the hot huggi."
+  ],
+  "tips": [
+    "Keep it spoonable with a splash of hot water if it thickens while standing."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कर्नाटक की नमकीन हुग्गी",
+      "ingredients": [
+        "चावल",
+        "धुली मूंग दाल",
+        "पानी",
+        "घी",
+        "जीरा",
+        "काली मिर्च साबुत",
+        "अदरक",
+        "काजू",
+        "कड़ी पत्ते",
+        "नमक"
+      ],
+      "steps": [
+        "चावल और मूंग दाल को पानी साफ होने तक साथ धोकर अच्छी तरह छान लें।",
+        "भारी बर्तन में मूंग दाल को बिना रंग बदले खुशबू आने तक हल्का भूनें; चावल, पानी और नमक मिलाएँ।",
+        "ढककर धीमी आँच पर बीच-बीच में चलाते हुए दाने नरम और खिचड़ी ढीली होने तक पकाएँ।",
+        "अलग घी में जीरा, कुटी काली मिर्च, अदरक, काजू और कड़ी पत्ते चटकाएँ; गरम हुग्गी में तड़का मिलाएँ।"
+      ],
+      "tips": [
+        "रखने से गाढ़ी हो जाए तो थोड़ा गरम पानी मिलाकर चम्मच से खाने लायक रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કર્ણાટકની ખારી હુગ્ગી",
+      "ingredients": [
+        "ચોખા",
+        "પીળી મગની દાળ",
+        "પાણી",
+        "ઘી",
+        "જીરું",
+        "આખા કાળા મરી",
+        "આદુ",
+        "કાજુ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચોખા અને મગની દાળનું પાણી ચોખ્ખું થાય ત્યાં સુધી સાથે ધોઈને સારી રીતે નીતારી લો.",
+        "જાડા તળિયાવાળા વાસણમાં દાળને રંગ બદલ્યા વિના સુગંધ આવે ત્યાં સુધી શેકો; ચોખા, પાણી અને મીઠું ઉમેરો.",
+        "ઢાંકીને ધીમી આંચે વચ્ચે હલાવતા દાણા નરમ થઈ ઢીલી ખીચડી બને ત્યાં સુધી રાંધો.",
+        "અલગ ઘીમાં જીરું, ખાંડી મરી, આદુ, કાજુ અને મીઠો લીમડો વઘારો; ગરમ હુગ્ગીમાં વઘાર ભેળવો."
+      ],
+      "tips": [
+        "ઊભું રહેતાં ઘટ્ટ થાય તો થોડું ગરમ પાણી ઉમેરી ચમચીથી ખાઈ શકાય એવી રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://karnatakatourism.org/wp-content/uploads/2020/05/Karnataka-Cuisine.pdf"
+  },
+  "photoDraft": "catalog/intake/photos/huggi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

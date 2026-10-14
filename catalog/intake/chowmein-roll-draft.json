@@ -1,0 +1,156 @@
+{
+  "sourceReviewId": "R1407",
+  "id": "chowmein-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Chowmein Roll",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 145,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless wheat noodles",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "red chilli sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead wheat flour with water and a little salt; rest and cook thin flexible flatbreads on a hot skillet.",
+    "Boil eggless noodles until just tender, drain and rinse briefly to stop cooking, then toss with a little oil.",
+    "Shred cabbage, carrot and pepper; stir-fry garlic and spring onion whites in a very hot wok, then add vegetables and keep them crisp.",
+    "Add noodles, soy sauce, vinegar, chilli sauce and pepper; toss over high heat until evenly coated and dry enough for wrapping.",
+    "Place a neat mound of hot chowmein on each flatbread, add spring onion greens, fold the ends and roll tightly."
+  ],
+  "tips": [
+    "Use explicitly eggless noodles and avoid overcooking them, or the roll will turn soft and sticky."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चाउमीन रोल",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "अंडारहित गेहूँ नूडल्स",
+        "पत्ता गोभी",
+        "गाजर",
+        "हरी शिमला मिर्च",
+        "हरा प्याज़",
+        "लहसुन",
+        "हल्का सोया सॉस",
+        "चावल का सिरका",
+        "लाल चिली सॉस",
+        "सादा तेल",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "आटे को पानी और थोड़ा नमक डालकर गूँधें; आराम देकर गरम तवे पर पतली लचीली रोटियाँ सेकें।",
+        "अंडारहित नूडल्स बस नरम होने तक उबालें, छानकर पकना रोकने को जल्दी धोएँ और थोड़ा तेल लगाएँ।",
+        "गोभी, गाजर और शिमला मिर्च पतली काटें; बहुत गरम कड़ाही में लहसुन और हरे प्याज़ का सफेद भाग भूनें, फिर सब्ज़ियाँ कुरकुरी रखें।",
+        "नूडल्स, सोया सॉस, सिरका, चिली सॉस और काली मिर्च डालकर तेज़ आँच पर सूखा व समान लिपटने तक उछालें।",
+        "हर रोटी पर गरम चाउमीन रखें, हरे प्याज़ के पत्ते डालें, सिरों को मोड़कर कसकर रोल करें।"
+      ],
+      "tips": [
+        "साफ़ तौर पर अंडारहित नूडल्स लें और अधिक न पकाएँ, वरना रोल नरम व चिपचिपा हो जाएगा।"
+      ]
+    },
+    "gu": {
+      "name": "ચાઉમીન રોલ",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "ઈંડા વગરના ઘઉંના નૂડલ્સ",
+        "કોબીજ",
+        "ગાજર",
+        "લીલા શિમલા મરચાં",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "હળવો સોયા સોસ",
+        "ચોખાનો વિનેગર",
+        "લાલ ચિલી સોસ",
+        "સાદું તેલ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "લોટને પાણી અને થોડા મીઠાથી બાંધો; આરામ આપીને ગરમ તવા પર પાતળી નરમ રોટલી શેકો.",
+        "ઈંડા વગરના નૂડલ્સ માત્ર નરમ થાય ત્યાં સુધી બાફો, નીતારીને રાંધવું અટકાવવા ઝટપટ ધોઈ થોડું તેલ લગાવો.",
+        "કોબીજ, ગાજર અને શિમલા મરચાં પાતળાં કાપો; ખૂબ ગરમ કડાઈમાં લસણ અને લીલી ડુંગળીનો સફેદ ભાગ સાંતળો, પછી શાક કરકરાં રાખો.",
+        "નૂડલ્સ, સોયા સોસ, વિનેગર, ચિલી સોસ અને મરી નાખી ઊંચા તાપે સૂકા અને સરખા લપેટાય ત્યાં સુધી ઉછાળો.",
+        "દરેક રોટલી પર ગરમ ચાઉમીન મૂકો, લીલી ડુંગળીનાં પાન નાખો, છેડા વાળી કસીને રોલ કરો."
+      ],
+      "tips": [
+        "સ્પષ્ટપણે ઈંડા વગરના નૂડલ્સ લો અને વધુ ન રાંધો, નહીં તો રોલ નરમ અને ચીકણો થશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/chowmein-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

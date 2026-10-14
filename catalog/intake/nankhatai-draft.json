@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R1703",
+  "id": "nankhatai",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Nankhatai",
+  "cuisine": "Indian",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fine semolina",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "powdered sugar",
+      "qty": 105,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "pistachios",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 165°C and line a baking tray. Sift flour, gram flour, semolina, baking powder, cardamom and salt together.",
+    "Beat softened ghee with powdered sugar until pale and fluffy. Fold in the dry mixture just until it forms a soft dough; do not knead.",
+    "Shape 12 small balls, flatten gently and space them apart on the tray. Press a little chopped pistachio onto each top.",
+    "Bake 16–20 minutes until the edges are lightly golden, while the centres still look pale. Rest on the tray for 10 minutes before moving to a rack to cool fully."
+  ],
+  "tips": [
+    "Nankhatai firms up as it cools; moving it hot can make it crumble."
+  ],
+  "translations": {
+    "hi": {
+      "name": "नानखटाई",
+      "ingredients": [
+        "मैदा",
+        "बेसन",
+        "बारीक सूजी",
+        "घी",
+        "पिसी चीनी",
+        "बेकिंग पाउडर",
+        "पिसी इलायची",
+        "पिस्ता",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 165°C पर गरम करके ट्रे पर बेकिंग पेपर बिछाएँ। मैदा, बेसन, सूजी, बेकिंग पाउडर, इलायची और नमक साथ छानें।",
+        "नरम घी और पिसी चीनी हल्की और फूली होने तक फेंटें। सूखी सामग्री मिलाकर नरम आटा बनाएँ; गूँधें नहीं।",
+        "12 छोटे गोले बनाकर हल्के से चपटे करें और ट्रे पर दूर-दूर रखें। हर एक पर थोड़ा कटा पिस्ता दबाएँ।",
+        "किनारे हल्के सुनहरे और बीच का भाग फीका रहते 16–20 मिनट बेक करें। जाली पर रखने से पहले 10 मिनट ट्रे पर ही ठंडा करें।"
+      ],
+      "tips": [
+        "नानखटाई ठंडी होकर सख्त होती है; गरम अवस्था में उठाने से टूट सकती है।"
+      ]
+    },
+    "gu": {
+      "name": "નાનખટાઈ",
+      "ingredients": [
+        "મેંદો",
+        "ચણાનો લોટ",
+        "ઝીણો રવો",
+        "ઘી",
+        "દળેલી ખાંડ",
+        "બેકિંગ પાઉડર",
+        "ઈલાયચીનો ભૂકો",
+        "પિસ્તા",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 165°C પર ગરમ કરી ટ્રે પર બેકિંગ પેપર પાથરો. મેંદો, ચણાનો લોટ, રવો, બેકિંગ પાઉડર, ઈલાયચી અને મીઠું સાથે ચાળો.",
+        "નરમ ઘી અને દળેલી ખાંડ હળવા અને ફૂલેલા થાય ત્યાં સુધી ફેંટો. સૂકી સામગ્રી ભેળવી નરમ લોટ બનાવો; મસળશો નહીં.",
+        "12 નાના ગોળા બનાવી હળવેથી ચપટા કરો અને ટ્રે પર અંતરે મૂકો. દરેક પર થોડો સમારેલો પિસ્તો દબાવો.",
+        "કિનારી આછા સોનેરી અને મધ્ય ભાગ ફિક્કો રહે ત્યાં સુધી 16–20 મિનિટ બેક કરો. જાળી પર મૂકતાં પહેલાં 10 મિનિટ ટ્રે પર જ ઠંડું થવા દો."
+      ],
+      "tips": [
+        "નાનખટાઈ ઠંડી થતાં મજબૂત બને છે; ગરમ હોય ત્યારે ઉપાડવાથી ભાંગી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/nankhatai.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

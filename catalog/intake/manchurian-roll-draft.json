@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R1406",
+  "id": "manchurian-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Manchurian Roll",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "light soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "red chilli sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead wheat flour and water with a little salt; rest, then roll and cook flexible flatbreads on a hot skillet.",
+    "Shred cabbage and carrot very finely and squeeze out moisture; combine with plain flour, half the cornflour and salt to make a firm mixture.",
+    "Shape small vegetable balls and fry in hot oil until golden and cooked through; drain them thoroughly.",
+    "Stir-fry garlic, ginger, spring onion whites and bell pepper in a little frying oil; add soy, chilli sauce and ketchup.",
+    "Slurry the remaining cornflour with a splash of water, add it to the pan and simmer until glossy; toss in the fried balls just before filling.",
+    "Scatter spring onion greens over the Manchurian, spoon it onto the warm flatbreads, fold the sides and roll firmly."
+  ],
+  "tips": [
+    "Make a thick coating sauce rather than a watery gravy so the Manchurian stays inside the wrap."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मंचूरियन रोल",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "पत्ता गोभी",
+        "गाजर",
+        "मैदा",
+        "कॉर्नफ्लोर",
+        "हरा प्याज़",
+        "लहसुन",
+        "अदरक",
+        "हरी शिमला मिर्च",
+        "हल्का सोया सॉस",
+        "लाल चिली सॉस",
+        "टमाटर केचप",
+        "तलने का तेल",
+        "नमक"
+      ],
+      "steps": [
+        "गेहूँ का आटा पानी और थोड़ा नमक डालकर गूँधें; आराम देकर पतली लचीली रोटियाँ गरम तवे पर सेकें।",
+        "पत्ता गोभी और गाजर बहुत बारीक काटकर नमी निचोड़ें; मैदा, आधा कॉर्नफ्लोर और नमक मिलाकर कसा मिश्रण बनाएँ।",
+        "सब्ज़ियों के छोटे गोले बनाकर गरम तेल में सुनहरे और भीतर तक पके होने तक तलें; अच्छी तरह छानें।",
+        "थोड़े तलने के तेल में लहसुन, अदरक, हरे प्याज़ का सफेद भाग और शिमला मिर्च भूनें; सोया, चिली सॉस और केचप डालें।",
+        "बचे कॉर्नफ्लोर को थोड़े पानी में घोलकर पैन में डालें और चमकदार गाढ़ा करें; रोटियाँ भरने से ठीक पहले तले गोले मिलाएँ।",
+        "मंचूरियन पर हरे प्याज़ के पत्ते डालें, गरम रोटियों पर रखें, किनारे मोड़कर कसकर रोल करें।"
+      ],
+      "tips": [
+        "पानीदार ग्रेवी के बजाय गाढ़ी लिपटने वाली सॉस बनाएँ ताकि मंचूरियन रोल के भीतर रहे।"
+      ]
+    },
+    "gu": {
+      "name": "મંચુરિયન રોલ",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "કોબીજ",
+        "ગાજર",
+        "મેંદો",
+        "કોર્નફ્લોર",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "આદુ",
+        "લીલા શિમલા મરચાં",
+        "હળવો સોયા સોસ",
+        "લાલ ચિલી સોસ",
+        "ટામેટાં કેચપ",
+        "તળવાનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઘઉંનો લોટ પાણી અને થોડું મીઠું નાખી બાંધો; આરામ આપી પાતળી નરમ રોટલી ગરમ તવા પર શેકો.",
+        "કોબીજ અને ગાજર ખૂબ ઝીણાં કાપી પાણી નિચોવો; મેંદો, અડધો કોર્નફ્લોર અને મીઠું ભેળવી કડક મિશ્રણ બનાવો.",
+        "શાકના નાના ગોળા વાળી ગરમ તેલમાં સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો; સારી રીતે નીતારો.",
+        "થોડા તળવાના તેલમાં લસણ, આદુ, લીલી ડુંગળીનો સફેદ ભાગ અને શિમલા મરચાં સાંતળો; સોયા, ચિલી સોસ અને કેચપ ઉમેરો.",
+        "બાકીનો કોર્નફ્લોર થોડા પાણીમાં ઘોળીને કડાઈમાં નાખો અને ચમકદાર ઘટ્ટ કરો; રોટલી ભરતા પહેલાં જ તળેલા ગોળા ભેળવો.",
+        "મંચુરિયન પર લીલી ડુંગળીના પાન નાખો, ગરમ રોટલી પર મૂકો, કિનારીઓ વાળી કસીને રોલ કરો."
+      ],
+      "tips": [
+        "પાણીદાર ગ્રેવીને બદલે ઘટ્ટ ચોંટે એવો સોસ બનાવો જેથી મંચુરિયન રોલની અંદર રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/manchurian-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

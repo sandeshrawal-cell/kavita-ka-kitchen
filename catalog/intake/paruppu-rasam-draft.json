@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1013",
+  "id": "paruppu-rasam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Paruppu Rasam",
+  "cuisine": "Tamil",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1050,
+      "unit": "ml"
+    },
+    {
+      "name": "rasam powder",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dry red chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook the toor dal with turmeric until very soft; mash it smooth and reserve its cooking liquid.",
+    "Boil chopped tomatoes with tamarind water, rasam powder and salt until the tomatoes lose their raw taste.",
+    "Stir in the dal and enough reserved liquid to make a light broth; heat only until a foamy layer rises.",
+    "Temper mustard, cumin, red chilli and curry leaves in ghee, pour over the rasam and finish with coriander."
+  ],
+  "tips": [
+    "The dal gives this rasam body; dilute it enough to pour easily over rice."
+  ],
+  "translations": {
+    "hi": {
+      "name": "परुप्पु रसम",
+      "ingredients": [
+        "अरहर दाल",
+        "टमाटर",
+        "इमली का गूदा",
+        "पानी",
+        "रसम पाउडर",
+        "हल्दी",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "अरहर दाल को हल्दी के साथ बहुत नरम पकाकर चिकना मसलें और उसका पानी बचा रखें।",
+        "कटे टमाटर इमली के पानी, रसम पाउडर और नमक के साथ कच्चापन मिटने तक उबालें।",
+        "मसली दाल और बचाया पानी मिलाकर हल्का शोरबा बनाएँ; केवल झाग उठने तक गरम करें।",
+        "घी में राई, जीरा, सूखी मिर्च और कड़ी पत्ते चटकाकर रसम पर डालें; ऊपर से धनिया डालें।"
+      ],
+      "tips": [
+        "दाल रसम को गाढ़ापन देती है; इतना पतला रखें कि चावल पर आसानी से डाल सकें।"
+      ]
+    },
+    "gu": {
+      "name": "પરુપ્પુ રસમ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "ટામેટાં",
+        "આમલીનો માવો",
+        "પાણી",
+        "રસમ પાઉડર",
+        "હળદર",
+        "રાઈ",
+        "જીરું",
+        "સૂકું લાલ મરચું",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "તુવેર દાળને હળદર સાથે ખૂબ નરમ રાંધી મસળો અને તેનું પાણી સાચવો.",
+        "કાપેલા ટામેટાંને આમલીના પાણી, રસમ પાઉડર અને મીઠા સાથે કાચો સ્વાદ જાય ત્યાં સુધી ઉકાળો.",
+        "મસળેલી દાળ અને સાચવેલું પાણી ઉમેરી પાતળું શોરબું બનાવો; ઉપર ફીણ આવે ત્યાં સુધી જ ગરમ કરો.",
+        "ઘીમાં રાઈ, જીરું, સૂકું મરચું અને મીઠો લીમડો વઘારી રસમ પર રેડો; ઉપર ધાણા નાખો."
+      ],
+      "tips": [
+        "દાળ રસમને ઘાટ આપે છે; ચોખા પર સરળતાથી રેડી શકાય એટલું પાતળું રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paruppu-rasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

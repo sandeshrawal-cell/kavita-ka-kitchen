@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1907",
+  "id": "peanut-butter-oat-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Peanut Butter Oat Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "ripe bananas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened peanut butter",
+      "qty": 95,
+      "unit": "g"
+    },
+    {
+      "name": "pitted dates",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak oats and chopped dates in 220 ml milk for 10 minutes to soften both; peel and slice bananas.",
+    "Blend the soaked oats, dates and their milk until the oats are very fine and no date chunks remain.",
+    "Add banana, peanut butter, cinnamon and remaining 200 ml milk; blend until creamy, then pulse briefly with the ice.",
+    "Pour into four glasses and serve straight away; stir if the oats settle as the smoothie stands."
+  ],
+  "tips": [
+    "Use unsweetened peanut butter so the dates control the sweetness; this drink contains peanuts."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पीनट बटर ओट स्मूदी",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "ठंडा दूध",
+        "पके केले",
+        "बिना चीनी का पीनट बटर",
+        "गुठली निकले खजूर",
+        "पिसी दालचीनी",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "ओट्स और कटे खजूर को 220 मिली दूध में 10 मिनट नरम करने के लिए भिगोएँ; केले छीलकर काटें।",
+        "भीगे ओट्स, खजूर और उनका दूध इतना ब्लेंड करें कि ओट्स बारीक हों और खजूर के टुकड़े न रहें।",
+        "केला, पीनट बटर, दालचीनी और बचा 200 मिली दूध डालें; क्रीमी होने तक चलाएँ, फिर बर्फ के साथ थोड़ी देर ब्लेंड करें।",
+        "चार गिलासों में डालकर तुरंत परोसें; खड़े रहने पर ओट्स बैठें तो चला लें।"
+      ],
+      "tips": [
+        "बिना चीनी का पीनट बटर लें ताकि मिठास खजूर से आए; इस पेय में मूँगफली है।"
+      ]
+    },
+    "gu": {
+      "name": "પીનટ બટર ઓટ્સ સ્મૂધી",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "ઠંડું દૂધ",
+        "પાકાં કેળાં",
+        "ખાંડ વગરનું પીનટ બટર",
+        "બી કાઢેલી ખજૂર",
+        "તજનો ભૂકો",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "ઓટ્સ અને સમારેલી ખજૂરને 220 મિલી દૂધમાં 10 મિનિટ નરમ કરવા પલાળો; કેળાં છોલી સમારો.",
+        "પલાળેલા ઓટ્સ, ખજૂર અને તેનું દૂધ એટલું બ્લેન્ડ કરો કે ઓટ્સ ઝીણા થાય અને ખજૂરના ટુકડા ન રહે.",
+        "કેળાં, પીનટ બટર, તજ અને બાકી 200 મિલી દૂધ ઉમેરો; મલાઈદાર થાય ત્યાં સુધી ફેરવો, પછી બરફ સાથે થોડું બ્લેન્ડ કરો.",
+        "ચાર ગ્લાસમાં રેડી તરત પીરસો; ઊભું રહેતાં ઓટ્સ નીચે બેસે તો હલાવી લો."
+      ],
+      "tips": [
+        "ખાંડ વગરનું પીનટ બટર લો જેથી મીઠાશ ખજૂરમાંથી આવે; આ પીણામાં મગફળી છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/peanut-butter-oat-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

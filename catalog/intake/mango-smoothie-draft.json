@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R1901",
+  "id": "mango-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Mango Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "ripe mango flesh",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "honey",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel the mango, cut the flesh from the stone and chill or freeze the cubes for 10 minutes.",
+    "Put mango, yogurt and milk into a blender; blend until completely smooth with no fibres or lumps.",
+    "Add honey and cardamom, taste for sweetness and blend briefly with the ice until thick and frothy.",
+    "Pour into four cold glasses and serve immediately, before the ice melts and thins the smoothie."
+  ],
+  "tips": [
+    "Very sweet mangoes may need little or no honey; taste before adding it all."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आम स्मूदी",
+      "ingredients": [
+        "पके आम का गूदा",
+        "सादा दही",
+        "ठंडा दूध",
+        "शहद",
+        "पिसी इलायची",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "आम छीलकर गुठली से गूदा अलग करें और टुकड़े 10 मिनट ठंडे या फ्रीज़ करें।",
+        "आम, दही और दूध ब्लेंडर में डालकर रेशे या गुठलियाँ न रहने तक पीसें।",
+        "शहद और इलायची डालें, मिठास चखें और बर्फ के साथ थोड़ी देर गाढ़ा और झागदार होने तक चलाएँ।",
+        "चार ठंडे गिलासों में डालकर बर्फ पिघलकर स्मूदी पतली होने से पहले तुरंत परोसें।"
+      ],
+      "tips": [
+        "बहुत मीठे आम में कम या बिल्कुल शहद न चाहिए; पूरा डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "કેરીની સ્મૂધી",
+      "ingredients": [
+        "પાકી કેરીનો ગૂદો",
+        "સાદું દહીં",
+        "ઠંડું દૂધ",
+        "મધ",
+        "ઈલાયચીનો ભૂકો",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "કેરી છોલી ગોટલાથી ગૂદો અલગ કરો અને ટુકડા 10 મિનિટ ઠંડા અથવા ફ્રીઝ કરો.",
+        "કેરી, દહીં અને દૂધ બ્લેન્ડરમાં નાખી રેસા કે ગઠ્ઠા ન રહે ત્યાં સુધી પીસો.",
+        "મધ અને ઈલાયચી ઉમેરો, મીઠાશ ચાખો અને બરફ સાથે થોડું ઘટ્ટ અને ફીણવાળું થાય ત્યાં સુધી ફેરવો.",
+        "ચાર ઠંડા ગ્લાસમાં રેડી બરફ પીગળે અને સ્મૂધી પાતળી થાય તે પહેલાં તરત પીરસો."
+      ],
+      "tips": [
+        "ખૂબ મીઠી કેરીમાં થોડું અથવા બિલકુલ મધ ન જોઈએ; બધું ઉમેરતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mango-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

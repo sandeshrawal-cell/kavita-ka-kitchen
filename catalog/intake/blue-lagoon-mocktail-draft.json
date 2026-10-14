@@ -1,0 +1,90 @@
+{
+  "sourceReviewId": "R2103",
+  "id": "blue-lagoon-mocktail",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Blue Lagoon Mocktail",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "non-alcoholic blue curaçao syrup",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh lemon juice",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled lemonade",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "lemon slices",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Check that the blue curaçao syrup is labelled alcohol-free; chill the lemonade and cut four thin lemon slices.",
+    "In a jug, stir syrup and fresh lemon juice together until evenly blue and tart.",
+    "Divide ice among four glasses and pour the syrup mixture over it. Top each glass slowly with chilled lemonade to keep its bubbles.",
+    "Stir once, garnish with a lemon slice and serve immediately while sparkling."
+  ],
+  "tips": [
+    "Choose alcohol-free blue syrup, not alcoholic blue curaçao liqueur."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ब्लू लैगून मॉकटेल",
+      "ingredients": [
+        "बिना शराब वाला ब्लू कुरासाओ सिरप",
+        "ताज़ा नींबू का रस",
+        "ठंडा लेमनेड",
+        "बर्फ के टुकड़े",
+        "नींबू की फाँकें"
+      ],
+      "steps": [
+        "ब्लू कुरासाओ सिरप के लेबल पर शराब-मुक्त लिखा है यह जाँचें; लेमनेड ठंडा करें और नींबू की चार पतली फाँकें काटें।",
+        "जग में सिरप और ताज़ा नींबू रस समान नीला और खट्टा होने तक मिलाएँ।",
+        "बर्फ चार गिलासों में बाँटकर सिरप मिश्रण डालें। बुलबुले बनाए रखने के लिए हर गिलास में धीरे-धीरे ठंडा लेमनेड डालें।",
+        "एक बार चलाएँ, नींबू की फाँक सजाएँ और बुलबुले रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "शराब-मुक्त नीला सिरप लें, शराब वाला ब्लू कुरासाओ लिकर नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "બ્લૂ લગૂન મોકટેલ",
+      "ingredients": [
+        "આલ્કોહોલ વગરનો બ્લૂ કુરાસાઓ સિરપ",
+        "તાજો લીંબુનો રસ",
+        "ઠંડું લેમોનેડ",
+        "બરફના ટુકડા",
+        "લીંબુની ફાંકો"
+      ],
+      "steps": [
+        "બ્લૂ કુરાસાઓ સિરપના લેબલ પર આલ્કોહોલ વગરનું છે તે તપાસો; લેમોનેડ ઠંડું કરો અને લીંબુની ચાર પાતળી ફાંકો કાપો.",
+        "જગમાં સિરપ અને તાજો લીંબુનો રસ એકસરખું વાદળી અને ખાટું થાય ત્યાં સુધી ભેળવો.",
+        "બરફ ચાર ગ્લાસમાં વહેંચી સિરપનું મિશ્રણ રેડો. ફીણ જળવાય તે માટે દરેકમાં ધીમે ધીમે ઠંડું લેમોનેડ રેડો.",
+        "એક વાર હલાવો, લીંબુની ફાંક સજાવો અને ફીણ રહે ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "આલ્કોહોલ વગરનો વાદળી સિરપ લો, આલ્કોહોલવાળું બ્લૂ કુરાસાઓ લિકર નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/blue-lagoon-mocktail.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

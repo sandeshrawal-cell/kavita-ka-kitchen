@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R1101",
+  "id": "kachumber-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kachumber Salad",
+  "cuisine": "Indian",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "ripe tomatoes",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Wash and dry the cucumber and tomatoes, then dice them into small even pieces.",
+    "Finely dice onion and green chilli; chop the coriander leaves and combine them with the vegetables.",
+    "Whisk lemon juice with roasted cumin and salt until the salt dissolves.",
+    "Toss the dressing through the vegetables just before serving and drain any excess liquid from the bowl."
+  ],
+  "tips": [
+    "Salt at the last moment so the cucumber stays crisp instead of releasing water."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कचूमर सलाद",
+      "ingredients": [
+        "खीरा",
+        "पके टमाटर",
+        "लाल प्याज़",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "नींबू का रस",
+        "भुना जीरा पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "खीरे और टमाटर धोकर सुखाएँ, फिर उनके छोटे बराबर टुकड़े करें।",
+        "प्याज़ और हरी मिर्च बारीक काटें; धनिया काटकर सभी सब्ज़ियों में मिलाएँ।",
+        "नींबू के रस में भुना जीरा और नमक तब तक फेंटें जब तक नमक घुल जाए।",
+        "परोसने से ठीक पहले सब्ज़ियों में मसालेदार रस मिलाएँ और कटोरे का अतिरिक्त पानी निकाल दें।"
+      ],
+      "tips": [
+        "नमक अंत में डालें ताकि खीरा कुरकुरा रहे और पानी न छोड़े।"
+      ]
+    },
+    "gu": {
+      "name": "કચુંબર સલાડ",
+      "ingredients": [
+        "કાકડી",
+        "પાકેલા ટામેટાં",
+        "લાલ ડુંગળી",
+        "લીલું મરચું",
+        "લીલા ધાણા",
+        "લીંબુનો રસ",
+        "શેકેલા જીરાનો ભૂકો",
+        "મીઠું"
+      ],
+      "steps": [
+        "કાકડી અને ટામેટાં ધોઈ સુકવો, પછી નાના સરખા ટુકડા કરો.",
+        "ડુંગળી અને લીલું મરચું ઝીણું કાપો; ધાણા કાપીને બધાં શાકમાં ભેળવો.",
+        "લીંબુના રસમાં શેકેલું જીરું અને મીઠું ઓગળે ત્યાં સુધી ફેંટો.",
+        "પીરસતા પહેલાં જ મસાલેદાર રસ શાકમાં ભેળવો અને વાટકામાંનું વધારાનું પાણી કાઢી નાખો."
+      ],
+      "tips": [
+        "મીઠું છેલ્લે ઉમેરો જેથી કાકડી કરકરી રહે અને પાણી ન છોડે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kachumber-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1108",
+  "id": "russian-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Russian Salad",
+  "cuisine": "Global",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "carrots",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "apple",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dice potatoes and carrots uniformly, then boil them separately until just tender; drain and cool completely.",
+    "Blanch beans and peas until bright and tender, cool them under running water and drain well.",
+    "Dice the apple, then whisk eggless mayonnaise with yogurt, lemon juice, salt and pepper.",
+    "Fold the cool vegetables and apple through the dressing without mashing; chill before serving."
+  ],
+  "tips": [
+    "Dry and cool all cooked vegetables before dressing so the salad stays creamy rather than watery."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रशियन सलाद",
+      "ingredients": [
+        "आलू",
+        "गाजर",
+        "हरे मटर",
+        "हरी फलियाँ",
+        "सेब",
+        "अंडारहित मेयोनीज़",
+        "सादा दही",
+        "नींबू का रस",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "आलू और गाजर समान छोटे टुकड़ों में काटकर अलग-अलग बस नरम होने तक उबालें; पूरी तरह छानकर ठंडे करें।",
+        "फलियाँ और मटर हरे और नरम होने तक उबालें, बहते पानी में ठंडे करके अच्छी तरह छानें।",
+        "सेब के टुकड़े करें, फिर अंडारहित मेयोनीज़ में दही, नींबू रस, नमक और मिर्च फेंटें।",
+        "ठंडी सब्ज़ियों और सेब को बिना मसले ड्रेसिंग में मिलाएँ; परोसने से पहले ठंडा करें।"
+      ],
+      "tips": [
+        "ड्रेसिंग से पहले पकी सब्ज़ियाँ सुखाकर ठंडी करें ताकि सलाद पानीदार न हो।"
+      ]
+    },
+    "gu": {
+      "name": "રશિયન સલાડ",
+      "ingredients": [
+        "બટાકા",
+        "ગાજર",
+        "લીલા વટાણા",
+        "લીલા ફણસી",
+        "સફરજન",
+        "ઈંડા વગરનું મેયોનેઝ",
+        "સાદું દહીં",
+        "લીંબુનો રસ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા અને ગાજરના સરખા નાના ટુકડા કરી અલગથી માત્ર નરમ થાય ત્યાં સુધી બાફો; નીતારી સંપૂર્ણ ઠંડા કરો.",
+        "ફણસી અને વટાણા લીલા અને નરમ થાય ત્યાં સુધી બાફો, વહેતા પાણીમાં ઠંડા કરી સારી રીતે નીતારો.",
+        "સફરજન કાપો, પછી ઈંડા વગરના મેયોનેઝમાં દહીં, લીંબુનો રસ, મીઠું અને મરી ફેંટો.",
+        "ઠંડા શાક અને સફરજનને મસળ્યા વિના ડ્રેસિંગમાં ભેળવો; પીરસતાં પહેલાં ઠંડું કરો."
+      ],
+      "tips": [
+        "ડ્રેસિંગ કરતાં પહેલાં રાંધેલા શાક સુકવીને ઠંડા કરો જેથી સલાડ પાણીદાર ન થાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/russian-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

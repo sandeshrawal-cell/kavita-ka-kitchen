@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0901",
+  "id": "pasta-e-broccoli",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pasta e Broccoli",
+  "cuisine": "Italian",
+  "categories": [
+    "One-Pot Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "egg-free short dry pasta",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "broccoli",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "dried red chilli flakes",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut broccoli into small florets and slice the tender stems. Bring measured water to a boil with salt in a wide pot.",
+    "Add broccoli and boil 4 minutes. Add short pasta to the same pot and cook according to its packet until just al dente, stirring often; broccoli should begin to soften into the cooking water.",
+    "Meanwhile warm olive oil with sliced garlic and chilli flakes in a small pan on low heat until garlic is pale golden, not brown.",
+    "Reserve 200 ml cooking water, then drain pasta and broccoli. Return them to the pot with garlic oil; toss vigorously, adding reserved water as needed for a silky broccoli sauce. Finish with grated vegetarian cheese."
+  ],
+  "tips": [
+    "Use pasta with a similar cooking time to broccoli; the broccoli should partly melt into the sauce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पास्ता ए ब्रोकोली",
+      "ingredients": [
+        "बिना अंडे का छोटा सूखा पास्ता",
+        "ब्रोकोली",
+        "लहसुन",
+        "एक्स्ट्रा-वर्जिन ऑलिव ऑयल",
+        "सूखी लाल मिर्च के टुकड़े",
+        "शाकाहारी सख्त चीज़",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "ब्रोकोली के छोटे फूल करें और नरम डंठल काटें। चौड़े बर्तन में नापा पानी और नमक उबालें।",
+        "ब्रोकोली 4 मिनट उबालें। उसी बर्तन में छोटा पास्ता डालकर पैकेट के समय तक बस अल दंते पकाएँ और बार-बार चलाएँ; ब्रोकोली पकने वाले पानी में नरम होने लगे।",
+        "इस बीच छोटी कड़ाही में ऑलिव ऑयल, कटा लहसुन और मिर्च धीमी आँच पर लहसुन हल्का सुनहरा होने तक गरम करें, भूरा न करें।",
+        "200 मि.ली. पकने वाला पानी बचाकर पास्ता और ब्रोकोली छानें। लहसुन तेल के साथ वापस बर्तन में डालकर तेज़ी से मिलाएँ; रेशमी ब्रोकोली सॉस के लिए बचा पानी ज़रूरत अनुसार डालें। कसा शाकाहारी चीज़ डालें।"
+      ],
+      "tips": [
+        "ऐसा पास्ता लें जिसका पकने का समय ब्रोकोली जैसा हो; ब्रोकोली का कुछ हिस्सा सॉस में घुलना चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "પાસ્તા એ બ્રોકોલી",
+      "ingredients": [
+        "ઇંડા વગરનો નાનો સૂકો પાસ્તા",
+        "બ્રોકોલી",
+        "લસણ",
+        "એક્સ્ટ્રા વર્જિન ઓલિવ ઓઈલ",
+        "સૂકા લાલ મરચાંના ટુકડા",
+        "શાકાહારી સખત ચીઝ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બ્રોકોલીના નાનાં ફૂલ કરો અને કૂણી દાંડી સમારો. પહોળા વાસણમાં માપેલું પાણી અને મીઠું ઉકાળો.",
+        "બ્રોકોલી 4 મિનિટ ઉકાળો. એ જ વાસણમાં નાનો પાસ્તા નાખી પેકેટ મુજબ અલ દાંતે થાય ત્યાં સુધી વારંવાર હલાવી પકાવો; બ્રોકોલી પાણીમાં નરમ થવા લાગે.",
+        "દરમ્યાન નાની કડાઈમાં ઓલિવ ઓઈલ, સમારેલું લસણ અને મરચું ધીમી આંચે લસણ આછું સોનેરી થાય ત્યાં સુધી ગરમ કરો, ભૂરૂં ન કરો.",
+        "200 મિ.લી. રાંધેલું પાણી સાચવી પાસ્તા અને બ્રોકોલી નીતારો. લસણવાળા તેલ સાથે ફરી વાસણમાં નાખી જોરથી ભેળવો; લીસી બ્રોકોલી સોસ માટે બચેલું પાણી જરૂર મુજબ ઉમેરો. ખમણેલું શાકાહારી ચીઝ નાખો."
+      ],
+      "tips": [
+        "બ્રોકોલી જેટલો સમય લે એવો પાસ્તા લો; બ્રોકોલીનો થોડો ભાગ સોસમાં ભળી જવો જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pasta-e-broccoli.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

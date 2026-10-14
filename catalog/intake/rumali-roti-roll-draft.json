@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R1411",
+  "id": "rumali-roti-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Rumali Roti Roll",
+  "cuisine": "North Indian",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "whole-wheat flour",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 140,
+      "unit": "ml"
+    },
+    {
+      "name": "paneer",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "bell pepper",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "mint chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead both flours with yogurt, water and 2 g salt until soft and elastic. Cover for 20 minutes, then divide into four balls.",
+    "Roll each ball as thin and wide as possible. Cook briefly on a very hot wide tawa, flipping when small bubbles appear; keep the pliable rumali rotis covered in a clean cloth.",
+    "Heat oil; stir-fry sliced onion and pepper for 3 minutes. Add ginger-garlic, chilli, garam masala, remaining salt and paneer strips; toss 4–5 minutes until paneer is hot and the vegetables retain a little bite.",
+    "Spread each soft roti with 20 g chutney; divide the hot paneer filling among them, sprinkle lemon juice and fold into four rolls."
+  ],
+  "tips": [
+    "Cook rumali roti only until set; overcooking makes this very thin bread brittle."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रुमाली रोटी रोल",
+      "ingredients": [
+        "मैदा",
+        "गेहूँ का आटा",
+        "सादा दही",
+        "गूँधने के लिए पानी",
+        "पनीर",
+        "शिमला मिर्च",
+        "लाल प्याज़",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "पुदीने की चटनी",
+        "नींबू का रस",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "दोनों आटे, दही, पानी और 2 ग्राम नमक मिलाकर नरम लचीला आटा गूँधें। 20 मिनट ढककर रखें, फिर चार गोले बनाएँ।",
+        "हर गोला जितना हो सके उतना पतला और चौड़ा बेलें। बहुत गरम बड़े तवे पर छोटे बुलबुले आते ही पलटकर थोड़ी देर पकाएँ; नरम रुमाली रोटियाँ साफ कपड़े में ढककर रखें।",
+        "तेल गरम करके कटा प्याज़ और शिमला मिर्च 3 मिनट भूनें। अदरक-लहसुन, मिर्च, गरम मसाला, बचा नमक और पनीर की पट्टियाँ डालें; 4–5 मिनट चलाएँ, जब तक पनीर गरम और सब्ज़ियाँ हल्की कुरकुरी हों।",
+        "हर नरम रोटी पर 20 ग्राम चटनी लगाएँ; गरम पनीर की भरावन चारों में बाँटें, नींबू रस छिड़कें और रोल करें।"
+      ],
+      "tips": [
+        "रुमाली रोटी केवल पकने तक ही सेंकें; अधिक सेंकने पर पतली रोटी टूटने लगती है।"
+      ]
+    },
+    "gu": {
+      "name": "રૂમાલી રોટી રોલ",
+      "ingredients": [
+        "મેંદો",
+        "ઘઉંનો લોટ",
+        "સાદું દહીં",
+        "લોટ બાંધવા માટે પાણી",
+        "પનીર",
+        "કેપ્સિકમ",
+        "લાલ ડુંગળી",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "ફુદીનાની ચટણી",
+        "લીંબુનો રસ",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "બંને લોટ, દહીં, પાણી અને 2 ગ્રામ મીઠું ભેળવી નરમ લવચીક લોટ બાંધો. 20 મિનિટ ઢાંકીને રાખી ચાર ગોળા બનાવો.",
+        "દરેક ગોળો શક્ય હોય તેટલો પાતળો અને પહોળો વણો. ખૂબ ગરમ મોટા તવા પર નાના પરપોટા દેખાય ત્યારે પલટાવી થોડું શેકો; નરમ રૂમાલી રોટલી ચોખ્ખા કપડામાં ઢાંકી રાખો.",
+        "તેલ ગરમ કરી સમારેલી ડુંગળી અને કેપ્સિકમ 3 મિનિટ સાંતળો. આદુ-લસણ, મરચું, ગરમ મસાલો, બાકી મીઠું અને પનીરની પટ્ટીઓ નાખો; પનીર ગરમ અને શાક થોડું કરકરું રહે ત્યાં સુધી 4–5 મિનિટ હલાવો.",
+        "દરેક નરમ રોટલી પર 20 ગ્રામ ચટણી લગાવો; ગરમ પનીરનું પુરણ ચારેયમાં વહેંચો, લીંબુનો રસ છાંટી રોલ કરો."
+      ],
+      "tips": [
+        "રૂમાલી રોટલી માત્ર પાકે ત્યાં સુધી જ શેકો; વધારે શેકવાથી આ પાતળી રોટલી ભાંગી જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/rumali-roti-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

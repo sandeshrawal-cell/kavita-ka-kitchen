@@ -2,9 +2,9 @@
 
 `friend-dishes.json` is the deduplicated intake from
 `Kavita_ka_Kitchen_dishes_with_batch1.xlsx`. The 3,775 candidates are ordered
-in seven batches of 500 and a final batch of 275. Five 100-dish releases have
-published 500 unique candidates. R0417 Tarri Poha was already published as
-Tarri Pohe, so R0501 Jeera Aloo filled its slot; 3,274 unique candidates
+in seven batches of 500 and a final batch of 275. Six 100-dish releases have
+published 600 unique candidates. R0417 Tarri Poha was already published as
+Tarri Pohe, so R0501 Jeera Aloo filled its slot; 3,173 unique candidates
 remain private. Each candidate retains its spreadsheet row, aliases, cuisine,
 description, and batch number. The 64 names already represented by the
 original 416-dish catalogue and 30 repeated preparations remain in `excluded`
@@ -20,14 +20,14 @@ reviewed realistic dish-specific image. The normal catalogue validator and
 photo checks must pass. Update `contentStatus` when a candidate is published
 so the intake collision test continues to cover only pending entries.
 
-The first 500 published dishes have measured recipes, Hindi and Gujarati translations,
+The first 600 published dishes have measured recipes, Hindi and Gujarati translations,
 and visually reviewed dish-specific generated photos in `photos/`. Their
 optimized 600px and 1200px images are in `public/photos/` and their approved
 recipes are in the public catalogue. Keep drafts and photos for future review;
 do not treat source reference URLs in a draft as verified citations.
 
-`scripts/prepare-friend-fifth100-photos.py` converts the newest reviewed images and
-`scripts/promote-friend-fifth100.mjs` constructs the newest approved batch. Run the
+`scripts/prepare-friend-sixth100-photos.py` converts the newest reviewed images and
+`scripts/promote-friend-sixth100.mjs` constructs the newest approved batch. Run the
 normal catalogue build and validation after either script.
 
 The intake was built by `outputs/dish-list-review/prepare_intake.py` in the

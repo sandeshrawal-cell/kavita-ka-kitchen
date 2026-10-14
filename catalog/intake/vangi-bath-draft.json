@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0705",
+  "id": "vangi-bath",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Vangi Bath",
+  "cuisine": "Karnataka",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "small eggplants",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "vangi bath powder",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "peanuts",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "chana dal",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak rice 20 minutes. Cook with 600 ml water until grains are separate, then spread out to cool. Cut eggplants into wedges and keep briefly in water.",
+    "Heat oil; fry peanuts and chana dal until golden. Add mustard and curry leaves, then sliced onion and cook 4 minutes.",
+    "Drain eggplant; add to pan with turmeric and salt. Cover 8–10 minutes until tender. Add vangi bath powder and tamarind; cook 2 minutes until spices coat the eggplant.",
+    "Fold the cooled rice into the spiced eggplant in batches. Warm 3–4 minutes on low heat, tossing gently so grains stay intact."
+  ],
+  "tips": [
+    "Use a vangi bath spice blend, not ordinary garam masala; it gives the dish its distinctive flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वांगी भात",
+      "ingredients": [
+        "बासमती चावल",
+        "छोटे बैंगन",
+        "प्याज़",
+        "वांगी भात मसाला",
+        "इमली का गूदा",
+        "मूँगफली",
+        "चना दाल",
+        "राई",
+        "कड़ी पत्ता",
+        "हल्दी",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चावल धोकर 20 मिनट भिगोएँ। 600 मि.ली. पानी में दाने अलग रहने तक पकाकर फैलाकर ठंडा करें। बैंगन के फाँक काटकर थोड़ी देर पानी में रखें।",
+        "तेल में मूँगफली और चना दाल सुनहरा करें। राई और कड़ी पत्ता डालें, फिर कटा प्याज़ 4 मिनट पकाएँ।",
+        "बैंगन छानकर हल्दी और नमक के साथ डालें। ढककर 8–10 मिनट नरम करें। वांगी भात मसाला और इमली डालकर 2 मिनट मसाला चढ़ाएँ।",
+        "ठंडे चावल थोड़े-थोड़े मसालेदार बैंगन में मिलाएँ। धीमी आँच पर 3–4 मिनट हल्के पलटकर गरम करें ताकि दाने साबुत रहें।"
+      ],
+      "tips": [
+        "सामान्य गरम मसाले की जगह वांगी भात मसाला लें; इसी से इसका विशिष्ट स्वाद आता है।"
+      ]
+    },
+    "gu": {
+      "name": "વાંગી ભાત",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "નાનાં રીંગણ",
+        "ડુંગળી",
+        "વાંગી ભાત મસાલો",
+        "આમલીનો માવો",
+        "મગફળી",
+        "ચણા દાળ",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચોખા ધોઈ 20 મિનિટ પલાળો. 600 મિ.લી. પાણીમાં દાણા છૂટા રહે ત્યાં સુધી રાંધી ફેલાવી ઠંડા કરો. રીંગણના ચીરીયા કરી થોડું પાણીમાં રાખો.",
+        "તેલમાં મગફળી અને ચણા દાળ સોનેરી કરો. રાઈ અને મીઠા લીમડાનાં પાન ઉમેરો, પછી સમારેલી ડુંગળી 4 મિનિટ પકાવો.",
+        "રીંગણ નીતારી હળદર અને મીઠા સાથે ઉમેરો. ઢાંકીને 8–10 મિનિટ નરમ કરો. વાંગી ભાત મસાલો અને આમલી ઉમેરી 2 મિનિટ મસાલો ચડાવો.",
+        "ઠંડો ભાત થોડો થોડો મસાલેદાર રીંગણમાં ભેળવો. ધીમી આંચે 3–4 મિનિટ હળવેથી ફેરવી ગરમ કરો જેથી દાણા આખા રહે."
+      ],
+      "tips": [
+        "સામાન્ય ગરમ મસાલાની બદલે વાંગી ભાત મસાલો લો; એથી તેનો ખાસ સ્વાદ આવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vangi-bath.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

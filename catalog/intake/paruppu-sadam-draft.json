@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0916",
+  "id": "paruppu-sadam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Paruppu Sadam",
+  "cuisine": "Tamil",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "rice",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "toor dal",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1050,
+      "unit": "ml"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dry red chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice and toor dal separately, then cook the dal with turmeric until completely tender and easy to mash.",
+    "Cook the rice with its share of water until soft, keeping the grains moist rather than dry.",
+    "Mash the dal with salt and fold it into the warm rice, adding hot water as needed for a soft spoonable texture.",
+    "Heat ghee and crackle mustard, cumin, red chilli, asafoetida and curry leaves; pour the tempering over the rice-dal mixture."
+  ],
+  "tips": [
+    "Serve warm with a little extra ghee and a dry vegetable side; the rice should stay moist."
+  ],
+  "translations": {
+    "hi": {
+      "name": "परुप्पु सादम",
+      "ingredients": [
+        "चावल",
+        "अरहर दाल",
+        "पानी",
+        "हल्दी",
+        "घी",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "हींग",
+        "कड़ी पत्ते",
+        "नमक"
+      ],
+      "steps": [
+        "चावल और अरहर दाल अलग धोएँ; दाल को हल्दी के साथ इतनी नरम पकाएँ कि आसानी से मसल जाए।",
+        "चावल को उसके हिस्से के पानी में मुलायम पकाएँ; दाने सूखे नहीं, नम रहने दें।",
+        "दाल को नमक के साथ मसलकर गरम चावल में मिलाएँ; जरूरत हो तो गरम पानी डालकर नरम, चम्मच से खाने लायक रखें।",
+        "घी में राई, जीरा, सूखी मिर्च, हींग और कड़ी पत्ते चटकाएँ; तड़का चावल-दाल के मिश्रण पर डालें।"
+      ],
+      "tips": [
+        "थोड़े और घी तथा सूखी सब्ज़ी के साथ गरम परोसें; चावल में नमी बनी रहनी चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "પરુપ્પુ સાદમ",
+      "ingredients": [
+        "ચોખા",
+        "તુવેર દાળ",
+        "પાણી",
+        "હળદર",
+        "ઘી",
+        "રાઈ",
+        "જીરું",
+        "સૂકું લાલ મરચું",
+        "હિંગ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચોખા અને તુવેર દાળ અલગ ધોઈ લો; દાળને હળદર સાથે સાવ નરમ થઈ સરળતાથી મસળી શકાય ત્યાં સુધી રાંધો.",
+        "ચોખાને તેના પાણીમાં નરમ રાંધો; દાણા સૂકા નહીં પણ ભીના રહેવા જોઈએ.",
+        "દાળને મીઠા સાથે મસળીને ગરમ ચોખામાં ભેળવો; જરૂર પડે તો ગરમ પાણી ઉમેરી નરમ, ચમચીથી ખાઈ શકાય એવી રાખો.",
+        "ઘીમાં રાઈ, જીરું, સૂકું મરચું, હિંગ અને મીઠો લીમડો વઘારો; વઘાર ચોખા-દાળના મિશ્રણ પર રેડો."
+      ],
+      "tips": [
+        "થોડું વધારાનું ઘી અને કોરા શાક સાથે ગરમ પીરસો; ચોખામાં ભેજ રહેવી જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paruppu-sadam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

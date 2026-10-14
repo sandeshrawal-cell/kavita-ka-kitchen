@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1016",
+  "id": "broccoli-cheddar-soup",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Broccoli Cheddar Soup",
+  "cuisine": "Global",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian cheddar cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut broccoli into small florets and dice the stalk; grate carrot and chop onion finely.",
+    "Soften onion in butter, stir in flour and cook briefly until the raw flour smell fades.",
+    "Whisk in stock and milk gradually; add broccoli and carrot and simmer until the vegetables are tender.",
+    "Reduce the heat, blend a small portion if desired, then stir in grated vegetarian cheddar until melted; season without boiling."
+  ],
+  "tips": [
+    "Choose cheddar made with microbial or vegetarian rennet, and add it off the boil to keep the soup smooth."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ब्रोकली चेडर सूप",
+      "ingredients": [
+        "ब्रोकली",
+        "गाजर",
+        "प्याज़",
+        "मक्खन",
+        "मैदा",
+        "सब्ज़ियों का स्टॉक",
+        "दूध",
+        "शाकाहारी चेडर चीज़",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "ब्रोकली के छोटे फूल और डंठल काटें; गाजर कद्दूकस और प्याज़ बारीक काटें।",
+        "मक्खन में प्याज़ नरम करें, मैदा डालकर उसका कच्चापन दूर होने तक थोड़ी देर पकाएँ।",
+        "फेंटते हुए धीरे-धीरे स्टॉक और दूध डालें; ब्रोकली और गाजर नरम होने तक उबालें।",
+        "आँच घटाकर चाहें तो थोड़ा सूप पीसें, फिर कद्दूकस शाकाहारी चेडर पिघलने तक मिलाएँ; बिना उबाले मसाला ठीक करें।"
+      ],
+      "tips": [
+        "सूक्ष्मजीवी या शाकाहारी रेनेट वाला चेडर लें और सूप उबलना बंद होने पर डालें ताकि वह चिकना रहे।"
+      ]
+    },
+    "gu": {
+      "name": "બ્રોકોલી ચેડર સૂપ",
+      "ingredients": [
+        "બ્રોકોલી",
+        "ગાજર",
+        "ડુંગળી",
+        "માખણ",
+        "મેંદો",
+        "શાકભાજીનો સ્ટોક",
+        "દૂધ",
+        "શાકાહારી ચેડર ચીઝ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "બ્રોકોલીના નાનાં ફૂલ અને દાંડી કાપો; ગાજર છીણો અને ડુંગળી ઝીણી કાપો.",
+        "માખણમાં ડુંગળી નરમ કરો, મેંદો નાખીને તેનો કાચો સ્વાદ જાય ત્યાં સુધી થોડું રાંધો.",
+        "ફેંટતા ધીમે ધીમે સ્ટોક અને દૂધ ઉમેરો; બ્રોકોલી અને ગાજર નરમ થાય ત્યાં સુધી ઉકાળો.",
+        "આંચ ઓછી કરી ઇચ્છો તો થોડું સૂપ પીસો, પછી છીણેલું શાકાહારી ચેડર ઓગળે ત્યાં સુધી ભેળવો; ઉકાળ્યા વિના મસાલો સરખો કરો."
+      ],
+      "tips": [
+        "માઇક્રોબિયલ અથવા શાકાહારી રેનેટથી બનેલું ચેડર લો અને સૂપ ઉકળતું બંધ થાય પછી નાખો જેથી તે સુંવાળું રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/broccoli-cheddar-soup.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

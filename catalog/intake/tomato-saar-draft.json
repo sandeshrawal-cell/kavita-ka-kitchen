@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1019",
+  "id": "tomato-saar",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Tomato Saar",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "jaggery",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Blanch the tomatoes briefly, slip off their skins and puree the flesh until smooth.",
+    "Simmer the tomato puree with water, jaggery and salt until its raw flavor mellows into a light tangy broth.",
+    "Heat ghee separately and crackle mustard, cumin, slit green chilli and curry leaves without burning them.",
+    "Pour the fragrant tempering into the saar, simmer gently once more and garnish with chopped coriander."
+  ],
+  "tips": [
+    "Balance sour tomatoes with just enough jaggery to round the flavor, not make the saar sweet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टमाटर सार",
+      "ingredients": [
+        "पके टमाटर",
+        "पानी",
+        "गुड़",
+        "जीरा",
+        "राई",
+        "हरी मिर्च",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "टमाटर हल्के उबालकर छिलके उतारें और गूदे को चिकना पीस लें।",
+        "टमाटर की प्यूरी पानी, गुड़ और नमक के साथ कच्चापन जाने और हल्का खट्टा शोरबा बनने तक पकाएँ।",
+        "अलग घी में राई, जीरा, चीरी हरी मिर्च और कड़ी पत्ते जलाए बिना चटकाएँ।",
+        "खुशबूदार तड़का सार में डालें, फिर हल्का उबाल दें और कटे धनिये से सजाएँ।"
+      ],
+      "tips": [
+        "खट्टे टमाटर में उतना ही गुड़ डालें कि स्वाद संतुलित हो, सार मीठा न बने।"
+      ]
+    },
+    "gu": {
+      "name": "ટામેટાં સાર",
+      "ingredients": [
+        "પાકેલા ટામેટાં",
+        "પાણી",
+        "ગોળ",
+        "જીરું",
+        "રાઈ",
+        "લીલું મરચું",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટામેટાં થોડાં ઉકાળી છાલ ઉતારો અને માવો સુંવાળો પીસો.",
+        "ટામેટાંની પ્યુરીને પાણી, ગોળ અને મીઠા સાથે કાચો સ્વાદ જાય અને હળવું ખાટું શોરબું બને ત્યાં સુધી રાંધો.",
+        "અલગ ઘીમાં રાઈ, જીરું, ચીરેલું લીલું મરચું અને મીઠો લીમડો બળે નહીં તેમ વઘારો.",
+        "સુગંધિત વઘાર સારમાં રેડો, ફરી હળવો ઉકાળો અને કાપેલા ધાણાથી સજાવો."
+      ],
+      "tips": [
+        "ખાટા ટામેટાંમાં સ્વાદ સંતુલિત થાય એટલો જ ગોળ નાખો; સાર મીઠું ન બને."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tomato-saar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

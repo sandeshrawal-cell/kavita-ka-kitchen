@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0913",
+  "id": "thinai-pongal",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Thinai Pongal",
+  "cuisine": "Tamil",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "foxtail millet",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "split yellow moong dal",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1050,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the foxtail millet and dry-roast the moong dal until it smells nutty but remains pale.",
+    "Cook millet and dal with water and salt in a covered pot until both are tender and the mixture is soft and creamy.",
+    "Crush the peppercorns lightly; heat ghee and fry cashews until golden, then add cumin, pepper, ginger, curry leaves and asafoetida.",
+    "Fold the fragrant tempering through the hot pongal and loosen with hot water if needed; serve immediately with chutney."
+  ],
+  "tips": [
+    "Thinai absorbs moisture as it cools, so make the pongal slightly softer than you want to serve it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तिनै पोंगल",
+      "ingredients": [
+        "कंगनी बाजरा",
+        "धुली मूंग दाल",
+        "पानी",
+        "घी",
+        "जीरा",
+        "काली मिर्च साबुत",
+        "अदरक",
+        "काजू",
+        "कड़ी पत्ते",
+        "हींग",
+        "नमक"
+      ],
+      "steps": [
+        "कंगनी को धोएँ और मूंग दाल को बिना रंग बदले मेवे जैसी खुशबू आने तक सूखा भूनें।",
+        "कंगनी, दाल, पानी और नमक ढककर इतना पकाएँ कि दोनों नरम होकर मलाईदार बन जाएँ।",
+        "काली मिर्च हल्की कूटें; घी में काजू सुनहरे करें, फिर जीरा, मिर्च, अदरक, कड़ी पत्ते और हींग डालें।",
+        "सुगंधित तड़के को गरम पोंगल में मिलाएँ और जरूरत हो तो गरम पानी से ढीला करें; चटनी के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "ठंडा होने पर कंगनी पानी सोखती है, इसलिए पोंगल को थोड़ा अधिक मुलायम रखें।"
+      ]
+    },
+    "gu": {
+      "name": "તિનાઈ પોંગલ",
+      "ingredients": [
+        "કાંગના બાજરી",
+        "પીળી મગની દાળ",
+        "પાણી",
+        "ઘી",
+        "જીરું",
+        "આખા કાળા મરી",
+        "આદુ",
+        "કાજુ",
+        "મીઠા લીમડાનાં પાન",
+        "હિંગ",
+        "મીઠું"
+      ],
+      "steps": [
+        "કાંગના ધોઈ લો અને મગની દાળને રંગ બદલ્યા વિના મેવાં જેવી સુગંધ આવે ત્યાં સુધી સૂકી શેકો.",
+        "કાંગના, દાળ, પાણી અને મીઠું ઢાંકીને બંને નરમ થઈ મલાઈદાર બને ત્યાં સુધી રાંધો.",
+        "મરીને હળવી ખાંડો; ઘીમાં કાજુ સોનેરી કરો, પછી જીરું, મરી, આદુ, મીઠો લીમડો અને હિંગ નાખો.",
+        "સુગંધિત વઘાર ગરમ પોંગલમાં ભેળવો અને જરૂર પડે તો ગરમ પાણીથી ઢીલું કરો; ચટણી સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "ઠંડું થતાં કાંગના પાણી શોષે છે, તેથી પોંગલ થોડું વધારે નરમ રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/thinai-pongal.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

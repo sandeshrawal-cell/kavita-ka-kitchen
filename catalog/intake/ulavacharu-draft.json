@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0619",
+  "id": "ulavacharu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Ulavacharu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "dried horse gram",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak horse gram overnight. Drain, then pressure-cook in 1,300 ml fresh water with turmeric for 8–10 whistles until the beans are soft; reserve all the dark cooking liquid.",
+    "Strain the gram and mash or grind about 100 g of the cooked beans. Return this mash to the reserved broth; keep the rest of the beans for another meal.",
+    "Simmer chopped onion, tomato, tamarind, chilli powder, salt and remaining 200 ml water for 10 minutes. Add the horse-gram broth and reduce 15–20 minutes until richly flavoured.",
+    "Heat oil and crackle mustard and cumin; add crushed garlic and curry leaves until fragrant. Pour the tempering into the charu and serve hot with rice."
+  ],
+  "tips": [
+    "Horse gram needs an overnight soak; the cooking liquid is the heart of this dish."
+  ],
+  "translations": {
+    "hi": {
+      "name": "उलवाचारू",
+      "ingredients": [
+        "सूखी कुल्थी",
+        "इमली का गूदा",
+        "प्याज़",
+        "टमाटर",
+        "लहसुन",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "तेल",
+        "राई",
+        "जीरा",
+        "कड़ी पत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "कुल्थी रातभर भिगोकर छानें। 1,300 मि.ली. ताज़े पानी और हल्दी में 8–10 सीटी दाने नरम होने तक पकाएँ; सारा गहरा पानी बचाएँ।",
+        "दाने छानकर लगभग 100 ग्राम पके दाने मसलें या पीसें। यह पेस्ट बचाए हुए पानी में मिलाएँ; बाकी दाने दूसरे भोजन के लिए रखें।",
+        "कटा प्याज़, टमाटर, इमली, मिर्च, नमक और बचा 200 मि.ली. पानी 10 मिनट पकाएँ। कुल्थी का पानी मिलाकर 15–20 मिनट गाढ़ा स्वाद आने तक पकाएँ।",
+        "तेल में राई-जीरा चटकाकर कुचला लहसुन और कड़ी पत्ता महकने तक भूनें। तड़का चारू में डालकर चावल संग गरम परोसें।"
+      ],
+      "tips": [
+        "कुल्थी रातभर भिगोएँ; इसका पकने वाला पानी ही इस व्यंजन का मुख्य स्वाद है।"
+      ]
+    },
+    "gu": {
+      "name": "ઉલવાચારુ",
+      "ingredients": [
+        "સૂકી કળથી",
+        "આમલીનો માવો",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લસણ",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કળથી રાતભર પલાળી નીતારો. 1,300 મિ.લી. તાજાં પાણી અને હળદર સાથે 8–10 સીટી દાણા નરમ થાય ત્યાં સુધી રાંધો; બધું ઘેરું પાણી સાચવો.",
+        "દાણા નીતારી આશરે 100 ગ્રામ પાકેલા દાણા મસળો કે પીસો. આ માવો સાચવેલા પાણીમાં ભેળવો; બાકી દાણા બીજા ભોજન માટે રાખો.",
+        "સમારેલી ડુંગળી, ટામેટાં, આમલી, મરચું, મીઠું અને બાકી 200 મિ.લી. પાણી 10 મિનિટ પકાવો. કળથીનું પાણી ઉમેરી 15–20 મિનિટ સ્વાદ ઘટ્ટ થાય ત્યાં સુધી ઉકાળો.",
+        "તેલમાં રાઈ-જીરું તતડાવી કચડેલું લસણ અને મીઠા લીમડાનાં પાન સુગંધ આવે ત્યાં સુધી શેકો. વઘાર ચારુમાં નાખી ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "કળથી રાતભર પલાળો; તેનું રાંધેલું પાણી જ આ વાનગીનો મુખ્ય સ્વાદ છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/ulavacharu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0920",
+  "id": "sweet-potato-congee",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Sweet Potato Congee",
+  "cuisine": "Chinese-inspired",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "orange sweet potato",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion greens",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 12,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice well and peel the sweet potato; cut the potato into small even cubes so it softens with the rice.",
+    "Bring rice, sweet potato, sliced ginger and water to a boil, skimming away any foam.",
+    "Lower the heat and simmer partly covered, stirring frequently, until the grains break down and the sweet potato turns tender.",
+    "Season with salt, ladle into bowls and finish with spring onion greens and a few drops of toasted sesame oil."
+  ],
+  "tips": [
+    "Add hot water while simmering if the porridge becomes thicker than you like."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शकरकंद कॉन्जी",
+      "ingredients": [
+        "जैस्मिन चावल",
+        "नारंगी शकरकंद",
+        "पानी",
+        "ताज़ा अदरक",
+        "हरे प्याज़ के पत्ते",
+        "भुना तिल का तेल",
+        "नमक"
+      ],
+      "steps": [
+        "चावल अच्छी तरह धोएँ, शकरकंद छीलकर छोटे बराबर टुकड़ों में काटें ताकि वह चावल के साथ गल जाए।",
+        "चावल, शकरकंद, कटा अदरक और पानी उबालें; ऊपर की झाग हटाएँ।",
+        "आँच धीमी करके आंशिक ढक्कन में बार-बार चलाते हुए चावल टूटने और शकरकंद नरम होने तक पकाएँ।",
+        "नमक मिलाएँ, कटोरों में भरें और हरे प्याज़ के पत्ते तथा भुने तिल के तेल की कुछ बूँदें डालें।"
+      ],
+      "tips": [
+        "पकाते समय कॉन्जी ज्यादा गाढ़ी लगे तो गरम पानी मिलाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "શક્કરિયાની કોન્જી",
+      "ingredients": [
+        "જેસ્મિન ચોખા",
+        "નારંગી શક્કરિયાં",
+        "પાણી",
+        "તાજું આદુ",
+        "લીલી ડુંગળીના પાન",
+        "શેકેલા તલનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચોખા સારી રીતે ધોઈ લો અને શક્કરિયાં છોલીને નાના સરખા ટુકડા કરો જેથી ચોખા સાથે નરમ થાય.",
+        "ચોખા, શક્કરિયાં, કાપેલું આદુ અને પાણી ઉકાળો; ઉપરનો ફીણ કાઢી નાખો.",
+        "આંચ ધીમી કરી અડધું ઢાંકીને વારંવાર હલાવતા ચોખા ઓગળે અને શક્કરિયાં નરમ થાય ત્યાં સુધી રાંધો.",
+        "મીઠું ઉમેરો, વાટકામાં ભરો અને લીલી ડુંગળીના પાન તથા શેકેલા તલના તેલનાં થોડાં ટીપાં નાખો."
+      ],
+      "tips": [
+        "રાંધતી વખતે કોન્જી વધુ ઘટ્ટ લાગે તો ગરમ પાણી ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/sweet-potato-congee.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,162 @@
+{
+  "sourceReviewId": "R0618",
+  "id": "pappu-charu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pappu Charu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "jaggery",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse dal and pressure-cook with turmeric and 600 ml water for 3–4 whistles until soft; mash well.",
+    "Simmer chopped tomatoes, onion, green chillies and chilli powder in 300 ml water for 8 minutes. Add tamarind pulp, jaggery and salt.",
+    "Add mashed dal and remaining 200 ml water. Simmer 10 minutes until the broth is pourable but still tastes of dal.",
+    "Crackle mustard and cumin in oil, add dried chillies and curry leaves, then pour the tempering over the charu. Serve hot with rice."
+  ],
+  "tips": [
+    "Pappu charu is thinner than ordinary dal but fuller-bodied than rasam."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पप्पू चारू",
+      "ingredients": [
+        "अरहर दाल",
+        "इमली का गूदा",
+        "टमाटर",
+        "प्याज़",
+        "हरी मिर्च",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "गुड़",
+        "तेल",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "दाल धोकर हल्दी और 600 मि.ली. पानी में 3–4 सीटी नरम होने तक पकाएँ; अच्छी तरह मसलें।",
+        "कटे टमाटर, प्याज़, हरी मिर्च और मिर्च पाउडर 300 मि.ली. पानी में 8 मिनट पकाएँ। इमली, गुड़ और नमक डालें।",
+        "मसली दाल और बचा 200 मि.ली. पानी मिलाएँ। 10 मिनट पकाएँ ताकि रस बहने योग्य लेकिन दाल का स्वाद रहे।",
+        "तेल में राई-जीरा चटकाकर सूखी मिर्च और कड़ी पत्ता डालें; तड़का चारू पर डालें। चावल के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "पप्पू चारू साधारण दाल से पतला, पर रसम से अधिक गाढ़ा होता है।"
+      ]
+    },
+    "gu": {
+      "name": "પપ્પુ ચારુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "આમલીનો માવો",
+        "ટામેટાં",
+        "ડુંગળી",
+        "લીલાં મરચાં",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "ગોળ",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "દાળ ધોઈ હળદર અને 600 મિ.લી. પાણી સાથે 3–4 સીટી નરમ થાય ત્યાં સુધી રાંધો; સારી રીતે મસળો.",
+        "સમારેલાં ટામેટાં, ડુંગળી, લીલાં મરચાં અને મરચું પાઉડર 300 મિ.લી. પાણીમાં 8 મિનિટ પકાવો. આમલી, ગોળ અને મીઠું ઉમેરો.",
+        "મસળેલી દાળ અને બાકી 200 મિ.લી. પાણી ઉમેરો. 10 મિનિટ પકાવો જેથી રસ રેડી શકાય એવો રહે પણ દાળનો સ્વાદ રહે.",
+        "તેલમાં રાઈ-જીરું તતડાવી સૂકાં મરચાં અને મીઠા લીમડાનાં પાન ઉમેરો; વઘાર ચારુમાં નાખો. ભાત સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "પપ્પુ ચારુ સામાન્ય દાળ કરતાં પાતળું, પણ રસમ કરતાં વધુ ભરાવદાર હોય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pappu-charu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

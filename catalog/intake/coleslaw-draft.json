@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1109",
+  "id": "coleslaw",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Coleslaw",
+  "cuisine": "Global",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "red cabbage",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrots",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "apple cider vinegar",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Dijon mustard",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Shred both cabbages very finely and grate the carrot; dry the vegetables thoroughly.",
+    "Whisk eggless mayonnaise, yogurt, vinegar, sugar, mustard, salt and pepper until smooth.",
+    "Toss the vegetables with just enough dressing to coat every strand without pooling at the bottom.",
+    "Chill briefly for the flavors to mingle, then toss once more and serve while the cabbage still has crunch."
+  ],
+  "tips": [
+    "If making ahead, keep dressing and shredded vegetables separate until near serving time."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोलस्लॉ",
+      "ingredients": [
+        "हरी पत्ता गोभी",
+        "लाल पत्ता गोभी",
+        "गाजर",
+        "अंडारहित मेयोनीज़",
+        "सादा दही",
+        "सेब का सिरका",
+        "चीनी",
+        "डिजॉन मस्टर्ड",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "दोनों पत्ता गोभी बहुत महीन काटें और गाजर कद्दूकस करें; सब्ज़ियाँ अच्छी तरह सुखाएँ।",
+        "अंडारहित मेयोनीज़, दही, सिरका, चीनी, मस्टर्ड, नमक और मिर्च चिकना होने तक फेंटें।",
+        "सब्ज़ियों को उतनी ही ड्रेसिंग से मिलाएँ कि हर रेशा लिपट जाए और नीचे रस न जमा हो।",
+        "स्वाद मिलने के लिए थोड़ी देर ठंडा करें; फिर दोबारा मिलाकर गोभी कुरकुरी रहते परोसें।"
+      ],
+      "tips": [
+        "पहले से बनाना हो तो ड्रेसिंग और कटी सब्ज़ियाँ परोसने के करीब तक अलग रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કોલસ્લો",
+      "ingredients": [
+        "લીલું કોબીજ",
+        "લાલ કોબીજ",
+        "ગાજર",
+        "ઈંડા વગરનું મેયોનેઝ",
+        "સાદું દહીં",
+        "સફરજનનો વિનેગર",
+        "ખાંડ",
+        "ડિજોન મસ્ટર્ડ",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "બંને કોબીજ ખૂબ ઝીણા કાપો અને ગાજર છીણો; શાક સારી રીતે સુકવો.",
+        "ઈંડા વગરનું મેયોનેઝ, દહીં, વિનેગર, ખાંડ, મસ્ટર્ડ, મીઠું અને મરી સુંવાળું થાય ત્યાં સુધી ફેંટો.",
+        "શાકમાં એટલી જ ડ્રેસિંગ ભેળવો કે દરેક રેશો ઢંકાય અને તળિયે રસ ભેગો ન થાય.",
+        "સ્વાદ મળવા થોડો સમય ઠંડું રાખો; ફરી ભેળવી કોબીજ કરકરું હોય ત્યાં પીરસો."
+      ],
+      "tips": [
+        "અગાઉથી બનાવવું હોય તો ડ્રેસિંગ અને કાપેલું શાક પીરસવા નજીક સુધી અલગ રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/coleslaw.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

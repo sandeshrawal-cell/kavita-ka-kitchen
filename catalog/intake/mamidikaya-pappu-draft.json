@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0616",
+  "id": "mamidikaya-pappu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Mamidikaya Pappu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "raw green mango",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel raw mango, remove the stone and cube the flesh. Rinse dal and put it in a pressure cooker with mango, green chillies, turmeric and 650 ml water.",
+    "Cook for 3–4 whistles until dal is soft. Mash the dal and mango together, then add salt and remaining water and simmer 7 minutes.",
+    "Heat oil; splutter mustard and cumin. Add dried red chillies, curry leaves and crushed garlic; fry until garlic is golden.",
+    "Pour the tempering over pappu, stir and rest covered 3 minutes. Serve with hot rice and a little ghee if desired."
+  ],
+  "tips": [
+    "Raw mango varies in acidity; taste the finished dal before adding more salt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मामिडिकाया पप्पू",
+      "ingredients": [
+        "अरहर दाल",
+        "कच्चा आम",
+        "हरी मिर्च",
+        "हल्दी",
+        "तेल",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "लहसुन",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "कच्चा आम छीलकर गुठली हटाएँ और टुकड़े करें। दाल धोकर आम, हरी मिर्च, हल्दी और 650 मि.ली. पानी के साथ कुकर में डालें।",
+        "3–4 सीटी दाल नरम होने तक पकाएँ। दाल और आम मसलकर नमक व बचा पानी मिलाएँ और 7 मिनट पकाएँ।",
+        "तेल गरम कर राई-जीरा चटकाएँ। सूखी मिर्च, कड़ी पत्ता और कुचला लहसुन डालकर लहसुन सुनहरा करें।",
+        "तड़का पप्पू पर डालें, चलाएँ और 3 मिनट ढककर रखें। चाहें तो थोड़ा घी डालकर गरम चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "कच्चे आम की खटास अलग हो सकती है; नमक और डालने से पहले पकी दाल चखें।"
+      ]
+    },
+    "gu": {
+      "name": "મામિડીકાયા પપ્પુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "કાચી કેરી",
+        "લીલાં મરચાં",
+        "હળદર",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "લસણ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કાચી કેરી છોલી ગોટલો કાઢી ટુકડા કરો. દાળ ધોઈ કેરી, લીલાં મરચાં, હળદર અને 650 મિ.લી. પાણી સાથે કૂકરમાં નાખો.",
+        "3–4 સીટી દાળ નરમ થાય ત્યાં સુધી રાંધો. દાળ અને કેરી મસળી મીઠું અને બાકી પાણી ભેળવો અને 7 મિનિટ પકાવો.",
+        "તેલ ગરમ કરી રાઈ-જીરું તતડાવો. સૂકાં મરચાં, મીઠા લીમડાનાં પાન અને કચડેલું લસણ ઉમેરી લસણ સોનેરી કરો.",
+        "વઘાર પપ્પુમાં નાખી હલાવો અને 3 મિનિટ ઢાંકી રાખો. ઇચ્છો તો થોડું ઘી ઉમેરી ગરમ ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "કાચી કેરીની ખટાશ બદલાય છે; વધુ મીઠું ઉમેરતાં પહેલાં તૈયાર દાળ ચાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mamidikaya-pappu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

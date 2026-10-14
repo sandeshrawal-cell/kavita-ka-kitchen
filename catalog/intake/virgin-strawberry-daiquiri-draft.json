@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R2105",
+  "id": "virgin-strawberry-daiquiri",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Virgin Strawberry Daiquiri",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 32,
+  "ingredients": [
+    {
+      "name": "hulled strawberries",
+      "qty": 460,
+      "unit": "g"
+    },
+    {
+      "name": "fresh lime juice",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "simple sugar syrup",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "cold water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "crushed ice",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "strawberries for garnish",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse and hull strawberries, then freeze the main portion for 20 minutes for a thicker frozen-style daiquiri.",
+    "Blend chilled strawberries with fresh lime juice, sugar syrup and water until the fruit is completely smooth.",
+    "Add crushed ice and blend only until slushy and pourable; taste and adjust with a little of the measured syrup if the berries are tart.",
+    "Pour into four chilled glasses, garnish with saved strawberries and serve at once before the ice melts."
+  ],
+  "tips": [
+    "Keep this mocktail alcohol-free; the strawberry-lime balance carries the flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वर्जिन स्ट्रॉबेरी डैक्विरी",
+      "ingredients": [
+        "पत्तियाँ हटाई स्ट्रॉबेरी",
+        "ताज़ा नीबू का रस",
+        "सादा चीनी सिरप",
+        "ठंडा पानी",
+        "कुटी बर्फ",
+        "सजाने के लिए स्ट्रॉबेरी"
+      ],
+      "steps": [
+        "स्ट्रॉबेरी धोकर पत्तियाँ हटाएँ, फिर मुख्य हिस्से को गाढ़े जमे पेय के लिए 20 मिनट फ्रीज़ करें।",
+        "ठंडी स्ट्रॉबेरी को ताज़े नीबू रस, चीनी सिरप और पानी के साथ फल पूरी तरह चिकना होने तक ब्लेंड करें।",
+        "कुटी बर्फ डालकर बस बर्फीला और डालने योग्य होने तक चलाएँ; बेरी खट्टी हो तो नापे सिरप में से थोड़ा और मिलाएँ।",
+        "चार ठंडे गिलासों में डालें, बची स्ट्रॉबेरी से सजाएँ और बर्फ पिघलने से पहले तुरंत परोसें।"
+      ],
+      "tips": [
+        "यह मॉकटेल शराब-मुक्त रखें; स्ट्रॉबेरी और नीबू का संतुलन ही इसका स्वाद है।"
+      ]
+    },
+    "gu": {
+      "name": "વર્જિન સ્ટ્રોબેરી ડૈક્વિરી",
+      "ingredients": [
+        "ડીટા કાઢેલી સ્ટ્રોબેરી",
+        "તાજો લીંબુનો રસ",
+        "સાદો ખાંડનો સિરપ",
+        "ઠંડું પાણી",
+        "ભૂકો કરેલો બરફ",
+        "સજાવવા સ્ટ્રોબેરી"
+      ],
+      "steps": [
+        "સ્ટ્રોબેરી ધોઈ ડીટા કાઢો, પછી મુખ્ય ભાગને ઘટ્ટ ઠંડા પીણાં માટે 20 મિનિટ ફ્રીઝ કરો.",
+        "ઠંડી સ્ટ્રોબેરીને તાજા લીંબુના રસ, ખાંડના સિરપ અને પાણી સાથે ફળ પૂરેપૂરું મસૃણ થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "ભૂકો કરેલો બરફ ઉમેરી માત્ર બરફીલો અને રેડી શકાય એવો થાય ત્યાં સુધી ફેરવો; બેરી ખાટી હોય તો માપેલા સિરપમાંથી થોડું વધુ ઉમેરો.",
+        "ચાર ઠંડા ગ્લાસમાં રેડો, રાખેલી સ્ટ્રોબેરીથી સજાવો અને બરફ પીગળે તે પહેલાં તરત પીરસો."
+      ],
+      "tips": [
+        "આ મોકટેલ આલ્કોહોલ વગરનું રાખો; સ્ટ્રોબેરી અને લીંબુનું સંતુલન જ તેનો સ્વાદ છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/virgin-strawberry-daiquiri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

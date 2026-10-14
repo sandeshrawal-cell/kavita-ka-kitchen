@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R1020",
+  "id": "kokum-saar",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kokum Saar",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "dried kokum rind",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "jaggery",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "dry red chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak the dried kokum in warm water until it colors the water deeply, then squeeze the rinds and strain the extract.",
+    "Warm the kokum extract with jaggery and salt over gentle heat until the jaggery dissolves; avoid a hard boil.",
+    "Heat ghee in a small pan and crackle cumin, broken dry chilli, asafoetida and curry leaves.",
+    "Pour the tempering into the warm kokum saar, stir once and serve with chopped coriander."
+  ],
+  "tips": [
+    "Taste the kokum extract before sweetening because dried rinds vary greatly in tartness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोकम सार",
+      "ingredients": [
+        "सूखे कोकम के छिलके",
+        "गुनगुना पानी",
+        "गुड़",
+        "घी",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "हींग",
+        "कड़ी पत्ते",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "सूखे कोकम को गुनगुने पानी में गहरा रंग आने तक भिगोएँ; छिलके निचोड़कर रस छान लें।",
+        "कोकम के रस को गुड़ और नमक के साथ धीमी आँच पर गुड़ घुलने तक गरम करें; तेज उबाल से बचें।",
+        "छोटे पैन में घी गरम करके जीरा, टूटी सूखी मिर्च, हींग और कड़ी पत्ते चटकाएँ।",
+        "तड़का गरम कोकम सार में डालें, एक बार चलाएँ और कटे धनिये के साथ परोसें।"
+      ],
+      "tips": [
+        "मीठा करने से पहले कोकम का रस चखें क्योंकि सूखे छिलकों की खटास अलग-अलग होती है।"
+      ]
+    },
+    "gu": {
+      "name": "કોકમ સાર",
+      "ingredients": [
+        "સૂકા કોકમના છાલા",
+        "નવશેકું પાણી",
+        "ગોળ",
+        "ઘી",
+        "જીરું",
+        "સૂકું લાલ મરચું",
+        "હિંગ",
+        "મીઠા લીમડાનાં પાન",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "સૂકા કોકમને નવશેકા પાણીમાં ઘેરો રંગ આવે ત્યાં સુધી પલાળો; છાલા નિચોવી રસ ગાળી લો.",
+        "કોકમના રસને ગોળ અને મીઠા સાથે ધીમી આંચે ગોળ ઓગળે ત્યાં સુધી ગરમ કરો; વધુ ઉકાળો નહીં.",
+        "નાની કડાઈમાં ઘી ગરમ કરી જીરું, તોડેલું સૂકું મરચું, હિંગ અને મીઠો લીમડો વઘારો.",
+        "વઘાર ગરમ કોકમ સારમાં રેડો, એક વાર હલાવો અને કાપેલા ધાણા સાથે પીરસો."
+      ],
+      "tips": [
+        "ગળપણ ઉમેરતા પહેલાં કોકમનો રસ ચાખો, કારણ કે સૂકા છાલાની ખટાશ અલગ હોય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.archanaskitchen.com/recipe/kokum-saar-recipe-traditional-maharashtrian-drink-made-using-kokum-juice"
+  },
+  "photoDraft": "catalog/intake/photos/kokum-saar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

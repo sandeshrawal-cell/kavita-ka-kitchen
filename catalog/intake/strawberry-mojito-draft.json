@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R2109",
+  "id": "strawberry-mojito",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Strawberry Mojito",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "fresh strawberries",
+      "qty": 380,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh lime juice",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "simple sugar syrup",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled club soda",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse and hull strawberries, then finely chop half and lightly mash the rest to make a fresh fruit base.",
+    "Put mint and lime wedges into four glasses and press very gently. Divide both chopped and mashed strawberries among them.",
+    "Add lime juice and syrup, stir to mix with the fruit, and fill each glass with 100 g ice.",
+    "Pour 150 ml chilled club soda into each glass, stir once and serve immediately with visible strawberry pieces."
+  ],
+  "tips": [
+    "Light muddling preserves mint’s fresh flavour; crushing it hard makes the drink bitter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "स्ट्रॉबेरी मोजितो",
+      "ingredients": [
+        "ताज़ी स्ट्रॉबेरी",
+        "ताज़े पुदीने के पत्ते",
+        "ताज़ा नीबू का रस",
+        "सादा चीनी सिरप",
+        "ठंडा सोडा पानी",
+        "बर्फ के टुकड़े",
+        "नीबू के टुकड़े"
+      ],
+      "steps": [
+        "स्ट्रॉबेरी धोकर पत्तियाँ हटाएँ, आधी बारीक काटें और बाकी हल्की मसलकर ताज़ा फल का आधार बनाएँ।",
+        "पुदीना और नीबू के टुकड़े चार गिलासों में डालकर बहुत हल्के दबाएँ। कटी और मसली दोनों स्ट्रॉबेरी बाँटें।",
+        "नीबू रस और सिरप डालकर फल के साथ मिलाएँ और हर गिलास में 100 ग्राम बर्फ भरें।",
+        "हर गिलास में 150 मिली ठंडा सोडा डालें, एक बार चलाएँ और स्ट्रॉबेरी के टुकड़े दिखते हुए तुरंत परोसें।"
+      ],
+      "tips": [
+        "हल्का दबाने से पुदीने की ताज़गी रहती है; ज़ोर से कूटने पर पेय कड़वा होता है।"
+      ]
+    },
+    "gu": {
+      "name": "સ્ટ્રોબેરી મોજિતો",
+      "ingredients": [
+        "તાજી સ્ટ્રોબેરી",
+        "તાજાં ફુદીનાનાં પાન",
+        "તાજો લીંબુનો રસ",
+        "સાદો ખાંડનો સિરપ",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા",
+        "લીંબુના ટુકડા"
+      ],
+      "steps": [
+        "સ્ટ્રોબેરી ધોઈ ડીટા કાઢો, અડધી ઝીણી સમારો અને બાકીની હળવી મસળી તાજા ફળનો આધાર બનાવો.",
+        "ફુદીનો અને લીંબુના ટુકડા ચાર ગ્લાસમાં નાખી બહુ હળવેથી દબાવો. સમારેલી અને મસળેલી બંને સ્ટ્રોબેરી વહેંચો.",
+        "લીંબુનો રસ અને સિરપ ઉમેરી ફળ સાથે ભેળવો અને દરેક ગ્લાસમાં 100 ગ્રામ બરફ ભરો.",
+        "દરેક ગ્લાસમાં 150 મિલી ઠંડું સોડા વોટર રેડો, એક વાર હલાવો અને સ્ટ્રોબેરીના ટુકડા દેખાતા હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "હળવું દબાવવાથી ફુદીનાની તાજગી રહે છે; જોરથી કચડવાથી પીણું કડવું થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/strawberry-mojito.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1906",
+  "id": "blueberry-oat-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Blueberry Oat Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "blueberries",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "rolled oats",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 360,
+      "unit": "ml"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ripe banana",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "honey",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak oats in 180 ml milk for 10 minutes until softened; rinse fresh blueberries and check them for stems.",
+    "Blend soaked oats and their milk with yogurt and sliced banana until the oats are finely broken down.",
+    "Add blueberries, remaining 180 ml milk, honey and cinnamon; blend until smooth and thick, scraping down the blender once.",
+    "Divide into four glasses and serve at once before the oats continue to thicken the drink."
+  ],
+  "tips": [
+    "For a smooth texture, use rolled oats rather than coarse steel-cut oats."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ब्लूबेरी ओट स्मूदी",
+      "ingredients": [
+        "ब्लूबेरी",
+        "रोल्ड ओट्स",
+        "ठंडा दूध",
+        "सादा दही",
+        "पका केला",
+        "शहद",
+        "पिसी दालचीनी"
+      ],
+      "steps": [
+        "ओट्स को 180 मिली दूध में 10 मिनट नरम होने तक भिगोएँ; ताज़ी ब्लूबेरी धोकर डंठल जाँचें।",
+        "भीगे ओट्स और उनका दूध दही व कटे केले के साथ ओट्स बारीक होने तक ब्लेंड करें।",
+        "ब्लूबेरी, बचा 180 मिली दूध, शहद और दालचीनी डालें; ब्लेंडर का किनारा एक बार साफ करते हुए गाढ़ा और चिकना करें।",
+        "चार गिलासों में बाँटकर तुरंत परोसें, क्योंकि ओट्स पेय को और गाढ़ा करते रहेंगे।"
+      ],
+      "tips": [
+        "चिकनी बनावट के लिए मोटे स्टील-कट ओट्स की जगह रोल्ड ओट्स लें।"
+      ]
+    },
+    "gu": {
+      "name": "બ્લૂબેરી ઓટ્સ સ્મૂધી",
+      "ingredients": [
+        "બ્લૂબેરી",
+        "રોલ્ડ ઓટ્સ",
+        "ઠંડું દૂધ",
+        "સાદું દહીં",
+        "પાકું કેળું",
+        "મધ",
+        "તજનો ભૂકો"
+      ],
+      "steps": [
+        "ઓટ્સને 180 મિલી દૂધમાં 10 મિનિટ નરમ થાય ત્યાં સુધી પલાળો; તાજી બ્લૂબેરી ધોઈ ડીટા તપાસો.",
+        "પલાળેલા ઓટ્સ અને તેનું દૂધ દહીં તથા સમારેલા કેળા સાથે ઓટ્સ ઝીણા થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "બ્લૂબેરી, બાકી 180 મિલી દૂધ, મધ અને તજ ઉમેરો; બ્લેન્ડરની બાજુ એક વાર સાફ કરતાં ઘટ્ટ અને મસૃણ કરો.",
+        "ચાર ગ્લાસમાં વહેંચી તરત પીરસો, કારણ કે ઓટ્સ પીણું વધુ ઘટ્ટ કરતા રહેશે."
+      ],
+      "tips": [
+        "મસૃણ બનાવટ માટે જાડા સ્ટીલ-કટ ઓટ્સને બદલે રોલ્ડ ઓટ્સ લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/blueberry-oat-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

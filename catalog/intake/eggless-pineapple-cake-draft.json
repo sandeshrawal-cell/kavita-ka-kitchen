@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R1702",
+  "id": "eggless-pineapple-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Pineapple Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 95,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 95,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "drained pineapple pieces",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "pineapple juice",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled whipping cream",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "icing sugar",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm round cake tin. Sift flour, baking powder and baking soda.",
+    "Whisk sugar, yogurt, milk, oil and vanilla. Fold in the sifted ingredients gently, pour into the tin and bake for 30–35 minutes until a skewer comes out clean.",
+    "Cool the sponge completely and split it horizontally. Whip chilled cream with icing sugar to firm peaks; chop most pineapple pieces and save a few for the top.",
+    "Moisten both cut layers with pineapple juice. Fill with cream and chopped pineapple, cover the cake with remaining cream, decorate with saved fruit and refrigerate 30 minutes before serving."
+  ],
+  "tips": [
+    "Drain pineapple thoroughly; wet fruit makes the cream slide off the sponge."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का पाइनएप्पल केक",
+      "ingredients": [
+        "मैदा",
+        "बारीक चीनी",
+        "सादा दही",
+        "दूध",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "वैनिला अर्क",
+        "छने अनानास के टुकड़े",
+        "अनानास का रस",
+        "ठंडी व्हिपिंग क्रीम",
+        "पिसी चीनी"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी गोल केक टिन में पेपर लगाएँ। मैदा, बेकिंग पाउडर और बेकिंग सोडा छानें।",
+        "चीनी, दही, दूध, तेल और वैनिला फेंटें। छनी सामग्री धीरे से मिलाएँ, टिन में डालें और सींक साफ आने तक 30–35 मिनट बेक करें।",
+        "स्पॉन्ज पूरी तरह ठंडा करके बीच से काटें। ठंडी क्रीम को पिसी चीनी के साथ कड़े शिखर बनने तक फेंटें; अधिकांश अनानास काटें और कुछ सजाने को रखें।",
+        "दोनों कटी परतों पर अनानास का रस लगाएँ। बीच में क्रीम और कटा अनानास भरें, बची क्रीम से ढकें, ऊपर फल सजाएँ और परोसने से पहले 30 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "अनानास अच्छी तरह छानें; गीले फल से क्रीम स्पॉन्ज पर टिकती नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની પાઇનએપલ કેક",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી ખાંડ",
+        "સાદું દહીં",
+        "દૂધ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "વેનીલા એસેન્સ",
+        "નિતારેલા અનાનસના ટુકડા",
+        "અનાનસનો રસ",
+        "ઠંડી વ્હિપિંગ ક્રીમ",
+        "આઇસિંગ સુગર"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી ગોળ કેક ટિનમાં પેપર પાથરો. મેંદો, બેકિંગ પાઉડર અને બેકિંગ સોડા ચાળો.",
+        "ખાંડ, દહીં, દૂધ, તેલ અને વેનીલા ફેંટો. ચાળેલી સામગ્રી હળવેથી ભેળવી ટિનમાં નાખો અને સળી ચોખ્ખી નીકળે ત્યાં સુધી 30–35 મિનિટ બેક કરો.",
+        "સ્પોન્જ પૂરેપૂરું ઠંડું કરી આડું કાપો. ઠંડી ક્રીમને આઇસિંગ સુગર સાથે મજબૂત શિખર થાય ત્યાં સુધી ફેંટો; મોટાભાગનું અનાનસ સમારો અને થોડું સજાવવા રાખો.",
+        "બંને કાપેલા પડ પર અનાનસનો રસ લગાવો. વચ્ચે ક્રીમ અને સમારેલું અનાનસ ભરો, બાકી ક્રીમથી ઢાંકો, ઉપર ફળ સજાવો અને પીરસતાં પહેલાં 30 મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "અનાનસ સારી રીતે નિતારો; ભીના ફળથી ક્રીમ સ્પોન્જ પર ટકતી નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-pineapple-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

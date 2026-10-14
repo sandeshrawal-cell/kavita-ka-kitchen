@@ -1,0 +1,149 @@
+{
+  "sourceReviewId": "R1707",
+  "id": "eggless-plum-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Plum Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 105,
+  "ingredients": [
+    {
+      "name": "mixed dried fruit and raisins",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "orange juice",
+      "qty": 130,
+      "unit": "ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 165,
+      "unit": "g"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground ginger",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "chopped walnuts",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Warm orange juice gently, pour over dried fruit and soak at least 30 minutes. Heat oven to 160°C and line a 15 cm deep cake tin.",
+    "Sift flour, baking powder, baking soda, cinnamon and ginger. Whisk brown sugar, yogurt, oil, milk and vanilla until smooth.",
+    "Fold dry mix into wet, then stir in the soaked fruit with any remaining juice and the walnuts. Spoon the thick batter into the tin.",
+    "Bake 50–60 minutes, covering loosely with foil if the top browns early, until a skewer inserted in the centre comes out without wet batter.",
+    "Cool in the tin for 20 minutes, then on a rack until fully cold; slice only after the crumb settles."
+  ],
+  "tips": [
+    "Use unsweetened dried fruit if possible; the brown sugar already supplies enough sweetness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का प्लम केक",
+      "ingredients": [
+        "मिले-जुले सूखे फल और किशमिश",
+        "संतरे का रस",
+        "मैदा",
+        "भूरी चीनी",
+        "सादा दही",
+        "बिना तेज़ स्वाद वाला तेल",
+        "दूध",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "पिसी दालचीनी",
+        "सोंठ पाउडर",
+        "कटे अखरोट",
+        "वैनिला अर्क"
+      ],
+      "steps": [
+        "संतरे का रस हल्का गरम करके सूखे फलों पर डालें और कम से कम 30 मिनट भिगोएँ। ओवन 160°C पर गरम करें और 15 सेमी गहरे टिन में पेपर लगाएँ।",
+        "मैदा, बेकिंग पाउडर, बेकिंग सोडा, दालचीनी और सोंठ छानें। भूरी चीनी, दही, तेल, दूध और वैनिला चिकना होने तक फेंटें।",
+        "सूखी सामग्री गीले मिश्रण में मिलाएँ, फिर भीगे फल बचे रस सहित और अखरोट डालें। गाढ़ा घोल टिन में डालें।",
+        "50–60 मिनट बेक करें; ऊपर जल्दी रंग आए तो हल्की फॉइल ढकें। बीच में सींक डालने पर गीला घोल न लगे।",
+        "टिन में 20 मिनट ठंडा करें, फिर जाली पर पूरी तरह ठंडा करें; केक का गूदा जमने के बाद ही काटें।"
+      ],
+      "tips": [
+        "संभव हो तो बिना अतिरिक्त चीनी के सूखे फल लें; भूरी चीनी पर्याप्त मिठास देती है।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની પ્લમ કેક",
+      "ingredients": [
+        "મિશ્ર સુકાં ફળ અને કિસમિસ",
+        "નારંગીનો રસ",
+        "મેંદો",
+        "બ્રાઉન ખાંડ",
+        "સાદું દહીં",
+        "તટસ્થ સ્વાદનું તેલ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "તજનો ભૂકો",
+        "સૂંઠનો ભૂકો",
+        "સમારેલા અખરોટ",
+        "વેનીલા એસેન્સ"
+      ],
+      "steps": [
+        "નારંગીનો રસ થોડો ગરમ કરી સુકાં ફળ પર રેડો અને ઓછામાં ઓછું 30 મિનિટ પલાળો. ઓવન 160°C પર ગરમ કરો અને 15 સેમી ઊંડા ટિનમાં પેપર પાથરો.",
+        "મેંદો, બેકિંગ પાઉડર, બેકિંગ સોડા, તજ અને સૂંઠ ચાળો. બ્રાઉન ખાંડ, દહીં, તેલ, દૂધ અને વેનીલા સમરસ થાય ત્યાં સુધી ફેંટો.",
+        "સૂકી સામગ્રી ભીના મિશ્રણમાં ભેળવો, પછી પલાળેલા ફળ બાકી રસ સાથે અને અખરોટ ઉમેરો. ઘટ્ટ ખીરું ટિનમાં નાખો.",
+        "50–60 મિનિટ બેક કરો; ઉપર વહેલું રંગ આવે તો ઢીલી ફોઇલ ઢાંકો. વચ્ચે સળી નાખતાં ભીનું ખીરું ન ચોંટે.",
+        "ટિનમાં 20 મિનિટ ઠંડું કરો, પછી જાળી પર પૂરેપૂરું ઠંડું કરો; કેકનો અંદરનો ભાગ સ્થિર થયા પછી જ કાપો."
+      ],
+      "tips": [
+        "શક્ય હોય તો વધારાની ખાંડ વિનાનાં સુકાં ફળ લો; બ્રાઉન ખાંડ પૂરતી મીઠાશ આપે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-plum-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

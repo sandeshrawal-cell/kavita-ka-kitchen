@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R2104",
+  "id": "virgin-margarita",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Virgin Margarita",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "fresh lime juice",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh orange juice",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "agave syrup",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled sparkling water",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "fine salt for rims",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Squeeze fresh lime and orange juice and strain out seeds. Spread salt on a small plate.",
+    "Rub each glass rim with a lime wedge and dip lightly in salt; fill the four glasses with ice.",
+    "Shake lime juice, orange juice and agave syrup with a little ice until well chilled. Strain equally into the prepared glasses.",
+    "Top each with sparkling water, stir gently and serve with a lime wedge while cold and fizzy."
+  ],
+  "tips": [
+    "Start with a light salt rim; guests can choose how much salt to sip with the drink."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वर्जिन मार्गरिटा",
+      "ingredients": [
+        "ताज़ा नीबू का रस",
+        "ताज़ा संतरे का रस",
+        "अगावे सिरप",
+        "ठंडा स्पार्कलिंग पानी",
+        "बर्फ के टुकड़े",
+        "गिलास के किनारे के लिए बारीक नमक",
+        "नीबू के टुकड़े"
+      ],
+      "steps": [
+        "ताज़े नीबू और संतरे का रस निकालकर बीज छानें। छोटी प्लेट पर नमक फैलाएँ।",
+        "हर गिलास के किनारे पर नीबू का टुकड़ा फेरकर हल्के से नमक लगाएँ; चारों गिलास बर्फ से भरें।",
+        "नीबू रस, संतरे का रस और अगावे सिरप थोड़ी बर्फ के साथ खूब ठंडा होने तक हिलाएँ। तैयार गिलासों में बराबर छानें।",
+        "हर गिलास में स्पार्कलिंग पानी डालें, हल्के से चलाएँ और ठंडा व बुलबुला रहते नीबू के टुकड़े के साथ परोसें।"
+      ],
+      "tips": [
+        "किनारे पर हल्का नमक लगाएँ ताकि पीते समय हर व्यक्ति अपनी पसंद से नमक ले सके।"
+      ]
+    },
+    "gu": {
+      "name": "વર્જિન માર્ગરિટા",
+      "ingredients": [
+        "તાજો લીંબુનો રસ",
+        "તાજો નારંગીનો રસ",
+        "અગાવે સિરપ",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા",
+        "ગ્લાસની કિનારી માટે ઝીણું મીઠું",
+        "લીંબુના ટુકડા"
+      ],
+      "steps": [
+        "તાજો લીંબુ અને નારંગીનો રસ કાઢી બી ગાળી લો. નાની થાળીમાં મીઠું પાથરો.",
+        "દરેક ગ્લાસની કિનારી પર લીંબુની ફાંક ફેરવી હળવેથી મીઠું લગાવો; ચારેય ગ્લાસ બરફથી ભરો.",
+        "લીંબુનો રસ, નારંગીનો રસ અને અગાવે સિરપ થોડા બરફ સાથે સારી રીતે ઠંડાં થાય ત્યાં સુધી હલાવો. તૈયાર ગ્લાસમાં સરખું ગાળો.",
+        "દરેકમાં સોડા વોટર રેડો, હળવેથી હલાવો અને ઠંડું તથા ફીણવાળું હોય ત્યારે લીંબુની ફાંક સાથે પીરસો."
+      ],
+      "tips": [
+        "કિનારી પર થોડું મીઠું લગાવો જેથી પીતી વખતે દરેક વ્યક્તિ પોતાની પસંદ મુજબ મીઠું લઈ શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/virgin-margarita.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

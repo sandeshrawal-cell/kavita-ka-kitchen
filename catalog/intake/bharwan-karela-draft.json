@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0508",
+  "id": "bharwan-karela",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Bharwan Karela",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "small bitter gourds",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "ground fennel",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 60,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Scrape bitter gourds lightly, slit lengthwise and remove mature seeds. Rub with 8 g salt and leave 20 minutes; squeeze and rinse, then pat dry.",
+    "Dry-roast gram flour 3 minutes. In 15 ml oil, fry finely chopped onion until golden; mix with flour, fennel, coriander, amchur, turmeric, chilli and remaining salt.",
+    "Pack the onion-spice filling into the gourds and close each slit with a toothpick if needed.",
+    "Heat remaining oil in a broad pan; lay the gourds in one layer. Cover and cook on low heat 20 minutes, turning gently, then uncover and brown 8–10 minutes until tender."
+  ],
+  "tips": [
+    "Taste a tiny piece before serving; larger gourds may need 5 more minutes."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भरवाँ करेला",
+      "ingredients": [
+        "छोटे करेले",
+        "प्याज़",
+        "बेसन",
+        "सौंफ पाउडर",
+        "धनिया पाउडर",
+        "अमचूर",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "तेल"
+      ],
+      "steps": [
+        "करेले हल्के खुरचें, लंबा चीरा लगाकर बड़े बीज निकालें। 8 ग्राम नमक लगाकर 20 मिनट रखें; निचोड़कर धोएँ और सुखाएँ।",
+        "बेसन 3 मिनट सूखा भूनें। 15 मि.ली. तेल में बारीक प्याज़ सुनहरा करें; बेसन, सौंफ, धनिया, अमचूर, हल्दी, मिर्च और बाकी नमक मिलाएँ।",
+        "प्याज़-मसाले की भरावन करेले में भरें और ज़रूरत हो तो चीरा टूथपिक से बंद करें।",
+        "बाकी तेल चौड़ी कड़ाही में गरम कर करेले एक परत में रखें। ढककर धीमी आँच पर 20 मिनट सावधानी से पलटते हुए पकाएँ, फिर खोलकर 8–10 मिनट नरम और भूरे करें।"
+      ],
+      "tips": [
+        "परोसने से पहले छोटा टुकड़ा चखें; बड़े करेलों को 5 मिनट और लग सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ભરેલાં કારેલાં",
+      "ingredients": [
+        "નાના કારેલાં",
+        "ડુંગળી",
+        "ચણાનો લોટ",
+        "વરિયાળી પાઉડર",
+        "ધાણા પાઉડર",
+        "આમચૂર",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "તેલ"
+      ],
+      "steps": [
+        "કારેલાં હળવાં ખંજવાળો, લાંબો ચીરો કરી મોટાં બી કાઢો. 8 ગ્રામ મીઠું લગાવી 20 મિનિટ રાખો; નીચોવી ધોઈ સુકવો.",
+        "ચણાનો લોટ 3 મિનિટ સૂકો શેકો. 15 મિ.લી. તેલમાં ઝીણી ડુંગળી સોનેરી કરો; લોટ, વરિયાળી, ધાણા, આમચૂર, હળદર, મરચું અને બાકી મીઠું ભેળવો.",
+        "ડુંગળી-મસાલાનો ભરાવો કારેલામાં ભરો અને જરૂર પડે તો ચીરો ટૂથપિકથી બંધ કરો.",
+        "બાકી તેલ પહોળી કડાઈમાં ગરમ કરી કારેલાં એક પડમાં મૂકો. ઢાંકીને ધીમી આંચે 20 મિનિટ ધીમેથી ફેરવી પકાવો, પછી ખોલી 8–10 મિનિટ નરમ અને સોનેરી કરો."
+      ],
+      "tips": [
+        "પીરસતાં પહેલાં નાનો ટુકડો ચાખો; મોટા કારેલાંને 5 મિનિટ વધુ લાગી શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bharwan-karela.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

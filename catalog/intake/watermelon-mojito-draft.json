@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R2108",
+  "id": "watermelon-mojito",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Watermelon Mojito",
+  "cuisine": "Global",
+  "categories": [
+    "Mocktails"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 12,
+  "ingredients": [
+    {
+      "name": "seedless watermelon flesh",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh lime juice",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "simple sugar syrup",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "chilled club soda",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove any seeds from watermelon, cube the flesh and blend it until smooth; strain only if a pulp-free drink is wanted.",
+    "Divide mint and lime wedges among four glasses. Press gently a few times to release their aroma without tearing the leaves.",
+    "Add watermelon purée, lime juice and syrup to the glasses, then 100 g ice in each; stir from the bottom.",
+    "Top each with 120 ml chilled club soda and serve immediately while the fizz and fresh watermelon flavour last."
+  ],
+  "tips": [
+    "Ripe watermelon is usually sweet enough; taste it before using all the syrup."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तरबूज़ मोजितो",
+      "ingredients": [
+        "बिना बीज का तरबूज़ गूदा",
+        "ताज़े पुदीने के पत्ते",
+        "ताज़ा नीबू का रस",
+        "सादा चीनी सिरप",
+        "ठंडा सोडा पानी",
+        "बर्फ के टुकड़े",
+        "नीबू के टुकड़े"
+      ],
+      "steps": [
+        "तरबूज़ के बीज निकालकर गूदा काटें और चिकना पीसें; बिना गूदे का पेय चाहिए तो ही छानें।",
+        "पुदीना और नीबू के टुकड़े चार गिलासों में बाँटें। पत्ते फाड़े बिना सुगंध छोड़ने के लिए कुछ बार हल्का दबाएँ।",
+        "गिलासों में तरबूज़ का प्यूरी, नीबू रस और सिरप डालें, फिर हर एक में 100 ग्राम बर्फ डालकर नीचे से चलाएँ।",
+        "हर गिलास में 120 मिली ठंडा सोडा डालें और बुलबुले व ताज़े तरबूज़ का स्वाद रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "पका तरबूज़ अक्सर काफी मीठा होता है; पूरा सिरप डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "તરબૂચ મોજિતો",
+      "ingredients": [
+        "બી વગરનો તરબૂચનો ગૂદો",
+        "તાજાં ફુદીનાનાં પાન",
+        "તાજો લીંબુનો રસ",
+        "સાદો ખાંડનો સિરપ",
+        "ઠંડું સોડા વોટર",
+        "બરફના ટુકડા",
+        "લીંબુના ટુકડા"
+      ],
+      "steps": [
+        "તરબૂચના બી કાઢી ગૂદો સમારી મસૃણ પીસો; ગૂદા વગરનું પીણું જોઈએ તો જ ગાળો.",
+        "ફુદીનો અને લીંબુના ટુકડા ચાર ગ્લાસમાં વહેંચો. પાન ફાડ્યા વગર સુગંધ છૂટે એટલું થોડું દબાવો.",
+        "ગ્લાસમાં તરબૂચનું પ્યુરી, લીંબુનો રસ અને સિરપ નાખો, પછી દરેકમાં 100 ગ્રામ બરફ નાખી નીચેથી હલાવો.",
+        "દરેક ગ્લાસમાં 120 મિલી ઠંડું સોડા વોટર રેડો અને ફીણ તથા તાજા તરબૂચનો સ્વાદ રહે ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "પાકું તરબૂચ સામાન્ય રીતે પૂરતું મીઠું હોય છે; બધો સિરપ નાખતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/watermelon-mojito.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

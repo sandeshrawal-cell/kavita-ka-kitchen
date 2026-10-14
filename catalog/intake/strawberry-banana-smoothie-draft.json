@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R1903",
+  "id": "strawberry-banana-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Strawberry Banana Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "qty": 380,
+      "unit": "g"
+    },
+    {
+      "name": "ripe bananas",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "honey",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse, hull and halve strawberries; peel and slice bananas. Chill the fruit before blending for a thicker drink.",
+    "Blend strawberries and bananas with yogurt and half the milk until all fruit pieces disappear.",
+    "Add remaining milk, honey and lemon juice; blend just until creamy and taste for sweet–tart balance.",
+    "Pour equally into four chilled glasses and drink immediately so the banana does not darken."
+  ],
+  "tips": [
+    "For a colder, thicker smoothie, freeze the banana slices beforehand."
+  ],
+  "translations": {
+    "hi": {
+      "name": "स्ट्रॉबेरी बनाना स्मूदी",
+      "ingredients": [
+        "स्ट्रॉबेरी",
+        "पके केले",
+        "सादा दही",
+        "ठंडा दूध",
+        "शहद",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "स्ट्रॉबेरी धोकर पत्तियाँ हटाएँ और आधी काटें; केले छीलकर काटें। गाढ़े पेय के लिए फल ठंडे करें।",
+        "स्ट्रॉबेरी और केले को दही और आधे दूध के साथ टुकड़े गायब होने तक ब्लेंड करें।",
+        "बचा दूध, शहद और नींबू रस डालें; केवल क्रीमी होने तक चलाएँ और मीठे-खट्टे स्वाद को चखें।",
+        "चार ठंडे गिलासों में बराबर डालें और केला काला होने से पहले तुरंत पिएँ।"
+      ],
+      "tips": [
+        "ज़्यादा ठंडी और गाढ़ी स्मूदी के लिए केले के टुकड़े पहले से जमा लें।"
+      ]
+    },
+    "gu": {
+      "name": "સ્ટ્રોબેરી કેળાની સ્મૂધી",
+      "ingredients": [
+        "સ્ટ્રોબેરી",
+        "પાકાં કેળાં",
+        "સાદું દહીં",
+        "ઠંડું દૂધ",
+        "મધ",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "સ્ટ્રોબેરી ધોઈ ડીટા કાઢી અડધી કરો; કેળાં છોલી સમારો. ઘટ્ટ પીણાં માટે ફળ ઠંડાં કરો.",
+        "સ્ટ્રોબેરી અને કેળાંને દહીં અને અડધા દૂધ સાથે ટુકડા ન રહે ત્યાં સુધી બ્લેન્ડ કરો.",
+        "બાકી દૂધ, મધ અને લીંબુનો રસ ઉમેરો; માત્ર મલાઈદાર થાય ત્યાં સુધી ફેરવો અને મીઠા-ખાટા સ્વાદને ચાખો.",
+        "ચાર ઠંડા ગ્લાસમાં સરખું રેડો અને કેળું કાળું પડે તે પહેલાં તરત પીવો."
+      ],
+      "tips": [
+        "વધુ ઠંડી અને ઘટ્ટ સ્મૂધી માટે કેળાના ટુકડા અગાઉથી ફ્રીઝ કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/strawberry-banana-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

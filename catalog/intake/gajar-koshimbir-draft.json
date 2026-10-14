@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1105",
+  "id": "gajar-koshimbir",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Gajar Koshimbir",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "carrots",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel and coarsely grate the carrots, then squeeze them gently only if they are very wet.",
+    "Whisk yogurt with salt and lemon juice; fold in carrot, coconut, finely chopped chilli and coriander.",
+    "Heat oil and pop the mustard seeds; add curry leaves and let the tempering cool slightly.",
+    "Pour the tempering over the koshimbir, toss once and chill briefly before serving."
+  ],
+  "tips": [
+    "Keep the carrot raw and crisp; do not pour very hot oil directly onto the yogurt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गाजर कोशिंबीर",
+      "ingredients": [
+        "गाजर",
+        "ताज़ा कद्दूकस नारियल",
+        "सादा दही",
+        "हरी मिर्च",
+        "नींबू का रस",
+        "राई",
+        "कड़ी पत्ते",
+        "तेल",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "गाजर छीलकर मोटा कद्दूकस करें; बहुत गीली हों तो ही हल्का निचोड़ें।",
+        "दही में नमक और नींबू रस फेंटें; गाजर, नारियल, बारीक मिर्च और धनिया मिलाएँ।",
+        "तेल गरम करके राई चटकाएँ, कड़ी पत्ते डालें और तड़के को थोड़ा ठंडा होने दें।",
+        "तड़का कोशिंबीर पर डालकर एक बार मिलाएँ और परोसने से पहले थोड़ी देर ठंडा करें।"
+      ],
+      "tips": [
+        "गाजर को कच्चा और कुरकुरा रखें; बहुत गरम तेल सीधे दही पर न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ગાજર કોશિંબીર",
+      "ingredients": [
+        "ગાજર",
+        "તાજું છીણેલું નાળિયેર",
+        "સાદું દહીં",
+        "લીલું મરચું",
+        "લીંબુનો રસ",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "તેલ",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "ગાજર છોલીને જાડું છીણો; બહુ ભીનું હોય તો જ થોડું નિચોવો.",
+        "દહીંમાં મીઠું અને લીંબુનો રસ ફેંટો; ગાજર, નાળિયેર, ઝીણું મરચું અને ધાણા ભેળવો.",
+        "તેલ ગરમ કરી રાઈ તતડાવો, મીઠો લીમડો નાખો અને વઘાર થોડો ઠંડો થવા દો.",
+        "વઘાર કોશિંબીર પર રેડીને એક વાર ભેળવો અને પીરસતાં પહેલાં થોડું ઠંડું કરો."
+      ],
+      "tips": [
+        "ગાજર કાચું અને કરકરું રાખો; ખૂબ ગરમ તેલ સીધું દહીં પર ન રેડો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/gajar-koshimbir.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

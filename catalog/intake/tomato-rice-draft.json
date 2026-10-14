@@ -1,0 +1,155 @@
+{
+  "sourceReviewId": "R0701",
+  "id": "tomato-rice",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Tomato Rice",
+  "cuisine": "South Indian",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ripe tomatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 560,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice until the water clears and soak 20 minutes; drain. Chop tomatoes and onion finely.",
+    "Heat oil, crackle mustard and cumin; add curry leaves, onion, ginger and chillies. Fry 5–6 minutes until onion softens.",
+    "Add tomatoes, turmeric, chilli powder and salt. Cook 8 minutes until the tomato mixture is jammy and most moisture has evaporated.",
+    "Fold in drained rice and measured water. Bring to a boil, cover tightly and cook on low heat 13–15 minutes. Rest covered 10 minutes, fluff and add coriander."
+  ],
+  "tips": [
+    "Ripe, slightly tart tomatoes give the rice its signature flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टमाटर राइस",
+      "ingredients": [
+        "बासमती चावल",
+        "पके टमाटर",
+        "प्याज़",
+        "हरी मिर्च",
+        "अदरक",
+        "तेल",
+        "राई",
+        "जीरा",
+        "कड़ी पत्ता",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "चावल साफ़ पानी आने तक धोकर 20 मिनट भिगोएँ और छानें। टमाटर और प्याज़ बारीक काटें।",
+        "तेल में राई-जीरा चटकाएँ; कड़ी पत्ता, प्याज़, अदरक और मिर्च डालें। प्याज़ नरम होने तक 5–6 मिनट भूनें।",
+        "टमाटर, हल्दी, मिर्च पाउडर और नमक डालें। 8 मिनट मिश्रण गाढ़ा और अधिकांश पानी सूखने तक पकाएँ।",
+        "छने चावल और नापा पानी मिलाएँ। उबालें, कसकर ढकें और धीमी आँच पर 13–15 मिनट पकाएँ। 10 मिनट ढककर रखें, फुलाएँ और धनिया डालें।"
+      ],
+      "tips": [
+        "पके हल्के खट्टे टमाटर से चावल का असली स्वाद आता है।"
+      ]
+    },
+    "gu": {
+      "name": "ટામેટાં ભાત",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "પાકાં ટામેટાં",
+        "ડુંગળી",
+        "લીલાં મરચાં",
+        "આદુ",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "મીઠા લીમડાનાં પાન",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ચોખા ચોખ્ખું પાણી આવે ત્યાં સુધી ધોઈ 20 મિનિટ પલાળી નીતારો. ટામેટાં અને ડુંગળી ઝીણાં સમારો.",
+        "તેલમાં રાઈ-જીરું તતડાવો; મીઠા લીમડાનાં પાન, ડુંગળી, આદુ અને મરચાં ઉમેરો. ડુંગળી નરમ થાય ત્યાં સુધી 5–6 મિનિટ શેકો.",
+        "ટામેટાં, હળદર, મરચું પાઉડર અને મીઠું ઉમેરો. 8 મિનિટ મિશ્રણ ઘટ્ટ થાય અને મોટાભાગનું પાણી સુકાય ત્યાં સુધી પકાવો.",
+        "નીતારેલા ચોખા અને માપેલું પાણી ઉમેરો. ઉકાળો, સારી રીતે ઢાંકી ધીમી આંચે 13–15 મિનિટ પકાવો. 10 મિનિટ ઢાંકી રાખી હળવેથી ખોલો અને ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "પાકાં થોડાં ખાટાં ટામેટાંથી ભાતનો મૂળ સ્વાદ આવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tomato-rice.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

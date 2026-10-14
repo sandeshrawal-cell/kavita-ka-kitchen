@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0510",
+  "id": "aloo-baingan",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Aloo Baingan",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 42,
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut eggplant into 3 cm pieces and keep in water briefly. Peel and cube potatoes smaller, about 2 cm, so both finish together.",
+    "Heat oil and cumin. Fry onion 6 minutes; add ginger and tomatoes, then turmeric, coriander, chilli and salt. Cook 7 minutes until thick.",
+    "Add potatoes and water; cover for 8 minutes. Drain eggplant and fold in gently so it gets coated in the masala.",
+    "Cover and simmer another 12–15 minutes, turning gently, until potato is tender and eggplant silky. Uncover to reduce excess liquid; finish with coriander."
+  ],
+  "tips": [
+    "Stir gently once eggplant goes in so the pieces do not collapse."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू बैंगन",
+      "ingredients": [
+        "बैंगन",
+        "आलू",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "तेल",
+        "जीरा",
+        "हल्दी",
+        "धनिया पाउडर",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "बैंगन 3 सेमी टुकड़ों में काटकर थोड़ी देर पानी में रखें। आलू छीलकर छोटे 2 सेमी टुकड़े करें ताकि दोनों साथ पकें।",
+        "तेल में जीरा चटकाएँ। प्याज़ 6 मिनट भूनें; अदरक और टमाटर, फिर हल्दी, धनिया, मिर्च और नमक डालें। 7 मिनट गाढ़ा करें।",
+        "आलू और पानी डालकर 8 मिनट ढकें। बैंगन छानकर हल्के से मसाले में मिलाएँ।",
+        "ढककर 12–15 मिनट और हल्के से पलटते हुए पकाएँ, जब तक आलू नरम और बैंगन मुलायम हों। अतिरिक्त पानी सुखाकर धनिया डालें।"
+      ],
+      "tips": [
+        "बैंगन डालने के बाद धीरे चलाएँ ताकि टुकड़े टूटें नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકા રીંગણનું શાક",
+      "ingredients": [
+        "રીંગણ",
+        "બટાકા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "તેલ",
+        "જીરું",
+        "હળદર",
+        "ધાણા પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "પાણી",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "રીંગણના 3 સેમીના ટુકડા કરી થોડું પાણીમાં રાખો. બટાકા છોલી નાનાં 2 સેમીના ટુકડા કરો જેથી બંને સાથે પાકે.",
+        "તેલમાં જીરું તતડાવો. ડુંગળી 6 મિનિટ શેકો; આદુ અને ટામેટાં, પછી હળદર, ધાણા, મરચું અને મીઠું નાખો. 7 મિનિટ ઘટ્ટ કરો.",
+        "બટાકા અને પાણી ઉમેરી 8 મિનિટ ઢાંકો. રીંગણ નીતારી હળવેથી મસાલામાં ભેળવો.",
+        "ઢાંકીને 12–15 મિનિટ વધુ હળવેથી ફેરવી પકાવો, બટાકા નરમ અને રીંગણ રેશમી થાય ત્યાં સુધી. વધારાનું પાણી સુકવી ધાણા નાખો."
+      ],
+      "tips": [
+        "રીંગણ નાખ્યા પછી હળવેથી હલાવો જેથી ટુકડા ભાંગી ન જાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/aloo-baingan.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

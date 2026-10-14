@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1107",
+  "id": "fattoush",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Fattoush",
+  "cuisine": "Levantine",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "romaine lettuce",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "radishes",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "flat-leaf parsley",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "pita bread",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "pomegranate molasses",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sumac",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Tear pita into bite-sized pieces, brush with a little olive oil and bake or toast until crisp and golden.",
+    "Wash and dry lettuce and herbs; chop tomatoes, cucumber, radishes and spring onions into generous pieces.",
+    "Whisk remaining olive oil with lemon juice, pomegranate molasses, sumac and salt.",
+    "Toss vegetables and herbs with the tangy dressing, then fold in crisp pita immediately before serving."
+  ],
+  "tips": [
+    "Add the pita at the table so it stays crunchy against the juicy vegetables."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फत्तूश सलाद",
+      "ingredients": [
+        "रोमेन लेट्यूस",
+        "टमाटर",
+        "खीरा",
+        "मूली",
+        "हरा प्याज़",
+        "चपटा पत्ता अजमोद",
+        "पुदीना पत्ते",
+        "पीटा ब्रेड",
+        "जैतून का तेल",
+        "नींबू का रस",
+        "अनार का गाढ़ा शीरा",
+        "सुमाक",
+        "नमक"
+      ],
+      "steps": [
+        "पीटा के खाने लायक टुकड़े करें, थोड़ा जैतून का तेल लगाकर कुरकुरे सुनहरे सेंकें।",
+        "लेट्यूस और पत्तियाँ धोकर सुखाएँ; टमाटर, खीरा, मूली और हरा प्याज़ बड़े टुकड़ों में काटें।",
+        "बचे जैतून के तेल में नींबू रस, अनार का शीरा, सुमाक और नमक फेंटें।",
+        "सब्ज़ियों और पत्तियों को खट्टी ड्रेसिंग से मिलाएँ; परोसने से ठीक पहले कुरकुरा पीटा डालें।"
+      ],
+      "tips": [
+        "पीटा मेज़ पर ही मिलाएँ ताकि रसदार सब्ज़ियों के बीच वह कुरकुरा रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ફત્તૂશ સલાડ",
+      "ingredients": [
+        "રોમેઇન લેટીસ",
+        "ટામેટાં",
+        "કાકડી",
+        "મૂળા",
+        "લીલી ડુંગળી",
+        "પાર્સલીનાં પાન",
+        "ફુદીનાનાં પાન",
+        "પીટા બ્રેડ",
+        "ઓલિવ તેલ",
+        "લીંબુનો રસ",
+        "દાડમની ઘટ્ટ ચાસણી",
+        "સુમાક",
+        "મીઠું"
+      ],
+      "steps": [
+        "પીટાના ખાઈ શકાય એવા ટુકડા કરો, થોડું ઓલિવ તેલ લગાવી કરકરા સોનેરી શેકો.",
+        "લેટીસ અને પાન ધોઈ સુકવો; ટામેટાં, કાકડી, મૂળા અને લીલી ડુંગળીના મોટા ટુકડા કરો.",
+        "બાકીના ઓલિવ તેલમાં લીંબુનો રસ, દાડમની ચાસણી, સુમાક અને મીઠું ફેંટો.",
+        "શાક અને પાનને ખાટી ડ્રેસિંગમાં ભેળવો; પીરસતાં પહેલાં જ કરકરું પીટા ઉમેરો."
+      ],
+      "tips": [
+        "પીટા જમતી વખતે ઉમેરો જેથી રસદાર શાક વચ્ચે કરકરું રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/fattoush.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

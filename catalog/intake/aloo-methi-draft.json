@@ -1,0 +1,134 @@
+{
+  "sourceReviewId": "R0506",
+  "id": "aloo-methi",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Aloo Methi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "qty": 550,
+      "unit": "g"
+    },
+    {
+      "name": "fresh fenugreek leaves",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Pick fenugreek leaves off thick stems, wash repeatedly and drain well; peel potatoes and cut into 1.5 cm cubes.",
+    "Heat oil and crackle cumin. Fry chopped onion 5 minutes, then add garlic and chilli for 1 minute.",
+    "Add potatoes, turmeric and half the salt. Cover and cook on low heat 12–15 minutes, stirring occasionally, until nearly tender.",
+    "Add fenugreek, chilli powder and remaining salt. Cook uncovered 7–8 minutes until leaves wilt and moisture evaporates; finish with lemon."
+  ],
+  "tips": [
+    "Salt fenugreek near the end so the sabzi stays fairly dry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू मेथी",
+      "ingredients": [
+        "आलू",
+        "ताज़ी मेथी के पत्ते",
+        "प्याज़",
+        "लहसुन",
+        "हरी मिर्च",
+        "तेल",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "मेथी के मोटे डंठल हटाकर पत्ते कई बार धोएँ और छानें; आलू छीलकर 1.5 सेमी टुकड़े करें।",
+        "तेल में जीरा चटकाएँ। कटा प्याज़ 5 मिनट भूनें, फिर लहसुन और मिर्च 1 मिनट पकाएँ।",
+        "आलू, हल्दी और आधा नमक डालें। ढककर धीमी आँच पर 12–15 मिनट बीच-बीच में चलाकर लगभग नरम होने तक पकाएँ।",
+        "मेथी, मिर्च पाउडर और बाकी नमक डालें। बिना ढके 7–8 मिनट पत्ते नरम और पानी सूखने तक पकाएँ; नींबू डालें।"
+      ],
+      "tips": [
+        "मेथी में नमक अंत में डालें ताकि सब्ज़ी काफ़ी सूखी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકા મેથીનું શાક",
+      "ingredients": [
+        "બટાકા",
+        "તાજી મેથીના પાન",
+        "ડુંગળી",
+        "લસણ",
+        "લીલું મરચું",
+        "તેલ",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "મેથીની જાડી દાંડી કાઢી પાન વારંવાર ધોઈ નીતારો; બટાકા છોલી 1.5 સેમીના ટુકડા કરો.",
+        "તેલમાં જીરું તતડાવો. સમારેલી ડુંગળી 5 મિનિટ શેકો, પછી લસણ અને મરચું 1 મિનિટ પકાવો.",
+        "બટાકા, હળદર અને અડધું મીઠું ઉમેરો. ઢાંકીને ધીમી આંચે 12–15 મિનિટ વચ્ચે હલાવી લગભગ નરમ થાય ત્યાં સુધી પકાવો.",
+        "મેથી, મરચું પાઉડર અને બાકી મીઠું ઉમેરો. ઢાંકણ વિના 7–8 મિનિટ પાન ચીમળાય અને પાણી સુકાય ત્યાં સુધી પકાવો; લીંબુ ઉમેરો."
+      ],
+      "tips": [
+        "મેથીમાં મીઠું અંતે ઉમેરો જેથી શાક પૂરતું કોરું રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/aloo-methi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

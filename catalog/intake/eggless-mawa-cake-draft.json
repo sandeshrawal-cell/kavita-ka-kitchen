@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R1706",
+  "id": "eggless-mawa-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Mawa Cake",
+  "cuisine": "Indian",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "crumbled mawa",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 95,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "pistachios",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm cake tin. Crumble mawa finely so no large lumps remain; sift flour with baking powder and salt.",
+    "Beat softened butter and sugar until pale. Beat in mawa and cardamom, then fold in the flour mixture alternately with milk to make a thick, spoonable batter.",
+    "Spoon the batter into the tin, level gently and scatter chopped pistachios on top. Bake 35–40 minutes until deep golden and a skewer comes out clean.",
+    "Rest the cake in its tin for 15 minutes, then unmould and cool on a rack before slicing into four generous portions."
+  ],
+  "tips": [
+    "Use fresh mawa and keep the cake refrigerated after cooling because it is dairy-rich."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का मावा केक",
+      "ingredients": [
+        "मसला मावा",
+        "मैदा",
+        "बारीक चीनी",
+        "बिना नमक का मक्खन",
+        "दूध",
+        "बेकिंग पाउडर",
+        "पिसी इलायची",
+        "पिस्ता",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करके 15 सेमी केक टिन में पेपर लगाएँ। मावा बारीक मसलें ताकि बड़े टुकड़े न रहें; मैदा, बेकिंग पाउडर और नमक छानें।",
+        "नरम मक्खन और चीनी हल्की होने तक फेंटें। मावा और इलायची मिलाएँ, फिर मैदा मिश्रण और दूध बारी-बारी मिलाकर गाढ़ा, चम्मच से गिरने वाला घोल बनाएँ।",
+        "घोल टिन में डालकर धीरे समतल करें और ऊपर कटा पिस्ता बिखेरें। गहरा सुनहरा होने और सींक साफ निकलने तक 35–40 मिनट बेक करें।",
+        "केक को टिन में 15 मिनट रखें, फिर निकालकर जाली पर ठंडा करें और चार बड़े हिस्से काटें।"
+      ],
+      "tips": [
+        "ताज़ा मावा लें और ठंडा होने के बाद डेयरी अधिक होने के कारण केक फ्रिज में रखें।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની માવા કેક",
+      "ingredients": [
+        "ભૂકો કરેલો માવો",
+        "મેંદો",
+        "ઝીણી ખાંડ",
+        "મીઠા વગરનું માખણ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "ઈલાયચીનો ભૂકો",
+        "પિસ્તા",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરી 15 સેમી કેક ટિનમાં પેપર પાથરો. માવો ઝીણો ભાંગો જેથી મોટા ગઠ્ઠા ન રહે; મેંદો, બેકિંગ પાઉડર અને મીઠું ચાળો.",
+        "નરમ માખણ અને ખાંડ હળવા થાય ત્યાં સુધી ફેંટો. માવો અને ઈલાયચી ભેળવો, પછી લોટનું મિશ્રણ અને દૂધ વારેવારે ઉમેરી ચમચીથી પડે એવું ઘટ્ટ ખીરું બનાવો.",
+        "ખીરું ટિનમાં નાખી હળવેથી સમતળ કરો અને ઉપર સમારેલો પિસ્તો છાંટો. ઘેરો સોનેરી થાય અને સળી ચોખ્ખી નીકળે ત્યાં સુધી 35–40 મિનિટ બેક કરો.",
+        "કેકને ટિનમાં 15 મિનિટ રાખો, પછી બહાર કાઢી જાળી પર ઠંડું કરો અને ચાર મોટા ટુકડા કાપો."
+      ],
+      "tips": [
+        "તાજો માવો લો અને ઠંડું થયા પછી ડેરીનું પ્રમાણ વધુ હોવાથી કેક ફ્રિજમાં રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-mawa-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

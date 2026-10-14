@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0612",
+  "id": "pulissery",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pulissery",
+  "cuisine": "Kerala",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "ripe mango, peeled",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coconut",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut mango into large pieces and simmer with turmeric, half the water and salt for 8–10 minutes until tender.",
+    "Grind coconut, green chillies and cumin with remaining water into a fine paste; whisk yogurt smooth.",
+    "Add coconut paste to mango and simmer 4 minutes. Reduce heat and stir in yogurt; warm gently for 2–3 minutes without boiling.",
+    "Heat coconut oil and crackle mustard seeds, dried red chillies and curry leaves. Pour over the curry and rest 5 minutes before serving."
+  ],
+  "tips": [
+    "Use sweet ripe mango to balance the lightly sour yogurt; do not let yogurt boil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पुलिस्सेरी",
+      "ingredients": [
+        "पका आम, छीला हुआ",
+        "सादा दही",
+        "ताज़ा नारियल",
+        "हरी मिर्च",
+        "जीरा",
+        "हल्दी",
+        "राई",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "आम बड़े टुकड़ों में काटकर हल्दी, आधा पानी और नमक के साथ 8–10 मिनट नरम होने तक पकाएँ।",
+        "नारियल, हरी मिर्च और जीरा बाकी पानी के साथ बारीक पीसें; दही चिकना फेंटें।",
+        "आम में नारियल का पेस्ट डालकर 4 मिनट पकाएँ। आँच कम कर दही मिलाएँ; बिना उबाले 2–3 मिनट गरम करें।",
+        "नारियल तेल में राई, सूखी मिर्च और कड़ी पत्ता चटकाएँ। तड़का करी पर डालकर 5 मिनट बाद परोसें।"
+      ],
+      "tips": [
+        "हल्के खट्टे दही को संतुलित करने के लिए मीठा पका आम लें; दही को न उबालें।"
+      ]
+    },
+    "gu": {
+      "name": "પુલિસેરી",
+      "ingredients": [
+        "પાકેલી કેરી, છોલેલી",
+        "સાદું દહીં",
+        "તાજું નાળિયેર",
+        "લીલાં મરચાં",
+        "જીરું",
+        "હળદર",
+        "રાઈ",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "નાળિયેર તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "કેરીના મોટા ટુકડા કરી હળદર, અડધું પાણી અને મીઠા સાથે 8–10 મિનિટ નરમ થાય ત્યાં સુધી પકાવો.",
+        "નાળિયેર, લીલાં મરચાં અને જીરું બાકી પાણી સાથે બારીક પીસો; દહીં લીસું ફેંટો.",
+        "કેરીમાં નાળિયેરની પેસ્ટ ઉમેરી 4 મિનિટ પકાવો. તાપ ઓછો કરી દહીં ભેળવો; ઉકાળ્યા વિના 2–3 મિનિટ ગરમ કરો.",
+        "નાળિયેર તેલમાં રાઈ, સૂકાં મરચાં અને મીઠા લીમડાનાં પાન તતડાવો. વઘાર કઢી પર નાખી 5 મિનિટ પછી પીરસો."
+      ],
+      "tips": [
+        "થોડાં ખાટાં દહીંને સંતુલિત કરવા મીઠી પાકેલી કેરી લો; દહીં ઉકાળશો નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pulissery.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0915",
+  "id": "rasam-sadam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Rasam Sadam",
+  "cuisine": "Tamil",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "toor dal",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 850,
+      "unit": "ml"
+    },
+    {
+      "name": "rasam powder",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook the toor dal until soft and mash it; dissolve tamarind in part of the water and squeeze out the pulp.",
+    "Simmer crushed tomato with tamarind water, turmeric, rasam powder and salt until the raw sour edge disappears.",
+    "Add mashed dal and remaining water; heat until a fine foam rises, then turn off the heat before a hard boil.",
+    "Sizzle mustard, cumin, crushed garlic and curry leaves in ghee; pour over the rasam, add coriander and mix generously with warm cooked rice."
+  ],
+  "tips": [
+    "Add rice just before serving so it stays pleasantly soft rather than drinking up all the rasam."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रसम सादम",
+      "ingredients": [
+        "पके चावल",
+        "टमाटर",
+        "इमली का गूदा",
+        "अरहर दाल",
+        "पानी",
+        "रसम पाउडर",
+        "हल्दी",
+        "राई",
+        "जीरा",
+        "लहसुन",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "अरहर दाल नरम पकाकर मसलें; इमली को थोड़े पानी में घोलकर उसका रस निकालें।",
+        "कुचले टमाटर को इमली के पानी, हल्दी, रसम पाउडर और नमक के साथ कच्ची खटास जाने तक उबालें।",
+        "मसली दाल और बचा पानी डालें; हल्का झाग उठते ही आँच बंद करें, तेज उबाल न दें।",
+        "घी में राई, जीरा, कुचला लहसुन और कड़ी पत्ते चटकाएँ; रसम पर डालें, धनिया मिलाएँ और गरम पके चावल के साथ अच्छी तरह मिलाएँ।"
+      ],
+      "tips": [
+        "चावल परोसते समय ही मिलाएँ ताकि वह रसम का सारा रस सोखकर सूखा न हो जाए।"
+      ]
+    },
+    "gu": {
+      "name": "રસમ સાદમ",
+      "ingredients": [
+        "રાંધેલા ચોખા",
+        "ટામેટાં",
+        "આમલીનો માવો",
+        "તુવેર દાળ",
+        "પાણી",
+        "રસમ પાઉડર",
+        "હળદર",
+        "રાઈ",
+        "જીરું",
+        "લસણ",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "તુવેર દાળ નરમ રાંધી મસળો; આમલીને થોડા પાણીમાં ઘોળીને તેનો રસ કાઢો.",
+        "કચડેલા ટામેટાંને આમલીના પાણી, હળદર, રસમ પાઉડર અને મીઠા સાથે કાચી ખટાશ જાય ત્યાં સુધી ઉકાળો.",
+        "મસળેલી દાળ અને બાકીનું પાણી ઉમેરો; ઉપર હળવો ફીણ આવે એટલે તાપ બંધ કરો, વધુ ઉકાળો નહીં.",
+        "ઘીમાં રાઈ, જીરું, કચડેલું લસણ અને મીઠો લીમડો વઘારો; રસમ પર રેડો, ધાણા ઉમેરો અને ગરમ રાંધેલા ચોખા સાથે સારી રીતે ભેળવો."
+      ],
+      "tips": [
+        "ચોખા પીરસતી વખતે જ ભેળવો જેથી તે બધો રસમ શોષીને સૂકા ન થઈ જાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/rasam-sadam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

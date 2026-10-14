@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R1106",
+  "id": "kakdi-koshimbir",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kakdi Koshimbir",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanut powder",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel and finely dice cucumber, removing the watery seed core if it is very mature.",
+    "Whisk yogurt with sugar, salt and lemon; fold in cucumber, peanut powder, chilli and coriander.",
+    "Pop mustard seeds and curry leaves in hot oil, then let the tempering cool until merely warm.",
+    "Stir the cooled tempering into the koshimbir and serve promptly so the cucumber remains crisp."
+  ],
+  "tips": [
+    "Roasted peanut powder thickens the dressing; add it shortly before serving."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काकड़ी कोशिंबीर",
+      "ingredients": [
+        "खीरा",
+        "भुनी मूंगफली का पाउडर",
+        "सादा दही",
+        "हरी मिर्च",
+        "चीनी",
+        "नींबू का रस",
+        "राई",
+        "कड़ी पत्ते",
+        "तेल",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "खीरा छीलकर बारीक काटें; बहुत पका हो तो पानी वाला बीज वाला भाग हटाएँ।",
+        "दही में चीनी, नमक और नींबू फेंटें; खीरा, मूंगफली पाउडर, मिर्च और धनिया मिलाएँ।",
+        "गरम तेल में राई और कड़ी पत्ते चटकाएँ, फिर तड़का बस हल्का गरम रह जाए तब तक ठंडा करें।",
+        "ठंडा तड़का कोशिंबीर में मिलाएँ और तुरंत परोसें ताकि खीरा कुरकुरा रहे।"
+      ],
+      "tips": [
+        "भुनी मूंगफली ड्रेसिंग को गाढ़ा करती है; इसे परोसने के करीब डालें।"
+      ]
+    },
+    "gu": {
+      "name": "કાકડી કોશિંબીર",
+      "ingredients": [
+        "કાકડી",
+        "શેકેલી મગફળીનો ભૂકો",
+        "સાદું દહીં",
+        "લીલું મરચું",
+        "ખાંડ",
+        "લીંબુનો રસ",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "તેલ",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "કાકડી છોલીને ઝીણી કાપો; વધારે પાકી હોય તો પાણીવાળો બીજનો ભાગ કાઢો.",
+        "દહીંમાં ખાંડ, મીઠું અને લીંબુ ફેંટો; કાકડી, મગફળીનો ભૂકો, મરચું અને ધાણા ભેળવો.",
+        "ગરમ તેલમાં રાઈ અને મીઠો લીમડો વઘારો, પછી વઘાર હૂંફાળો થાય ત્યાં સુધી ઠંડો કરો.",
+        "ઠંડો વઘાર કોશિંબીરમાં ભેળવો અને કાકડી કરકરી રહે તે માટે તરત પીરસો."
+      ],
+      "tips": [
+        "શેકેલી મગફળી ડ્રેસિંગ ઘટ્ટ કરે છે; તેને પીરસવા પહેલાં જ ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kakdi-koshimbir.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

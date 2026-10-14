@@ -1,0 +1,141 @@
+{
+  "sourceReviewId": "R0703",
+  "id": "kashmiri-pulao",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kashmiri Pulao",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 330,
+      "unit": "g"
+    },
+    {
+      "name": "apple",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "pomegranate seeds",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "golden raisins",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "whole spices (cardamom, cloves, cinnamon, bay)",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.2,
+      "unit": "g"
+    },
+    {
+      "name": "warm milk",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse and soak rice 25 minutes, then drain. Soak saffron in warm milk and cut apple into small cubes just before use.",
+    "Heat half the ghee and toast almonds, cashews and raisins until nuts are light golden and raisins plump; remove.",
+    "In the remaining ghee, bloom whole spices for 30 seconds. Add drained rice, stir 2 minutes, then pour in water, salt and saffron milk. Cover and cook on low heat 13–15 minutes.",
+    "Rest rice covered 10 minutes and fluff gently. Fold in toasted nuts, raisins and apple; scatter pomegranate over the top immediately before serving."
+  ],
+  "tips": [
+    "Add fresh fruit at the end so it stays bright and does not become mushy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कश्मीरी पुलाव",
+      "ingredients": [
+        "बासमती चावल",
+        "सेब",
+        "अनार दाने",
+        "किशमिश",
+        "बादाम",
+        "काजू",
+        "घी",
+        "खड़े मसाले (इलायची, लौंग, दालचीनी, तेजपत्ता)",
+        "केसर",
+        "गुनगुना दूध",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चावल धोकर 25 मिनट भिगोएँ और छानें। केसर गुनगुने दूध में भिगोएँ और सेब इस्तेमाल से ठीक पहले छोटे टुकड़ों में काटें।",
+        "आधा घी गरम कर बादाम, काजू और किशमिश हल्के सुनहरे और फूले होने तक भूनकर निकालें।",
+        "बाकी घी में खड़े मसाले 30 सेकंड महकाएँ। छने चावल 2 मिनट चलाएँ, फिर पानी, नमक और केसर दूध डालें। ढककर धीमी आँच पर 13–15 मिनट पकाएँ।",
+        "चावल 10 मिनट ढके रखें और हल्के फुलाएँ। भुने मेवे, किशमिश और सेब मिलाएँ; परोसने से ठीक पहले अनार ऊपर डालें।"
+      ],
+      "tips": [
+        "ताज़े फल अंत में डालें ताकि उनका रंग और बनावट बनी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "કાશ્મીરી પુલાવ",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "સફરજન",
+        "દાડમના દાણા",
+        "કિસમિસ",
+        "બદામ",
+        "કાજુ",
+        "ઘી",
+        "આખા મસાલા (એલચી, લવિંગ, તજ, તમાલપત્ર)",
+        "કેસર",
+        "હૂંફાળું દૂધ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચોખા ધોઈ 25 મિનિટ પલાળી નીતારો. કેસર હૂંફાળા દૂધમાં પલાળો અને સફરજન વાપરતા પહેલાં નાનાં ટુકડા કરો.",
+        "અડધું ઘી ગરમ કરી બદામ, કાજુ અને કિસમિસ આછાં સોનેરી અને ફૂલેલાં થાય ત્યાં સુધી શેકી કાઢો.",
+        "બાકી ઘીમાં આખા મસાલા 30 સેકંડ સુગંધિત કરો. નીતારેલા ચોખા 2 મિનિટ હલાવો, પછી પાણી, મીઠું અને કેસર દૂધ ઉમેરો. ઢાંકીને ધીમી આંચે 13–15 મિનિટ પકાવો.",
+        "ભાત 10 મિનિટ ઢાંકી રાખી હળવેથી ખોલો. શેકેલા સૂકા મેવા, કિસમિસ અને સફરજન ભેળવો; પીરસતાં પહેલાં દાડમ ઉપર નાખો."
+      ],
+      "tips": [
+        "તાજાં ફળ અંતે ઉમેરો જેથી રંગ અને બનાવટ જળવાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kashmiri-pulao.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

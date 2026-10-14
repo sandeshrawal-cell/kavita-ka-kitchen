@@ -1,0 +1,148 @@
+{
+  "sourceReviewId": "R0620",
+  "id": "dosakaya-pappu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Dosakaya Pappu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "yellow cucumber (dosakaya)",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Taste a small piece of dosakaya and discard it if bitter. Peel, deseed and cube the rest; rinse dal.",
+    "Pressure-cook dal with cucumber, chopped tomato, green chillies, turmeric and 650 ml water for 3–4 whistles until soft.",
+    "Mash gently so some cucumber pieces remain. Add salt and remaining 150 ml water; simmer 7–8 minutes.",
+    "Heat oil, crackle mustard and cumin, then add dried chilli, crushed garlic and curry leaves. Pour over the dal and serve with rice."
+  ],
+  "tips": [
+    "Use yellow dosakaya rather than a watery English cucumber for the intended tangy flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दोसकाया पप्पू",
+      "ingredients": [
+        "अरहर दाल",
+        "पीला खीरा (दोसकाया)",
+        "टमाटर",
+        "हरी मिर्च",
+        "हल्दी",
+        "तेल",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "लहसुन",
+        "कड़ी पत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "दोसकाया का छोटा टुकड़ा चखें और कड़वा हो तो फेंक दें। बाकी छीलकर बीज हटाएँ और टुकड़े करें; दाल धोएँ।",
+        "दाल को खीरा, कटे टमाटर, हरी मिर्च, हल्दी और 650 मि.ली. पानी के साथ 3–4 सीटी नरम होने तक पकाएँ।",
+        "हल्के से मसलें ताकि खीरे के कुछ टुकड़े बने रहें। नमक और बचा 150 मि.ली. पानी डालकर 7–8 मिनट पकाएँ।",
+        "तेल में राई-जीरा चटकाएँ, फिर सूखी मिर्च, कुचला लहसुन और कड़ी पत्ता डालें। दाल पर डालकर चावल संग परोसें।"
+      ],
+      "tips": [
+        "सही खट्टे स्वाद के लिए पीला दोसकाया लें, पानीदार अंग्रेज़ी खीरा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "દોસાકાયા પપ્પુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "પીળી કાકડી (દોસાકાયા)",
+        "ટામેટાં",
+        "લીલાં મરચાં",
+        "હળદર",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "લસણ",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "દોસાકાયાનો નાનો ટુકડો ચાખો અને કડવો હોય તો ફેંકી દો. બાકી છોલી બી કાઢી ટુકડા કરો; દાળ ધુઓ.",
+        "દાળને કાકડી, સમારેલાં ટામેટાં, લીલાં મરચાં, હળદર અને 650 મિ.લી. પાણી સાથે 3–4 સીટી નરમ થાય ત્યાં સુધી રાંધો.",
+        "હળવેથી મસળો જેથી કાકડીના થોડા ટુકડા રહે. મીઠું અને બાકી 150 મિ.લી. પાણી ઉમેરી 7–8 મિનિટ પકાવો.",
+        "તેલમાં રાઈ-જીરું તતડાવો, પછી સૂકાં મરચાં, કચડેલું લસણ અને મીઠા લીમડાનાં પાન નાખો. દાળ પર નાખી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "યોગ્ય ખાટા સ્વાદ માટે પીળી દોસાકાયા લો, પાણીદાર અંગ્રેજી કાકડી નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/dosakaya-pappu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

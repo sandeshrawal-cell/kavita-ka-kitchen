@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R1017",
+  "id": "jeera-rasam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Jeera Rasam",
+  "cuisine": "Tamil",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 950,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 16,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast cumin, pepper and coriander seeds lightly, cool them and crush them coarsely.",
+    "Extract tamarind into warm water and simmer it with crushed tomato, turmeric and salt until the raw edge fades.",
+    "Add the freshly crushed spice mixture and remaining water, then warm only until the rasam begins to foam.",
+    "Temper mustard and curry leaves in ghee, pour over the hot rasam and finish with coriander."
+  ],
+  "tips": [
+    "Freshly roasted cumin should lead the aroma; do not substitute a heavy premixed masala."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जीरा रसम",
+      "ingredients": [
+        "इमली का गूदा",
+        "टमाटर",
+        "पानी",
+        "जीरा",
+        "काली मिर्च साबुत",
+        "धनिया बीज",
+        "हल्दी",
+        "राई",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "जीरा, काली मिर्च और धनिया बीज हल्के सूखे भूनें, ठंडे करके दरदरे कूटें।",
+        "इमली को गुनगुने पानी में निचोड़ें; कुचले टमाटर, हल्दी और नमक के साथ कच्ची खटास जाने तक उबालें।",
+        "ताज़ा कुटा मसाला और बचा पानी डालें; रसम में झाग आने तक ही गरम करें।",
+        "घी में राई और कड़ी पत्ते चटकाकर गरम रसम पर डालें, ऊपर से धनिया मिलाएँ।"
+      ],
+      "tips": [
+        "ताज़ा भुने जीरे की खुशबू मुख्य रहे; भारी तैयार मसाले से इसे न दबाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "જીરું રસમ",
+      "ingredients": [
+        "આમલીનો માવો",
+        "ટામેટાં",
+        "પાણી",
+        "જીરું",
+        "આખા કાળા મરી",
+        "ધાણા બીજ",
+        "હળદર",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "જીરું, મરી અને ધાણા બીજ હળવાં સૂકા શેકી ઠંડાં કરો અને દરદરાં ખાંડો.",
+        "આમલીને નવશેકા પાણીમાં નિચોવો; કચડેલા ટામેટાં, હળદર અને મીઠા સાથે કાચી ખટાશ જાય ત્યાં સુધી ઉકાળો.",
+        "તાજો ખાંડેલો મસાલો અને બાકીનું પાણી ઉમેરો; રસમમાં ફીણ આવે ત્યાં સુધી જ ગરમ કરો.",
+        "ઘીમાં રાઈ અને મીઠો લીમડો વઘારી ગરમ રસમ પર રેડો, ઉપર ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "તાજા શેકેલા જીરાની સુગંધ મુખ્ય રહે; ભારે તૈયાર મસાલાથી તેને ઢાંકશો નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/jeera-rasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

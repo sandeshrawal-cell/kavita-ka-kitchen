@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R0914",
+  "id": "kashmiri-khetchir",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Kashmiri Khetchir",
+  "cuisine": "Kashmiri",
+  "categories": [
+    "One-Pot Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "split moong dal with skin",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "dry ginger powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "fennel powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the rice and split moong thoroughly; soak them briefly, then drain so the grains cook evenly.",
+    "Heat mustard oil until its raw aroma fades, lower the heat and bloom cumin with a pinch of asafoetida.",
+    "Add rice, dal, ginger, fennel and turmeric; toss gently to coat without breaking the rice.",
+    "Pour in water and salt, cover and simmer gently until the dal is cooked and rice grains remain distinct; rest covered before fluffing."
+  ],
+  "tips": [
+    "This Kashmiri-style khetchir is a simple vegetarian rice-and-moong dish; keep the grains distinct rather than mashing them."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कश्मीरी खेतचिर",
+      "ingredients": [
+        "बासमती चावल",
+        "छिलके वाली मूंग दाल",
+        "पानी",
+        "सरसों का तेल",
+        "जीरा",
+        "हींग",
+        "सोंठ पाउडर",
+        "सौंफ पाउडर",
+        "हल्दी",
+        "नमक"
+      ],
+      "steps": [
+        "चावल और छिलके वाली मूंग अच्छी तरह धोएँ; थोड़ी देर भिगोकर छानें ताकि दाने समान पकें।",
+        "सरसों का तेल कच्ची गंध जाने तक गरम करें; आँच घटाकर जीरा और चुटकी हींग चटकाएँ।",
+        "चावल, दाल, सोंठ, सौंफ और हल्दी डालें; चावल टूटे बिना हल्के हाथ से मिलाएँ।",
+        "पानी और नमक डालकर ढकें और धीमे उबालें, जब तक दाल पक जाए और चावल अलग-अलग रहें; फिर ढककर दम दें और फुलाएँ।"
+      ],
+      "tips": [
+        "यह कश्मीरी शैली का शाकाहारी चावल-मूंग व्यंजन है; दानों को मसलने के बजाय अलग रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કાશ્મીરી ખેતચિર",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "છાલવાળી મગની દાળ",
+        "પાણી",
+        "રાઈનું તેલ",
+        "જીરું",
+        "હિંગ",
+        "સૂંઠ પાઉડર",
+        "વરિયાળી પાઉડર",
+        "હળદર",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચોખા અને છાલવાળી મગની દાળ સારી રીતે ધોઈ થોડો સમય પલાળો, પછી નીતારો જેથી દાણા સરખા રંધાય.",
+        "રાઈનું તેલ કાચી ગંધ જાય ત્યાં સુધી ગરમ કરો; આંચ ધીમી કરી જીરું અને ચપટી હિંગ વઘારો.",
+        "ચોખા, દાળ, સૂંઠ, વરિયાળી અને હળદર નાખો; ચોખા ન તૂટે તેમ હળવે ભેળવો.",
+        "પાણી અને મીઠું ઉમેરી ઢાંકીને ધીમી આંચે દાળ પાકે અને ચોખા છૂટા રહે ત્યાં સુધી રાંધો; પછી ઢાંકીને આરામ આપી ફુલાવો."
+      ],
+      "tips": [
+        "આ કાશ્મીરી શૈલીની શાકાહારી ચોખા-મગની વાનગી છે; દાણા મસળવાના બદલે છૂટા રાખો."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.icampinmykitchen.com/mong-ketchir-and-dodhe-muj"
+  },
+  "photoDraft": "catalog/intake/photos/kashmiri-khetchir.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

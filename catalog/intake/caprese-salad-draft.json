@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1104",
+  "id": "caprese-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Caprese Salad",
+  "cuisine": "Italian",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mozzarella made with vegetarian rennet",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "balsamic vinegar",
+      "qty": 18,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice tomatoes and mozzarella into similar thicknesses and drain the cheese briefly.",
+    "Arrange the tomato and mozzarella slices in overlapping rows on a serving platter.",
+    "Tuck whole basil leaves between the slices so their aroma stays fresh.",
+    "Drizzle olive oil and a little balsamic vinegar over the platter, then season with salt and pepper just before eating."
+  ],
+  "tips": [
+    "Use room-temperature tomatoes and vegetarian-rennet mozzarella for the best flavor and vegetarian suitability."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कैप्रेसे सलाद",
+      "ingredients": [
+        "पके टमाटर",
+        "शाकाहारी रेनेट से बनी ताज़ी मोज़रेला",
+        "ताज़े तुलसी पत्ते",
+        "एक्स्ट्रा वर्जिन जैतून का तेल",
+        "बाल्समिक सिरका",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "टमाटर और मोज़रेला समान मोटाई में काटें; चीज़ का अतिरिक्त पानी थोड़ा निकलने दें।",
+        "परोसने की थाली में टमाटर और मोज़रेला के टुकड़ों को थोड़ा चढ़ाकर कतारों में सजाएँ।",
+        "बीच-बीच में साबुत तुलसी पत्ते रखें ताकि उनकी ताज़ी खुशबू बनी रहे।",
+        "ऊपर जैतून का तेल और थोड़ा बाल्समिक सिरका डालें; खाने से ठीक पहले नमक और मिर्च छिड़कें।"
+      ],
+      "tips": [
+        "बेहतर स्वाद और शाकाहारी उपयुक्तता के लिए कमरे के तापमान वाले टमाटर और शाकाहारी रेनेट वाली मोज़रेला लें।"
+      ]
+    },
+    "gu": {
+      "name": "કાપ્રેઝે સલાડ",
+      "ingredients": [
+        "પાકેલા ટામેટાં",
+        "શાકાહારી રેનેટથી બનેલું તાજું મોઝરેલા",
+        "તાજાં બેસિલનાં પાન",
+        "એક્સ્ટ્રા વર્જિન ઓલિવ તેલ",
+        "બાલ્સમિક વિનેગર",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ટામેટાં અને મોઝરેલા સરખી જાડાઈમાં કાપો; ચીઝનું વધારાનું પાણી થોડું નીતરવા દો.",
+        "પીરસવાની થાળીમાં ટામેટાં અને મોઝરેલાના ટુકડા થોડાં ચડાવીને ગોઠવો.",
+        "વચ્ચે આખાં બેસિલનાં પાન ગોઠવો જેથી તેમની તાજી સુગંધ જળવાય.",
+        "ઉપર ઓલિવ તેલ અને થોડું બાલ્સમિક વિનેગર રેડો; ખાતા પહેલાં મીઠું અને મરી ભભરાવો."
+      ],
+      "tips": [
+        "સારા સ્વાદ અને શાકાહારી ઉપયોગ માટે ઓરડાના તાપમાનના ટામેટાં તથા શાકાહારી રેનેટનું મોઝરેલા લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/caprese-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

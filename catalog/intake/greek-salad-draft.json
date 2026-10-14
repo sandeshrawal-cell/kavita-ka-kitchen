@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R1102",
+  "id": "greek-salad",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Greek Salad",
+  "cuisine": "Greek",
+  "categories": [
+    "Salads"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "kalamata olives",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian feta",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "red wine vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut tomatoes into wedges, cucumber into thick half-moons and pepper into strips; slice the onion thinly.",
+    "Soak sliced onion briefly in cold water, then drain and dry to soften its sharpness.",
+    "Arrange the vegetables and olives on a platter; place thick pieces of vegetarian feta on top.",
+    "Whisk olive oil, vinegar, oregano and salt, drizzle over everything and serve without crushing the feta."
+  ],
+  "tips": [
+    "Use feta made with vegetarian rennet and ripe tomatoes; the salad needs no lettuce."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्रीक सलाद",
+      "ingredients": [
+        "टमाटर",
+        "खीरा",
+        "लाल प्याज़",
+        "हरी शिमला मिर्च",
+        "कलामाटा जैतून",
+        "शाकाहारी फेटा चीज़",
+        "एक्स्ट्रा वर्जिन जैतून का तेल",
+        "रेड वाइन सिरका",
+        "सूखा ओरेगानो",
+        "नमक"
+      ],
+      "steps": [
+        "टमाटर के फाँक, खीरे के मोटे आधे चाँद और मिर्च की पट्टियाँ काटें; प्याज़ पतला काटें।",
+        "प्याज़ की तीक्ष्णता घटाने के लिए थोड़ी देर ठंडे पानी में रखें, फिर छानकर सुखाएँ।",
+        "सब्ज़ियों और जैतून को थाली में सजाएँ; ऊपर शाकाहारी फेटा के मोटे टुकड़े रखें।",
+        "जैतून का तेल, सिरका, ओरेगानो और नमक फेंटकर ऊपर डालें; फेटा तोड़े बिना परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी रेनेट से बना फेटा और पके टमाटर लें; इस सलाद में लेट्यूस नहीं चाहिए।"
+      ]
+    },
+    "gu": {
+      "name": "ગ્રીક સલાડ",
+      "ingredients": [
+        "ટામેટાં",
+        "કાકડી",
+        "લાલ ડુંગળી",
+        "લીલા શિમલા મરચાં",
+        "કલામાટા ઓલિવ",
+        "શાકાહારી ફેટા ચીઝ",
+        "એક્સ્ટ્રા વર્જિન ઓલિવ તેલ",
+        "રેડ વાઇન વિનેગર",
+        "સૂકું ઓરેગાનો",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટામેટાંના ફાડિયા, કાકડીના જાડા અડધા ચાંદ અને મરચાંની પટ્ટીઓ કાપો; ડુંગળી પાતળી કાપો.",
+        "ડુંગળીની તીખાશ ઓછી કરવા થોડો સમય ઠંડા પાણીમાં રાખો, પછી નીતારી સુકવો.",
+        "શાક અને ઓલિવ થાળીમાં ગોઠવો; ઉપર શાકાહારી ફેટાના જાડા ટુકડા મૂકો.",
+        "ઓલિવ તેલ, વિનેગર, ઓરેગાનો અને મીઠું ફેંટીને ઉપર રેડો; ફેટા મસળ્યા વિના પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી રેનેટથી બનેલું ફેટા અને પાકેલા ટામેટાં લો; આ સલાડમાં લેટીસની જરૂર નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/greek-salad.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

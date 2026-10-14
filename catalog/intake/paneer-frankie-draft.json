@@ -1,0 +1,163 @@
+{
+  "sourceReviewId": "R1404",
+  "id": "paneer-frankie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Paneer Frankie",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "paneer",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "yogurt",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour with water and a little salt; rest the dough, then roll and cook flexible flatbreads on a hot skillet.",
+    "Marinate paneer strips in yogurt, chilli powder and garam masala while you slice onion and pepper.",
+    "Heat oil, soften half the onion with ginger-garlic paste, add tomato and cook until thick; toss in pepper and paneer until heated through.",
+    "Mix the remaining raw onion with lemon juice, chaat masala and coriander for a sharp crunchy topping.",
+    "Spoon paneer filling and seasoned onion down each flatbread, fold the sides and roll tightly in paper for serving."
+  ],
+  "tips": [
+    "Let the tomato masala reduce fully before filling the frankie so the bread does not turn soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर फ्रैंकी",
+      "ingredients": [
+        "गेहूँ का आटा",
+        "पानी",
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "हरी शिमला मिर्च",
+        "दही",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "चाट मसाला",
+        "नींबू का रस",
+        "हरा धनिया",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "आटा, पानी और थोड़ा नमक गूँधकर आराम दें; फिर लचीली पतली रोटियाँ बेलकर गरम तवे पर सेकें।",
+        "पनीर की पट्टियों को दही, लाल मिर्च और गरम मसाले में रखें; प्याज़ और शिमला मिर्च काटें।",
+        "तेल में आधा प्याज़ और अदरक-लहसुन पेस्ट नरम करें, टमाटर गाढ़ा पकाएँ; शिमला मिर्च और पनीर डालकर गरम करें।",
+        "बचा कच्चा प्याज़ नींबू रस, चाट मसाला और धनिये के साथ मिलाकर चटपटा कुरकुरा टॉपिंग बनाएँ।",
+        "हर रोटी पर पनीर का भरावन और मसालेदार प्याज़ रखें, किनारे मोड़कर कसकर रोल करें और कागज़ में पकड़ाकर परोसें।"
+      ],
+      "tips": [
+        "फ्रैंकी भरने से पहले टमाटर मसाला पूरा गाढ़ा करें ताकि रोटी गीली न हो।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ફ્રેન્કી",
+      "ingredients": [
+        "ઘઉંનો લોટ",
+        "પાણી",
+        "પનીર",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલા શિમલા મરચાં",
+        "દહીં",
+        "લાલ મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "ચાટ મસાલો",
+        "લીંબુનો રસ",
+        "લીલા ધાણા",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "લોટ, પાણી અને થોડું મીઠું ભેળવી બાંધી આરામ આપો; પછી પાતળી નરમ રોટલી વણી ગરમ તવા પર શેકો.",
+        "પનીરની પટ્ટીઓને દહીં, લાલ મરચું અને ગરમ મસાલામાં રાખો; ડુંગળી અને શિમલા મરચાં કાપો.",
+        "તેલમાં અડધી ડુંગળી અને આદુ-લસણની પેસ્ટ નરમ કરો, ટામેટાં ઘટ્ટ રાંધો; શિમલા મરચાં અને પનીર નાખીને ગરમ કરો.",
+        "બાકી કાચી ડુંગળીને લીંબુના રસ, ચાટ મસાલા અને ધાણા સાથે ભેળવી ચટપટી કરકરી સજાવટ બનાવો.",
+        "દરેક રોટલી પર પનીર ભરાવણ અને મસાલેદાર ડુંગળી મૂકો, કિનારીઓ વાળી કસીને રોલ કરી કાગળમાં પીરસો."
+      ],
+      "tips": [
+        "ફ્રેન્કી ભરતા પહેલાં ટામેટાંનો મસાલો પૂરો ઘટ્ટ કરો જેથી રોટલી ભીની ન થાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paneer-frankie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

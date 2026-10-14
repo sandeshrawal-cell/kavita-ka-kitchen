@@ -1,0 +1,155 @@
+{
+  "sourceReviewId": "R0614",
+  "id": "tomato-pappu",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Tomato Pappu",
+  "cuisine": "Andhra",
+  "categories": [
+    "Dal/Legumes",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "qty": 260,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 850,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse toor dal until water runs clear. Put in a pressure cooker with 650 ml water, chopped tomatoes, onion, green chillies and turmeric; cook 3–4 whistles until soft.",
+    "Mash the cooked dal and tomatoes. Stir in tamarind, salt and remaining 200 ml water; simmer uncovered 8 minutes.",
+    "Heat oil in a small pan; crackle mustard and cumin. Add dried chillies, curry leaves and crushed garlic; fry until garlic turns pale golden.",
+    "Pour the hot tempering into the dal, cover 2 minutes to capture the aroma, then stir and serve with rice."
+  ],
+  "tips": [
+    "Tomatoes give most of the tang; reduce tamarind if they are very sour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टमाटर पप्पू",
+      "ingredients": [
+        "अरहर दाल",
+        "टमाटर",
+        "प्याज़",
+        "हरी मिर्च",
+        "लहसुन",
+        "हल्दी",
+        "इमली का गूदा",
+        "तेल",
+        "राई",
+        "जीरा",
+        "सूखी लाल मिर्च",
+        "कड़ी पत्ता",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "अरहर दाल धोकर 650 मि.ली. पानी, कटे टमाटर, प्याज़, हरी मिर्च और हल्दी के साथ प्रेशर कुकर में 3–4 सीटी नरम होने तक पकाएँ।",
+        "पकी दाल और टमाटर मसलें। इमली, नमक और बाकी 200 मि.ली. पानी डालकर बिना ढके 8 मिनट पकाएँ।",
+        "छोटी कड़ाही में तेल गरम कर राई और जीरा चटकाएँ। सूखी मिर्च, कड़ी पत्ता और कुचला लहसुन डालकर हल्का सुनहरा करें।",
+        "गरम तड़का दाल में डालकर खुशबू के लिए 2 मिनट ढकें, फिर मिलाकर चावल के साथ परोसें।"
+      ],
+      "tips": [
+        "खटास मुख्यतः टमाटर से आती है; टमाटर बहुत खट्टे हों तो इमली घटाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટામેટાં પપ્પુ",
+      "ingredients": [
+        "તુવેર દાળ",
+        "ટામેટાં",
+        "ડુંગળી",
+        "લીલાં મરચાં",
+        "લસણ",
+        "હળદર",
+        "આમલીનો માવો",
+        "તેલ",
+        "રાઈ",
+        "જીરું",
+        "સૂકાં લાલ મરચાં",
+        "મીઠા લીમડાનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "તુવેર દાળ ધોઈ 650 મિ.લી. પાણી, સમારેલાં ટામેટાં, ડુંગળી, લીલાં મરચાં અને હળદર સાથે પ્રેશર કૂકરમાં 3–4 સીટી નરમ થાય ત્યાં સુધી રાંધો.",
+        "પાકેલી દાળ અને ટામેટાં મસળો. આમલી, મીઠું અને બાકી 200 મિ.લી. પાણી ઉમેરી ઢાંકણ વિના 8 મિનિટ પકાવો.",
+        "નાની વઘારિયામાં તેલ ગરમ કરી રાઈ અને જીરું તતડાવો. સૂકાં મરચાં, મીઠા લીમડાનાં પાન અને કચડેલું લસણ ઉમેરી આછું સોનેરી કરો.",
+        "ગરમ વઘાર દાળમાં નાખી સુગંધ માટે 2 મિનિટ ઢાંકો, પછી ભેળવી ભાત સાથે પીરસો."
+      ],
+      "tips": [
+        "ખટાશ મુખ્યત્વે ટામેટાંથી આવે છે; ટામેટાં ખૂબ ખાટાં હોય તો આમલી ઓછી કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tomato-pappu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

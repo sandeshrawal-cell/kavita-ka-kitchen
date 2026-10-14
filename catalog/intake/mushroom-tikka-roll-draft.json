@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1409",
+  "id": "mushroom-tikka-roll",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Mushroom Tikka Roll",
+  "cuisine": "Indian",
+  "categories": [
+    "Wraps"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "button mushrooms",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "thick plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "whole-wheat flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "red onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "mint chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Quarter the mushrooms and coat with yogurt, toasted gram flour, ginger-garlic, chilli, garam masala, lemon juice and 4 g salt; marinate 15 minutes.",
+    "Knead flour with water, 10 ml oil and remaining salt into a soft dough. Rest 10 minutes, divide into four, and roll into thin rotis.",
+    "Cook the rotis on a hot tawa on both sides until brown spots form. In another pan, sear mushrooms in remaining oil over high heat for 7–9 minutes until browned and cooked through.",
+    "Spread 20 g mint chutney on each roti, add hot mushroom tikka and sliced onion, then roll tightly and serve immediately."
+  ],
+  "tips": [
+    "Keep the pan hot and uncrowded so the mushrooms brown instead of steaming."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम टिक्का रोल",
+      "ingredients": [
+        "बटन मशरूम",
+        "गाढ़ा सादा दही",
+        "बेसन",
+        "अदरक-लहसुन पेस्ट",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "नींबू का रस",
+        "गेहूँ का आटा",
+        "गूँधने के लिए पानी",
+        "लाल प्याज़",
+        "पुदीने की चटनी",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मशरूम चार टुकड़ों में काटें और दही, भुना बेसन, अदरक-लहसुन, मिर्च, गरम मसाला, नींबू रस और 4 ग्राम नमक लगाकर 15 मिनट रखें।",
+        "आटे में पानी, 10 मिली तेल और बचा नमक डालकर नरम गूँधें। 10 मिनट रखकर चार पतली रोटियाँ बेलें।",
+        "गरम तवे पर रोटियाँ दोनों ओर भूरे धब्बे आने तक सेंकें। दूसरे पैन में बचे तेल पर मशरूम तेज आँच पर 7–9 मिनट भूनें, ताकि वे पककर सुनहरे हों।",
+        "हर रोटी पर 20 ग्राम पुदीना चटनी लगाएँ, गरम मशरूम टिक्का और कटा प्याज़ रखें, कसकर रोल करें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "मशरूम भाप में गलने के बजाय सुनहरे हों, इसके लिए पैन गरम रखें और बहुत न भरें।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ ટિક્કા રોલ",
+      "ingredients": [
+        "બટન મશરૂમ",
+        "ઘાટું સાદું દહીં",
+        "ચણાનો લોટ",
+        "આદુ-લસણની પેસ્ટ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "લીંબુનો રસ",
+        "ઘઉંનો લોટ",
+        "લોટ બાંધવા માટે પાણી",
+        "લાલ ડુંગળી",
+        "ફુદીનાની ચટણી",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મશરૂમના ચાર ટુકડા કરી દહીં, શેકેલો ચણાનો લોટ, આદુ-લસણ, મરચું, ગરમ મસાલો, લીંબુનો રસ અને 4 ગ્રામ મીઠું લગાવી 15 મિનિટ રાખો.",
+        "લોટમાં પાણી, 10 મિલી તેલ અને બાકી મીઠું ઉમેરી નરમ બાંધો. 10 મિનિટ રાખી ચાર પાતળી રોટલી વણો.",
+        "ગરમ તવા પર રોટલી બંને બાજુ ભૂરાં ટપકાં પડે ત્યાં સુધી શેકો. બીજા પેનમાં બાકીના તેલમાં મશરૂમ તેજ તાપે 7–9 મિનિટ શેકો, જેથી તે પાકી જાય અને રંગ આવે.",
+        "દરેક રોટલી પર 20 ગ્રામ ફુદીનાની ચટણી લગાવો, ગરમ મશરૂમ ટિક્કા અને સમારેલી ડુંગળી મૂકો, ચુસ્ત વાળી તરત પીરસો."
+      ],
+      "tips": [
+        "મશરૂમ વરાળમાં બફાવાને બદલે શેકાય તે માટે પેન ગરમ રાખો અને વધારે ન ભરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-tikka-roll.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

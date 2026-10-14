@@ -1,0 +1,162 @@
+{
+  "sourceReviewId": "R0507",
+  "id": "gobi-matar",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Gobi Matar",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 230,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut cauliflower into even florets and wash. Chop onion and tomatoes; mince ginger and garlic.",
+    "Heat oil; bloom cumin and brown onion for 6 minutes. Add ginger and garlic for 1 minute.",
+    "Add tomatoes, turmeric, coriander, chilli powder and salt; fry 6–8 minutes until tomato breaks down.",
+    "Fold in cauliflower and peas with water. Cover and cook 12–15 minutes until just tender; uncover to dry excess liquid, then add garam masala and coriander."
+  ],
+  "tips": [
+    "Keep cauliflower pieces firm rather than cooking them until mushy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गोभी मटर",
+      "ingredients": [
+        "फूलगोभी के फूल",
+        "हरे मटर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "तेल",
+        "जीरा",
+        "हल्दी",
+        "धनिया पाउडर",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "पानी",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "फूलगोभी के बराबर फूल काटकर धोएँ। प्याज़ और टमाटर काटें; अदरक और लहसुन बारीक करें।",
+        "तेल में जीरा चटकाकर प्याज़ 6 मिनट सुनहरा करें। अदरक और लहसुन 1 मिनट भूनें।",
+        "टमाटर, हल्दी, धनिया, मिर्च पाउडर और नमक डालकर 6–8 मिनट टमाटर गलने तक भूनें।",
+        "फूलगोभी, मटर और पानी मिलाएँ। ढककर 12–15 मिनट बस नरम होने तक पकाएँ; अतिरिक्त पानी सुखाकर गरम मसाला और धनिया डालें।"
+      ],
+      "tips": [
+        "फूलगोभी के फूल हल्के कड़े रखें, गलाकर लुगदी न बनाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ફૂલકોબી વટાણાનું શાક",
+      "ingredients": [
+        "ફૂલકોબીના ફૂલ",
+        "લીલા વટાણા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "તેલ",
+        "જીરું",
+        "હળદર",
+        "ધાણા પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "પાણી",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ફૂલકોબીના સરખા ફૂલ કાપી ધુઓ. ડુંગળી અને ટામેટાં સમારો; આદુ અને લસણ ઝીણાં કરો.",
+        "તેલમાં જીરું તતડાવી ડુંગળી 6 મિનિટ સોનેરી કરો. આદુ અને લસણ 1 મિનિટ શેકો.",
+        "ટામેટાં, હળદર, ધાણા, મરચું પાઉડર અને મીઠું ઉમેરી 6–8 મિનિટ ટામેટાં ગળી જાય ત્યાં સુધી શેકો.",
+        "ફૂલકોબી, વટાણા અને પાણી ઉમેરો. ઢાંકીને 12–15 મિનિટ નરમ થાય ત્યાં સુધી પકાવો; વધારાનું પાણી સુકવી ગરમ મસાલો અને ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "ફૂલકોબીના ફૂલ થોડા કડક રાખો, ગાળી પોચા ન કરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/gobi-matar.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

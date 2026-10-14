@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1011",
+  "id": "garlic-rasam",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Garlic Rasam",
+  "cuisine": "Tamil",
+  "categories": [
+    "Soups"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 950,
+      "unit": "ml"
+    },
+    {
+      "name": "rasam powder",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak tamarind in warm water and squeeze it well; roughly crush the garlic, pepper and cumin.",
+    "Simmer chopped tomatoes in tamarind water with turmeric, rasam powder and salt until the tomatoes collapse.",
+    "Add crushed garlic mixture and remaining water, then heat gently until the surface foams without boiling hard.",
+    "Crackle mustard and curry leaves in ghee, pour over the rasam and finish with chopped coriander."
+  ],
+  "tips": [
+    "Crush garlic just before cooking for a fragrant rasam without a bitter taste."
+  ],
+  "translations": {
+    "hi": {
+      "name": "लहसुन रसम",
+      "ingredients": [
+        "टमाटर",
+        "इमली का गूदा",
+        "लहसुन",
+        "पानी",
+        "रसम पाउडर",
+        "हल्दी",
+        "काली मिर्च साबुत",
+        "जीरा",
+        "राई",
+        "कड़ी पत्ते",
+        "घी",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "इमली को गुनगुने पानी में भिगोकर रस निकालें; लहसुन, काली मिर्च और जीरा मोटा कूटें।",
+        "कटे टमाटरों को इमली के पानी, हल्दी, रसम पाउडर और नमक के साथ गलने तक पकाएँ।",
+        "कुचले लहसुन वाला मसाला और बचा पानी डालें; ऊपर झाग आने तक हल्का गरम करें, तेज उबाल न दें।",
+        "घी में राई और कड़ी पत्ते चटकाकर रसम पर डालें, फिर कटा धनिया मिलाएँ।"
+      ],
+      "tips": [
+        "कड़वाहट से बचने और सुगंध के लिए लहसुन पकाने से ठीक पहले कूटें।"
+      ]
+    },
+    "gu": {
+      "name": "લસણ રસમ",
+      "ingredients": [
+        "ટામેટાં",
+        "આમલીનો માવો",
+        "લસણ",
+        "પાણી",
+        "રસમ પાઉડર",
+        "હળદર",
+        "આખા કાળા મરી",
+        "જીરું",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "ઘી",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "આમલીને નવશેકા પાણીમાં પલાળી રસ કાઢો; લસણ, મરી અને જીરું થોડું ખાંડો.",
+        "કાપેલા ટામેટાંને આમલીના પાણી, હળદર, રસમ પાઉડર અને મીઠા સાથે ઓગળે ત્યાં સુધી રાંધો.",
+        "ખાંડેલું લસણવાળું મિશ્રણ અને બાકીનું પાણી ઉમેરો; ઉપર ફીણ આવે ત્યાં સુધી ધીમે ગરમ કરો, વધુ ઉકાળો નહીં.",
+        "ઘીમાં રાઈ અને મીઠો લીમડો વઘારી રસમ પર રેડો, પછી કાપેલા ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "કડવાશ ટાળવા અને સુગંધ માટે લસણ રાંધતા પહેલાં જ ખાંડવું."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/garlic-rasam.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

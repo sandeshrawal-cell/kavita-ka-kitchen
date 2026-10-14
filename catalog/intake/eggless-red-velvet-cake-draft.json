@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R1704",
+  "id": "eggless-red-velvet-cake",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Eggless Red Velvet Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 155,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "caster sugar",
+      "qty": 115,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 145,
+      "unit": "ml"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "red gel food colour",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "cream cheese",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "icing sugar",
+      "qty": 75,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 170°C and line a 15 cm round tin. Stir vinegar into milk and leave 5 minutes to make a quick buttermilk.",
+    "Sift flour, cocoa, baking powder and baking soda. Whisk sugar, oil, buttermilk, red gel and vanilla; fold in the dry ingredients without overmixing.",
+    "Pour into the tin and bake 30–35 minutes until a skewer comes out clean. Cool completely and split the cake horizontally.",
+    "Beat softened butter and icing sugar until light, then beat in cool cream cheese only until smooth. Spread frosting between the layers and over the cake; chill 30 minutes before cutting."
+  ],
+  "tips": [
+    "Use food-safe red gel colour; liquid colouring can thin the batter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का रेड वेल्वेट केक",
+      "ingredients": [
+        "मैदा",
+        "बिना चीनी का कोको पाउडर",
+        "बारीक चीनी",
+        "दूध",
+        "सफेद सिरका",
+        "बिना तेज़ स्वाद वाला तेल",
+        "बेकिंग पाउडर",
+        "बेकिंग सोडा",
+        "लाल जेल फूड कलर",
+        "वैनिला अर्क",
+        "क्रीम चीज़",
+        "बिना नमक का मक्खन",
+        "पिसी चीनी"
+      ],
+      "steps": [
+        "ओवन 170°C पर गरम करें और 15 सेमी गोल टिन में पेपर लगाएँ। दूध में सिरका मिलाकर 5 मिनट रखें ताकि छाछ जैसा मिश्रण बने।",
+        "मैदा, कोको, बेकिंग पाउडर और बेकिंग सोडा छानें। चीनी, तेल, तैयार दूध, लाल जेल और वैनिला फेंटें; सूखी सामग्री धीरे से मिलाएँ।",
+        "टिन में डालकर सींक साफ आने तक 30–35 मिनट बेक करें। पूरी तरह ठंडा करके केक को बीच से काटें।",
+        "नरम मक्खन और पिसी चीनी हल्की होने तक फेंटें, फिर ठंडा क्रीम चीज़ केवल चिकना होने तक फेंटें। परतों के बीच और ऊपर फ्रॉस्टिंग लगाएँ; काटने से पहले 30 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "खाने योग्य लाल जेल रंग लें; तरल रंग घोल को पतला कर सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વગરની રેડ વેલ્વેટ કેક",
+      "ingredients": [
+        "મેંદો",
+        "ખાંડ વગરનો કોકો પાઉડર",
+        "ઝીણી ખાંડ",
+        "દૂધ",
+        "સફેદ સરકો",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બેકિંગ પાઉડર",
+        "બેકિંગ સોડા",
+        "લાલ જેલ ફૂડ કલર",
+        "વેનીલા એસેન્સ",
+        "ક્રીમ ચીઝ",
+        "મીઠા વગરનું માખણ",
+        "આઇસિંગ સુગર"
+      ],
+      "steps": [
+        "ઓવન 170°C પર ગરમ કરો અને 15 સેમી ગોળ ટિનમાં પેપર પાથરો. દૂધમાં સરકો ભેળવી 5 મિનિટ રાખો જેથી છાશ જેવું મિશ્રણ બને.",
+        "મેંદો, કોકો, બેકિંગ પાઉડર અને બેકિંગ સોડા ચાળો. ખાંડ, તેલ, તૈયાર દૂધ, લાલ જેલ અને વેનીલા ફેંટો; સૂકી સામગ્રી વધારે ન હલાવતાં ભેળવો.",
+        "ટિનમાં નાખી સળી ચોખ્ખી નીકળે ત્યાં સુધી 30–35 મિનિટ બેક કરો. પૂરેપૂરું ઠંડું કરી કેક આડું કાપો.",
+        "નરમ માખણ અને આઇસિંગ સુગર હળવા થાય ત્યાં સુધી ફેંટો, પછી ઠંડું ક્રીમ ચીઝ માત્ર મસૃણ થાય ત્યાં સુધી ફેંટો. પડની વચ્ચે અને ઉપર ફ્રોસ્ટિંગ લગાવો; કાપતાં પહેલાં 30 મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "ખાદ્ય લાલ જેલ રંગ વાપરો; પ્રવાહી રંગ ખીરું પાતળું કરી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/eggless-red-velvet-cake.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

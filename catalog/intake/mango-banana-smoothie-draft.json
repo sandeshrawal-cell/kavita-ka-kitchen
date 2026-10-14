@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R1904",
+  "id": "mango-banana-smoothie",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Mango Banana Smoothie",
+  "cuisine": "Global",
+  "categories": [
+    "Smoothies"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 10,
+  "ingredients": [
+    {
+      "name": "ripe mango flesh",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "ripe banana",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "chilled milk",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "lime juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "honey",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ice cubes",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cube the mango flesh and slice peeled banana; chill both so the blended fruit stays thick.",
+    "Blend mango, banana, yogurt and half the milk until completely smooth.",
+    "Add remaining milk, lime juice and honey; taste, then pulse with ice just until frothy.",
+    "Pour into four glasses and serve promptly; stir once if it stands for a few minutes."
+  ],
+  "tips": [
+    "The banana already sweetens the drink, so add honey only after tasting."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आम केला स्मूदी",
+      "ingredients": [
+        "पके आम का गूदा",
+        "पका केला",
+        "सादा दही",
+        "ठंडा दूध",
+        "नीबू का रस",
+        "शहद",
+        "बर्फ के टुकड़े"
+      ],
+      "steps": [
+        "आम का गूदा टुकड़ों में और छिला केला फाँकों में काटें; दोनों ठंडे करें ताकि स्मूदी गाढ़ी रहे।",
+        "आम, केला, दही और आधा दूध पूरी तरह चिकना होने तक ब्लेंड करें।",
+        "बचा दूध, नीबू रस और शहद डालें; चखें, फिर बर्फ के साथ बस झाग आने तक चलाएँ।",
+        "चार गिलासों में डालकर तुरंत परोसें; कुछ मिनट रखा हो तो एक बार चलाएँ।"
+      ],
+      "tips": [
+        "केला पहले ही मिठास देता है, इसलिए शहद चखने के बाद ही डालें।"
+      ]
+    },
+    "gu": {
+      "name": "કેરી કેળાની સ્મૂધી",
+      "ingredients": [
+        "પાકી કેરીનો ગૂદો",
+        "પાકું કેળું",
+        "સાદું દહીં",
+        "ઠંડું દૂધ",
+        "લીંબુનો રસ",
+        "મધ",
+        "બરફના ટુકડા"
+      ],
+      "steps": [
+        "કેરીનો ગૂદો ટુકડામાં અને છોલેલું કેળું ફાંકોમાં કાપો; બંને ઠંડાં કરો જેથી સ્મૂધી ઘટ્ટ રહે.",
+        "કેરી, કેળું, દહીં અને અડધું દૂધ પૂરેપૂરું મસૃણ થાય ત્યાં સુધી બ્લેન્ડ કરો.",
+        "બાકી દૂધ, લીંબુનો રસ અને મધ ઉમેરો; ચાખો, પછી બરફ સાથે માત્ર ફીણ આવે ત્યાં સુધી ફેરવો.",
+        "ચાર ગ્લાસમાં રેડી તરત પીરસો; થોડી મિનિટ રાખ્યું હોય તો એક વાર હલાવો."
+      ],
+      "tips": [
+        "કેળું પહેલેથી મીઠાશ આપે છે, તેથી મધ ચાખ્યા પછી જ ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mango-banana-smoothie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}

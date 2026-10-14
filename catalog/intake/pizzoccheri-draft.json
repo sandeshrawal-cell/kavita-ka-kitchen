@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R0905",
+  "id": "pizzoccheri",
+  "status": "published-sixth-100-intake-batch",
+  "name": "Pizzoccheri",
+  "cuisine": "Italian",
+  "categories": [
+    "One-Pot Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "egg-free pizzoccheri buckwheat pasta",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "Savoy cabbage",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian Fontina-style cheese",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "sage leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2200,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel potatoes and cut into 2 cm cubes; shred cabbage. Dice the vegetarian melting cheese and grate the hard cheese.",
+    "Bring measured salted water to a boil. Cook potatoes and cabbage 5 minutes; add pizzoccheri and simmer another 10–12 minutes until pasta and potatoes are tender.",
+    "Meanwhile heat butter gently with sliced garlic and sage until the butter turns nut-brown and garlic is golden; remove from heat before it burns.",
+    "Drain pasta and vegetables well. Layer them in a warm serving dish with both cheeses and pour the hot garlic-sage butter over each layer. Cover 2 minutes to melt the cheese, then fold gently and serve."
+  ],
+  "tips": [
+    "Check the cheese label for vegetarian rennet; traditional cheeses may use animal rennet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिज़्ज़ोकेरी",
+      "ingredients": [
+        "बिना अंडे का पिज़्ज़ोकेरी कुट्टू पास्ता",
+        "सेवॉय पत्ता गोभी",
+        "आलू",
+        "शाकाहारी फोंटीना जैसा चीज़",
+        "शाकाहारी सख्त चीज़",
+        "मक्खन",
+        "लहसुन",
+        "सेज पत्ते",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "आलू छीलकर 2 सेमी टुकड़े करें; पत्ता गोभी पतली काटें। पिघलने वाला शाकाहारी चीज़ टुकड़ों में और सख्त चीज़ कद्दूकस करें।",
+        "नापा नमकीन पानी उबालें। आलू और पत्ता गोभी 5 मिनट पकाएँ; पिज़्ज़ोकेरी डालकर 10–12 मिनट पास्ता और आलू नरम होने तक पकाएँ।",
+        "इस बीच मक्खन में कटा लहसुन और सेज धीमी आँच पर महकाएँ, मक्खन हल्का भूरा और लहसुन सुनहरा हो; जलने से पहले आँच से हटाएँ।",
+        "पास्ता-सब्ज़ियाँ अच्छी तरह छानें। गरम परोसने वाले बर्तन में दोनों चीज़ के साथ परतें लगाएँ और हर परत पर गरम लहसुन-सेज मक्खन डालें। चीज़ पिघलाने के लिए 2 मिनट ढकें, फिर हल्के मिलाकर परोसें।"
+      ],
+      "tips": [
+        "चीज़ का लेबल जाँचें कि उसमें शाकाहारी रेनेट है; पारंपरिक चीज़ में पशु रेनेट हो सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "પિઝ્ઝોકેરી",
+      "ingredients": [
+        "ઇંડા વગરનો પિઝ્ઝોકેરી બકવીટ પાસ્તા",
+        "સેવોય કોબી",
+        "બટાકા",
+        "શાકાહારી ફોન્ટીના જેવું ચીઝ",
+        "શાકાહારી સખત ચીઝ",
+        "માખણ",
+        "લસણ",
+        "સેજનાં પાન",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બટાકા છોલી 2 સેમીના ટુકડા કરો; કોબી પાતળી સમારો. પીગળતું શાકાહારી ચીઝ ટુકડા કરો અને સખત ચીઝ ખમણો.",
+        "માપેલું મીઠાવાળું પાણી ઉકાળો. બટાકા અને કોબી 5 મિનિટ રાંધો; પિઝ્ઝોકેરી નાખી 10–12 મિનિટ પાસ્તા અને બટાકા નરમ થાય ત્યાં સુધી પકાવો.",
+        "દરમ્યાન માખણમાં સમારેલું લસણ અને સેજ ધીમી આંચે સુગંધિત કરો, માખણ આછું ભૂરૂં અને લસણ સોનેરી થાય; બળે તે પહેલાં તાપથી ઉતારો.",
+        "પાસ્તા-શાક સારી રીતે નીતારો. ગરમ પીરસવાના વાસણમાં બંને ચીઝ સાથે પડ ગોઠવો અને દરેક પડ પર ગરમ લસણ-સેજ માખણ નાખો. ચીઝ પીગળે તે માટે 2 મિનિટ ઢાંકો, પછી હળવેથી ભેળવી પીરસો."
+      ],
+      "tips": [
+        "ચીઝના લેબલમાં શાકાહારી રેનેટ છે તેની ખાતરી કરો; પરંપરાગત ચીઝમાં પ્રાણી રેનેટ હોઈ શકે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pizzoccheri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-14."
+}
