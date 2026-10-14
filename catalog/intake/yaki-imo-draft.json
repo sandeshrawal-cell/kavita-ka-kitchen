@@ -1,0 +1,62 @@
+{
+  "sourceReviewId": "R0447",
+  "id": "yaki-imo",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Yaki Imo",
+  "cuisine": "Japanese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "Japanese sweet potatoes",
+      "qty": 1000,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Scrub sweet potatoes and dry completely.",
+    "Keep the skins intact; choose four similarly sized tubers so they cook evenly.",
+    "Set on a rack in a 160°C oven and roast slowly for 65–80 minutes, turning once, until a skewer slips through the centre and syrup beads at the skin.",
+    "Rest for 5 minutes, then split each potato and serve warm in its own skin."
+  ],
+  "tips": [
+    "Slow roasting gives the flesh time to become especially sweet and creamy; avoid wrapping it in foil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "याकी इमो",
+      "ingredients": [
+        "जापानी शकरकंद"
+      ],
+      "steps": [
+        "शकरकंद अच्छी तरह रगड़कर धोएँ और पूरी तरह सुखाएँ।",
+        "छिलका रहने दें; समान आकार के चार कंद लें ताकि बराबर पकें।",
+        "160°C ओवन की जाली पर रखकर 65–80 मिनट धीरे सेंकें; एक बार पलटें। सींक बीच से आसानी से निकले और छिलके पर मीठा रस दिखे तो तैयार है।",
+        "5 मिनट रहने दें, फिर हर शकरकंद चीरकर उसी छिलके में गरम परोसें।"
+      ],
+      "tips": [
+        "धीरे सेंकने से गूदा खास मीठा और मलाईदार होता है; फॉइल में न लपेटें।"
+      ]
+    },
+    "gu": {
+      "name": "યાકી ઇમો",
+      "ingredients": [
+        "જાપાની શક્કરિયા"
+      ],
+      "steps": [
+        "શક્કરિયા સારી રીતે ઘસીને ધોઈ સંપૂર્ણ સુકવો.",
+        "છાલ રાખો; સરખા કદના ચાર કંદ લો જેથી સમાન રીતે પાકે.",
+        "160°C ઓવનની જાળી પર મૂકી 65–80 મિનિટ ધીમે શેકો; એક વાર ફેરવો. સળી મધ્યમાંથી સરળતાથી નીકળે અને છાલ પર મીઠો રસ દેખાય ત્યારે તૈયાર છે.",
+        "5 મિનિટ રહેવા દો, પછી દરેક શક્કરિયું ચીરી તેની છાલમાં જ ગરમ પીરસો."
+      ],
+      "tips": [
+        "ધીમે શેકવાથી અંદરનો ભાગ ખાસ મીઠો અને મલાઈદાર થાય છે; ફોઇલમાં ન વીંટો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/yaki-imo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

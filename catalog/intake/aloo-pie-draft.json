@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0436",
+  "id": "aloo-pie",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Aloo Pie",
+  "cuisine": "Trinidadian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "potatoes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, baking powder and 5 g salt with warm water; knead a soft dough and rest covered for 30 minutes.",
+    "Boil potatoes until tender, drain well and mash.",
+    "Mix potato with remaining salt, cumin, minced chilli, garlic and coriander. Divide dough into eight, fill with potato, pinch closed and roll each into a long oval without tearing.",
+    "Fry in 175°C oil, turning once, until puffed and golden on both sides, about 4 minutes. Drain and serve two pies per person."
+  ],
+  "tips": [
+    "Keep the potato filling dry so the thin dough stays sealed in the oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "आलू पाई",
+      "ingredients": [
+        "मैदा",
+        "बेकिंग पाउडर",
+        "नमक",
+        "गुनगुना पानी",
+        "आलू",
+        "पिसा जीरा",
+        "हरी मिर्च",
+        "लहसुन",
+        "हरा धनिया",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "मैदा, बेकिंग पाउडर और 5 ग्राम नमक को गुनगुने पानी से नरम गूँधें; ढककर 30 मिनट रखें।",
+        "आलू नरम उबालें, अच्छी तरह छानें और मसलें।",
+        "आलू में बचा नमक, जीरा, कटी मिर्च, लहसुन और धनिया मिलाएँ। आटे के आठ भाग करें, आलू भरकर बंद करें और बिना फाड़े लंबा अंडाकार बेलें।",
+        "175°C तेल में एक बार पलटकर दोनों ओर फूला और सुनहरा होने तक लगभग 4 मिनट तलें। छानें और हर व्यक्ति को दो पाई परोसें।"
+      ],
+      "tips": [
+        "आलू की भरावन सूखी रखें ताकि पतला आटा तलते समय बंद रहे।"
+      ]
+    },
+    "gu": {
+      "name": "બટાકાની પાઇ",
+      "ingredients": [
+        "મેંદો",
+        "બેકિંગ પાઉડર",
+        "મીઠું",
+        "હૂંફાળું પાણી",
+        "બટાકા",
+        "દળેલું જીરું",
+        "લીલું મરચું",
+        "લસણ",
+        "લીલા ધાણા",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "મેંદો, બેકિંગ પાઉડર અને 5 ગ્રામ મીઠું હૂંફાળા પાણીથી નરમ મસળો; ઢાંકી 30 મિનિટ રાખો.",
+        "બટાકા નરમ બાફી સારી રીતે નીતારી મસળો.",
+        "બટાકામાં બાકી મીઠું, જીરું, સમારેલું મરચું, લસણ અને ધાણા ભેળવો. લોટના આઠ ભાગ કરી બટાકા ભરો, બંધ કરો અને ફાટ્યા વગર લાંબા અંડાકાર વણો.",
+        "175°C તેલમાં એક વાર ફેરવી બંને બાજુ ફૂલે અને સોનેરી થાય ત્યાં સુધી આશરે 4 મિનિટ તળો. નીતારી દરેકને બે પાઇ પીરસો."
+      ],
+      "tips": [
+        "બટાકાનું પૂરણ સૂકું રાખો જેથી પાતળો લોટ તળતી વખતે બંધ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/aloo-pie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

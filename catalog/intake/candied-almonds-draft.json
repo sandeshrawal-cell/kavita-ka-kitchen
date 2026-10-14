@@ -1,0 +1,90 @@
+{
+  "sourceReviewId": "R0463",
+  "id": "candied-almonds",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Candied Almonds",
+  "cuisine": "German",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "raw almonds",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "white sugar",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 5,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Line a tray with baking paper. Put sugar, water, cinnamon and vanilla into a broad heavy pan and bring to a vigorous boil.",
+    "Add almonds and stir continuously over medium-high heat as the syrup reduces and first turns sandy and white around the nuts.",
+    "Keep stirring as part of the sugar melts again and coats the almonds in patches of shiny caramel. Stop before the sugar burns.",
+    "Spread immediately on the prepared tray, separate clumps with two forks and cool completely before serving."
+  ],
+  "tips": [
+    "The sandy stage is normal; continued stirring gives the classic crunchy caramel shell."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चीनी चढ़े बादाम",
+      "ingredients": [
+        "कच्चे बादाम",
+        "सफेद चीनी",
+        "पानी",
+        "पिसी दालचीनी",
+        "वनीला अर्क"
+      ],
+      "steps": [
+        "ट्रे पर बेकिंग कागज़ बिछाएँ। चौड़े मोटे पैन में चीनी, पानी, दालचीनी और वनीला डालकर तेज उबालें।",
+        "बादाम डालें और मध्यम-तेज़ आँच पर लगातार चलाएँ; चाशनी घटकर पहले बादाम पर सफेद रेतीली परत बनेगी।",
+        "चलाते रहें जब तक चीनी का कुछ भाग फिर पिघलकर बादाम पर चमकदार कैरामेल के धब्बे न बना दे। चीनी जलने से पहले रोकें।",
+        "तुरंत तैयार ट्रे पर फैलाएँ, दो काँटों से चिपके बादाम अलग करें और परोसने से पहले पूरी तरह ठंडे करें।"
+      ],
+      "tips": [
+        "रेतीली अवस्था सामान्य है; आगे चलाने से खास कुरकुरा कैरामेल खोल बनता है।"
+      ]
+    },
+    "gu": {
+      "name": "ખાંડ ચડેલી બદામ",
+      "ingredients": [
+        "કાચી બદામ",
+        "સફેદ ખાંડ",
+        "પાણી",
+        "દળેલી તજ",
+        "વેનિલાનો અર્ક"
+      ],
+      "steps": [
+        "ટ્રે પર બેકિંગ કાગળ પાથરો. પહોળા જાડા પૅનમાં ખાંડ, પાણી, તજ અને વેનિલા નાખી તેજ ઉકાળો.",
+        "બદામ નાખો અને મધ્યમ-તેજ તાપે સતત હલાવો; ચાસણી ઘટીને પહેલાં બદામ પર સફેદ રેતી જેવું પડ બનશે.",
+        "હલાવતા રહો જ્યાં સુધી ખાંડનો થોડો ભાગ ફરી ઓગળી બદામ પર ચમકતા કેરમેલના ડાઘ ન બનાવે. ખાંડ બળે તે પહેલાં રોકો.",
+        "તરત તૈયાર ટ્રે પર પાથરો, બે કાંટાથી ચોંટેલી બદામ અલગ કરો અને પીરસતાં પહેલાં સંપૂર્ણ ઠંડી કરો."
+      ],
+      "tips": [
+        "રેતી જેવી અવસ્થા સામાન્ય છે; આગળ હલાવવાથી ખાસ કરકરું કેરમેલનું પડ બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/candied-almonds.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,171 @@
+{
+  "sourceReviewId": "R0431",
+  "id": "uggani-bajji",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Uggani Bajji",
+  "cuisine": "Kurnool",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "puffed rice",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "large mild green chillies",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slit and deseed large chillies. Whisk gram flour, rice flour, 5 g salt and 200 ml water into batter; dip the chillies and fry at 175°C for about 5 minutes until golden. Drain.",
+    "Rinse puffed rice very briefly in water, then immediately squeeze and drain; it should soften without becoming waterlogged.",
+    "Heat oil, crackle mustard and curry leaves, then cook onion, chopped chillies and peanuts for 4 minutes. Add tomato and turmeric; cook until tomato softens.",
+    "Fold in drained puffed rice and remaining salt; toss for 2–3 minutes until warm. Add lemon and serve each portion of uggani with a hot mirchi bajji."
+  ],
+  "tips": [
+    "Drain the rinsed puffed rice at once; Kurnool uggani should be soft and separate, never watery."
+  ],
+  "translations": {
+    "hi": {
+      "name": "उग्गानी बज्जी",
+      "ingredients": [
+        "मुरमुरा",
+        "बड़ी कम तीखी हरी मिर्च",
+        "बेसन",
+        "चावल का आटा",
+        "कटा प्याज़",
+        "कटा टमाटर",
+        "भुनी मूँगफली",
+        "कटी हरी मिर्च",
+        "राई",
+        "कड़ी पत्ते",
+        "हल्दी",
+        "नींबू का रस",
+        "तेल",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "बड़ी मिर्च चीरे और बीज निकालें। बेसन, चावल का आटा, 5 ग्राम नमक और 200 मिली पानी का घोल बनाएँ; मिर्च डुबोकर 175°C पर लगभग 5 मिनट सुनहरी तलें। निथारें।",
+        "मुरमुरे पानी से बहुत जल्दी धोकर तुरंत हल्के निचोड़कर निथारें; वे नरम हों पर पानी से भरे न रहें।",
+        "तेल गरम कर राई और कड़ी पत्ते चटकाएँ, फिर प्याज़, कटी मिर्च और मूँगफली 4 मिनट भूनें। टमाटर और हल्दी डालकर टमाटर नरम करें।",
+        "निथारे मुरमुरे और बाकी नमक मिलाकर 2–3 मिनट गरम होने तक हिलाएँ। नींबू डालें और हर हिस्से के साथ गरम मिर्ची बज्जी दें।"
+      ],
+      "tips": [
+        "धुले मुरमुरे तुरंत निथारें; कुरनूल उग्गानी नरम और अलग-अलग हो, पानीदार नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ઉગ્ગાની ભજ્જી",
+      "ingredients": [
+        "મમરા",
+        "મોટાં ઓછાં તીખાં લીલાં મરચાં",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "સમારેલી ડુંગળી",
+        "સમારેલું ટામેટું",
+        "શેકેલી મગફળી",
+        "સમારેલાં લીલાં મરચાં",
+        "રાઈ",
+        "મીઠા લીમડાના પાન",
+        "હળદર",
+        "લીંબુનો રસ",
+        "તેલ",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મોટાં મરચાં ચીરી બી કાઢો. ચણાનો લોટ, ચોખાનો લોટ, 5 ગ્રામ મીઠું અને 200 મિલી પાણીનું ખીરું બનાવો; મરચાં ડુબાડી 175°C પર આશરે 5 મિનિટ સોનેરી તળો. નિતારો.",
+        "મમરા પાણીથી બહુ ઝડપથી ધોઈ તરત હળવાં નીચોવી નિતારો; નરમ થાય પણ પાણીથી તરબોળ ન થાય.",
+        "તેલ ગરમ કરી રાઈ અને મીઠા લીમડાના પાન તતડાવો, પછી ડુંગળી, સમારેલાં મરચાં અને મગફળી 4 મિનિટ શેકો. ટામેટું અને હળદર નાખી નરમ કરો.",
+        "નિતારેલા મમરા અને બાકી મીઠું ભેળવી 2–3 મિનિટ ગરમ થાય ત્યાં સુધી હલાવો. લીંબુ નાખી દરેક ભાગ સાથે ગરમ મરચી ભજ્જી આપો."
+      ],
+      "tips": [
+        "ધોયેલા મમરા તરત નિતારો; કુર્નૂલ ઉગ્ગાની નરમ અને છૂટાછવાયા રહે, પાણીદાર નહીં."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://vismaifood.com/en/uggani-rayalaseema-kurnool-special-uggani-vaggani-tossed-puff-rice",
+    "use": "Kurnool puffed-rice upma with mirchi bajji."
+  },
+  "photoDraft": "catalog/intake/photos/uggani-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

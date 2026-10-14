@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0439",
+  "id": "puff-puff",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Puff-Puff",
+  "cuisine": "Nigerian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 340,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, sugar, yeast, nutmeg and salt.",
+    "Stir in warm water to make a thick, sticky batter; cover and leave in a warm place 45–60 minutes until doubled and bubbly.",
+    "Heat oil to 170°C. Scoop small walnut-sized portions of batter into the oil with an oiled spoon or damp hand, leaving room for them to expand.",
+    "Fry in batches for 4–5 minutes, turning often, until uniformly deep golden and cooked through. Drain and serve warm."
+  ],
+  "tips": [
+    "Oil that is too hot browns the outside before the yeasted centre cooks."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पफ पफ",
+      "ingredients": [
+        "मैदा",
+        "चीनी",
+        "इंस्टेंट यीस्ट",
+        "पिसा जायफल",
+        "नमक",
+        "गुनगुना पानी",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "मैदा, चीनी, यीस्ट, जायफल और नमक मिलाएँ।",
+        "गुनगुना पानी डालकर गाढ़ा चिपचिपा घोल बनाएँ; ढककर गरम जगह 45–60 मिनट दोगुना और बुलबुलेदार होने तक रखें।",
+        "तेल 170°C गरम करें। तेल लगी चम्मच या गीले हाथ से अखरोट जितने छोटे हिस्से तेल में छोड़ें; फूलने की जगह रखें।",
+        "थोड़े-थोड़े 4–5 मिनट बार-बार पलटकर चारों ओर गहरे सुनहरे और भीतर पके होने तक तलें। छानें और गरम परोसें।"
+      ],
+      "tips": [
+        "बहुत गरम तेल बाहर भूरा कर देगा जबकि यीस्ट वाला बीच कच्चा रहेगा।"
+      ]
+    },
+    "gu": {
+      "name": "પફ પફ",
+      "ingredients": [
+        "મેંદો",
+        "ખાંડ",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "દળેલું જાયફળ",
+        "મીઠું",
+        "હૂંફાળું પાણી",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "મેંદો, ખાંડ, યીસ્ટ, જાયફળ અને મીઠું ભેળવો.",
+        "હૂંફાળું પાણી ઉમેરી જાડું ચીકણું ખીરું બનાવો; ઢાંકી ગરમ જગ્યાએ 45–60 મિનિટ બમણું અને પરપોટાવાળું થાય ત્યાં સુધી રાખો.",
+        "તેલ 170°C ગરમ કરો. તેલ લગાડેલી ચમચી કે ભીના હાથથી અખરોટ જેટલા નાના ભાગ તેલમાં મૂકો; ફૂલવાની જગ્યા રાખો.",
+        "થોડા થોડા 4–5 મિનિટ વારંવાર ફેરવી ચારે બાજુ ઘેરા સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો. નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "બહુ ગરમ તેલ બહારથી ભૂરું કરી દેશે જ્યારે યીસ્ટવાળો મધ્ય ભાગ કાચો રહેશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/puff-puff.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

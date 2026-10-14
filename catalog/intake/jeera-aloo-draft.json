@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0501",
+  "id": "jeera-aloo",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Jeera Aloo",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil potatoes in their skins until just tender, about 15 minutes; cool enough to handle, peel and cut into 2 cm cubes.",
+    "Heat oil in a wide pan. Add cumin seeds and let them crackle and darken slightly, about 30 seconds, without burning.",
+    "Add green chillies and ginger, stir briefly, then add turmeric and coriander powder. Immediately add potatoes and salt, tossing gently to coat.",
+    "Cook uncovered for 5–6 minutes, turning occasionally until lightly crisp at the edges. Sprinkle amchur and coriander; serve with roti or dal."
+  ],
+  "tips": [
+    "Let boiled potatoes cool before tossing so the cubes keep their shape."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जीरा आलू",
+      "ingredients": [
+        "आलू",
+        "जीरा",
+        "कटी हरी मिर्च",
+        "कद्दूकस अदरक",
+        "हल्दी",
+        "धनिया पाउडर",
+        "अमचूर",
+        "तेल",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "आलू छिलके सहित लगभग 15 मिनट बस नरम होने तक उबालें; हाथ से छूने लायक ठंडे कर छीलें और 2 सेमी टुकड़े काटें।",
+        "चौड़े पैन में तेल गरम करें। जीरा डालकर लगभग 30 सेकंड चटकने और थोड़ा गहरा होने दें, पर जलाएँ नहीं।",
+        "हरी मिर्च और अदरक डालकर थोड़ा चलाएँ, फिर हल्दी और धनिया पाउडर डालें। तुरंत आलू और नमक डालकर हल्के हाथ से मसाला चढ़ाएँ।",
+        "बिना ढके 5–6 मिनट बीच-बीच में पलटकर किनारे हल्के कुरकुरे करें। अमचूर और धनिया छिड़कें; रोटी या दाल के साथ परोसें।"
+      ],
+      "tips": [
+        "उबले आलू भूनने से पहले ठंडे करें ताकि टुकड़ों का आकार बना रहे।"
+      ]
+    },
+    "gu": {
+      "name": "જીરા બટાકા",
+      "ingredients": [
+        "બટાકા",
+        "જીરું",
+        "સમારેલાં લીલાં મરચાં",
+        "છીણેલું આદુ",
+        "હળદર",
+        "ધાણા પાઉડર",
+        "આમચૂર",
+        "તેલ",
+        "કોથમીર",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા છાલ સાથે આશરે 15 મિનિટ માત્ર નરમ થાય ત્યાં સુધી બાફો; હાથ લાગે એટલા ઠારી છોલી 2 સેમી ટુકડા કરો.",
+        "પહોળા પેનમાં તેલ ગરમ કરો. જીરું નાખી આશરે 30 સેકંડ તતડે અને થોડું ઘેરું થાય ત્યાં સુધી રાખો, પણ બળવા ન દો.",
+        "લીલાં મરચાં અને આદુ નાખી થોડું હલાવો, પછી હળદર અને ધાણા પાઉડર નાખો. તરત બટાકા અને મીઠું નાખી હળવે મસાલો ચડાવો.",
+        "ઢાંક્યા વિના 5–6 મિનિટ વચ્ચે વચ્ચે ફેરવી કિનારી આછી કરકરી કરો. આમચૂર અને કોથમીર છાંટો; રોટલી કે દાળ સાથે પીરસો."
+      ],
+      "tips": [
+        "બાફેલા બટાકા શેકતાં પહેલાં ઠંડા કરો જેથી ટુકડાનો આકાર જળવાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/jeera-aloo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

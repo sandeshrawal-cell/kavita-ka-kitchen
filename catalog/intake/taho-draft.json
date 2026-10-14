@@ -1,0 +1,91 @@
+{
+  "sourceReviewId": "R0491",
+  "id": "taho",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Taho",
+  "cuisine": "Filipino",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "small sago or tapioca pearls",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "dark brown sugar",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil sago pearls in 350 ml water, stirring, until translucent and chewy, about 15–20 minutes. Drain and rinse briefly.",
+    "Simmer brown sugar with remaining 150 ml water for 6–8 minutes until a light syrup forms; stir in vanilla.",
+    "Spoon the tofu into a heatproof bowl and warm it gently over simmering water for 5 minutes. Transfer large silky pieces to four cups; spoon over sago and warm syrup.",
+    "Warm the unopened tofu gently in hot water for 5 minutes. Scoop large silky pieces into four cups; spoon over sago and warm syrup."
+  ],
+  "tips": [
+    "Use silken tofu; firm tofu will not give taho its spoonable custard texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ताहो",
+      "ingredients": [
+        "मुलायम सिल्कन टोफू",
+        "छोटे साबूदाना या टैपिओका मोती",
+        "गहरी ब्राउन शुगर",
+        "पानी",
+        "वनीला अर्क"
+      ],
+      "steps": [
+        "साबूदाना 350 मिली पानी में चलाते हुए लगभग 15–20 मिनट पारदर्शी और चबाने लायक होने तक उबालें। निथारकर जल्दी धोएँ।",
+        "ब्राउन शुगर और बचे 150 मिली पानी को 6–8 मिनट हल्की चाशनी बनने तक उबालें; वनीला मिलाएँ।",
+        "टोफू को गर्मी सहने वाले कटोरे में निकालकर उबलते पानी की भाप पर 5 मिनट धीरे गरम करें। चार कपों में बड़े मुलायम टुकड़े डालें; ऊपर साबूदाना और गरम चाशनी डालें।",
+        "बंद टोफू पैक को गरम पानी में 5 मिनट धीरे गरम करें। चार कपों में बड़े मुलायम टुकड़े डालें; ऊपर साबूदाना और गरम चाशनी डालें।"
+      ],
+      "tips": [
+        "सिल्कन टोफू ही लें; सख्त टोफू से ताहो की चम्मच से खाने वाली मुलायम बनावट नहीं आती।"
+      ]
+    },
+    "gu": {
+      "name": "તાહો",
+      "ingredients": [
+        "નરમ સિલ્કન ટોફુ",
+        "નાના સાબુદાણા અથવા ટૅપિયોકા મોતી",
+        "ઘેરી બ્રાઉન ખાંડ",
+        "પાણી",
+        "વેનિલા એસેન્સ"
+      ],
+      "steps": [
+        "સાબુદાણા 350 મિલી પાણીમાં હલાવી લગભગ 15–20 મિનિટ પારદર્શક અને ચાવી શકાય એવા થાય ત્યાં સુધી ઉકાળો. નિતારી ઝડપથી ધુઓ.",
+        "બ્રાઉન ખાંડ અને બાકી 150 મિલી પાણી 6–8 મિનિટ પાતળી ચાસણી થાય ત્યાં સુધી ઉકાળો; વેનિલા ભેળવો.",
+        "ટોફુને ગરમી સહન કરતી વાટકીમાં કાઢી ઉકળતા પાણીની વરાળ પર 5 મિનિટ હળવે ગરમ કરો. ચાર કપમાં મોટા નરમ ટુકડા નાખો; ઉપર સાબુદાણા અને ગરમ ચાસણી રેડો.",
+        "બંધ ટોફુ પૅકને ગરમ પાણીમાં 5 મિનિટ હળવે ગરમ કરો. ચાર કપમાં મોટા નરમ ટુકડા નાખો; ઉપર સાબુદાણા અને ગરમ ચાસણી રેડો."
+      ],
+      "tips": [
+        "સિલ્કન ટોફુ જ લો; કઠણ ટોફુથી તાહોની ચમચીથી ખાઈ શકાય એવી નરમ રચના નહીં મળે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/taho.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

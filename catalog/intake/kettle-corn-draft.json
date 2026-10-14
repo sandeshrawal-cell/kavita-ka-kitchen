@@ -1,0 +1,84 @@
+{
+  "sourceReviewId": "R0496",
+  "id": "kettle-corn",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kettle Corn",
+  "cuisine": "American",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "granulated sugar",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "fine salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Set a large heavy pot over medium heat. Add oil and three test kernels; cover until they pop.",
+    "Add remaining kernels and sugar, stir quickly and cover. Shake the covered pot continuously over the heat.",
+    "When popping slows to 2 seconds between pops, immediately tip the corn onto a wide tray.",
+    "Sprinkle salt and separate clumps with a spoon while warm. Cool a few minutes so the sugar coating crisps."
+  ],
+  "tips": [
+    "Keep the pot moving once sugar is added; stationary sugar burns quickly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केटल कॉर्न",
+      "ingredients": [
+        "पॉपकॉर्न के दाने",
+        "दानेदार चीनी",
+        "तेल",
+        "बारीक नमक"
+      ],
+      "steps": [
+        "बड़ा भारी बर्तन मध्यम आँच पर रखें। तेल और जाँच के लिए तीन दाने डालें; ढककर फूटने दें।",
+        "बचे दाने और चीनी डालकर जल्दी चलाएँ और ढकें। ढके बर्तन को आँच पर लगातार हिलाएँ।",
+        "जब दानों के फूटने में 2 सेकंड का अंतर होने लगे तो तुरंत पॉपकॉर्न चौड़ी ट्रे पर निकालें।",
+        "नमक छिड़कें और गरम रहते चम्मच से गुच्छे अलग करें। चीनी की परत कुरकुरी होने के लिए कुछ मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "चीनी डालने के बाद बर्तन लगातार हिलाएँ; रुकी चीनी जल्दी जलती है।"
+      ]
+    },
+    "gu": {
+      "name": "કેટલ કોર્ન",
+      "ingredients": [
+        "પૉપકૉર્નના દાણા",
+        "દાણાદાર ખાંડ",
+        "તેલ",
+        "ઝીણું મીઠું"
+      ],
+      "steps": [
+        "મોટું ભારે વાસણ મધ્યમ તાપે મૂકો. તેલ અને ચકાસવા ત્રણ દાણા નાખો; ઢાંકી ફૂટવા દો.",
+        "બાકી દાણા અને ખાંડ નાખી ઝડપથી હલાવી ઢાંકો. ઢાંકેલું વાસણ તાપ પર સતત હલાવો.",
+        "જ્યારે ફૂટવાની વચ્ચે 2 સેકન્ડનો અંતર આવે ત્યારે તરત પૉપકૉર્ન પહોળી ટ્રેમાં કાઢો.",
+        "મીઠું છાંટી ગરમ હોય ત્યારે ચમચીથી ગૂંચળા છૂટા કરો. ખાંડનો પડ કરકરો થાય માટે થોડી મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "ખાંડ નાખ્યા પછી વાસણ સતત હલાવો; અટકેલી ખાંડ ઝડપથી બળે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kettle-corn.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,91 @@
+{
+  "sourceReviewId": "R0482",
+  "id": "baghali",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Baghali",
+  "cuisine": "Iranian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "fresh fava bean pods",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1200,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ground golpar (Persian hogweed seed)",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash the fava pods and trim only tough strings; leave the beans inside the pods.",
+    "Bring water and 6 g salt to a boil. Add pods, cover and simmer 20–25 minutes until the beans inside are tender.",
+    "Split one pod open to check the beans before draining; large mature beans need longer than small tender ones.",
+    "Drain and serve warm with remaining salt, golpar and vinegar. Open the pods and eat the beans; tender young pods may also be eaten."
+  ],
+  "tips": [
+    "Golpar gives the characteristic aroma; do not replace it with ordinary ground cumin."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बाघाली",
+      "ingredients": [
+        "ताज़ी बाकला फली",
+        "पानी",
+        "नमक",
+        "पिसा गोलपार (फ़ारसी हॉगवीड बीज)",
+        "सफ़ेद सिरका"
+      ],
+      "steps": [
+        "बाकला फलियाँ धोकर केवल सख्त रेशे हटाएँ; दाने फलियों में ही रखें।",
+        "पानी और 6 ग्राम नमक उबालें। फलियाँ डालकर ढकें और 20–25 मिनट भीतर के दाने नरम होने तक पकाएँ।",
+        "निथारने से पहले एक फली खोलकर दाने जाँचें; बड़े पके दानों को छोटे कोमल दानों से अधिक समय लगता है।",
+        "निथारकर बचे नमक, गोलपार और सिरके के साथ गरम परोसें। फली खोलकर दाने खाएँ; कोमल नई फलियाँ भी खाई जा सकती हैं।"
+      ],
+      "tips": [
+        "गोलपार से विशिष्ट सुगंध आती है; इसे साधारण पिसे जीरे से न बदलें।"
+      ]
+    },
+    "gu": {
+      "name": "બાઘાલી",
+      "ingredients": [
+        "તાજી ફાવા શીંગો",
+        "પાણી",
+        "મીઠું",
+        "પીસેલું ગોલપાર (પર્શિયન હોગવીડ બીજ)",
+        "સફેદ સરકો"
+      ],
+      "steps": [
+        "ફાવા શીંગો ધોઈ ફક્ત કઠણ રેસા દૂર કરો; દાણા શીંગમાં જ રાખો.",
+        "પાણી અને 6 ગ્રામ મીઠું ઉકાળો. શીંગો નાખી ઢાંકો અને 20–25 મિનિટ અંદરના દાણા નરમ થાય ત્યાં સુધી ચડાવો.",
+        "નિતારતા પહેલાં એક શીંગ ખોલી દાણા તપાસો; મોટા પાકેલા દાણાને નાના કુમળા દાણા કરતાં વધુ સમય લાગે છે.",
+        "નિતારી બાકી મીઠું, ગોલપાર અને સરકા સાથે ગરમ પીરસો. શીંગ ખોલી દાણા ખાઓ; કુમળી નવી શીંગ પણ ખાઈ શકાય."
+      ],
+      "tips": [
+        "ગોલપારથી ખાસ સુગંધ આવે છે; તેને સામાન્ય જીરું પાઉડરથી ન બદલો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/baghali.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

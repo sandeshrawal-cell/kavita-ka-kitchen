@@ -1,0 +1,91 @@
+{
+  "sourceReviewId": "R0500",
+  "id": "pastelitos-de-guayaba",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pastelitos de Guayaba",
+  "cuisine": "Cuban",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "eggless butter puff pastry, chilled",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "guava paste",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "cream cheese",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "milk for brushing",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "granulated sugar",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 200°C and line a baking tray. Cut chilled pastry into 16 equal squares.",
+    "Place guava paste and cream cheese in the centre of eight squares, leaving a clear border. Brush borders lightly with milk.",
+    "Cover with the other eight squares and press edges firmly with a fork. Cut a small vent in each top, brush with milk and sprinkle sugar.",
+    "Bake 20–25 minutes until fully puffed and deep golden. Cool 10 minutes before serving so the hot guava filling settles."
+  ],
+  "tips": [
+    "Keep the pastry cold during assembly for distinct flaky layers."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पास्तेलितोस दे गुआयाबा",
+      "ingredients": [
+        "बिना अंडे की मक्खन पफ पेस्ट्री, ठंडी",
+        "अमरूद पेस्ट",
+        "क्रीम चीज़",
+        "लगाने के लिए दूध",
+        "दानेदार चीनी"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें और बेकिंग ट्रे पर कागज़ बिछाएँ। ठंडी पेस्ट्री के 16 बराबर चौकोर काटें।",
+        "आठ चौकोरों के बीच अमरूद पेस्ट और क्रीम चीज़ रखें, किनारा खाली छोड़ें। किनारों पर हल्का दूध लगाएँ।",
+        "दूसरे आठ चौकोर ऊपर रखकर कांटे से किनारे मजबूती से दबाएँ। ऊपर छोटा छेद करें, दूध लगाएँ और चीनी छिड़कें।",
+        "20–25 मिनट पूरी फूली और गहरी सुनहरी होने तक बेक करें। गरम अमरूद भरावन जमने के लिए परोसने से पहले 10 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "अलग खस्ता परतों के लिए भरते समय पेस्ट्री ठंडी रखें।"
+      ]
+    },
+    "gu": {
+      "name": "પાસ્તેલિતોસ દે ગુઆયાબા",
+      "ingredients": [
+        "ઈંડા વગરની માખણ પફ પેસ્ટ્રી, ઠંડી",
+        "જામફળની પેસ્ટ",
+        "ક્રીમ ચીઝ",
+        "લગાવવા માટે દૂધ",
+        "દાણાદાર ખાંડ"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો અને બેકિંગ ટ્રે પર કાગળ પાથરો. ઠંડી પેસ્ટ્રીના 16 સરખા ચોરસ કાપો.",
+        "આઠ ચોરસના મધ્યમાં જામફળની પેસ્ટ અને ક્રીમ ચીઝ મૂકો, કિનારી ખાલી રાખો. કિનારી પર સહેજ દૂધ લગાવો.",
+        "બીજા આઠ ચોરસ ઉપર મૂકી કાંટાથી કિનારી મજબૂતીથી દબાવો. ઉપર નાનું છિદ્ર કરો, દૂધ લગાવો અને ખાંડ છાંટો.",
+        "20–25 મિનિટ પૂરી ફૂલે અને ઘેરી સોનેરી થાય ત્યાં સુધી બેક કરો. ગરમ જામફળનું પૂરણ સ્થિર થાય માટે પીરસતાં પહેલાં 10 મિનિટ ઠંડા કરો."
+      ],
+      "tips": [
+        "અલગ કરકરા પડ માટે ભરતી વખતે પેસ્ટ્રી ઠંડી રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pastelitos-de-guayaba.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

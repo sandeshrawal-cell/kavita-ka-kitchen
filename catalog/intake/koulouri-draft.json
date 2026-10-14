@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0462",
+  "id": "koulouri",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Koulouri",
+  "cuisine": "Greek",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 260,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "molasses",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "water for dipping",
+      "qty": 120,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead flour, yeast, sugar, salt, olive oil and 260 ml warm water until smooth, about 8 minutes. Cover and rise 45–60 minutes.",
+    "Divide dough into eight and roll each into a 35 cm rope. Join ends firmly to form rings; let rest 10 minutes.",
+    "Mix molasses with 120 ml dipping water. Briefly dip each ring, then press both sides into sesame seeds for a thick coat. Proof 15 minutes on trays.",
+    "Bake at 220°C for 15–18 minutes until golden and crisp outside. Cool briefly and serve."
+  ],
+  "tips": [
+    "The diluted molasses helps the heavy sesame coating adhere and brown evenly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुलूरी",
+      "ingredients": [
+        "ब्रेड बनाने का मैदा",
+        "गुनगुना पानी",
+        "इंस्टेंट यीस्ट",
+        "चीनी",
+        "नमक",
+        "जैतून का तेल",
+        "तिल",
+        "गुड़ की शीरा",
+        "डुबाने का पानी"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, चीनी, नमक, जैतून तेल और 260 मिली गुनगुना पानी लगभग 8 मिनट चिकना गूँधें। ढककर 45–60 मिनट फूलने दें।",
+        "आटे के आठ हिस्से कर हर एक 35 सेमी रस्सी बेलें। सिरों को मजबूती से जोड़कर छल्ले बनाएँ; 10 मिनट रखें।",
+        "शीरे में 120 मिली डुबाने का पानी मिलाएँ। हर छल्ला जल्दी डुबोकर दोनों ओर तिल की मोटी परत लगाएँ। ट्रे पर 15 मिनट फूलने दें।",
+        "220°C पर 15–18 मिनट बाहर से सुनहरे कुरकुरे होने तक बेक करें। थोड़ा ठंडा कर परोसें।"
+      ],
+      "tips": [
+        "पतला शीरा तिल की मोटी परत चिपकने और बराबर भूरा होने में मदद करता है।"
+      ]
+    },
+    "gu": {
+      "name": "કુલૂરી",
+      "ingredients": [
+        "બ્રેડનો મેંદો",
+        "હૂંફાળું પાણી",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ખાંડ",
+        "મીઠું",
+        "ઓલિવ તેલ",
+        "તલ",
+        "ગોળની રસી",
+        "બોળવા માટે પાણી"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, ખાંડ, મીઠું, ઓલિવ તેલ અને 260 મિલી હૂંફાળું પાણી આશરે 8 મિનિટ લીસું મસળો. ઢાંકી 45–60 મિનિટ ફૂલવા દો.",
+        "લોટના આઠ ભાગ કરી દરેકની 35 સેમી દોરી વણો. છેડા મજબૂત જોડીને રિંગ બનાવો; 10 મિનિટ રાખો.",
+        "રસીમાં 120 મિલી બોળવાનું પાણી ભેળવો. દરેક રિંગ ઝડપથી બોળી બંને બાજુ તલનું જાડું પડ ચડાવો. ટ્રે પર 15 મિનિટ ફૂલવા દો.",
+        "220°C પર 15–18 મિનિટ બહારથી સોનેરી કરકરા થાય ત્યાં સુધી બેક કરો. થોડું ઠંડું કરી પીરસો."
+      ],
+      "tips": [
+        "પાતળી ગોળની રસી તલનું જાડું પડ ચોંટે અને સરખું ભૂરું થાય તેમાં મદદ કરે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/koulouri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

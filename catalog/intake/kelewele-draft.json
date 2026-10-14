@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0440",
+  "id": "kelewele",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kelewele",
+  "cuisine": "Ghanaian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "fresh ginger",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "cayenne pepper",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ground cloves",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel ripe plantains and cut into 2 cm diagonal chunks.",
+    "Grate ginger and mix with cayenne, cloves and salt; toss thoroughly with plantain.",
+    "Heat oil to 175°C. Fry plantain in small batches for 3–4 minutes, turning until deep golden and caramelised; avoid crowding the pan.",
+    "Drain briefly and serve warm with roasted peanuts scattered over or alongside."
+  ],
+  "tips": [
+    "Choose yellow plantains with black spots: green ones lack sweetness and very soft ones fall apart."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केलेवेले",
+      "ingredients": [
+        "पके प्लांटेन केले",
+        "ताज़ा अदरक",
+        "लाल तीखी मिर्च",
+        "पिसी लौंग",
+        "नमक",
+        "तलने का सादा तेल",
+        "भुनी मूँगफली"
+      ],
+      "steps": [
+        "पके प्लांटेन छीलकर 2 सेमी तिरछे टुकड़े काटें।",
+        "अदरक कद्दूकस कर लाल मिर्च, लौंग और नमक में मिलाएँ; प्लांटेन पर अच्छी तरह लगाएँ।",
+        "तेल 175°C गरम करें। प्लांटेन थोड़े-थोड़े 3–4 मिनट पलटते हुए गहरा सुनहरा और कैरामेल जैसा होने तक तलें; कड़ाही न भरें।",
+        "थोड़ा छानकर गरम परोसें और भुनी मूँगफली ऊपर या साथ में दें।"
+      ],
+      "tips": [
+        "काले धब्बों वाले पीले प्लांटेन लें: हरे में मिठास कम और बहुत नरम वाले तलते समय टूटते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કેલેવેલે",
+      "ingredients": [
+        "પાકેલા પ્લાન્ટેન કેળા",
+        "તાજું આદુ",
+        "લાલ તીખું મરચું",
+        "દળેલા લવિંગ",
+        "મીઠું",
+        "તળવા માટે સાદું તેલ",
+        "શેકેલી મગફળી"
+      ],
+      "steps": [
+        "પાકેલા પ્લાન્ટેન છોલી 2 સેમી ત્રાંસા ટુકડા કાપો.",
+        "આદુ ખમણી લાલ મરચું, લવિંગ અને મીઠા સાથે ભેળવો; પ્લાન્ટેન પર સારી રીતે ચોપડો.",
+        "તેલ 175°C ગરમ કરો. પ્લાન્ટેન થોડા થોડા 3–4 મિનિટ ફેરવી ઘેરા સોનેરી અને કેરમેલ જેવા થાય ત્યાં સુધી તળો; કડાઈ ન ભરો.",
+        "થોડું નીતારી ગરમ પીરસો અને શેકેલી મગફળી ઉપર કે બાજુમાં આપો."
+      ],
+      "tips": [
+        "કાળા ડાઘવાળા પીળા પ્લાન્ટેન લો: લીલા ઓછા મીઠા હોય છે અને બહુ નરમ તળતાં તૂટી જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kelewele.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

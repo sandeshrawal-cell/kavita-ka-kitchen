@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R0438",
+  "id": "gateau-piment",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Gateau Piment",
+  "cuisine": "Mauritian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak split peas overnight, then drain very well.",
+    "Pulse to a coarse grainy paste without adding water; do not puree smooth.",
+    "Finely chop chilli, spring onion and coriander. Mix into peas with cumin and salt. Squeeze a tablespoon of mixture into a compact small ball; repeat with the rest.",
+    "Fry in batches at 170°C for 4–5 minutes until deep golden and crisp, turning occasionally. Drain on a rack and serve hot."
+  ],
+  "tips": [
+    "The mixture should hold when squeezed; drain peas longer rather than adding flour to a wet mix."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गातो पिमां",
+      "ingredients": [
+        "पीली टूटी मटर",
+        "हरी मिर्च",
+        "हरा प्याज़",
+        "हरा धनिया",
+        "पिसा जीरा",
+        "नमक",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "टूटी मटर रात भर भिगोकर अच्छी तरह छानें।",
+        "पानी डाले बिना दरदरा पीसें; चिकनी प्यूरी न बनाएँ।",
+        "मिर्च, हरा प्याज़ और धनिया बारीक काटें। मटर में जीरा और नमक सहित मिलाएँ। एक बड़ा चम्मच मिश्रण दबाकर छोटी कसी गोली बनाएँ; बाकी भी ऐसे बनाएँ।",
+        "170°C पर थोड़ी-थोड़ी गोलियाँ 4–5 मिनट बीच-बीच में पलटकर गहरी सुनहरी और कुरकुरी तलें। जाली पर छानकर गरम परोसें।"
+      ],
+      "tips": [
+        "मिश्रण दबाने पर बँधना चाहिए; गीला हो तो आटा डालने के बजाय मटर और छानें।"
+      ],
+      "passiveTime": "पकाने से पहले टूटी मटर रात भर भिगोएँ।"
+    },
+    "gu": {
+      "name": "ગાતો પિમાં",
+      "ingredients": [
+        "પીળા ફાડા વટાણા",
+        "લીલું મરચું",
+        "લીલી ડુંગળી",
+        "લીલા ધાણા",
+        "દળેલું જીરું",
+        "મીઠું",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "ફાડા વટાણા રાતભર પલાળી સારી રીતે નીતારો.",
+        "પાણી વગર કરકરું દળો; સાવ લીસી પ્યુરી ન બનાવો.",
+        "મરચું, લીલી ડુંગળી અને ધાણા બારીક સમારો. વટાણામાં જીરું અને મીઠું સાથે ભેળવો. એક મોટો ચમચો મિશ્રણ દબાવી નાનો મજબૂત ગોળો બનાવો; બાકી પણ એમ કરો.",
+        "170°C પર થોડા થોડા ગોળા 4–5 મિનિટ વચ્ચે ફેરવી ઘેરા સોનેરી અને કરકરા તળો. જાળી પર નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "મિશ્રણ દબાવતાં બંધાવું જોઈએ; ભીનું હોય તો લોટ ઉમેરવા કરતાં વટાણા વધુ નીતારો."
+      ],
+      "passiveTime": "રાંધતાં પહેલાં ફાડા વટાણા રાતભર પલાળો."
+    }
+  },
+  "passiveTime": "Soak split peas overnight before cooking.",
+  "photoDraft": "catalog/intake/photos/gateau-piment.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

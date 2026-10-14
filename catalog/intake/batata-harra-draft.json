@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0442",
+  "id": "batata-harra",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Batata Harra",
+  "cuisine": "Lebanese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 22,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli flakes",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel and cube potatoes into 2 cm pieces.",
+    "Parboil in salted water for 5 minutes, drain and steam dry. Heat oven to 220°C.",
+    "Toss potatoes with 45 ml olive oil and roast 20–25 minutes, turning once, until crisp and golden. Mince garlic and chop coriander.",
+    "Warm remaining oil in a skillet, stir garlic and chilli for 30 seconds, then add potatoes and coriander. Toss for a minute, finish with lemon juice and salt, and serve hot."
+  ],
+  "tips": [
+    "Add lemon at the end so the roasted potato edges stay crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बटाटा हर्रा",
+      "ingredients": [
+        "आलू",
+        "जैतून का तेल",
+        "लहसुन",
+        "हरा धनिया",
+        "कुटी लाल मिर्च",
+        "नींबू रस",
+        "नमक"
+      ],
+      "steps": [
+        "आलू छीलकर 2 सेमी टुकड़े काटें।",
+        "नमकीन पानी में 5 मिनट अधपके उबालें, छानें और भाप सूखने दें। ओवन 220°C गरम करें।",
+        "आलू में 45 मिली जैतून तेल मिलाकर 20–25 मिनट, एक बार पलटकर, कुरकुरे सुनहरे सेंकें। लहसुन बारीक और धनिया काटें।",
+        "पैन में बचा तेल गरम कर लहसुन और मिर्च 30 सेकंड चलाएँ, फिर आलू और धनिया डालें। एक मिनट मिलाएँ, नींबू रस और नमक डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "नींबू अंत में डालें ताकि सेंके आलू के किनारे कुरकुरे रहें।"
+      ]
+    },
+    "gu": {
+      "name": "બટાટા હર્રા",
+      "ingredients": [
+        "બટાકા",
+        "ઓલિવ તેલ",
+        "લસણ",
+        "લીલા ધાણા",
+        "લાલ મરચાંના ભૂકા",
+        "લીંબુનો રસ",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા છોલી 2 સેમી ટુકડા કાપો.",
+        "મીઠાવાળા પાણીમાં 5 મિનિટ અડધા બાફો, નીતારી વરાળ સુકાવા દો. ઓવન 220°C ગરમ કરો.",
+        "બટાકામાં 45 મિલી ઓલિવ તેલ ભેળવી 20–25 મિનિટ, એક વાર ફેરવી, કરકરા સોનેરી શેકો. લસણ બારીક અને ધાણા સમારો.",
+        "પૅનમાં બાકી તેલ ગરમ કરી લસણ અને મરચું 30 સેકન્ડ હલાવો, પછી બટાકા અને ધાણા નાખો. એક મિનિટ ભેળવો, લીંબુનો રસ અને મીઠું નાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "લીંબુ અંતે ઉમેરો જેથી શેકેલા બટાકાની કિનારી કરકરી રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/batata-harra.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0461",
+  "id": "pizza-fritta",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pizza Fritta",
+  "cuisine": "Neapolitan",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 270,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian ricotta cheese",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "thick tomato sauce",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 900,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead flour, yeast, water, salt and olive oil 8 minutes to smooth dough. Cover and rise 60 minutes until doubled.",
+    "Drain ricotta and mozzarella thoroughly. Mix cheeses with chopped basil; keep the tomato sauce thick so it cannot seep through the dough.",
+    "Divide dough into eight balls and stretch into 15 cm circles. Place cheese and a spoon of sauce on one half, fold to a half-moon and press edges very firmly closed.",
+    "Fry in 175°C oil for 3–4 minutes per side until deeply golden and puffed. Drain briefly and serve two per person."
+  ],
+  "tips": [
+    "Firm seals and a dry filling prevent hot cheese leaking into the frying oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिज़्ज़ा फ्रिट्टा",
+      "ingredients": [
+        "मैदा",
+        "गुनगुना पानी",
+        "इंस्टेंट यीस्ट",
+        "नमक",
+        "जैतून का तेल",
+        "शाकाहारी रिकोटा चीज़",
+        "शाकाहारी मोज़रेला चीज़",
+        "गाढ़ी टमाटर सॉस",
+        "तुलसी के पत्ते",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, पानी, नमक और जैतून तेल 8 मिनट गूँधकर चिकना आटा बनाएँ। ढककर 60 मिनट दोगुना होने दें।",
+        "रिकोटा और मोज़रेला का पानी पूरी तरह निकालें। चीज़ में कटी तुलसी मिलाएँ; टमाटर सॉस गाढ़ी रखें ताकि आटे से न रिसे।",
+        "आटे के आठ गोले 15 सेमी गोल फैलाएँ। आधे हिस्से पर चीज़ और एक चम्मच सॉस रखें, आधा चाँद मोड़ें और किनारे बहुत अच्छी तरह बंद करें।",
+        "175°C तेल में हर ओर 3–4 मिनट गहरे सुनहरे और फूले होने तक तलें। थोड़ी देर छानें और हर व्यक्ति को दो परोसें।"
+      ],
+      "tips": [
+        "अच्छी बंद किनारी और सूखी भरावन गरम चीज़ को तलने के तेल में रिसने से रोकती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "પિઝા ફ્રિટ્ટા",
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "મીઠું",
+        "ઓલિવ તેલ",
+        "શાકાહારી રિકોટા ચીઝ",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "ઘાટી ટમેટાની ચટણી",
+        "તુલસીનાં પાન",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, પાણી, મીઠું અને ઓલિવ તેલ 8 મિનિટ મસળી લીસો લોટ બનાવો. ઢાંકી 60 મિનિટ બમણો થવા દો.",
+        "રિકોટા અને મોઝરેલાનું પાણી સંપૂર્ણ નીતારો. ચીઝમાં સમારેલી તુલસી ભેળવો; ટમેટાની ચટણી ઘાટી રાખો જેથી લોટમાંથી ન ટપકે.",
+        "લોટના આઠ ગોળા 15 સેમી ગોળ ફેલાવો. અડધા ભાગ પર ચીઝ અને એક ચમચી ચટણી મૂકો, અર્ધચંદ્ર વાળો અને કિનારી ખૂબ મજબૂત બંધ કરો.",
+        "175°C તેલમાં દરેક બાજુ 3–4 મિનિટ ઘેરા સોનેરી અને ફૂલેલા થાય ત્યાં સુધી તળો. થોડું નીતારી દરેકને બે પીરસો."
+      ],
+      "tips": [
+        "મજબૂત બંધ કિનારી અને સૂકું પૂરણ ગરમ ચીઝને તળવાના તેલમાં ટપકતાં અટકાવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pizza-fritta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

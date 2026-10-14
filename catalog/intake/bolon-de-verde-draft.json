@@ -1,0 +1,91 @@
+{
+  "sourceReviewId": "R0498",
+  "id": "bolon-de-verde",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Bolon de Verde",
+  "cuisine": "Ecuadorian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "green unripe plantains, peeled",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "fresh mild cheese or paneer, crumbled",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 60,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut plantains into thick chunks. Pan-fry in 50 ml oil over medium heat 12–15 minutes, turning, until tender and lightly golden.",
+    "Mash the hot plantains with salt and a splash of warm water as needed until a cohesive dough forms.",
+    "Divide into eight portions. Flatten each, put cheese in the centre and close the mash around it to form a compact ball.",
+    "Brown the balls in remaining oil for 5–6 minutes, turning gently, until crisp outside and cheese warms through. Serve hot."
+  ],
+  "tips": [
+    "Mash while hot; cooled green plantain becomes harder to bind into balls."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बोलोन दे वेर्दे",
+      "ingredients": [
+        "हरे कच्चे प्लैंटेन, छिले",
+        "ताज़ा हल्का चीज़ या पनीर, चूरा किया",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "प्लैंटेन मोटे टुकड़ों में काटें। 50 मिली तेल में मध्यम आँच पर 12–15 मिनट पलटते हुए नरम और हल्के सुनहरे तलें।",
+        "गरम प्लैंटेन को नमक और ज़रूरत अनुसार थोड़ा गुनगुना पानी डालकर एकजुट आटे जैसा मसलें।",
+        "आठ हिस्से करें। हर एक चपटा कर बीच में चीज़ रखें और मसले प्लैंटेन से बंद करके कसा हुआ गोला बनाएँ।",
+        "बचे तेल में गोले 5–6 मिनट धीरे पलटकर बाहर कुरकुरे और चीज़ गरम होने तक सेंकें। गरम परोसें।"
+      ],
+      "tips": [
+        "गरम रहते मसलें; ठंडा हरा प्लैंटेन गोलों में बाँधना कठिन होता है।"
+      ]
+    },
+    "gu": {
+      "name": "બોલોન દે વેર્દે",
+      "ingredients": [
+        "લીલા કાચા પ્લાન્ટેન, છોલેલા",
+        "તાજું હળવું ચીઝ અથવા પનીર, ભૂકો કરેલું",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "પ્લાન્ટેનના જાડા કટકા કરો. 50 મિલી તેલમાં મધ્યમ તાપે 12–15 મિનિટ ફેરવી નરમ અને આછા સોનેરી તળો.",
+        "ગરમ પ્લાન્ટેનને મીઠું અને જરૂર મુજબ થોડું હૂંફાળું પાણી ઉમેરી ભેગો લોટ બને ત્યાં સુધી મસળો.",
+        "આઠ ભાગ કરો. દરેકને ચપટો કરી મધ્યમાં ચીઝ મૂકી મસળેલા પ્લાન્ટેનથી બંધ કરી મજબૂત ગોળો બનાવો.",
+        "બાકી તેલમાં ગોળા 5–6 મિનિટ હળવે ફેરવી બહારથી કરકરા અને ચીઝ ગરમ થાય ત્યાં સુધી શેકો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "ગરમ હોય ત્યારે મસળો; ઠંડા લીલા પ્લાન્ટેનના ગોળા બાંધવા મુશ્કેલ થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bolon-de-verde.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

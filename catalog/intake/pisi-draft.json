@@ -1,0 +1,101 @@
+{
+  "sourceReviewId": "R0479",
+  "id": "pisi",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pisi",
+  "cuisine": "Turkish",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": "45 minutes dough rise",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 210,
+      "unit": "ml"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, sugar and salt. Add water and knead 7 minutes into a smooth, slightly soft dough.",
+    "Cover and rise 45 minutes. Roll to 8 mm thickness and cut into 12 small rounds; rest 10 minutes.",
+    "Keep the cut rounds covered during their final rest so their surfaces do not dry and they puff evenly when fried.",
+    "Heat oil to 175°C. Fry a few rounds at a time, turning once, for 2–3 minutes until puffed and golden. Drain and serve hot."
+  ],
+  "tips": [
+    "Leave space in the pan because the dough expands quickly in hot oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिशी",
+      "ingredients": [
+        "मैदा",
+        "गुनगुना पानी",
+        "सूखा खमीर",
+        "चीनी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मैदा, खमीर, चीनी और नमक मिलाएँ। पानी डालकर 7 मिनट चिकना थोड़ा नरम आटा गूँधें।",
+        "ढककर 45 मिनट फूलने दें। 8 मिमी मोटा बेलकर 12 छोटी गोल टिकियाँ काटें; 10 मिनट रखें।",
+        "अंतिम आराम के दौरान कटी टिकियाँ ढकी रखें ताकि सतह न सूखे और तलने पर बराबर फूलें।",
+        "तेल 175°C तक गरम करें। कुछ टिकियाँ साथ में एक बार पलटकर 2–3 मिनट फूली और सुनहरी तलें। निथारकर गरम दें।"
+      ],
+      "tips": [
+        "कड़ाही में जगह छोड़ें क्योंकि गरम तेल में आटा तेज़ी से फूलता है।"
+      ],
+      "passiveTime": "45 मिनट आटा फूलना"
+    },
+    "gu": {
+      "name": "પિશી",
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "સૂકું ખમીર",
+        "ખાંડ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મેંદો, ખમીર, ખાંડ અને મીઠું ભેળવો. પાણી ઉમેરી 7 મિનિટ સુંવાળો સહેજ નરમ લોટ બાંધો.",
+        "ઢાંકી 45 મિનિટ ફૂલવા દો. 8 મિમી જાડું વણી 12 નાના ગોળ કાપો; 10 મિનિટ રાખો.",
+        "છેલ્લા આરામ દરમિયાન કાપેલા ગોળ ઢાંકેલા રાખો જેથી સપાટી ન સૂકાય અને તળતાં સરખા ફૂલે.",
+        "તેલ 175°C સુધી ગરમ કરો. થોડાં ગોળ એક સાથે એક વાર ફેરવી 2–3 મિનિટ ફૂલેલા અને સોનેરી તળો. નિતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "કડાઈમાં જગ્યા રાખો કારણ કે ગરમ તેલમાં લોટ ઝડપથી ફૂલે છે."
+      ],
+      "passiveTime": "45 મિનિટ લોટ ફૂલવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pisi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

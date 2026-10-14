@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0434",
+  "id": "tacos-de-rajas",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tacos de Rajas",
+  "cuisine": "Mexican",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "white onion, sliced",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "corn tortillas",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "lime",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Char poblanos directly over a flame or under a hot grill until blackened all over.",
+    "Cover for 10 minutes, then peel, deseed and cut into strips.",
+    "Heat oil in a pan and cook onion for 5 minutes until soft. Add poblano strips and salt; stir for 2 minutes. Lower the heat, fold in sour cream and warm gently without boiling.",
+    "Warm tortillas on a dry griddle, fill each with creamy rajas and serve three per person with lime wedges."
+  ],
+  "tips": [
+    "Peel only the loose charred skin; rinsing the peppers washes away their smoky flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "राजास टाको",
+      "ingredients": [
+        "पॉब्लानो मिर्च",
+        "सफेद प्याज़, कटा",
+        "खट्टी क्रीम",
+        "मक्के की टॉर्टिया",
+        "सादा तेल",
+        "नमक",
+        "नींबू"
+      ],
+      "steps": [
+        "पॉब्लानो मिर्च को आँच या गरम ग्रिल पर चारों ओर काला होने तक भूनें।",
+        "10 मिनट ढकें, फिर छिलका और बीज हटाकर पट्टियाँ काटें।",
+        "પैन में तेल गरम करके प्याज़ 5 मिनट नरम होने तक पकाएँ। मिर्च की पट्टियाँ और नमक डालकर 2 मिनट चलाएँ। आँच धीमी करें, खट्टी क्रीम मिलाएँ और बिना उबाले गरम करें।",
+        "ટॉर्टिया को सूखे तवे पर गरम करें, क्रीमी मिर्च भरें और हर व्यक्ति को तीन टाको नींबू के साथ परोसें।"
+      ],
+      "tips": [
+        "केवल ढीला जला छिलका हटाएँ; पानी से धोने पर धुएँदार स्वाद कम होगा।"
+      ]
+    },
+    "gu": {
+      "name": "રાજાસ ટાકો",
+      "ingredients": [
+        "પોબ્લાનો મરચાં",
+        "સફેદ ડુંગળી, સમારેલી",
+        "ખાટી ક્રીમ",
+        "મકાઈની ટોર્ટિયા",
+        "સાદું તેલ",
+        "મીઠું",
+        "લીંબુ"
+      ],
+      "steps": [
+        "પોબ્લાનો મરચાંને સીધી આંચ કે ગરમ ગ્રિલ નીચે ચારે બાજુ કાળાં થાય ત્યાં સુધી શેકો.",
+        "10 મિનિટ ઢાંકો, પછી છાલ અને બી કાઢીને પટ્ટીઓ કાપો.",
+        "પૅનમાં તેલ ગરમ કરી ડુંગળી 5 મિનિટ નરમ થાય ત્યાં સુધી પકાવો. મરચાંની પટ્ટીઓ અને મીઠું નાખી 2 મિનિટ હલાવો. તાપ ધીમો કરી ખાટી ક્રીમ ભેળવો અને ઉકાળ્યા વિના ગરમ કરો.",
+        "ટોર્ટિયા સૂકા તવા પર ગરમ કરો, ક્રીમી મરચાં ભરો અને દરેકને ત્રણ ટાકો લીંબુ સાથે પીરસો."
+      ],
+      "tips": [
+        "ફક્ત ઢીલી બળેલી છાલ કાઢો; પાણીથી ધોવાથી ધુમાડાનો સ્વાદ ઘટે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tacos-de-rajas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

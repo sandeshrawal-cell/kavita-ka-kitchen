@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0443",
+  "id": "ka-ak",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Ka'ak",
+  "cuisine": "Jerusalem",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "za'atar",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, sugar and salt.",
+    "Add water and olive oil; knead 8 minutes until supple. Cover and rise 45–60 minutes until puffy.",
+    "Divide into four pieces. Roll each into a long rope and join the ends to form a large oval ring. Brush with water and coat generously with sesame; proof for 15 minutes.",
+    "Bake at 220°C for 18–22 minutes until golden and well risen. Serve warm with za'atar for dipping or sprinkling."
+  ],
+  "tips": [
+    "The Jerusalem street style is a large elongated sesame ring; leave a generous central opening."
+  ],
+  "translations": {
+    "hi": {
+      "name": "काअक",
+      "ingredients": [
+        "ब्रेड बनाने का मैदा",
+        "इंस्टेंट यीस्ट",
+        "चीनी",
+        "नमक",
+        "गुनगुना पानी",
+        "जैतून का तेल",
+        "तिल",
+        "ज़ातर मसाला"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, चीनी और नमक मिलाएँ।",
+        "पानी और जैतून तेल डालकर 8 मिनट लचीला गूँधें। ढककर 45–60 मिनट फूलने दें।",
+        "चार हिस्से करें। हर हिस्से की लंबी रस्सी बनाकर सिरे जोड़ें और बड़ा अंडाकार छल्ला बनाएँ। पानी लगाकर खूब तिल चिपकाएँ; 15 मिनट फूलने दें।",
+        "220°C पर 18–22 मिनट सुनहरा और अच्छी तरह फूला होने तक बेक करें। गरम रोटी ज़ातर में डुबोकर या ऊपर छिड़ककर परोसें।"
+      ],
+      "tips": [
+        "यरूशलम की सड़क शैली में बड़ा लंबोतरा तिल वाला छल्ला होता है; बीच में पर्याप्त जगह छोड़ें।"
+      ]
+    },
+    "gu": {
+      "name": "કાઅક",
+      "ingredients": [
+        "બ્રેડનો મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ખાંડ",
+        "મીઠું",
+        "હૂંફાળું પાણી",
+        "ઓલિવ તેલ",
+        "તલ",
+        "ઝાતર મસાલો"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, ખાંડ અને મીઠું ભેળવો.",
+        "પાણી અને ઓલિવ તેલ નાખી 8 મિનિટ લચીલું મસળો. ઢાંકી 45–60 મિનિટ ફૂલવા દો.",
+        "ચાર ભાગ કરો. દરેકની લાંબી દોરી બનાવી છેડા જોડો અને મોટો અંડાકાર રિંગ બનાવો. પાણી લગાવી ભરપૂર તલ ચોંટાડો; 15 મિનિટ ફૂલવા દો.",
+        "220°C પર 18–22 મિનિટ સોનેરી અને સારી રીતે ફૂલે ત્યાં સુધી બેક કરો. ગરમ રોટલી ઝાતરમાં બોળીને અથવા ઉપર છાંટીને પીરસો."
+      ],
+      "tips": [
+        "જેરુસલેમની શેરી શૈલીમાં મોટો લંબગોળ તલવાળો રિંગ હોય છે; વચ્ચે પૂરતી જગ્યા રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/ka-ak.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,115 @@
+{
+  "sourceReviewId": "R0494",
+  "id": "obwarzanek",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Obwarzanek",
+  "cuisine": "Polish (Kraków)",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "passiveTime": "60 minutes dough rise",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 260,
+      "unit": "ml"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "water for boiling",
+      "qty": 2000,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead flour, warm water, yeast, sugar, oil and salt 10 minutes until elastic. Cover and rise 1 hour.",
+    "Divide into eight pieces. Roll each into a thin rope, twist pairs of ropes together and join the ends to make four braided rings. Rest 10 minutes.",
+    "Seal each braided ring firmly where the ends meet, then handle it gently so the twisted shape survives the water bath.",
+    "Poach each ring in gently boiling water for 30 seconds per side. Drain, sprinkle with sesame and bake at 220°C for 18–22 minutes until shiny and deep golden."
+  ],
+  "tips": [
+    "The brief water bath is essential for the chewy crust of Kraków obwarzanek."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ओब्वारज़ानेक",
+      "ingredients": [
+        "मज़बूत सफ़ेद ब्रेड आटा",
+        "गुनगुना पानी",
+        "सूखा खमीर",
+        "चीनी",
+        "तेल",
+        "नमक",
+        "सफ़ेद तिल",
+        "उबालने के लिए पानी"
+      ],
+      "steps": [
+        "आटा, गुनगुना पानी, खमीर, चीनी, तेल और नमक 10 मिनट लचीला गूँधें। ढककर 1 घंटा फूलने दें।",
+        "आठ हिस्से करें। हर हिस्से की पतली रस्सी बनाएँ, दो-दो रस्सियाँ मरोड़ें और सिरे जोड़कर चार गुँथी रिंग बनाएँ। 10 मिनट रखें।",
+        "हर गुँथी रिंग के सिरे अच्छी तरह जोड़ें, फिर सावधानी से उठाएँ ताकि पानी में डुबोते समय मरोड़ा आकार बना रहे।",
+        "हर रिंग को हल्के उबलते पानी में हर तरफ 30 सेकंड डुबोकर पकाएँ। निथारें, तिल छिड़कें और 220°C पर 18–22 मिनट चमकदार गहरा सुनहरा बेक करें।"
+      ],
+      "tips": [
+        "क्राकुव ओब्वारज़ानेक की चबाने योग्य परत के लिए पानी में थोड़ी देर उबालना ज़रूरी है।"
+      ],
+      "passiveTime": "60 मिनट आटा फूलना"
+    },
+    "gu": {
+      "name": "ઓબવાર્ઝાનેક",
+      "ingredients": [
+        "મજબૂત સફેદ બ્રેડનો લોટ",
+        "હૂંફાળું પાણી",
+        "સૂકું ખમીર",
+        "ખાંડ",
+        "તેલ",
+        "મીઠું",
+        "સફેદ તલ",
+        "ઉકાળવા માટે પાણી"
+      ],
+      "steps": [
+        "લોટ, હૂંફાળું પાણી, ખમીર, ખાંડ, તેલ અને મીઠું 10 મિનિટ લચીલું બાંધો. ઢાંકી 1 કલાક ફૂલવા દો.",
+        "આઠ ભાગ કરો. દરેક ભાગની પાતળી દોરી બનાવો, બે-બે દોરી વાળો અને છેડા જોડી ચાર ગૂંથેલા વલય બનાવો. 10 મિનિટ રાખો.",
+        "દરેક ગૂંથેલા વલયના છેડા મજબૂતીથી જોડો, પછી કાળજીથી ઉઠાવો જેથી પાણીમાં બાફતાં વળેલો આકાર જળવાય.",
+        "દરેક વલયને ધીમે ઉકળતા પાણીમાં દરેક બાજુ 30 સેકન્ડ બાફો. નિતારી તલ છાંટો અને 220°C પર 18–22 મિનિટ ચમકદાર ઘેરા સોનેરી બેક કરો."
+      ],
+      "tips": [
+        "ક્રાકોવ ઓબવાર્ઝાનેકના ચાવી શકાય એવા પડ માટે પાણીમાં થોડું બાફવું જરૂરી છે."
+      ],
+      "passiveTime": "60 મિનિટ લોટ ફૂલવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/obwarzanek.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

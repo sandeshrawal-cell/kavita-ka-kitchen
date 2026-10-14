@@ -1,0 +1,101 @@
+{
+  "sourceReviewId": "R0469",
+  "id": "humitas",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Humitas",
+  "cuisine": "Andean",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "passiveTime": "15 minutes cooling",
+  "ingredients": [
+    {
+      "name": "fresh corn cobs with husks",
+      "qty": 1600,
+      "unit": "g"
+    },
+    {
+      "name": "white onion, finely chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "fresh queso fresco or paneer, crumbled",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Peel the husks carefully and save the broad, unbroken leaves. Strip the kernels from the cobs and pulse to a coarse, moist paste.",
+    "Sauté onion in butter for 5 minutes. Stir in corn paste, cumin and salt; cook 8–10 minutes, stirring, until thick enough to mound. Cool slightly and fold in cheese.",
+    "Overlap two husks, spoon filling into the centre, fold the sides and ends into a packet and tie with a strip of husk. Make 8 packets.",
+    "Steam covered for 25–30 minutes until firm. Rest 10 minutes before unwrapping and serve warm."
+  ],
+  "tips": [
+    "Use fresh rather than canned corn so its natural starch sets the filling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हुमितास",
+      "ingredients": [
+        "पत्तों सहित ताज़े मकई के भुट्टे",
+        "सफ़ेद प्याज़, बारीक कटा",
+        "मक्खन",
+        "ताज़ा केसो फ्रेस्को या पनीर, चूरा किया",
+        "पिसा जीरा",
+        "नमक"
+      ],
+      "steps": [
+        "पत्ते सावधानी से उतारकर चौड़े साबुत पत्ते बचाएँ। दाने निकालकर दरदरा गीला पेस्ट पीसें।",
+        "प्याज़ को मक्खन में 5 मिनट भूनें। मकई पेस्ट, जीरा और नमक मिलाकर 8–10 मिनट चलाते हुए गाढ़ा करें। थोड़ा ठंडा करके चीज़ मिलाएँ।",
+        "दो पत्ते आड़ा रखें, बीच में मिश्रण रखें, बाजू और सिरों को मोड़कर पोटली बनाएँ और पत्ते की पट्टी से बाँधें। 8 पोटलियाँ बनाएँ।",
+        "ढककर 25–30 मिनट भाप में पकाएँ जब तक जम जाए। खोलने से पहले 10 मिनट रखें और गरम परोसें।"
+      ],
+      "tips": [
+        "डिब्बाबंद की जगह ताज़ी मकई लें; उसका प्राकृतिक स्टार्च भरावन को जमाता है।"
+      ],
+      "passiveTime": "15 मिनट ठंडा करना"
+    },
+    "gu": {
+      "name": "હુમિતાસ",
+      "ingredients": [
+        "પાન સાથેના તાજા મકાઈના ડોડા",
+        "સફેદ ડુંગળી, બારીક સમારેલી",
+        "માખણ",
+        "તાજું કેસો ફ્રેસ્કો અથવા પનીર, ભૂકો કરેલું",
+        "જીરું પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "પાન કાળજીથી ઉતારી પહોળાં અખંડ પાન સાચવો. દાણા કાઢી દરદરી ભીની પેસ્ટ પીસો.",
+        "ડુંગળી માખણમાં 5 મિનિટ સાંતળો. મકાઈની પેસ્ટ, જીરું અને મીઠું નાખી 8–10 મિનિટ હલાવતા ઘટ્ટ કરો. સહેજ ઠંડું કરી ચીઝ ભેળવો.",
+        "બે પાન એકબીજા પર મૂકી મધ્યમાં મિશ્રણ મૂકો, બાજુ અને છેડા વાળી પડીકી બનાવો અને પાનની પટ્ટીથી બાંધો. 8 પડીકી બનાવો.",
+        "ઢાંકી 25–30 મિનિટ વરાળમાં ચડાવો, મિશ્રણ મજબૂત થાય ત્યાં સુધી. ખોલતા પહેલાં 10 મિનિટ રાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ડબ્બાબંધને બદલે તાજી મકાઈ લો; તેનો કુદરતી સ્ટાર્ચ પૂરણને જમાવે છે."
+      ],
+      "passiveTime": "15 મિનિટ ઠંડું કરવું"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/humitas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

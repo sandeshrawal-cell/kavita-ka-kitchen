@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0408",
+  "id": "masala-pav",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Masala Pav",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "pav rolls",
+      "qty": 480,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, finely chopped",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, chopped",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "pav bhaji masala",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Melt half the butter on a broad griddle. Cook onion and bell pepper 5 minutes; add ginger-garlic paste and cook 1 minute.",
+    "Add tomatoes, pav bhaji masala, chilli and salt. Mash and cook 8–10 minutes until thick; finish with lemon and coriander.",
+    "Keep stirring the bhaji masala on the warm griddle until it spreads thickly without releasing watery liquid.",
+    "Split pav, spread remaining butter on the cut sides and toast on the griddle. Spoon masala onto each half, press briefly into the pan and serve hot."
+  ],
+  "tips": [
+    "Cook the masala down until nearly dry so the toasted pav does not become soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला पाव",
+      "ingredients": [
+        "पाव",
+        "बारीक प्याज़",
+        "बारीक टमाटर",
+        "कटी शिमला मिर्च",
+        "अदरक-लहसुन पेस्ट",
+        "पाव भाजी मसाला",
+        "कश्मीरी मिर्च पाउडर",
+        "मक्खन",
+        "नींबू का रस",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "तवे पर आधा मक्खन पिघलाएँ। प्याज़ और शिमला मिर्च 5 मिनट पकाएँ; अदरक-लहसुन पेस्ट डालकर 1 मिनट भूनें।",
+        "टमाटर, पाव भाजी मसाला, मिर्च और नमक डालें। मसलते हुए 8–10 मिनट गाढ़ा पकाएँ; नींबू और धनिया मिलाएँ।",
+        "भाजी मसाले को गरम तवे पर चलाते रहें, जब तक वह गाढ़ा फैले और पानी न छोड़े।",
+        "पाव चीरकर कटे भाग पर बाकी मक्खन लगाएँ और तवे पर सेंकें। हर आधे पर मसाला फैलाएँ, तवे पर थोड़ी देर दबाएँ और गरम परोसें।"
+      ],
+      "tips": [
+        "मसाला लगभग सूखा पकाएँ ताकि सिका पाव गीला न हो।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા પાવ",
+      "ingredients": [
+        "પાવ",
+        "ઝીણી ડુંગળી",
+        "ઝીણાં ટામેટાં",
+        "સમારેલું શિમલા મરચું",
+        "આદુ-લસણની પેસ્ટ",
+        "પાવભાજી મસાલો",
+        "કાશ્મીરી મરચું પાઉડર",
+        "માખણ",
+        "લીંબુનો રસ",
+        "કોથમીર",
+        "મીઠું"
+      ],
+      "steps": [
+        "તવા પર અડધું માખણ ઓગાળો. ડુંગળી અને શિમલા મરચું 5 મિનિટ રાંધો; આદુ-લસણ પેસ્ટ નાખી 1 મિનિટ શેકો.",
+        "ટામેટાં, પાવભાજી મસાલો, મરચું અને મીઠું નાખો. મસળતાં 8–10 મિનિટ ઘટ્ટ રાંધો; લીંબુ અને કોથમીર ભેળવો.",
+        "ભાજી મસાલાને ગરમ તવા પર હલાવતા રહો, તે ઘટ્ટ પથરાય અને પાણી ન છોડે ત્યાં સુધી.",
+        "પાવ ચીરી કાપેલી બાજુએ બાકી માખણ લગાવી તવા પર શેકો. દરેક અડધા પર મસાલો પાથરી તવા પર થોડી વાર દબાવી ગરમ પીરસો."
+      ],
+      "tips": [
+        "મસાલો લગભગ સૂકો રાંધો જેથી શેકેલો પાવ પોચો ન થાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/masala-pav.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

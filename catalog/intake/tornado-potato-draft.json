@@ -1,0 +1,90 @@
+{
+  "sourceReviewId": "R0448",
+  "id": "tornado-potato",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tornado Potato",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "medium potatoes",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "paprika",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 900,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Insert a sturdy skewer lengthwise through each scrubbed potato.",
+    "Cut a continuous spiral around each potato at about 5 mm spacing, rotating the skewer as you cut without cutting through it.",
+    "Gently pull the spiral open along the skewer. Rinse briefly, pat completely dry and dust evenly with cornstarch.",
+    "Fry one or two skewers at a time in 170°C oil for 6–8 minutes, turning until crisp and golden. Drain, sprinkle with salt and paprika, and serve immediately."
+  ],
+  "tips": [
+    "Keep the potato attached to its skewer throughout frying so the spiral holds its shape."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टॉर्नेडो आलू",
+      "ingredients": [
+        "मध्यम आलू",
+        "मक्के का स्टार्च",
+        "नमक",
+        "पपरिका",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "धुले आलू में लंबाई में मजबूत सींक डालें।",
+        "सींक घुमाते हुए लगभग 5 मिमी अंतर पर लगातार घुमावदार चीरा लगाएँ, सींक तक न काटें।",
+        "घुमाव को धीरे खींचकर सींक पर फैलाएँ। जल्दी धोएँ, पूरी तरह सुखाएँ और मक्के का स्टार्च समान रूप से लगाएँ।",
+        "170°C तेल में एक-दो सींक 6–8 मिनट पलटते हुए कुरकुरी सुनहरी तलें। छानकर नमक और पपरिका छिड़कें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "तलते समय आलू सींक पर ही रखें ताकि उसका घुमावदार आकार बना रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ટોર્નેડો બટાકા",
+      "ingredients": [
+        "મધ્યમ બટાકા",
+        "મકાઈનો સ્ટાર્ચ",
+        "મીઠું",
+        "પાપ્રિકા",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "ધોયેલા બટાકામાં લંબાઈમાં મજબૂત સળી નાખો.",
+        "સળી ફેરવતાં આશરે 5 મિમી અંતરે સતત સર્પાકાર કાપો, સળી સુધી ન કાપો.",
+        "સર્પાકારને ધીમે ખેંચી સળી પર ફેલાવો. ઝડપથી ધોઈ સંપૂર્ણ સુકવો અને મકાઈનો સ્ટાર્ચ સરખો લગાવો.",
+        "170°C તેલમાં એક-બે સળી 6–8 મિનિટ ફેરવી કરકરી સોનેરી તળો. નીતારી મીઠું અને પાપ્રિકા છાંટી તરત પીરસો."
+      ],
+      "tips": [
+        "તળતી વખતે બટાકો સળી પર જ રાખો જેથી તેનો સર્પાકાર આકાર જળવાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tornado-potato.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,76 @@
+{
+  "sourceReviewId": "R0459",
+  "id": "banana-cue",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Banana Cue",
+  "cuisine": "Filipino",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "firm ripe saba bananas",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel saba bananas and pat them dry. Set out four sturdy bamboo skewers and a lightly oiled draining rack.",
+    "Heat oil to 170°C. Fry bananas in batches for about 5 minutes until lightly golden and tender; remove most oil from the pan, leaving a shallow layer.",
+    "Sprinkle brown sugar into the hot pan and return bananas. Turn continuously over medium heat for 2–3 minutes until the sugar melts and coats each banana in amber caramel.",
+    "Thread two coated bananas onto each skewer, set briefly on the rack and serve while the caramel is crisp."
+  ],
+  "tips": [
+    "Saba bananas hold their shape in hot oil; ordinary dessert bananas are softer and may break."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बनाना क्यू",
+      "ingredients": [
+        "पके पर सख्त साबा केले",
+        "भूरी चीनी",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "साबा केले छीलकर सुखाएँ। चार मजबूत बाँस सींक और हल्का तेल लगी जाली तैयार रखें।",
+        "तेल 170°C गरम करें। केले थोड़े-थोड़े लगभग 5 मिनट हल्के सुनहरे और नरम तलें; पैन से अधिकतर तेल निकालकर पतली परत रहने दें।",
+        "गरम पैन में भूरी चीनी छिड़ककर केले वापस डालें। मध्यम आँच पर 2–3 मिनट लगातार पलटें जब तक चीनी पिघलकर हर केले पर सुनहरी कैरामेल परत चढ़ाए।",
+        "हर सींक पर कैरामेल लगे दो केले पिरोएँ, जाली पर थोड़ी देर रखें और परत कुरकुरी रहते परोसें।"
+      ],
+      "tips": [
+        "साबा केले गरम तेल में आकार बनाए रखते हैं; साधारण मीठे केले नरम होकर टूट सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "બનાના ક્યુ",
+      "ingredients": [
+        "પાકેલા પણ મજબૂત સાબા કેળા",
+        "બ્રાઉન ખાંડ",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "સાબા કેળા છોલી સુકવો. ચાર મજબૂત વાંસની સળી અને હળવું તેલ લગાડેલી જાળી તૈયાર રાખો.",
+        "તેલ 170°C ગરમ કરો. કેળા થોડા થોડા આશરે 5 મિનિટ હળવા સોનેરી અને નરમ તળો; પૅનમાંથી મોટાભાગનું તેલ કાઢી પાતળું પડ રહેવા દો.",
+        "ગરમ પૅનમાં બ્રાઉન ખાંડ છાંટી કેળા પાછાં નાખો. મધ્યમ તાપે 2–3 મિનિટ સતત ફેરવો જ્યાં સુધી ખાંડ ઓગળી દરેક કેળા પર સોનેરી કેરમેલનું પડ ચડાવે.",
+        "દરેક સળી પર કેરમેલ ચડેલા બે કેળા પરોવો, જાળી પર થોડું રાખો અને પડ કરકરું હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "સાબા કેળા ગરમ તેલમાં આકાર રાખે છે; સામાન્ય મીઠાં કેળા નરમ થઈ તૂટી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/banana-cue.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

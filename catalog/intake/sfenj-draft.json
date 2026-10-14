@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0446",
+  "id": "sfenj",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Sfenj",
+  "cuisine": "Moroccan",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 95,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 370,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast and salt.",
+    "Beat in warm water for 5 minutes to make very soft sticky dough. Cover and rise 60 minutes until doubled and full of bubbles.",
+    "With wet hands pinch off eight portions. Stretch a hole through each centre to make a rough ring; lower carefully into 175°C oil.",
+    "Fry 2–3 minutes per side until golden and airy. Drain on a rack, sprinkle with sugar and serve warm."
+  ],
+  "tips": [
+    "The sticky dough is intentional; use wet hands instead of adding flour, which makes sfenj heavy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "स्फेंज़",
+      "ingredients": [
+        "मैदा",
+        "इंस्टेंट यीस्ट",
+        "नमक",
+        "गुनगुना पानी",
+        "तलने का सादा तेल",
+        "चीनी"
+      ],
+      "steps": [
+        "मैदा, यीस्ट और नमक मिलाएँ।",
+        "गुनगुना पानी डालकर 5 मिनट फेंटें और बहुत नरम चिपचिपा आटा बनाएँ। ढककर 60 मिनट दोगुना और बुलबुलेदार होने दें।",
+        "गीले हाथों से आठ हिस्से तोड़ें। हर हिस्से के बीच छेद खींचकर अनगढ़ छल्ला बनाएँ और सावधानी से 175°C तेल में छोड़ें।",
+        "हर ओर 2–3 मिनट सुनहरा और हल्का होने तक तलें। जाली पर छानें, चीनी छिड़कें और गरम परोसें।"
+      ],
+      "tips": [
+        "आटे का चिपचिपा होना सही है; अतिरिक्त मैदा डालने के बजाय हाथ गीले करें, वरना स्फेंज़ भारी बनेगा।"
+      ]
+    },
+    "gu": {
+      "name": "સ્ફેન્જ",
+      "ingredients": [
+        "મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "મીઠું",
+        "હૂંફાળું પાણી",
+        "તળવા માટે સાદું તેલ",
+        "ખાંડ"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ અને મીઠું ભેળવો.",
+        "હૂંફાળું પાણી નાખી 5 મિનિટ ફેંટો અને બહુ નરમ ચીકણો લોટ બનાવો. ઢાંકી 60 મિનિટ બમણો અને પરપોટાવાળો થવા દો.",
+        "ભીના હાથથી આઠ ભાગ તોડો. દરેકના મધ્યમાં કાણું ખેંચી અણઘડ રિંગ બનાવો અને કાળજીથી 175°C તેલમાં મૂકો.",
+        "દરેક બાજુ 2–3 મિનિટ સોનેરી અને હળવું થાય ત્યાં સુધી તળો. જાળી પર નીતારો, ખાંડ છાંટો અને ગરમ પીરસો."
+      ],
+      "tips": [
+        "લોટ ચીકણો રહે એ યોગ્ય છે; વધુ મેંદો ઉમેરવાને બદલે હાથ ભીના કરો, નહિતર સ્ફેન્જ ભારે બનશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/sfenj.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

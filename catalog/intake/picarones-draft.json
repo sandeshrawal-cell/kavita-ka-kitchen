@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R0470",
+  "id": "picarones",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Picarones",
+  "cuisine": "Peruvian",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "passiveTime": "60 minutes rising",
+  "ingredients": [
+    {
+      "name": "peeled sweet potato, cubed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "peeled pumpkin or squash, cubed",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground aniseed",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "panela or jaggery, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon stick",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Simmer sweet potato and pumpkin in 250 ml water until soft, about 15 minutes. Drain, reserving the liquid, and mash both until smooth.",
+    "Mix flour, yeast, aniseed and salt with the warm mash and enough reserved cooking water to make a sticky, stretchy batter. Cover and rise until doubled, about 1 hour.",
+    "Simmer jaggery, cinnamon and 200 ml water for 10 minutes until syrupy; strain. Heat frying oil to 175°C.",
+    "With wet hands, shape batter into small rings and slide into oil. Fry in batches 3–4 minutes, turning, until deep golden. Drain and drizzle with warm syrup."
+  ],
+  "tips": [
+    "Keep hands wet when forming rings; the dough is deliberately much softer than bread dough."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिकारोनेस",
+      "ingredients": [
+        "छिला शकरकंद, टुकड़ों में",
+        "छिला कद्दू, टुकड़ों में",
+        "मैदा",
+        "सूखा खमीर",
+        "पिसी सौंफ",
+        "पनेला या गुड़, कसा हुआ",
+        "दालचीनी की डंडी",
+        "तलने के लिए बिना तेज़ स्वाद वाला तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "शकरकंद और कद्दू को 250 मिली पानी में लगभग 15 मिनट नरम होने तक उबालें। पानी बचाकर छानें और दोनों को मसलें।",
+        "मैदा, खमीर, सौंफ और नमक को गुनगुने मसले मिश्रण में मिलाएँ। बचा पकाने का पानी डालकर चिपचिपा लचीला घोल बनाएँ। ढककर लगभग 1 घंटा दोगुना होने दें।",
+        "गुड़, दालचीनी और 200 मिली पानी को 10 मिनट चाशनी होने तक उबालें; छानें। तलने का तेल 175°C तक गरम करें।",
+        "गीले हाथों से घोल की छोटी रिंग बनाकर तेल में डालें। बैच में 3–4 मिनट पलटकर गहरा सुनहरा तलें। निथारकर गरम चाशनी डालें।"
+      ],
+      "tips": [
+        "रिंग बनाते समय हाथ गीले रखें; यह आटा जानबूझकर ब्रेड के आटे से कहीं नरम होता है।"
+      ],
+      "passiveTime": "60 मिनट खमीर से फूलना"
+    },
+    "gu": {
+      "name": "પિકારોનેસ",
+      "ingredients": [
+        "છોલેલું શક્કરિયું, ટુકડા કરેલું",
+        "છોલેલું કોળું, ટુકડા કરેલું",
+        "મેંદો",
+        "સૂકું ખમીર",
+        "વરિયાળી પાઉડર",
+        "પનેલા અથવા ગોળ, છીણેલું",
+        "તજની લાકડી",
+        "તળવા માટે તટસ્થ સ્વાદનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "શક્કરિયું અને કોળું 250 મિલી પાણીમાં લગભગ 15 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો. પાણી સાચવી નિતારો અને બંને મસળો.",
+        "મેંદો, ખમીર, વરિયાળી અને મીઠું હૂંફાળા મસળેલા મિશ્રણમાં ભેળવો. સાચવેલું પાણી ઉમેરી ચીકણું લચીલું ખીરું બનાવો. ઢાંકી લગભગ 1 કલાક બમણું થવા દો.",
+        "ગોળ, તજ અને 200 મિલી પાણી 10 મિનિટ ચાસણી થાય ત્યાં સુધી ઉકાળો; ગાળો. તળવાનું તેલ 175°C સુધી ગરમ કરો.",
+        "ભીના હાથથી ખીરાનાં નાનાં વલય બનાવી તેલમાં સરકાવો. થોડાં થોડાં 3–4 મિનિટ ફેરવી ઘેરા સોનેરી તળો. નિતારી ગરમ ચાસણી રેડો."
+      ],
+      "tips": [
+        "વલય બનાવતી વખતે હાથ ભીના રાખો; આ લોટ ઇરાદાપૂર્વક બ્રેડના લોટથી ઘણો નરમ હોય છે."
+      ],
+      "passiveTime": "60 મિનિટ ખમીરથી ફૂલવું"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/picarones.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0425",
+  "id": "veechu-parotta",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Veechu Parotta",
+  "cuisine": "Madurai",
+  "categories": [
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "passiveTime": "2 hours dough resting",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 85,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, water, salt, sugar and 20 ml oil. Knead 10 minutes until elastic; divide into 8 balls, coat with 20 ml oil and rest covered for 2 hours.",
+    "On an oiled counter, press a ball flat and stretch or gently toss it outward until nearly translucent, taking care not to tear it.",
+    "Brush the sheet with some remaining oil. Fold opposite edges toward the centre, then the other edges over them to form a thin layered square.",
+    "Cook each square on a medium-hot griddle with a film of oil for 2–3 minutes per side until golden spots appear and layers cook through. Serve hot with curry."
+  ],
+  "tips": [
+    "Long resting makes the dough stretch thin without tearing; keep unused balls covered."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वीचू परोट्टा",
+      "ingredients": [
+        "मैदा",
+        "पानी",
+        "नमक",
+        "चीनी",
+        "बिना गंध वाला तेल"
+      ],
+      "steps": [
+        "मैदा, पानी, नमक, चीनी और 20 मिली तेल मिलाएँ। 10 मिनट लचीला गूँधें; 8 गोले कर 20 मिली तेल लगाएँ और ढककर 2 घंटे रखें।",
+        "तेल लगे पाटले पर गोला दबाकर फैलाएँ और धीरे खींचें या उछालें, जब तक चादर लगभग पारदर्शी हो; फाड़ें नहीं।",
+        "चादर पर बाकी थोड़ा तेल लगाएँ। सामने के किनारे बीच में मोड़ें, फिर दूसरे किनारे उन पर रखकर पतला परतदार चौकोर बनाएँ।",
+        "हर चौकोर परोट्टा मध्यम गरम तवे पर थोड़े तेल के साथ हर तरफ 2–3 मिनट सुनहरे धब्बे आने और परतें पकने तक सेंकें। करी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "अच्छा आराम देने से आटा बिना फटे पतला फैलता है; बाकी गोले ढके रखें।"
+      ],
+      "passiveTime": "2 घंटे आटे को आराम देना"
+    },
+    "gu": {
+      "name": "વીચુ પરોટ્ટા",
+      "ingredients": [
+        "મેંદો",
+        "પાણી",
+        "મીઠું",
+        "ખાંડ",
+        "ગંધ વિનાનું તેલ"
+      ],
+      "steps": [
+        "મેંદો, પાણી, મીઠું, ખાંડ અને 20 મિલી તેલ ભેળવો. 10 મિનિટ લવચીક બાંધો; 8 ગોળા કરી 20 મિલી તેલ લગાવી ઢાંકી 2 કલાક રાખો.",
+        "તેલ લગાવેલા પાટલા પર ગોળો દબાવી પાથરો અને હળવે ખેંચો અથવા ઉછાળો, ચાદર લગભગ પારદર્શક થાય ત્યાં સુધી; ફાડશો નહીં.",
+        "ચાદર પર બાકી થોડું તેલ લગાવો. સામસામેની કિનારીઓ વચ્ચે વાળો, પછી બીજી કિનારીઓ તેના પર મૂકી પાતળો પડદાર ચોરસ બનાવો.",
+        "દરેક ચોરસ પરોટ્ટા મધ્યમ ગરમ તવા પર થોડા તેલ સાથે દરેક બાજુ 2–3 મિનિટ સોનેરી ટપકાં પડે અને પડ પાકે ત્યાં સુધી શેકો. કરી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "પૂરતો આરામ આપવાથી લોટ ફાટ્યા વિના પાતળો ખેંચાય છે; બાકી ગોળા ઢાંકી રાખો."
+      ],
+      "passiveTime": "2 કલાક લોટને આરામ આપવો"
+    }
+  },
+  "reference": {
+    "url": "https://www.thenewsminute.com/features/forget-kothu-parotta-or-chilly-parotta-if-you-re-madurai-try-bun-parotta-102813",
+    "use": "Madurai veechu identity as a thin tossed layered parotta."
+  },
+  "photoDraft": "catalog/intake/photos/veechu-parotta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

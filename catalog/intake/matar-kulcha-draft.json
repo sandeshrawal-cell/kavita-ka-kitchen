@@ -1,0 +1,149 @@
+{
+  "sourceReviewId": "R0411",
+  "id": "matar-kulcha",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Matar Kulcha",
+  "cuisine": "Delhi",
+  "categories": [
+    "Lunch"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "passiveTime": "8 hours pea soaking",
+  "ingredients": [
+    {
+      "name": "dried white peas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "plain kulcha",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 850,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak white peas 8 hours and drain. Simmer in fresh water with 6 g salt for 35–45 minutes until soft but mostly whole; reserve the cooking liquid.",
+    "Mix peas with tomatoes, ginger, chillies, tamarind, cumin, chaat masala and remaining salt. Simmer 8 minutes, adding pea liquid for a spoonable consistency.",
+    "Mash a spoonful of cooked peas against the pan to lightly thicken the tangy gravy while leaving most peas whole.",
+    "Warm kulchas in butter on a griddle. Fold onion and coriander into the hot matar just before serving alongside the kulchas."
+  ],
+  "tips": [
+    "Keep the peas slightly loose; the kulcha absorbs the tangy cooking liquid."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मटर कुलचा",
+      "ingredients": [
+        "सूखे सफेद मटर",
+        "सादा कुलचा",
+        "बारीक प्याज़",
+        "कटे टमाटर",
+        "कद्दूकस अदरक",
+        "कटी हरी मिर्च",
+        "इमली का गूदा",
+        "भुना जीरा पाउडर",
+        "चाट मसाला",
+        "हरा धनिया",
+        "मक्खन",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "सफेद मटर 8 घंटे भिगोकर निथारें। ताजे पानी और 6 ग्राम नमक में 35–45 मिनट नरम मगर अधिकतर साबुत रहने तक पकाएँ; पानी बचाएँ।",
+        "मटर में टमाटर, अदरक, मिर्च, इमली, जीरा, चाट मसाला और बाकी नमक मिलाएँ। 8 मिनट पकाएँ और चम्मच से खाने लायक गाढ़ेपन के लिए मटर का पानी डालें।",
+        "खट्टी ग्रेवी हल्की गाढ़ी करने के लिए थोड़ा पका मटर पैन में मसलें, बाकी मटर साबुत रखें।",
+        "तवे पर कुलचे मक्खन में गरम करें। परोसने से ठीक पहले गरम मटर में प्याज़ और धनिया मिलाकर कुलचों के साथ दें।"
+      ],
+      "tips": [
+        "मटर थोड़ा रसेदार रखें; कुलचा खट्टा मसालेदार रस सोख लेता है।"
+      ],
+      "passiveTime": "8 घंटे मटर भिगोना"
+    },
+    "gu": {
+      "name": "વટાણા કુલચા",
+      "ingredients": [
+        "સૂકા સફેદ વટાણા",
+        "સાદા કુલચા",
+        "ઝીણી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "છીણેલું આદુ",
+        "સમારેલાં લીલાં મરચાં",
+        "આમલીનો માવો",
+        "શેકેલા જીરાનો ભૂકો",
+        "ચાટ મસાલો",
+        "કોથમીર",
+        "માખણ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "સફેદ વટાણા 8 કલાક પલાળી નિતારો. તાજાં પાણી અને 6 ગ્રામ મીઠા સાથે 35–45 મિનિટ નરમ પણ મોટાભાગે આખાં રહે ત્યાં સુધી રાંધો; પાણી રાખો.",
+        "વટાણામાં ટામેટાં, આદુ, મરચાં, આમલી, જીરું, ચાટ મસાલો અને બાકી મીઠું ભેળવો. 8 મિનિટ રાંધો અને ચમચીથી ખવાય એવી ઘટ્ટતા માટે વટાણાનું પાણી નાખો.",
+        "ખાટો રસ થોડો ઘટ્ટ કરવા થોડા રાંધેલા વટાણા પેનમાં મસળો, બાકીના આખા રાખો.",
+        "તવા પર કુલચા માખણમાં ગરમ કરો. પીરસતાં તરત પહેલાં ગરમ વટાણામાં ડુંગળી અને કોથમીર ભેળવી કુલચા સાથે આપો."
+      ],
+      "tips": [
+        "વટાણા થોડા રસાવાળા રાખો; કુલચા ખાટો મસાલેદાર રસ શોષે છે."
+      ],
+      "passiveTime": "8 કલાક વટાણા પલાળવા"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/matar-kulcha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

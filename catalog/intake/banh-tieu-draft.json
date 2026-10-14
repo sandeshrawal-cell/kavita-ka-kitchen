@@ -1,0 +1,115 @@
+{
+  "sourceReviewId": "R0490",
+  "id": "banh-tieu",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Banh Tieu",
+  "cuisine": "Vietnamese",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "passiveTime": "60 minutes dough rise",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "white sesame seeds",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, sugar, yeast, baking powder and salt with warm water. Knead 8 minutes until smooth; cover and rise 1 hour.",
+    "Divide into eight balls. Press each into sesame on both sides, then roll gently into a thin 12 cm disc without tearing.",
+    "Let the sesame-coated discs rest briefly while the oil heats; brush off loose flour so it does not burn in the pan.",
+    "Heat oil to 175°C. Fry one disc at a time, spooning hot oil over its top until it balloons; turn and fry to even golden, about 2 minutes total. Drain upright."
+  ],
+  "tips": [
+    "Rolling evenly and bathing the top in hot oil help form the signature hollow centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बान्ह तिउ",
+      "ingredients": [
+        "मैदा",
+        "गुनगुना पानी",
+        "चीनी",
+        "सूखा खमीर",
+        "बेकिंग पाउडर",
+        "सफ़ेद तिल",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मैदा, चीनी, खमीर, बेकिंग पाउडर और नमक गुनगुने पानी से मिलाएँ। 8 मिनट चिकना गूँधें; ढककर 1 घंटा फूलने दें।",
+        "आठ लोइयाँ करें। हर एक को दोनों तरफ तिल में दबाएँ, फिर बिना फाड़े पतला 12 सेंटीमीटर गोल बेलें।",
+        "तिल लगे गोल तेल गरम होते समय थोड़ी देर रखें; खुला मैदा झाड़ दें ताकि कड़ाही में न जले।",
+        "तेल 175°C गरम करें। एक-एक गोल तलें, ऊपर गरम तेल डालते रहें जब तक फूलकर खोखला हो; पलटकर लगभग कुल 2 मिनट एकसार सुनहरा तलें। खड़ा रखकर निथारें।"
+      ],
+      "tips": [
+        "बराबर पतला बेलना और ऊपर गरम तेल डालना विशेष खोखला बीच बनाता है।"
+      ],
+      "passiveTime": "60 मिनट आटा फूलना"
+    },
+    "gu": {
+      "name": "બાન્હ તિયુ",
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "ખાંડ",
+        "સૂકું ખમીર",
+        "બેકિંગ પાઉડર",
+        "સફેદ તલ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મેંદો, ખાંડ, ખમીર, બેકિંગ પાઉડર અને મીઠું હૂંફાળા પાણીથી ભેળવો. 8 મિનિટ સુંવાળો બાંધો; ઢાંકી 1 કલાક ફૂલવા દો.",
+        "આઠ લૂવા કરો. દરેકને બંને બાજુ તલમાં દબાવો, પછી ફાડ્યા વિના પાતળો 12 સેમી ગોળ વણો.",
+        "તલ લગાવેલા ગોળ તેલ ગરમ થાય ત્યાં સુધી થોડો સમય રાખો; છૂટો મેંદો ઝાડી દો જેથી કડાઈમાં ન બળે.",
+        "તેલ 175°C ગરમ કરો. એકે એક ગોળ તળો, ઉપર ગરમ તેલ રેડતા રહો જ્યાં સુધી ફૂલીને પોલો બને; ફેરવી કુલ લગભગ 2 મિનિટ સરખો સોનેરી તળો. ઊભો રાખી નિતારો."
+      ],
+      "tips": [
+        "સરખું પાતળું વણવું અને ઉપર ગરમ તેલ રેડવું ખાસ પોલું મધ્ય બનાવે છે."
+      ],
+      "passiveTime": "60 મિનિટ લોટ ફૂલવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/banh-tieu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

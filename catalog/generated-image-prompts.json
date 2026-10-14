@@ -4053,5 +4053,507 @@
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-06",
     "provenance": "reconstructed regeneration prompt; exact original generation prompt was not retained"
+  },
+  "mirchi-bajji": {
+    "prompt": "Use case: photorealistic-natural. Asset type: recipe catalogue food photograph. Primary request: a highly realistic, appetizing photo of Mirchi Bajji, the Indian street-food snack: long green chillies slit and filled with a small amount of spiced filling, coated in chickpea batter and deep fried golden, served whole with green chutney and a few onion slices. Show the recognizable elongated shape and crisp uneven batter, warm natural daylight, editorial food photography, overhead three-quarter view, simple ceramic plate, no text, no logos, no hands, no unrelated dishes. Square-friendly composition, high detail.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "mirchi-vada": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Mirchi Vada, Potato-stuffed chillies batter-fried, Jodhpur street icon. Culinary region: Rajasthani (Jodhpur). Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pyaaz-kachori": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pyaaz Kachori, Flaky kachori with spicy onion filling. Culinary region: Rajasthani. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "veg-momos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Veg Momos, Steamed dumplings with vegetable filling and red chutney. Culinary region: Tibetan/Nepali. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tandoori-momos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tandoori Momos, Momos marinated in tandoori masala and grilled. Culinary region: Delhi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kurkure-momos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kurkure Momos, Crunchy coated deep-fried momos. Culinary region: Delhi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "afghani-momos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Afghani Momos, Fried momos in creamy mayo-cream sauce. Culinary region: Delhi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "masala-pav": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Masala Pav, Pav toasted in butter with spicy bhaji masala. Culinary region: Mumbai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "samosa-pav": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Samosa Pav, Samosa tucked in pav with chutneys. Culinary region: Mumbai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "bhajji-pav": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Bhajji Pav, Onion bhajiya stuffed in pav with garlic chutney. Culinary region: Mumbai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "matar-kulcha": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Matar Kulcha, Tangy white pea curry with soft kulcha. Culinary region: Delhi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "rasawala-khaman": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Rasawala Khaman, Khaman soaked in spicy thin besan gravy. Culinary region: Surat. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "khopra-pattice": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Khopra Pattice, Potato patties stuffed with coconut and dry fruit. Culinary region: Indore. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "vegetable-chop": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Vegetable Chop, Beetroot-potato croquettes crumbed and fried, Kolkata. Culinary region: Bengali. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "chana-ros": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Chana Ros, Chickpeas in coconut ros gravy with pav. Culinary region: Goan. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kat-vada": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kat Vada, Batata vada in fiery kat rassa gravy. Culinary region: Kolhapuri. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kalmi-vada": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kalmi Vada, Crunchy chana dal vada sliced and double fried. Culinary region: Rajasthani. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kulhad-pizza": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kulhad Pizza, Pizza layers baked in a clay cup. Culinary region: Indian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "chole-bhature": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Chole Bhature, Spicy chickpea curry with fluffy fried bhature. Culinary region: Punjabi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "vada-usal": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Vada Usal, Batata vada dunked in spicy sprouted bean usal. Culinary region: Maharashtrian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "paneer-bhurji-pav": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Paneer Bhurji Pav, Spicy scrambled paneer with buttered pav. Culinary region: Mumbai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "chilli-parotta": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Chilli Parotta, Parotta pieces tossed in chilli sauce. Culinary region: Tamil. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "bun-parotta": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Bun Parotta, Soft fluffy bun-shaped parotta with salna. Culinary region: Madurai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "veechu-parotta": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Veechu Parotta, Thin tossed flaky parotta. Culinary region: Madurai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "mirchi-mandakki": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Mirchi Mandakki, Spiced puffed rice with mirchi bajji. Culinary region: Davangere. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kalari-kulcha": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kalari Kulcha, Griddled Kalari cheese sandwiched in kulcha. Culinary region: Jammu. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "darjeeling-aloo-dum": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Darjeeling Aloo Dum, Fiery hill-style potato curry street snack. Culinary region: Darjeeling. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "irani-samosa": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Irani Samosa, Small crisp triangular samosas with spiced onion filling. Culinary region: Hyderabad. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "hing-kochuri": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Hing Kochuri, Asafoetida-scented urad dal kochuri with aloo torkari. Culinary region: Kolkata. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "uggani-bajji": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Uggani Bajji, Puffed rice upma served with mirchi bajji. Culinary region: Kurnool. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "chilli-momos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Chilli Momos, Fried momos tossed in chilli garlic sauce. Culinary region: Indo-Chinese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "sambar-vada": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Sambar Vada, Medu vada soaked in hot sambar. Culinary region: South Indian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tacos-de-rajas": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tacos de Rajas, Tacos of poblano strips in cream. Culinary region: Mexican. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pastel-de-feira": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pastel de Feira, Thin crisp fried pastry filled with cheese. Culinary region: Brazilian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "aloo-pie": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Aloo Pie, Fried dough filled with spiced potato. Culinary region: Trinidadian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "dholl-puri": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Dholl Puri, Split pea stuffed flatbread with curry. Culinary region: Mauritian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "gateau-piment": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Gateau Piment, Crispy split pea chilli fritters. Culinary region: Mauritian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "puff-puff": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Puff-Puff, Soft fried yeast dough balls. Culinary region: Nigerian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kelewele": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kelewele, Spicy fried ripe plantain cubes. Culinary region: Ghanaian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "feteer-meshaltet": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Feteer Meshaltet, Flaky layered buttery pastry. Culinary region: Egyptian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "batata-harra": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Batata Harra, Spicy potatoes with garlic, coriander and chilli. Culinary region: Lebanese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "ka-ak": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Ka'ak, Sesame bread ring with za'atar. Culinary region: Jerusalem. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kumpir": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kumpir, Loaded baked potato with butter, cheese and toppings. Culinary region: Turkish. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "roasted-chestnuts": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Roasted Chestnuts, Street-roasted warm chestnuts. Culinary region: European/Turkish. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "sfenj": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Sfenj, Light fried yeast doughnuts. Culinary region: Moroccan. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "yaki-imo": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Yaki Imo, Stone-roasted sweet potato. Culinary region: Japanese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tornado-potato": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tornado Potato, Spiral-cut fried potato on a stick. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "vegetable-mandu": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Vegetable Mandu, Korean vegetable dumplings. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tteok-kkochi": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tteok-kkochi, Grilled rice cake skewers in sweet-spicy glaze. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "gimmari": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Gimmari, Seaweed rolls filled with glass noodles, fried. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "vegetable-baozi": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Vegetable Baozi, Steamed fluffy buns with vegetable filling. Culinary region: Chinese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tanghulu": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tanghulu, Candied fruit skewers with crunchy sugar shell. Culinary region: Chinese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "taiwanese-sweet-potato-balls": {
+    "prompt": "Use case: photorealistic-natural. Asset type: recipe catalogue food photograph. Primary request: Taiwanese Sweet Potato Balls (di gua qiu), a Taiwanese night-market fried snack. Show a small paper tray holding dozens of distinct hollow, puffed, golden-orange round sweet-potato-and-tapioca balls with lightly crisp irregular surfaces, dry and ready to eat. Absolutely no soup, milk, syrup, shaved ice, colored mochi, or liquid. Warm natural light, authentic street-food editorial photo, close three-quarter view, high resolution, square composition, no text or logo.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13",
+    "correction": "Regenerated to show dry golden fried sweet potato tapioca balls, not dessert soup."
+  },
+  "pisang-goreng": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pisang Goreng, Crispy fried banana fritters. Culinary region: Indonesian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tahu-isi": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tahu Isi, Fried tofu stuffed with vegetables. Culinary region: Indonesian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "cireng": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Cireng, Chewy fried tapioca fritters. Culinary region: Indonesian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "khanom-krok": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Khanom Krok, Coconut rice pancake cups. Culinary region: Thai. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "banana-cue": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Banana Cue, Caramelised fried banana skewers. Culinary region: Filipino. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pizza-al-taglio": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pizza al Taglio, Rectangular pizza sold by the slice. Culinary region: Roman. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pizza-fritta": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pizza Fritta, Fried stuffed pizza dough with cheese and tomato. Culinary region: Neapolitan. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "koulouri": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Koulouri, Sesame-crusted bread rings. Culinary region: Greek. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "candied-almonds": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Candied Almonds, Cinnamon sugar roasted almonds. Culinary region: German. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tacos-de-hongos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Tacos de Hongos, Mushroom tacos with salsa and onion. Culinary region: Mexican. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "molotes": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Molotes, Fried masa torpedoes with potato filling. Culinary region: Mexican (Oaxaca). Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "memelas": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Memelas, Griddled masa cakes with beans and quesillo. Culinary region: Mexican (Oaxaca). Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "enchiladas-potosinas": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Enchiladas Potosinas, Red chile masa pockets filled with cheese. Culinary region: Mexican. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "choclo-con-queso": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Choclo con Queso, Giant corn cob with fresh cheese. Culinary region: Peruvian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "humitas": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Humitas, Fresh corn paste steamed in husks. Culinary region: Andean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "picarones": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Picarones, Sweet potato-squash doughnuts with syrup. Culinary region: Peruvian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pholourie": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pholourie, Split pea fritters with tamarind chutney. Culinary region: Trinidadian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "sahina": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Sahina, Dasheen leaf and split pea fritters. Culinary region: Trinidadian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "jamaican-festival": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Jamaican Festival, Sweet fried cornmeal dumplings. Culinary region: Jamaican. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "mahamri": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Mahamri, Cardamom coconut yeast doughnuts. Culinary region: Swahili. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "vitumbua": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Vitumbua, Coconut rice cakes. Culinary region: Swahili. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "harcha": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Harcha, Buttery semolina griddle bread. Culinary region: Moroccan. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "karantika": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Karantika, Baked chickpea flour custard slice. Culinary region: Algerian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "mhajeb": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Mhajeb, Semolina flatbread stuffed with tomato-onion filling. Culinary region: Algerian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pisi": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pisi, Puffy fried dough bites. Culinary region: Turkish. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "boyoz": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Boyoz, Flaky tahini pastry. Culinary region: Turkish (Izmir). Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "laboo": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Laboo, Street-cooked sweet beetroots. Culinary region: Iranian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "baghali": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Baghali, Steamed fava beans with golpar and vinegar. Culinary region: Iranian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "malawach": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Malawach, Flaky pan-fried layered flatbread. Culinary region: Yemeni. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "yaki-tomorokoshi": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Yaki Tomorokoshi, Soy-butter grilled corn. Culinary region: Japanese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "jagabutter": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Jagabutter, Steamed potato with butter, festival food. Culinary region: Japanese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "yachae-twigim": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Yachae Twigim, Korean vegetable fritters. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "dalgona-candy": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Dalgona Candy, Honeycomb sugar candy stamped with shapes. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "hoppang": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Hoppang, Steamed buns with red bean filling. Culinary region: Korean. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "xoi-xeo": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Xoi Xeo, Sticky rice with mung bean and fried shallots. Culinary region: Vietnamese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "banh-tieu": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Banh Tieu, Hollow sesame doughnuts. Culinary region: Vietnamese. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "taho": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Taho, Silken tofu with syrup and tapioca pearls. Culinary region: Filipino. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kadala": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kadala, Tempered chickpeas with coconut. Culinary region: Sri Lankan. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "zapiekanka": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Zapiekanka, Open baguette with mushrooms and cheese. Culinary region: Polish. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "obwarzanek": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Obwarzanek, Braided sesame bread ring. Culinary region: Polish (Krakow). Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "chips-and-curry-sauce": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Chips and Curry Sauce, Chippy fries with curry sauce. Culinary region: British. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "kettle-corn": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Kettle Corn, Sweet-salty kettle popped corn. Culinary region: American. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "tacos-de-canasta": {
+    "prompt": "Use case: photorealistic-natural. Asset type: recipe catalogue food photograph. Primary request: authentic Mexican tacos de canasta, soft small corn tortillas folded around spiced potato filling, packed close together in a cloth-lined wicker basket and glistening lightly with red chile onion oil after steaming. Show several soft, pliable, moist tacos; one gently opened to reveal potato filling. Absolutely no hard fried taco shells, no crunchy U-shaped tacos, no deep frying. Editorial natural-light food photo, three-quarter overhead close composition, high realistic detail, no text, logo or people.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13",
+    "correction": "Regenerated to show soft folded potato tacos steamed together in a cloth-lined basket, not hard taco shells."
+  },
+  "bolon-de-verde": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Bolon de Verde, Mashed green plantain balls with cheese. Culinary region: Ecuadorian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "llapingachos": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Llapingachos, Cheese-stuffed potato patties with peanut sauce. Culinary region: Ecuadorian. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "pastelitos-de-guayaba": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Pastelitos de Guayaba, Flaky guava and cream cheese pastries. Culinary region: Cuban. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
+  },
+  "jeera-aloo": {
+    "prompt": "Use case: photorealistic-natural. Asset type: Kavita ka Kitchen recipe catalogue food photograph. Primary request: Jeera Aloo, Boiled potatoes tossed with cumin, green chilli and dry spices. Culinary region: Punjabi. Depict the defining preparation and recognizable shape of this exact vegetarian dish, with authentic ingredients and presentation. An appetizing editorial food photograph, true-to-life food texture, warm natural daylight, simple crockery, tightly framed three-quarter overhead composition suitable for a square recipe card. No text, watermark, logo, hands, people, extra unrelated dishes, or illustration.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-13"
   }
 }

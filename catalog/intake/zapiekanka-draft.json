@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0493",
+  "id": "zapiekanka",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Zapiekanka",
+  "cuisine": "Polish",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "baguettes, halved lengthwise",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms, sliced",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella, grated",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook onion in butter for 4 minutes. Add mushrooms, salt and pepper; cook 8–10 minutes until their liquid evaporates and they brown.",
+    "Lay four baguette halves cut-side up on a tray. Divide mushrooms over them and cover with grated cheese.",
+    "Toast the cut side of the baguettes briefly before adding mushrooms so the base stays crisp under the topping.",
+    "Bake at 220°C for 10–12 minutes until the bread is crisp and cheese melts and browns lightly. Zigzag ketchup over each and serve hot."
+  ],
+  "tips": [
+    "Cook mushrooms until dry before topping the bread, otherwise it becomes soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ज़ापियेकांका",
+      "ingredients": [
+        "बैगेट, लंबाई में आधे",
+        "बटन मशरूम, कटे",
+        "प्याज़, बारीक कटा",
+        "मक्खन",
+        "शाकाहारी मोज़रेला, कसा",
+        "टमाटर केचप",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "प्याज़ मक्खन में 4 मिनट भूनें। मशरूम, नमक और काली मिर्च डालकर 8–10 मिनट उनका पानी सूखने और भूरा होने तक पकाएँ।",
+        "चार बैगेट आधे कटे भाग ऊपर करके ट्रे पर रखें। मशरूम बाँटकर ऊपर कसा चीज़ डालें।",
+        "मशरूम रखने से पहले बैगेट का कटा भाग हल्का सेंकें ताकि भरावन के नीचे ब्रेड कुरकुरी रहे।",
+        "220°C पर 10–12 मिनट ब्रेड कुरकुरी और चीज़ पिघलकर हल्की भूरी होने तक बेक करें। ऊपर केचप डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "ब्रेड पर रखने से पहले मशरूम का पानी पूरी तरह सुखाएँ, वरना ब्रेड गीली हो जाएगी।"
+      ]
+    },
+    "gu": {
+      "name": "ઝાપિયેકાંકા",
+      "ingredients": [
+        "બેગેટ, લંબાઈમાં અડધાં",
+        "બટન મશરૂમ, સમારેલાં",
+        "ડુંગળી, બારીક સમારેલી",
+        "માખણ",
+        "શાકાહારી મોઝરેલા, છીણેલું",
+        "ટમેટાંનો કેચઅપ",
+        "મીઠું",
+        "કાળી મરી"
+      ],
+      "steps": [
+        "ડુંગળી માખણમાં 4 મિનિટ સાંતળો. મશરૂમ, મીઠું અને મરી નાખી 8–10 મિનિટ પાણી સુકાય અને બદામી થાય ત્યાં સુધી ચડાવો.",
+        "ચાર બેગેટના અડધા કપાયેલો ભાગ ઉપર રાખી ટ્રે પર મૂકો. મશરૂમ વહેંચી ઉપર છીણેલું ચીઝ નાખો.",
+        "મશરૂમ મૂકતા પહેલાં બેગેટનો કપાયેલો ભાગ સહેજ શેકો જેથી ઉપરના મિશ્રણ નીચે બ્રેડ કરકરી રહે.",
+        "220°C પર 10–12 મિનિટ બ્રેડ કરકરી અને ચીઝ ઓગળી આછું બદામી થાય ત્યાં સુધી બેક કરો. ઉપર કેચઅપ નાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "બ્રેડ પર મૂકતા પહેલાં મશરૂમનું પાણી સંપૂર્ણ સુકાવો, નહીં તો બ્રેડ ભીની થઈ જશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/zapiekanka.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

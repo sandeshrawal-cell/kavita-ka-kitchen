@@ -1,0 +1,1008 @@
+{
+  "batch": "friend-list-fifth100",
+  "source": "Kavita_ka_Kitchen_dishes_with_batch1.xlsx",
+  "range": "R0401–R0501, excluding duplicate R0417",
+  "publicationStatus": "published",
+  "items": [
+    {
+      "id": "mirchi-bajji",
+      "name": "Mirchi Bajji",
+      "sourceReviewId": "R0401",
+      "sourceRow": 402,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mirchi-bajji.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "mirchi-vada",
+      "name": "Mirchi Vada",
+      "sourceReviewId": "R0402",
+      "sourceRow": 403,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mirchi-vada.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pyaaz-kachori",
+      "name": "Pyaaz Kachori",
+      "sourceReviewId": "R0403",
+      "sourceRow": 404,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pyaaz-kachori.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "veg-momos",
+      "name": "Veg Momos",
+      "sourceReviewId": "R0404",
+      "sourceRow": 405,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/veg-momos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tandoori-momos",
+      "name": "Tandoori Momos",
+      "sourceReviewId": "R0405",
+      "sourceRow": 406,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tandoori-momos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kurkure-momos",
+      "name": "Kurkure Momos",
+      "sourceReviewId": "R0406",
+      "sourceRow": 407,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kurkure-momos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "afghani-momos",
+      "name": "Afghani Momos",
+      "sourceReviewId": "R0407",
+      "sourceRow": 408,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/afghani-momos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "masala-pav",
+      "name": "Masala Pav",
+      "sourceReviewId": "R0408",
+      "sourceRow": 409,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/masala-pav.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "samosa-pav",
+      "name": "Samosa Pav",
+      "sourceReviewId": "R0409",
+      "sourceRow": 410,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/samosa-pav.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "bhajji-pav",
+      "name": "Bhajji Pav",
+      "sourceReviewId": "R0410",
+      "sourceRow": 411,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/bhajji-pav.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "matar-kulcha",
+      "name": "Matar Kulcha",
+      "sourceReviewId": "R0411",
+      "sourceRow": 412,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/matar-kulcha.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "rasawala-khaman",
+      "name": "Rasawala Khaman",
+      "sourceReviewId": "R0412",
+      "sourceRow": 413,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/rasawala-khaman.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "khopra-pattice",
+      "name": "Khopra Pattice",
+      "sourceReviewId": "R0413",
+      "sourceRow": 414,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/khopra-pattice.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "vegetable-chop",
+      "name": "Vegetable Chop",
+      "sourceReviewId": "R0414",
+      "sourceRow": 415,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vegetable-chop.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "chana-ros",
+      "name": "Chana Ros",
+      "sourceReviewId": "R0415",
+      "sourceRow": 416,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chana-ros.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kat-vada",
+      "name": "Kat Vada",
+      "sourceReviewId": "R0416",
+      "sourceRow": 417,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kat-vada.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kalmi-vada",
+      "name": "Kalmi Vada",
+      "sourceReviewId": "R0418",
+      "sourceRow": 419,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kalmi-vada.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kulhad-pizza",
+      "name": "Kulhad Pizza",
+      "sourceReviewId": "R0419",
+      "sourceRow": 420,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kulhad-pizza.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "chole-bhature",
+      "name": "Chole Bhature",
+      "sourceReviewId": "R0420",
+      "sourceRow": 421,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chole-bhature.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "vada-usal",
+      "name": "Vada Usal",
+      "sourceReviewId": "R0421",
+      "sourceRow": 422,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vada-usal.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "paneer-bhurji-pav",
+      "name": "Paneer Bhurji Pav",
+      "sourceReviewId": "R0422",
+      "sourceRow": 423,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-bhurji-pav.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "chilli-parotta",
+      "name": "Chilli Parotta",
+      "sourceReviewId": "R0423",
+      "sourceRow": 424,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chilli-parotta.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "bun-parotta",
+      "name": "Bun Parotta",
+      "sourceReviewId": "R0424",
+      "sourceRow": 425,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/bun-parotta.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "veechu-parotta",
+      "name": "Veechu Parotta",
+      "sourceReviewId": "R0425",
+      "sourceRow": 426,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/veechu-parotta.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "mirchi-mandakki",
+      "name": "Mirchi Mandakki",
+      "sourceReviewId": "R0426",
+      "sourceRow": 427,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mirchi-mandakki.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kalari-kulcha",
+      "name": "Kalari Kulcha",
+      "sourceReviewId": "R0427",
+      "sourceRow": 428,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kalari-kulcha.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "darjeeling-aloo-dum",
+      "name": "Darjeeling Aloo Dum",
+      "sourceReviewId": "R0428",
+      "sourceRow": 429,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/darjeeling-aloo-dum.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "irani-samosa",
+      "name": "Irani Samosa",
+      "sourceReviewId": "R0429",
+      "sourceRow": 430,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/irani-samosa.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "hing-kochuri",
+      "name": "Hing Kochuri",
+      "sourceReviewId": "R0430",
+      "sourceRow": 431,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/hing-kochuri.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "uggani-bajji",
+      "name": "Uggani Bajji",
+      "sourceReviewId": "R0431",
+      "sourceRow": 432,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/uggani-bajji.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "chilli-momos",
+      "name": "Chilli Momos",
+      "sourceReviewId": "R0432",
+      "sourceRow": 433,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chilli-momos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "sambar-vada",
+      "name": "Sambar Vada",
+      "sourceReviewId": "R0433",
+      "sourceRow": 434,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/sambar-vada.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tacos-de-rajas",
+      "name": "Tacos de Rajas",
+      "sourceReviewId": "R0434",
+      "sourceRow": 435,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tacos-de-rajas.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pastel-de-feira",
+      "name": "Pastel de Feira",
+      "sourceReviewId": "R0435",
+      "sourceRow": 436,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pastel-de-feira.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "aloo-pie",
+      "name": "Aloo Pie",
+      "sourceReviewId": "R0436",
+      "sourceRow": 437,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/aloo-pie.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "dholl-puri",
+      "name": "Dholl Puri",
+      "sourceReviewId": "R0437",
+      "sourceRow": 438,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/dholl-puri.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "gateau-piment",
+      "name": "Gateau Piment",
+      "sourceReviewId": "R0438",
+      "sourceRow": 439,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/gateau-piment.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "puff-puff",
+      "name": "Puff-Puff",
+      "sourceReviewId": "R0439",
+      "sourceRow": 440,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/puff-puff.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kelewele",
+      "name": "Kelewele",
+      "sourceReviewId": "R0440",
+      "sourceRow": 441,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kelewele.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "feteer-meshaltet",
+      "name": "Feteer Meshaltet",
+      "sourceReviewId": "R0441",
+      "sourceRow": 442,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/feteer-meshaltet.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "batata-harra",
+      "name": "Batata Harra",
+      "sourceReviewId": "R0442",
+      "sourceRow": 443,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/batata-harra.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "ka-ak",
+      "name": "Ka'ak",
+      "sourceReviewId": "R0443",
+      "sourceRow": 444,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/ka-ak.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kumpir",
+      "name": "Kumpir",
+      "sourceReviewId": "R0444",
+      "sourceRow": 445,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kumpir.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "roasted-chestnuts",
+      "name": "Roasted Chestnuts",
+      "sourceReviewId": "R0445",
+      "sourceRow": 446,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/roasted-chestnuts.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "sfenj",
+      "name": "Sfenj",
+      "sourceReviewId": "R0446",
+      "sourceRow": 447,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/sfenj.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "yaki-imo",
+      "name": "Yaki Imo",
+      "sourceReviewId": "R0447",
+      "sourceRow": 448,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/yaki-imo.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tornado-potato",
+      "name": "Tornado Potato",
+      "sourceReviewId": "R0448",
+      "sourceRow": 449,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tornado-potato.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "vegetable-mandu",
+      "name": "Vegetable Mandu",
+      "sourceReviewId": "R0449",
+      "sourceRow": 450,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vegetable-mandu.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tteok-kkochi",
+      "name": "Tteok-kkochi",
+      "sourceReviewId": "R0450",
+      "sourceRow": 451,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tteok-kkochi.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "gimmari",
+      "name": "Gimmari",
+      "sourceReviewId": "R0451",
+      "sourceRow": 452,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/gimmari.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "vegetable-baozi",
+      "name": "Vegetable Baozi",
+      "sourceReviewId": "R0452",
+      "sourceRow": 453,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vegetable-baozi.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tanghulu",
+      "name": "Tanghulu",
+      "sourceReviewId": "R0453",
+      "sourceRow": 454,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tanghulu.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "taiwanese-sweet-potato-balls",
+      "name": "Taiwanese Sweet Potato Balls",
+      "sourceReviewId": "R0454",
+      "sourceRow": 455,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/taiwanese-sweet-potato-balls.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pisang-goreng",
+      "name": "Pisang Goreng",
+      "sourceReviewId": "R0455",
+      "sourceRow": 456,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pisang-goreng.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tahu-isi",
+      "name": "Tahu Isi",
+      "sourceReviewId": "R0456",
+      "sourceRow": 457,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tahu-isi.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "cireng",
+      "name": "Cireng",
+      "sourceReviewId": "R0457",
+      "sourceRow": 458,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/cireng.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "khanom-krok",
+      "name": "Khanom Krok",
+      "sourceReviewId": "R0458",
+      "sourceRow": 459,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/khanom-krok.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "banana-cue",
+      "name": "Banana Cue",
+      "sourceReviewId": "R0459",
+      "sourceRow": 460,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/banana-cue.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pizza-al-taglio",
+      "name": "Pizza al Taglio",
+      "sourceReviewId": "R0460",
+      "sourceRow": 461,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pizza-al-taglio.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pizza-fritta",
+      "name": "Pizza Fritta",
+      "sourceReviewId": "R0461",
+      "sourceRow": 462,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pizza-fritta.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "koulouri",
+      "name": "Koulouri",
+      "sourceReviewId": "R0462",
+      "sourceRow": 463,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/koulouri.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "candied-almonds",
+      "name": "Candied Almonds",
+      "sourceReviewId": "R0463",
+      "sourceRow": 464,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/candied-almonds.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tacos-de-hongos",
+      "name": "Tacos de Hongos",
+      "sourceReviewId": "R0464",
+      "sourceRow": 465,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tacos-de-hongos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "molotes",
+      "name": "Molotes",
+      "sourceReviewId": "R0465",
+      "sourceRow": 466,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/molotes.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "memelas",
+      "name": "Memelas",
+      "sourceReviewId": "R0466",
+      "sourceRow": 467,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/memelas.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "enchiladas-potosinas",
+      "name": "Enchiladas Potosinas",
+      "sourceReviewId": "R0467",
+      "sourceRow": 468,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/enchiladas-potosinas.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "choclo-con-queso",
+      "name": "Choclo con Queso",
+      "sourceReviewId": "R0468",
+      "sourceRow": 469,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/choclo-con-queso.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "humitas",
+      "name": "Humitas",
+      "sourceReviewId": "R0469",
+      "sourceRow": 470,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/humitas.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "picarones",
+      "name": "Picarones",
+      "sourceReviewId": "R0470",
+      "sourceRow": 471,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/picarones.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pholourie",
+      "name": "Pholourie",
+      "sourceReviewId": "R0471",
+      "sourceRow": 472,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pholourie.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "sahina",
+      "name": "Sahina",
+      "sourceReviewId": "R0472",
+      "sourceRow": 473,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/sahina.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "jamaican-festival",
+      "name": "Jamaican Festival",
+      "sourceReviewId": "R0473",
+      "sourceRow": 474,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/jamaican-festival.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "mahamri",
+      "name": "Mahamri",
+      "sourceReviewId": "R0474",
+      "sourceRow": 475,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mahamri.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "vitumbua",
+      "name": "Vitumbua",
+      "sourceReviewId": "R0475",
+      "sourceRow": 476,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vitumbua.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "harcha",
+      "name": "Harcha",
+      "sourceReviewId": "R0476",
+      "sourceRow": 477,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/harcha.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "karantika",
+      "name": "Karantika",
+      "sourceReviewId": "R0477",
+      "sourceRow": 478,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/karantika.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "mhajeb",
+      "name": "Mhajeb",
+      "sourceReviewId": "R0478",
+      "sourceRow": 479,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mhajeb.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pisi",
+      "name": "Pisi",
+      "sourceReviewId": "R0479",
+      "sourceRow": 480,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pisi.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "boyoz",
+      "name": "Boyoz",
+      "sourceReviewId": "R0480",
+      "sourceRow": 481,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/boyoz.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "laboo",
+      "name": "Laboo",
+      "sourceReviewId": "R0481",
+      "sourceRow": 482,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/laboo.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "baghali",
+      "name": "Baghali",
+      "sourceReviewId": "R0482",
+      "sourceRow": 483,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/baghali.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "malawach",
+      "name": "Malawach",
+      "sourceReviewId": "R0483",
+      "sourceRow": 484,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/malawach.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "yaki-tomorokoshi",
+      "name": "Yaki Tomorokoshi",
+      "sourceReviewId": "R0484",
+      "sourceRow": 485,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/yaki-tomorokoshi.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "jagabutter",
+      "name": "Jagabutter",
+      "sourceReviewId": "R0485",
+      "sourceRow": 486,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/jagabutter.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "yachae-twigim",
+      "name": "Yachae Twigim",
+      "sourceReviewId": "R0486",
+      "sourceRow": 487,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/yachae-twigim.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "dalgona-candy",
+      "name": "Dalgona Candy",
+      "sourceReviewId": "R0487",
+      "sourceRow": 488,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/dalgona-candy.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "hoppang",
+      "name": "Hoppang",
+      "sourceReviewId": "R0488",
+      "sourceRow": 489,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/hoppang.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "xoi-xeo",
+      "name": "Xoi Xeo",
+      "sourceReviewId": "R0489",
+      "sourceRow": 490,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/xoi-xeo.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "banh-tieu",
+      "name": "Banh Tieu",
+      "sourceReviewId": "R0490",
+      "sourceRow": 491,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/banh-tieu.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "taho",
+      "name": "Taho",
+      "sourceReviewId": "R0491",
+      "sourceRow": 492,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/taho.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kadala",
+      "name": "Kadala",
+      "sourceReviewId": "R0492",
+      "sourceRow": 493,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kadala.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "zapiekanka",
+      "name": "Zapiekanka",
+      "sourceReviewId": "R0493",
+      "sourceRow": 494,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/zapiekanka.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "obwarzanek",
+      "name": "Obwarzanek",
+      "sourceReviewId": "R0494",
+      "sourceRow": 495,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/obwarzanek.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "chips-and-curry-sauce",
+      "name": "Chips and Curry Sauce",
+      "sourceReviewId": "R0495",
+      "sourceRow": 496,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chips-and-curry-sauce.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "kettle-corn",
+      "name": "Kettle Corn",
+      "sourceReviewId": "R0496",
+      "sourceRow": 497,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/kettle-corn.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "tacos-de-canasta",
+      "name": "Tacos de Canasta",
+      "sourceReviewId": "R0497",
+      "sourceRow": 498,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tacos-de-canasta.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "bolon-de-verde",
+      "name": "Bolon de Verde",
+      "sourceReviewId": "R0498",
+      "sourceRow": 499,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/bolon-de-verde.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "llapingachos",
+      "name": "Llapingachos",
+      "sourceReviewId": "R0499",
+      "sourceRow": 500,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/llapingachos.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "pastelitos-de-guayaba",
+      "name": "Pastelitos de Guayaba",
+      "sourceReviewId": "R0500",
+      "sourceRow": 501,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pastelitos-de-guayaba.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    },
+    {
+      "id": "jeera-aloo",
+      "name": "Jeera Aloo",
+      "sourceReviewId": "R0501",
+      "sourceRow": 502,
+      "status": "reviewed-photo-and-recipe-draft",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/jeera-aloo.png",
+      "photoReview": "Visually checked on 2026-10-13 for realistic presentation, correct dish identity, and recipe-card quality."
+    }
+  ]
+}

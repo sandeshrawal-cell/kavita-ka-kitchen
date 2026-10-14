@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R0474",
+  "id": "mahamri",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Mahamri",
+  "cuisine": "Swahili Coast",
+  "categories": [
+    "Breakfast",
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "90 minutes rising",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "thick coconut milk",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, sugar, yeast, cardamom and salt. Add coconut milk and knead 8 minutes to a smooth soft dough.",
+    "Cover and let rise about 90 minutes until doubled. Divide into four balls, roll each to a 15 cm circle and cut each circle into four triangles.",
+    "After rising, gently press the dough to release large air pockets; keep it soft as you divide it so the triangles can puff.",
+    "Heat oil to 170°C. Fry triangles in batches, turning, for 3–4 minutes until puffed and golden. Drain and serve warm with tea."
+  ],
+  "tips": [
+    "Do not reroll scraps repeatedly; overworked dough makes dense mahamri."
+  ],
+  "translations": {
+    "hi": {
+      "name": "महमरी",
+      "ingredients": [
+        "मैदा",
+        "गाढ़ा नारियल दूध",
+        "चीनी",
+        "सूखा खमीर",
+        "पिसी इलायची",
+        "नमक",
+        "तलने के लिए बिना तेज़ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "मैदा, चीनी, खमीर, इलायची और नमक मिलाएँ। नारियल दूध डालकर 8 मिनट मुलायम चिकना आटा गूँधें।",
+        "ढककर लगभग 90 मिनट दोगुना होने दें। चार लोइयाँ बनाकर हर एक को 15 सेंटीमीटर गोल बेलें और चार त्रिकोण काटें।",
+        "फूलने के बाद आटा हल्के दबाकर बड़े हवा के बुलबुले निकालें; बाँटते समय नरम रखें ताकि त्रिकोण फूलें।",
+        "तेल 170°C तक गरम करें। त्रिकोण बैच में पलटते हुए 3–4 मिनट फूले और सुनहरे होने तक तलें। निथारकर चाय के साथ गरम दें।"
+      ],
+      "tips": [
+        "बचे आटे को बार-बार न बेलें; अधिक गूँधा आटा महमरी को भारी बनाता है।"
+      ],
+      "passiveTime": "90 मिनट आटा फूलना"
+    },
+    "gu": {
+      "name": "મહામરી",
+      "ingredients": [
+        "મેંદો",
+        "ઘટ્ટ નાળિયેરનું દૂધ",
+        "ખાંડ",
+        "સૂકું ખમીર",
+        "એલચી પાઉડર",
+        "મીઠું",
+        "તળવા માટે તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "મેંદો, ખાંડ, ખમીર, એલચી અને મીઠું ભેળવો. નાળિયેરનું દૂધ ઉમેરી 8 મિનિટ નરમ સુંવાળો લોટ બાંધો.",
+        "ઢાંકી લગભગ 90 મિનિટ બમણું થવા દો. ચાર લૂવા કરી દરેકને 15 સેમી ગોળ વણો અને ચાર ત્રિકોણ કાપો.",
+        "ફૂલ્યા પછી લોટ હળવે દબાવી મોટા હવાના પરપોટા કાઢો; વહેંચતી વખતે નરમ રાખો જેથી ત્રિકોણ ફૂલે.",
+        "તેલ 170°C સુધી ગરમ કરો. ત્રિકોણ થોડાં થોડાં ફેરવી 3–4 મિનિટ ફૂલે અને સોનેરી થાય ત્યાં સુધી તળો. નિતારી ચા સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "બચેલો લોટ વારંવાર ન વણો; વધુ મસળેલો લોટ મહામરીને ભારે બનાવે છે."
+      ],
+      "passiveTime": "90 મિનિટ લોટ ફૂલવો"
+    }
+  },
+  "reference": {
+    "url": "https://www.bonappetit.com/recipe/mandazi-mahamri-recipe",
+    "use": "Dish identity and traditional method; quantities and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/mahamri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

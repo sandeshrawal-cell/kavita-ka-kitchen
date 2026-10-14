@@ -1,0 +1,155 @@
+{
+  "sourceReviewId": "R0419",
+  "id": "kulhad-pizza",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kulhad Pizza",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "pizza sauce",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "mozzarella cheese, grated",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, diced",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, diced",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sweet corn kernels",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "chilli flakes",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 145,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast and salt with 145 ml water and olive oil; knead until smooth, cover and let rise for 1 hour until puffy.",
+    "Roll the risen dough thin and bake on a tray at 220°C for about 10 minutes until set but still pale. Cool briefly and cut into small cubes.",
+    "Reduce oven to 200°C. Toss the baked pizza-base cubes with butter and toast on a tray for 5 minutes so they hold their texture in the cups.",
+    "In each clay cup layer sauce, base cubes, bell pepper, onion, corn and mozzarella twice, finishing with cheese. Sprinkle oregano and chilli flakes.",
+    "Set the filled oven-safe clay cups apart on the tray and wipe sauce from their rims before baking.",
+    "Set cups on a baking tray and bake 12–15 minutes until cheese bubbles and the centre is hot. Rest 3 minutes before serving."
+  ],
+  "tips": [
+    "Use only clay cups sold as oven-safe; ordinary decorative cups can crack under dry oven heat."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुल्हड़ पिज़्ज़ा",
+      "ingredients": [
+        "मैदा",
+        "पिज़्ज़ा सॉस",
+        "कद्दूकस मोज़रेला चीज़",
+        "कटी शिमला मिर्च",
+        "कटा प्याज़",
+        "मीठे मकई दाने",
+        "सूखा ओरिगैनो",
+        "चिली फ्लेक्स",
+        "मक्खन",
+        "आटे के लिए पानी",
+        "इंस्टेंट यीस्ट",
+        "नमक",
+        "जैतून का तेल"
+      ],
+      "steps": [
+        "मैदा, यीस्ट और नमक में 145 मिली पानी और जैतून तेल मिलाकर चिकना गूँधें; ढककर 1 घंटे फूलने दें।",
+        "फूला आटा पतला बेलकर ट्रे पर 220°C पर लगभग 10 मिनट बस जमने तक बेक करें, रंग हल्का ही रहे। थोड़ा ठंडा कर छोटे टुकड़े काटें।",
+        "ओवन 200°C पर घटाएँ। बेक किए पिज़्ज़ा बेस के टुकड़ों पर मक्खन लगाकर ट्रे में 5 मिनट सेंकें ताकि कुल्हड़ में उनका आकार बना रहे।",
+        "हर कुल्हड़ में सॉस, बेस के टुकड़े, शिमला मिर्च, प्याज़, मकई और मोज़रेला की दो परतें लगाएँ; ऊपर चीज़ रखें। ओरिगैनो और चिली फ्लेक्स छिड़कें।",
+        "भरे हुए ओवन योग्य कुल्हड़ ट्रे पर अलग-अलग रखें और बेक करने से पहले किनारों से सॉस पोंछें।",
+        "कुल्हड़ बेकिंग ट्रे पर रखकर 12–15 मिनट चीज़ बुलबुलाने और बीच तक गरम होने तक बेक करें। परोसने से पहले 3 मिनट रखें।"
+      ],
+      "tips": [
+        "सिर्फ ओवन में रखने योग्य कुल्हड़ लें; सजावटी कुल्हड़ सूखी गर्मी से फट सकते हैं।"
+      ],
+      "passiveTime": "1 घंटा आटा फूलना"
+    },
+    "gu": {
+      "name": "કુલ્હડ પિઝા",
+      "ingredients": [
+        "મેંદો",
+        "પિઝા સોસ",
+        "છીણેલું મોઝેરેલા ચીઝ",
+        "સમારેલું શિમલા મરચું",
+        "સમારેલી ડુંગળી",
+        "મીઠી મકાઈના દાણા",
+        "સૂકો ઓરેગાનો",
+        "મરચાંના ફ્લેક્સ",
+        "માખણ",
+        "લોટ માટે પાણી",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "મીઠું",
+        "ઓલિવ તેલ"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ અને મીઠામાં 145 મિલી પાણી અને ઓલિવ તેલ ભેળવી સુંવાળો લોટ બાંધો; ઢાંકી 1 કલાક ફૂલવા દો.",
+        "ફૂલેલો લોટ પાતળો વણી ટ્રે પર 220°C પર આશરે 10 મિનિટ માત્ર સેટ થાય ત્યાં સુધી બેક કરો, રંગ આછો રહે. થોડું ઠારી નાના ટુકડા કરો.",
+        "ઓવન 200°C પર ઘટાડો. બેક કરેલા પિઝા બેઝના ટુકડાને માખણમાં ફેરવી ટ્રેમાં 5 મિનિટ શેકો જેથી કુલ્હડમાં તેમનો આકાર જળવાય.",
+        "દરેક કુલ્હડમાં સોસ, બેઝના ટુકડા, શિમલા મરચું, ડુંગળી, મકાઈ અને મોઝેરેલાના બે પડ કરો; ઉપર ચીઝ રાખો. ઓરેગાનો અને મરચાંના ફ્લેક્સ છાંટો.",
+        "ભરેલા ઓવન યોગ્ય કુલ્હડ ટ્રે પર જુદાં મૂકો અને બેક કરતાં પહેલાં કિનારી પરથી સોસ લૂછો.",
+        "કુલ્હડ બેકિંગ ટ્રે પર મૂકી 12–15 મિનિટ ચીઝ પરપોટા કરે અને વચ્ચે સુધી ગરમ થાય ત્યાં સુધી બેક કરો. પીરસતાં પહેલાં 3 મિનિટ રાખો."
+      ],
+      "tips": [
+        "ફક્ત ઓવનમાં મૂકી શકાય એવા કુલ્હડ લો; શણગારના કુલ્હડ સૂકી ગરમીમાં ફાટી શકે છે."
+      ],
+      "passiveTime": "1 કલાક લોટ ફૂલવા દેવો"
+    }
+  },
+  "passiveTime": "1 hour dough rising",
+  "photoDraft": "catalog/intake/photos/kulhad-pizza.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

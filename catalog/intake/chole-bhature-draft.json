@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R0420",
+  "id": "chole-bhature",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Chole Bhature",
+  "cuisine": "Punjabi",
+  "categories": [
+    "Lunch"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 85,
+  "passiveTime": "8 hours chickpea soaking and 2 hours dough resting",
+  "ingredients": [
+    {
+      "name": "dried chickpeas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "semolina",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "onions, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "chole masala",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 830,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 850,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak chickpeas 8 hours, drain and cook with 700 ml fresh water and 7 g salt until tender, about 45–55 minutes. Reserve the liquid.",
+    "Mix flour, semolina, yogurt, baking powder, 20 ml oil, 4 g salt and remaining water into soft dough. Knead smooth, cover and rest 2 hours.",
+    "In remaining oil, toast cumin, cook onions golden, then fry ginger-garlic and tomatoes until thick. Add chole masala, turmeric, amchur, chickpeas, remaining salt and 300 ml cooking liquid; simmer 15 minutes.",
+    "Divide dough into 8 balls, roll into 15 cm ovals and fry one at a time in 185°C oil, pressing gently to puff; turn and brown briefly. Drain and serve with hot chole."
+  ],
+  "tips": [
+    "A well-rested soft dough and fully hot oil help bhature puff without becoming greasy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "छोले भटूरे",
+      "ingredients": [
+        "सूखे काबुली चने",
+        "मैदा",
+        "सूजी",
+        "सादा दही",
+        "बेकिंग पाउडर",
+        "कटे प्याज़",
+        "कटे टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "छोले मसाला",
+        "जीरा",
+        "हल्दी",
+        "अमचूर",
+        "तेल",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "चना 8 घंटे भिगोकर निथारें और 700 मिली ताजे पानी तथा 7 ग्राम नमक में लगभग 45–55 मिनट नरम पकाएँ। पानी बचाएँ।",
+        "मैदा, सूजी, दही, बेकिंग पाउडर, 20 मिली तेल, 4 ग्राम नमक और बाकी पानी से मुलायम आटा गूँधें। चिकना करके ढकें और 2 घंटे रखें।",
+        "बाकी तेल में जीरा भूनें, प्याज़ सुनहरा करें, फिर अदरक-लहसुन और टमाटर गाढ़े होने तक भूनें। छोले मसाला, हल्दी, अमचूर, चना, बाकी नमक और 300 मिली चना पानी डालकर 15 मिनट पकाएँ।",
+        "आटे के 8 गोले बेलकर 15 सेमी अंडाकार बनाएँ। 185°C तेल में एक-एक डालकर हल्का दबाएँ ताकि फूले; पलटकर संक्षेप में सुनहरे करें। निथारकर गरम छोले के साथ परोसें।"
+      ],
+      "tips": [
+        "अच्छी तरह रखा मुलायम आटा और पूरा गरम तेल भटूरे फुलाते हैं, अधिक तेल नहीं सोखने देते।"
+      ],
+      "passiveTime": "8 घंटे चना भिगोना और 2 घंटे आटा रखना"
+    },
+    "gu": {
+      "name": "છોલે ભટૂરે",
+      "ingredients": [
+        "સૂકા કાબુલી ચણા",
+        "મેંદો",
+        "રવો",
+        "સાદું દહીં",
+        "બેકિંગ પાઉડર",
+        "સમારેલી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "આદુ-લસણની પેસ્ટ",
+        "છોલે મસાલો",
+        "જીરું",
+        "હળદર",
+        "આમચૂર",
+        "તેલ",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણા 8 કલાક પલાળી નિતારો અને 700 મિલી તાજા પાણી તથા 7 ગ્રામ મીઠામાં આશરે 45–55 મિનિટ નરમ રાંધો. પાણી રાખો.",
+        "મેંદો, રવો, દહીં, બેકિંગ પાઉડર, 20 મિલી તેલ, 4 ગ્રામ મીઠું અને બાકી પાણીનો નરમ લોટ બાંધો. સુંવાળો કરી ઢાંકી 2 કલાક રાખો.",
+        "બાકી તેલમાં જીરું શેકો, ડુંગળી સોનેરી કરો, પછી આદુ-લસણ અને ટામેટાં ઘટ્ટ થાય ત્યાં સુધી શેકો. છોલે મસાલો, હળદર, આમચૂર, ચણા, બાકી મીઠું અને 300 મિલી ચણાનું પાણી નાખી 15 મિનિટ રાંધો.",
+        "લોટના 8 ગોળા વણી 15 સેમી અંડાકાર બનાવો. 185°C તેલમાં એક એક નાખી હળવેથી દબાવો જેથી ફૂલે; ફેરવી થોડી વાર સોનેરી કરો. નિતારી ગરમ છોલે સાથે પીરસો."
+      ],
+      "tips": [
+        "સારી રીતે આરામ કરેલો નરમ લોટ અને પૂરતું ગરમ તેલ ભટૂરે ફુલાવે છે, વધુ તેલ શોષવા દેતું નથી."
+      ],
+      "passiveTime": "8 કલાક ચણા પલાળવા અને 2 કલાક લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/chole-bhature.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

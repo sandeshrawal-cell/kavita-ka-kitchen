@@ -1,0 +1,84 @@
+{
+  "sourceReviewId": "R0481",
+  "id": "laboo",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Laboo",
+  "cuisine": "Iranian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 90,
+  "ingredients": [
+    {
+      "name": "medium whole beetroots",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Scrub the beetroots without peeling and trim only the leaves, leaving a little stem so their juices stay inside.",
+    "Place in a lidded pot with water. Simmer gently for 60–75 minutes until a knife slips in easily, adding water if the pot dries.",
+    "Test the largest beet at its thickest point rather than relying only on the cooking time; the centre should be fully tender.",
+    "Cool just enough to handle, rub off the skins and slice thickly. Return slices to the pot with sugar and lemon juice; simmer 5 minutes in the beet juices and serve hot."
+  ],
+  "tips": [
+    "Keep the cooking liquid; it glazes the slices and carries much of the beet flavour."
+  ],
+  "translations": {
+    "hi": {
+      "name": "लबू",
+      "ingredients": [
+        "मध्यम साबुत चुकंदर",
+        "पानी",
+        "चीनी",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "चुकंदर बिना छीले रगड़कर साफ करें और केवल पत्ते काटें; थोड़ा डंठल छोड़ें ताकि रस भीतर रहे।",
+        "पानी के साथ ढके बर्तन में रखें। 60–75 मिनट धीमे पकाएँ जब तक चाकू आसानी से घुसे; पानी सूखे तो और डालें।",
+        "सबसे बड़े चुकंदर के सबसे मोटे हिस्से में जाँचें; केवल समय पर भरोसा न करें, बीच पूरी तरह नरम होना चाहिए।",
+        "हाथ से पकड़ने लायक ठंडा करें, छिलके रगड़कर निकालें और मोटे टुकड़े काटें। चीनी और नींबू रस के साथ बर्तन में लौटाकर चुकंदर के रस में 5 मिनट पकाएँ; गरम परोसें।"
+      ],
+      "tips": [
+        "पकाने का पानी न फेंकें; वही टुकड़ों पर चमक लाता है और चुकंदर का स्वाद रखता है।"
+      ]
+    },
+    "gu": {
+      "name": "લબૂ",
+      "ingredients": [
+        "મધ્યમ આખા બીટ",
+        "પાણી",
+        "ખાંડ",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "બીટ છોલ્યા વિના ઘસીને સાફ કરો અને ફક્ત પાન કાપો; થોડું ડાંઠ રાખો જેથી રસ અંદર રહે.",
+        "પાણી સાથે ઢાંકેલા વાસણમાં મૂકો. 60–75 મિનિટ ધીમે ચડાવો, છરી સહેલાઈથી જાય ત્યાં સુધી; પાણી સુકાય તો ઉમેરો.",
+        "સૌથી મોટા બીટના જાડા ભાગમાં તપાસો; માત્ર સમય પર આધાર ન રાખો, મધ્ય સંપૂર્ણ નરમ હોવું જોઈએ.",
+        "હાથથી પકડી શકાય એટલા ઠંડા કરી છાલ ઘસીને કાઢો અને જાડા કટકા કરો. ખાંડ અને લીંબુના રસ સાથે પાછા વાસણમાં મૂકી બીટના રસમાં 5 મિનિટ ચડાવો; ગરમ પીરસો."
+      ],
+      "tips": [
+        "ચડાવેલું પાણી ન ફેંકો; તે કટકાને ચમક આપે છે અને બીટનો સ્વાદ રાખે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/laboo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

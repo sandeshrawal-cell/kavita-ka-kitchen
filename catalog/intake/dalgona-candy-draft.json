@@ -1,0 +1,77 @@
+{
+  "sourceReviewId": "R0487",
+  "id": "dalgona-candy",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Dalgona Candy",
+  "cuisine": "Korean",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "ingredients": [
+    {
+      "name": "granulated sugar",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for tools",
+      "qty": 5,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Lightly oil a metal tray and a flat metal press. Divide sugar into four 25 g portions for four candies.",
+    "For each candy, melt one portion of sugar in a small metal ladle over low heat, stirring until amber. Take off heat and stir in a pinch of baking soda until foamy.",
+    "Work with the sugar while it is pliable: once the surface loses its shine, lift the press carefully before stamping the outline.",
+    "Pour a small circle on the tray, wait 10 seconds, press flat and stamp a simple shape lightly before it hardens. Repeat three times and cool completely."
+  ],
+  "tips": [
+    "Keep the flame low; sugar turns bitter quickly once it passes amber."
+  ],
+  "translations": {
+    "hi": {
+      "name": "डालगोना कैंडी",
+      "ingredients": [
+        "दानेदार चीनी",
+        "खाने का सोडा",
+        "उपकरणों के लिए तेल"
+      ],
+      "steps": [
+        "धातु की ट्रे और चपटी दबाने वाली चीज़ पर हल्का तेल लगाएँ। चार कैंडी के लिए चीनी को 25 ग्राम के चार हिस्सों में बाँटें।",
+        "हर कैंडी के लिए एक हिस्सा चीनी छोटी धातु की कलछी में धीमी आँच पर एम्बर रंग तक पिघलाएँ। आँच से हटाकर चुटकी सोडा डालें और झाग आने तक चलाएँ।",
+        "चीनी नरम रहते काम करें: सतह की चमक कम होते ही साँचा छापने से पहले दबाने वाली चीज़ सावधानी से उठाएँ।",
+        "ट्रे पर छोटा गोल डालें, 10 सेकंड रुकें, चपटा दबाएँ और जमने से पहले हल्का आकार छापें। तीन बार और करें तथा पूरी तरह ठंडा करें।"
+      ],
+      "tips": [
+        "आँच धीमी रखें; एम्बर रंग से आगे चीनी जल्दी कड़वी हो जाती है।"
+      ]
+    },
+    "gu": {
+      "name": "ડાલ્ગોના કેન્ડી",
+      "ingredients": [
+        "દાણાદાર ખાંડ",
+        "ખાવાનો સોડા",
+        "સાધનો માટે તેલ"
+      ],
+      "steps": [
+        "ધાતુની ટ્રે અને ચપટા દબાવવાના સાધન પર સહેજ તેલ લગાવો. ચાર કેન્ડી માટે ખાંડને 25 ગ્રામના ચાર ભાગમાં વહેંચો.",
+        "દરેક કેન્ડી માટે એક ભાગ ખાંડ નાની ધાતુની કડછીમાં ધીમા તાપે અંબર રંગ થાય ત્યાં સુધી ઓગાળો. તાપ પરથી ઉતારી ચપટી સોડા નાખી ફીણ આવે ત્યાં સુધી હલાવો.",
+        "ખાંડ નરમ હોય ત્યારે કામ કરો: સપાટીની ચમક ઘટે ત્યારે આકાર છાપતા પહેલાં દબાવવાનું સાધન કાળજીથી ઉઠાવો.",
+        "ટ્રે પર નાનો ગોળ રેડો, 10 સેકન્ડ રાહ જુઓ, ચપટું દબાવો અને જામે તે પહેલાં હળવો આકાર છાપો. વધુ ત્રણ વાર કરો અને સંપૂર્ણ ઠંડું કરો."
+      ],
+      "tips": [
+        "તાપ ધીમો રાખો; અંબર રંગ પછી ખાંડ ઝડપથી કડવી થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/dalgona-candy.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

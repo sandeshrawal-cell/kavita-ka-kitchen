@@ -1,0 +1,122 @@
+{
+  "sourceReviewId": "R0492",
+  "id": "kadala",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kadala",
+  "cuisine": "Sri Lankan",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "passiveTime": "8 hours chickpea soaking",
+  "ingredients": [
+    {
+      "name": "dried chickpeas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "onion, sliced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "coconut oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak chickpeas overnight, drain and rinse. Simmer in fresh water 60–90 minutes until tender, or pressure-cook according to the cooker; drain.",
+    "Heat coconut oil, crackle mustard seeds, then add curry leaves and dried chillies. Add onion and cook 5 minutes until softened.",
+    "Taste a chickpea after cooking; it should be soft through the centre before it goes into the hot tempering.",
+    "Add chickpeas and salt; toss 3 minutes until coated and dry. Fold in grated coconut and serve warm."
+  ],
+  "tips": [
+    "Drain the chickpeas well so this tempered snack stays dry rather than soupy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कडला",
+      "ingredients": [
+        "सूखे काबुली चने",
+        "ताज़ा कसा नारियल",
+        "प्याज़, कटा",
+        "राई",
+        "करी पत्ते",
+        "सूखी लाल मिर्च",
+        "नारियल तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "चने रात भर भिगोकर निथारें और धोएँ। नए पानी में 60–90 मिनट नरम होने तक उबालें या कुकर में पकाएँ; निथारें।",
+        "नारियल तेल गरम करके राई चटकाएँ, फिर करी पत्ते और सूखी मिर्च डालें। प्याज़ डालकर 5 मिनट नरम भूनें।",
+        "पकाने के बाद एक चना चखें; तड़के में डालने से पहले वह बीच तक नरम होना चाहिए।",
+        "चने और नमक डालकर 3 मिनट सूखा मसाला चढ़ने तक चलाएँ। कसा नारियल मिलाकर गरम परोसें।"
+      ],
+      "tips": [
+        "चने अच्छी तरह निथारें ताकि यह तड़का लगा नाश्ता सूखा रहे, रसेदार नहीं।"
+      ],
+      "passiveTime": "8 घंटे चने भिगोना"
+    },
+    "gu": {
+      "name": "કડલા",
+      "ingredients": [
+        "સૂકા કાબુલી ચણા",
+        "તાજું ખમણેલું નાળિયેર",
+        "ડુંગળી, સમારેલી",
+        "રાઈ",
+        "મીઠા લીમડાનાં પાન",
+        "સૂકાં લાલ મરચાં",
+        "નાળિયેરનું તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ચણા રાતભર પલાળી નિતારી ધુઓ. નવા પાણીમાં 60–90 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો અથવા કૂકરમાં ચડાવો; નિતારો.",
+        "નાળિયેરનું તેલ ગરમ કરી રાઈ તડકાવો, પછી મીઠો લીમડો અને સૂકાં મરચાં નાખો. ડુંગળી નાખી 5 મિનિટ નરમ થાય ત્યાં સુધી સાંતળો.",
+        "ચડાવ્યા પછી એક ચણો ચાખો; વઘારમાં નાખતા પહેલાં તે મધ્ય સુધી નરમ હોવો જોઈએ.",
+        "ચણા અને મીઠું નાખી 3 મિનિટ સૂકો મસાલો ચડે ત્યાં સુધી હલાવો. ખમણેલું નાળિયેર ભેળવી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ચણા સારી રીતે નિતારો જેથી આ વઘારેલો નાસ્તો સૂકો રહે, રસાવાળો નહીં."
+      ],
+      "passiveTime": "8 કલાક ચણા પલાળવા"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kadala.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

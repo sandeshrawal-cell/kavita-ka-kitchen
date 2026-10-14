@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0410",
+  "id": "bhajji-pav",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Bhajji Pav",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "pav rolls",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dry garlic chutney",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "green chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Toss onion with 5 g salt and rest 10 minutes. Mix in gram flour, rice flour, chillies and carom; add just enough water to bind the onion strands.",
+    "Drop loose spoonfuls into oil at 175°C and fry 4–5 minutes, turning until crisp and deeply golden. Drain on a rack and sprinkle remaining salt.",
+    "Lightly toast the cut pav on a dry griddle while the bhajji drains; warm bread holds the chutneys better.",
+    "Split pav, spread garlic and green chutneys, add hot bhajji and a squeeze of lemon, then close and serve."
+  ],
+  "tips": [
+    "Do not make a pouring batter; the onion should carry a thin, craggy coating for a crisp bhajji."
+  ],
+  "translations": {
+    "hi": {
+      "name": "भजिया पाव",
+      "ingredients": [
+        "पाव",
+        "पतला कटा प्याज़",
+        "बेसन",
+        "चावल का आटा",
+        "कटी हरी मिर्च",
+        "अजवाइन",
+        "सूखी लहसुन चटनी",
+        "हरी चटनी",
+        "नींबू का रस",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "प्याज़ में 5 ग्राम नमक लगाकर 10 मिनट रखें। बेसन, चावल का आटा, मिर्च और अजवाइन मिलाएँ; प्याज़ को बाँधने भर पानी डालें।",
+        "175°C तेल में ढीले चम्मचभर मिश्रण डालकर 4–5 मिनट पलटते हुए गहरे सुनहरे कुरकुरे तलें। जाली पर निथारें और बाकी नमक छिड़कें।",
+        "भजिया निथरते समय कटे पाव को सूखे तवे पर हल्का सेंकें; गरम पाव पर चटनियाँ अच्छी लगती हैं।",
+        "पाव चीरकर लहसुन और हरी चटनी लगाएँ, गरम भजिया और थोड़ा नींबू रस डालकर बंद करें और परोसें।"
+      ],
+      "tips": [
+        "बहने वाला घोल न बनाएँ; कुरकुरे भजिए के लिए प्याज़ पर बस पतली खुरदरी परत हो।"
+      ]
+    },
+    "gu": {
+      "name": "ભજિયા પાવ",
+      "ingredients": [
+        "પાવ",
+        "પાતળી સમારેલી ડુંગળી",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "સમારેલાં લીલાં મરચાં",
+        "અજમો",
+        "સૂકી લસણની ચટણી",
+        "લીલી ચટણી",
+        "લીંબુનો રસ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ડુંગળીમાં 5 ગ્રામ મીઠું ભેળવી 10 મિનિટ રાખો. ચણાનો લોટ, ચોખાનો લોટ, મરચાં અને અજમો ભેળવો; ડુંગળીને બાંધે એટલું જ પાણી નાખો.",
+        "175°C તેલમાં છૂટાં ચમચીભર મિશ્રણ નાખી 4–5 મિનિટ ફેરવી ઘેરાં સોનેરી કરકરાં તળો. જાળી પર નિતારી બાકી મીઠું છાંટો.",
+        "ભજિયા નિતરે ત્યારે કાપેલા પાવને સૂકા તવા પર હળવા શેકો; ગરમ પાવ પર ચટણીઓ સારી લાગે છે.",
+        "પાવ ચીરી લસણ અને લીલી ચટણી લગાવો, ગરમ ભજિયા અને થોડો લીંબુનો રસ નાખી બંધ કરી પીરસો."
+      ],
+      "tips": [
+        "રેડાય એવું ખીરું ન બનાવો; કરકરા ભજિયા માટે ડુંગળી પર માત્ર પાતળું ખરબચડું પડ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/bhajji-pav.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

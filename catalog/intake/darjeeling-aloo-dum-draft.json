@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0428",
+  "id": "darjeeling-aloo-dum",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Darjeeling Aloo Dum",
+  "cuisine": "Darjeeling",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "small potatoes",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "mustard oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil potatoes in salted water until just tender, about 15 minutes. Cool, peel and prick them so the spicy gravy can enter.",
+    "Soak dried chillies in hot water for 10 minutes and blend with tomatoes to a red paste.",
+    "Heat mustard oil until shimmering, reduce heat and crackle cumin. Brown onions, then fry ginger-garlic, turmeric and chilli powder for 1 minute; add tomato-chilli paste and cook until oil separates.",
+    "Add potatoes, remaining salt and 350 ml water. Cover and simmer 12 minutes until potatoes absorb the gravy; finish with coriander and serve hot."
+  ],
+  "tips": [
+    "Use small whole potatoes and prick them after boiling for the characteristic spice-soaked centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दार्जिलिंग आलू दम",
+      "ingredients": [
+        "छोटे आलू",
+        "बारीक प्याज़",
+        "कटे टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "सूखी लाल मिर्च",
+        "कश्मीरी मिर्च पाउडर",
+        "जीरा",
+        "हल्दी",
+        "सरसों का तेल",
+        "हरा धनिया",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "आलू नमकीन पानी में लगभग 15 मिनट बस नरम होने तक उबालें। ठंडे कर छीलें और छेद करें ताकि तीखी ग्रेवी भीतर जाए।",
+        "सूखी मिर्च 10 मिनट गरम पानी में भिगोकर टमाटर के साथ लाल पेस्ट पीसें।",
+        "सरसों तेल चमकने तक गरम कर आँच घटाएँ और जीरा चटकाएँ। प्याज़ भूरा करें, फिर अदरक-लहसुन, हल्दी और मिर्च पाउडर 1 मिनट भूनें; टमाटर-मिर्च पेस्ट तेल अलग होने तक पकाएँ।",
+        "आलू, बाकी नमक और 350 मिली पानी डालें। ढककर 12 मिनट पकाएँ ताकि आलू रस सोखें; धनिया डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "छोटे साबुत आलू लें और उबालने के बाद छेद करें ताकि बीच तक मसाला पहुँचे।"
+      ]
+    },
+    "gu": {
+      "name": "દાર્જિલિંગ આલુ દમ",
+      "ingredients": [
+        "નાના બટાકા",
+        "ઝીણી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "આદુ-લસણની પેસ્ટ",
+        "સૂકાં લાલ મરચાં",
+        "કાશ્મીરી મરચું પાઉડર",
+        "જીરું",
+        "હળદર",
+        "રાઈનું તેલ",
+        "કોથમીર",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બટાકા મીઠાવાળા પાણીમાં આશરે 15 મિનિટ માત્ર નરમ થાય ત્યાં સુધી બાફો. ઠારી છોલી કાણાં કરો જેથી તીખો રસ અંદર જાય.",
+        "સૂકાં મરચાં 10 મિનિટ ગરમ પાણીમાં પલાળી ટામેટાં સાથે લાલ પેસ્ટ પીસો.",
+        "રાઈનું તેલ ચમકે ત્યાં સુધી ગરમ કરી તાપ ઘટાડો અને જીરું તતડાવો. ડુંગળી ભૂરાં કરો, પછી આદુ-લસણ, હળદર અને મરચું 1 મિનિટ શેકો; ટામેટાં-મરચાંની પેસ્ટ તેલ છૂટે ત્યાં સુધી રાંધો.",
+        "બટાકા, બાકી મીઠું અને 350 મિલી પાણી નાખો. ઢાંકી 12 મિનિટ રાંધો જેથી બટાકા રસ શોષે; કોથમીર નાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "નાના આખા બટાકા લો અને બાફ્યા પછી કાણાં કરો જેથી વચ્ચે સુધી મસાલો પહોંચે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/darjeeling-aloo-dum.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

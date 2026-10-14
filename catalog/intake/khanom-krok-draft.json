@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0458",
+  "id": "khanom-krok",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Khanom Krok",
+  "cuisine": "Thai",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cooked sweetcorn kernels",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk rice flour, 300 ml coconut milk, water, 30 g sugar and 2 g salt into a smooth batter. Rest 15 minutes so the flour hydrates.",
+    "Whisk remaining 200 ml coconut milk with remaining 60 g sugar and 2 g salt for the sweet topping. Heat a dimpled khanom krok or appe pan and brush the wells lightly with oil.",
+    "Fill each well two-thirds with rice batter. When edges begin to set, spoon a little sweet coconut topping into each and add a few corn kernels.",
+    "Cover and cook on medium-low heat for 5–7 minutes until edges crisp and centres are creamy but set. Lift out carefully and serve warm."
+  ],
+  "tips": [
+    "A pan with round wells is essential for the crisp cup edges and soft coconut centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "खानोम क्रोक",
+      "ingredients": [
+        "चावल का आटा",
+        "नारियल दूध",
+        "पानी",
+        "चीनी",
+        "नमक",
+        "पके मीठे मक्के के दाने",
+        "सादा तेल"
+      ],
+      "steps": [
+        "चावल के आटे में 300 मिली नारियल दूध, पानी, 30 ग्राम चीनी और 2 ग्राम नमक फेंटकर चिकना घोल बनाएँ। आटा भीगने के लिए 15 मिनट रखें।",
+        "बचे 200 मिली नारियल दूध में बची 60 ग्राम चीनी और 2 ग्राम नमक फेंटकर मीठी ऊपरी परत बनाएँ। खानोम क्रोक या अप्पे पैन गरम कर खाँचों में हल्का तेल लगाएँ।",
+        "हर खाँचे में दो तिहाई चावल का घोल भरें। किनारे जमने लगें तो थोड़ी मीठी नारियल परत और मक्के के कुछ दाने डालें।",
+        "ढककर मध्यम-धीमी आँच पर 5–7 मिनट किनारे कुरकुरे और बीच मलाईदार पर जमे होने तक पकाएँ। सावधानी से निकालकर गरम परोसें।"
+      ],
+      "tips": [
+        "गोल खाँचों वाला पैन कुरकुरे कटोरी किनारों और नरम नारियल बीच के लिए ज़रूरी है।"
+      ]
+    },
+    "gu": {
+      "name": "ખાનોમ ક્રોક",
+      "ingredients": [
+        "ચોખાનો લોટ",
+        "નાળિયેરનું દૂધ",
+        "પાણી",
+        "ખાંડ",
+        "મીઠું",
+        "રાંધેલા મીઠા મકાઈના દાણા",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "ચોખાના લોટમાં 300 મિલી નાળિયેરનું દૂધ, પાણી, 30 ગ્રામ ખાંડ અને 2 ગ્રામ મીઠું ફેંટીને લીસું ખીરું બનાવો. લોટ ભીંજાય માટે 15 મિનિટ રાખો.",
+        "બાકીના 200 મિલી નાળિયેરના દૂધમાં બાકી 60 ગ્રામ ખાંડ અને 2 ગ્રામ મીઠું ફેંટીને મીઠું ઉપરનું મિશ્રણ બનાવો. ખાનોમ ક્રોક કે અપ્પે પૅન ગરમ કરી ખાડામાં હળવું તેલ લગાવો.",
+        "દરેક ખાડામાં બે તૃતીયાંશ ચોખાનું ખીરું ભરો. કિનારી જામવા લાગે ત્યારે થોડું મીઠું નાળિયેરનું મિશ્રણ અને મકાઈના થોડા દાણા નાખો.",
+        "ઢાંકી મધ્યમ-ધીમા તાપે 5–7 મિનિટ કિનારી કરકરી અને મધ્ય મલાઈદાર પણ જામેલું થાય ત્યાં સુધી પકાવો. કાળજીથી કાઢી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ગોળ ખાડાવાળું પૅન કરકરી વાટકી જેવી કિનારી અને નરમ નાળિયેરના મધ્ય માટે જરૂરી છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/khanom-krok.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

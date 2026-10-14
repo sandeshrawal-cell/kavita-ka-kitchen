@@ -1,0 +1,163 @@
+{
+  "sourceReviewId": "R0421",
+  "id": "vada-usal",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Vada Usal",
+  "cuisine": "Maharashtrian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 85,
+  "passiveTime": "8 hours bean soaking and 24 hours sprouting",
+  "ingredients": [
+    {
+      "name": "dried moth beans",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "onions, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "godā masala",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak dried moth beans for 8 hours, drain and sprout under a damp cloth for 24 hours. Simmer the sprouts in 400 ml water until tender, about 18 minutes. Heat 30 ml oil, crackle mustard, cook onions golden, then add half the ginger-garlic paste, tomatoes, goda masala and 6 g salt.",
+    "Cook masala 8 minutes, add sprouts and their liquid, and simmer 10 minutes into a ladleable usal. For vadas, mash potatoes with chillies, remaining paste, turmeric, coriander and 3 g salt; shape 12 balls.",
+    "Mash a little of the cooked sprouted beans into the usal to thicken it while keeping plenty of whole sprouts.",
+    "Whisk gram flour, remaining salt and enough of the remaining water into thick batter. Dip balls and fry at 175°C for 4–5 minutes until crisp. Place three vadas in each bowl and spoon hot usal over."
+  ],
+  "tips": [
+    "Keep the sprout usal pourable so it can soak into the vada when served."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वड़ा उसळ",
+      "ingredients": [
+        "सूखी मटकी",
+        "उबले आलू",
+        "बेसन",
+        "कटे प्याज़",
+        "कटे टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "कटी हरी मिर्च",
+        "राई",
+        "गोडा मसाला",
+        "हल्दी",
+        "हरा धनिया",
+        "तेल",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "सूखी मटकी 8 घंटे भिगोकर निथारें और नम कपड़े में 24 घंटे अंकुरित करें। अंकुरित दाने 400 मिली पानी में लगभग 18 मिनट नरम पकाएँ। 30 मिली तेल में राई चटकाकर प्याज़ सुनहरा करें, फिर आधा अदरक-लहसुन पेस्ट, टमाटर, गोडा मसाला और 6 ग्राम नमक डालें।",
+        "मसाला 8 मिनट पकाकर अंकुरित मटकी और उसका पानी डालें; 10 मिनट रसेदार उसळ पकाएँ। वड़े के लिए आलू में मिर्च, बाकी पेस्ट, हल्दी, धनिया और 3 ग्राम नमक मसलकर 12 गोले बनाएँ।",
+        "पकी अंकुरित मटकी में से थोड़ी मसलकर उसळ गाढ़ी करें, पर अधिकतर दाने साबुत रखें।",
+        "बेसन, बाकी नमक और बचे पानी से गाढ़ा घोल फेंटें। गोले डुबोकर 175°C पर 4–5 मिनट कुरकुरे तलें। हर कटोरे में तीन वड़े रखकर गरम उसळ डालें।"
+      ],
+      "tips": [
+        "अंकुरित उसळ रसेदार रखें ताकि परोसते समय वड़े में समा सके।"
+      ],
+      "passiveTime": "8 घंटे दाने भिगोना और 24 घंटे अंकुरित करना"
+    },
+    "gu": {
+      "name": "વડા ઉસળ",
+      "ingredients": [
+        "સૂકી મઠ",
+        "બાફેલા બટાકા",
+        "ચણાનો લોટ",
+        "સમારેલી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "આદુ-લસણની પેસ્ટ",
+        "સમારેલાં લીલાં મરચાં",
+        "રાઈ",
+        "ગોડા મસાલો",
+        "હળદર",
+        "કોથમીર",
+        "તેલ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "સૂકી મઠ 8 કલાક પલાળી નિતારો અને ભીના કપડામાં 24 કલાક ફણગાવો. ફણગાવેલા દાણા 400 મિલી પાણીમાં આશરે 18 મિનિટ નરમ રાંધો. 30 મિલી તેલમાં રાઈ તતડાવી ડુંગળી સોનેરી કરો, પછી અડધી આદુ-લસણ પેસ્ટ, ટામેટાં, ગોડા મસાલો અને 6 ગ્રામ મીઠું નાખો.",
+        "મસાલો 8 મિનિટ રાંધી ફણગાવેલી મઠ અને તેનું પાણી નાખો; 10 મિનિટ રસાવાળી ઉસળ રાંધો. વડા માટે બટાકામાં મરચાં, બાકી પેસ્ટ, હળદર, કોથમીર અને 3 ગ્રામ મીઠું મસળી 12 ગોળા બનાવો.",
+        "રાંધેલી ફણગાવેલી મઠમાંથી થોડી મસળી ઉસળ ઘટ્ટ કરો, પણ મોટા ભાગના દાણા આખા રાખો.",
+        "ચણાનો લોટ, બાકી મીઠું અને બાકી પાણીનું ઘટ્ટ ખીરું ફેંટો. ગોળા ડુબાડી 175°C પર 4–5 મિનિટ કરકરા તળો. દરેક વાટકીમાં ત્રણ વડા મૂકી ગરમ ઉસળ રેડો."
+      ],
+      "tips": [
+        "ફણગાવેલી ઉસળ રસાવાળી રાખો જેથી પીરસતાં વડામાં શોષાઈ શકે."
+      ],
+      "passiveTime": "8 કલાક દાણા પલાળવા અને 24 કલાક અંકુરિત કરવા"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vada-usal.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

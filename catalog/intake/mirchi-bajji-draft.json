@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0401",
+  "id": "mirchi-bajji",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Mirchi Bajji",
+  "cuisine": "Hyderabad",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "large mild green chillies",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "carom seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slit the chillies lengthwise without cutting through; scrape out some seeds. Rub the insides with tamarind, cumin and 2 g salt.",
+    "Whisk gram flour, rice flour, chilli powder, turmeric, carom, remaining salt and water to a thick, smooth batter that coats a spoon.",
+    "Stir the batter once more and let excess batter drip from each chilli before lowering it into the oil.",
+    "Heat oil to about 175°C. Dip each chilli completely and fry in batches for 4–5 minutes, turning until golden and crisp; drain on a rack."
+  ],
+  "tips": [
+    "Choose broad, mild chillies so the finished bajji is pleasantly spicy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मिर्ची बज्जी",
+      "ingredients": [
+        "बड़ी हल्की हरी मिर्च",
+        "बेसन",
+        "चावल का आटा",
+        "लाल मिर्च पाउडर",
+        "हल्दी",
+        "अजवाइन",
+        "इमली का गूदा",
+        "भुना जीरा पाउडर",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मिर्चों में लंबा चीरा लगाकर कुछ बीज निकालें। अंदर इमली, जीरा और 2 ग्राम नमक लगाएँ।",
+        "बेसन, चावल का आटा, मिर्च पाउडर, हल्दी, अजवाइन, बाकी नमक और पानी फेंटकर चम्मच पर टिकने वाला गाढ़ा घोल बनाएँ।",
+        "घोल फिर चलाएँ और हर मिर्च को तेल में डालने से पहले अतिरिक्त घोल टपकने दें।",
+        "तेल लगभग 175°C गरम करें। हर मिर्च घोल में डुबोकर थोड़ी-थोड़ी 4–5 मिनट पलटते हुए सुनहरी और कुरकुरी तलें; जाली पर निकालें।"
+      ],
+      "tips": [
+        "बड़े कम तीखे मिर्च चुनें ताकि बज्जी का तीखापन संतुलित रहे।"
+      ]
+    },
+    "gu": {
+      "name": "મરચી ભજ્જી",
+      "ingredients": [
+        "મોટાં ઓછા તીખાં લીલાં મરચાં",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "લાલ મરચું પાઉડર",
+        "હળદર",
+        "અજમો",
+        "આમલીનો માવો",
+        "શેકેલા જીરાનો ભૂકો",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મરચાંમાં લાંબો ચીરો કરી થોડાં બી કાઢો. અંદર આમલી, જીરું અને 2 ગ્રામ મીઠું લગાવો.",
+        "ચણાનો લોટ, ચોખાનો લોટ, મરચું, હળદર, અજમો, બાકી મીઠું અને પાણી ફેંટી ચમચી પર ચોંટે એવું ઘટ્ટ ખીરું બનાવો.",
+        "ખીરું ફરી હલાવો અને દરેક મરચું તેલમાં મૂકતાં પહેલાં વધારાનું ખીરું ટપકવા દો.",
+        "તેલ આશરે 175°C ગરમ કરો. દરેક મરચું ખીરામાં ડુબાડી થોડાં થોડાં 4–5 મિનિટ ફેરવી સોનેરી અને કરકરા તળો; જાળી પર કાઢો."
+      ],
+      "tips": [
+        "મોટાં ઓછાં તીખાં મરચાં લો જેથી ભજ્જીનું તીખાપણ સંતુલિત રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mirchi-bajji.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

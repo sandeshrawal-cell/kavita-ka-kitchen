@@ -1,0 +1,101 @@
+{
+  "sourceReviewId": "R0489",
+  "id": "xoi-xeo",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Xoi Xeo",
+  "cuisine": "Vietnamese",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "passiveTime": "4 hours soaking",
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "hulled split mung beans",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "shallots, thinly sliced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice and mung beans separately. Soak both for 4 hours, adding turmeric to the rice water. Drain thoroughly.",
+    "Steam mung beans for 20 minutes until tender. Mash with 3 g salt, press into a firm log and cool. Steam rice with remaining salt for 25–30 minutes until tender and sticky.",
+    "While the rice steams, fluff it once with a fork and sprinkle lightly with water if the grains look dry; finish steaming until evenly tender.",
+    "Fry shallots in oil over medium-low heat until golden, then drain, reserving the oil. Divide rice into four bowls, shave mung bean over it and top with shallots and a little shallot oil."
+  ],
+  "tips": [
+    "Slice the mung bean log while cool so it makes thin shavings instead of crumbling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोई सेओ",
+      "ingredients": [
+        "चिपचिपा चावल",
+        "धुली मूंग दाल",
+        "शैलट प्याज़, पतले कटे",
+        "हल्दी",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "चावल और मूंग दाल अलग धोएँ। दोनों को 4 घंटे भिगोएँ और चावल के पानी में हल्दी डालें। अच्छी तरह निथारें।",
+        "मूंग दाल 20 मिनट भाप में नरम पकाएँ। 3 ग्राम नमक के साथ मसलकर कसा हुआ रोल बनाएँ और ठंडा करें। चावल बचे नमक के साथ 25–30 मिनट चिपचिपे नरम होने तक भाप में पकाएँ।",
+        "चावल भाप में पकते समय एक बार कांटे से खोलें और दाने सूखे लगें तो हल्का पानी छिड़कें; बराबर नरम होने तक पकाएँ।",
+        "शैलट को तेल में मध्यम-धीमी आँच पर सुनहरा तलें, निथारकर तेल बचाएँ। चावल चार कटोरों में बाँटें, मूंग का रोल ऊपर कतरें और शैलट व थोड़ा उसका तेल डालें।"
+      ],
+      "tips": [
+        "मूंग रोल ठंडा होने पर काटें ताकि चूरा बनने के बजाय पतली कतरण बने।"
+      ],
+      "passiveTime": "4 घंटे भिगोना"
+    },
+    "gu": {
+      "name": "સોઈ સેઓ",
+      "ingredients": [
+        "ચીકણા ચોખા",
+        "ફોતરાં વગરની મગ દાળ",
+        "નાની ડુંગળી, પાતળી સમારેલી",
+        "હળદર",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ચોખા અને મગ દાળ અલગ ધોઈ બંનેને 4 કલાક પલાળો અને ચોખાના પાણીમાં હળદર નાખો. સારી રીતે નિતારો.",
+        "મગ દાળ 20 મિનિટ વરાળમાં નરમ ચડાવો. 3 ગ્રામ મીઠા સાથે મસળી મજબૂત રોલ બનાવી ઠંડો કરો. ચોખા બાકી મીઠા સાથે 25–30 મિનિટ ચીકણા નરમ થાય ત્યાં સુધી વરાળમાં ચડાવો.",
+        "ચોખા વરાળે ચડતા હોય ત્યારે એક વાર કાંટાથી છૂટા કરો અને દાણા સૂકા લાગે તો થોડું પાણી છાંટો; સરખા નરમ થાય ત્યાં સુધી ચડાવો.",
+        "નાની ડુંગળી તેલમાં મધ્યમ ધીમા તાપે સોનેરી તળો, નિતારી તેલ સાચવો. ચોખા ચાર વાટકામાં વહેંચો, મગનો રોલ ઉપર છીણો અને ડુંગળી તથા થોડું તેનું તેલ નાખો."
+      ],
+      "tips": [
+        "મગનો રોલ ઠંડો હોય ત્યારે કાપો જેથી ભૂકો થવાને બદલે પાતળી છીણ બને."
+      ],
+      "passiveTime": "4 કલાક પલાળવું"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/xoi-xeo.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

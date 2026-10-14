@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R0457",
+  "id": "cireng",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Cireng",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "tapioca starch",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground white pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Set aside 220 g tapioca starch. Whisk the remaining 80 g with water, crushed garlic, salt and white pepper in a saucepan.",
+    "Cook the slurry over medium heat, stirring constantly, until translucent and gluey. Take off heat and fold in chopped spring onion.",
+    "Work the hot paste into the reserved starch just until ragged dough forms; leave some dry streaks. Divide into 12 and flatten into rough discs.",
+    "Fry in 160–170°C oil for 4–5 minutes, turning until pale golden and puffed. Drain and serve warm."
+  ],
+  "tips": [
+    "Do not knead the dough smooth; the partly dry tapioca gives cireng its craggy crisp outside and chewy centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिरेंग",
+      "ingredients": [
+        "टैपिओका स्टार्च",
+        "पानी",
+        "लहसुन",
+        "हरा प्याज़",
+        "नमक",
+        "पिसी सफेद मिर्च",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "220 ग्राम टैपिओका स्टार्च अलग रखें। बचे 80 ग्राम स्टार्च को पानी, कुचले लहसुन, नमक और सफेद मिर्च के साथ पतीले में फेंटें।",
+        "घोल मध्यम आँच पर लगातार चलाते हुए पारदर्शी और चिपचिपा होने तक पकाएँ। आँच से हटाकर कटा हरा प्याज़ मिलाएँ।",
+        "गरम पेस्ट को अलग रखे स्टार्च में बस इतना मिलाएँ कि खुरदुरा आटा बने; थोड़ी सूखी धारियाँ रहें। 12 भाग कर अनगढ़ टिक्कियाँ चपटी करें।",
+        "160–170°C तेल में 4–5 मिनट पलटते हुए हल्के सुनहरे और फूले होने तक तलें। छानकर गरम परोसें।"
+      ],
+      "tips": [
+        "आटा चिकना न गूँधें; कुछ सूखा टैपिओका ही चिरेंग को ऊबड़ कुरकुरा बाहर और चबाने योग्य बीच देता है।"
+      ]
+    },
+    "gu": {
+      "name": "ચિરેંગ",
+      "ingredients": [
+        "ટેપિયોકા સ્ટાર્ચ",
+        "પાણી",
+        "લસણ",
+        "લીલી ડુંગળી",
+        "મીઠું",
+        "દળેલી સફેદ મરી",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "220 ગ્રામ ટેપિયોકા સ્ટાર્ચ અલગ રાખો. બાકીના 80 ગ્રામ સ્ટાર્ચને પાણી, કચડેલા લસણ, મીઠું અને સફેદ મરી સાથે વાસણમાં ફેંટો.",
+        "ખીરું મધ્યમ તાપે સતત હલાવી પારદર્શક અને ચીકણું થાય ત્યાં સુધી પકાવો. તાપ પરથી ઉતારી સમારેલી લીલી ડુંગળી ભેળવો.",
+        "ગરમ પેસ્ટને અલગ રાખેલા સ્ટાર્ચમાં એટલું જ ભેળવો કે ખરબચડો લોટ બને; થોડી સૂકી રેખાઓ રહે. 12 ભાગ કરી અણઘડ ચપટા ચકલા બનાવો.",
+        "160–170°C તેલમાં 4–5 મિનિટ ફેરવી હળવા સોનેરી અને ફૂલેલા થાય ત્યાં સુધી તળો. નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "લોટ લીસો ન મસળો; થોડું સૂકું ટેપિયોકા જ ચિરેંગને ઊબડખાબડ કરકરું બહાર અને ચાવાય એવું મધ્ય આપે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/cireng.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,119 @@
+{
+  "sourceReviewId": "R0495",
+  "id": "chips-and-curry-sauce",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Chips and Curry Sauce",
+  "cuisine": "British",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "potatoes, peeled",
+      "qty": 1000,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for chips",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "mild curry powder",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "apple puree",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut potatoes into thick chips, rinse off surface starch and dry completely.",
+    "Melt butter and soften onion for 5 minutes. Stir in flour and curry powder for 1 minute, then whisk in stock and apple puree.",
+    "Simmer sauce 10 minutes until lightly thick; season with 4 g salt and blend smooth if desired.",
+    "Fry chips at 160°C for 6 minutes, drain and rest 5 minutes. Raise oil to 190°C, fry again 3–4 minutes until crisp, toss with remaining salt and serve with curry sauce."
+  ],
+  "tips": [
+    "Dry the potatoes well before frying to reduce splatter and improve crispness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिप्स और करी सॉस",
+      "ingredients": [
+        "आलू, छिले",
+        "प्याज़, बारीक कटा",
+        "चिप्स के लिए तेल",
+        "मक्खन",
+        "मैदा",
+        "हल्का करी पाउडर",
+        "सब्ज़ी का शोरबा",
+        "सेब की प्यूरी",
+        "नमक"
+      ],
+      "steps": [
+        "आलू मोटे चिप्स में काटें, ऊपर का स्टार्च धोएँ और पूरी तरह सुखाएँ।",
+        "मक्खन पिघलाकर प्याज़ 5 मिनट नरम करें। मैदा और करी पाउडर 1 मिनट भूनें, फिर शोरबा और सेब प्यूरी फेंटकर मिलाएँ।",
+        "सॉस 10 मिनट हल्का गाढ़ा होने तक पकाएँ; 4 ग्राम नमक डालें और चाहें तो चिकना पीसें।",
+        "चिप्स 160°C पर 6 मिनट तलें, निथारकर 5 मिनट रखें। तेल 190°C करें, फिर 3–4 मिनट कुरकुरे तलें, बचा नमक लगाकर करी सॉस के साथ दें।"
+      ],
+      "tips": [
+        "तलने से पहले आलू अच्छी तरह सुखाएँ ताकि तेल कम छिटके और चिप्स कुरकुरे बनें।"
+      ]
+    },
+    "gu": {
+      "name": "ચિપ્સ અને કરી સોસ",
+      "ingredients": [
+        "બટાકા, છોલેલા",
+        "ડુંગળી, બારીક સમારેલી",
+        "ચિપ્સ માટે તેલ",
+        "માખણ",
+        "મેંદો",
+        "હળવો કરી પાઉડર",
+        "શાકનો સ્ટોક",
+        "સફરજનની પ્યુરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા જાડા ચિપ્સમાં કાપો, ઉપરનો સ્ટાર્ચ ધોઈ સંપૂર્ણ સૂકવો.",
+        "માખણ ઓગાળી ડુંગળી 5 મિનિટ નરમ કરો. મેંદો અને કરી પાઉડર 1 મિનિટ શેકી પછી સ્ટોક અને સફરજનની પ્યુરી ફેંટીને ભેળવો.",
+        "સોસ 10 મિનિટ સહેજ ઘટ્ટ થાય ત્યાં સુધી ચડાવો; 4 ગ્રામ મીઠું નાખો અને ઇચ્છો તો સુંવાળું પીસો.",
+        "ચિપ્સ 160°C પર 6 મિનિટ તળો, નિતારી 5 મિનિટ રાખો. તેલ 190°C કરો, ફરી 3–4 મિનિટ કરકરા તળો, બાકી મીઠું લગાવી કરી સોસ સાથે પીરસો."
+      ],
+      "tips": [
+        "તળતા પહેલાં બટાકા સારી રીતે સૂકવો જેથી તેલ ઓછું છાંટે અને ચિપ્સ કરકરા બને."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/chips-and-curry-sauce.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

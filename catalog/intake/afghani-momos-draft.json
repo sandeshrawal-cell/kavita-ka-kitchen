@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R0407",
+  "id": "afghani-momos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Afghani Momos",
+  "cuisine": "Delhi",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "thick yogurt",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "water for dough",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead 280 g all-purpose flour with 150 ml water and 3 g salt into a firm smooth dough. Cover and rest 20 minutes, then roll into 20 thin rounds about 9 cm wide.",
+    "Combine cabbage, carrots, spring onions, ginger-garlic paste and 3 g salt. Fill and seal wrappers; steam 10 minutes, then cool and pat dry.",
+    "Fry momos at 175°C for 2–3 minutes until lightly crisp. Whisk mayonnaise, cream, yogurt, pepper, chaat masala and remaining salt into a smooth sauce.",
+    "Let the fried momos drain well on a rack; trapped oil would thin the creamy coating.",
+    "Melt butter on low heat, stir in the sauce just to warm it without boiling, then fold in momos. Crush fenugreek over the top and serve at once."
+  ],
+  "tips": [
+    "Use eggless mayonnaise and keep the creamy sauce below a simmer so it stays smooth."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अफ़गानी मोमोज़",
+      "ingredients": [
+        "मैदा",
+        "बारीक पत्तागोभी",
+        "कद्दूकस गाजर",
+        "कटा हरा प्याज़",
+        "अदरक-लहसुन पेस्ट",
+        "बिना अंडे की मेयोनीज़",
+        "मलाई",
+        "गाढ़ा दही",
+        "काली मिर्च",
+        "चाट मसाला",
+        "कसूरी मेथी",
+        "मक्खन",
+        "नमक",
+        "तलने के लिए तेल",
+        "आटे के लिए पानी"
+      ],
+      "steps": [
+        "280 ग्राम मैदा, 150 मिली पानी और 3 ग्राम नमक से चिकना सख्त आटा गूँधें। ढककर 20 मिनट रखें, फिर लगभग 9 सेमी की 20 पतली गोल पूरियाँ बेलें।",
+        "पत्तागोभी, गाजर, हरा प्याज़, अदरक-लहसुन पेस्ट और 3 ग्राम नमक मिलाएँ। रैपर भरकर बंद करें; 10 मिनट भाप में पकाकर ठंडा और सूखा करें।",
+        "मोमोज़ 175°C पर 2–3 मिनट हल्के कुरकुरे तलें। मेयोनीज़, मलाई, दही, काली मिर्च, चाट मसाला और बाकी नमक फेंटकर चिकनी सॉस बनाएँ।",
+        "तले मोमोज़ जाली पर अच्छी तरह निथारें; बचा तेल मलाईदार परत को पतला कर देगा।",
+        "धीमी आँच पर मक्खन पिघलाएँ, सॉस डालकर बिना उबाले बस गरम करें, फिर मोमोज़ मिलाएँ। ऊपर कसूरी मेथी मसलकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "बिना अंडे की मेयोनीज़ लें और मलाईदार सॉस न उबालें, ताकि वह चिकनी रहे।"
+      ],
+      "passiveTime": "20 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "અફઘાની મોમોઝ",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી કોબી",
+        "છીણેલાં ગાજર",
+        "સમારેલી લીલી ડુંગળી",
+        "આદુ-લસણની પેસ્ટ",
+        "ઇંડા વિનાનું મેયોનેઝ",
+        "ક્રીમ",
+        "ઘટ્ટ દહીં",
+        "કાળી મરી",
+        "ચાટ મસાલો",
+        "કસૂરી મેથી",
+        "માખણ",
+        "મીઠું",
+        "તળવા માટે તેલ",
+        "લોટ માટે પાણી"
+      ],
+      "steps": [
+        "280 ગ્રામ મેંદો, 150 મિલી પાણી અને 3 ગ્રામ મીઠાનો સુંવાળો કડક લોટ બાંધો. ઢાંકી 20 મિનિટ રાખો, પછી આશરે 9 સેમીની 20 પાતળી ગોળ પૂરી વણો.",
+        "કોબી, ગાજર, લીલી ડુંગળી, આદુ-લસણ પેસ્ટ અને 3 ગ્રામ મીઠું મિક્સ કરો. રેપર ભરી બંધ કરો; 10 મિનિટ બાફી ઠંડા અને સૂકા કરો.",
+        "મોમોઝ 175°C પર 2–3 મિનિટ હળવા કરકરા તળો. મેયોનેઝ, ક્રીમ, દહીં, મરી, ચાટ મસાલો અને બાકી મીઠું ફેંટી સુંવાળી સોસ બનાવો.",
+        "તળેલા મોમોઝ જાળી પર સારી રીતે નિતારો; બાકી તેલ ક્રીમી પડને પાતળું કરી દેશે.",
+        "ધીમા તાપે માખણ ઓગાળો, સોસ નાખી ઉકાળ્યા વિના માત્ર ગરમ કરો, પછી મોમોઝ ભેળવો. ઉપર કસૂરી મેથી મસળી તરત પીરસો."
+      ],
+      "tips": [
+        "ઇંડા વિનાનું મેયોનેઝ લો અને ક્રીમી સોસને ઉકાળો નહીં, જેથી તે સુંવાળી રહે."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "passiveTime": "20 minutes dough resting",
+  "photoDraft": "catalog/intake/photos/afghani-momos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

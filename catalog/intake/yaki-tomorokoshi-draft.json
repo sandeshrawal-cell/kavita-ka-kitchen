@@ -1,0 +1,91 @@
+{
+  "sourceReviewId": "R0484",
+  "id": "yaki-tomorokoshi",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Yaki Tomorokoshi",
+  "cuisine": "Japanese",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "sweetcorn cobs, husked",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Simmer the corn in water for 5 minutes and drain well. Mix soy sauce with sugar until dissolved.",
+    "Heat a grill pan over medium-high heat and lightly oil it. Grill the cobs 8–10 minutes, turning, until charred in patches.",
+    "Pat the parboiled cobs dry before grilling so the kernels char rather than steam.",
+    "Brush with soy mixture and turn for 2 minutes until glossy. Add butter, roll the cobs to coat and serve immediately."
+  ],
+  "tips": [
+    "Add soy near the end so it glazes rather than burns on the grill."
+  ],
+  "translations": {
+    "hi": {
+      "name": "याकी तोमोरोकोशी",
+      "ingredients": [
+        "स्वीट कॉर्न भुट्टे, छिले",
+        "सोया सॉस",
+        "मक्खन",
+        "चीनी",
+        "तेल"
+      ],
+      "steps": [
+        "भुट्टे पानी में 5 मिनट उबालकर अच्छी तरह निथारें। सोया सॉस में चीनी घुलने तक मिलाएँ।",
+        "ग्रिल तवा मध्यम-तेज़ गरम कर हल्का तेल लगाएँ। भुट्टे 8–10 मिनट घुमाकर जगह-जगह भुने निशान आने तक सेंकें।",
+        "उबले भुट्टे ग्रिल करने से पहले पोंछकर सुखाएँ ताकि दाने भाप में पकने के बजाय भुनें।",
+        "सोया मिश्रण लगाकर 2 मिनट घुमाएँ जब तक चमक आए। मक्खन डालकर भुट्टे लपेटें और तुरंत परोसें।"
+      ],
+      "tips": [
+        "सोया सॉस अंत में लगाएँ ताकि वह जलने के बजाय चमकदार परत बनाए।"
+      ]
+    },
+    "gu": {
+      "name": "યાકી તોમોરોકોશી",
+      "ingredients": [
+        "મીઠી મકાઈના ડોડા, છોલેલા",
+        "સોયા સોસ",
+        "માખણ",
+        "ખાંડ",
+        "તેલ"
+      ],
+      "steps": [
+        "ડોડા પાણીમાં 5 મિનિટ ઉકાળી સારી રીતે નિતારો. સોયા સોસમાં ખાંડ ઓગળે ત્યાં સુધી ભેળવો.",
+        "ગ્રિલ તવો મધ્યમ ઊંચા તાપે ગરમ કરી સહેજ તેલ લગાવો. ડોડા 8–10 મિનિટ ફેરવી જગ્યાએ જગ્યાએ શેકાયેલા ડાઘ પડે ત્યાં સુધી શેકો.",
+        "બાફેલા ડોડા ગ્રિલ કરતાં પહેલાં લૂછી સૂકવો જેથી દાણા વરાળે ચડવાને બદલે શેકાય.",
+        "સોયા મિશ્રણ લગાવી 2 મિનિટ ફેરવો, ચમક આવે ત્યાં સુધી. માખણ નાખી ડોડાને લપેટો અને તરત પીરસો."
+      ],
+      "tips": [
+        "સોયા સોસ અંતે લગાવો જેથી બળવાને બદલે ચમકદાર પડ બને."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/yaki-tomorokoshi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,108 @@
+{
+  "sourceReviewId": "R0476",
+  "id": "harcha",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Harcha",
+  "cuisine": "Moroccan",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "passiveTime": "10 minutes hydration",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "butter, melted",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "extra semolina for dusting",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix semolina, sugar, baking powder and salt. Rub in melted butter until every grain is coated.",
+    "Add milk gently to bring the mixture together without kneading. Rest 10 minutes for the semolina to absorb the liquid.",
+    "If the rested semolina crumbles when pressed, moisten your hands with a little milk and press it together; avoid working it like bread dough.",
+    "Pat to a 2 cm thick round on a semolina-dusted surface and cut eight discs. Cook on a dry skillet over medium-low heat 5–6 minutes per side until speckled golden and set."
+  ],
+  "tips": [
+    "Handle the dough lightly; kneading makes harcha tough instead of crumbly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हर्चा",
+      "ingredients": [
+        "बारीक सूजी",
+        "पिघला मक्खन",
+        "दूध",
+        "चीनी",
+        "बेकिंग पाउडर",
+        "नमक",
+        "छिड़कने के लिए अतिरिक्त सूजी"
+      ],
+      "steps": [
+        "सूजी, चीनी, बेकिंग पाउडर और नमक मिलाएँ। पिघला मक्खन मलकर हर दाना चिकना करें।",
+        "दूध डालकर बिना गूँधे मिश्रण को इकट्ठा करें। सूजी को तरल सोखने के लिए 10 मिनट रखें।",
+        "रखी हुई सूजी दबाने पर बिखरे तो हाथ थोड़े दूध से गीले करके जोड़ें; ब्रेड के आटे की तरह न गूँधें।",
+        "सूजी छिड़की सतह पर 2 सेंटीमीटर मोटा गोल थपथपाएँ और आठ टिकियाँ काटें। सूखे तवे पर मध्यम-धीमी आँच पर हर तरफ 5–6 मिनट सुनहरे धब्बे और जमने तक सेंकें।"
+      ],
+      "tips": [
+        "आटे को हल्के हाथ से संभालें; गूँधने से हर्चा भुरभुरी की जगह सख्त बनेगी।"
+      ],
+      "passiveTime": "10 मिनट सूजी भिगोना"
+    },
+    "gu": {
+      "name": "હાર્ચા",
+      "ingredients": [
+        "ઝીણી સોજી",
+        "ઓગળેલું માખણ",
+        "દૂધ",
+        "ખાંડ",
+        "બેકિંગ પાઉડર",
+        "મીઠું",
+        "છાંટવા માટે વધારાની સોજી"
+      ],
+      "steps": [
+        "સોજી, ખાંડ, બેકિંગ પાઉડર અને મીઠું ભેળવો. ઓગળેલું માખણ મસળી દરેક દાણા પર લગાવો.",
+        "દૂધ ઉમેરી ગૂંથ્યા વિના મિશ્રણ ભેગું કરો. સોજી પ્રવાહી શોષે તે માટે 10 મિનિટ રાખો.",
+        "રાખેલી સોજી દબાવતા તૂટે તો હાથ થોડા દૂધથી ભીના કરી ભેગી કરો; બ્રેડના લોટની જેમ ન ગૂંથો.",
+        "સોજી છાંટેલી સપાટી પર 2 સેમી જાડો ગોળ થપથપાવો અને આઠ ગોળ કાપો. સૂકા તવા પર મધ્યમ ધીમા તાપે દરેક બાજુ 5–6 મિનિટ સોનેરી ડાઘ પડે અને ચડે ત્યાં સુધી શેકો."
+      ],
+      "tips": [
+        "લોટ હળવા હાથે સંભાળો; ગૂંથવાથી હાર્ચા ભૂકી થવાને બદલે કઠણ થશે."
+      ],
+      "passiveTime": "10 મિનિટ સોજી પલાળવી"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/harcha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

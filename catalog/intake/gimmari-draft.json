@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0451",
+  "id": "gimmari",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Gimmari",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "sweet potato glass noodles",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "gim seaweed sheets",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil glass noodles until tender, about 7 minutes; drain and snip short.",
+    "Mix with finely cut carrot, spring onion, soy sauce and sugar.",
+    "Cut each seaweed sheet into four rectangles. Put noodle filling near one edge and roll tightly, sealing the edge with water. Whisk flour, cornstarch, cold water and salt into a thin batter.",
+    "Dip rolls in batter and fry in batches at 175°C for 3–4 minutes until crisp and golden. Drain and serve hot."
+  ],
+  "tips": [
+    "Use eggless batter and keep noodle filling modest so the seaweed rolls stay closed."
+  ],
+  "translations": {
+    "hi": {
+      "name": "गिम्मारी",
+      "ingredients": [
+        "शकरकंद के पारदर्शी नूडल्स",
+        "गिम समुद्री शैवाल की शीट",
+        "गाजर",
+        "हरा प्याज़",
+        "सोया सॉस",
+        "चीनी",
+        "मैदा",
+        "मक्के का स्टार्च",
+        "ठंडा पानी",
+        "नमक",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "पारदर्शी नूडल्स लगभग 7 मिनट नरम उबालें; छानकर छोटे काटें।",
+        "बारीक गाजर, हरा प्याज़, सोया सॉस और चीनी मिलाएँ।",
+        "हर शैवाल शीट चार आयत में काटें। एक किनारे के पास नूडल्स रखकर कसकर लपेटें, पानी से किनारा चिपकाएँ। मैदा, स्टार्च, ठंडा पानी और नमक पतले घोल में फेंटें।",
+        "रोल घोल में डुबोकर 175°C पर थोड़े-थोड़े 3–4 मिनट कुरकुरे सुनहरे तलें। छानकर गरम परोसें।"
+      ],
+      "tips": [
+        "बिना अंडे का घोल लें और नूडल्स कम भरें ताकि शैवाल के रोल बंद रहें।"
+      ]
+    },
+    "gu": {
+      "name": "ગિમ્મારી",
+      "ingredients": [
+        "શક્કરિયાના પારદર્શક નૂડલ્સ",
+        "ગિમ સમુદ્રી શેવાળની શીટ",
+        "ગાજર",
+        "લીલી ડુંગળી",
+        "સોયા સોસ",
+        "ખાંડ",
+        "મેંદો",
+        "મકાઈનો સ્ટાર્ચ",
+        "ઠંડું પાણી",
+        "મીઠું",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "પારદર્શક નૂડલ્સ આશરે 7 મિનિટ નરમ બાફો; નીતારી ટૂંકા કાપો.",
+        "બારીક ગાજર, લીલી ડુંગળી, સોયા સોસ અને ખાંડ ભેળવો.",
+        "દરેક શેવાળ શીટ ચાર લંબચોરસમાં કાપો. એક કિનારી પાસે નૂડલ્સ મૂકી મજબૂત વીંટો, પાણીથી કિનારી ચોંટાડો. મેંદો, સ્ટાર્ચ, ઠંડું પાણી અને મીઠું પાતળા ખીરામાં ફેંટો.",
+        "રોલ ખીરામાં બોળી 175°C પર થોડા થોડા 3–4 મિનિટ કરકરા સોનેરી તળો. નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ઈંડા વિનાનું ખીરું લો અને નૂડલ્સ ઓછા ભરો જેથી શેવાળના રોલ બંધ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/gimmari.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

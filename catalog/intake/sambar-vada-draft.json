@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R0433",
+  "id": "sambar-vada",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Sambar Vada",
+  "cuisine": "South Indian",
+  "categories": [
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 90,
+  "passiveTime": "4 hours urad dal soaking and 30 minutes toor dal soaking",
+  "ingredients": [
+    {
+      "name": "split urad dal",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "toor dal",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "drumstick pieces",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "sambar powder",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 13,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1100,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak urad dal 4 hours and toor dal 30 minutes separately. Cook toor dal in 500 ml water until soft; mash. Simmer drumstick, onion and tomato in 400 ml water until tender.",
+    "Add mashed dal, tamarind, sambar powder and 8 g salt to the vegetables; simmer 12 minutes. Temper mustard, curry leaves and asafoetida in 25 ml oil and pour into sambar.",
+    "Drain urad thoroughly and grind with as little of remaining water as possible into a thick fluffy batter. Beat in ginger, chillies and remaining salt; shape 12 doughnuts with wet hands.",
+    "Fry vadas at 175°C for 4–5 minutes until golden and cooked through. Dip briefly in warm water, squeeze gently and soak in hot sambar for 5 minutes before serving."
+  ],
+  "tips": [
+    "Beat urad batter until airy and keep water minimal; thin batter makes dense, oily vadas."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सांभर वडा",
+      "ingredients": [
+        "धुली उड़द दाल",
+        "अरहर दाल",
+        "कटा प्याज़",
+        "कटे टमाटर",
+        "सहजन फली के टुकड़े",
+        "इमली का गूदा",
+        "सांभर मसाला",
+        "राई",
+        "कड़ी पत्ते",
+        "कटी हरी मिर्च",
+        "कद्दूकस अदरक",
+        "हींग",
+        "तेल",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "उड़द दाल 4 घंटे और अरहर दाल अलग 30 मिनट भिगोएँ। अरहर को 500 मिली पानी में नरम पकाकर मसलें। सहजन, प्याज़ और टमाटर 400 मिली पानी में नरम उबालें।",
+        "सब्ज़ियों में मसली दाल, इमली, सांभर मसाला और 8 ग्राम नमक डालकर 12 मिनट पकाएँ। 25 मिली तेल में राई, कड़ी पत्ते और हींग का तड़का लगाकर सांभर में डालें।",
+        "उड़द अच्छी तरह निथारकर बचे पानी में से जितना कम लगे उतना डालकर गाढ़ा फूला घोल पीसें। अदरक, मिर्च और बाकी नमक फेंटें; गीले हाथों से 12 छेदवाले वड़े बनाएँ।",
+        "वड़े 175°C पर 4–5 मिनट सुनहरे और भीतर से पके होने तक तलें। गरम पानी में जल्दी डुबोकर हल्के निचोड़ें और परोसने से पहले 5 मिनट गरम सांभर में भिगोएँ।"
+      ],
+      "tips": [
+        "उड़द का घोल फूला होने तक फेंटें और पानी कम रखें; पतला घोल भारी तेलिए वड़े बनाता है।"
+      ],
+      "passiveTime": "4 घंटे उड़द दाल और 30 मिनट अरहर दाल भिगोना"
+    },
+    "gu": {
+      "name": "સાંભાર વડા",
+      "ingredients": [
+        "છોલેલી અડદ દાળ",
+        "તુવેર દાળ",
+        "સમારેલી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "સરગવાની શીંગના ટુકડા",
+        "આમલીનો માવો",
+        "સાંભાર મસાલો",
+        "રાઈ",
+        "મીઠા લીમડાના પાન",
+        "સમારેલાં લીલાં મરચાં",
+        "છીણેલું આદુ",
+        "હિંગ",
+        "તેલ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "અડદ દાળ 4 કલાક અને તુવેર દાળ અલગ 30 મિનિટ પલાળો. તુવેરને 500 મિલી પાણીમાં નરમ રાંધી મસળો. સરગવો, ડુંગળી અને ટામેટાં 400 મિલી પાણીમાં નરમ ઉકાળો.",
+        "શાકમાં મસળેલી દાળ, આમલી, સાંભાર મસાલો અને 8 ગ્રામ મીઠું નાખી 12 મિનિટ રાંધો. 25 મિલી તેલમાં રાઈ, મીઠા લીમડાના પાન અને હિંગનો વઘાર કરી સાંભારમાં રેડો.",
+        "અડદ સારી રીતે નિતારી બાકી પાણીમાંથી જેટલું ઓછું લાગે એટલું નાખી ઘટ્ટ ફૂલેલું ખીરું પીસો. આદુ, મરચાં અને બાકી મીઠું ફેંટો; ભીના હાથે 12 કાણાંવાળા વડા બનાવો.",
+        "વડા 175°C પર 4–5 મિનિટ સોનેરી અને અંદરથી પાકે ત્યાં સુધી તળો. ગરમ પાણીમાં ઝડપથી ડુબાડી હળવેથી નીચોવી પીરસતાં પહેલાં 5 મિનિટ ગરમ સાંભારમાં પલાળો."
+      ],
+      "tips": [
+        "અડદનું ખીરું ફૂલે ત્યાં સુધી ફેંટો અને પાણી ઓછું રાખો; પાતળું ખીરું ભારે તેલિયા વડા બનાવે છે."
+      ],
+      "passiveTime": "4 કલાક અડદ દાળ અને 30 મિનિટ તુવેર દાળ પલાળવી"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/sambar-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

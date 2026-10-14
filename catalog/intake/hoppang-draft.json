@@ -1,0 +1,108 @@
+{
+  "sourceReviewId": "R0488",
+  "id": "hoppang",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Hoppang",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "passiveTime": "75 minutes dough rise",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "warm milk",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sweetened red bean paste",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, sugar and salt. Add warm milk and oil; knead 8 minutes until smooth. Cover and rise about 1 hour until doubled.",
+    "Divide into eight balls. Flatten each, put 40 g red bean paste in the middle, pinch the seam closed and place seam-side down on a square of baking paper. Rest 15 minutes.",
+    "Pinch each filled bun all the way around the seam, then roll it gently between your palms to keep the bean paste enclosed.",
+    "Steam over actively simmering water for 15 minutes. Turn off heat, leave the lid closed 3 minutes, then serve warm."
+  ],
+  "tips": [
+    "Do not lift the steamer lid during cooking; a sudden temperature drop can wrinkle the buns."
+  ],
+  "translations": {
+    "hi": {
+      "name": "होप्पांग",
+      "ingredients": [
+        "मैदा",
+        "गुनगुना दूध",
+        "सूखा खमीर",
+        "चीनी",
+        "तेल",
+        "मीठा लाल अज़ुकी बीन पेस्ट",
+        "नमक"
+      ],
+      "steps": [
+        "मैदा, खमीर, चीनी और नमक मिलाएँ। गुनगुना दूध और तेल डालकर 8 मिनट चिकना गूँधें। ढककर लगभग 1 घंटा दोगुना होने दें।",
+        "आठ लोइयाँ करें। हर एक चपटी कर बीच में 40 ग्राम लाल बीन पेस्ट रखें, जोड़ बंद करें और बेकिंग पेपर पर जोड़ नीचे रखें। 15 मिनट रखें।",
+        "हर भरे बन के जोड़ को चारों तरफ अच्छी तरह बंद करें, फिर हथेलियों में हल्का घुमाएँ ताकि बीन पेस्ट अंदर रहे।",
+        "उबलते पानी की भाप पर 15 मिनट पकाएँ। आँच बंद कर ढक्कन 3 मिनट बंद रखें, फिर गरम परोसें।"
+      ],
+      "tips": [
+        "पकते समय स्टीमर का ढक्कन न उठाएँ; ताप अचानक गिरने से बन सिकुड़ सकते हैं।"
+      ],
+      "passiveTime": "75 मिनट आटा फूलना"
+    },
+    "gu": {
+      "name": "હોપ્પાંગ",
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું દૂધ",
+        "સૂકું ખમીર",
+        "ખાંડ",
+        "તેલ",
+        "મીઠી લાલ અઝુકી બીનની પેસ્ટ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મેંદો, ખમીર, ખાંડ અને મીઠું ભેળવો. હૂંફાળું દૂધ અને તેલ ઉમેરી 8 મિનિટ સુંવાળું બાંધો. ઢાંકી લગભગ 1 કલાક બમણું થવા દો.",
+        "આઠ લૂવા કરો. દરેકને ચપટો કરી મધ્યમાં 40 ગ્રામ લાલ બીનની પેસ્ટ મૂકો, જોડ બંધ કરી બેકિંગ પેપર પર જોડ નીચે રાખો. 15 મિનિટ રાખો.",
+        "દરેક ભરેલા બનનો જોડ ચારે બાજુ સારી રીતે બંધ કરો, પછી હથેળીમાં હળવે ફેરવો જેથી બીનની પેસ્ટ અંદર રહે.",
+        "ઉકળતા પાણીની વરાળ પર 15 મિનિટ ચડાવો. તાપ બંધ કરી ઢાંકણ 3 મિનિટ બંધ રાખો, પછી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ચડતી વખતે સ્ટીમરનું ઢાંકણ ન ઉઠાવો; તાપ અચાનક ઘટે તો બન કરચલી પડી શકે છે."
+      ],
+      "passiveTime": "75 મિનિટ લોટ ફૂલવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/hoppang.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

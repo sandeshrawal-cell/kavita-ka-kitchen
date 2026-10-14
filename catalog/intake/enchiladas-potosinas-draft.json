@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0467",
+  "id": "enchiladas-potosinas",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Enchiladas Potosinas",
+  "cuisine": "Mexican (San Luis Potosí)",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "passiveTime": "15 minutes dough rest",
+  "ingredients": [
+    {
+      "name": "dried guajillo chillies, seeded",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "masa harina",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "fresh queso fresco or paneer, crumbled",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "white onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak the chillies in hot water for 15 minutes. Blend with 150 ml of their soaking water and strain to make a smooth red puree.",
+    "Knead masa harina with the chilli puree, remaining warm water and 6 g salt until soft and pliable. Cover and rest 15 minutes; mix the cheese with onion.",
+    "Divide into 12 balls. Press each between sheets of plastic to a small tortilla, put 1 tablespoon filling in the centre, fold into a half-moon and seal the edges.",
+    "Cook on a medium-hot dry griddle for 2 minutes per side. Brush with oil and cook once more until lightly crisp; serve warm."
+  ],
+  "tips": [
+    "Keep the masa covered while shaping so the edges seal without cracking."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एन्चिलादास पोटोसिनास",
+      "ingredients": [
+        "सूखी गुआहिलो मिर्च, बीज निकाले हुए",
+        "गुनगुना पानी",
+        "मासा हरिना",
+        "ताज़ा केसो फ्रेस्को या पनीर, चूरा किया",
+        "सफ़ेद प्याज़, बारीक कटा",
+        "बिना तेज़ स्वाद वाला तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मिर्चों को गरम पानी में 15 मिनट भिगोएँ। भिगोने का 150 मिली पानी डालकर पीसें और छानकर लाल प्यूरी बनाएँ।",
+        "मासा हरिना को मिर्च प्यूरी, बचे गुनगुने पानी और 6 ग्राम नमक से मुलायम गूँधें। ढककर 15 मिनट रखें; चीज़ में प्याज़ मिलाएँ।",
+        "12 લોઇयाँ बनाएँ। हर एक को प्लास्टिक की दो शीटों के बीच छोटी टॉर्टिला की तरह दबाएँ, बीच में 1 बड़ा चम्मच भरावन रखें, अर्धचंद्र मोड़कर किनारे बंद करें।",
+        "मध्यम गरम सूखे तवे पर हर तरफ 2 मिनट सेंकें। तेल लगाकर फिर हल्का कुरकुरा होने तक सेंकें; गरम परोसें।"
+      ],
+      "tips": [
+        "बनाते समय मासा ढका रखें ताकि किनारे बिना फटे बंद हों।"
+      ],
+      "passiveTime": "15 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "એન્ચિલાદાસ પોટોસિનાસ",
+      "ingredients": [
+        "સૂકાં ગુઆહિલો મરચાં, બી કાઢેલાં",
+        "હૂંફાળું પાણી",
+        "માસા હરિના",
+        "તાજું કેસો ફ્રેસ્કો અથવા પનીર, ભૂકો કરેલું",
+        "સફેદ ડુંગળી, બારીક સમારેલી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મરચાં 15 મિનિટ ગરમ પાણીમાં પલાળો. પલાળવાનું 150 મિલી પાણી ઉમેરી પીસો અને ગાળી લાલ પ્યુરી બનાવો.",
+        "માસા હરિનાને મરચાંની પ્યુરી, બાકીના હૂંફાળા પાણી અને 6 ગ્રામ મીઠા સાથે નરમ બાંધો. ઢાંકી 15 મિનિટ રાખો; ચીઝમાં ડુંગળી ભેળવો.",
+        "12 લૂવા કરો. દરેકને પ્લાસ્ટિકની બે શીટ વચ્ચે નાની ટોર્ટિયા તરીકે દબાવો, મધ્યમાં 1 મોટી ચમચી પૂરણ મૂકી અર્ધચંદ્ર વાળી કિનારી સીલ કરો.",
+        "મધ્યમ ગરમ સૂકા તવા પર દરેક બાજુ 2 મિનિટ શેકો. તેલ લગાવી ફરી સહેજ કરકરા થાય ત્યાં સુધી શેકો; ગરમ પીરસો."
+      ],
+      "tips": [
+        "આકાર આપતી વખતે માસા ઢાંકેલું રાખો જેથી કિનારી તૂટ્યા વિના બંધ થાય."
+      ],
+      "passiveTime": "15 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "reference": {
+    "url": "https://www.gob.mx/agricultura/sanluispotosi/articulos/platillos-tipicos-de-san-luis-potosi?idiom=es",
+    "use": "Dish identity and traditional method; quantities and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/enchiladas-potosinas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

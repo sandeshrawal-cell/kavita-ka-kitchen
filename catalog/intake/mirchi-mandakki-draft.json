@@ -1,0 +1,164 @@
+{
+  "sourceReviewId": "R0426",
+  "id": "mirchi-mandakki",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Mirchi Mandakki",
+  "cuisine": "Davangere",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "ingredients": [
+    {
+      "name": "puffed rice",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "large mild green chillies",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Slit and deseed the large chillies. Whisk gram flour, rice flour, 5 g salt and about 200 ml water into a coating batter; dip chillies and fry at 175°C until crisp and golden, about 5 minutes.",
+    "Heat 25 ml oil, crackle mustard and curry leaves, then cook onion and chopped chillies for 3 minutes. Add turmeric and peanuts.",
+    "Sprinkle puffed rice with remaining 40 ml water, toss briefly and drain at once. Add to the pan with remaining salt and toss over low heat for 2 minutes.",
+    "Finish the spiced mandakki with lemon juice. Plate a mound of it with the hot mirchi bajji on the side."
+  ],
+  "tips": [
+    "Add only a light sprinkle of water to puffed rice; soaking turns Davangere mandakki mushy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मिर्ची मंडक्की",
+      "ingredients": [
+        "मुरमुरा",
+        "बड़ी कम तीखी हरी मिर्च",
+        "बेसन",
+        "चावल का आटा",
+        "बारीक प्याज़",
+        "भुनी मूँगफली",
+        "कटी हरी मिर्च",
+        "कड़ी पत्ते",
+        "राई",
+        "हल्दी",
+        "नींबू का रस",
+        "तेल",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "बड़ी मिर्चों में चीरा लगाकर बीज निकालें। बेसन, चावल का आटा, 5 ग्राम नमक और लगभग 200 मिली पानी का गाढ़ा घोल बनाएँ; मिर्च डुबोकर 175°C पर लगभग 5 मिनट कुरकुरी सुनहरी तलें।",
+        "25 मिली तेल गरम कर राई और कड़ी पत्ते चटकाएँ, फिर प्याज़ और कटी मिर्च 3 मिनट भूनें। हल्दी और मूँगफली डालें।",
+        "मुरमुरे पर बाकी 40 मिली पानी छिड़कें, जल्दी हिलाकर तुरंत निथारें। बाकी नमक के साथ पैन में डालकर धीमी आँच पर 2 मिनट मिलाएँ।",
+        "मसालेदार मंडक्की में नींबू रस मिलाएँ। थाली में इसका ढेर रखकर साथ में गरम मिर्ची बज्जी दें।"
+      ],
+      "tips": [
+        "मुरमुरे पर बस हल्का पानी छिड़कें; भिगोने से दावणगेरे मंडक्की गीली हो जाती है।"
+      ]
+    },
+    "gu": {
+      "name": "મરચી મંડક્કી",
+      "ingredients": [
+        "મમરા",
+        "મોટાં ઓછાં તીખાં લીલાં મરચાં",
+        "ચણાનો લોટ",
+        "ચોખાનો લોટ",
+        "ઝીણી ડુંગળી",
+        "શેકેલી મગફળી",
+        "સમારેલાં લીલાં મરચાં",
+        "મીઠા લીમડાના પાન",
+        "રાઈ",
+        "હળદર",
+        "લીંબુનો રસ",
+        "તેલ",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મોટાં મરચાં ચીરી બી કાઢો. ચણાનો લોટ, ચોખાનો લોટ, 5 ગ્રામ મીઠું અને આશરે 200 મિલી પાણીનું ઘટ્ટ ખીરું બનાવો; મરચાં ડુબાડી 175°C પર આશરે 5 મિનિટ કરકરાં સોનેરી તળો.",
+        "25 મિલી તેલ ગરમ કરી રાઈ અને મીઠા લીમડાના પાન તતડાવો, પછી ડુંગળી અને સમારેલાં મરચાં 3 મિનિટ શેકો. હળદર અને મગફળી નાખો.",
+        "મમરા પર બાકી 40 મિલી પાણી છાંટો, ઝડપથી હલાવી તરત નિતારો. બાકી મીઠા સાથે પેનમાં નાખી ધીમા તાપે 2 મિનિટ ભેળવો.",
+        "મસાલેદાર મંડક્કીમાં લીંબુનો રસ ભેળવો. થાળીમાં તેનો ઢગલો મૂકી બાજુમાં ગરમ મરચી ભજ્જી આપો."
+      ],
+      "tips": [
+        "મમરા પર માત્ર થોડું પાણી છાંટો; પલાળવાથી દાવણગેરે મંડક્કી પોચી થાય છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://karnatakatourism.org/wp-content/uploads/2020/05/Karnataka-Cuisine.pdf",
+    "use": "Davangere mandakki oggarne pairing with chilli bajji."
+  },
+  "photoDraft": "catalog/intake/photos/mirchi-mandakki.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

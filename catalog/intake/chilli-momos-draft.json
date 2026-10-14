@@ -1,0 +1,159 @@
+{
+  "sourceReviewId": "R0432",
+  "id": "chilli-momos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Chilli Momos",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper, diced",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian red chilli sauce",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 55,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 290,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead 280 g all-purpose flour with 150 ml water and 3 g salt into a firm smooth dough. Cover and rest 20 minutes, then roll into 20 thin rounds about 9 cm wide.",
+    "Mix cabbage, carrots, half the spring onions, half the ginger-garlic paste and 3 g salt. Fill and seal wrappers; steam 10 minutes, then dry and cool.",
+    "Fry steamed momos at 175°C for 2–3 minutes until lightly crisp; drain on a rack.",
+    "Heat 25 ml oil in a wok; stir-fry bell pepper and remaining ginger-garlic paste for 2 minutes. Add chilli sauce, ketchup, soy sauce and remaining salt.",
+    "Dissolve cornflour in the remaining 140 ml water, add to the wok and simmer until glossy. Toss fried momos for 1 minute, finish with remaining spring onions and serve hot."
+  ],
+  "tips": [
+    "Toss momos in sauce just before eating to keep their fried edges crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिली मोमोज़",
+      "ingredients": [
+        "मैदा",
+        "बारीक पत्तागोभी",
+        "कद्दूकस गाजर",
+        "कटा हरा प्याज़",
+        "अदरक-लहसुन पेस्ट",
+        "कटी शिमला मिर्च",
+        "शाकाहारी लाल चिली सॉस",
+        "टमाटर केचप",
+        "सोया सॉस",
+        "कॉर्नफ्लोर",
+        "पानी",
+        "तेल",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "280 ग्राम मैदा, 150 मिली पानी और 3 ग्राम नमक से चिकना सख्त आटा गूँधें। ढककर 20 मिनट रखें, फिर लगभग 9 सेमी की 20 पतली गोल पूरियाँ बेलें।",
+        "पत्तागोभी, गाजर, आधा हरा प्याज़, आधा अदरक-लहसुन पेस्ट और 3 ग्राम नमक मिलाएँ। रैपर भरकर बंद करें; 10 मिनट भाप में पकाकर सुखाएँ और ठंडे करें।",
+        "भाप में पके मोमोज़ 175°C पर 2–3 मिनट हल्के कुरकुरे तलें; जाली पर निथारें।",
+        "कड़ाही में 25 मिली तेल गरम कर शिमला मिर्च और बाकी अदरक-लहसुन पेस्ट 2 मिनट भूनें। चिली सॉस, केचप, सोया सॉस और बाकी नमक डालें।",
+        "कॉर्नफ्लोर बचे 140 मिली पानी में घोलकर कड़ाही में डालें और चमकदार गाढ़ा होने तक पकाएँ। तले मोमोज़ 1 मिनट उछालें, बाकी हरा प्याज़ डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "मोमोज़ खाने से ठीक पहले सॉस में मिलाएँ ताकि तले किनारे कुरकुरे रहें।"
+      ],
+      "passiveTime": "20 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "ચિલી મોમોઝ",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી કોબી",
+        "છીણેલાં ગાજર",
+        "સમારેલી લીલી ડુંગળી",
+        "આદુ-લસણની પેસ્ટ",
+        "સમારેલું શિમલા મરચું",
+        "શાકાહારી લાલ ચિલી સોસ",
+        "ટામેટાં કેચપ",
+        "સોયા સોસ",
+        "કોર્નફ્લોર",
+        "પાણી",
+        "તેલ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "280 ગ્રામ મેંદો, 150 મિલી પાણી અને 3 ગ્રામ મીઠાનો સુંવાળો કડક લોટ બાંધો. ઢાંકી 20 મિનિટ રાખો, પછી આશરે 9 સેમીની 20 પાતળી ગોળ પૂરી વણો.",
+        "કોબી, ગાજર, અડધી લીલી ડુંગળી, અડધી આદુ-લસણ પેસ્ટ અને 3 ગ્રામ મીઠું ભેળવો. રેપર ભરી બંધ કરો; 10 મિનિટ બાફી સૂકવો અને ઠારો.",
+        "બાફેલા મોમોઝ 175°C પર 2–3 મિનિટ હળવા કરકરા તળો; જાળી પર નિતારો.",
+        "કડાઈમાં 25 મિલી તેલ ગરમ કરી શિમલા મરચું અને બાકી આદુ-લસણ પેસ્ટ 2 મિનિટ શેકો. ચિલી સોસ, કેચપ, સોયા સોસ અને બાકી મીઠું નાખો.",
+        "કોર્નફ્લોર બાકી 140 મિલી પાણીમાં ઓગાળી કડાઈમાં નાખી ચમકદાર ઘટ્ટ થાય ત્યાં સુધી રાંધો. તળેલા મોમોઝ 1 મિનિટ ઉછાળો, બાકી લીલી ડુંગળી નાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "મોમોઝ ખાતાં તરત પહેલાં સોસમાં ભેળવો જેથી તળેલી કિનારી કરકરી રહે."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "passiveTime": "20 minutes dough resting",
+  "photoDraft": "catalog/intake/photos/chilli-momos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

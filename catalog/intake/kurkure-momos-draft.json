@@ -1,0 +1,138 @@
+{
+  "sourceReviewId": "R0406",
+  "id": "kurkure-momos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kurkure Momos",
+  "cuisine": "Delhi",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "cabbage, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 340,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "crushed cornflakes",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead 280 g all-purpose flour with 150 ml water and 3 g salt into a firm smooth dough. Cover and rest 20 minutes, then roll into 20 thin rounds about 9 cm wide.",
+    "Mix cabbage, carrots, spring onions, ginger, soy sauce and 3 g salt. Fill and seal wrappers; steam for 10 minutes and cool completely.",
+    "Whisk remaining 60 g flour, cornflour, remaining 130 ml water and remaining salt into a thin coating batter. Dip each momo and press into crushed cornflakes to coat all sides.",
+    "Press the crushed cornflakes firmly onto every fold of each momo and place the coated pieces on a dry tray.",
+    "Fry in batches at 175°C for 2–3 minutes until golden and crisp. Drain on a rack and serve immediately with chilli sauce."
+  ],
+  "tips": [
+    "Cool steamed momos before coating; warm steam softens the crunchy crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुरकुरे मोमोज़",
+      "ingredients": [
+        "बारीक पत्तागोभी",
+        "कद्दूकस गाजर",
+        "कटा हरा प्याज़",
+        "कद्दूकस अदरक",
+        "सोया सॉस",
+        "मैदा",
+        "कॉर्नफ्लोर",
+        "कुचले कॉर्नफ्लेक्स",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "280 ग्राम मैदा, 150 मिली पानी और 3 ग्राम नमक से चिकना सख्त आटा गूँधें। ढककर 20 मिनट रखें, फिर लगभग 9 सेमी की 20 पतली गोल पूरियाँ बेलें।",
+        "पत्तागोभी, गाजर, हरा प्याज़, अदरक, सोया सॉस और 3 ग्राम नमक मिलाएँ। रैपर भरकर बंद करें; 10 मिनट भाप में पकाकर पूरी तरह ठंडा करें।",
+        "बचे 60 ग्राम मैदा, कॉर्नफ्लोर, बचे 130 मिली पानी और बाकी नमक से पतला लेप बनाएँ। हर मोमो डुबोकर कुचले कॉर्नफ्लेक्स में दबाएँ ताकि चारों ओर परत चढ़े।",
+        "कुचले कॉर्नफ्लेक्स को हर मोमो की सिलवट पर अच्छी तरह दबाएँ और लेप लगे टुकड़े सूखी थाली में रखें।",
+        "175°C पर थोड़े-थोड़े 2–3 मिनट सुनहरे कुरकुरे होने तक तलें। जाली पर निथारकर चिली सॉस के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "लेप चढ़ाने से पहले मोमोज़ ठंडे करें; गरम भाप कुरकुरी परत नरम कर देती है।"
+      ],
+      "passiveTime": "20 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "કુરકુરે મોમોઝ",
+      "ingredients": [
+        "ઝીણી કોબી",
+        "છીણેલાં ગાજર",
+        "સમારેલી લીલી ડુંગળી",
+        "છીણેલું આદુ",
+        "સોયા સોસ",
+        "મેંદો",
+        "કોર્નફ્લોર",
+        "ભાંગેલા કોર્નફ્લેક્સ",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "280 ગ્રામ મેંદો, 150 મિલી પાણી અને 3 ગ્રામ મીઠાનો સુંવાળો કડક લોટ બાંધો. ઢાંકી 20 મિનિટ રાખો, પછી આશરે 9 સેમીની 20 પાતળી ગોળ પૂરી વણો.",
+        "કોબી, ગાજર, લીલી ડુંગળી, આદુ, સોયા સોસ અને 3 ગ્રામ મીઠું મિક્સ કરો. રેપર ભરી બંધ કરો; 10 મિનિટ બાફી પૂરા ઠંડા કરો.",
+        "બાકી 60 ગ્રામ મેંદો, કોર્નફ્લોર, બાકી 130 મિલી પાણી અને બાકી મીઠાનું પાતળું ખીરું બનાવો. દરેક મોમો ડુબાડી ભાંગેલા કોર્નફ્લેક્સમાં દબાવો જેથી ચારે બાજુ પડ ચડે.",
+        "ભાંગેલા કોર્નફ્લેક્સ દરેક મોમોની ચુંદડી પર સારી રીતે દબાવો અને પડ ચડેલા ટુકડા સૂકી થાળીમાં મૂકો.",
+        "175°C પર થોડાં થોડાં 2–3 મિનિટ સોનેરી કરકરા થાય ત્યાં સુધી તળો. જાળી પર નિતારી ચિલી સોસ સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "પડ ચડાવતાં પહેલાં મોમોઝ ઠંડા કરો; ગરમ વરાળ કરકરું પડ નરમ કરે છે."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "passiveTime": "20 minutes dough resting",
+  "photoDraft": "catalog/intake/photos/kurkure-momos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,115 @@
+{
+  "sourceReviewId": "R0477",
+  "id": "karantika",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Karantika",
+  "cuisine": "Algerian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "passiveTime": "30 minutes batter rest",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 850,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "harissa for serving",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "baguette for serving",
+      "qty": 480,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk chickpea flour with water, milk, half the oil, 4 g cumin and salt until completely smooth. Rest 30 minutes, then skim any foam.",
+    "Heat oven to 220°C. Oil a 23 cm baking dish with remaining oil and pour in the thin batter.",
+    "Check that the top is browned while the centre still jiggles slightly; let the baked custard stand so clean portions can be lifted.",
+    "Bake 35–40 minutes until the surface browns and the centre is soft but set. Rest 10 minutes, cut into portions and serve in baguette with remaining cumin and harissa."
+  ],
+  "tips": [
+    "The batter should look watery; a thick batter bakes into a firm cake rather than karantika's soft centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "करान्तिका",
+      "ingredients": [
+        "बेसन",
+        "पानी",
+        "दूध",
+        "जैतून तेल",
+        "पिसा जीरा",
+        "नमक",
+        "परोसने के लिए हरीसा",
+        "परोसने के लिए बैगेट"
+      ],
+      "steps": [
+        "बेसन को पानी, दूध, आधे तेल, 4 ग्राम जीरा और नमक से बिल्कुल चिकना फेंटें। 30 मिनट रखें, फिर झाग हटाएँ।",
+        "ओवन 220°C पर गरम करें। 23 सेंटीमीटर बेकिंग डिश में बचा तेल लगाकर पतला घोल डालें।",
+        "जाँचें कि ऊपर भूरा हो और बीच हल्का हिले; पके कस्टर्ड को रहने दें ताकि साफ हिस्से निकाले जा सकें।",
+        "35–40 मिनट बेक करें जब तक सतह भूरी हो और बीच मुलायम मगर जमा रहे। 10 मिनट रखें, हिस्से काटकर बैगेट में बचे जीरे और हरीसा के साथ दें।"
+      ],
+      "tips": [
+        "घोल पतला पानी जैसा दिखना चाहिए; गाढ़ा घोल मुलायम बीच की जगह सख्त केक बनाता है।"
+      ],
+      "passiveTime": "30 मिनट घोल को आराम देना"
+    },
+    "gu": {
+      "name": "કરાન્તિકા",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "પાણી",
+        "દૂધ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "મીઠું",
+        "પીરસવા માટે હરિસ્સા",
+        "પીરસવા માટે બેગેટ"
+      ],
+      "steps": [
+        "ચણાનો લોટ પાણી, દૂધ, અડધા તેલ, 4 ગ્રામ જીરું અને મીઠા સાથે એકદમ સુંવાળો ફેંટો. 30 મિનિટ રાખી ઉપરનું ફીણ કાઢો.",
+        "ઓવન 220°C પર ગરમ કરો. 23 સેમી બેકિંગ ડિશમાં બાકીનું તેલ લગાવી પાતળું ખીરું રેડો.",
+        "તપાસો કે ઉપરથી બદામી હોય અને મધ્ય સહેજ હલે; બેક કરેલા કસ્ટર્ડને રહેવા દો જેથી સ્વચ્છ ભાગ કાઢી શકાય.",
+        "35–40 મિનિટ બેક કરો, ઉપરથી બદામી અને વચ્ચે નરમ છતાં જામેલું થાય ત્યાં સુધી. 10 મિનિટ રાખી ભાગ કાપો અને બેગેટમાં બાકી જીરું તથા હરિસ્સા સાથે પીરસો."
+      ],
+      "tips": [
+        "ખીરું પાણી જેવું પાતળું હોવું જોઈએ; ઘટ્ટ ખીરું નરમ મધ્યના બદલે કઠણ કેક બનાવે છે."
+      ],
+      "passiveTime": "30 મિનિટ ખીરાને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/karantika.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

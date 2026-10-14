@@ -1,0 +1,186 @@
+{
+  "sourceReviewId": "R0437",
+  "id": "dholl-puri",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Dholl Puri",
+  "cuisine": "Mauritian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 100,
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water for cooking split peas",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "warm water for dough",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "cooked butter beans, drained",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "fresh ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "curry powder without onion or garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water for bean curry",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh tomatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak the split peas for 2 hours, then drain and rinse them.",
+    "Simmer the peas in the measured cooking water for about 25 minutes until just tender. Drain very thoroughly, cool, then grind to a fine dry crumb with cumin, turmeric and 4 g salt.",
+    "Knead the flour, 4 g salt, 15 ml oil and warm dough water until soft and smooth. Cover and rest for 20 minutes while making the accompaniments.",
+    "For the bean curry, heat 25 ml oil and stir in grated ginger and curry powder for 30 seconds. Add butter beans, passata, bean-curry water and 4 g salt; simmer 12–15 minutes until thick enough to spoon.",
+    "For the tomato chutney, finely dice fresh tomatoes and chop coriander and chilli. Mix with lime juice and remaining 2 g salt; stand for 10 minutes to meld the flavours.",
+    "Divide dough into eight balls. Fill each with a spoonful of ground split peas, pinch closed and roll gently into a very thin round without tearing.",
+    "Cook each filled round on a hot griddle for about 1 minute per side, brushing with the remaining 20 ml oil. Fold each warm dholl puri around bean curry and fresh tomato chutney; serve two per person."
+  ],
+  "tips": [
+    "Grind the cooked split peas finely and keep them dry; damp, coarse filling tears the thin flatbread. Keep the bean curry thick so it does not soak through."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ढोल पूरी",
+      "ingredients": [
+        "पीली टूटी मटर",
+        "मटर पकाने का पानी",
+        "पिसा जीरा",
+        "पिसी हल्दी",
+        "मैदा",
+        "आटे का गुनगुना पानी",
+        "सादा तेल",
+        "नमक",
+        "पके बटर बीन्स, छाने हुए",
+        "छनी टमाटर प्यूरी",
+        "ताज़ा अदरक",
+        "बिना प्याज़-लहसुन का करी पाउडर",
+        "बीन्स करी का पानी",
+        "ताज़े टमाटर",
+        "हरा धनिया",
+        "हरी मिर्च",
+        "नींबू रस"
+      ],
+      "steps": [
+        "टूटी मटर 2 घंटे भिगोएँ, फिर छानकर धो लें।",
+        "मटर को नापे हुए पकाने के पानी में लगभग 25 मिनट बस नरम होने तक उबालें। बहुत अच्छी तरह छानकर ठंडा करें, फिर जीरा, हल्दी और 4 ग्राम नमक के साथ बारीक सूखा पीसें।",
+        "मैदा, 4 ग्राम नमक, 15 मिली तेल और आटे का गुनगुना पानी मिलाकर नरम चिकना गूँधें। ढककर साथ की चीज़ें बनाते समय 20 मिनट रखें।",
+        "बीन्स करी के लिए 25 मिली तेल गरम कर कद्दूकस अदरक और करी पाउडर 30 सेकंड चलाएँ। बटर बीन्स, छनी टमाटर प्यूरी, करी का पानी और 4 ग्राम नमक डालकर 12–15 मिनट चम्मच से परोसने योग्य गाढ़ी होने तक पकाएँ।",
+        "टमाटर चटनी के लिए ताज़े टमाटर छोटे काटें और धनिया व मिर्च बारीक काटें। नींबू रस और बचा 2 ग्राम नमक मिलाकर स्वाद मिलने के लिए 10 मिनट रखें।",
+        "आटे के आठ गोले करें। हर गोले में एक चम्मच पिसी मटर भरें, बंद करें और बिना फाड़े धीरे बहुत पतली गोल रोटी बेलें।",
+        "हर भरी रोटी गरम तवे पर प्रत्येक ओर लगभग 1 मिनट सेकें, बचे 20 मिली तेल का हल्का लेप लगाएँ। गरम ढोल पूरी में बीन्स करी और ताज़ी टमाटर चटनी भरकर मोड़ें; हर व्यक्ति को दो परोसें।"
+      ],
+      "tips": [
+        "पकी मटर बारीक पीसें और सूखी रखें; गीली, मोटी भरावन पतली रोटी फाड़ती है। बीन्स करी गाढ़ी रखें ताकि रोटी भीगे नहीं।"
+      ],
+      "passiveTime": "पकाने से पहले टूटी मटर 2 घंटे भिगोएँ।"
+    },
+    "gu": {
+      "name": "ઢોલ પૂરી",
+      "ingredients": [
+        "પીળા ફાડા વટાણા",
+        "વટાણા રાંધવાનું પાણી",
+        "દળેલું જીરું",
+        "દળેલી હળદર",
+        "મેંદો",
+        "લોટ માટે હૂંફાળું પાણી",
+        "સાદું તેલ",
+        "મીઠું",
+        "રાંધેલા બટર બીન્સ, નીતારેલા",
+        "ગાળેલી ટમેટાની પ્યુરી",
+        "તાજું આદુ",
+        "ડુંગળી-લસણ વગરનો કરી પાઉડર",
+        "બીન્સના શાક માટે પાણી",
+        "તાજાં ટમેટાં",
+        "લીલા ધાણા",
+        "લીલું મરચું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ફાડા વટાણા 2 કલાક પલાળી પછી નીતારી ધોઈ લો.",
+        "વટાણાને માપેલા રાંધવાના પાણીમાં આશરે 25 મિનિટ માત્ર નરમ થાય ત્યાં સુધી બાફો. ખૂબ સારી રીતે નીતારી ઠંડા કરો, પછી જીરું, હળદર અને 4 ગ્રામ મીઠા સાથે બારીક સૂકા દળો.",
+        "મેંદો, 4 ગ્રામ મીઠું, 15 મિલી તેલ અને લોટ માટેનું હૂંફાળું પાણી ભેળવી નરમ લીસો મસળો. ઢાંકી સાથેની વસ્તુઓ બનાવતાં 20 મિનિટ રાખો.",
+        "બીન્સના શાક માટે 25 મિલી તેલ ગરમ કરી ખમણેલું આદુ અને કરી પાઉડર 30 સેકન્ડ હલાવો. બટર બીન્સ, ગાળેલી ટમેટાની પ્યુરી, શાકનું પાણી અને 4 ગ્રામ મીઠું નાખી 12–15 મિનિટ ચમચીથી પીરસી શકાય એટલું ઘાટું થાય ત્યાં સુધી રાંધો.",
+        "ટમેટાની ચટણી માટે તાજાં ટમેટાં નાનાં કાપો અને ધાણા તથા મરચું બારીક સમારો. લીંબુનો રસ અને બાકી 2 ગ્રામ મીઠું ભેળવી સ્વાદ ભળવા માટે 10 મિનિટ રાખો.",
+        "લોટના આઠ ગોળા કરો. દરેકમાં એક ચમચી દળેલા વટાણા ભરી બંધ કરો અને ફાટ્યા વગર ધીમે બહુ પાતળી ગોળ રોટલી વણો.",
+        "દરેક ભરેલી રોટલી ગરમ તવા પર દરેક બાજુ આશરે 1 મિનિટ શેકો અને બાકી 20 મિલી તેલ હળવું લગાવો. ગરમ ઢોલ પૂરીમાં બીન્સનું શાક અને તાજી ટમેટાની ચટણી ભરી વાળો; દરેકને બે પીરસો."
+      ],
+      "tips": [
+        "રાંધેલા વટાણા બારીક દળો અને સૂકા રાખો; ભીનું, કરકરું પૂરણ પાતળી રોટલી ફાડી નાખે છે. બીન્સનું શાક ઘાટું રાખો જેથી રોટલી ભીંજાય નહીં."
+      ],
+      "passiveTime": "રાંધતાં પહેલાં ફાડા વટાણા 2 કલાક પલાળો."
+    }
+  },
+  "passiveTime": "Soak split peas for 2 hours before cooking.",
+  "photoDraft": "catalog/intake/photos/dholl-puri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

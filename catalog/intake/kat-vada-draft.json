@@ -1,0 +1,160 @@
+{
+  "sourceReviewId": "R0416",
+  "id": "kat-vada",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kat Vada",
+  "cuisine": "Kolhapuri",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "boiled potatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onions, chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Kolhapuri masala",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 900,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cook 120 g onion, coconut and half the ginger-garlic paste in 35 ml oil until brown; blend with tomatoes and 300 ml water. Return to pan with Kolhapuri masala, 6 g salt and 400 ml water; simmer 20 minutes into a thin fiery kat rassa.",
+    "Temper mustard and curry leaves in a little hot frying oil; add remaining onion, ginger-garlic paste, chopped chillies and turmeric. Cook 4 minutes, mash with potatoes and 3 g salt, then shape 12 balls.",
+    "Keep the kat rassa barely simmering while you fry the vadas; the gravy should reach the bowl piping hot.",
+    "Whisk gram flour with remaining water and salt into thick batter. Dip potato balls and fry at 175°C for 4–5 minutes until golden. Put three vadas in each bowl and pour hot kat around them."
+  ],
+  "tips": [
+    "Pour kat at serving time so the vadas keep a little crisp edge."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कट वडा",
+      "ingredients": [
+        "उबले आलू",
+        "बेसन",
+        "कटे प्याज़",
+        "कटे टमाटर",
+        "ताज़ा कद्दूकस नारियल",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च",
+        "कोल्हापुरी मसाला",
+        "राई",
+        "हल्दी",
+        "कड़ी पत्ते",
+        "तेल",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "120 ग्राम प्याज़, नारियल और आधा अदरक-लहसुन पेस्ट 35 मिली तेल में भूरा भूनें; टमाटर और 300 मिली पानी संग पीसें। पैन में कोल्हापुरी मसाला, 6 ग्राम नमक और 400 मिली पानी डालकर 20 मिनट पतला तीखा कट रस्सा पकाएँ।",
+        "थोड़े गरम तेल में राई और कड़ी पत्ते चटकाएँ; बाकी प्याज़, अदरक-लहसुन पेस्ट, कटी मिर्च और हल्दी 4 मिनट भूनें। आलू और 3 ग्राम नमक संग मसलकर 12 गोले बनाएँ।",
+        "वड़े तलते समय कट रस्सा धीमे उबालते रखें; कटोरे में ग्रेवी बहुत गरम पहुँचे।",
+        "बेसन में बचा पानी और नमक फेंटकर गाढ़ा घोल बनाएँ। आलू के गोले डुबाकर 175°C पर 4–5 मिनट सुनहरे तलें। हर कटोरे में तीन वड़े रखकर चारों ओर गरम कट डालें।"
+      ],
+      "tips": [
+        "परोसते समय कट डालें ताकि वड़ों के किनारे कुछ कुरकुरे रहें।"
+      ]
+    },
+    "gu": {
+      "name": "કટ વડા",
+      "ingredients": [
+        "બાફેલા બટાકા",
+        "ચણાનો લોટ",
+        "સમારેલી ડુંગળી",
+        "સમારેલાં ટામેટાં",
+        "તાજું છીણેલું નાળિયેર",
+        "આદુ-લસણની પેસ્ટ",
+        "લીલાં મરચાં",
+        "કોલ્હાપુરી મસાલો",
+        "રાઈ",
+        "હળદર",
+        "મીઠા લીમડાના પાન",
+        "તેલ",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "120 ગ્રામ ડુંગળી, નાળિયેર અને અડધી આદુ-લસણ પેસ્ટ 35 મિલી તેલમાં ભૂરાં શેકો; ટામેટાં અને 300 મિલી પાણી સાથે પીસો. પેનમાં કોલ્હાપુરી મસાલો, 6 ગ્રામ મીઠું અને 400 મિલી પાણી નાખી 20 મિનિટ પાતળો તીખો કટ રસ્સો રાંધો.",
+        "થોડાં ગરમ તેલમાં રાઈ અને મીઠા લીમડાના પાન તતડાવો; બાકી ડુંગળી, આદુ-લસણ પેસ્ટ, સમારેલાં મરચાં અને હળદર 4 મિનિટ શેકો. બટાકા અને 3 ગ્રામ મીઠા સાથે મસળી 12 ગોળા બનાવો.",
+        "વડા તળતાં કટ રસ્સો ધીમે ઉકળતો રાખો; વાટકીમાં રસ્સો ખૂબ ગરમ પહોંચે.",
+        "ચણાના લોટમાં બાકી પાણી અને મીઠું ફેંટી ઘટ્ટ ખીરું બનાવો. બટાકાના ગોળા ડુબાડી 175°C પર 4–5 મિનિટ સોનેરી તળો. દરેક વાટકીમાં ત્રણ વડા મૂકી ચારે બાજુ ગરમ કટ રેડો."
+      ],
+      "tips": [
+        "પીરસતી વખતે કટ રેડો જેથી વડાની કિનારી થોડી કરકરી રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kat-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

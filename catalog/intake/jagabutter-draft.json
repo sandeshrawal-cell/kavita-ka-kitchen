@@ -1,0 +1,84 @@
+{
+  "sourceReviewId": "R0485",
+  "id": "jagabutter",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Jagabutter",
+  "cuisine": "Japanese",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "medium potatoes, skin on",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water for steaming",
+      "qty": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Scrub the potatoes and prick each once. Arrange above simmering water in a steamer, cover and steam 30–35 minutes until a skewer passes through.",
+    "Split each hot potato without cutting through the base. Fluff the centre with a fork and put 20 g butter and a pinch of salt inside each.",
+    "Check the thickest potato with a skewer; steam a little longer if its centre still resists.",
+    "Let the butter melt into the flesh for 1 minute, then serve in the skins while steaming hot."
+  ],
+  "tips": [
+    "Steam potatoes of similar size so all four become tender together."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जगाबटर",
+      "ingredients": [
+        "मध्यम आलू, छिलके सहित",
+        "मक्खन",
+        "नमक",
+        "भाप के लिए पानी"
+      ],
+      "steps": [
+        "आलू रगड़कर धोएँ और हर एक में एक छेद करें। उबलते पानी के ऊपर स्टीमर में रखकर ढकें और 30–35 मिनट सींक आसानी से जाने तक भाप में पकाएँ।",
+        "हर गरम आलू को नीचे तक काटे बिना चीरा लगाएँ। कांटे से बीच फुलाएँ और प्रत्येक में 20 ग्राम मक्खन और चुटकी नमक रखें।",
+        "सबसे मोटे आलू में सींक डालकर जाँचें; बीच सख्त लगे तो थोड़ी देर और भाप दें।",
+        "मक्खन को 1 मिनट आलू में पिघलने दें, फिर छिलके सहित भाप निकलते गरम परोसें।"
+      ],
+      "tips": [
+        "एक ही आकार के आलू भाप में पकाएँ ताकि चारों साथ नरम हों।"
+      ]
+    },
+    "gu": {
+      "name": "જગાબટર",
+      "ingredients": [
+        "મધ્યમ બટાકા, છાલ સાથે",
+        "માખણ",
+        "મીઠું",
+        "વરાળ માટે પાણી"
+      ],
+      "steps": [
+        "બટાકા ઘસીને ધોઈ દરેકમાં એક છિદ્ર કરો. ઉકળતા પાણી ઉપર સ્ટીમરમાં મૂકી ઢાંકો અને 30–35 મિનિટ સળી સહેલાઈથી જાય ત્યાં સુધી વરાળમાં ચડાવો.",
+        "દરેક ગરમ બટાકામાં તળિયા સુધી ન કાપતાં ચીરો કરો. કાંટાથી મધ્ય ભાગ ઢીલો કરી દરેકમાં 20 ગ્રામ માખણ અને ચપટી મીઠું મૂકો.",
+        "સૌથી જાડા બટાકામાં સળી નાખી તપાસો; મધ્ય કઠણ લાગે તો થોડું વધુ વરાળે ચડાવો.",
+        "માખણને 1 મિનિટ બટાકામાં ઓગળવા દો, પછી છાલ સાથે ધુમાડા નીકળતા ગરમ પીરસો."
+      ],
+      "tips": [
+        "સરખા કદના બટાકા વરાળમાં ચડાવો જેથી ચારેય સાથે નરમ થાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/jagabutter.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

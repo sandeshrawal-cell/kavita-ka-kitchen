@@ -1,0 +1,108 @@
+{
+  "sourceReviewId": "R0473",
+  "id": "jamaican-festival",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Jamaican Festival",
+  "cuisine": "Jamaican",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "passiveTime": "15 minutes dough rest",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "fine cornmeal",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 190,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, cornmeal, sugar, baking powder and salt. Add milk gradually and knead briefly into a soft, smooth dough.",
+    "Cover and rest 15 minutes. Divide into 12 portions and roll each into a short tapered log.",
+    "Smooth any cracks in the shaped dough with damp fingers so the dumplings expand evenly in the oil.",
+    "Heat oil to 170°C. Fry in batches for 5–6 minutes, turning often, until evenly deep golden and cooked through. Drain and serve warm."
+  ],
+  "tips": [
+    "Keep the oil moderate so the sweet exterior does not brown before the centre cooks."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जमैका फेस्टिवल",
+      "ingredients": [
+        "मैदा",
+        "बारीक मकई का आटा",
+        "चीनी",
+        "बेकिंग पाउडर",
+        "नमक",
+        "दूध",
+        "तलने के लिए बिना तेज़ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "मैदा, मकई का आटा, चीनी, बेकिंग पाउडर और नमक मिलाएँ। दूध थोड़ा-थोड़ा डालकर नरम चिकना आटा हल्का गूँधें।",
+        "ढककर 15 मिनट रखें। 12 हिस्से करके हर एक को सिरों पर पतली छोटी लंबी टिकिया बनाएँ।",
+        "बने हुए आटे की दरारें गीली उँगलियों से चिकनी करें ताकि पकौड़े तेल में बराबर फूलें।",
+        "तेल 170°C तक गरम करें। बैच में 5–6 मिनट बार-बार पलटकर एकसार गहरा सुनहरा और भीतर तक पका तलें। निथारकर गरम परोसें।"
+      ],
+      "tips": [
+        "तेल मध्यम गरम रखें ताकि मीठी सतह भीतर पकने से पहले गहरी न हो जाए।"
+      ],
+      "passiveTime": "15 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "જમૈકન ફેસ્ટિવલ",
+      "ingredients": [
+        "મેંદો",
+        "મકાઈનો ઝીણો લોટ",
+        "ખાંડ",
+        "બેકિંગ પાઉડર",
+        "મીઠું",
+        "દૂધ",
+        "તળવા માટે તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "મેંદો, મકાઈનો લોટ, ખાંડ, બેકિંગ પાઉડર અને મીઠું ભેળવો. દૂધ થોડું થોડું ઉમેરી નરમ સુંવાળો લોટ હળવો બાંધો.",
+        "ઢાંકી 15 મિનિટ રાખો. 12 ભાગ કરી દરેકને છેડે પાતળી નાની લાંબી વાટકી આકાર આપો.",
+        "આકાર આપેલા લોટની તિરાડો ભીની આંગળીઓથી સુંવાળી કરો જેથી ભજિયાં તેલમાં સરખાં ફૂલે.",
+        "તેલ 170°C સુધી ગરમ કરો. થોડાં થોડાં 5–6 મિનિટ વારંવાર ફેરવી સરખા ઘેરા સોનેરી અને અંદર સુધી ચડેલા તળો. નિતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "તેલ મધ્યમ ગરમ રાખો જેથી મીઠી બહારની સપાટી અંદર ચડે તે પહેલાં વધુ ઘેરી ન થાય."
+      ],
+      "passiveTime": "15 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/jamaican-festival.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

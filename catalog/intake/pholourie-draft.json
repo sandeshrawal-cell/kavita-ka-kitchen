@@ -1,0 +1,136 @@
+{
+  "sourceReviewId": "R0471",
+  "id": "pholourie",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pholourie",
+  "cuisine": "Trinidadian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "passiveTime": "30 minutes batter rest",
+  "ingredients": [
+    {
+      "name": "yellow split pea flour",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, crushed",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, minced",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 330,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    },
+    {
+      "name": "tamarind chutney",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk both flours with baking powder, cumin, turmeric and salt. Stir in garlic, chilli and water to make a thick dropping batter.",
+    "Cover and rest the batter 30 minutes. Heat frying oil to 175°C and stir the batter once.",
+    "Scoop up a little batter: it should hold its shape briefly, then fall from the spoon. Add a splash of water if it is too stiff.",
+    "Drop teaspoonfuls into the oil without crowding. Fry 3–4 minutes, turning, until round, puffed and golden. Drain and serve with tamarind chutney."
+  ],
+  "tips": [
+    "Fry one test fritter first; add a splash of water if its centre is dense."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फोलौरी",
+      "ingredients": [
+        "पीली मटर की दाल का आटा",
+        "मैदा",
+        "बेकिंग पाउडर",
+        "पिसा जीरा",
+        "हल्दी",
+        "लहसुन, कुचला",
+        "हरी मिर्च, बारीक कटी",
+        "नमक",
+        "पानी",
+        "तलने के लिए बिना तेज़ स्वाद वाला तेल",
+        "इमली की चटनी"
+      ],
+      "steps": [
+        "दोनों आटे, बेकिंग पाउडर, जीरा, हल्दी और नमक मिलाएँ। लहसुन, मिर्च और पानी मिलाकर गाढ़ा, चम्मच से गिरने वाला घोल बनाएँ।",
+        "घोल को ढककर 30 मिनट रखें। तेल 175°C तक गरम करें और घोल एक बार चलाएँ।",
+        "थोड़ा घोल चम्मच में लें: वह कुछ पल आकार रखे और फिर गिर जाए। बहुत सख्त हो तो थोड़ा पानी मिलाएँ।",
+        "बिना भीड़ किए घोल छोटे चम्मच से तेल में गिराएँ। 3–4 मिनट पलटते हुए गोल, फूले और सुनहरे होने तक तलें। निथारकर इमली चटनी के साथ दें।"
+      ],
+      "tips": [
+        "पहले एक पकौड़ा जाँच के लिए तलें; बीच से भारी लगे तो घोल में थोड़ा पानी मिलाएँ।"
+      ],
+      "passiveTime": "30 मिनट घोल को आराम देना"
+    },
+    "gu": {
+      "name": "ફોલૌરી",
+      "ingredients": [
+        "પીળી વટાણાની દાળનો લોટ",
+        "મેંદો",
+        "બેકિંગ પાઉડર",
+        "જીરું પાઉડર",
+        "હળદર",
+        "લસણ, વાટેલું",
+        "લીલું મરચું, બારીક સમારેલું",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તટસ્થ સ્વાદનું તેલ",
+        "આંબલીની ચટણી"
+      ],
+      "steps": [
+        "બંને લોટ, બેકિંગ પાઉડર, જીરું, હળદર અને મીઠું ભેળવો. લસણ, મરચું અને પાણી ઉમેરી ચમચીથી પડી શકે તેવું ઘટ્ટ ખીરું બનાવો.",
+        "ખીરું ઢાંકી 30 મિનિટ રાખો. તેલ 175°C સુધી ગરમ કરો અને ખીરું એક વાર હલાવો.",
+        "થોડું ખીરું ચમચીમાં લો: તે થોડી ક્ષણ આકાર રાખે અને પછી પડે. બહુ કઠણ હોય તો થોડું પાણી ઉમેરો.",
+        "ભીડ કર્યા વિના ખીરું નાની ચમચીથી તેલમાં નાખો. 3–4 મિનિટ ફેરવી ગોળ, ફૂલેલા અને સોનેરી થાય ત્યાં સુધી તળો. નિતારી આંબલીની ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "પહેલાં એક ભજિયું ચકાસવા તળો; મધ્ય ભાગ ઘન લાગે તો ખીરામાં થોડું પાણી ઉમેરો."
+      ],
+      "passiveTime": "30 મિનિટ ખીરાને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pholourie.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

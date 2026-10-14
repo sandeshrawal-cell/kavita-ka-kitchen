@@ -1,0 +1,76 @@
+{
+  "sourceReviewId": "R0453",
+  "id": "tanghulu",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tanghulu",
+  "cuisine": "Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "small strawberries or seedless grapes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "white sugar",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash fruit and dry every piece completely; remove strawberry leaves.",
+    "Thread three or four pieces onto each of eight bamboo skewers.",
+    "Heat sugar and water in a narrow pan without stirring until the syrup reaches 150°C, hard-crack stage. Remove from heat immediately.",
+    "Quickly dip and rotate each fruit skewer in the syrup to coat thinly. Lay on oiled parchment for a few minutes until the clear shell hardens; serve promptly."
+  ],
+  "tips": [
+    "Fruit must be bone dry and syrup must reach hard-crack temperature for a crisp glassy coat."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तांगहुलू",
+      "ingredients": [
+        "छोटी स्ट्रॉबेरी या बिना बीज के अंगूर",
+        "सफेद चीनी",
+        "पानी"
+      ],
+      "steps": [
+        "फल धोकर हर टुकड़ा पूरी तरह सुखाएँ; स्ट्रॉबेरी की पत्तियाँ हटाएँ।",
+        "आठ बाँस सींक में हर एक पर तीन-चार फल पिरोएँ।",
+        "चीनी और पानी छोटी गहरी कड़ाही में बिना चलाए 150°C, कड़क चाशनी तक गरम करें। तुरंत आँच से हटाएँ।",
+        "हर फल सींक चाशनी में जल्दी डुबोकर घुमाएँ ताकि पतली परत चढ़े। तेल लगे बेकिंग कागज़ पर कुछ मिनट पारदर्शी खोल सख्त होने दें; जल्दी परोसें।"
+      ],
+      "tips": [
+        "फल पूरी तरह सूखे हों और कुरकुरी काँच जैसी परत के लिए चाशनी कड़क तापमान तक पहुँचे।"
+      ]
+    },
+    "gu": {
+      "name": "તાંગહુલુ",
+      "ingredients": [
+        "નાની સ્ટ્રોબેરી કે બી વગરની દ્રાક્ષ",
+        "સફેદ ખાંડ",
+        "પાણી"
+      ],
+      "steps": [
+        "ફળ ધોઈ દરેક ટુકડો સંપૂર્ણ સુકવો; સ્ટ્રોબેરીનાં પાન કાઢો.",
+        "આઠ વાંસની સળીમાં દરેક પર ત્રણ-ચાર ફળ પરોવો.",
+        "ખાંડ અને પાણી નાની ઊંડી કડાઈમાં હલાવ્યા વગર 150°C, કડક ચાસણી થાય ત્યાં સુધી ગરમ કરો. તરત તાપ પરથી ઉતારો.",
+        "દરેક ફળની સળી ચાસણીમાં ઝડપથી બોળી ફેરવો જેથી પાતળું પડ ચડે. તેલ લગાડેલા બેકિંગ કાગળ પર થોડી મિનિટ પારદર્શક પડ કઠણ થવા દો; તરત પીરસો."
+      ],
+      "tips": [
+        "ફળ સંપૂર્ણ સૂકાં હોવાં જોઈએ અને કરકરા કાચ જેવા પડ માટે ચાસણી કડક તાપમાન સુધી પહોંચવી જોઈએ."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tanghulu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

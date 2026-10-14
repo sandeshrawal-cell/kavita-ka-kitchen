@@ -1,0 +1,101 @@
+{
+  "sourceReviewId": "R0427",
+  "id": "kalari-kulcha",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kalari Kulcha",
+  "cuisine": "Jammu",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "Kalari cheese",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "plain kulcha",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "green chutney",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice Kalari into 4 equal thick rounds and pat dry. Heat a heavy griddle over medium heat; place cheese on it without added fat.",
+    "Cook 3–4 minutes on each side until a brown crust forms and the centre softens; lift gently so the crust stays intact.",
+    "Split kulchas and toast the cut sides in butter. Spread green chutney on one side and place a hot Kalari round inside each.",
+    "Sprinkle salt and pepper over the cheese, close the kulchas and press on the griddle for 1 minute. Serve while the cheese is stretchy."
+  ],
+  "tips": [
+    "Use actual Kalari or Kaladi cheese; its self-frying crust and stretch define this Jammu snack."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कलारी कुलचा",
+      "ingredients": [
+        "कलारी चीज़",
+        "सादा कुलचा",
+        "मक्खन",
+        "नमक",
+        "काली मिर्च",
+        "हरी चटनी"
+      ],
+      "steps": [
+        "कलारी को 4 बराबर मोटे गोल टुकड़ों में काटकर सुखाएँ। भारी तवा मध्यम गरम करें; चीज़ बिना अतिरिक्त तेल के रखें।",
+        "हर तरफ 3–4 मिनट भूरी पपड़ी बनने और बीच नरम होने तक सेंकें; पपड़ी सलामत रखने के लिए सावधानी से उठाएँ।",
+        "कुलचे चीरकर कटे भाग मक्खन में सेंकें। एक तरफ हरी चटनी लगाकर हर कुलचे में गरम कलारी रखें।",
+        "चीज़ पर नमक और काली मिर्च छिड़कें, कुलचे बंद करके तवे पर 1 मिनट दबाएँ। चीज़ खिंचती हो तभी परोसें।"
+      ],
+      "tips": [
+        "असली कलारी या कलाड़ी चीज़ लें; इसकी अपने तेल में सिकी पपड़ी और खिंचाव ही इस जम्मू नाश्ते की पहचान हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કલારી કુલચા",
+      "ingredients": [
+        "કલારી ચીઝ",
+        "સાદા કુલચા",
+        "માખણ",
+        "મીઠું",
+        "કાળી મરી",
+        "લીલી ચટણી"
+      ],
+      "steps": [
+        "કલારીને 4 સરખા જાડા ગોળ ટુકડામાં કાપી સૂકવો. ભારે તવાને મધ્યમ ગરમ કરી ચીઝ વધારાની ચરબી વિના મૂકો.",
+        "દરેક બાજુ 3–4 મિનિટ ભૂરી પાપડી બને અને વચ્ચે નરમ થાય ત્યાં સુધી શેકો; પાપડી સારી રહે તે માટે કાળજીથી ઉઠાવો.",
+        "કુલચા ચીરી કાપેલી બાજુ માખણમાં શેકો. એક બાજુ લીલી ચટણી લગાવી દરેક કુલચામાં ગરમ કલારી મૂકો.",
+        "ચીઝ પર મીઠું અને મરી છાંટો, કુલચા બંધ કરી તવા પર 1 મિનિટ દબાવો. ચીઝ ખેંચાય ત્યારે જ પીરસો."
+      ],
+      "tips": [
+        "અસલી કલારી કે કલાડી ચીઝ લો; પોતાની ચરબીમાં શેકાયેલી પાપડી અને ખેંચાણ આ જમ્મુ નાસ્તાની ઓળખ છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://gobindgheeandfood.com/blogs/recipes/kalari-kulcha",
+    "use": "Jammu Kalari cheese self-frying crust and kulcha pairing."
+  },
+  "photoDraft": "catalog/intake/photos/kalari-kulcha.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

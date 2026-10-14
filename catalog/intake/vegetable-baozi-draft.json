@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0452",
+  "id": "vegetable-baozi",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Vegetable Baozi",
+  "cuisine": "Chinese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 115,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 245,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "napa cabbage",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour, yeast, sugar and warm water into smooth dough; cover and rise about 60 minutes until doubled.",
+    "Soak shiitake in hot water 20 minutes, squeeze dry and chop.",
+    "Finely chop cabbage, salt it and squeeze dry. Stir-fry mushrooms and carrot in neutral oil for 3 minutes; cool, then mix with cabbage, spring onion, soy sauce and sesame oil.",
+    "Divide dough into 12, roll small circles with thinner edges, fill and pleat closed. Rest 15 minutes on parchment; steam over briskly simmering water for 15 minutes, then stand covered 3 minutes before opening."
+  ],
+  "tips": [
+    "A dry, cooled filling prevents soggy buns; leave space between buns as they expand in steam."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सब्ज़ी बाओज़ी",
+      "ingredients": [
+        "मैदा",
+        "इंस्टेंट यीस्ट",
+        "चीनी",
+        "गुनगुना पानी",
+        "सादा तेल",
+        "नापा पत्ता गोभी",
+        "सूखे शिटाके मशरूम",
+        "गाजर",
+        "हरा प्याज़",
+        "सोया सॉस",
+        "तिल का तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, चीनी और गुनगुना पानी चिकना गूँधें; ढककर लगभग 60 मिनट दोगुना होने दें।",
+        "शिटाके 20 मिनट गरम पानी में भिगोकर निचोड़ें और काटें।",
+        "पत्ता गोभी बारीक काटकर नमक लगाएँ और निचोड़ें। मशरूम और गाजर सादे तेल में 3 मिनट भूनें; ठंडे कर गोभी, हरे प्याज़, सोया सॉस और तिल तेल से मिलाएँ।",
+        "आटे के 12 हिस्से करें, किनारे पतले रखते गोल बेलें, भरें और चुन्नट देकर बंद करें। बेकिंग कागज़ पर 15 मिनट रखें; उबलते पानी की भाप में 15 मिनट पकाएँ, फिर ढक्कन खोलने से पहले 3 मिनट रहने दें।"
+      ],
+      "tips": [
+        "सूखी, ठंडी भरावन से बन गीले नहीं होते; भाप में फैलने के लिए बनों के बीच जगह रखें।"
+      ]
+    },
+    "gu": {
+      "name": "શાકભાજી બાઓઝી",
+      "ingredients": [
+        "મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ખાંડ",
+        "હૂંફાળું પાણી",
+        "સાદું તેલ",
+        "નાપા કોબી",
+        "સૂકા શીટાકે મશરૂમ",
+        "ગાજર",
+        "લીલી ડુંગળી",
+        "સોયા સોસ",
+        "તલનું તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, ખાંડ અને હૂંફાળું પાણી લીસું મસળો; ઢાંકી આશરે 60 મિનિટ બમણું થવા દો.",
+        "શીટાકે 20 મિનિટ ગરમ પાણીમાં પલાળી નિચોવો અને સમારો.",
+        "કોબી બારીક સમારી મીઠું લગાવી નિચોવો. મશરૂમ અને ગાજર સાદા તેલમાં 3 મિનિટ સાંતળો; ઠંડા કરી કોબી, લીલી ડુંગળી, સોયા સોસ અને તલના તેલ સાથે ભેળવો.",
+        "લોટના 12 ભાગ કરો, કિનારી પાતળી રાખી ગોળ વણો, ભરો અને ચૂંદડી કરી બંધ કરો. બેકિંગ કાગળ પર 15 મિનિટ રાખો; ઉકળતા પાણીની વરાળમાં 15 મિનિટ રાંધો, પછી ઢાંકણ ખોલતાં પહેલાં 3 મિનિટ રહેવા દો."
+      ],
+      "tips": [
+        "સૂકું, ઠંડું પૂરણ બનને ભીનાં થવા દેતું નથી; વરાળમાં ફૂલવા બન વચ્ચે જગ્યા રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-baozi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0486",
+  "id": "yachae-twigim",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Yachae Twigim",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "sweet potato, cut into thin sticks",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrot, cut into thin sticks",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "ice-cold water",
+      "qty": 240,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Dry the cut vegetables thoroughly. Toss them with 30 g plain flour so the batter clings.",
+    "Mix remaining flour, rice flour and salt with cold water just until combined. Fold in vegetables without overmixing.",
+    "Lift the vegetable clusters gently with chopsticks or a slotted spoon as they enter the oil so each fritter stays loose rather than compact.",
+    "Heat oil to 175°C. Drop small loose clusters into oil and fry 3–4 minutes, turning once, until crisp and pale golden. Drain on a rack."
+  ],
+  "tips": [
+    "Cold batter and dry vegetables help the twigim stay light and crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "याचे ट्विगिम",
+      "ingredients": [
+        "शकरकंद, पतली डंडियों में",
+        "गाजर, पतली डंडियों में",
+        "प्याज़, पतला कटा",
+        "मैदा",
+        "चावल का आटा",
+        "बर्फ़ जैसा ठंडा पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "कटी सब्ज़ियाँ अच्छी तरह सुखाएँ। 30 ग्राम मैदा लगाएँ ताकि घोल चिपके।",
+        "बचा मैदा, चावल आटा और नमक ठंडे पानी से बस मिलाएँ। सब्ज़ियाँ डालकर अधिक न चलाएँ।",
+        "सब्ज़ियों के गुच्छे तेल में जाते ही चॉपस्टिक या छेददार चम्मच से हल्के उठाएँ ताकि हर पकौड़ा ढीला रहे, दबा हुआ नहीं।",
+        "तेल 175°C तक गरम करें। छोटी ढीली गठरियाँ तेल में डालकर एक बार पलटते हुए 3–4 मिनट हल्की सुनहरी कुरकुरी तलें। जाली पर निथारें।"
+      ],
+      "tips": [
+        "ठंडा घोल और सूखी सब्ज़ियाँ ट्विगिम को हल्का कुरकुरा रखती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "યાચે ત્વિગિમ",
+      "ingredients": [
+        "શક્કરિયું, પાતળી સળીઓમાં",
+        "ગાજર, પાતળી સળીઓમાં",
+        "ડુંગળી, પાતળી સમારેલી",
+        "મેંદો",
+        "ચોખાનો લોટ",
+        "બરફ જેવું ઠંડું પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "કાપેલા શાક સારી રીતે સૂકવો. 30 ગ્રામ મેંદો લગાવો જેથી ખીરું ચોંટે.",
+        "બાકી મેંદો, ચોખાનો લોટ અને મીઠું ઠંડા પાણીથી માત્ર ભેળવો. શાક નાખી વધુ ન હલાવો.",
+        "શાકના ગૂંચળા તેલમાં જાય ત્યારે ચોપસ્ટિક કે ઝારાથી હળવે ઉપાડો જેથી દરેક ભજિયું ઢીલું રહે, દબાયેલું નહીં.",
+        "તેલ 175°C સુધી ગરમ કરો. નાના ઢીલા ગૂંચળા તેલમાં નાખી એક વાર ફેરવી 3–4 મિનિટ આછા સોનેરી કરકરા તળો. જાળી પર નિતારો."
+      ],
+      "tips": [
+        "ઠંડું ખીરું અને સૂકું શાક ત્વિગિમને હળવું કરકરું રાખે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/yachae-twigim.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

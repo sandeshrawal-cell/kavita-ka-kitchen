@@ -1,0 +1,149 @@
+{
+  "sourceReviewId": "R0404",
+  "id": "veg-momos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Veg Momos",
+  "cuisine": "Tibetan/Nepali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "20 minutes dough resting",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage, finely shredded",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "dried red chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour, water and 3 g salt into a firm smooth dough; cover 20 minutes. Mix cabbage, carrots, spring onions, ginger, half the garlic, soy sauce, sesame oil and 3 g more salt for filling.",
+    "Roll dough into 24 thin 9 cm rounds. Add a spoonful of filling to each, pleat the rim and pinch tightly shut.",
+    "Keep the shaped momos under a damp cloth while finishing the batch so the thin edges do not dry out.",
+    "Steam on an oiled tray over boiling water for 10–12 minutes until wrappers turn translucent. For chutney, simmer chillies and tomatoes 8 minutes, blend with remaining garlic, vinegar and remaining 2 g salt."
+  ],
+  "tips": [
+    "Squeeze wet cabbage lightly before filling so the wrappers do not split during steaming."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेज मोमोज़",
+      "ingredients": [
+        "मैदा",
+        "पानी",
+        "बारीक कटी पत्तागोभी",
+        "कद्दूकस गाजर",
+        "कटा हरा प्याज़",
+        "कद्दूकस अदरक",
+        "बारीक लहसुन",
+        "सोया सॉस",
+        "तिल का तेल",
+        "सूखी लाल मिर्च",
+        "टमाटर",
+        "सिरका",
+        "नमक"
+      ],
+      "steps": [
+        "मैदा, पानी और 3 ग्राम नमक का चिकना सख्त आटा गूँधकर 20 मिनट ढकें। भरावन के लिए पत्तागोभी, गाजर, हरा प्याज़, अदरक, आधा लहसुन, सोया सॉस, तिल का तेल और 3 ग्राम और नमक मिलाएँ।",
+        "आटे की 24 पतली 9 सेमी गोल पूरियाँ बेलें। हर एक में एक चम्मच भरावन रखकर किनारों में चुन्नट डालें और अच्छी तरह बंद करें।",
+        "बाकी मोमोज़ बनाते समय तैयार मोमोज़ नम कपड़े के नीचे रखें ताकि पतले किनारे सूखें नहीं।",
+        "तेल लगी थाली में उबलते पानी के ऊपर 10–12 मिनट भाप में पकाएँ, जब तक आवरण हल्का पारदर्शी हो। चटनी के लिए मिर्च और टमाटर 8 मिनट उबालें, फिर बाकी लहसुन, सिरका और बचे 2 ग्राम नमक संग पीसें।"
+      ],
+      "tips": [
+        "भरने से पहले पत्तागोभी का अतिरिक्त पानी हल्का निचोड़ें ताकि भाप में मोमोज़ फटें नहीं।"
+      ],
+      "passiveTime": "20 मिनट आटा आराम देना"
+    },
+    "gu": {
+      "name": "વેજ મોમોઝ",
+      "ingredients": [
+        "મેંદો",
+        "પાણી",
+        "ઝીણી સમારેલી કોબી",
+        "છીણેલાં ગાજર",
+        "સમારેલી લીલી ડુંગળી",
+        "છીણેલું આદુ",
+        "ઝીણું લસણ",
+        "સોયા સોસ",
+        "તલનું તેલ",
+        "સૂકાં લાલ મરચાં",
+        "ટામેટાં",
+        "સરકો",
+        "મીઠું"
+      ],
+      "steps": [
+        "મેંદો, પાણી અને 3 ગ્રામ મીઠાનો સુંવાળો કડક લોટ બાંધી 20 મિનિટ ઢાંકો. પૂરણ માટે કોબી, ગાજર, લીલી ડુંગળી, આદુ, અડધું લસણ, સોયા સોસ, તલનું તેલ અને વધુ 3 ગ્રામ મીઠું મિક્સ કરો.",
+        "લોટની 24 પાતળી 9 સેમી પૂરી વણો. દરેકમાં એક ચમચી પૂરણ મૂકી કિનારીમાં ચૂંદડી વાળી મજબૂત બંધ કરો.",
+        "બાકીના મોમોઝ બનાવતાં તૈયાર મોમોઝ ભીના કપડા નીચે રાખો જેથી પાતળી કિનારીઓ સુકાય નહીં.",
+        "તેલ લગાવેલી થાળીમાં ઉકળતા પાણી ઉપર 10–12 મિનિટ બાફો, પડ અર્ધપારદર્શક થાય ત્યાં સુધી. ચટણી માટે મરચાં અને ટામેટાં 8 મિનિટ ઉકાળી બાકી લસણ, સરકો અને બાકી 2 ગ્રામ મીઠા સાથે પીસો."
+      ],
+      "tips": [
+        "ભરતાં પહેલાં કોબીનું વધારાનું પાણી હળવેથી નીચોવો જેથી બાફતાં મોમોઝ ફાટે નહીં."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/veg-momos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,118 @@
+{
+  "sourceReviewId": "R0464",
+  "id": "tacos-de-hongos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tacos de Hongos",
+  "cuisine": "Mexican",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "mixed mushrooms",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "white onion",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "corn tortillas",
+      "qty": 360,
+      "unit": "g"
+    },
+    {
+      "name": "tomato salsa",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lime",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Clean and slice mushrooms; dice half the onion and finely chop the garlic. Reserve the other half of the onion for topping.",
+    "Heat oil in a broad hot pan. Cook mushrooms in two batches for 5–6 minutes each until their moisture evaporates and edges brown.",
+    "Return all mushrooms to the pan with diced onion, garlic and salt; cook 3 minutes until aromatic. Warm tortillas on a dry griddle.",
+    "Fill warm tortillas with mushrooms. Top with salsa, reserved onion and chopped coriander; serve with lime wedges."
+  ],
+  "tips": [
+    "A wide hot pan browns mushrooms instead of steaming them; this gives the taco filling depth."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम टाको",
+      "ingredients": [
+        "मिले-जुले मशरूम",
+        "सफेद प्याज़",
+        "लहसुन",
+        "सादा तेल",
+        "मक्के की टॉर्टिया",
+        "टमाटर साल्सा",
+        "हरा धनिया",
+        "नींबू",
+        "नमक"
+      ],
+      "steps": [
+        "मशरूम साफ कर काटें; आधा प्याज़ और लहसुन बारीक काटें। बाकी आधा प्याज़ ऊपर डालने के लिए रखें।",
+        "चौड़े गरम पैन में तेल गरम करें। मशरूम दो बार में हर बार 5–6 मिनट पानी सूखने और किनारे भूरे होने तक पकाएँ।",
+        "सारे मशरूम पैन में कटे प्याज़, लहसुन और नमक के साथ डालकर 3 मिनट खुशबू आने तक पकाएँ। टॉर्टिया सूखे तवे पर गरम करें।",
+        "गरम टॉर्टिया में मशरूम भरें। साल्सा, बचा प्याज़ और कटा धनिया डालें; नींबू के टुकड़ों के साथ परोसें।"
+      ],
+      "tips": [
+        "चौड़ा गरम पैन मशरूम को भाप में गलाने के बजाय भूरा सेंकता है; भरावन में गहरा स्वाद आता है।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ ટાકો",
+      "ingredients": [
+        "મિશ્ર મશરૂમ",
+        "સફેદ ડુંગળી",
+        "લસણ",
+        "સાદું તેલ",
+        "મકાઈની ટોર્ટિયા",
+        "ટમેટાની સાલસા",
+        "લીલા ધાણા",
+        "લીંબુ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મશરૂમ સાફ કરી કાપો; અડધી ડુંગળી અને લસણ બારીક સમારો. બાકી અડધી ડુંગળી ઉપર નાખવા રાખો.",
+        "પહોળા ગરમ પૅનમાં તેલ ગરમ કરો. મશરૂમ બે હપ્તામાં દરેક 5–6 મિનિટ પાણી સુકાય અને કિનારી ભૂરી થાય ત્યાં સુધી પકાવો.",
+        "બધા મશરૂમ પૅનમાં સમારેલી ડુંગળી, લસણ અને મીઠા સાથે નાખી 3 મિનિટ સુગંધ આવે ત્યાં સુધી પકાવો. ટોર્ટિયા સૂકા તવા પર ગરમ કરો.",
+        "ગરમ ટોર્ટિયામાં મશરૂમ ભરો. સાલસા, બાકી ડુંગળી અને સમારેલા ધાણા નાખો; લીંબુના ટુકડા સાથે પીરસો."
+      ],
+      "tips": [
+        "પહોળું ગરમ પૅન મશરૂમને વરાળમાં ગાળવાને બદલે ભૂરા શેકે છે; પૂરણમાં ઊંડો સ્વાદ આવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tacos-de-hongos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

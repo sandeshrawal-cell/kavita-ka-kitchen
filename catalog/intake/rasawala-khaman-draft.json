@@ -1,0 +1,157 @@
+{
+  "sourceReviewId": "R0412",
+  "id": "rasawala-khaman",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Rasawala Khaman",
+  "cuisine": "Surat",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "fruit salt, unflavoured",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-green chilli paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind pulp",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mustard seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fine sev",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Whisk 200 g gram flour with yogurt, 200 ml water, half the ginger-chilli paste, 10 g sugar and 5 g salt. Stir in fruit salt at the last moment, pour into an oiled tray and steam 15 minutes; cool slightly and cut into cubes.",
+    "Let the steamed khaman stand briefly after cutting, so the cubes firm up before hot ras is poured over them.",
+    "Heat oil, crackle mustard and curry leaves, then cook tomatoes with remaining ginger-chilli paste and turmeric until soft. Whisk remaining 40 g gram flour into 600 ml water and add gradually.",
+    "Simmer the thin ras 10 minutes, stirring until the flour tastes cooked. Add tamarind, remaining sugar and salt. Ladle hot ras over khaman cubes and finish with sev."
+  ],
+  "tips": [
+    "Pour ras over khaman only when serving so the steamed pieces stay fluffy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रसावाला खमण",
+      "ingredients": [
+        "बेसन",
+        "सादा दही",
+        "पानी",
+        "सादा फ्रूट सॉल्ट",
+        "कटे टमाटर",
+        "अदरक-हरी मिर्च पेस्ट",
+        "इमली का गूदा",
+        "चीनी",
+        "राई",
+        "कड़ी पत्ते",
+        "हल्दी",
+        "तेल",
+        "नमक",
+        "बारीक सेव"
+      ],
+      "steps": [
+        "200 ग्राम बेसन में दही, 200 मिली पानी, आधा अदरक-मिर्च पेस्ट, 10 ग्राम चीनी और 5 ग्राम नमक फेंटें। आखिर में फ्रूट सॉल्ट मिलाकर तेल लगी थाली में डालें और 15 मिनट भाप में पकाएँ; थोड़ा ठंडा कर टुकड़े काटें।",
+        "खमण काटने के बाद थोड़ी देर रखें ताकि गरम रस डालने से पहले टुकड़े संभल जाएँ।",
+        "तेल गरम कर राई और कड़ी पत्ते चटकाएँ, फिर टमाटर, बाकी अदरक-मिर्च पेस्ट और हल्दी नरम होने तक पकाएँ। बचे 40 ग्राम बेसन को 600 मिली पानी में फेंटकर धीरे-धीरे डालें।",
+        "पतले रस को 10 मिनट चलाते हुए उबालें ताकि बेसन पक जाए। इमली, बाकी चीनी और नमक डालें। खमण पर गरम रस डालकर सेव छिड़कें।"
+      ],
+      "tips": [
+        "खमण पर रस परोसते समय ही डालें ताकि भाप में पके टुकड़े फूले रहें।"
+      ]
+    },
+    "gu": {
+      "name": "રસાવાળા ખમણ",
+      "ingredients": [
+        "ચણાનો લોટ",
+        "સાદું દહીં",
+        "પાણી",
+        "સાદું ફ્રૂટ સોલ્ટ",
+        "સમારેલાં ટામેટાં",
+        "આદુ-લીલાં મરચાંની પેસ્ટ",
+        "આમલીનો માવો",
+        "ખાંડ",
+        "રાઈ",
+        "મીઠા લીમડાના પાન",
+        "હળદર",
+        "તેલ",
+        "મીઠું",
+        "ઝીણી સેવ"
+      ],
+      "steps": [
+        "200 ગ્રામ ચણાનો લોટ દહીં, 200 મિલી પાણી, અડધી આદુ-મરચાંની પેસ્ટ, 10 ગ્રામ ખાંડ અને 5 ગ્રામ મીઠા સાથે ફેંટો. છેલ્લે ફ્રૂટ સોલ્ટ ભેળવી તેલ લગાવેલી થાળીમાં રેડો અને 15 મિનિટ બાફો; થોડું ઠારી ટુકડા કરો.",
+        "ખમણ કાપ્યા પછી થોડી વાર રાખો જેથી ગરમ રસ રેડતાં પહેલાં ટુકડા મજબૂત થાય.",
+        "તેલ ગરમ કરી રાઈ અને મીઠા લીમડાના પાન તતડાવો, પછી ટામેટાં, બાકી આદુ-મરચાંની પેસ્ટ અને હળદર નરમ થાય ત્યાં સુધી રાંધો. બાકી 40 ગ્રામ ચણાનો લોટ 600 મિલી પાણીમાં ફેંટી ધીમે ધીમે નાખો.",
+        "પાતળા રસને 10 મિનિટ હલાવતા ઉકાળો જેથી ચણાનો લોટ પાકે. આમલી, બાકી ખાંડ અને મીઠું નાખો. ખમણ પર ગરમ રસ રેડી સેવ ભભરાવો."
+      ],
+      "tips": [
+        "ખમણ પર પીરસતી વખતે જ રસ રેડો જેથી બાફેલા ટુકડા ફૂલા રહે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://gujarati.indianexpress.com/lifestyle/gujarati-food-rasawala-khaman-recipe-rasawala-khaman-banava-ni-rit-rp-11058789",
+    "use": "Surti khaman with hot ras service; independently measured besan-ras version."
+  },
+  "photoDraft": "catalog/intake/photos/rasawala-khaman.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,130 @@
+{
+  "sourceReviewId": "R0472",
+  "id": "sahina",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Sahina",
+  "cuisine": "Trinidadian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 75,
+  "ingredients": [
+    {
+      "name": "large dasheen leaves, stems removed",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "yellow split pea flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, crushed",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli, minced",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil for frying",
+      "qty": 600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash and dry the dasheen leaves; trim thick central ribs so they lie flat. Mix split pea flour, plain flour, cumin, turmeric, garlic, chilli, salt and water into a spreadable paste.",
+    "Spread paste thinly on one leaf, stack another leaf on top and repeat to make two stacks of four leaves. Roll each stack tightly and tie with kitchen string.",
+    "Steam the rolls for 25 minutes until fully cooked. Cool until firm, remove string and cut into 2 cm slices.",
+    "Fry the slices in 175°C oil for 2–3 minutes per side until crisp and golden. Drain and serve hot with chutney."
+  ],
+  "tips": [
+    "Cook dasheen leaves thoroughly; undercooked leaves can irritate the mouth."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सहीना",
+      "ingredients": [
+        "बड़े अरबी के पत्ते, डंठल हटाए हुए",
+        "पीली मटर की दाल का आटा",
+        "मैदा",
+        "पिसा जीरा",
+        "हल्दी",
+        "लहसुन, कुचला",
+        "हरी मिर्च, बारीक कटी",
+        "नमक",
+        "पानी",
+        "तलने के लिए बिना तेज़ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "अरबी के पत्ते धोकर सुखाएँ; मोटी बीच की नस काटें ताकि समतल रहें। दोनों आटे, जीरा, हल्दी, लहसुन, मिर्च, नमक और पानी से फैलाने योग्य लेप बनाएँ।",
+        "एक पत्ते पर पतला लेप लगाएँ, दूसरा रखें और इस तरह चार-चार पत्तों की दो गड्डियाँ बनाएँ। हर गड्डी कसकर लपेटें और रसोई धागे से बाँधें।",
+        "रोल को 25 मिनट भाप में पूरी तरह पकाएँ। जमने तक ठंडा करें, धागा हटाएँ और 2 सेंटीमीटर टुकड़े काटें।",
+        "टुकड़ों को 175°C तेल में हर तरफ 2–3 मिनट कुरकुरा सुनहरा तलें। निथारकर चटनी के साथ गरम दें।"
+      ],
+      "tips": [
+        "अरबी के पत्ते पूरी तरह पकाएँ; अधपके पत्ते मुँह में जलन कर सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "સહીના",
+      "ingredients": [
+        "મોટાં અરબીનાં પાન, ડાંડી દૂર કરેલી",
+        "પીળી વટાણાની દાળનો લોટ",
+        "મેંદો",
+        "જીરું પાઉડર",
+        "હળદર",
+        "લસણ, વાટેલું",
+        "લીલું મરચું, બારીક સમારેલું",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "અરબીનાં પાન ધોઈ સૂકવો; મધ્યની જાડી નસ કાપો જેથી સપાટ રહે. બંને લોટ, જીરું, હળદર, લસણ, મરચું, મીઠું અને પાણીથી લગાડી શકાય તેવી પેસ્ટ બનાવો.",
+        "એક પાન પર પાતળી પેસ્ટ લગાવો, બીજું પાન મૂકો અને એમ ચાર-ચાર પાનના બે થર બનાવો. દરેક થર ચુસ્ત વાળી રસોઈના દોરાથી બાંધો.",
+        "રોલને 25 મિનિટ વરાળમાં સંપૂર્ણ ચડાવો. મજબૂત થાય ત્યાં સુધી ઠંડા કરી દોરો કાઢો અને 2 સેમી કટકા કરો.",
+        "કટકાને 175°C તેલમાં દરેક બાજુ 2–3 મિનિટ કરકરા સોનેરી તળો. નિતારી ચટણી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "અરબીનાં પાન સંપૂર્ણ ચડાવો; અધકચરાં પાન મોઢામાં ખંજવાળ કરી શકે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.foodienationtt.com/single-post/2019/10/18/how-to-make-saheena",
+    "use": "Dish identity and traditional method; quantities and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/sahina.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

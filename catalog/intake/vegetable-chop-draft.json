@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R0414",
+  "id": "vegetable-chop",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Vegetable Chop",
+  "cuisine": "Bengali",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "beetroot, grated",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts, chopped",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "roasted cumin powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "plain breadcrumbs, eggless",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cook beetroot, carrots and ginger in a dry pan for 8–10 minutes until the moisture evaporates. Mash with potatoes, peanuts, cumin, garam masala, amchur and salt; cool.",
+    "Shape into 12 pointed oval chops. Whisk flour with water into a thin slurry, dip each chop and roll in breadcrumbs, pressing to adhere.",
+    "Press breadcrumbs firmly around the pointed ends and let the coated chops stand briefly so the crust adheres.",
+    "Fry at 175°C for 3–4 minutes until the crumb is crisp and brown. Drain and serve hot with mustard or kasundi."
+  ],
+  "tips": [
+    "Dry the beetroot well before shaping; a wet mixture makes the crumb coating slip."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल चॉप",
+      "ingredients": [
+        "कद्दूकस चुकंदर",
+        "उबले आलू",
+        "कद्दूकस गाजर",
+        "कटे भुने मूँगफली दाने",
+        "कद्दूकस अदरक",
+        "भुना जीरा पाउडर",
+        "गरम मसाला",
+        "अमचूर",
+        "मैदा",
+        "पानी",
+        "बिना अंडे वाले सादे ब्रेडक्रम्ब",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "चुकंदर, गाजर और अदरक को सूखे पैन में 8–10 मिनट नमी सूखने तक पकाएँ। आलू, मूँगफली, जीरा, गरम मसाला, अमचूर और नमक संग मसलकर ठंडा करें।",
+        "12 नुकीली अंडाकार चॉप बनाएँ। मैदा और पानी का पतला घोल फेंटें, हर चॉप डुबोकर ब्रेडक्रम्ब में दबाते हुए लपेटें।",
+        "नुकीले सिरों पर ब्रेडक्रम्ब अच्छी तरह दबाएँ और लेप लगी चॉप थोड़ी देर रखें ताकि परत चिपके।",
+        "175°C पर 3–4 मिनट ब्रेडक्रम्ब कुरकुरे भूरे होने तक तलें। निथारकर सरसों की कसुंदी के साथ गरम परोसें।"
+      ],
+      "tips": [
+        "आकार देने से पहले चुकंदर अच्छी तरह सुखाएँ; गीले मिश्रण से ब्रेडक्रम्ब उतर जाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ ચોપ",
+      "ingredients": [
+        "છીણેલું બીટ",
+        "બાફેલા બટાકા",
+        "છીણેલાં ગાજર",
+        "સમારેલી શેકેલી મગફળી",
+        "છીણેલું આદુ",
+        "શેકેલા જીરાનો ભૂકો",
+        "ગરમ મસાલો",
+        "આમચૂર",
+        "મેંદો",
+        "પાણી",
+        "ઇંડા વિનાના સાદા બ્રેડક્રમ્બ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "બીટ, ગાજર અને આદુને સૂકા પેનમાં 8–10 મિનિટ ભેજ સુકાય ત્યાં સુધી રાંધો. બટાકા, મગફળી, જીરું, ગરમ મસાલો, આમચૂર અને મીઠા સાથે મસળી ઠંડું કરો.",
+        "12 અણીવાળા અંડાકાર ચોપ બનાવો. મેંદો અને પાણીનું પાતળું ખીરું ફેંટો, દરેક ચોપ ડુબાડી બ્રેડક્રમ્બમાં દબાવી લપેટો.",
+        "અણીવાળા છેડા પર બ્રેડક્રમ્બ સારી રીતે દબાવો અને પડ ચડેલા ચોપ થોડી વાર રાખો જેથી પડ ચોંટે.",
+        "175°C પર 3–4 મિનિટ બ્રેડક્રમ્બ કરકરા ભૂરા થાય ત્યાં સુધી તળો. નિતારી રાઈની કાસુંદી સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "આકાર આપતાં પહેલાં બીટ સારી રીતે સૂકવો; ભીના મિશ્રણથી બ્રેડક્રમ્બ ઊતરી જાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-chop.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0455",
+  "id": "pisang-goreng",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pisang Goreng",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "ingredients": [
+    {
+      "name": "firm ripe bananas",
+      "qty": 720,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Peel bananas and cut each lengthwise into two or three strips, keeping a little base attached if fanning them. Pat the pieces completely dry.",
+    "Whisk rice flour, plain flour, sugar, baking powder and salt with cold water into a thick batter that coats the banana without running off.",
+    "Heat oil to 175°C in a deep pan; a small drop of batter should rise steadily without scorching.",
+    "Dip bananas in batter and fry in small batches for 3–4 minutes until golden and crisp. Drain on a rack and serve hot."
+  ],
+  "tips": [
+    "Rice flour keeps the coating crisp; very soft bananas can break while dipping."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिसांग गोरेंग",
+      "ingredients": [
+        "पके पर सख्त केले",
+        "चावल का आटा",
+        "मैदा",
+        "चीनी",
+        "बेकिंग पाउडर",
+        "नमक",
+        "ठंडा पानी",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "केले छीलकर हर एक को लंबाई में दो या तीन पट्टियों में काटें; पंखा बनाना हो तो एक सिरा जुड़ा रखें। टुकड़ों को पूरी तरह सुखाएँ।",
+        "चावल का आटा, मैदा, चीनी, बेकिंग पाउडर और नमक ठंडे पानी से इतना गाढ़ा घोल बनाएँ कि केले पर टिके और बह न जाए।",
+        "गहरे पैन में तेल 175°C गरम करें; घोल की छोटी बूँद बिना जले धीरे ऊपर आनी चाहिए।",
+        "केले घोल में डुबोकर थोड़े-थोड़े 3–4 मिनट सुनहरे कुरकुरे तलें। जाली पर छानकर गरम परोसें।"
+      ],
+      "tips": [
+        "चावल का आटा परत कुरकुरी रखता है; बहुत नरम केले घोल में डुबाते समय टूट सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "પિસાંગ ગોરેંગ",
+      "ingredients": [
+        "પાકેલા પણ મજબૂત કેળા",
+        "ચોખાનો લોટ",
+        "મેંદો",
+        "ખાંડ",
+        "બેકિંગ પાઉડર",
+        "મીઠું",
+        "ઠંડું પાણી",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "કેળા છોલી દરેકને લંબાઈમાં બે કે ત્રણ પટ્ટીમાં કાપો; પંખા જેવું કરવું હોય તો એક છેડો જોડેલો રાખો. ટુકડાં સંપૂર્ણ સુકવો.",
+        "ચોખાનો લોટ, મેંદો, ખાંડ, બેકિંગ પાઉડર અને મીઠું ઠંડા પાણીથી એટલું જાડું ખીરું બનાવો કે કેળા પર ટકે અને વહી ન જાય.",
+        "ઊંડા પૅનમાં તેલ 175°C ગરમ કરો; ખીરાનું નાનું ટીપું બળ્યા વગર ધીમે ઉપર આવવું જોઈએ.",
+        "કેળા ખીરામાં બોળી થોડા થોડા 3–4 મિનિટ સોનેરી કરકરા તળો. જાળી પર નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ચોખાનો લોટ પડ કરકરું રાખે છે; બહુ નરમ કેળા ખીરામાં બોળતાં તૂટી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pisang-goreng.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,112 @@
+{
+  "sourceReviewId": "R0499",
+  "id": "llapingachos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Llapingachos",
+  "cuisine": "Ecuadorian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "potatoes, peeled",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cheese, grated",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "achiote oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "smooth peanut butter",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil potatoes until tender, drain very well and mash smooth. Mix with 5 g salt and half the achiote oil; cool until handleable.",
+    "Divide mash into eight portions. Flatten, add cheese in the centre, seal and shape into thick patties; chill 15 minutes.",
+    "Soften onion in a little achiote oil for 5 minutes. Whisk in peanut butter, milk, cumin and remaining salt; simmer 5 minutes into a pourable sauce.",
+    "Pan-fry patties in remaining oil 4–5 minutes per side until brown and crisp. Serve with warm peanut sauce."
+  ],
+  "tips": [
+    "Chill the shaped patties before frying so the cheese stays enclosed."
+  ],
+  "translations": {
+    "hi": {
+      "name": "यापिंगाचोस",
+      "ingredients": [
+        "आलू, छिले",
+        "शाकाहारी चीज़, कसा",
+        "अचिओते तेल",
+        "प्याज़, बारीक कटा",
+        "मुलायम मूँगफली मक्खन",
+        "दूध",
+        "पिसा जीरा",
+        "नमक"
+      ],
+      "steps": [
+        "आलू नरम उबालकर अच्छी तरह निथारें और चिकने मसलें। 5 ग्राम नमक और आधा अचिओते तेल मिलाकर हाथ लगाने लायक ठंडा करें।",
+        "मसले आलू के आठ हिस्से करें। चपटा कर बीच में चीज़ रखें, बंद करके मोटी टिकियाँ बनाएँ; 15 मिनट ठंडा करें।",
+        "थोड़े अचिओते तेल में प्याज़ 5 मिनट नरम करें। मूँगफली मक्खन, दूध, जीरा और बचा नमक फेंटें; 5 मिनट उबालकर बहने वाला सॉस बनाएँ।",
+        "बचे तेल में टिकियाँ हर तरफ 4–5 मिनट भूरी कुरकुरी तलें। गरम मूँगफली सॉस के साथ परोसें।"
+      ],
+      "tips": [
+        "तलने से पहले बनी टिकियाँ ठंडी करें ताकि चीज़ भीतर बंद रहे।"
+      ]
+    },
+    "gu": {
+      "name": "યાપિંગાચોસ",
+      "ingredients": [
+        "બટાકા, છોલેલા",
+        "શાકાહારી ચીઝ, છીણેલું",
+        "અચિયોટે તેલ",
+        "ડુંગળી, બારીક સમારેલી",
+        "સુંવાળું મગફળીનું માખણ",
+        "દૂધ",
+        "જીરું પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા નરમ ઉકાળી સારી રીતે નિતારી સુંવાળા મસળો. 5 ગ્રામ મીઠું અને અડધું અચિયોટે તેલ ભેળવી હાથથી પકડી શકાય એટલા ઠંડા કરો.",
+        "મસળેલા બટાકાના આઠ ભાગ કરો. ચપટા કરી મધ્યમાં ચીઝ મૂકી બંધ કરી જાડી ટિક્કી બનાવો; 15 મિનિટ ઠંડી કરો.",
+        "થોડા અચિયોટે તેલમાં ડુંગળી 5 મિનિટ નરમ કરો. મગફળીનું માખણ, દૂધ, જીરું અને બાકી મીઠું ફેંટો; 5 મિનિટ ઉકાળી રેડી શકાય એવો સોસ બનાવો.",
+        "બાકી તેલમાં ટિક્કી દરેક બાજુ 4–5 મિનિટ બદામી કરકરી તળો. ગરમ મગફળીના સોસ સાથે પીરસો."
+      ],
+      "tips": [
+        "તળતા પહેલાં બનાવેલી ટિક્કી ઠંડી કરો જેથી ચીઝ અંદર બંધ રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/llapingachos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

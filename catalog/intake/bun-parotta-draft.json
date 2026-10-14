@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R0424",
+  "id": "bun-parotta",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Bun Parotta",
+  "cuisine": "Madurai",
+  "categories": [
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 95,
+  "passiveTime": "2 hours dough resting",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 13,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 75,
+      "unit": "ml"
+    },
+    {
+      "name": "mixed vegetables, chopped",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "onion, chopped",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "tomato, chopped",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "water for salna",
+      "qty": 400,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix flour, milk, water, sugar, 8 g salt and 20 ml oil. Knead 10 minutes until supple and stretchy; rub with another 15 ml oil, cover and rest 2 hours.",
+    "Divide into 8 oiled balls. Stretch each on an oiled counter into a very thin sheet, brushing with a little of the remaining oil.",
+    "Pleat each sheet loosely, coil into a high round bun shape and rest 10 minutes. Press only lightly so the coil stays thick rather than becoming a flat parotta.",
+    "For salna, grind coconut, fennel and chillies with a little water. Cook onion and tomato in a spoonful of hot oil, add coriander powder and turmeric, then vegetables, coconut paste, remaining salt and 400 ml water. Simmer until vegetables are tender and the gravy is pourable.",
+    "Cook on a medium-hot griddle with the remaining oil for 4–5 minutes per side, turning until browned outside and cooked through. Gently clap the hot parottas to open the layers and serve with warm vegetable salna."
+  ],
+  "tips": [
+    "Keep the final coil tall; flattening it defeats the soft bun-like centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बन परोट्टा",
+      "ingredients": [
+        "मैदा",
+        "दूध",
+        "पानी",
+        "चीनी",
+        "नमक",
+        "बिना गंध वाला तेल",
+        "कटी मिली-जुली सब्ज़ियाँ",
+        "कटा प्याज़",
+        "कटा टमाटर",
+        "ताज़ा कद्दूकस नारियल",
+        "सौंफ",
+        "धनिया पाउडर",
+        "हल्दी",
+        "हरी मिर्च",
+        "सालना के लिए पानी"
+      ],
+      "steps": [
+        "मैदा, दूध, पानी, चीनी, 8 ग्राम नमक और 20 मिली तेल मिलाएँ। 10 मिनट लचीला आटा गूँधें; 15 मिली और तेल लगाकर ढकें और 2 घंटे रखें।",
+        "तेल लगे पाटले पर आटे के 8 तेल लगे गोले बनाएँ। हर गोले को खींचकर बहुत पतली चादर बनाएँ और बाकी तेल में से थोड़ा लगाएँ।",
+        "हर चादर को ढीली तहों में मोड़कर ऊँचे गोल बन की तरह लपेटें और 10 मिनट रखें। हल्का ही दबाएँ ताकि मोटापन बना रहे।",
+        "सालना के लिए नारियल, सौंफ और मिर्च थोड़ा पानी डालकर पीसें। थोड़े गरम तेल में प्याज़ और टमाटर पकाएँ, फिर धनिया पाउडर, हल्दी, सब्ज़ियाँ, नारियल पेस्ट, बाकी नमक और 400 मिली पानी डालें। सब्ज़ियाँ नरम और रस बहने योग्य होने तक पकाएँ।",
+        "मध्यम गरम तवे पर बचे तेल से हर तरफ 4–5 मिनट बाहर से भूरा और भीतर तक पका होने तक सेंकें। गरम परोट्टों को हल्का थपथपाकर परतें खोलें और गरम सालना के साथ दें।"
+      ],
+      "tips": [
+        "अंतिम गोला ऊँचा रखें; चपटा करने पर बन जैसा मुलायम बीच नहीं बनता।"
+      ],
+      "passiveTime": "2 घंटे आटे को आराम देना"
+    },
+    "gu": {
+      "name": "બન પરોટ્ટા",
+      "ingredients": [
+        "મેંદો",
+        "દૂધ",
+        "પાણી",
+        "ખાંડ",
+        "મીઠું",
+        "ગંધ વિનાનું તેલ",
+        "સમારેલું મિશ્ર શાક",
+        "સમારેલી ડુંગળી",
+        "સમારેલું ટામેટું",
+        "તાજું છીણેલું નાળિયેર",
+        "વરિયાળી",
+        "ધાણા પાઉડર",
+        "હળદર",
+        "લીલાં મરચાં",
+        "સાલના માટે પાણી"
+      ],
+      "steps": [
+        "મેંદો, દૂધ, પાણી, ખાંડ, 8 ગ્રામ મીઠું અને 20 મિલી તેલ ભેળવો. 10 મિનિટ લવચીક લોટ બાંધો; વધુ 15 મિલી તેલ લગાવી ઢાંકી 2 કલાક રાખો.",
+        "8 તેલ લગાવેલા ગોળા કરો. દરેકને તેલવાળા પાટલા પર ખૂબ પાતળી ચાદર જેવી ખેંચો અને બાકી થોડું તેલ લગાવો.",
+        "દરેક ચાદરને ઢીલા પડમાં વાળી ઊંચા ગોળ બન જેવા વીંટો અને 10 મિનિટ રાખો. હળવું જ દબાવો જેથી જાડાઈ જળવાય.",
+        "સાલના માટે નાળિયેર, વરિયાળી અને મરચાં થોડા પાણી સાથે પીસો. થોડા ગરમ તેલમાં ડુંગળી અને ટામેટું રાંધો, પછી ધાણા પાઉડર, હળદર, શાક, નાળિયેરની પેસ્ટ, બાકી મીઠું અને 400 મિલી પાણી નાખો. શાક નરમ અને રસ વહેતો થાય ત્યાં સુધી રાંધો.",
+        "મધ્યમ ગરમ તવા પર બાકી તેલથી દરેક બાજુ 4–5 મિનિટ બહારથી ભૂરાં અને અંદર સુધી પાકે ત્યાં સુધી શેકો. ગરમ પરોટ્ટા હળવા થપથપાવી પડ ખોલો અને ગરમ સાલના સાથે આપો."
+      ],
+      "tips": [
+        "છેલ્લો ગોળો ઊંચો રાખો; ચપટો કરવાથી બન જેવો નરમ મધ્ય ભાગ નહીં બને."
+      ],
+      "passiveTime": "2 કલાક લોટને આરામ આપવો"
+    }
+  },
+  "reference": {
+    "url": "https://www.sharmiskitchen.com/2020/07/bun-parotta-recipe-madurai-bun-parotta-eggless-bun-parotta/",
+    "use": "Eggless bun-shaped layering method; independently measured vegetable salna."
+  },
+  "photoDraft": "catalog/intake/photos/bun-parotta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

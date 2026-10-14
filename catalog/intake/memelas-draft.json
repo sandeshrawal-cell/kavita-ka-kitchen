@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0466",
+  "id": "memelas",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Memelas",
+  "cuisine": "Mexican (Oaxaca)",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "masa harina",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "cooked black beans",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian quesillo or mozzarella cheese",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato salsa",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "white onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mix masa harina, warm water and salt into moist pliable dough; cover 20 minutes. Mash warm beans to a spreadable paste and shred the cheese.",
+    "Divide dough into eight. Pat each into a thick oval about 12 cm long. Cook on a hot dry griddle for 2 minutes per side until set but still pliable.",
+    "While warm, pinch a raised rim around each oval and three shallow ridges down its centre. Brush with a little oil and return to griddle for 2–3 minutes until the base lightly crisps.",
+    "Spread beans over each memela, add cheese, salsa and finely diced onion. Warm briefly to soften cheese and serve two per person."
+  ],
+  "tips": [
+    "Pinch the rim while the masa is warm; once cool it cracks instead of holding the classic oval edge."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मेमेलास",
+      "ingredients": [
+        "निक्स्टामल मक्के का आटा",
+        "गुनगुना पानी",
+        "नमक",
+        "पके काले राजमा",
+        "शाकाहारी केसियो या मोज़रेला चीज़",
+        "टमाटर साल्सा",
+        "सफेद प्याज़",
+        "सादा तेल"
+      ],
+      "steps": [
+        "मक्के का आटा, गुनगुना पानी और नमक मिलाकर नम लचीला आटा बनाएँ; 20 मिनट ढकें। गरम काले बीन्स को फैलाने योग्य मसलें और चीज़ के रेशे करें।",
+        "આटे के आठ हिस्से करें। हर हिस्सा थपथपाकर लगभग 12 सेमी लंबा मोटा अंडाकार बनाएँ। गरम सूखे तवे पर हर ओर 2 मिनट जमने तक पर लचीला रहते सेंकें।",
+        "गरम रहते हर अंडाकार का उठा किनारा और बीच में तीन हल्की धारियाँ उँगलियों से बनाएँ। थोड़ा तेल लगाकर तवे पर 2–3 मिनट तली हल्की कुरकुरी होने तक लौटाएँ।",
+        "हर मेमेला पर बीन्स फैलाएँ, चीज़, साल्सा और बारीक प्याज़ डालें। चीज़ नरम करने को थोड़ा गरम करें और हर व्यक्ति को दो परोसें।"
+      ],
+      "tips": [
+        "मासा गरम रहते किनारा उठाएँ; ठंडा होने पर खास अंडाकार किनारा बनने के बजाय फटता है।"
+      ]
+    },
+    "gu": {
+      "name": "મેમેલાસ",
+      "ingredients": [
+        "નિક્સ્ટામલ મકાઈનો લોટ",
+        "હૂંફાળું પાણી",
+        "મીઠું",
+        "રાંધેલા કાળા બીન્સ",
+        "શાકાહારી કેસિયો કે મોઝરેલા ચીઝ",
+        "ટમેટાની સાલસા",
+        "સફેદ ડુંગળી",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "મકાઈનો લોટ, હૂંફાળું પાણી અને મીઠું ભેળવી ભીનો લચીલો લોટ બનાવો; 20 મિનિટ ઢાંકો. ગરમ કાળા બીન્સને પાથરી શકાય તેમ મસળો અને ચીઝના તાંતણા કરો.",
+        "લોટના આઠ ભાગ કરો. દરેકને થપથપાવી આશરે 12 સેમી લાંબો જાડો અંડાકાર બનાવો. ગરમ સૂકા તવા પર દરેક બાજુ 2 મિનિટ જામે પણ લચીલો રહે ત્યાં સુધી શેકો.",
+        "ગરમ હોય ત્યારે દરેક અંડાકારની ઊંચી કિનારી અને મધ્યમાં ત્રણ હળવી રેખા આંગળીઓથી બનાવો. થોડું તેલ લગાવી તવા પર 2–3 મિનિટ તળિયું હળવું કરકરું થાય ત્યાં સુધી પાછું મૂકો.",
+        "દરેક મેમેલા પર બીન્સ પાથરો, ચીઝ, સાલસા અને બારીક ડુંગળી નાખો. ચીઝ નરમ કરવા થોડું ગરમ કરી દરેકને બે પીરસો."
+      ],
+      "tips": [
+        "માસા ગરમ હોય ત્યારે કિનારી ઊંચી કરો; ઠંડું થાય તો ખાસ અંડાકાર કિનારી બનવાને બદલે ફાટે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/memelas.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R0430",
+  "id": "hing-kochuri",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Hing Kochuri",
+  "cuisine": "Kolkata",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "passiveTime": "4 hours urad dal soaking and 20 minutes dough resting",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "split urad dal",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak urad dal 4 hours, drain and grind to a coarse paste. Rub 25 ml oil and 5 g salt into flour, add 170 ml water, knead firm dough and rest covered 20 minutes.",
+    "Heat remaining oil, toast fennel and half the asafoetida, then cook urad paste with ginger, chilli powder and 3 g salt until dry and crumbly; cool.",
+    "Divide dough into 8 balls, fill with urad mixture, seal and gently roll into small rounds. Fry slowly at 160°C for 7–8 minutes until puffed and golden.",
+    "For aloo torkari, crackle cumin and remaining asafoetida in a spoonful of frying oil. Add turmeric, potatoes, remaining salt and 250 ml water; simmer 10 minutes, crushing some potato. Serve with hot kochuri."
+  ],
+  "tips": [
+    "Cook the urad filling dry before stuffing so the thin kochuri crust can puff."
+  ],
+  "translations": {
+    "hi": {
+      "name": "हींग कचौरी",
+      "ingredients": [
+        "मैदा",
+        "धुली उड़द दाल",
+        "उबले आलू",
+        "हींग",
+        "सौंफ",
+        "कद्दूकस अदरक",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "तेल",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "उड़द दाल 4 घंटे भिगोकर निथारें और दरदरी पीसें। मैदा में 25 मिली तेल और 5 ग्राम नमक रगड़ें, 170 मिली पानी से सख्त आटा गूँधकर 20 मिनट ढकें।",
+        "बचा तेल गरम कर सौंफ और आधी हींग भूनें। उड़द का पेस्ट, अदरक, मिर्च पाउडर और 3 ग्राम नमक डालकर सूखा भुरभुरा होने तक पकाएँ; ठंडा करें।",
+        "आटे के 8 गोले करें, उड़द भरकर बंद करें और धीरे छोटी गोल कचौरियाँ बेलें। 160°C पर 7–8 मिनट फूली सुनहरी होने तक धीमे तलें।",
+        "आलू तरकारी के लिए थोड़े गरम तेल में जीरा और बाकी हींग चटकाएँ। हल्दी, आलू, बाकी नमक और 250 मिली पानी डालकर 10 मिनट पकाएँ, कुछ आलू मसलें। गरम कचौरी के साथ दें।"
+      ],
+      "tips": [
+        "भरने से पहले उड़द का भरावन सूखा पकाएँ ताकि पतली कचौरी फूल सके।"
+      ],
+      "passiveTime": "4 घंटे उड़द दाल भिगोना और 20 मिनट आटा रखना"
+    },
+    "gu": {
+      "name": "હિંગ કચોરી",
+      "ingredients": [
+        "મેંદો",
+        "છોલેલી અડદ દાળ",
+        "બાફેલા બટાકા",
+        "હિંગ",
+        "વરિયાળી",
+        "છીણેલું આદુ",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "તેલ",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "અડદ દાળ 4 કલાક પલાળી નિતારી દરદરી પીસો. મેંદામાં 25 મિલી તેલ અને 5 ગ્રામ મીઠું ઘસો, 170 મિલી પાણીથી કડક લોટ બાંધી 20 મિનિટ ઢાંકો.",
+        "બાકી તેલ ગરમ કરી વરિયાળી અને અડધી હિંગ શેકો, પછી અડદની પેસ્ટ આદુ, મરચું અને 3 ગ્રામ મીઠા સાથે સૂકી ભુરભુરી થાય ત્યાં સુધી રાંધો; ઠંડી કરો.",
+        "લોટના 8 ગોળા કરી અડદ ભરી બંધ કરો અને હળવેથી નાની ગોળ કચોરી વણો. 160°C પર 7–8 મિનિટ ફૂલી સોનેરી થાય ત્યાં સુધી ધીમે તળો.",
+        "બટાકાની તરકારી માટે થોડા ગરમ તેલમાં જીરું અને બાકી હિંગ તતડાવો. હળદર, બટાકા, બાકી મીઠું અને 250 મિલી પાણી નાખી 10 મિનિટ રાંધો, થોડા બટાકા મસળો. ગરમ કચોરી સાથે આપો."
+      ],
+      "tips": [
+        "ભરતાં પહેલાં અડદનું પૂરણ સૂકું રાંધો જેથી પાતળી કચોરી ફૂલી શકે."
+      ],
+      "passiveTime": "4 કલાક અડદ દાળ પલાળવી અને 20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "reference": {
+    "url": "https://cookpad.com/pk/recipes/15972775-kolkata-style-hinger-kochuri-or-hing-kachoris-with-hing-potato",
+    "use": "Urad and asafoetida filling served with potato curry."
+  },
+  "photoDraft": "catalog/intake/photos/hing-kochuri.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

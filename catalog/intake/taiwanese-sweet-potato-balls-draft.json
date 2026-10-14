@@ -1,0 +1,83 @@
+{
+  "sourceReviewId": "R0454",
+  "id": "taiwanese-sweet-potato-balls",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Taiwanese Sweet Potato Balls",
+  "cuisine": "Taiwanese",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "orange sweet potatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "tapioca starch",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Steam peeled sweet potato chunks until tender, about 15 minutes.",
+    "Mash smooth while hot and mix in sugar; cool until just warm.",
+    "Knead in tapioca starch to a soft dough that holds together. Roll into 2 cm balls; if sticky, dust hands with a little of the measured starch.",
+    "Fry in batches at 150–160°C. Once balls float, press them gently under the oil several times with a slotted spoon; fry 5–7 minutes total until hollow, puffed and golden. Drain."
+  ],
+  "tips": [
+    "The repeated gentle pressing is what helps these tapioca balls puff into a chewy hollow centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ताइवानी शकरकंद गोलियाँ",
+      "ingredients": [
+        "नारंगी शकरकंद",
+        "टैपिओका स्टार्च",
+        "चीनी",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "छिले शकरकंद के टुकड़े लगभग 15 मिनट नरम होने तक भाप में पकाएँ।",
+        "गरम रहते चिकना मसलें और चीनी मिलाएँ; हल्का गरम होने दें।",
+        "टैपिओका स्टार्च मिलाकर नरम जुड़ा हुआ आटा गूँधें। 2 सेमी गोलियाँ बनाएँ; चिपके तो नापे हुए स्टार्च से हाथ झाड़ें।",
+        "150–160°C पर थोड़े-थोड़े तलें। गोलियाँ तैरने लगें तो झारे से कई बार धीरे तेल में दबाएँ; कुल 5–7 मिनट खोखली, फूली सुनहरी होने तक तलें। छानें।"
+      ],
+      "tips": [
+        "बार-बार हल्का दबाने से ही टैपिओका गोलियाँ फूलकर भीतर से चबाने योग्य खोखली बनती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "તાઇવાની શક્કરિયાના ગોળા",
+      "ingredients": [
+        "નારંગી શક્કરિયા",
+        "ટેપિયોકા સ્ટાર્ચ",
+        "ખાંડ",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "છોલેલા શક્કરિયાના ટુકડા આશરે 15 મિનિટ નરમ થાય ત્યાં સુધી વરાળમાં બાફો.",
+        "ગરમ હોય ત્યારે લીસા મસળી ખાંડ ભેળવો; થોડું ઠંડું થવા દો.",
+        "ટેપિયોકા સ્ટાર્ચ ભેળવી નરમ બંધાતો લોટ મસળો. 2 સેમી ગોળા બનાવો; ચોંટે તો માપેલા સ્ટાર્ચથી હાથ ધૂળાવો.",
+        "150–160°C પર થોડા થોડા તળો. ગોળા તરવા લાગે ત્યારે ઝારાથી વારંવાર હળવે તેલમાં દબાવો; કુલ 5–7 મિનિટ પોલા, ફૂલેલા સોનેરી થાય ત્યાં સુધી તળો. નીતારો."
+      ],
+      "tips": [
+        "વારંવાર હળવું દબાવવાથી જ ટેપિયોકા ગોળા ફૂલી અંદરથી ચાવાય એવા પોલા બને છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/taiwanese-sweet-potato-balls.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

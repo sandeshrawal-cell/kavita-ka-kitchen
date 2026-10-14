@@ -1,0 +1,163 @@
+{
+  "sourceReviewId": "R0409",
+  "id": "samosa-pav",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Samosa Pav",
+  "cuisine": "Mumbai",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "passiveTime": "20 minutes dough resting",
+  "ingredients": [
+    {
+      "name": "pav rolls",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "boiled potatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "coriander powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 95,
+      "unit": "ml"
+    },
+    {
+      "name": "green chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tamarind chutney",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "dry garlic chutney",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 700,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rub 35 ml oil and 4 g salt into flour. Add water, knead a stiff dough and rest 20 minutes. Meanwhile simmer peas until tender.",
+    "Toast cumin in a pan; add potatoes, peas, coriander, garam masala, amchur and remaining salt. Cook 3 minutes, mashing roughly, then cool.",
+    "Roll dough into four ovals and cut each in half. Form eight cones, fill, seal with water and fry slowly at 160°C until crisp and golden, about 9 minutes.",
+    "Split pav, spread green and tamarind chutneys and a little garlic chutney. Tuck two hot samosas into each pav and serve immediately."
+  ],
+  "tips": [
+    "Drain samosas well before assembling so the pav stays light rather than oily."
+  ],
+  "translations": {
+    "hi": {
+      "name": "समोसा पाव",
+      "ingredients": [
+        "पाव",
+        "मैदा",
+        "उबले आलू",
+        "हरे मटर",
+        "जीरा",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "अमचूर",
+        "तेल",
+        "पानी",
+        "हरी चटनी",
+        "इमली चटनी",
+        "सूखी लहसुन चटनी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मैदा में 35 मिली तेल और 4 ग्राम नमक रगड़ें। पानी डालकर सख्त आटा गूँधें और 20 मिनट रखें। इस बीच मटर नरम उबालें।",
+        "पैन में जीरा भूनें; आलू, मटर, धनिया, गरम मसाला, अमचूर और बाकी नमक डालें। दरदरा मसलते हुए 3 मिनट पकाएँ, फिर ठंडा करें।",
+        "आटे के चार अंडाकार बेलकर हर एक आधा काटें। आठ कोन बनाकर भरें, पानी से बंद करें और 160°C पर लगभग 9 मिनट धीमे कुरकुरे सुनहरे तलें।",
+        "पाव चीरकर हरी, इमली और थोड़ा लहसुन चटनी लगाएँ। हर पाव में दो गरम समोसे रखकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "पाव में रखने से पहले समोसे अच्छी तरह निथारें ताकि पाव तेल से भारी न हो।"
+      ],
+      "passiveTime": "20 मिनट आटा आराम देना"
+    },
+    "gu": {
+      "name": "સમોસા પાવ",
+      "ingredients": [
+        "પાવ",
+        "મેંદો",
+        "બાફેલા બટાકા",
+        "લીલા વટાણા",
+        "જીરું",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "આમચૂર",
+        "તેલ",
+        "પાણી",
+        "લીલી ચટણી",
+        "આમલીની ચટણી",
+        "સૂકી લસણની ચટણી",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મેંદામાં 35 મિલી તેલ અને 4 ગ્રામ મીઠું ઘસો. પાણી નાખી કડક લોટ બાંધી 20 મિનિટ રાખો. દરમિયાન વટાણા નરમ બાફો.",
+        "પેનમાં જીરું શેકો; બટાકા, વટાણા, ધાણા, ગરમ મસાલો, આમચૂર અને બાકી મીઠું નાખો. દરદરો મસળતાં 3 મિનિટ રાંધો, પછી ઠંડું કરો.",
+        "લોટના ચાર અંડાકાર વણી દરેકને અડધો કાપો. આઠ શંકુ બનાવી ભરો, પાણીથી બંધ કરો અને 160°C પર આશરે 9 મિનિટ ધીમે કરકરા સોનેરી તળો.",
+        "પાવ ચીરી લીલી, આમલી અને થોડી લસણની ચટણી લગાવો. દરેક પાવમાં બે ગરમ સમોસા મૂકી તરત પીરસો."
+      ],
+      "tips": [
+        "પાવમાં મૂકતાં પહેલાં સમોસા સારી રીતે નિતારો જેથી પાવ તેલિયો ન થાય."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/samosa-pav.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

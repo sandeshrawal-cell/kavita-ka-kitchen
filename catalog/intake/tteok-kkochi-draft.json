@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0450",
+  "id": "tteok-kkochi",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tteok-kkochi",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "ingredients": [
+    {
+      "name": "cylindrical Korean rice cakes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "gochujang",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "rice syrup",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 12,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "If rice cakes are firm, blanch in boiling water for 2 minutes, then drain and pat dry.",
+    "Thread four or five rice cakes onto each of eight skewers.",
+    "Mix gochujang, ketchup, rice syrup, soy sauce and water; simmer for 2 minutes to a glossy glaze. Heat oil in a skillet and brown skewers on both sides for 3–4 minutes.",
+    "Brush warm skewers generously with the sweet-spicy glaze, sprinkle sesame seeds and serve two per person."
+  ],
+  "tips": [
+    "Dry blanched rice cakes before pan-frying; surface water prevents light crisping."
+  ],
+  "translations": {
+    "hi": {
+      "name": "त्तोक-कोची",
+      "ingredients": [
+        "बेलनाकार कोरियाई चावल के केक",
+        "सादा तेल",
+        "गोचुजांग",
+        "टमाटर केचप",
+        "चावल का सिरप",
+        "सोया सॉस",
+        "पानी",
+        "तिल"
+      ],
+      "steps": [
+        "चावल के केक सख्त हों तो 2 मिनट उबलते पानी में डालकर छानें और सुखाएँ।",
+        "हर आठ सींक पर चार-पाँच केक पिरोएँ।",
+        "गोचुजांग, केचप, चावल सिरप, सोया सॉस और पानी मिलाकर 2 मिनट चमकदार सॉस तक पकाएँ। पैन में तेल गरम कर सींक दोनों ओर 3–4 मिनट सेंकें।",
+        "गरम सींक पर मीठी-तीखी चटनी खूब लगाएँ, तिल छिड़कें और हर व्यक्ति को दो परोसें।"
+      ],
+      "tips": [
+        "उबाले चावल के केक सेंकने से पहले सुखाएँ; सतह का पानी हल्का कुरकुरापन बनने नहीं देता।"
+      ]
+    },
+    "gu": {
+      "name": "ત્તોક-કોચી",
+      "ingredients": [
+        "નળાકાર કોરિયન ચોખાની કેક",
+        "સાદું તેલ",
+        "ગોચુજાંગ",
+        "ટમેટા કેચપ",
+        "ચોખાની ચાસણી",
+        "સોયા સોસ",
+        "પાણી",
+        "તલ"
+      ],
+      "steps": [
+        "ચોખાની કેક કઠણ હોય તો 2 મિનિટ ઉકળતા પાણીમાં મૂકી નીતારી સુકવો.",
+        "આઠ સળીમાંથી દરેક પર ચાર-પાંચ કેક પરોવો.",
+        "ગોચુજાંગ, કેચપ, ચોખાની ચાસણી, સોયા સોસ અને પાણી ભેળવી 2 મિનિટ ચમકદાર ચટણી થાય ત્યાં સુધી પકાવો. પૅનમાં તેલ ગરમ કરી સળી બંને બાજુ 3–4 મિનિટ શેકો.",
+        "ગરમ સળી પર મીઠી-તીખી ચટણી ભરપૂર લગાવો, તલ છાંટો અને દરેકને બે પીરસો."
+      ],
+      "tips": [
+        "બાફેલી ચોખાની કેક શેકતાં પહેલાં સુકવો; સપાટીનું પાણી હળવું કરકરાપણું બનવા દેતું નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tteok-kkochi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

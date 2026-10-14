@@ -1,0 +1,125 @@
+{
+  "sourceReviewId": "R0449",
+  "id": "vegetable-mandu",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Vegetable Mandu",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "ingredients": [
+    {
+      "name": "eggless dumpling wrappers",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "napa cabbage",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame oil",
+      "qty": 12,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Finely chop cabbage, salt lightly and squeeze out its moisture.",
+    "Crumble pressed tofu; grate carrot and chop spring onion and garlic. Mix all with soy sauce and sesame oil.",
+    "Place a tablespoon of filling in each wrapper. Moisten the rim with water, fold into a half-moon and pinch firmly, making pleats if desired.",
+    "Pan-fry in batches with a little neutral oil for 2 minutes until bottoms brown. Add a splash from the measured water, cover and steam 5 minutes until wrappers are cooked; uncover to crisp bottoms."
+  ],
+  "tips": [
+    "Squeeze cabbage well so the sealed mandu do not leak while steaming."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सब्ज़ी मांडू",
+      "ingredients": [
+        "बिना अंडे के डम्पलिंग रैपर",
+        "कड़ा टोफू",
+        "नापा पत्ता गोभी",
+        "गाजर",
+        "हरा प्याज़",
+        "लहसुन",
+        "सोया सॉस",
+        "तिल का तेल",
+        "सादा तेल",
+        "पानी"
+      ],
+      "steps": [
+        "पत्ता गोभी बारीक काटकर हल्का नमक लगाएँ और पानी निचोड़ें।",
+        "दबाया टोफू चूरें; गाजर कसें, हरा प्याज़ और लहसुन काटें। सब सोया सॉस और तिल तेल से मिलाएँ।",
+        "हर रैपर पर एक बड़ा चम्मच भरावन रखें। किनारे पानी से गीले करें, आधा चाँद मोड़ें और अच्छी तरह दबाएँ; चाहें तो चुन्नट बनाएँ।",
+        "थोड़े तेल में बैच में 2 मिनट नीचे से भूरा सेंकें। नापे पानी से छींटा डालें, ढककर 5 मिनट रैपर पकने तक भाप दें; फिर खोलकर तली कुरकुरी करें।"
+      ],
+      "tips": [
+        "पत्ता गोभी अच्छी तरह निचोड़ें ताकि भाप में बंद मांडू से पानी न निकले।"
+      ]
+    },
+    "gu": {
+      "name": "શાકભાજી મંડુ",
+      "ingredients": [
+        "ઈંડા વગરના ડમ્પલિંગ રૅપર",
+        "મજબૂત ટોફુ",
+        "નાપા કોબી",
+        "ગાજર",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "સોયા સોસ",
+        "તલનું તેલ",
+        "સાદું તેલ",
+        "પાણી"
+      ],
+      "steps": [
+        "કોબી બારીક સમારી હળવું મીઠું લગાવી પાણી નિચોવો.",
+        "દબાવેલું ટોફુ ભૂકો કરો; ગાજર ખમણો, લીલી ડુંગળી અને લસણ સમારો. બધું સોયા સોસ અને તલના તેલ સાથે ભેળવો.",
+        "દરેક રૅપર પર એક મોટો ચમચો પૂરણ મૂકો. કિનારી પાણીથી ભીની કરી અર્ધચંદ્ર વાળો અને મજબૂત દબાવો; ઇચ્છો તો ચૂંદડી કરો.",
+        "થોડા તેલમાં હપ્તાવાર 2 મિનિટ નીચેથી ભૂરા શેકો. માપેલા પાણીનો છાંટો નાખી ઢાંકી 5 મિનિટ રૅપર પાકે ત્યાં સુધી વરાળો; પછી ખોલી તળિયું કરકરું કરો."
+      ],
+      "tips": [
+        "કોબી સારી રીતે નિચોવો જેથી વરાળમાં બંધ મંડુમાંથી પાણી ન નીકળે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-mandu.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

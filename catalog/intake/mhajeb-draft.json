@@ -1,0 +1,122 @@
+{
+  "sourceReviewId": "R0478",
+  "id": "mhajeb",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Mhajeb",
+  "cuisine": "Algerian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "passiveTime": "30 minutes dough rest",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 310,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "paprika",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead semolina, flour, 6 g salt and water for 8 minutes until elastic. Coat lightly with oil and rest covered for 30 minutes.",
+    "Cook onion in 20 ml oil for 5 minutes. Add tomatoes, paprika, cumin and remaining salt; cook until thick and nearly dry, then cool.",
+    "Divide dough into eight oiled balls. On an oiled surface stretch each very thin, spoon filling in the centre and fold all four sides over it to form a square.",
+    "Cook the squares on a lightly oiled griddle over medium heat for 4–5 minutes per side until brown spots appear and the layers cook through."
+  ],
+  "tips": [
+    "Cool the tomato filling before folding so steam does not tear the thin dough."
+  ],
+  "translations": {
+    "hi": {
+      "name": "महाजेब",
+      "ingredients": [
+        "बारीक सूजी",
+        "मैदा",
+        "पानी",
+        "प्याज़, बारीक कटा",
+        "टमाटर, कटे",
+        "पपरिका",
+        "पिसा जीरा",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "सूजी, मैदा, 6 ग्राम नमक और पानी को 8 मिनट लचीला होने तक गूँधें। हल्का तेल लगाकर ढककर 30 मिनट रखें।",
+        "प्याज़ 20 मिली तेल में 5 मिनट भूनें। टमाटर, पपरिका, जीरा और बचा नमक डालकर गाढ़ा लगभग सूखा पकाएँ, फिर ठंडा करें।",
+        "आटे की आठ तेल लगी लोइयाँ करें। तेल लगी सतह पर हर एक को बहुत पतला फैलाएँ, बीच में भरावन रखें और चारों तरफ से मोड़कर चौकोर बनाएँ।",
+        "चौकोर रोटियाँ हल्के तेल वाले तवे पर मध्यम आँच पर हर तरफ 4–5 मिनट भूरे चकत्ते और परतें पकने तक सेंकें।"
+      ],
+      "tips": [
+        "मोड़ने से पहले टमाटर भरावन ठंडा करें ताकि भाप से पतला आटा न फटे।"
+      ],
+      "passiveTime": "30 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "મહાજેબ",
+      "ingredients": [
+        "ઝીણી સોજી",
+        "મેંદો",
+        "પાણી",
+        "ડુંગળી, બારીક સમારેલી",
+        "ટમેટાં, સમારેલાં",
+        "પૅપ્રિકા",
+        "જીરું પાઉડર",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "સોજી, મેંદો, 6 ગ્રામ મીઠું અને પાણી 8 મિનિટ લચીલું થાય ત્યાં સુધી બાંધો. સહેજ તેલ લગાવી ઢાંકી 30 મિનિટ રાખો.",
+        "ડુંગળી 20 મિલી તેલમાં 5 મિનિટ સાંતળો. ટમેટાં, પૅપ્રિકા, જીરું અને બાકી મીઠું નાખી ઘટ્ટ લગભગ સૂકું ચડાવો, પછી ઠંડું કરો.",
+        "લોટના આઠ તેલ લગાવેલા લૂવા કરો. તેલ લગાવેલી સપાટી પર દરેકને બહુ પાતળું ખેંચો, વચ્ચે પૂરણ મૂકી ચારેય બાજુથી વાળી ચોરસ બનાવો.",
+        "ચોરસ રોટલા સહેજ તેલવાળા તવા પર મધ્યમ તાપે દરેક બાજુ 4–5 મિનિટ બદામી ટપકાં પડે અને પડ ચડે ત્યાં સુધી શેકો."
+      ],
+      "tips": [
+        "વાળતા પહેલાં ટમેટાનું પૂરણ ઠંડું કરો જેથી વરાળથી પાતળો લોટ ન ફાટે."
+      ],
+      "passiveTime": "30 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mhajeb.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

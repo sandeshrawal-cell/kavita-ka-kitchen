@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0413",
+  "id": "khopra-pattice",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Khopra Pattice",
+  "cuisine": "Indore",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "ingredients": [
+    {
+      "name": "boiled potatoes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 130,
+      "unit": "g"
+    },
+    {
+      "name": "cashews, chopped",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "cumin powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 650,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Mash cooled potatoes with cornflour, cumin and 5 g salt until smooth. Mix coconut, cashews, raisins, chillies, coriander, lemon, sugar and remaining salt for the filling.",
+    "Divide potato mixture into 12 portions. Flatten each, place coconut filling in the centre, close completely and shape into thick oval patties.",
+    "Smooth any cracks in the potato casing with damp fingers, keeping the sweet coconut filling fully enclosed.",
+    "Fry in batches at 175°C for 4–5 minutes until evenly golden. Drain and serve with green chutney."
+  ],
+  "tips": [
+    "Seal every seam with potato; exposed coconut can escape into the oil."
+  ],
+  "translations": {
+    "hi": {
+      "name": "खोपरा पेटिस",
+      "ingredients": [
+        "उबले आलू",
+        "ताज़ा कद्दूकस नारियल",
+        "कटे काजू",
+        "किशमिश",
+        "कटी हरी मिर्च",
+        "हरा धनिया",
+        "नींबू का रस",
+        "कॉर्नफ्लोर",
+        "जीरा पाउडर",
+        "चीनी",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "ठंडे आलू को कॉर्नफ्लोर, जीरे और 5 ग्राम नमक के साथ चिकना मसलें। नारियल, काजू, किशमिश, मिर्च, धनिया, नींबू, चीनी और बाकी नमक भरावन के लिए मिलाएँ।",
+        "आलू के 12 भाग करें। हर भाग चपटा कर बीच में नारियल भरावन रखें, पूरी तरह बंद करके मोटी अंडाकार टिक्की बनाएँ।",
+        "गीली उँगलियों से आलू की परत की दरारें बंद करें ताकि मीठा नारियल भरावन पूरी तरह भीतर रहे।",
+        "175°C पर थोड़ी-थोड़ी 4–5 मिनट समान सुनहरी होने तक तलें। निथारकर हरी चटनी के साथ परोसें।"
+      ],
+      "tips": [
+        "हर जोड़ आलू से अच्छी तरह बंद करें; खुला नारियल तेल में निकल सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "ખોપરા પેટીસ",
+      "ingredients": [
+        "બાફેલા બટાકા",
+        "તાજું છીણેલું નાળિયેર",
+        "સમારેલા કાજુ",
+        "કિસમિસ",
+        "સમારેલાં લીલાં મરચાં",
+        "કોથમીર",
+        "લીંબુનો રસ",
+        "કોર્નફ્લોર",
+        "જીરું પાઉડર",
+        "ખાંડ",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ઠંડા બટાકા કોર્નફ્લોર, જીરું અને 5 ગ્રામ મીઠા સાથે સુંવાળા મસળો. નાળિયેર, કાજુ, કિસમિસ, મરચાં, કોથમીર, લીંબુ, ખાંડ અને બાકી મીઠું પૂરણ માટે ભેળવો.",
+        "બટાકાના 12 ભાગ કરો. દરેકને ચપટું કરી વચ્ચે નાળિયેરનું પૂરણ મૂકો, પૂરેપૂરું બંધ કરી જાડી અંડાકાર પેટીસ બનાવો.",
+        "ભીની આંગળીઓથી બટાકાના પડની તિરાડો બંધ કરો જેથી મીઠું નાળિયેરનું પૂરણ પૂરેપૂરું અંદર રહે.",
+        "175°C પર થોડાં થોડાં 4–5 મિનિટ સરખી સોનેરી થાય ત્યાં સુધી તળો. નિતારી લીલી ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "દરેક જોડ બટાકાથી સારી રીતે બંધ કરો; ખુલ્લું નાળિયેર તેલમાં નીકળી શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/khopra-pattice.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

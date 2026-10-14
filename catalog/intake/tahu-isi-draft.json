@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0456",
+  "id": "tahu-isi",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tahu Isi",
+  "cuisine": "Indonesian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "ingredients": [
+    {
+      "name": "firm tofu blocks",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "bean sprouts",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cold water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral frying oil",
+      "qty": 800,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut tofu into eight thick rectangles; blot dry and pan-sear lightly so they hold shape. Cut a pocket into one side of each without slicing through.",
+    "Finely shred carrot and cabbage. Stir-fry with garlic, sprouts and spring onion for 3 minutes; season with soy sauce and cool completely.",
+    "Stuff the tofu pockets firmly but without tearing. Whisk both flours, salt and cold water into a smooth coating batter.",
+    "Dip stuffed tofu in batter and fry at 175°C in batches for 4–5 minutes until crisp and golden. Drain and serve hot."
+  ],
+  "tips": [
+    "Cool and drain the vegetables before stuffing so steam and moisture do not split the tofu pockets."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ताहू इसी",
+      "ingredients": [
+        "कड़े टोफू के टुकड़े",
+        "अंकुरित मूँग",
+        "गाजर",
+        "पत्ता गोभी",
+        "लहसुन",
+        "हरा प्याज़",
+        "सोया सॉस",
+        "मैदा",
+        "चावल का आटा",
+        "ठंडा पानी",
+        "नमक",
+        "तलने का सादा तेल"
+      ],
+      "steps": [
+        "टोफू के आठ मोटे आयत काटें; सुखाकर हल्का सेंकें ताकि आकार बना रहे। हर टुकड़े की एक ओर जेब काटें, पार तक न काटें।",
+        "गाजर और गोभी बारीक काटें। लहसुन, अंकुर और हरे प्याज़ के साथ 3 मिनट भूनें; सोया सॉस डालकर पूरी तरह ठंडा करें।",
+        "टोफू की जेबों में भरावन कसकर भरें पर फाड़ें नहीं। दोनों आटे, नमक और ठंडा पानी चिकने घोल में फेंटें।",
+        "भरे टोफू को घोल में डुबोकर 175°C पर थोड़े-थोड़े 4–5 मिनट कुरकुरे सुनहरे तलें। छानकर गरम परोसें।"
+      ],
+      "tips": [
+        "भरने से पहले सब्ज़ियाँ ठंडी और सूखी करें ताकि भाप और पानी टोफू की जेब न फाड़ें।"
+      ]
+    },
+    "gu": {
+      "name": "તાહુ ઇસી",
+      "ingredients": [
+        "મજબૂત ટોફુના ટુકડા",
+        "ફણગાવેલા મગ",
+        "ગાજર",
+        "કોબી",
+        "લસણ",
+        "લીલી ડુંગળી",
+        "સોયા સોસ",
+        "મેંદો",
+        "ચોખાનો લોટ",
+        "ઠંડું પાણી",
+        "મીઠું",
+        "તળવા માટે સાદું તેલ"
+      ],
+      "steps": [
+        "ટોફુના આઠ જાડા લંબચોરસ કાપો; સુકવી હળવા શેકો જેથી આકાર રહે. દરેક ટુકડાની એક બાજુ ખિસ્સો કાપો, આરપાર ન કાપો.",
+        "ગાજર અને કોબી બારીક સમારો. લસણ, ફણગા અને લીલી ડુંગળી સાથે 3 મિનિટ સાંતળો; સોયા સોસ નાખી સંપૂર્ણ ઠંડું કરો.",
+        "ટોફુના ખિસ્સામાં પૂરણ મજબૂતીથી ભરો પણ ફાડશો નહીં. બંને લોટ, મીઠું અને ઠંડું પાણી લીસા ખીરામાં ફેંટો.",
+        "ભરેલા ટોફુને ખીરામાં બોળી 175°C પર થોડા થોડા 4–5 મિનિટ કરકરા સોનેરી તળો. નીતારી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ભરતાં પહેલાં શાક ઠંડું અને સૂકું કરો જેથી વરાળ અને પાણી ટોફુનો ખિસ્સો ન ફાડે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tahu-isi.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

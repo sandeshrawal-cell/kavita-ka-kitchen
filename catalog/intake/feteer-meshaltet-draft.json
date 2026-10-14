@@ -1,0 +1,97 @@
+{
+  "sourceReviewId": "R0441",
+  "id": "feteer-meshaltet",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Feteer Meshaltet",
+  "cuisine": "Egyptian",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 110,
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead flour, water, salt and sugar for 10 minutes until very smooth and elastic.",
+    "Divide into four balls, oil lightly, cover and rest 30 minutes.",
+    "On an oiled worktop stretch one ball by hand until almost translucent. Brush generously with melted ghee, fold edges inward into a square, then stretch and wrap the next sheet around it. Repeat with all four balls.",
+    "Rest the layered parcel 15 minutes, then press gently into a 25 cm round without crushing layers. Bake on a hot tray at 220°C for 25–30 minutes until deeply golden; cool 10 minutes before cutting into four portions."
+  ],
+  "tips": [
+    "Stretch rather than roll the dough: visible thin sheets and ghee between them create the characteristic flakes."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फतीर मशालतत",
+      "ingredients": [
+        "मैदा",
+        "गुनगुना पानी",
+        "नमक",
+        "चीनी",
+        "घी",
+        "सादा तेल"
+      ],
+      "steps": [
+        "मैदा, पानी, नमक और चीनी 10 मिनट गूँधकर बहुत चिकना और लचीला करें।",
+        "चार गोले बनाएँ, हल्का तेल लगाएँ, ढककर 30 मिनट रखें।",
+        "तेल लगी सतह पर एक गोले को हाथ से लगभग पारदर्शी पतला फैलाएँ। पिघला घी खूब लगाएँ, किनारे मोड़कर चौकोर करें, फिर अगली पतली परत इसके चारों ओर लपेटें। चारों गोलों के साथ दोहराएँ।",
+        "परतदार गठरी 15 मिनट रखें, फिर परतें दबाए बिना हल्के हाथ से 25 सेमी गोल फैलाएँ। गरम ट्रे पर 220°C में 25–30 मिनट गहरा सुनहरा बेक करें; चार हिस्से काटने से पहले 10 मिनट ठंडा करें।"
+      ],
+      "tips": [
+        "आटे को बेलने के बजाय खींचें: दिखाई देती पतली परतें और बीच का घी खास खस्तापन बनाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ફતીર મશાલતત",
+      "ingredients": [
+        "મેંદો",
+        "હૂંફાળું પાણી",
+        "મીઠું",
+        "ખાંડ",
+        "ઘી",
+        "સાદું તેલ"
+      ],
+      "steps": [
+        "મેંદો, પાણી, મીઠું અને ખાંડ 10 મિનિટ મસળી બહુ લીસો અને લચીલો બનાવો.",
+        "ચાર ગોળા કરો, હળવું તેલ લગાવો, ઢાંકી 30 મિનિટ રાખો.",
+        "તેલ લગાડેલી સપાટી પર એક ગોળો હાથથી લગભગ પારદર્શક પાતળો ખેંચો. ઓગાળેલું ઘી ભરપૂર લગાવો, કિનારી વાળી ચોરસ કરો, પછી આગળનું પાતળું પડ તેની આસપાસ વીંટો. ચારેય ગોળા સાથે દોહરાવો.",
+        "પડવાળું ગૂંચળું 15 મિનિટ રાખો, પછી પડ દબાયા વગર હળવે હાથે 25 સેમી ગોળ દબાવો. ગરમ ટ્રે પર 220°Cમાં 25–30 મિનિટ ઘેરું સોનેરી થાય ત્યાં સુધી બેક કરો; ચાર ભાગ કાપતાં પહેલાં 10 મિનિટ ઠંડું કરો."
+      ],
+      "tips": [
+        "લોટ વણવાને બદલે ખેંચો: દેખાતા પાતળા પડ અને વચ્ચેનું ઘી ખાસ કરકરાપણું બનાવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/feteer-meshaltet.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

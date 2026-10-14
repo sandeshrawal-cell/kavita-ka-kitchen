@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0444",
+  "id": "kumpir",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kumpir",
+  "cuisine": "Turkish",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "large baking potatoes",
+      "qty": 1200,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian grated mozzarella cheese",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "cooked sweetcorn",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "black olives",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "pickled cucumber",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "cooked green peas",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Scrub and dry potatoes; prick with a fork.",
+    "Bake directly on an oven rack at 220°C for 60–70 minutes until the skins are crisp and centres fully soft.",
+    "Finely chop olives and pickled cucumber. Split each hot potato lengthwise without cutting through the base. Fluff its flesh with a fork, working in 20 g butter and 40 g cheese per potato until creamy.",
+    "Season with salt and top each potato with corn, olives, cucumber and peas. Serve immediately while the cheese is melting."
+  ],
+  "tips": [
+    "Mash butter and cheese into the hot potato itself before adding toppings; that creamy base defines kumpir."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुम्पिर",
+      "ingredients": [
+        "बड़े बेकिंग आलू",
+        "मक्खन",
+        "शाकाहारी कद्दूकस मोज़रेला चीज़",
+        "पके मीठे मक्के",
+        "काले ऑलिव",
+        "अचार वाले खीरे",
+        "पकी हरी मटर",
+        "नमक"
+      ],
+      "steps": [
+        "आलू रगड़कर धोएँ, सुखाएँ और काँटे से छेदें।",
+        "220°C ओवन की जाली पर 60–70 मिनट छिलका कुरकुरा और भीतर पूरी तरह नरम होने तक बेक करें।",
+        "ऑलिव और अचार खीरा बारीक काटें। हर गरम आलू को लंबाई में नीचे तक काटे बिना खोलें। काँटे से गूदा फुलाएँ और हर आलू में 20 ग्राम मक्खन और 40 ग्राम चीज़ मिलाकर क्रीमी करें।",
+        "नमक डालें और हर आलू पर मक्का, ऑलिव, खीरा और मटर रखें। चीज़ पिघलती हो तभी तुरंत परोसें।"
+      ],
+      "tips": [
+        "ऊपर की चीज़ें डालने से पहले गरम आलू के गूदे में मक्खन और चीज़ मसलें; वही कुम्पिर की खास क्रीमी नींव है।"
+      ]
+    },
+    "gu": {
+      "name": "કુમ્પિર",
+      "ingredients": [
+        "મોટા બેકિંગ બટાકા",
+        "માખણ",
+        "શાકાહારી ખમણેલું મોઝરેલા ચીઝ",
+        "રાંધેલા મીઠા મકાઈના દાણા",
+        "કાળા ઓલિવ",
+        "અથાણાંવાળી કાકડી",
+        "રાંધેલા લીલા વટાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "બટાકા ઘસીને ધોઈ સુકાવો અને કાંટાથી છિદ્ર કરો.",
+        "220°C ઓવનની જાળી પર 60–70 મિનિટ છાલ કરકરી અને અંદર સંપૂર્ણ નરમ થાય ત્યાં સુધી બેક કરો.",
+        "ઓલિવ અને અથાણાંવાળી કાકડી બારીક સમારો. દરેક ગરમ બટાકાને લંબાઈમાં તળિયા સુધી કાપ્યા વગર ખોલો. કાંટાથી અંદરનો ભાગ ફુલાવી દરેકમાં 20 ગ્રામ માખણ અને 40 ગ્રામ ચીઝ ભેળવી ક્રીમી કરો.",
+        "મીઠું નાખો અને દરેક બટાકા પર મકાઈ, ઓલિવ, કાકડી અને વટાણા મૂકો. ચીઝ ઓગળતું હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "ઉપરની વસ્તુઓ નાખતાં પહેલાં ગરમ બટાકાના ગૂદામાં માખણ અને ચીઝ મસળો; એ જ કુમ્પિરનો ખાસ ક્રીમી આધાર છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/kumpir.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

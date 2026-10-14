@@ -1,0 +1,94 @@
+{
+  "sourceReviewId": "R0480",
+  "id": "boyoz",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Boyoz",
+  "cuisine": "Turkish (İzmir)",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "60 minutes dough rest",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 225,
+      "unit": "ml"
+    },
+    {
+      "name": "tahini",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour, water and salt for 10 minutes until smooth and stretchy. Divide into eight balls, coat with 30 ml oil and rest covered 1 hour.",
+    "Mix tahini with remaining oil. On an oiled surface stretch each ball paper thin, brush lightly with the tahini mixture, fold into a narrow strip and coil loosely.",
+    "Pinch the end of each coiled strip underneath and set it on the tray with the seam down so it does not unravel in the oven.",
+    "Rest coils 15 minutes, flatten gently to 2 cm thick discs and place on a lined tray. Bake at 220°C for 20–25 minutes until deeply golden and flaky."
+  ],
+  "tips": [
+    "Stretch on oil rather than dusting with flour; extra flour makes the layers dry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बोयोज़",
+      "ingredients": [
+        "मैदा",
+        "पानी",
+        "ताहिनी",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मैदा, पानी और नमक को 10 मिनट चिकना लचीला गूँधें। आठ लोइयाँ करें, 30 मिली तेल लगाकर ढककर 1 घंटा रखें।",
+        "ताहिनी में बचा तेल मिलाएँ। तेल लगी सतह पर हर लोई कागज़ जितनी पतली फैलाएँ, ताहिनी मिश्रण हल्का लगाएँ, पतली पट्टी मोड़कर ढीला कुंडल बनाएँ।",
+        "हर कुंडली का सिरा नीचे दबाकर जोड़ नीचे की ओर ट्रे पर रखें ताकि ओवन में खुल न जाए।",
+        "कुंडल 15 मिनट रखें, हल्के से 2 सेंटीमीटर मोटे चपटे करें और बिछी ट्रे पर रखें। 220°C पर 20–25 मिनट गहरे सुनहरे और परतदार बेक करें।"
+      ],
+      "tips": [
+        "मैदा छिड़कने के बजाय तेल पर फैलाएँ; अतिरिक्त मैदा परतें सूखी कर देता है।"
+      ],
+      "passiveTime": "60 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "બોયોઝ",
+      "ingredients": [
+        "મેંદો",
+        "પાણી",
+        "તાહિની",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મેંદો, પાણી અને મીઠું 10 મિનિટ સુંવાળું લચીલું બાંધો. આઠ લૂવા કરી 30 મિલી તેલ લગાવી ઢાંકી 1 કલાક રાખો.",
+        "તાહિનીમાં બાકીનું તેલ ભેળવો. તેલ લગાવેલી સપાટી પર દરેક લૂવો કાગળ જેટલો પાતળો ખેંચો, તાહિની મિશ્રણ પાતળું લગાવી સાંકડી પટ્ટી વાળી ઢીલો વળાંક બનાવો.",
+        "દરેક વળાંકનો છેડો નીચે દબાવી જોડ નીચે રાખીને ટ્રે પર મૂકો જેથી ઓવનમાં ખુલે નહીં.",
+        "વળાંક 15 મિનિટ રાખી હળવે 2 સેમી જાડા ચપટા કરો અને પાથરેલી ટ્રે પર મૂકો. 220°C પર 20–25 મિનિટ ઘેરા સોનેરી અને પડવાળા બેક કરો."
+      ],
+      "tips": [
+        "મેંદો છાંટવાને બદલે તેલ પર ખેંચો; વધારાનો મેંદો પડ સૂકા કરે છે."
+      ],
+      "passiveTime": "60 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/boyoz.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

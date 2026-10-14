@@ -1,0 +1,152 @@
+{
+  "sourceReviewId": "R0429",
+  "id": "irani-samosa",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Irani Samosa",
+  "cuisine": "Hyderabad",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 80,
+  "ingredients": [
+    {
+      "name": "onions, thinly sliced",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, chopped",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "poha, lightly crushed",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 285,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil for dough",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead 260 g flour, 125 ml water, 30 ml neutral oil and 3 g salt into a firm dough. Cover and rest 20 minutes; roll out paper-thin rectangles and warm each on a dry pan just until set, without browning.",
+    "Toss sliced onions with remaining 9 g salt and leave 15 minutes, then squeeze firmly to remove excess juice. Mix with chillies, coriander, crushed poha, cumin, chilli powder, garam masala and lemon.",
+    "Whisk remaining 25 g flour and remaining 35 ml water to make sealing paste. Cut pastry into narrow strips if needed; fold a corner over to make a small triangular pocket.",
+    "Fill each pocket with about a spoonful of onion mixture, fold repeatedly into tight triangles and seal the final edge with paste.",
+    "Fry in batches at 165°C for 5–6 minutes until dry, crisp and amber. Drain well and serve with tea or mint chutney."
+  ],
+  "tips": [
+    "Squeeze the salted onion and use poha to absorb remaining moisture; wet filling makes the thin pastry split."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ईरानी समोसा",
+      "ingredients": [
+        "पतला कटा प्याज़",
+        "कटी हरी मिर्च",
+        "हरा धनिया",
+        "हल्का कुटा पोहा",
+        "जीरा",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "नींबू का रस",
+        "मैदा",
+        "पानी",
+        "नमक",
+        "तलने के लिए तेल",
+        "आटे के लिए बिना गंध वाला तेल"
+      ],
+      "steps": [
+        "260 ग्राम मैदा, 125 मिली पानी, 30 मिली बिना गंध वाला तेल और 3 ग्राम नमक से सख्त आटा गूँधें। ढककर 20 मिनट रखें; कागज़ जैसी पतली आयतें बेलें और सूखे तवे पर बिना भूरा किए बस जमने तक गरम करें।",
+        "कटे प्याज़ में बाकी 9 ग्राम नमक लगाकर 15 मिनट रखें, फिर अतिरिक्त रस अच्छी तरह निचोड़ें। मिर्च, धनिया, कुटा पोहा, जीरा, मिर्च पाउडर, गरम मसाला और नींबू मिलाएँ।",
+        "बचे 25 ग्राम मैदा और बचे 35 मिली पानी का चिपकाने वाला घोल बनाएँ। जरूरत हो तो पट्टियाँ संकरी काटें; कोना मोड़कर छोटा त्रिकोणीय खोखा बनाएँ।",
+        "हर खोखे में लगभग एक चम्मच प्याज़ भरें, बार-बार मोड़कर कसे त्रिकोण बनाएँ और अंतिम किनारा घोल से बंद करें।",
+        "165°C पर थोड़े-थोड़े 5–6 मिनट सूखे, कुरकुरे और सुनहरे-भूरे होने तक तलें। अच्छी तरह निथारकर चाय या पुदीना चटनी के साथ दें।"
+      ],
+      "tips": [
+        "नमक लगे प्याज़ को निचोड़ें और बची नमी पोहे से सोखें; गीला भरावन पतली पट्टी फाड़ देता है।"
+      ],
+      "passiveTime": "20 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "ઈરાની સમોસા",
+      "ingredients": [
+        "પાતળી સમારેલી ડુંગળી",
+        "સમારેલાં લીલાં મરચાં",
+        "કોથમીર",
+        "થોડા કચરેલા પૌંઆ",
+        "જીરું",
+        "લાલ મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "લીંબુનો રસ",
+        "મેંદો",
+        "પાણી",
+        "મીઠું",
+        "તળવા માટે તેલ",
+        "લોટ માટે ગંધ વિનાનું તેલ"
+      ],
+      "steps": [
+        "260 ગ્રામ મેંદો, 125 મિલી પાણી, 30 મિલી ગંધ વિનાનું તેલ અને 3 ગ્રામ મીઠાનો કડક લોટ બાંધો. ઢાંકી 20 મિનિટ રાખો; કાગળ જેવી પાતળી ચોરસ પટ્ટીઓ વણો અને સૂકા તવા પર ભૂરાં કર્યા વિના માત્ર સેટ થાય ત્યાં સુધી ગરમ કરો.",
+        "સમારેલી ડુંગળીમાં બાકી 9 ગ્રામ મીઠું ભેળવી 15 મિનિટ રાખો, પછી વધારાનો રસ સારી રીતે નીચોવો. મરચાં, કોથમીર, કચરેલા પૌંઆ, જીરું, મરચું, ગરમ મસાલો અને લીંબુ ભેળવો.",
+        "બાકી 25 ગ્રામ મેંદો અને બાકી 35 મિલી પાણીની ચોંટાડવાની પેસ્ટ બનાવો. જરૂર હોય તો પટ્ટીઓ સાંકડી કાપો; ખૂણો વાળી નાનું ત્રિકોણ ખિસ્સું બનાવો.",
+        "દરેક ખિસ્સામાં આશરે એક ચમચી ડુંગળી ભરો, વારંવાર વાળી ચુસ્ત ત્રિકોણ બનાવો અને છેલ્લી કિનારી પેસ્ટથી બંધ કરો.",
+        "165°C પર થોડાં થોડાં 5–6 મિનિટ સૂકા, કરકરા અને સોનેરી-ભૂરાં થાય ત્યાં સુધી તળો. સારી રીતે નિતારી ચા કે ફુદીનાની ચટણી સાથે આપો."
+      ],
+      "tips": [
+        "મીઠાવાળી ડુંગળી નીચોવો અને બાકી ભેજ પૌંઆથી શોષો; ભીનાં પૂરણથી પાતળી પટ્ટી ફાટે છે."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "passiveTime": "20 minutes dough resting",
+  "photoDraft": "catalog/intake/photos/irani-samosa.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R0403",
+  "id": "pyaaz-kachori",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pyaaz Kachori",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 70,
+  "passiveTime": "30 minutes dough resting",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "onions, finely chopped",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "coriander seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 140,
+      "unit": "ml"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rub ghee and 5 g salt into flour until sandy. Add water gradually, knead a firm dough and rest covered for 30 minutes.",
+    "Toast crushed fennel and coriander with gram flour in 2 tablespoons hot frying oil. Add onions, chilli, amchur and remaining salt; cook 8–10 minutes until moisture evaporates, then cool.",
+    "Divide dough into 8 balls, cup each in the palm, add onion filling and pinch shut. Flatten gently without tearing.",
+    "Fry slowly in oil around 150°C for 12–15 minutes, turning often, until flaky and evenly golden. Drain before serving."
+  ],
+  "tips": [
+    "Keep the filling dry and the frying oil moderate; excess moisture or high heat spoils the flaky crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "प्याज़ कचौरी",
+      "ingredients": [
+        "मैदा",
+        "घी",
+        "बारीक कटा प्याज़",
+        "बेसन",
+        "सौंफ",
+        "धनिया दाना",
+        "लाल मिर्च पाउडर",
+        "अमचूर",
+        "नमक",
+        "पानी",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "मैदा में घी और 5 ग्राम नमक रगड़कर भुरभुरा करें। धीरे-धीरे पानी डालकर सख्त आटा गूँधें और ढककर 30 मिनट रखें।",
+        "2 बड़े चम्मच गरम तेल में कुटी सौंफ, धनिया और बेसन भूनें। प्याज़, मिर्च, अमचूर और बाकी नमक डालकर 8–10 मिनट नमी सूखने तक पकाएँ; ठंडा करें।",
+        "आटे के 8 गोले करें, हर एक को हथेली पर कटोरी-सा फैलाएँ, प्याज़ भरकर सील करें। बिना फाड़े हल्का दबाएँ।",
+        "लगभग 150°C तेल में 12–15 मिनट धीमे तलें, बार-बार पलटें ताकि परतदार और समान सुनहरे बनें। परोसने से पहले निथारें।"
+      ],
+      "tips": [
+        "भरावन सूखा और तेल मध्यम गरम रखें; नमी या तेज आँच से परतदार खोल बिगड़ता है।"
+      ],
+      "passiveTime": "30 मिनट आटा आराम देना"
+    },
+    "gu": {
+      "name": "ડુંગળી કચોરી",
+      "ingredients": [
+        "મેંદો",
+        "ઘી",
+        "ઝીણી સમારેલી ડુંગળી",
+        "ચણાનો લોટ",
+        "વરિયાળી",
+        "ધાણા",
+        "લાલ મરચું પાઉડર",
+        "આમચૂર",
+        "મીઠું",
+        "પાણી",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "મેંદામાં ઘી અને 5 ગ્રામ મીઠું ઘસી ભુરભુરું કરો. ધીમે ધીમે પાણી ઉમેરી કડક લોટ બાંધો અને ઢાંકી 30 મિનિટ રાખો.",
+        "2 મોટાં ચમચાં ગરમ તેલમાં કચરેલી વરિયાળી, ધાણા અને ચણાનો લોટ શેકો. ડુંગળી, મરચું, આમચૂર અને બાકી મીઠું નાખી 8–10 મિનિટ ભેજ સુકાય ત્યાં સુધી રાંધો; ઠંડું કરો.",
+        "લોટના 8 ગોળા કરો, દરેકને હથેળીમાં વાટકીની જેમ પાથરો, ડુંગળી ભરી બંધ કરો. ફાડ્યા વગર હળવેથી દબાવો.",
+        "આશરે 150°C તેલમાં 12–15 મિનિટ ધીમે તળો, વારંવાર ફેરવો જેથી પડદાર અને સરખાં સોનેરી થાય. પીરસતાં પહેલાં નિતારો."
+      ],
+      "tips": [
+        "પૂરણ સૂકું અને તેલ મધ્યમ ગરમ રાખો; ભેજ કે વધુ તાપથી પડદાર પડ બગડે છે."
+      ],
+      "passiveTime": "30 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pyaaz-kachori.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

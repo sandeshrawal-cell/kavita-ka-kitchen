@@ -1,0 +1,94 @@
+{
+  "sourceReviewId": "R0483",
+  "id": "malawach",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Malawach",
+  "cuisine": "Yemeni",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "45 minutes dough rest",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 230,
+      "unit": "ml"
+    },
+    {
+      "name": "soft butter",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Knead flour, water and salt for 8 minutes until elastic. Divide into eight balls, coat with oil and rest covered 45 minutes.",
+    "Stretch each ball very thin on an oiled surface. Spread with a little butter, roll into a rope, then coil into a spiral. Rest 10 minutes and flatten each spiral gently.",
+    "Press the centre of each spiral with your palm and flatten from the middle outward, keeping the edges intact to preserve the layers.",
+    "Cook on a lightly oiled pan over medium heat 4–5 minutes per side, pressing gently, until crisp brown patches form and the layers cook through."
+  ],
+  "tips": [
+    "Rest the coiled dough before flattening so the layers do not spring back."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मलावाच",
+      "ingredients": [
+        "मैदा",
+        "पानी",
+        "नरम मक्खन",
+        "तेल",
+        "नमक"
+      ],
+      "steps": [
+        "मैदा, पानी और नमक 8 मिनट लचीला होने तक गूँधें। आठ लोइयाँ करें, तेल लगाकर ढककर 45 मिनट रखें।",
+        "हर लोई तेल लगी सतह पर बहुत पतली फैलाएँ। थोड़ा मक्खन लगाकर रस्सी की तरह रोल करें, फिर कुंडली बनाएँ। 10 मिनट रखकर धीरे से चपटा करें।",
+        "हर कुंडली के बीच हथेली रखकर बीच से बाहर की ओर चपटा करें; परतों के लिए किनारे साबुत रखें।",
+        "हल्के तेल वाले तवे पर मध्यम आँच पर हर तरफ 4–5 मिनट हल्का दबाकर सेंकें, जब तक कुरकुरे भूरे धब्बे बनें और परतें पकें।"
+      ],
+      "tips": [
+        "कुंडली बने आटे को चपटा करने से पहले आराम दें ताकि परतें वापस न सिकुड़ें।"
+      ],
+      "passiveTime": "45 मिनट आटे को आराम देना"
+    },
+    "gu": {
+      "name": "મલાવાચ",
+      "ingredients": [
+        "મેંદો",
+        "પાણી",
+        "નરમ માખણ",
+        "તેલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "મેંદો, પાણી અને મીઠું 8 મિનિટ લચીલું થાય ત્યાં સુધી બાંધો. આઠ લૂવા કરી તેલ લગાવી ઢાંકી 45 મિનિટ રાખો.",
+        "દરેક લૂવો તેલ લગાવેલી સપાટી પર બહુ પાતળો ખેંચો. થોડું માખણ લગાવી દોરી જેવો વાળો, પછી વળાંક બનાવો. 10 મિનિટ રાખી હળવે ચપટો કરો.",
+        "દરેક વળાંકના મધ્યમાં હથેળી મૂકી વચ્ચેથી બહારની તરફ ચપટો કરો; પડ માટે કિનારી અખંડ રાખો.",
+        "સહેજ તેલવાળા તવા પર મધ્યમ તાપે દરેક બાજુ 4–5 મિનિટ હળવે દબાવી શેકો, કરકરા બદામી ડાઘ પડે અને પડ ચડે ત્યાં સુધી."
+      ],
+      "tips": [
+        "વાળેલો લોટ ચપટો કરતા પહેલાં આરામ આપો જેથી પડ પાછા ન સંકોચાય."
+      ],
+      "passiveTime": "45 મિનિટ લોટને આરામ આપવો"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/malawach.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

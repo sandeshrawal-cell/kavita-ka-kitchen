@@ -1,0 +1,108 @@
+{
+  "sourceReviewId": "R0475",
+  "id": "vitumbua",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Vitumbua",
+  "cuisine": "Swahili Coast",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "passiveTime": "60 minutes fermentation",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 360,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "active dry yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for pan",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk rice flour, sugar, yeast, cardamom and salt with coconut milk until smooth and pourable.",
+    "Cover and leave in a warm place about 1 hour until bubbly. Stir gently without knocking out all the air.",
+    "Heat a paniyaram pan over medium-low heat and oil the cups. Fill each cup three-quarters full, cover and cook 3 minutes.",
+    "Turn each cake and cook 2–3 minutes more until golden outside and cooked through. Serve warm."
+  ],
+  "tips": [
+    "Use a deep-cup pan; a flat griddle will not give vitumbua their rounded shape."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वितुम्बुआ",
+      "ingredients": [
+        "चावल का आटा",
+        "नारियल दूध",
+        "चीनी",
+        "सूखा खमीर",
+        "पिसी इलायची",
+        "नमक",
+        "तवे के लिए तेल"
+      ],
+      "steps": [
+        "चावल का आटा, चीनी, खमीर, इलायची और नमक नारियल दूध में फेंटकर चिकना बहने वाला घोल बनाएँ।",
+        "ढककर लगभग 1 घंटा गरम जगह रखें जब तक बुलबुले आएँ। सारी हवा निकाले बिना हल्का चलाएँ।",
+        "पनियारम तवा मध्यम-धीमी आँच पर गरम कर खाँचों में तेल लगाएँ। हर खाँचा तीन-चौथाई भरें, ढककर 3 मिनट पकाएँ।",
+        "हर केक पलटकर 2–3 मिनट और बाहर से सुनहरा तथा भीतर से पका होने तक सेंकें। गरम परोसें।"
+      ],
+      "tips": [
+        "गहरे खाँचों वाला तवा लें; सपाट तवे पर वितुम्बुआ गोल नहीं बनेंगे।"
+      ],
+      "passiveTime": "60 मिनट खमीर उठना"
+    },
+    "gu": {
+      "name": "વિટુંબુઆ",
+      "ingredients": [
+        "ચોખાનો લોટ",
+        "નાળિયેરનું દૂધ",
+        "ખાંડ",
+        "સૂકું ખમીર",
+        "એલચી પાઉડર",
+        "મીઠું",
+        "તવા માટે તેલ"
+      ],
+      "steps": [
+        "ચોખાનો લોટ, ખાંડ, ખમીર, એલચી અને મીઠું નાળિયેરના દૂધમાં ફેંટીને સુંવાળું રેડી શકાય એવું ખીરું બનાવો.",
+        "ઢાંકી લગભગ 1 કલાક ગરમ જગ્યાએ રાખો, પરપોટા આવે ત્યાં સુધી. બધી હવા કાઢ્યા વિના હળવે હલાવો.",
+        "પનિયારમ તવો મધ્યમ ધીમા તાપે ગરમ કરી ખાંચામાં તેલ લગાવો. દરેક ખાંચો ત્રણ ચોથાઈ ભરો, ઢાંકી 3 મિનિટ ચડાવો.",
+        "દરેક કેક ફેરવી વધુ 2–3 મિનિટ બહારથી સોનેરી અને અંદરથી ચડેલું થાય ત્યાં સુધી શેકો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "ઊંડા ખાંચાવાળો તવો લો; સપાટ તવા પર વિટુંબુઆ ગોળ નહીં બને."
+      ],
+      "passiveTime": "60 મિનિટ ખમીર આવવું"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vitumbua.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

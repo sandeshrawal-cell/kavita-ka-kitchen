@@ -1,0 +1,111 @@
+{
+  "sourceReviewId": "R0460",
+  "id": "pizza-al-taglio",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Pizza al Taglio",
+  "cuisine": "Roman",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 130,
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 380,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "crushed tomatoes",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast and water into a sticky dough; rest 20 minutes. Add salt and 20 ml olive oil, then fold the dough several times until elastic. Cover and rise 60 minutes.",
+    "Into a rectangular 30 by 40 cm tray, pour 25 ml oil. Transfer dough, gently stretch toward corners and rest 20 minutes, then stretch again to fill the tray.",
+    "Season tomatoes with oregano and spread thinly over dough. Bake on a low rack at 250°C for 12 minutes until the base starts to brown.",
+    "Add drained mozzarella, bake 5–7 minutes more until melted and crisp beneath. Drizzle remaining 10 ml oil and cut the rectangular pizza into eight slices."
+  ],
+  "tips": [
+    "The oiled rectangular tray and airy dough create the sliceable Roman street style."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिज़्ज़ा अल ताल्यो",
+      "ingredients": [
+        "ब्रेड बनाने का मैदा",
+        "पानी",
+        "इंस्टेंट यीस्ट",
+        "नमक",
+        "जैतून का तेल",
+        "कुचले टमाटर",
+        "शाकाहारी मोज़रेला चीज़",
+        "सूखा ओरेगानो"
+      ],
+      "steps": [
+        "मैदा, यीस्ट और पानी मिलाकर चिपचिपा आटा बनाएँ; 20 मिनट रखें। नमक और 20 मिली जैतून तेल डालकर कई बार मोड़ें, लचीला करें। ढककर 60 मिनट फूलने दें।",
+        "30 बाय 40 सेमी आयताकार ट्रे में 25 मिली तेल डालें। आटा रखकर धीरे कोनों की ओर फैलाएँ और 20 मिनट रखें, फिर पूरी ट्रे में फैलाएँ।",
+        "टमाटर में ओरेगानो मिलाकर आटे पर पतला फैलाएँ। 250°C पर ओवन की निचली जाली में 12 मिनट तल सुनहरा होने तक बेक करें।",
+        "पानी निकाली मोज़रेला डालें, 5–7 मिनट और चीज़ पिघलने और नीचे कुरकुरा होने तक बेक करें। बचा 10 मिली तेल डालें और आयताकार पिज़्ज़ा आठ स्लाइस में काटें।"
+      ],
+      "tips": [
+        "तेल लगी आयताकार ट्रे और हवादार आटा काटकर बेचने वाली रोमन शैली बनाते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "પિઝા અલ તાલ્યો",
+      "ingredients": [
+        "બ્રેડનો મેંદો",
+        "પાણી",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "મીઠું",
+        "ઓલિવ તેલ",
+        "છૂંદેલા ટમેટાં",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "સૂકો ઓરેગાનો"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ અને પાણી ભેળવી ચીકણો લોટ બનાવો; 20 મિનિટ રાખો. મીઠું અને 20 મિલી ઓલિવ તેલ નાખી વારંવાર વાળી લચીલો કરો. ઢાંકી 60 મિનિટ ફૂલવા દો.",
+        "30 બાય 40 સેમી લંબચોરસ ટ્રેમાં 25 મિલી તેલ નાખો. લોટ મૂકી ધીમે ખૂણાં તરફ ફેલાવો અને 20 મિનિટ રાખો, પછી આખી ટ્રેમાં ફેલાવો.",
+        "ટમેટાંમાં ઓરેગાનો ભેળવી લોટ પર પાતળાં ફેલાવો. 250°C પર ઓવનની નીચલી જાળી પર 12 મિનિટ તળિયું સોનેરી થવા લાગે ત્યાં સુધી બેક કરો.",
+        "પાણી નીતારેલું મોઝરેલા નાખો, 5–7 મિનિટ વધુ ચીઝ ઓગળે અને નીચે કરકરું થાય ત્યાં સુધી બેક કરો. બાકી 10 મિલી તેલ નાખી લંબચોરસ પિઝાના આઠ ટુકડા કાપો."
+      ],
+      "tips": [
+        "તેલ લગાડેલી લંબચોરસ ટ્રે અને હવાવાળો લોટ ટુકડા કરી પીરસવાની રોમન શૈલી બનાવે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/pizza-al-taglio.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

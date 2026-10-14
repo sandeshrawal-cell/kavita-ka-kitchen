@@ -1,0 +1,152 @@
+{
+  "sourceReviewId": "R0405",
+  "id": "tandoori-momos",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tandoori Momos",
+  "cuisine": "Delhi",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 90,
+  "passiveTime": "20 minutes dough resting and 20 minutes marinating",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage, finely chopped",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "carrots, grated",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions, chopped",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "ginger-garlic paste",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "thick yogurt",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "tandoori masala",
+      "qty": 14,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 11,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Knead 280 g all-purpose flour with 150 ml water and 3 g salt into a firm smooth dough. Cover and rest 20 minutes, then roll into 20 thin rounds about 9 cm wide.",
+    "Mix cabbage, carrots, spring onions, half the ginger-garlic paste and 3 g salt. Fill and pleat wrappers; steam 10 minutes until cooked, then cool and pat dry.",
+    "Toast gram flour briefly in 10 ml oil. Whisk with yogurt, remaining paste, tandoori masala, chilli, lemon and remaining salt. Coat momos and marinate 20 minutes.",
+    "Arrange marinated momos in a single layer on a tray, leaving space between them so the hot air can brown each side.",
+    "Brush with remaining oil and grill at 220°C for 10–12 minutes, turning once, until charred at the edges and hot throughout."
+  ],
+  "tips": [
+    "Steam the momos fully before grilling; the grill develops char but cannot reliably cook a raw filling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "तंदूरी मोमोज़",
+      "ingredients": [
+        "मैदा",
+        "बारीक पत्तागोभी",
+        "कद्दूकस गाजर",
+        "कटा हरा प्याज़",
+        "अदरक-लहसुन पेस्ट",
+        "गाढ़ा दही",
+        "बेसन",
+        "तंदूरी मसाला",
+        "कश्मीरी मिर्च पाउडर",
+        "नींबू का रस",
+        "तेल",
+        "नमक",
+        "आटे के लिए पानी"
+      ],
+      "steps": [
+        "280 ग्राम मैदा, 150 मिली पानी और 3 ग्राम नमक से चिकना सख्त आटा गूँधें। ढककर 20 मिनट रखें, फिर लगभग 9 सेमी की 20 पतली गोल पूरियाँ बेलें।",
+        "पत्तागोभी, गाजर, हरा प्याज़, आधा अदरक-लहसुन पेस्ट और 3 ग्राम नमक मिलाएँ। रैपर भरकर मोड़ें, 10 मिनट भाप में पकाएँ; ठंडा कर सुखाएँ।",
+        "10 मिली तेल में बेसन हल्का भूनें। दही, बाकी पेस्ट, तंदूरी मसाला, मिर्च, नींबू और बाकी नमक संग फेंटें। मोमोज़ पर लगाकर 20 मिनट रखें।",
+        "मेरिनेट किए मोमोज़ ट्रे में अलग-अलग एक परत में रखें ताकि गरम हवा हर तरफ उन्हें सेंक सके।",
+        "बाकी तेल लगाकर 220°C पर 10–12 मिनट ग्रिल करें, एक बार पलटें, जब तक किनारे सिकें और भीतर तक गरम हों।"
+      ],
+      "tips": [
+        "ग्रिल करने से पहले मोमोज़ पूरी तरह भाप में पकाएँ; ग्रिल रंग देती है पर कच्चा भरावन नहीं पका पाएगी।"
+      ],
+      "passiveTime": "20 मिनट आटे को आराम देना और 20 मिनट मेरिनेट करना"
+    },
+    "gu": {
+      "name": "તંદૂરી મોમોઝ",
+      "ingredients": [
+        "મેંદો",
+        "ઝીણી કોબી",
+        "છીણેલાં ગાજર",
+        "સમારેલી લીલી ડુંગળી",
+        "આદુ-લસણની પેસ્ટ",
+        "ઘટ્ટ દહીં",
+        "ચણાનો લોટ",
+        "તંદૂરી મસાલો",
+        "કાશ્મીરી મરચું પાઉડર",
+        "લીંબુનો રસ",
+        "તેલ",
+        "મીઠું",
+        "લોટ માટે પાણી"
+      ],
+      "steps": [
+        "280 ગ્રામ મેંદો, 150 મિલી પાણી અને 3 ગ્રામ મીઠાનો સુંવાળો કડક લોટ બાંધો. ઢાંકી 20 મિનિટ રાખો, પછી આશરે 9 સેમીની 20 પાતળી ગોળ પૂરી વણો.",
+        "કોબી, ગાજર, લીલી ડુંગળી, અડધી આદુ-લસણ પેસ્ટ અને 3 ગ્રામ મીઠું મિક્સ કરો. રેપર ભરી વાળી 10 મિનિટ બાફો; ઠંડાં કરી સૂકવો.",
+        "10 મિલી તેલમાં ચણાનો લોટ હળવો શેકો. દહીં, બાકી પેસ્ટ, તંદૂરી મસાલો, મરચું, લીંબુ અને બાકી મીઠા સાથે ફેંટો. મોમોઝ પર લગાવી 20 મિનિટ રાખો.",
+        "મેરિનેટ કરેલા મોમોઝ ટ્રેમાં એક જ પડમાં થોડા અંતરે મૂકો જેથી ગરમ હવા ચારે બાજુ શેકી શકે.",
+        "બાકી તેલ લગાવી 220°C પર 10–12 મિનિટ ગ્રિલ કરો, એક વાર ફેરવો, કિનારા શેકાય અને અંદર સુધી ગરમ થાય ત્યાં સુધી."
+      ],
+      "tips": [
+        "ગ્રિલ કરતાં પહેલાં મોમોઝ પૂરા બાફો; ગ્રિલ રંગ આપે છે પણ કાચું પૂરણ સારી રીતે રાંધી શકતી નથી."
+      ],
+      "passiveTime": "20 મિનિટ લોટને આરામ આપવો અને 20 મિનિટ મેરિનેટ કરવું"
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tandoori-momos.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

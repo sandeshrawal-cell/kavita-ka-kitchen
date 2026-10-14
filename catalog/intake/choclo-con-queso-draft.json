@@ -1,0 +1,95 @@
+{
+  "sourceReviewId": "R0468",
+  "id": "choclo-con-queso",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Choclo con Queso",
+  "cuisine": "Peruvian",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "ingredients": [
+    {
+      "name": "large-kerneled Peruvian choclo corn cobs",
+      "qty": 1200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh queso fresco or mild paneer",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2000,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lime wedges",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove the husks and silk from the choclo. Bring the water to a boil in a wide pot.",
+    "Add the cobs and simmer 15–20 minutes until the large kernels are tender but still hold their shape. Drain well.",
+    "Check a kernel near the middle of each cob for tenderness; continue simmering briefly if it is still chalky.",
+    "Cut the cheese into four thick portions. Serve one hot cob with one portion of cheese, a pinch of salt and a lime wedge per person."
+  ],
+  "tips": [
+    "Use true large-kernel choclo if available; ordinary sweetcorn is sweeter and cooks faster."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चोक्लो कोन केसो",
+      "ingredients": [
+        "बड़े दानों वाले पेरूवियन चोक्लो मकई के भुट्टे",
+        "ताज़ा केसो फ्रेस्को या हल्का पनीर",
+        "पानी",
+        "नमक",
+        "नींबू के टुकड़े"
+      ],
+      "steps": [
+        "चोक्लो के पत्ते और रेशे हटाएँ। चौड़े बर्तन में पानी उबालें।",
+        "ભુટ્ટे डालकर 15–20 मिनट धीमी आँच पर पकाएँ, जब तक बड़े दाने नरम हों पर आकार बनाए रखें। अच्छी तरह निथारें।",
+        "हर भुट्टे के बीच के पास का एक दाना नरम होने के लिए जाँचें; चाक जैसा कड़ा लगे तो थोड़ी देर और उबालें।",
+        "चीज़ के चार मोटे हिस्से करें। हर व्यक्ति को एक गरम भुट्टा, एक चीज़ का हिस्सा, चुटकी भर नमक और नींबू दें।"
+      ],
+      "tips": [
+        "संभव हो तो बड़े दानों वाला असली चोक्लो लें; साधारण स्वीट कॉर्न अधिक मीठी है और जल्दी पकती है।"
+      ]
+    },
+    "gu": {
+      "name": "ચોક્લો કોન કેસો",
+      "ingredients": [
+        "મોટા દાણાવાળા પેરુવિયન ચોક્લો મકાઈના ડોડા",
+        "તાજું કેસો ફ્રેસ્કો અથવા હળવું પનીર",
+        "પાણી",
+        "મીઠું",
+        "લીંબુની ચીરીઓ"
+      ],
+      "steps": [
+        "ચોક્લોના પાન અને રેસા દૂર કરો. પહોળા વાસણમાં પાણી ઉકાળો.",
+        "ડોડા નાખી 15–20 મિનિટ ધીમે ઉકાળો, મોટા દાણા નરમ થાય પણ આકાર જળવાય ત્યાં સુધી. સારી રીતે નિતારો.",
+        "દરેક ડોડાના મધ્ય પાસેનો દાણો નરમ થયો છે કે નહીં તપાસો; કાચો લાગે તો થોડું વધુ ઉકાળો.",
+        "ચીઝના ચાર જાડા ભાગ કરો. દરેકને એક ગરમ ડોડો, ચીઝનો એક ભાગ, ચપટી મીઠું અને લીંબુ પીરસો."
+      ],
+      "tips": [
+        "શક્ય હોય તો મોટા દાણાવાળું અસલી ચોક્લો લો; સામાન્ય મીઠી મકાઈ વધારે મીઠી હોય છે અને વહેલી ચડે છે."
+      ]
+    }
+  },
+  "reference": {
+    "url": "https://www.peru.travel/gastronomia/es/cocina-peruana/cocina-andina.html",
+    "use": "Dish identity and traditional method; quantities and instructions independently authored."
+  },
+  "photoDraft": "catalog/intake/photos/choclo-con-queso.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

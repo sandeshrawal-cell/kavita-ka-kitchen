@@ -1,0 +1,132 @@
+{
+  "sourceReviewId": "R0418",
+  "id": "kalmi-vada",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Kalmi Vada",
+  "cuisine": "Rajasthani",
+  "categories": [
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "passiveTime": "4 hours dal soaking",
+  "ingredients": [
+    {
+      "name": "chana dal",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "coriander leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "asafoetida",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "oil for frying",
+      "qty": 750,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak chana dal 4 hours, drain very thoroughly and grind coarsely with chillies and ginger, adding no more than a spoonful of water. Mix in fennel, cumin, coriander, asafoetida, chilli powder and salt.",
+    "Shape the mixture into 8 thick flat discs. Fry at 160°C for 5–6 minutes until set and lightly golden; drain and cool enough to handle.",
+    "Check that the centre of a first-fried disc is set before cutting; a loose centre will crumble during the second fry.",
+    "Cut each disc into two or three long wedges and fry again at 180°C for 2–3 minutes until the cut sides are deeply crisp. Serve with green chutney."
+  ],
+  "tips": [
+    "The second fry after slicing exposes the dal interior and gives kalmi vada its characteristic crunch."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कलमी वडा",
+      "ingredients": [
+        "चना दाल",
+        "हरी मिर्च",
+        "अदरक",
+        "सौंफ",
+        "जीरा",
+        "हरा धनिया",
+        "हींग",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "तलने के लिए तेल"
+      ],
+      "steps": [
+        "चना दाल 4 घंटे भिगोकर अच्छी तरह निथारें और मिर्च-अदरक संग दरदरी पीसें; एक चम्मच से अधिक पानी न डालें। सौंफ, जीरा, धनिया, हींग, मिर्च पाउडर और नमक मिलाएँ।",
+        "मिश्रण की 8 मोटी चपटी टिक्कियाँ बनाएँ। 160°C पर 5–6 मिनट जमने और हल्की सुनहरी होने तक तलें; निथारकर हाथ लगाने लायक ठंडा करें।",
+        "काटने से पहले जाँचें कि पहली बार तली टिक्की का बीच जम गया है; ढीला हिस्सा दूसरी बार तलते समय टूटेगा।",
+        "हर टिक्की के दो या तीन लंबे टुकड़े काटें और 180°C पर 2–3 मिनट फिर तलें, जब तक कटे भाग गहरे कुरकुरे हों। हरी चटनी के साथ परोसें।"
+      ],
+      "tips": [
+        "काटकर दोबारा तलने से दाल का अंदरूनी हिस्सा भी कुरकुरा होता है; यही कलमी वड़े की पहचान है।"
+      ],
+      "passiveTime": "4 घंटे दाल भिगोना"
+    },
+    "gu": {
+      "name": "કલમી વડા",
+      "ingredients": [
+        "ચણા દાળ",
+        "લીલાં મરચાં",
+        "આદુ",
+        "વરિયાળી",
+        "જીરું",
+        "કોથમીર",
+        "હિંગ",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "તળવા માટે તેલ"
+      ],
+      "steps": [
+        "ચણા દાળ 4 કલાક પલાળી સારી રીતે નિતારો અને મરચાં-આદુ સાથે દરદરી પીસો; એક ચમચીથી વધુ પાણી ન નાખો. વરિયાળી, જીરું, કોથમીર, હિંગ, મરચું અને મીઠું ભેળવો.",
+        "મિશ્રણની 8 જાડી ચપટી ટિક્કીઓ બનાવો. 160°C પર 5–6 મિનિટ સેટ થાય અને આછી સોનેરી થાય ત્યાં સુધી તળો; નિતારી હાથ લગાડાય એટલી ઠારી લો.",
+        "કાપતાં પહેલાં તપાસો કે પહેલી વાર તળેલી ટિક્કીનો મધ્ય ભાગ સેટ થયો છે; ઢીલો ભાગ બીજી વાર તળતાં તૂટી જશે.",
+        "દરેક ટિક્કીના બે કે ત્રણ લાંબા ટુકડા કાપી 180°C પર 2–3 મિનિટ ફરી તળો, કપાયેલી બાજુ ઘેરી કરકરી થાય ત્યાં સુધી. લીલી ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "કાપી ફરી તળવાથી દાળનો અંદરનો ભાગ પણ કરકરો થાય છે; એ કલમી વડાની ઓળખ છે."
+      ],
+      "passiveTime": "4 કલાક દાળ પલાળવી"
+    }
+  },
+  "reference": {
+    "url": "https://indianexpress.com/web-stories/food/eight-local-indian-snacks-you-have-never-heard-of/10129989/",
+    "use": "Rajasthani chana-dal fritter sliced and twice fried for crunch."
+  },
+  "photoDraft": "catalog/intake/photos/kalmi-vada.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}

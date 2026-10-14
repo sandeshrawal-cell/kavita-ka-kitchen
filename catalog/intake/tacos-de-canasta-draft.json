@@ -1,0 +1,105 @@
+{
+  "sourceReviewId": "R0497",
+  "id": "tacos-de-canasta",
+  "status": "published-fifth-100-intake-batch",
+  "name": "Tacos de Canasta",
+  "cuisine": "Mexican",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "ingredients": [
+    {
+      "name": "small corn tortillas",
+      "qty": 480,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes, peeled and diced",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "dried guajillo chillies, seeded",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1600,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil potatoes in water until tender, about 15 minutes. Drain and mash coarsely with 5 g salt.",
+    "Soak chillies in hot water 15 minutes and blend with 150 ml soaking water. Fry half the onion in 20 ml oil, add the chilli puree and remaining salt, then cook 5 minutes; stir into potatoes.",
+    "Warm tortillas so they bend. Put a spoon of filling in each and fold; line a lidded basket or pot with clean cloth and baking paper, then pack tacos tightly in layers.",
+    "Heat remaining oil with remaining onion until sizzling. Spoon the hot onion oil over the tacos, wrap tightly and leave 20 minutes to steam in their own heat before serving."
+  ],
+  "tips": [
+    "Keep the basket tightly covered; trapped steam softens the tortillas in the traditional style."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टाकोस दे कनास्ता",
+      "ingredients": [
+        "छोटी मकई टॉर्टिला",
+        "आलू, छिले और कटे",
+        "प्याज़, बारीक कटा",
+        "सूखी गुआहिलो मिर्च, बीज निकाले",
+        "तेल",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "आलू पानी में लगभग 15 मिनट नरम उबालें। निथारकर 5 ग्राम नमक के साथ दरदरे मसलें।",
+        "मिर्च 15 मिनट गरम पानी में भिगोकर 150 मिली भिगोने के पानी से पीसें। आधे प्याज़ को 20 मिली तेल में भूनें, मिर्च प्यूरी और बचा नमक डालकर 5 मिनट पकाएँ; आलू में मिलाएँ।",
+        "टॉर्टिला गरम करें ताकि मुड़ें। हर एक में चम्मच भरावन रखकर मोड़ें; ढकी टोकरी या बर्तन में साफ कपड़ा और बेकिंग पेपर बिछाकर टैको परतों में कसकर रखें।",
+        "बचा तेल और प्याज़ चटखने तक गरम करें। गरम प्याज़ तेल टैको पर डालें, कसकर लपेटें और परोसने से पहले अपनी गरमी में 20 मिनट भाप लगने दें।"
+      ],
+      "tips": [
+        "टोकरी अच्छी तरह ढकी रखें; बंद भाप से टॉर्टिला पारंपरिक ढंग से नरम होती हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ટાકોસ દે કાનાસ્તા",
+      "ingredients": [
+        "નાની મકાઈની ટોર્ટિયા",
+        "બટાકા, છોલેલા અને કાપેલા",
+        "ડુંગળી, બારીક સમારેલી",
+        "સૂકાં ગુઆહિલો મરચાં, બી કાઢેલાં",
+        "તેલ",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "બટાકા પાણીમાં લગભગ 15 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો. નિતારી 5 ગ્રામ મીઠા સાથે દરદરા મસળો.",
+        "મરચાં 15 મિનિટ ગરમ પાણીમાં પલાળી 150 મિલી પલાળવાના પાણી સાથે પીસો. અડધી ડુંગળી 20 મિલી તેલમાં સાંતળી મરચાંની પ્યુરી અને બાકી મીઠું નાખી 5 મિનિટ ચડાવો; બટાકામાં ભેળવો.",
+        "ટોર્ટિયા ગરમ કરો જેથી વળી શકે. દરેકમાં ચમચી પૂરણ મૂકી વાળો; ઢાંકણવાળી ટોપલી કે વાસણમાં સ્વચ્છ કપડું અને બેકિંગ પેપર પાથરી ટાકો પડમાં ચુસ્ત મૂકો.",
+        "બાકી તેલ અને ડુંગળી ચટકે ત્યાં સુધી ગરમ કરો. ગરમ ડુંગળીનું તેલ ટાકો પર રેડી ચુસ્ત વીંટો અને પીરસતાં પહેલાં પોતાની ગરમીમાં 20 મિનિટ વરાળે ચડવા દો."
+      ],
+      "tips": [
+        "ટોપલી સારી રીતે ઢાંકી રાખો; બંધ વરાળથી ટોર્ટિયા પરંપરાગત રીતે નરમ થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/tacos-de-canasta.png",
+  "photoReview": "Visually reviewed for dish identity, appetizing realistic appearance and photo quality on 2026-10-13."
+}
