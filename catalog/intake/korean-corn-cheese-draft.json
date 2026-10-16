@@ -1,0 +1,114 @@
+{
+  "sourceReviewId": "R2682",
+  "id": "korean-corn-cheese",
+  "status": "published-popular-200-intake-batch",
+  "name": "Korean Corn Cheese",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "sweet corn kernels",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "egg-free mayonnaise",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Drain corn thoroughly and finely chop onion and spring onions.",
+    "Melt butter in an oven-safe skillet. Sauté onion for 3 minutes, add corn and cook until surface moisture evaporates.",
+    "Remove from heat and mix in mayonnaise, sugar, pepper and half the cheese. Spread into an even layer.",
+    "Cover with remaining cheese and bake for 8–10 minutes until bubbling and lightly golden. Scatter spring onions and serve hot."
+  ],
+  "tips": [
+    "Use egg-free mayonnaise and cheese made with vegetarian rennet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कोरियन कॉर्न चीज़",
+      "ingredients": [
+        "स्वीट कॉर्न के दाने",
+        "शाकाहारी मोज़रेला चीज़",
+        "बिना अंडे की मेयोनेज़",
+        "मक्खन",
+        "प्याज़",
+        "चीनी",
+        "काली मिर्च",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "ओवन 220°C पर गरम करें। कॉर्न का पानी अच्छी तरह निकालें और प्याज़ व हरा प्याज़ बारीक काटें।",
+        "ओवन में रखने योग्य पैन में मक्खन पिघलाएँ। प्याज़ 3 मिनट भूनें, कॉर्न डालकर अतिरिक्त पानी सूखने तक पकाएँ।",
+        "आँच से हटाकर मेयोनेज़, चीनी, काली मिर्च और आधी चीज़ मिलाएँ। बराबर परत में फैलाएँ।",
+        "बाकी चीज़ डालकर 8–10 मिनट बुलबुले आने और हल्का सुनहरा होने तक बेक करें। हरा प्याज़ डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "बिना अंडे की मेयोनेज़ और शाकाहारी रेनेट से बनी चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "કોરિયન કોર્ન ચીઝ",
+      "ingredients": [
+        "સ્વીટ કોર્નના દાણા",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "ઈંડા વગરની મેયોનેઝ",
+        "માખણ",
+        "ડુંગળી",
+        "ખાંડ",
+        "કાળાં મરી",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "ઓવન 220°C પર ગરમ કરો. કોર્નનું પાણી સારી રીતે નિતારો અને ડુંગળી તથા લીલી ડુંગળી ઝીણાં સમારો.",
+        "ઓવનમાં મૂકી શકાય તેવા પેનમાં માખણ ઓગાળો. ડુંગળી 3 મિનિટ શેકો, કોર્ન ઉમેરી વધારાનું પાણી સૂકાય ત્યાં સુધી પકાવો.",
+        "તાપ પરથી ઉતારી મેયોનેઝ, ખાંડ, મરી અને અડધી ચીઝ ભેળવો. સરખું સ્તર ફેલાવો.",
+        "બાકીની ચીઝ પાથરી 8–10 મિનિટ પરપોટા આવે અને સહેજ સોનેરી થાય ત્યાં સુધી બેક કરો. લીલી ડુંગળી છાંટી ગરમ પીરસો."
+      ],
+      "tips": [
+        "ઈંડા વગરની મેયોનેઝ અને શાકાહારી રેનેટથી બનેલી ચીઝ લો."
+      ]
+    }
+  },
+  "photoDescription": "Small black skillet of yellow sweet corn under bubbling melted mozzarella with golden spots and scallions.",
+  "photoDraft": "catalog/intake/photos/korean-corn-cheese.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

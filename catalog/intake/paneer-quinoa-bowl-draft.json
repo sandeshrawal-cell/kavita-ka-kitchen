@@ -1,0 +1,153 @@
+{
+  "sourceReviewId": "R2994",
+  "id": "paneer-quinoa-bowl",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Quinoa Bowl",
+  "cuisine": "Indian Fusion",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cucumber",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse quinoa thoroughly in a fine sieve and drain. Combine with water and 2 g salt in a saucepan, bring to a boil, cover and simmer on low for 15 minutes until the water is absorbed. Rest off the heat for 5 minutes, then fluff.",
+    "Cut paneer into 2 cm cubes and pat dry. Toss with cumin, paprika, 2 g salt and 10 ml oil until evenly coated.",
+    "Heat a nonstick pan with 10 ml oil. Sear paneer over medium-high heat for 6 minutes, turning to brown several faces; remove as soon as hot and golden.",
+    "Dice cucumber, tomato and bell pepper, discarding the pepper seeds. Chop coriander. Whisk lemon juice with the remaining 15 ml oil, 2 g salt and black pepper.",
+    "Divide quinoa among 4 bowls. Top with warm paneer and the diced vegetables, drizzle with the lemon dressing and finish with coriander. Serve immediately."
+  ],
+  "tips": [
+    "Rinsing quinoa removes surface bitterness. For packed bowls, cool the cooked components and refrigerate, keeping the dressing separate until serving."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर क्विनोआ बाउल",
+      "ingredients": [
+        "क्विनोआ",
+        "पानी",
+        "पनीर",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "पापरिका",
+        "नमक",
+        "काली मिर्च",
+        "नींबू का रस",
+        "खीरा",
+        "टमाटर",
+        "लाल शिमला मिर्च",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "क्विनोआ को बारीक छलनी में अच्छी तरह धोकर छानें। पतीले में पानी और 2 g नमक के साथ उबालें, फिर ढककर धीमी आँच पर 15 मिनट पानी सोखने तक पकाएँ। आँच से हटाकर 5 मिनट रखें और हल्के से फुलाएँ।",
+        "पनीर के 2 cm टुकड़े काटकर सुखाएँ। जीरा, पापरिका, 2 g नमक और 10 ml तेल से समान रूप से लपेटें।",
+        "नॉनस्टिक पैन में 10 ml तेल गरम करें। पनीर को मध्यम-तेज़ आँच पर 6 मिनट कई ओर से पलटकर भूरा करें; गरम सुनहरा होते ही निकाल लें।",
+        "खीरा, टमाटर और शिमला मिर्च छोटे टुकड़ों में काटें; शिमला मिर्च के बीज हटा दें। धनिया काटें। नींबू रस में बचा 15 ml तेल, 2 g नमक और काली मिर्च फेंटें।",
+        "क्विनोआ 4 कटोरों में बाँटें। ऊपर गरम पनीर और कटी सब्ज़ियाँ रखें, नींबू की ड्रेसिंग डालें और धनिया बुरकें। तुरंत परोसें।"
+      ],
+      "tips": [
+        "क्विनोआ धोने से सतह का कड़वापन निकलता है। पैक किए बाउल के लिए पकी सामग्री ठंडी करके फ्रिज में रखें और परोसने तक ड्रेसिंग अलग रखें।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ક્વિનોઆ બાઉલ",
+      "ingredients": [
+        "ક્વિનોઆ",
+        "પાણી",
+        "પનીર",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "પૅપ્રિકા",
+        "મીઠું",
+        "કાળા મરી",
+        "લીંબુનો રસ",
+        "કાકડી",
+        "ટામેટાં",
+        "લાલ કેપ્સિકમ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ક્વિનોઆને ઝીણી ચાળણીમાં સારી રીતે ધોઈ નિતારો. તપેલીમાં પાણી અને 2 g મીઠા સાથે ઉકાળો, પછી ઢાંકી ધીમા તાપે 15 મિનિટ પાણી શોષાય ત્યાં સુધી પકાવો. તાપ પરથી ઉતારી 5 મિનિટ રાખો અને હળવેથી છૂટું કરો.",
+        "પનીરના 2 cm ટુકડા કરી લૂછી સૂકવો. જીરું, પૅપ્રિકા, 2 g મીઠું અને 10 ml તેલથી સરખું લપેટો.",
+        "નોનસ્ટિક પેનમાં 10 ml તેલ ગરમ કરો. પનીરને મધ્યમ-ઊંચા તાપે 6 મિનિટ અલગ બાજુઓ ફેરવી શેકો; ગરમ અને સોનેરી થાય એટલે કાઢો.",
+        "કાકડી, ટામેટાં અને કેપ્સિકમ નાના ટુકડામાં સમારો; કેપ્સિકમનાં બીજ દૂર કરો. ધાણા સમારો. લીંબુના રસમાં બાકીનું 15 ml તેલ, 2 g મીઠું અને કાળા મરી ફેંટો.",
+        "ક્વિનોઆ 4 બાઉલમાં વહેંચો. ઉપર ગરમ પનીર અને સમારેલાં શાક મૂકો, લીંબુની ડ્રેસિંગ રેડો અને ધાણા ભભરાવો. તરત પીરસો."
+      ],
+      "tips": [
+        "ક્વિનોઆ ધોવાથી સપાટીનો કડવો સ્વાદ દૂર થાય છે. પૅક કરેલા બાઉલ માટે રાંધેલી સામગ્રી ઠંડી કરી ફ્રિજમાં રાખો અને પીરસવા સુધી ડ્રેસિંગ અલગ રાખો."
+      ]
+    }
+  },
+  "photoDescription": "A quinoa grain bowl topped with golden seared paneer cubes, diced pale-green cucumber, red tomato and red bell pepper, with chopped fresh coriander and a light lemon dressing.",
+  "photoDraft": "catalog/intake/photos/paneer-quinoa-bowl.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

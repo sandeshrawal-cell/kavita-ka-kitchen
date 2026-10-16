@@ -1,0 +1,128 @@
+{
+  "batch": "popular200",
+  "items": [
+    {
+      "id": "kimchi-fried-rice",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Kimchi Fried Rice. Red-orange Korean kimchi fried rice with diced golden tofu, chopped kimchi, scallions and sesame; no egg. Show only the recipe ingredients, in their cooked form: short-grain rice, water, vegan kimchi, firm tofu, spring onions, garlic, soy sauce, vegetarian gochujang, neutral oil, toasted sesame oil, sesame seeds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+      "previousPrompts": [
+        "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Kimchi Fried Rice. Glossy red-orange Korean fried rice with chopped cabbage kimchi, small carrot pieces and scallions, sesame seeds on top. No fried egg. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+      ]
+    },
+    {
+      "id": "vegetable-bibimbap",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Bibimbap. Korean bowl with white rice underneath distinct radial piles of carrots, spinach, zucchini, mushrooms, golden tofu and red gochujang; no egg. Show only the recipe ingredients, in their cooked form: short-grain rice, water, firm tofu, carrot, spinach, zucchini, button mushrooms, garlic, soy sauce, vegetarian gochujang, rice vinegar, sugar, toasted sesame oil, neutral oil, sesame seeds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+      "previousPrompts": [
+        "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Bibimbap. Korean rice bowl with separate colourful sections of sauteed spinach, bean sprouts, julienned carrot, shiitake mushrooms and golden tofu around a red gochujang sauce centre. No egg. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+      ]
+    },
+    {
+      "id": "vegetable-kimbap",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Kimbap. Neat round nori kimbap slices showing white rice, orange carrot, green cucumber and spinach, beige tofu centres; no egg. Show only the recipe ingredients, in their cooked form: short-grain rice, water, nori seaweed sheets, carrot, spinach, cucumber, firm tofu, soy sauce, toasted sesame oil, neutral oil, sesame seeds, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+      "previousPrompts": [
+        "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Kimbap. Neatly sliced Korean seaweed rice rolls, white rice surrounding yellow pickled radish, carrot, cucumber, spinach and firm tofu strips. No egg, fish or meat. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+      ]
+    },
+    {
+      "id": "vegetable-ramen",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Ramen. Japanese ramen bowl with amber miso broth, pale noodles, tofu cubes, sliced mushrooms, spinach, carrot and scallions; no egg. Show only the recipe ingredients, in their cooked form: egg-free ramen noodles, vegetable stock, vegetarian miso paste, soy sauce, firm tofu, button mushrooms, spinach, carrot, ginger, garlic, toasted sesame oil, spring onions, sesame seeds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+      "previousPrompts": [
+        "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Ramen. Japanese bowl of wheat ramen noodles in savoury vegetable broth with shiitake mushrooms, bok choy, golden tofu cubes, sweetcorn and spring onion. No egg. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+      ]
+    },
+    {
+      "id": "japchae",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Japchae. Glossy translucent sweet potato glass noodles tossed with spinach, carrot strips, mushrooms and sesame seeds, Korean japchae. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "kimchi-pancake",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Kimchi Pancake. Crisp thin red-orange Korean cabbage kimchi pancake cut into wedges with scallion pieces and a small dipping sauce. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "korean-corn-cheese",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Korean Corn Cheese. Bubbling Korean sweetcorn and melted mozzarella cheese in a small black skillet, golden cheese patches and spring onion. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "vegetarian-sundubu-jjigae",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetarian Sundubu Jjigae. Korean spicy red bubbling stew with silky soft tofu, mushrooms, zucchini and scallions in a black earthenware bowl. No egg or shellfish. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "tofu-katsu",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tofu Katsu. Thick tofu slices coated in crunchy golden panko crumbs, sliced into strips, served with shredded cabbage and a dark katsu sauce in a separate small dish. No meat. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "inari-sushi",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Inari Sushi. Japanese inari sushi: golden-brown seasoned tofu pouches filled with white sushi rice, six small pouches arranged on a ceramic plate with sesame seeds. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "mapo-tofu",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Mapo Tofu. Sichuan vegetarian mapo tofu: soft white tofu cubes in glossy red chilli bean sauce with tiny mushroom crumbles and spring onions. No meat. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "agedashi-tofu",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Agedashi Tofu. Japanese agedashi tofu: delicate golden fried tofu cubes in shallow pale amber vegetarian mushroom-kombu broth with grated daikon, ginger and chopped spring onions. No fish flakes. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "chilli-garlic-tofu",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Chilli Garlic Tofu. Crisp golden tofu cubes coated in glossy red chilli garlic sauce with garlic flecks, bell pepper and spring onion. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "tofu-teriyaki-rice",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tofu Teriyaki Rice. White rice topped with glazed golden tofu cubes, glossy dark teriyaki sauce and sesame seeds, with steamed broccoli alongside. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "tofu-broccoli-stir-fry",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tofu Broccoli Stir-Fry. Glossy wok-fried tofu cubes and bright green broccoli florets with garlic in a light brown sauce. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "vegetable-tempura",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Tempura. Pale golden airy tempura vegetables, sweet potato rounds, zucchini, pepper and mushrooms. Show only the recipe ingredients, in their cooked form: sweet potato, zucchini, button mushrooms, bell pepper, all-purpose flour, rice flour, water, baking powder, salt, neutral oil, soy sauce, rice vinegar. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+      "previousPrompts": [
+        "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Vegetable Tempura. Light airy golden vegetable tempura pieces: sweet potato rounds, aubergine, bell pepper, green beans; delicate craggy batter, small soy dipping bowl. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+      ]
+    },
+    {
+      "id": "veg-gyoza",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Veg Gyoza. Japanese crescent vegetable gyoza with neat pleated tops and golden pan-fried bottoms, small soy-vinegar dipping sauce. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "crystal-dumplings",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Crystal Dumplings. Steamed translucent pleated crystal dumplings with visible finely chopped colourful vegetables through delicate wrappers in a bamboo basket. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "tofu-bao",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tofu Bao. Fluffy white folded bao buns filled with golden glazed tofu, cucumber and carrot strips. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "mushroom-bao",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Mushroom Bao. Fluffy white folded bao buns filled with dark glossy sauteed mushrooms, cucumber and spring onion. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "paneer-tikka-bowl",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Paneer Tikka Bowl. Indian meal bowl of charred orange paneer tikka cubes with rice, onion, cucumber, tomato and mint chutney. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "paneer-quinoa-bowl",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Paneer Quinoa Bowl. Quinoa grain bowl with golden seared paneer cubes, diced cucumber, tomato, bell pepper and fresh coriander. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "soya-65",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Soya 65. Crispy red-orange fried soya chunks with curry leaves and green chilli, Indian soya 65, dry snack presentation. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "soya-seekh-kebab",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Soya Seekh Kebab. Four browned cylindrical vegetarian soya seekh kebabs with grilled char marks, mint chutney and onion rings. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "soya-momos",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Soya Momos. Steamed pleated crescent momos filled with seasoned soya mince, one cut open to reveal crumbly vegetarian filling, red chilli dipping sauce. Realistic freshly cooked food, beautiful appetizing plating, natural window light, true food textures, warm neutral background, close three-quarter view, square composition. One dish only, no text, logo, collage, people, meat, eggs or alcohol. Vegetarian ingredients only."
+    },
+    {
+      "id": "hotteok",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Hotteok. Golden Korean griddle pancakes with mottled brown surfaces; one torn open to show glossy brown-sugar syrup and chopped walnut filling. No toppings or syrup poured on the outside. Show only the recipe ingredients, in their cooked form: plain flour, glutinous rice flour, instant yeast, sugar, salt, warm water, neutral oil, brown sugar, walnuts, finely chopped, ground cinnamon. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes."
+    },
+    {
+      "id": "onigiri",
+      "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Onigiri. White triangular Japanese rice balls with black nori strips around the bottom and a light sesame sprinkle; one split to reveal a small reddish umeboshi plum centre. Show only the recipe ingredients, in their cooked form: Japanese short-grain rice, water for cooking rice, pitted umeboshi plums, salt, toasted nori sheets, toasted sesame seeds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes."
+    }
+  ]
+}

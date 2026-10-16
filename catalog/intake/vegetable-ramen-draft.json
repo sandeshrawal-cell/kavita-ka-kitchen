@@ -1,0 +1,150 @@
+{
+  "sourceReviewId": "R1033",
+  "id": "vegetable-ramen",
+  "status": "published-popular-200-intake-batch",
+  "name": "Vegetable Ramen",
+  "cuisine": "Japanese",
+  "categories": [
+    "Soups",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "stew",
+  "ingredients": [
+    {
+      "name": "egg-free ramen noodles",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 1400,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian miso paste",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onions",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Slice mushrooms and carrot, cube tofu and mince ginger and garlic. Heat sesame oil and sauté aromatics for 1 minute.",
+    "Add mushrooms and carrot; cook 4 minutes. Pour in stock and soy sauce, add tofu and simmer for 8 minutes.",
+    "Cook noodles separately in boiling water according to the packet; drain. Wilt spinach in the broth for 1 minute.",
+    "Turn off heat. Dissolve miso in a ladle of broth and stir back in. Divide noodles and broth among bowls; garnish with spring onions and sesame."
+  ],
+  "tips": [
+    "Use vegetable-only stock and miso; add noodles just before serving so they do not soften excessively."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल रामेन",
+      "ingredients": [
+        "बिना अंडे के रामेन नूडल्स",
+        "सब्ज़ियों का स्टॉक",
+        "शाकाहारी मिसो पेस्ट",
+        "सोया सॉस",
+        "सख्त टोफू",
+        "बटन मशरूम",
+        "पालक",
+        "गाजर",
+        "अदरक",
+        "लहसुन",
+        "भुने तिल का तेल",
+        "हरा प्याज़",
+        "तिल"
+      ],
+      "steps": [
+        "मशरूम और गाजर काटें, टोफू के टुकड़े करें और अदरक-लहसुन बारीक काटें। तिल के तेल में अदरक-लहसुन 1 मिनट भूनें।",
+        "मशरूम और गाजर 4 मिनट भूनें। स्टॉक, सोया सॉस और टोफू डालकर 8 मिनट धीमी आँच पर पकाएँ।",
+        "नूडल्स अलग उबलते पानी में पैकेट के निर्देशानुसार पकाकर छानें। शोरबे में पालक 1 मिनट पकाएँ।",
+        "आँच बंद करें। थोड़े शोरबे में मिसो घोलकर वापस मिलाएँ। कटोरों में नूडल्स और शोरबा डालें; हरे प्याज़ और तिल से सजाएँ।"
+      ],
+      "tips": [
+        "केवल सब्ज़ियों का स्टॉक और शाकाहारी मिसो लें; नूडल्स परोसने से ठीक पहले डालें।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ રામેન",
+      "ingredients": [
+        "ઈંડા વગરના રામેન નૂડલ્સ",
+        "શાકભાજીનો સ્ટોક",
+        "શાકાહારી મિસો પેસ્ટ",
+        "સોયા સોસ",
+        "કઠણ ટોફુ",
+        "બટન મશરૂમ",
+        "પાલક",
+        "ગાજર",
+        "આદુ",
+        "લસણ",
+        "શેકેલા તલનું તેલ",
+        "લીલી ડુંગળી",
+        "તલ"
+      ],
+      "steps": [
+        "મશરૂમ અને ગાજર સમારો, ટોફુના ટુકડા કરો અને આદુ-લસણ ઝીણાં સમારો. તલના તેલમાં આદુ-લસણ 1 મિનિટ શેકો.",
+        "મશરૂમ અને ગાજર 4 મિનિટ શેકો. સ્ટોક, સોયા સોસ અને ટોફુ ઉમેરી 8 મિનિટ ધીમા તાપે પકાવો.",
+        "નૂડલ્સ અલગ ઉકળતા પાણીમાં પેકેટ મુજબ પકાવી નિતારો. શોરબામાં પાલક 1 મિનિટ પકાવો.",
+        "તાપ બંધ કરો. થોડા શોરબામાં મિસો ઓગાળી પાછું ભેળવો. વાટકામાં નૂડલ્સ અને શોરબો ઉમેરો; લીલી ડુંગળી અને તલથી સજાવો."
+      ],
+      "tips": [
+        "માત્ર શાકભાજીનો સ્ટોક અને શાકાહારી મિસો લો; નૂડલ્સ પીરસતાં પહેલાં જ ઉમેરો."
+      ]
+    }
+  },
+  "photoDescription": "Japanese ramen bowl with amber miso broth, pale noodles, tofu cubes, sliced mushrooms, spinach, carrot and scallions; no egg.",
+  "photoDraft": "catalog/intake/photos/vegetable-ramen.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,205 @@
+{
+  "sourceReviewId": "R2919",
+  "id": "paneer-tikka-bowl",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Tikka Bowl",
+  "cuisine": "Indian Fusion",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "grill",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "basmati rice",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water for rice",
+      "qty": 480,
+      "unit": "ml"
+    },
+    {
+      "name": "thick plain curd",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, crushed",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "red onion",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut paneer into 2.5 cm cubes. Mix 120 g curd, 15 ml oil, ginger, garlic, chilli powder, cumin, coriander powder, garam masala, turmeric, 2 g salt and 15 ml lemon juice. Coat paneer gently and refrigerate for 30 minutes.",
+    "Meanwhile rinse rice, drain well and put in a saucepan with the measured water and 3 g salt. Bring to a boil, cover and cook on low heat for 12 minutes. Switch off and rest covered for 10 minutes, then fluff.",
+    "Blend mint, fresh coriander, green chilli, remaining 40 g curd, 1 g salt and 10 ml lemon juice into a thick chutney. Slice onion and dice cucumber and tomato; toss the vegetables with the remaining 10 ml lemon juice.",
+    "Heat a grill pan over medium-high heat and brush with the remaining 15 ml oil. Lift paneer from excess marinade and cook in batches for 8 minutes, turning carefully until browned at the edges and hot throughout. Avoid crowding the pan.",
+    "Divide rice among 4 bowls. Arrange paneer tikka, onion, cucumber and tomato in distinct sections and spoon mint chutney over one side. Serve while the rice and paneer are warm."
+  ],
+  "tips": [
+    "Use thick curd so the coating adheres. Prepare the rice, chutney and salad during marination; prolonged grilling makes paneer tough."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर टिक्का बाउल",
+      "ingredients": [
+        "पनीर",
+        "बासमती चावल",
+        "चावल के लिए पानी",
+        "गाढ़ा सादा दही",
+        "तटस्थ स्वाद वाला तेल",
+        "कसा अदरक",
+        "कुटा लहसुन",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "जीरा पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "हल्दी",
+        "नमक",
+        "नींबू का रस",
+        "लाल प्याज़",
+        "खीरा",
+        "टमाटर",
+        "पुदीने के पत्ते",
+        "हरा धनिया",
+        "हरी मिर्च"
+      ],
+      "steps": [
+        "पनीर के 2.5 cm टुकड़े काटें। 120 g दही, 15 ml तेल, अदरक, लहसुन, मिर्च पाउडर, जीरा, धनिया पाउडर, गरम मसाला, हल्दी, 2 g नमक और 15 ml नींबू रस मिलाएँ। पनीर को हल्के हाथ लपेटकर 30 मिनट फ्रिज में रखें।",
+        "इस बीच चावल धोकर अच्छी तरह छानें और पतीले में नापा पानी तथा 3 g नमक डालें। उबाल आने पर ढककर धीमी आँच पर 12 मिनट पकाएँ। आँच बंद कर ढका हुआ 10 मिनट रखें, फिर हल्के से फुलाएँ।",
+        "पुदीना, हरा धनिया, हरी मिर्च, बचा 40 g दही, 1 g नमक और 10 ml नींबू रस पीसकर गाढ़ी चटनी बनाएँ। प्याज़ पतला और खीरा व टमाटर छोटे टुकड़ों में काटें; सब्ज़ियों में बचा 10 ml नींबू रस मिलाएँ।",
+        "ग्रिल पैन मध्यम-तेज़ आँच पर गरम कर बचे 15 ml तेल से चिकना करें। अतिरिक्त मैरिनेड हटाकर पनीर बैचों में 8 मिनट सावधानी से पलटते हुए सेंकें, किनारे भूरे और भीतर गरम हों। पैन में भीड़ न करें।",
+        "चावल 4 कटोरों में बाँटें। पनीर टिक्का, प्याज़, खीरा और टमाटर अलग हिस्सों में रखें और एक ओर पुदीना चटनी डालें। चावल और पनीर गरम रहते परोसें।"
+      ],
+      "tips": [
+        "गाढ़ा दही लें ताकि मसाला चिपके। मैरिनेट करते समय चावल, चटनी और सलाद तैयार करें; ज़्यादा देर सेंकने से पनीर सख्त होता है।"
+      ],
+      "passiveTime": "मैरिनेट करने के लिए 30 मिनट रखें; इसी समय बाकी सामग्री तैयार करें।"
+    },
+    "gu": {
+      "name": "પનીર ટિક્કા બાઉલ",
+      "ingredients": [
+        "પનીર",
+        "બાસમતી ચોખા",
+        "ભાત માટે પાણી",
+        "ઘટ્ટ સાદું દહીં",
+        "તટસ્થ સ્વાદનું તેલ",
+        "છીણેલું આદુ",
+        "કચડેલું લસણ",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "જીરું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "હળદર",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "લાલ ડુંગળી",
+        "કાકડી",
+        "ટામેટાં",
+        "ફુદીનાનાં પાન",
+        "લીલા ધાણા",
+        "લીલું મરચું"
+      ],
+      "steps": [
+        "પનીરના 2.5 cm ટુકડા કરો. 120 g દહીં, 15 ml તેલ, આદુ, લસણ, મરચું પાઉડર, જીરું, ધાણા પાઉડર, ગરમ મસાલો, હળદર, 2 g મીઠું અને 15 ml લીંબુનો રસ ભેળવો. પનીરને હળવેથી લપેટી 30 મિનિટ ફ્રિજમાં રાખો.",
+        "તે દરમિયાન ચોખા ધોઈ સારી રીતે નિતારી તપેલીમાં માપેલું પાણી અને 3 g મીઠું ઉમેરો. ઉકળે પછી ઢાંકી ધીમા તાપે 12 મિનિટ પકાવો. તાપ બંધ કરી ઢાંકેલું 10 મિનિટ રાખો, પછી હળવેથી છૂટો કરો.",
+        "ફુદીનો, લીલા ધાણા, લીલું મરચું, બાકીનું 40 g દહીં, 1 g મીઠું અને 10 ml લીંબુનો રસ વાટી ઘટ્ટ ચટણી બનાવો. ડુંગળી પાતળી અને કાકડી તથા ટામેટાં નાના ટુકડામાં સમારો; શાકમાં બાકીનો 10 ml લીંબુનો રસ ભેળવો.",
+        "ગ્રિલ પેન મધ્યમ-ઊંચા તાપે ગરમ કરી બાકીના 15 ml તેલથી ચોપડો. વધારાનું મેરિનેડ દૂર કરી પનીર હપ્તામાં 8 મિનિટ કાળજીથી ફેરવતાં શેકો, કિનારા ભૂરા અને અંદરથી ગરમ થાય ત્યાં સુધી. પેન વધુ ન ભરો.",
+        "ભાત 4 બાઉલમાં વહેંચો. પનીર ટિક્કા, ડુંગળી, કાકડી અને ટામેટાં અલગ ભાગમાં ગોઠવો અને એક બાજુ ફુદીનાની ચટણી મૂકો. ભાત અને પનીર ગરમ હોય ત્યારે પીરસો."
+      ],
+      "tips": [
+        "ઘટ્ટ દહીં લો જેથી મસાલો ચોંટે. મેરિનેટ થતું હોય ત્યારે ભાત, ચટણી અને સલાડ તૈયાર કરો; વધારે શેકવાથી પનીર કઠણ થાય છે."
+      ],
+      "passiveTime": "મેરિનેટ કરવા 30 મિનિટ રાખો; તે દરમિયાન બાકીની સામગ્રી તૈયાર કરો."
+    }
+  },
+  "photoDescription": "A bowl of fluffy basmati rice with orange paneer tikka cubes bearing browned grill edges, sliced red onion, diced cucumber and tomato in sections, and green mint-coriander chutney on one side.",
+  "passiveTime": "Allow 30 minutes for marinating; prepare the other components during this time.",
+  "photoDraft": "catalog/intake/photos/paneer-tikka-bowl.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

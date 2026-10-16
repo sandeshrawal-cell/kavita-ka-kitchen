@@ -1,0 +1,191 @@
+{
+  "sourceReviewId": "R2903",
+  "id": "soya-seekh-kebab",
+  "status": "published-popular-200-intake-batch",
+  "name": "Soya Seekh Kebab",
+  "cuisine": "Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "grill",
+  "ingredients": [
+    {
+      "name": "dry soya granules",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "peeled potato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "water for boiling",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "gram flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "amchur",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Cut potato into small pieces and simmer in 500 ml water for 15 minutes until tender; drain, let steam dry and mash. In a separate pan boil soya granules in the remaining 500 ml water for 5 minutes, drain, rinse and squeeze very firmly in a clean cloth.",
+    "Dry-roast gram flour over low heat for 4 minutes, stirring until nutty; transfer to a bowl. Finely chop 100 g onion and reserve the remaining 80 g as serving rings. Heat 15 ml oil, cook chopped onion for 5 minutes, then add ginger, garlic and half the green chilli; cook for 1 minute.",
+    "Add squeezed soya, garam masala, cumin, chilli powder, amchur and 6 g salt to the onion pan. Stir over medium heat for 4 minutes to drive off moisture; cool until comfortable to handle.",
+    "Pulse the soya mixture briefly to a coarse mince. Mix with mashed potato, roasted gram flour, 20 g chopped coriander and 10 ml lemon juice. Knead until cohesive, then shape firmly around metal skewers into 8 even cylinders with no cracks.",
+    "Blend mint, remaining 15 g coriander, remaining green chilli, curd, remaining 15 ml lemon juice and 1 g salt into a smooth chutney. Keep chilled while cooking the kebabs.",
+    "Heat a ridged grill pan over medium heat. Brush the pan and kebabs with the remaining 25 ml oil across batches. Grill for 10 minutes, rotating gently until browned on all sides and firm enough to lift. Slide off the skewers and serve with onion rings and mint chutney."
+  ],
+  "tips": [
+    "The mixture should hold its shape before grilling. If loose, cook it briefly to remove moisture and cool before shaping; do not turn kebabs until their first side has set."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया सीख कबाब",
+      "ingredients": [
+        "सूखे सोया दाने",
+        "छिला आलू",
+        "उबालने के लिए पानी",
+        "बेसन",
+        "लाल प्याज़",
+        "कसा अदरक",
+        "बारीक कटा लहसुन",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "पुदीने के पत्ते",
+        "सादा दही",
+        "नींबू का रस",
+        "गरम मसाला",
+        "जीरा पाउडर",
+        "लाल मिर्च पाउडर",
+        "अमचूर",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "आलू छोटे टुकड़ों में काटकर 500 ml पानी में 15 मिनट नरम होने तक उबालें; छानें, भाप निकलने दें और मसलें। अलग पैन में सोया दाने बचे 500 ml पानी में 5 मिनट उबालें, छानें, धोएँ और साफ कपड़े में अच्छी तरह निचोड़ें।",
+        "बेसन धीमी आँच पर 4 मिनट खुशबू आने तक चलाते हुए सूखा भूनकर कटोरे में निकालें। 100 g प्याज़ बारीक काटें और बचे 80 g के छल्ले परोसने के लिए रखें। 15 ml तेल गरम करें, कटा प्याज़ 5 मिनट पकाएँ, फिर अदरक, लहसुन और आधी हरी मिर्च डालकर 1 मिनट पकाएँ।",
+        "प्याज़ के पैन में निचोया सोया, गरम मसाला, जीरा, मिर्च पाउडर, अमचूर और 6 g नमक डालें। नमी सुखाने के लिए मध्यम आँच पर 4 मिनट चलाएँ; हाथ से पकड़ने लायक ठंडा करें।",
+        "सोया मिश्रण को थोड़ा पीसकर दरदरा कीमा बनाएँ। मसले आलू, भुना बेसन, 20 g कटा धनिया और 10 ml नींबू रस मिलाएँ। एकसार बँधने तक मसलें, फिर धातु की सींखों पर कसकर 8 समान बेलनाकार कबाब बनाएँ जिनमें दरारें न हों।",
+        "पुदीना, बचा 15 g धनिया, बची हरी मिर्च, दही, बचा 15 ml नींबू रस और 1 g नमक पीसकर चिकनी चटनी बनाएँ। कबाब पकने तक ठंडी रखें।",
+        "धारीदार ग्रिल पैन मध्यम आँच पर गरम करें। बचे 25 ml तेल से बैचों में पैन और कबाब को चिकना करें। 10 मिनट धीरे घुमाकर सेंकें, जब तक सभी ओर भूरा और उठाने लायक सख्त हो। सींख से उतारकर प्याज़ के छल्लों और पुदीना चटनी के साथ परोसें।"
+      ],
+      "tips": [
+        "ग्रिल करने से पहले मिश्रण का आकार टिकना चाहिए। ढीला हो तो थोड़ा पकाकर नमी हटाएँ और आकार देने से पहले ठंडा करें; पहली तरफ जमने तक कबाब न पलटें।"
+      ]
+    },
+    "gu": {
+      "name": "સોયા સીખ કબાબ",
+      "ingredients": [
+        "સૂકા સોયા દાણા",
+        "છોલેલું બટાકું",
+        "ઉકાળવા માટે પાણી",
+        "બેસન",
+        "લાલ ડુંગળી",
+        "છીણેલું આદુ",
+        "બારીક સમારેલું લસણ",
+        "લીલું મરચું",
+        "લીલા ધાણા",
+        "ફુદીનાનાં પાન",
+        "સાદું દહીં",
+        "લીંબુનો રસ",
+        "ગરમ મસાલો",
+        "જીરું પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "આમચૂર",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "બટાકાને નાના ટુકડામાં કાપી 500 ml પાણીમાં 15 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો; નિતારો, વરાળ નીકળવા દો અને મસળો. અલગ પેનમાં સોયા દાણા બાકીના 500 ml પાણીમાં 5 મિનિટ ઉકાળો, નિતારો, ધુઓ અને સ્વચ્છ કપડામાં ખૂબ સારી રીતે નીચોવો.",
+        "બેસન ધીમા તાપે 4 મિનિટ સુગંધ આવે ત્યાં સુધી હલાવતાં કોરો શેકી વાસણમાં કાઢો. 100 g ડુંગળી બારીક સમારો અને બાકીની 80 g ડુંગળીનાં વલય પીરસવા માટે રાખો. 15 ml તેલ ગરમ કરી સમારેલી ડુંગળી 5 મિનિટ પકાવો, પછી આદુ, લસણ અને અડધું લીલું મરચું ઉમેરી 1 મિનિટ પકાવો.",
+        "ડુંગળીના પેનમાં નીચોવેલો સોયા, ગરમ મસાલો, જીરું, મરચું પાઉડર, આમચૂર અને 6 g મીઠું ઉમેરો. ભેજ સૂકવવા મધ્યમ તાપે 4 મિનિટ હલાવો; હાથમાં લઈ શકાય એટલું ઠંડું કરો.",
+        "સોયાના મિશ્રણને થોડું પીસી દરદરો કીમો બનાવો. મસળેલું બટાકું, શેકેલું બેસન, 20 g સમારેલા ધાણા અને 10 ml લીંબુનો રસ ભેળવો. બંધાય ત્યાં સુધી મસળો, પછી ધાતુની સળી પર દબાવી તિરાડ વગરના 8 સરખા નળાકાર કબાબ બનાવો.",
+        "ફુદીનો, બાકીના 15 g ધાણા, બાકીનું લીલું મરચું, દહીં, બાકીનો 15 ml લીંબુનો રસ અને 1 g મીઠું વાટી સુંવાળી ચટણી બનાવો. કબાબ રંધાય ત્યાં સુધી ઠંડી રાખો.",
+        "ધારીવાળો ગ્રિલ પેન મધ્યમ તાપે ગરમ કરો. બાકીના 25 ml તેલથી હપ્તામાં પેન અને કબાબ ચોપડો. 10 મિનિટ હળવેથી ફેરવતાં શેકો, બધી બાજુ ભૂરા અને ઉપાડી શકાય એટલા મજબૂત થાય ત્યાં સુધી. સળીમાંથી કાઢી ડુંગળીનાં વલય અને ફુદીનાની ચટણી સાથે પીરસો."
+      ],
+      "tips": [
+        "ગ્રિલ કરતાં પહેલાં મિશ્રણનો આકાર ટકવો જોઈએ. ઢીલું હોય તો થોડું પકાવી ભેજ દૂર કરો અને આકાર આપતાં પહેલાં ઠંડું કરો; પહેલી બાજુ બંધાય ત્યાં સુધી કબાબ ન ફેરવો."
+      ]
+    }
+  },
+  "photoDescription": "Brown cylindrical vegetarian soya seekh kebabs with visible grill marks and small herb flecks, served with red onion rings and a separate small bowl of green mint-coriander chutney.",
+  "photoDraft": "catalog/intake/photos/soya-seekh-kebab.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

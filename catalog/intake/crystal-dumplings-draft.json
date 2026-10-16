@@ -1,0 +1,142 @@
+{
+  "sourceReviewId": "R3511",
+  "id": "crystal-dumplings",
+  "status": "published-popular-200-intake-batch",
+  "name": "Crystal Dumplings",
+  "cuisine": "Chinese",
+  "categories": [
+    "Snacks",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "wheat starch",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "tapioca starch",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 260,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cabbage",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Finely chop vegetables, garlic and ginger. Sauté in sesame oil for 7 minutes until dry; add soy and half the salt, then cool.",
+    "Mix starches and remaining salt; stir in freshly boiling water. Cover for 3 minutes, then knead with oil when safe to touch.",
+    "Keep dough warm and covered. Divide into 24 balls, press thin circles and enclose small portions of cooled filling carefully.",
+    "Space dumplings on perforated parchment in a steamer. Steam for 8–10 minutes until translucent; rest briefly before carefully lifting."
+  ],
+  "tips": [
+    "Use wheat starch, not ordinary wheat flour, for the translucent wrappers."
+  ],
+  "translations": {
+    "hi": {
+      "name": "क्रिस्टल डम्पलिंग्स",
+      "ingredients": [
+        "गेहूँ का स्टार्च",
+        "टैपिओका स्टार्च",
+        "पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "नमक",
+        "गाजर",
+        "पत्तागोभी",
+        "बटन मशरूम",
+        "लहसुन",
+        "अदरक",
+        "सोया सॉस",
+        "भुने तिल का तेल"
+      ],
+      "steps": [
+        "सब्ज़ियाँ, लहसुन-अदरक बारीक काटें। तिल के तेल में 7 मिनट सूखने तक भूनें; सोया सॉस और आधा नमक डालकर ठंडा करें।",
+        "दोनों स्टार्च और बाकी नमक मिलाकर उबलता पानी डालें। 3 मिनट ढकें; हाथ सहने योग्य होने पर तेल से गूँधें।",
+        "आटा गरम और ढका रखें। 24 गोले करें, पतला दबाएँ और थोड़ा ठंडा भरावन रखकर सावधानी से बंद करें।",
+        "स्टीमर में छेद वाले कागज़ पर दूरी से रखें। 8–10 मिनट पारदर्शी होने तक भाप दें; सावधानी से उठाने से पहले थोड़ा रुकें।"
+      ],
+      "tips": [
+        "पारदर्शी रैपर के लिए गेहूँ का स्टार्च लें, सामान्य गेहूँ का आटा नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ક્રિસ્ટલ ડમ્પલિંગ્સ",
+      "ingredients": [
+        "ઘઉંનો સ્ટાર્ચ",
+        "ટેપિયોકા સ્ટાર્ચ",
+        "પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "મીઠું",
+        "ગાજર",
+        "કોબી",
+        "બટન મશરૂમ",
+        "લસણ",
+        "આદુ",
+        "સોયા સોસ",
+        "શેકેલા તલનું તેલ"
+      ],
+      "steps": [
+        "શાક, લસણ-આદુ ઝીણાં સમારો. તલના તેલમાં 7 મિનિટ કોરાં થાય ત્યાં સુધી શેકો; સોયા સોસ અને અડધું મીઠું ઉમેરી ઠંડું કરો.",
+        "બંને સ્ટાર્ચ અને બાકીનું મીઠું ભેળવી ઉકળતું પાણી ઉમેરો. 3 મિનિટ ઢાંકો; હાથ સહન કરી શકે ત્યારે તેલથી બાંધો.",
+        "લોટ ગરમ અને ઢાંકેલો રાખો. 24 ગોળા કરો, પાતળા દબાવો અને થોડું ઠંડું ભરાવણ મૂકી કાળજીથી બંધ કરો.",
+        "સ્ટીમરમાં છિદ્રવાળા કાગળ પર અંતર રાખી મૂકો. 8–10 મિનિટ અર્ધપારદર્શક થાય ત્યાં સુધી વરાળ આપો; કાળજીથી ઉઠાવતાં પહેલાં થોડું થોભો."
+      ],
+      "tips": [
+        "અર્ધપારદર્શક રેપર માટે ઘઉંનો સ્ટાર્ચ લો, સામાન્ય ઘઉંનો લોટ નહીં."
+      ]
+    }
+  },
+  "photoDescription": "Translucent steamed crystal dumplings revealing orange carrot and pale-green vegetable filling.",
+  "photoDraft": "catalog/intake/photos/crystal-dumplings.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

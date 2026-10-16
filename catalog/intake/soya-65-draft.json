@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R2901",
+  "id": "soya-65",
+  "status": "published-popular-200-intake-batch",
+  "name": "Soya 65",
+  "cuisine": "Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "fry",
+  "ingredients": [
+    {
+      "name": "dry soya chunks",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "water for boiling",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "plain curd",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil for frying and tempering",
+      "qty": 620,
+      "unit": "ml"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "green chillies, slit",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Bring the measured water to a boil. Add soya chunks and boil for 5 minutes or until completely soft. Drain, rinse under cool water and squeeze firmly in small handfuls to remove trapped water. Halve any large chunks.",
+    "Mix curd, ginger, 10 g garlic, chilli powder, cumin, turmeric and salt. Coat the squeezed chunks and let stand for 15 minutes. Add cornflour and rice flour and toss until every chunk has a thick, clinging coating.",
+    "Heat 600 ml oil in a small deep saucepan to 175°C, keeping the pan less than half full. Fry the coated chunks in small batches for 4 minutes, turning until crisp and reddish-golden. Let the oil return to temperature between batches.",
+    "Lift fried soya onto a wire rack to drain. Pat the curry leaves and slit chillies completely dry before tempering.",
+    "Heat the remaining 20 ml oil in a wide pan. Fry the remaining 10 g garlic for 30 seconds, then add curry leaves and green chillies and stir for 30 seconds. Add fried soya and toss for 1 minute.",
+    "Switch off the heat, drizzle with lemon juice and toss briefly. Serve immediately as a dry, crisp snack with the fried curry leaves and chillies."
+  ],
+  "tips": [
+    "The frying oil quantity is the cooking medium; most remains in the pan. Thorough squeezing gives crisp chunks, while excessive curd or retained water makes the coating slip off."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया 65",
+      "ingredients": [
+        "सूखे सोया चंक्स",
+        "उबालने के लिए पानी",
+        "सादा दही",
+        "कॉर्नफ्लोर",
+        "चावल का आटा",
+        "कसा अदरक",
+        "बारीक कटा लहसुन",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "जीरा पाउडर",
+        "हल्दी",
+        "नमक",
+        "तलने और तड़के के लिए तटस्थ स्वाद वाला तेल",
+        "करी पत्ते",
+        "चीरी हरी मिर्च",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "नापा पानी उबालें। सोया चंक्स डालकर 5 मिनट या पूरी तरह नरम होने तक उबालें। छानें, ठंडे पानी से धोएँ और छोटी मुट्ठियों में कसकर निचोड़ें ताकि भीतर का पानी निकले। बड़े टुकड़ों को आधा करें।",
+        "दही, अदरक, 10 g लहसुन, मिर्च पाउडर, जीरा, हल्दी और नमक मिलाएँ। निचोड़े चंक्स लपेटकर 15 मिनट रखें। कॉर्नफ्लोर और चावल का आटा डालकर हर टुकड़े पर गाढ़ी चिपकी परत आने तक मिलाएँ।",
+        "छोटे गहरे पतीले में 600 ml तेल 175°C तक गरम करें; पतीला आधे से कम भरा हो। लिपटे चंक्स छोटे बैचों में 4 मिनट पलटते हुए कुरकुरे लाल-सुनहरे होने तक तलें। बैचों के बीच तेल को फिर सही ताप तक गरम होने दें।",
+        "तले सोया को जाली पर निकालकर तेल निथरने दें। तड़के से पहले करी पत्ते और चीरी मिर्च पूरी तरह पोंछकर सुखाएँ।",
+        "चौड़े पैन में बचा 20 ml तेल गरम करें। बचे 10 g लहसुन को 30 सेकंड भूनें, फिर करी पत्ते और हरी मिर्च डालकर 30 सेकंड चलाएँ। तला सोया डालकर 1 मिनट उछालकर मिलाएँ।",
+        "आँच बंद करके नींबू रस छिड़कें और जल्दी मिलाएँ। तले करी पत्तों और मिर्च के साथ सूखे कुरकुरे नाश्ते की तरह तुरंत परोसें।"
+      ],
+      "tips": [
+        "तलने का तेल पकाने का माध्यम है; अधिकांश पैन में बचता है। अच्छी तरह निचोड़ने से चंक्स कुरकुरे बनते हैं; अधिक दही या बचा पानी परत उतार देता है।"
+      ]
+    },
+    "gu": {
+      "name": "સોયા 65",
+      "ingredients": [
+        "સૂકા સોયા ચંક્સ",
+        "ઉકાળવા માટે પાણી",
+        "સાદું દહીં",
+        "કોર્નફ્લોર",
+        "ચોખાનો લોટ",
+        "છીણેલું આદુ",
+        "બારીક સમારેલું લસણ",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "જીરું પાઉડર",
+        "હળદર",
+        "મીઠું",
+        "તળવા અને વઘાર માટે તટસ્થ સ્વાદનું તેલ",
+        "મીઠા લીમડાનાં પાન",
+        "ચીરેલાં લીલાં મરચાં",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "માપેલું પાણી ઉકાળો. સોયા ચંક્સ ઉમેરી 5 મિનિટ અથવા સંપૂર્ણ નરમ થાય ત્યાં સુધી ઉકાળો. નિતારો, ઠંડા પાણીથી ધુઓ અને નાની મુઠ્ઠીમાં જોરથી નીચોવી અંદરનું પાણી કાઢો. મોટા ટુકડા અડધા કરો.",
+        "દહીં, આદુ, 10 g લસણ, મરચું પાઉડર, જીરું, હળદર અને મીઠું ભેળવો. નીચોવેલા ચંક્સ લપેટી 15 મિનિટ રાખો. કોર્નફ્લોર અને ચોખાનો લોટ ઉમેરી દરેક ટુકડા પર ઘટ્ટ ચોંટતું પડ આવે ત્યાં સુધી ભેળવો.",
+        "નાની ઊંડી તપેલીમાં 600 ml તેલ 175°C સુધી ગરમ કરો; તપેલી અડધાથી ઓછી ભરેલી હોવી જોઈએ. લપેટેલા ચંક્સ નાના હપ્તામાં 4 મિનિટ ફેરવતાં કકરા અને લાલ-સોનેરી થાય ત્યાં સુધી તળો. હપ્તા વચ્ચે તેલ ફરી યોગ્ય તાપે આવવા દો.",
+        "તળેલા સોયાને જાળી પર કાઢી તેલ નિતરવા દો. વઘાર કરતાં પહેલાં લીમડાનાં પાન અને ચીરેલાં મરચાં સંપૂર્ણ લૂછી સૂકવો.",
+        "પહોળા પેનમાં બાકીનું 20 ml તેલ ગરમ કરો. બાકીનું 10 g લસણ 30 સેકન્ડ સાંતળો, પછી લીમડાનાં પાન અને લીલાં મરચાં ઉમેરી 30 સેકન્ડ હલાવો. તળેલો સોયા ઉમેરી 1 મિનિટ ઉછાળીને ભેળવો.",
+        "તાપ બંધ કરી લીંબુનો રસ છાંટો અને ઝડપથી ભેળવો. તળેલાં લીમડાનાં પાન અને મરચાં સાથે સૂકા કકરા નાસ્તા તરીકે તરત પીરસો."
+      ],
+      "tips": [
+        "તળવાનું તેલ રાંધવાનું માધ્યમ છે; મોટા ભાગનું પેનમાં બચે છે. સારી રીતે નીચોવવાથી ચંક્સ કકરા બને છે; વધુ દહીં કે બાકીનું પાણી પડ ઉતારી દે છે."
+      ]
+    }
+  },
+  "photoDescription": "Dry, crisp red-orange fried soya chunks with irregular craggy coating, glossy fried curry leaves, slit green chillies and tiny garlic pieces; no gravy or extra garnish.",
+  "photoDraft": "catalog/intake/photos/soya-65.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

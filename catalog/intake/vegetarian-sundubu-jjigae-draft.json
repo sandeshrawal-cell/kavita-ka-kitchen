@@ -1,0 +1,137 @@
+{
+  "sourceReviewId": "R2924",
+  "id": "vegetarian-sundubu-jjigae",
+  "status": "published-popular-200-intake-batch",
+  "name": "Vegetarian Sundubu Jjigae",
+  "cuisine": "Korean",
+  "categories": [
+    "Soups",
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "stew",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 800,
+      "unit": "ml"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "zucchini",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "vegan kimchi",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "gochugaru chilli flakes",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onions",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Finely chop onion and garlic; slice mushrooms and zucchini. Heat sesame oil and soften onion for 3 minutes.",
+    "Lower heat, add garlic and gochugaru, and stir briefly without burning. Add chopped kimchi and mushrooms; cook 3 minutes.",
+    "Add vegetable stock, soy sauce and zucchini. Simmer for 8 minutes until the vegetables are tender.",
+    "Spoon in large pieces of silken tofu; simmer gently for 4 minutes without vigorous stirring. Finish with spring onions and serve piping hot."
+  ],
+  "tips": [
+    "Silken tofu gives the soft texture; firm tofu changes the character of this stew."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी सुन्दुबु जिगे",
+      "ingredients": [
+        "सिल्कन टोफू (बहुत मुलायम)",
+        "सब्ज़ियों का स्टॉक",
+        "बटन मशरूम",
+        "ज़ुकीनी",
+        "प्याज़",
+        "वीगन किमची",
+        "लहसुन",
+        "गोचुगारू मिर्च के फ्लेक्स",
+        "सोया सॉस",
+        "भुने तिल का तेल",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "प्याज़ और लहसुन बारीक काटें; मशरूम और ज़ुकीनी काटें। तिल के तेल में प्याज़ 3 मिनट नरम करें।",
+        "आँच धीमी करके लहसुन और गोचुगारू डालें; जलने न दें। कटी किमची और मशरूम डालकर 3 मिनट पकाएँ।",
+        "सब्ज़ियों का स्टॉक, सोया सॉस और ज़ुकीनी डालें। सब्ज़ियाँ नरम होने तक 8 मिनट उबालें।",
+        "मुलायम टोफू के बड़े टुकड़े डालें; ज़ोर से चलाए बिना 4 मिनट धीमे पकाएँ। हरा प्याज़ डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "मुलायम टोफू से खास बनावट मिलती है; सख्त टोफू से इस स्ट्यू की बनावट बदल जाएगी।"
+      ]
+    },
+    "gu": {
+      "name": "શાકાહારી સુન્દુબુ જિગે",
+      "ingredients": [
+        "સિલ્કન ટોફુ (ખૂબ મુલાયમ)",
+        "શાકભાજીનો સ્ટોક",
+        "બટન મશરૂમ",
+        "ઝુકિની",
+        "ડુંગળી",
+        "વીગન કિમચી",
+        "લસણ",
+        "ગોચુગારુ મરચાંના ફ્લેક્સ",
+        "સોયા સોસ",
+        "શેકેલા તલનું તેલ",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "ડુંગળી અને લસણ ઝીણાં સમારો; મશરૂમ અને ઝુકિની સમારો. તલના તેલમાં ડુંગળી 3 મિનિટ નરમ કરો.",
+        "તાપ ધીમો કરી લસણ અને ગોચુગારુ ઉમેરો; બળવા ન દો. સમારેલી કિમચી અને મશરૂમ ઉમેરી 3 મિનિટ પકાવો.",
+        "શાકભાજીનો સ્ટોક, સોયા સોસ અને ઝુકિની ઉમેરો. શાક નરમ થાય ત્યાં સુધી 8 મિનિટ ઉકાળો.",
+        "મુલાયમ ટોફુના મોટા ટુકડા ઉમેરો; જોરથી હલાવ્યા વગર 4 મિનિટ ધીમેથી પકાવો. લીલી ડુંગળી ઉમેરી ગરમ પીરસો."
+      ],
+      "tips": [
+        "મુલાયમ ટોફુથી ખાસ બનાવટ મળે છે; કઠણ ટોફુથી આ સ્ટ્યૂની બનાવટ બદલાઈ જશે."
+      ]
+    }
+  },
+  "photoDescription": "Korean red spicy broth in earthenware bowl with large soft white silken tofu curds, zucchini, mushrooms and scallions; no egg.",
+  "photoDraft": "catalog/intake/photos/vegetarian-sundubu-jjigae.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R2928",
+  "id": "tofu-broccoli-stir-fry",
+  "status": "published-popular-200-intake-batch",
+  "name": "Tofu Broccoli Stir-Fry",
+  "cuisine": "Chinese",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "stir",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "broccoli",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry and cube tofu; cut broccoli into small florets and slice tender stalks. Mince garlic and ginger.",
+    "Sear tofu in oil for 7 minutes until golden on several sides; remove. Stir-fry broccoli, garlic and ginger for 3 minutes.",
+    "Whisk soy sauce, vinegar, sugar, starch and water. Add to the pan with tofu and cover for 3 minutes.",
+    "Uncover and toss until sauce clings and broccoli remains tender-crisp. Finish with sesame oil and seeds; serve hot."
+  ],
+  "tips": [
+    "Dry tofu thoroughly for good browning and less splattering."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू ब्रोकली स्टर फ्राई",
+      "ingredients": [
+        "सख्त टोफू",
+        "ब्रोकली",
+        "लहसुन",
+        "अदरक",
+        "सोया सॉस",
+        "चावल का सिरका",
+        "चीनी",
+        "कॉर्नस्टार्च",
+        "पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "भुने तिल का तेल",
+        "तिल"
+      ],
+      "steps": [
+        "टोफू सुखाकर टुकड़े करें; ब्रोकली के छोटे फूल और नरम डंठल की स्लाइस करें। लहसुन-अदरक बारीक काटें।",
+        "तेल में टोफू 7 मिनट कई ओर सुनहरा भूनकर निकालें। ब्रोकली, लहसुन और अदरक 3 मिनट भूनें।",
+        "सोया सॉस, सिरका, चीनी, स्टार्च और पानी फेंटें। टोफू सहित पैन में डालकर 3 मिनट ढकें।",
+        "खोलकर सॉस चिपकने और ब्रोकली हल्की कुरकुरी रहने तक चलाएँ। तिल का तेल और तिल डालकर गरम परोसें।"
+      ],
+      "tips": [
+        "अच्छा सुनहरा करने और कम छींटों के लिए टोफू अच्छी तरह सुखाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ બ્રોકલી સ્ટર ફ્રાય",
+      "ingredients": [
+        "કઠણ ટોફુ",
+        "બ્રોકલી",
+        "લસણ",
+        "આદુ",
+        "સોયા સોસ",
+        "ચોખાનો વિનેગર",
+        "ખાંડ",
+        "કોર્નસ્ટાર્ચ",
+        "પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "શેકેલા તલનું તેલ",
+        "તલ"
+      ],
+      "steps": [
+        "ટોફુ કોરો કરી ટુકડા કરો; બ્રોકલીનાં નાના ફૂલ અને નરમ દાંડીની સ્લાઇસ કરો. લસણ-આદુ ઝીણાં સમારો.",
+        "તેલમાં ટોફુ 7 મિનિટ અનેક બાજુ સોનેરી શેકી કાઢો. બ્રોકલી, લસણ અને આદુ 3 મિનિટ શેકો.",
+        "સોયા સોસ, વિનેગર, ખાંડ, સ્ટાર્ચ અને પાણી ફેંટો. ટોફુ સાથે પેનમાં ઉમેરી 3 મિનિટ ઢાંકો.",
+        "ખોલીને સોસ ચોંટે અને બ્રોકલી સહેજ કરકરી રહે ત્યાં સુધી હલાવો. તલનું તેલ અને તલ ઉમેરી ગરમ પીરસો."
+      ],
+      "tips": [
+        "સારી રીતે સોનેરી કરવા અને ઓછા છાંટા માટે ટોફુ સારી રીતે કોરો કરો."
+      ]
+    }
+  },
+  "photoDescription": "Golden tofu cubes and bright green broccoli florets in glossy brown garlic sauce.",
+  "photoDraft": "catalog/intake/photos/tofu-broccoli-stir-fry.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

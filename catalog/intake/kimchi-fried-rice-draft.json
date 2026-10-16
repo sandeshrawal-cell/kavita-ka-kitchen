@@ -1,0 +1,136 @@
+{
+  "sourceReviewId": "R0758",
+  "id": "kimchi-fried-rice",
+  "status": "published-popular-200-intake-batch",
+  "name": "Kimchi Fried Rice",
+  "cuisine": "Korean",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "rice",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "vegan kimchi",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian gochujang",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice and cook with water, covered, for 15 minutes; rest 10 minutes, then spread to cool.",
+    "Pat tofu dry, cube it and fry in half the oil for 6 minutes until golden; remove.",
+    "Chop kimchi and spring onions. Heat remaining oil; fry garlic, onion whites and kimchi for 4 minutes.",
+    "Add rice, gochujang, soy sauce and tofu; toss over high heat for 3 minutes. Finish with sesame oil, seeds and onion greens."
+  ],
+  "tips": [
+    "Use vegan kimchi and vegetarian gochujang; cool rice promptly and refrigerate if preparing ahead."
+  ],
+  "translations": {
+    "hi": {
+      "name": "किमची फ्राइड राइस",
+      "ingredients": [
+        "छोटे दाने वाले चावल",
+        "पानी",
+        "वीगन किमची",
+        "सख्त टोफू",
+        "हरा प्याज़",
+        "लहसुन",
+        "सोया सॉस",
+        "शाकाहारी गोचुजांग",
+        "तटस्थ स्वाद वाला तेल",
+        "भुने तिल का तेल",
+        "तिल"
+      ],
+      "steps": [
+        "चावल धोकर पानी में ढककर 15 मिनट पकाएँ; 10 मिनट रखकर ठंडा होने के लिए फैलाएँ।",
+        "टोफू सुखाकर टुकड़े करें और आधे तेल में 6 मिनट सुनहरा तलकर निकालें।",
+        "किमची और हरा प्याज़ काटें। बाकी तेल में लहसुन, प्याज़ का सफेद भाग और किमची 4 मिनट भूनें।",
+        "चावल, गोचुजांग, सोया सॉस और टोफू डालकर तेज़ आँच पर 3 मिनट चलाएँ। तिल का तेल, तिल और प्याज़ के पत्ते डालें।"
+      ],
+      "tips": [
+        "वीगन किमची और शाकाहारी गोचुजांग लें; चावल पहले बनाएँ तो तुरंत ठंडा करके फ्रिज में रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કિમચી ફ્રાઇડ રાઇસ",
+      "ingredients": [
+        "ટૂંકા દાણાના ચોખા",
+        "પાણી",
+        "વીગન કિમચી",
+        "કઠણ ટોફુ",
+        "લીલી ડુંગળી",
+        "લસણ",
+        "સોયા સોસ",
+        "શાકાહારી ગોચુજાંગ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "શેકેલા તલનું તેલ",
+        "તલ"
+      ],
+      "steps": [
+        "ચોખા ધોઈ પાણી સાથે ઢાંકીને 15 મિનિટ પકાવો; 10 મિનિટ રાખી ઠંડા થવા ફેલાવો.",
+        "ટોફુ કોરું કરી ટુકડા કરો અને અડધા તેલમાં 6 મિનિટ સોનેરી શેકી કાઢો.",
+        "કિમચી અને લીલી ડુંગળી સમારો. બાકીના તેલમાં લસણ, ડુંગળીનો સફેદ ભાગ અને કિમચી 4 મિનિટ શેકો.",
+        "ચોખા, ગોચુજાંગ, સોયા સોસ અને ટોફુ ઉમેરી ઊંચા તાપે 3 મિનિટ હલાવો. તલનું તેલ, તલ અને ડુંગળીના પાન ઉમેરો."
+      ],
+      "tips": [
+        "વીગન કિમચી અને શાકાહારી ગોચુજાંગ લો; ચોખા અગાઉ બનાવો તો તરત ઠંડા કરીને ફ્રિજમાં રાખો."
+      ]
+    }
+  },
+  "photoDescription": "Red-orange Korean kimchi fried rice with diced golden tofu, chopped kimchi, scallions and sesame; no egg.",
+  "photoDraft": "catalog/intake/photos/kimchi-fried-rice.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

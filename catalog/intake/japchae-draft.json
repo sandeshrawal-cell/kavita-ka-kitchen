@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R3570",
+  "id": "japchae",
+  "status": "published-popular-200-intake-batch",
+  "name": "Japchae",
+  "cuisine": "Korean",
+  "categories": [
+    "Party Food",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "stir",
+  "ingredients": [
+    {
+      "name": "sweet-potato glass noodles",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil sweet-potato noodles according to the packet until chewy and tender; drain, rinse briefly and cut into manageable lengths.",
+    "Cut carrot, pepper, onion and mushrooms into thin strips. Stir-fry in oil for 5 minutes until just tender.",
+    "Add minced garlic and spinach; stir for 2 minutes until wilted. Mix soy sauce, sugar and sesame oil in a bowl.",
+    "Add drained noodles and sauce to the vegetables. Toss gently for 2 minutes until glossy; sprinkle sesame and serve warm."
+  ],
+  "tips": [
+    "Use sweet-potato starch noodles for japchae's characteristic springy texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "जपचे",
+      "ingredients": [
+        "शकरकंद के ग्लास नूडल्स",
+        "गाजर",
+        "पालक",
+        "बटन मशरूम",
+        "शिमला मिर्च",
+        "प्याज़",
+        "लहसुन",
+        "सोया सॉस",
+        "चीनी",
+        "भुने तिल का तेल",
+        "तटस्थ स्वाद वाला तेल",
+        "तिल"
+      ],
+      "steps": [
+        "शकरकंद के नूडल्स पैकेट के निर्देशानुसार नरम और चबाने योग्य होने तक उबालें; छानकर हल्का धोएँ और छोटे करें।",
+        "गाजर, शिमला मिर्च, प्याज़ और मशरूम की पतली पट्टियाँ काटें। तेल में 5 मिनट थोड़ा नरम होने तक भूनें।",
+        "बारीक लहसुन और पालक डालकर 2 मिनट पकाएँ। कटोरे में सोया सॉस, चीनी और तिल का तेल मिलाएँ।",
+        "छने नूडल्स और सॉस सब्ज़ियों में डालें। 2 मिनट हल्के हाथ से मिलाकर चमकदार करें; तिल छिड़ककर गरम परोसें।"
+      ],
+      "tips": [
+        "जपचे की खास लचक के लिए शकरकंद के स्टार्च वाले नूडल्स लें।"
+      ]
+    },
+    "gu": {
+      "name": "જપચે",
+      "ingredients": [
+        "શક્કરિયાંના ગ્લાસ નૂડલ્સ",
+        "ગાજર",
+        "પાલક",
+        "બટન મશરૂમ",
+        "કેપ્સિકમ",
+        "ડુંગળી",
+        "લસણ",
+        "સોયા સોસ",
+        "ખાંડ",
+        "શેકેલા તલનું તેલ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "તલ"
+      ],
+      "steps": [
+        "શક્કરિયાંના નૂડલ્સ પેકેટ મુજબ નરમ અને ચવાય તેવા બાફો; નિતારી સહેજ ધુઓ અને અનુકૂળ લંબાઈમાં કાપો.",
+        "ગાજર, કેપ્સિકમ, ડુંગળી અને મશરૂમની પાતળી પટ્ટીઓ કાપો. તેલમાં 5 મિનિટ સહેજ નરમ થાય ત્યાં સુધી શેકો.",
+        "ઝીણું લસણ અને પાલક ઉમેરી 2 મિનિટ પકાવો. વાટકામાં સોયા સોસ, ખાંડ અને તલનું તેલ ભેળવો.",
+        "નિતારેલા નૂડલ્સ અને સોસ શાકમાં ઉમેરો. 2 મિનિટ હળવેથી ભેળવી ચળકતા કરો; તલ છાંટી ગરમ પીરસો."
+      ],
+      "tips": [
+        "જપચેની ખાસ લચક માટે શક્કરિયાંના સ્ટાર્ચવાળા નૂડલ્સ લો."
+      ]
+    }
+  },
+  "photoDescription": "Glossy translucent brown glass noodles tangled with orange carrots, spinach, mushrooms, red pepper and sesame seeds; no egg.",
+  "photoDraft": "catalog/intake/photos/japchae.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

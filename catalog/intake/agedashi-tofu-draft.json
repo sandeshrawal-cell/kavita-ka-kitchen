@@ -1,0 +1,136 @@
+{
+  "sourceReviewId": "R2831",
+  "id": "agedashi-tofu",
+  "status": "published-popular-200-intake-batch",
+  "name": "Agedashi Tofu",
+  "cuisine": "Japanese",
+  "categories": [
+    "Quick Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "fry",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "potato starch",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "kombu seaweed",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "white radish",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 25,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Soak kombu and shiitake in water for 20 minutes. Warm gently, remove kombu before boiling, simmer mushrooms 5 minutes and strain.",
+    "Press tofu in towels for 15 minutes, then cut into blocks. Grate radish and ginger separately; squeeze radish dry.",
+    "Coat dry tofu with starch. Shallow-fry in hot oil for 3 minutes per side until pale golden; drain on a rack.",
+    "Warm strained broth with soy sauce and sugar. Pour around tofu in bowls; top with radish, ginger and spring onions."
+  ],
+  "tips": [
+    "Pour broth only just before eating to retain the delicate crust."
+  ],
+  "translations": {
+    "hi": {
+      "name": "अगेदाशी टोफू",
+      "ingredients": [
+        "सख्त टोफू",
+        "आलू का स्टार्च",
+        "तटस्थ स्वाद वाला तेल",
+        "कोम्बू समुद्री शैवाल",
+        "सूखे शिटाके मशरूम",
+        "पानी",
+        "सोया सॉस",
+        "चीनी",
+        "सफेद मूली",
+        "अदरक",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "कोम्बू और शिटाके पानी में 20 मिनट भिगोएँ। धीरे गरम करें, उबाल से पहले कोम्बू निकालें, मशरूम 5 मिनट पकाकर छानें।",
+        "टोफू कपड़ों में 15 मिनट दबाकर बड़े टुकड़े करें। मूली और अदरक अलग कद्दूकस करें; मूली निचोड़ें।",
+        "सूखे टोफू पर स्टार्च लगाएँ। गरम तेल में हर ओर 3 मिनट हल्का सुनहरा तलें; जाली पर तेल निकालें।",
+        "छने शोरबे में सोया सॉस और चीनी गरम करें। कटोरों में टोफू के आसपास डालें; मूली, अदरक और हरा प्याज़ रखें।"
+      ],
+      "tips": [
+        "नाज़ुक कुरकुरी परत बचाने के लिए खाने से ठीक पहले शोरबा डालें।"
+      ]
+    },
+    "gu": {
+      "name": "અગેદાશી ટોફુ",
+      "ingredients": [
+        "કઠણ ટોફુ",
+        "બટાકાનો સ્ટાર્ચ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "કોમ્બુ સમુદ્રી શેવાળ",
+        "સૂકાં શિટાકે મશરૂમ",
+        "પાણી",
+        "સોયા સોસ",
+        "ખાંડ",
+        "સફેદ મૂળા",
+        "આદુ",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "કોમ્બુ અને શિટાકે પાણીમાં 20 મિનિટ પલાળો. ધીમે ગરમ કરો, ઉકળતાં પહેલાં કોમ્બુ કાઢો, મશરૂમ 5 મિનિટ પકાવી ગાળો.",
+        "ટોફુ કપડામાં 15 મિનિટ દબાવી મોટા ટુકડા કરો. મૂળા અને આદુ અલગ છીણો; મૂળા નિચોવો.",
+        "કોરા ટોફુ પર સ્ટાર્ચ લગાવો. ગરમ તેલમાં દરેક બાજુ 3 મિનિટ આછો સોનેરી તળો; જાળી પર તેલ નિતારો.",
+        "ગાળેલા શોરબામાં સોયા સોસ અને ખાંડ ગરમ કરો. વાટકામાં ટોફુની આસપાસ રેડો; મૂળા, આદુ અને લીલી ડુંગળી મૂકો."
+      ],
+      "tips": [
+        "નાજુક કરકરું પડ જાળવવા ખાતાં પહેલાં જ શોરબો ઉમેરો."
+      ]
+    }
+  },
+  "photoDescription": "Pale golden tofu blocks in clear amber broth, grated white daikon, ginger and scallions.",
+  "photoDraft": "catalog/intake/photos/agedashi-tofu.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

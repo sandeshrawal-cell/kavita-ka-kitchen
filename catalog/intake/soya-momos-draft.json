@@ -1,0 +1,180 @@
+{
+  "sourceReviewId": "R2967",
+  "id": "soya-momos",
+  "status": "published-popular-200-intake-batch",
+  "name": "Soya Momos",
+  "cuisine": "Indo-Tibetan",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 85,
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water for dough",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "dry soya granules",
+      "qty": 125,
+      "unit": "g"
+    },
+    {
+      "name": "water for boiling soya and sauce",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage, finely shredded",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "dried Kashmiri red chillies, stems removed",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour with 3 g salt. Add the dough water gradually and knead for 8 minutes to form a firm, smooth dough. Cover and rest for 30 minutes while preparing the filling and sauce.",
+    "Boil soya granules in 700 ml of the boiling water for 5 minutes until soft. Drain, rinse under cool water and squeeze thoroughly in a clean cloth; the soya should be moist but release no water when pressed.",
+    "Mince 12 g garlic. Heat 15 ml oil and cook onion for 3 minutes. Add ginger and minced garlic, stir for 1 minute, then add cabbage and cook over medium-high heat for 4 minutes. Add squeezed soya, soy sauce, pepper and 2 g salt; stir for 3 minutes until no liquid remains. Spread on a plate and cool completely.",
+    "For the sauce, chop tomatoes and simmer with dried chillies, remaining 8 g garlic and remaining 300 ml boiling water for 12 minutes until soft. Cool briefly, then blend with vinegar, sugar and remaining 2 g salt. Heat 5 ml oil in a small pan, add the blended sauce and simmer for 5 minutes until thick enough for dipping.",
+    "Divide the dough into 24 pieces and keep covered. Roll each into a disc about 9 cm wide, making the edges thinner than the centre. Divide the cooled filling among them, leave the edges clear, fold into crescents and pleat and pinch firmly to seal.",
+    "Grease steamer trays with the remaining 5 ml oil. Arrange momos with space between them above actively simmering water. Cover and steam in batches for 12 minutes until the wrappers look slightly translucent and no raw dough remains at the pleats; the filling must be steaming hot.",
+    "Let momos stand for 1 minute before lifting gently from the tray. Serve hot with the red tomato-chilli dipping sauce on the side."
+  ],
+  "tips": [
+    "Keep unused dough covered so the edges stay easy to seal. Cool the filling fully and keep it dry to prevent torn wrappers."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया मोमोज़",
+      "ingredients": [
+        "मैदा",
+        "आटे के लिए पानी",
+        "सूखे सोया दाने",
+        "सोया और सॉस उबालने का पानी",
+        "बारीक कटी पत्तागोभी",
+        "बारीक कटा प्याज़",
+        "कसा अदरक",
+        "लहसुन",
+        "सोया सॉस",
+        "काली मिर्च पाउडर",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल",
+        "टमाटर",
+        "डंठल हटाई सूखी कश्मीरी लाल मिर्च",
+        "सफेद सिरका",
+        "चीनी"
+      ],
+      "steps": [
+        "मैदा में 3 g नमक मिलाएँ। आटे का पानी धीरे डालकर 8 मिनट गूँधें और सख्त, चिकना आटा बनाएँ। भरावन और सॉस बनाते समय ढककर 30 मिनट रखें।",
+        "उबालने के पानी में से 700 ml में सोया दाने 5 मिनट नरम होने तक उबालें। छानें, ठंडे पानी से धोएँ और साफ कपड़े में अच्छी तरह निचोड़ें; सोया नम रहे लेकिन दबाने पर पानी न निकले।",
+        "12 g लहसुन बारीक काटें। 15 ml तेल गरम कर प्याज़ 3 मिनट पकाएँ। अदरक और कटा लहसुन डालकर 1 मिनट चलाएँ, फिर पत्तागोभी डालकर मध्यम-तेज़ आँच पर 4 मिनट पकाएँ। निचोया सोया, सोया सॉस, काली मिर्च और 2 g नमक डालकर 3 मिनट पानी सूखने तक चलाएँ। प्लेट में फैलाकर पूरी तरह ठंडा करें।",
+        "सॉस के लिए टमाटर काटकर सूखी मिर्च, बचे 8 g लहसुन और बचे 300 ml उबालने के पानी में 12 मिनट नरम होने तक पकाएँ। थोड़ा ठंडा करके सिरके, चीनी और बचे 2 g नमक के साथ पीसें। छोटे पैन में 5 ml तेल गरम करें, पिसी सॉस डालकर 5 मिनट डुबोने लायक गाढ़ी होने तक उबालें।",
+        "आटे के 24 भाग करके ढककर रखें। हर भाग को लगभग 9 cm चौड़ा बेलें; किनारे बीच से पतले हों। ठंडा भरावन बाँटकर डालें, किनारे खाली छोड़ें, अर्धचंद्राकार मोड़ें और सिलवटें बनाकर कसकर बंद करें।",
+        "स्टीमर की ट्रे पर बचा 5 ml तेल लगाएँ। अच्छी तरह उबलते पानी के ऊपर मोमोज़ के बीच जगह रखकर सजाएँ। ढककर बैचों में 12 मिनट भाप दें, जब तक आवरण थोड़ा पारदर्शी हो और सिलवटों में कच्चा आटा न बचे; भरावन भाप निकलने जितना गरम हो।",
+        "मोमोज़ को 1 मिनट रखकर ट्रे से धीरे उठाएँ। लाल टमाटर-मिर्च सॉस अलग रखकर गरम परोसें।"
+      ],
+      "tips": [
+        "बचा आटा ढककर रखें ताकि किनारे आसानी से बंद हों। आवरण फटने से बचाने के लिए भरावन पूरी तरह ठंडा और सूखा रखें।"
+      ]
+    },
+    "gu": {
+      "name": "સોયા મોમોઝ",
+      "ingredients": [
+        "મેંદો",
+        "લોટ માટે પાણી",
+        "સૂકા સોયા દાણા",
+        "સોયા અને સોસ ઉકાળવાનું પાણી",
+        "બારીક સમારેલી કોબી",
+        "બારીક સમારેલી ડુંગળી",
+        "છીણેલું આદુ",
+        "લસણ",
+        "સોયા સોસ",
+        "કાળા મરીનો પાઉડર",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ",
+        "ટામેટાં",
+        "દાંડી કાઢેલાં સૂકાં કાશ્મીરી લાલ મરચાં",
+        "સફેદ વિનેગર",
+        "ખાંડ"
+      ],
+      "steps": [
+        "મેંદામાં 3 g મીઠું ભેળવો. લોટનું પાણી ધીમે ઉમેરી 8 મિનિટ મસળી કઠણ, સુંવાળો લોટ બાંધો. પૂરણ અને સોસ બનાવતાં સુધી ઢાંકી 30 મિનિટ રાખો.",
+        "ઉકાળવાના પાણીમાંથી 700 ml માં સોયા દાણા 5 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો. નિતારો, ઠંડા પાણીથી ધુઓ અને સ્વચ્છ કપડામાં સારી રીતે નીચોવો; સોયા ભેજવાળો રહે પણ દબાવવાથી પાણી ન નીકળે.",
+        "12 g લસણ બારીક સમારો. 15 ml તેલ ગરમ કરી ડુંગળી 3 મિનિટ પકાવો. આદુ અને સમારેલું લસણ ઉમેરી 1 મિનિટ હલાવો, પછી કોબી ઉમેરી મધ્યમ-ઊંચા તાપે 4 મિનિટ પકાવો. નીચોવેલો સોયા, સોયા સોસ, મરી અને 2 g મીઠું ઉમેરી 3 મિનિટ પાણી સુકાય ત્યાં સુધી હલાવો. થાળીમાં ફેલાવી સંપૂર્ણ ઠંડું કરો.",
+        "સોસ માટે ટામેટાં સમારી સૂકાં મરચાં, બાકીના 8 g લસણ અને બાકીના 300 ml ઉકાળવાના પાણી સાથે 12 મિનિટ નરમ થાય ત્યાં સુધી પકાવો. થોડું ઠંડું કરી વિનેગર, ખાંડ અને બાકીના 2 g મીઠા સાથે વાટો. નાના પેનમાં 5 ml તેલ ગરમ કરી વાટેલો સોસ ઉમેરી 5 મિનિટ ડુબાડવા જેટલો ઘટ્ટ થાય ત્યાં સુધી ઉકાળો.",
+        "લોટના 24 ભાગ કરી ઢાંકીને રાખો. દરેકને લગભગ 9 cm પહોળો વણો; કિનારા વચ્ચે કરતાં પાતળા રાખો. ઠંડું પૂરણ વહેંચીને ભરો, કિનારા ખાલી રાખો, અર્ધચંદ્રાકાર વાળી ચુનટ પાડી દબાવી બંધ કરો.",
+        "સ્ટીમરની ટ્રે પર બાકીનું 5 ml તેલ લગાવો. સારી રીતે ઉકળતા પાણી ઉપર મોમોઝ વચ્ચે જગ્યા રાખીને ગોઠવો. ઢાંકી હપ્તામાં 12 મિનિટ બાફો, આવરણ થોડું પારદર્શક થાય અને ચુનટમાં કાચો લોટ ન રહે ત્યાં સુધી; પૂરણ વરાળ નીકળે એટલું ગરમ હોવું જોઈએ.",
+        "મોમોઝને 1 મિનિટ રાખી ટ્રેમાંથી હળવેથી ઉપાડો. લાલ ટામેટાં-મરચાંનો સોસ અલગ રાખી ગરમ પીરસો."
+      ],
+      "tips": [
+        "બાકીનો લોટ ઢાંકીને રાખો જેથી કિનારા સરળતાથી બંધ થાય. આવરણ ફાટે નહીં તે માટે પૂરણ સંપૂર્ણ ઠંડું અને સૂકું રાખો."
+      ]
+    }
+  },
+  "photoDescription": "Pale steamed crescent momos with neatly pleated edges; one cut open to show finely minced brown soya with cabbage and onion. A small separate bowl of thick red tomato-chilli dipping sauce, with no extra garnish.",
+  "photoDraft": "catalog/intake/photos/soya-momos.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

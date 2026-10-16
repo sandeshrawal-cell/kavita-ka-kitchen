@@ -17523,8 +17523,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/kimchi-fried-rice.png"
     },
     {
       "id": "vegetable-bibimbap",
@@ -17540,8 +17541,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/vegetable-bibimbap.png"
     },
     {
       "id": "vegetable-kimbap",
@@ -17557,8 +17559,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/vegetable-kimbap.png"
     },
     {
       "id": "japanese-curry-rice",
@@ -17593,8 +17596,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/onigiri.png"
     },
     {
       "id": "yaki-onigiri",
@@ -17644,8 +17648,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/inari-sushi.png"
     },
     {
       "id": "chirashi-sushi",
@@ -21989,8 +21994,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/vegetable-ramen.png"
     },
     {
       "id": "vegetarian-laksa",
@@ -27775,8 +27781,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/mushroom-bao.png"
     },
     {
       "id": "fruit-sando",
@@ -31491,8 +31498,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/hotteok.png"
     },
     {
       "id": "tang-yuan",
@@ -50620,8 +50628,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/korean-corn-cheese.png"
     },
     {
       "id": "elote",
@@ -52813,8 +52822,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/mapo-tofu.png"
     },
     {
       "id": "hiyayakko",
@@ -53093,8 +53103,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/agedashi-tofu.png"
     },
     {
       "id": "tahu-goreng",
@@ -54263,8 +54274,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/soya-65.png"
     },
     {
       "id": "soya-manchurian",
@@ -54297,8 +54309,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/soya-seekh-kebab.png"
     },
     {
       "id": "kerala-soya-chunk-roast",
@@ -54577,8 +54590,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/paneer-tikka-bowl.png"
     },
     {
       "id": "hung-curd-dip",
@@ -54666,8 +54680,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/vegetarian-sundubu-jjigae.png"
     },
     {
       "id": "tofu-katsu",
@@ -54683,8 +54698,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/tofu-katsu.png"
     },
     {
       "id": "tofu-miso-soup",
@@ -54734,8 +54750,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/tofu-broccoli-stir-fry.png"
     },
     {
       "id": "tofu-burger",
@@ -55409,8 +55426,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/soya-momos.png"
     },
     {
       "id": "tofu-pakora",
@@ -55836,8 +55854,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/paneer-quinoa-bowl.png"
     },
     {
       "id": "paneer-burji-wrap",
@@ -64435,8 +64454,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/crystal-dumplings.png"
     },
     {
       "id": "dahi-ke-sholay",
@@ -64928,8 +64948,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/tofu-bao.png"
     },
     {
       "id": "taquitos",
@@ -65098,8 +65119,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/vegetable-tempura.png"
     },
     {
       "id": "veg-gyoza",
@@ -65115,8 +65137,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/veg-gyoza.png"
     },
     {
       "id": "rice-paper-rolls",
@@ -65410,8 +65433,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/japchae.png"
     },
     {
       "id": "sindhi-aloo-tuk",
@@ -65463,8 +65487,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/kimchi-pancake.png"
     },
     {
       "id": "chilli-garlic-edamame",

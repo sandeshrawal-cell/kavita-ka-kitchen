@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R2814",
+  "id": "mapo-tofu",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mapo Tofu",
+  "cuisine": "Chinese",
+  "categories": [
+    "Quick Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian doubanjiang",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Sichuan pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetable stock",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onions",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cube tofu and finely chop mushrooms, garlic and ginger. Mix starch with water into a smooth slurry.",
+    "Fry mushrooms in oil for 6 minutes until dry. Add garlic, ginger and doubanjiang; cook gently for 1 minute.",
+    "Add stock, soy sauce and tofu; simmer gently for 6 minutes, shaking the pan to avoid breaking tofu.",
+    "Stir in slurry and simmer 2 minutes until glossy. Finish with crushed Sichuan pepper and chopped spring onions."
+  ],
+  "tips": [
+    "Choose vegetarian doubanjiang and taste before adding extra salt."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शाकाहारी मापो टोफू",
+      "ingredients": [
+        "सिल्कन टोफू (बहुत मुलायम)",
+        "बटन मशरूम",
+        "शाकाहारी दोबानजियांग",
+        "लहसुन",
+        "अदरक",
+        "सिचुआन मिर्च",
+        "सोया सॉस",
+        "सब्ज़ियों का स्टॉक",
+        "कॉर्नस्टार्च",
+        "पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "टोफू के टुकड़े करें और मशरूम, लहसुन-अदरक बारीक काटें। स्टार्च और पानी का चिकना घोल बनाएँ।",
+        "तेल में मशरूम 6 मिनट सूखने तक भूनें। लहसुन, अदरक और दोबानजियांग डालकर 1 मिनट हल्का पकाएँ।",
+        "स्टॉक, सोया सॉस और टोफू डालकर 6 मिनट धीमे पकाएँ; टोफू न टूटे इसलिए पैन हल्के हिलाएँ।",
+        "घोल मिलाकर 2 मिनट चमकदार होने तक पकाएँ। कुटी सिचुआन मिर्च और कटा हरा प्याज़ डालें।"
+      ],
+      "tips": [
+        "शाकाहारी दोबानजियांग लें और अतिरिक्त नमक डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "શાકાહારી માપો ટોફુ",
+      "ingredients": [
+        "સિલ્કન ટોફુ (ખૂબ મુલાયમ)",
+        "બટન મશરૂમ",
+        "શાકાહારી દોબાનજિયાંગ",
+        "લસણ",
+        "આદુ",
+        "સિચુઆન મરી",
+        "સોયા સોસ",
+        "શાકભાજીનો સ્ટોક",
+        "કોર્નસ્ટાર્ચ",
+        "પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "ટોફુના ટુકડા કરો અને મશરૂમ, લસણ-આદુ ઝીણાં સમારો. સ્ટાર્ચ અને પાણીનું લીસું ખીરું બનાવો.",
+        "તેલમાં મશરૂમ 6 મિનિટ કોરા થાય ત્યાં સુધી શેકો. લસણ, આદુ અને દોબાનજિયાંગ ઉમેરી 1 મિનિટ હળવેથી પકાવો.",
+        "સ્ટોક, સોયા સોસ અને ટોફુ ઉમેરી 6 મિનિટ ધીમે પકાવો; ટોફુ ન તૂટે તેથી પેન હળવેથી હલાવો.",
+        "ખીરું ભેળવી 2 મિનિટ ચળકતું થાય ત્યાં સુધી પકાવો. કૂટેલી સિચુઆન મરી અને સમારેલી લીલી ડુંગળી ઉમેરો."
+      ],
+      "tips": [
+        "શાકાહારી દોબાનજિયાંગ લો અને વધારાનું મીઠું ઉમેરતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDescription": "Soft white tofu cubes in glossy red Sichuan sauce with fine mushroom mince and scallions.",
+  "photoDraft": "catalog/intake/photos/mapo-tofu.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

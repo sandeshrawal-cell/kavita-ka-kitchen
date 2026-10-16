@@ -1,0 +1,108 @@
+{
+  "sourceReviewId": "R0765",
+  "id": "inari-sushi",
+  "status": "published-popular-200-intake-batch",
+  "name": "Inari Sushi",
+  "cuisine": "Japanese",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian seasoned inari tofu pouches",
+      "qty": 320,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook rinsed rice with water, covered, for 15 minutes; rest 10 minutes off the heat.",
+    "Warm vinegar, sugar and salt until dissolved. Fold into hot rice with sesame, then fan until lukewarm.",
+    "Drain ready-seasoned tofu pouches gently. Open each pocket carefully and shape rice portions to fit without overfilling.",
+    "Fill pockets with warm rice using damp hands. Fold openings inward, arrange seam-side down and serve promptly."
+  ],
+  "tips": [
+    "Use explicitly vegetarian seasoned pouches; conventional versions may contain seafood stock."
+  ],
+  "translations": {
+    "hi": {
+      "name": "इनारी सुशी",
+      "ingredients": [
+        "छोटे दाने वाले चावल",
+        "पानी",
+        "चावल का सिरका",
+        "चीनी",
+        "नमक",
+        "तिल",
+        "शाकाहारी, पहले से स्वाद दिए हुए इनारी टोफू पाउच"
+      ],
+      "steps": [
+        "धुले चावल पानी में ढककर 15 मिनट पकाएँ; आँच बंद करके 10 मिनट रखें।",
+        "सिरका, चीनी और नमक घुलने तक गरम करें। तिल सहित गरम चावल में मिलाएँ, फिर हवा करके गुनगुना करें।",
+        "तैयार मसालेदार टोफू थैलियाँ हल्के हाथ निचोड़ें। सावधानी से खोलें और चावल के गोले इतना बनाएँ कि ज़्यादा न भरें।",
+        "गीले हाथों से थैलियों में गुनगुने चावल भरें। मुँह अंदर मोड़ें, जोड़ नीचे रखकर सजाएँ और जल्दी परोसें।"
+      ],
+      "tips": [
+        "स्पष्ट शाकाहारी लिखी मसालेदार थैलियाँ लें; सामान्य प्रकार में समुद्री जीवों का स्टॉक हो सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "ઇનારી સુશી",
+      "ingredients": [
+        "ટૂંકા દાણાના ચોખા",
+        "પાણી",
+        "ચોખાનો વિનેગર",
+        "ખાંડ",
+        "મીઠું",
+        "તલ",
+        "શાકાહારી, અગાઉથી સ્વાદ આપેલા ઇનારી ટોફુ પાઉચ"
+      ],
+      "steps": [
+        "ધોયેલા ચોખા પાણીમાં ઢાંકી 15 મિનિટ પકાવો; તાપ બંધ કરીને 10 મિનિટ રાખો.",
+        "વિનેગર, ખાંડ અને મીઠું ઓગળે ત્યાં સુધી ગરમ કરો. તલ સાથે ગરમ ભાતમાં ભેળવો, પછી હવા આપી હૂંફાળો કરો.",
+        "તૈયાર મસાલેદાર ટોફુ પોકેટ હળવેથી નિતારો. કાળજીથી ખોલો અને વધુ ન ભરાય એટલા ભાતના ગોળા કરો.",
+        "ભીના હાથે પોકેટમાં હૂંફાળો ભાત ભરો. મોઢું અંદર વાળો, જોડ નીચે રાખી ગોઠવો અને જલદી પીરસો."
+      ],
+      "tips": [
+        "સ્પષ્ટ શાકાહારી લખેલા મસાલેદાર પોકેટ લો; સામાન્ય પ્રકારમાં દરિયાઈ જીવનો સ્ટોક હોઈ શકે છે."
+      ]
+    }
+  },
+  "photoDescription": "Golden-brown tofu pouches filled with sesame sushi rice; small plump folded rectangular parcels.",
+  "photoDraft": "catalog/intake/photos/inari-sushi.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R3573",
+  "id": "kimchi-pancake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Kimchi Pancake",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "vegan kimchi",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "spring onions",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Chop kimchi and spring onions finely. Reserve any kimchi liquid and count it within the measured water.",
+    "Whisk flour, rice flour and water into a loose batter. Fold in kimchi and spring onions without overmixing.",
+    "Heat an oiled nonstick pan. Spread batter thinly and cook each pancake for 3–4 minutes per side until crisp and cooked through.",
+    "Mix soy sauce, vinegar, sesame and sugar for dipping. Cut pancakes into wedges and serve immediately with the sauce."
+  ],
+  "tips": [
+    "Choose tangy vegan kimchi and keep the pancake thin for a crisp edge."
+  ],
+  "translations": {
+    "hi": {
+      "name": "किमची पैनकेक",
+      "ingredients": [
+        "वीगन किमची",
+        "मैदा",
+        "चावल का आटा",
+        "पानी",
+        "हरा प्याज़",
+        "तटस्थ स्वाद वाला तेल",
+        "सोया सॉस",
+        "चावल का सिरका",
+        "तिल",
+        "चीनी"
+      ],
+      "steps": [
+        "किमची और हरा प्याज़ बारीक काटें। किमची का रस बचाएँ और उसे नापे हुए पानी में शामिल करें।",
+        "मैदा, चावल का आटा और पानी मिलाकर पतला घोल बनाएँ। किमची और हरा प्याज़ मिलाएँ; ज़्यादा न फेंटें।",
+        "तेल लगी नॉनस्टिक तवा गरम करें। घोल पतला फैलाकर हर पैनकेक दोनों ओर 3–4 मिनट कुरकुरा और अंदर तक पकाएँ।",
+        "सोया सॉस, सिरका, तिल और चीनी मिलाकर डिप बनाएँ। पैनकेक के टुकड़े काटें और सॉस के साथ तुरंत परोसें।"
+      ],
+      "tips": [
+        "खट्टी वीगन किमची लें और कुरकुरे किनारों के लिए पैनकेक पतला रखें।"
+      ]
+    },
+    "gu": {
+      "name": "કિમચી પેનકેક",
+      "ingredients": [
+        "વીગન કિમચી",
+        "મેંદો",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "લીલી ડુંગળી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "સોયા સોસ",
+        "ચોખાનો વિનેગર",
+        "તલ",
+        "ખાંડ"
+      ],
+      "steps": [
+        "કિમચી અને લીલી ડુંગળી ઝીણાં સમારો. કિમચીનું પ્રવાહી સાચવો અને તેને માપેલા પાણીમાં ગણો.",
+        "મેંદો, ચોખાનો લોટ અને પાણી ભેળવી પાતળું ખીરું બનાવો. કિમચી અને લીલી ડુંગળી ભેળવો; વધુ ન ફેંટો.",
+        "તેલ લગાવેલો નોનસ્ટિક તવો ગરમ કરો. ખીરું પાતળું ફેલાવી દરેક પેનકેક બંને બાજુ 3–4 મિનિટ કરકરો અને અંદરથી પકાવો.",
+        "સોયા સોસ, વિનેગર, તલ અને ખાંડ ભેળવી ડિપ બનાવો. પેનકેકના ટુકડા કાપી સોસ સાથે તરત પીરસો."
+      ],
+      "tips": [
+        "ખાટી વીગન કિમચી લો અને કરકરી ધાર માટે પેનકેક પાતળો રાખો."
+      ]
+    }
+  },
+  "photoDescription": "Thin red-orange Korean kimchi pancake cut into wedges, crisp edges with scallion flecks, small soy dipping bowl.",
+  "photoDraft": "catalog/intake/photos/kimchi-pancake.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

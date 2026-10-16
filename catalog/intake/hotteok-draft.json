@@ -1,0 +1,134 @@
+{
+  "sourceReviewId": "R1576",
+  "id": "hotteok",
+  "status": "published-popular-200-intake-batch",
+  "name": "Hotteok",
+  "cuisine": "Korean",
+  "categories": [
+    "Desserts",
+    "Street Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "glutinous rice flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "warm water",
+      "qty": 220,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts, finely chopped",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix both flours, yeast, sugar and salt. Stir in warm water and 10 ml oil to form a soft, sticky dough; knead in the bowl for 5 minutes. Cover and leave in a warm place for 60 minutes, until doubled.",
+    "Deflate the dough and rest covered for 15 minutes. Mix brown sugar, walnuts and cinnamon separately for the filling.",
+    "Use 10 ml oil to grease your hands and work surface. Divide the dough and filling into 8 portions. Flatten each dough portion into a thick disc, add filling, pull the edges over it and pinch completely shut.",
+    "Heat a heavy frying pan over medium-low heat. Use the remaining 30 ml oil across batches. Place parcels seam-side down, cook for 1 minute, turn and gently press into pancakes about 1 cm thick without tearing.",
+    "Cook for 2 minutes, turn again, cover and cook for 2 minutes until both sides are golden and the centre is cooked. Rest for 3 minutes before serving so the molten sugar filling is less hot."
+  ],
+  "tips": [
+    "Glutinous rice flour adds chew; ordinary rice flour does not behave the same way. Keep the filling away from the dough seam to prevent leaks."
+  ],
+  "translations": {
+    "hi": {
+      "name": "होत्तोक",
+      "ingredients": [
+        "मैदा",
+        "चिपचिपे चावल का आटा",
+        "इंस्टेंट यीस्ट",
+        "चीनी",
+        "नमक",
+        "गुनगुना पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "ब्राउन शुगर",
+        "बारीक कटे अखरोट",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "दोनों आटे, यीस्ट, चीनी और नमक मिलाएँ। गुनगुना पानी और 10 ml तेल मिलाकर नरम, चिपचिपा आटा बनाएँ; कटोरे में 5 मिनट गूँधें। ढककर गरम जगह 60 मिनट, दोगुना होने तक रखें।",
+        "आटे की हवा निकालकर ढककर 15 मिनट रखें। भरावन के लिए ब्राउन शुगर, अखरोट और दालचीनी अलग मिलाएँ।",
+        "हाथ और सतह पर 10 ml तेल लगाएँ। आटे और भरावन के 8 भाग करें। हर लोई को मोटा गोल फैलाएँ, भरावन रखें, किनारे ऊपर लाकर अच्छी तरह बंद करें।",
+        "भारी तवा मध्यम-धीमी आँच पर गरम करें। बचे 30 ml तेल का बैचों में उपयोग करें। भरे गोले जोड़ नीचे रखकर 1 मिनट पकाएँ, पलटें और बिना फाड़े धीरे दबाकर लगभग 1 cm मोटे पैनकेक बनाएँ।",
+        "2 मिनट पकाएँ, फिर पलटकर ढकें और 2 मिनट पकाएँ, जब तक दोनों ओर सुनहरा और बीच का आटा पका हो। परोसने से पहले 3 मिनट रखें ताकि पिघली चीनी का भरावन कुछ ठंडा हो।"
+      ],
+      "tips": [
+        "चिपचिपे चावल का आटा लचीली बनावट देता है; साधारण चावल का आटा वैसा नहीं होता। रिसाव रोकने के लिए भरावन को जोड़ से दूर रखें।"
+      ],
+      "passiveTime": "फूलने और आराम के लिए 75 मिनट रखें।"
+    },
+    "gu": {
+      "name": "હોત્તોક",
+      "ingredients": [
+        "મેંદો",
+        "ચીકણા ચોખાનો લોટ",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ખાંડ",
+        "મીઠું",
+        "હૂંફાળું પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "બ્રાઉન શુગર",
+        "બારીક સમારેલા અખરોટ",
+        "તજનો પાઉડર"
+      ],
+      "steps": [
+        "બંને લોટ, યીસ્ટ, ખાંડ અને મીઠું ભેળવો. હૂંફાળું પાણી અને 10 ml તેલ ઉમેરી નરમ, ચીકણો લોટ બાંધો; વાસણમાં 5 મિનિટ મસળો. ઢાંકીને ગરમ જગ્યાએ 60 મિનિટ, બમણો થાય ત્યાં સુધી રાખો.",
+        "લોટની હવા કાઢીને ઢાંકી 15 મિનિટ રાખો. પૂરણ માટે બ્રાઉન શુગર, અખરોટ અને તજ અલગ ભેળવો.",
+        "હાથ અને સપાટી પર 10 ml તેલ લગાવો. લોટ અને પૂરણના 8 ભાગ કરો. દરેક લૂવાને જાડો ગોળ વણો, પૂરણ મૂકો, કિનારા ઉપર લાવી બરાબર બંધ કરો.",
+        "ભારે તવી મધ્યમ-ધીમા તાપે ગરમ કરો. બાકીના 30 ml તેલનો હપ્તામાં ઉપયોગ કરો. ભરેલા ગોળા જોડ નીચે રાખી 1 મિનિટ પકાવો, ફેરવો અને ફાડ્યા વગર હળવેથી દબાવી લગભગ 1 cm જાડા પેનકેક બનાવો.",
+        "2 મિનિટ પકાવો, ફરી ફેરવી ઢાંકો અને 2 મિનિટ પકાવો, બંને બાજુ સોનેરી અને વચ્ચેનો લોટ પાકેલો હોવો જોઈએ. પીરસતાં પહેલાં 3 મિનિટ રાખો જેથી ઓગળેલી ખાંડનું પૂરણ થોડું ઠંડું થાય."
+      ],
+      "tips": [
+        "ચીકણા ચોખાનો લોટ ચાવવાની લચક આપે છે; સામાન્ય ચોખાનો લોટ એવો નથી. પૂરણ બહાર ન આવે તે માટે તેને જોડથી દૂર રાખો."
+      ],
+      "passiveTime": "ફૂલવા અને આરામ માટે 75 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Golden Korean griddle pancakes with mottled brown surfaces; one torn open to show glossy brown-sugar syrup and chopped walnut filling. No toppings or syrup poured on the outside.",
+  "passiveTime": "Allow 75 minutes for rising and resting.",
+  "photoDraft": "catalog/intake/photos/hotteok.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R0760",
+  "id": "vegetable-kimbap",
+  "status": "published-popular-200-intake-batch",
+  "name": "Vegetable Kimbap",
+  "cuisine": "Korean",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "nori seaweed sheets",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cook rinsed rice with water, covered, for 15 minutes; rest 10 minutes. Fold in half the sesame oil and salt; cool until warm.",
+    "Cut tofu, carrot and cucumber into long strips. Pan-fry tofu and carrot in oil for 5 minutes; glaze tofu with soy sauce.",
+    "Blanch spinach for 1 minute, cool and squeeze dry. Lay nori shiny side down; spread thin rice, leaving a clear top edge.",
+    "Line fillings across the rice and roll firmly with a mat. Brush with remaining sesame oil, sprinkle sesame and slice with a damp sharp knife."
+  ],
+  "tips": [
+    "Keep fillings dry and serve the rolls soon after assembling so the nori stays pleasant."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल किम्बाप",
+      "ingredients": [
+        "छोटे दाने वाले चावल",
+        "पानी",
+        "नोरी समुद्री शैवाल की शीट",
+        "गाजर",
+        "पालक",
+        "खीरा",
+        "सख्त टोफू",
+        "सोया सॉस",
+        "भुने तिल का तेल",
+        "तटस्थ स्वाद वाला तेल",
+        "तिल",
+        "नमक"
+      ],
+      "steps": [
+        "धुले चावल पानी में ढककर 15 मिनट पकाएँ; 10 मिनट रखें। आधा तिल का तेल और नमक मिलाकर गुनगुना होने दें।",
+        "टोफू, गाजर और खीरे की लंबी पट्टियाँ करें। तेल में टोफू और गाजर 5 मिनट भूनें; टोफू में सोया सॉस मिलाएँ।",
+        "पालक 1 मिनट उबालें, ठंडा करके निचोड़ें। नोरी का चमकीला भाग नीचे रखें; ऊपरी किनारा छोड़कर चावल की पतली परत फैलाएँ।",
+        "भरावन चावल पर कतार में रखकर मैट से कसकर रोल करें। बाकी तिल का तेल लगाएँ, तिल छिड़कें और गीले तेज़ चाकू से काटें।"
+      ],
+      "tips": [
+        "भरावन सूखा रखें और रोल बनाकर जल्दी परोसें ताकि नोरी की बनावट अच्छी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ કિમ્બાપ",
+      "ingredients": [
+        "ટૂંકા દાણાના ચોખા",
+        "પાણી",
+        "નોરી સમુદ્રી શેવાળની શીટ",
+        "ગાજર",
+        "પાલક",
+        "કાકડી",
+        "કઠણ ટોફુ",
+        "સોયા સોસ",
+        "શેકેલા તલનું તેલ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "તલ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ધોયેલા ચોખા પાણીમાં ઢાંકી 15 મિનિટ પકાવો; 10 મિનિટ રાખો. અડધું તલનું તેલ અને મીઠું ભેળવી હૂંફાળા થવા દો.",
+        "ટોફુ, ગાજર અને કાકડીની લાંબી પટ્ટીઓ કરો. તેલમાં ટોફુ અને ગાજર 5 મિનિટ શેકો; ટોફુમાં સોયા સોસ ભેળવો.",
+        "પાલક 1 મિનિટ બાફી ઠંડું કરી નિચોવો. નોરીની ચમકતી બાજુ નીચે રાખો; ઉપરની ધાર છોડીને ભાતનું પાતળું સ્તર ફેલાવો.",
+        "ભરાવણ ભાત પર કતારમાં મૂકી મેટથી ચુસ્ત રોલ કરો. બાકીનું તલનું તેલ લગાવો, તલ છાંટો અને ભીના તીક્ષ્ણ ચાકુથી કાપો."
+      ],
+      "tips": [
+        "ભરાવણ કોરું રાખો અને રોલ બનાવ્યા પછી જલદી પીરસો જેથી નોરીની બનાવટ સારી રહે."
+      ]
+    }
+  },
+  "photoDescription": "Neat round nori kimbap slices showing white rice, orange carrot, green cucumber and spinach, beige tofu centres; no egg.",
+  "photoDraft": "catalog/intake/photos/vegetable-kimbap.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

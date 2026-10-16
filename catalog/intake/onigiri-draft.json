@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R0762",
+  "id": "onigiri",
+  "status": "published-popular-200-intake-batch",
+  "name": "Onigiri",
+  "cuisine": "Japanese",
+  "categories": [
+    "Rice",
+    "Lunchbox",
+    "Light Meals"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "rice",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "water for cooking rice",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "pitted umeboshi plums",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "toasted nori sheets",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the rice until the water is nearly clear, then drain well. Put it in a heavy saucepan with the measured cooking water and soak for 30 minutes.",
+    "Cover, bring to a boil, then reduce to the lowest heat and cook for 12 minutes without lifting the lid. Turn off the heat and rest, covered, for 10 minutes; the grains should be tender with no loose water.",
+    "Fluff the rice and let it cool just until comfortable to handle. Chop the umeboshi finely and divide into 8 portions. Cut the nori into 8 strips.",
+    "With clean damp hands, spread a little of the measured salt on your palms. Divide rice into 8 portions. Cup each portion, place umeboshi in the centre, cover with rice and gently compress into a triangle without crushing the grains.",
+    "Sprinkle sesame over the rice triangles and wrap each with a nori strip just before eating. Serve promptly; cool and refrigerate any portions being kept for later."
+  ],
+  "tips": [
+    "Use sticky Japanese short-grain rice and shape it warm. Umeboshi is salty, so use only a light coating of salt on your hands."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ओनिगिरी",
+      "ingredients": [
+        "जापानी छोटे दाने वाले चावल",
+        "चावल पकाने का पानी",
+        "गुठली निकाले उमेबोशी आलूबुखारे",
+        "नमक",
+        "भुनी नोरी शीट",
+        "भुने तिल"
+      ],
+      "steps": [
+        "चावल को पानी लगभग साफ होने तक धोकर अच्छी तरह छानें। भारी पतीले में नापा हुआ पकाने का पानी डालकर 30 मिनट भिगोएँ।",
+        "ढककर उबाल लें, फिर सबसे धीमी आँच पर ढक्कन खोले बिना 12 मिनट पकाएँ। आँच बंद करके ढका हुआ 10 मिनट रखें; दाने नरम हों और अतिरिक्त पानी न बचे।",
+        "चावल हल्के से फुलाएँ और हाथ से पकड़ने लायक होने तक ही ठंडा करें। उमेबोशी बारीक काटकर 8 भाग करें। नोरी की 8 पट्टियाँ काटें।",
+        "साफ गीले हाथों की हथेलियों पर नापे नमक में से थोड़ा लगाएँ। चावल के 8 भाग करें। हर भाग को हथेली में रखकर बीच में उमेबोशी डालें, चावल से ढकें और दाने कुचले बिना हल्के दबाव से तिकोना बनाएँ।",
+        "चावल के तिकोनों पर तिल छिड़कें और खाने से ठीक पहले प्रत्येक पर नोरी की पट्टी लपेटें। तुरंत परोसें; बाद के लिए रखे भाग ठंडे करके फ्रिज में रखें।"
+      ],
+      "tips": [
+        "चिपकने वाले जापानी छोटे दाने के चावल लें और गुनगुने रहते आकार दें। उमेबोशी नमकीन होता है, इसलिए हथेलियों पर नमक हल्का ही लगाएँ।"
+      ],
+      "passiveTime": "चावल भिगोने के लिए 30 मिनट रखें।"
+    },
+    "gu": {
+      "name": "ઓનિગિરી",
+      "ingredients": [
+        "જાપાની ટૂંકા દાણાના ચોખા",
+        "ભાત રાંધવાનું પાણી",
+        "ઠળિયા કાઢેલા ઉમેબોશી પ્લમ",
+        "મીઠું",
+        "શેકેલી નોરી શીટ",
+        "શેકેલા તલ"
+      ],
+      "steps": [
+        "ચોખાને પાણી લગભગ સ્વચ્છ થાય ત્યાં સુધી ધોઈ સારી રીતે નિતારો. ભારે તપેલીમાં માપેલું રાંધવાનું પાણી ઉમેરી 30 મિનિટ પલાળો.",
+        "ઢાંકી ઉકાળો, પછી સાવ ધીમા તાપે ઢાંકણ ખોલ્યા વગર 12 મિનિટ પકાવો. તાપ બંધ કરી ઢાંકેલું 10 મિનિટ રાખો; દાણા નરમ અને વધારાનું પાણી ન હોવું જોઈએ.",
+        "ભાત હળવેથી છૂટો કરો અને હાથમાં પકડી શકાય એટલો જ ઠંડો કરો. ઉમેબોશી બારીક સમારી 8 ભાગ કરો. નોરીની 8 પટ્ટીઓ કાપો.",
+        "સ્વચ્છ ભીના હાથની હથેળીઓ પર માપેલા મીઠામાંથી થોડું લગાવો. ભાતના 8 ભાગ કરો. દરેક ભાગ હથેળીમાં લઈ વચ્ચે ઉમેબોશી મૂકો, ભાતથી ઢાંકો અને દાણા કચડ્યા વગર હળવેથી દબાવી ત્રિકોણ બનાવો.",
+        "ભાતના ત્રિકોણ પર તલ ભભરાવો અને ખાતાં પહેલાં દરેક પર નોરીની પટ્ટી વીંટાળો. તરત પીરસો; પછી માટે રાખવાના ભાગ ઠંડા કરી ફ્રિજમાં મૂકો."
+      ],
+      "tips": [
+        "ચોંટતા જાપાની ટૂંકા દાણાના ચોખા લો અને હૂંફાળા હોય ત્યારે આકાર આપો. ઉમેબોશી ખારું હોય છે, તેથી હથેળીઓ પર મીઠું થોડું જ લગાવો."
+      ],
+      "passiveTime": "ચોખા પલાળવા માટે 30 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "White triangular Japanese rice balls with black nori strips around the bottom and a light sesame sprinkle; one split to reveal a small reddish umeboshi plum centre.",
+  "passiveTime": "Allow 30 minutes for soaking rice.",
+  "photoDraft": "catalog/intake/photos/onigiri.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

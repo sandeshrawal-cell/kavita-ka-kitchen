@@ -1,0 +1,189 @@
+{
+  "sourceReviewId": "R1363",
+  "id": "mushroom-bao",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mushroom Bao",
+  "cuisine": "Chinese",
+  "categories": [
+    "Sandwiches",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Allow 90 minutes for dough rising and proofing.",
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "warm water for dough",
+      "qty": 165,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh shiitake mushrooms, woody stems removed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "water for sauce",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cucumber",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, baking powder, sugar and salt. Add the warm dough water and 10 ml oil; knead for 8 minutes until smooth. Cover and let rise for 60 minutes or until doubled.",
+    "While the dough rises, wipe the mushrooms clean and slice thickly. Cut cucumber into thin strips and finely slice spring onions, keeping the whites and greens separate.",
+    "Heat the 20 ml oil in a wide pan over medium-high heat. Cook mushrooms in batches for 6 minutes, turning occasionally until browned and their released moisture has evaporated. Return all mushrooms to the pan.",
+    "Add spring onion whites, garlic and ginger; stir for 1 minute. Mix soy sauce, vinegar, brown sugar, cornflour and sauce water, then pour into the pan. Simmer for 2 minutes until thick and glossy, coating the mushrooms.",
+    "Deflate and divide dough into 8 equal balls. Roll each into an oval about 12 cm long and 5 mm thick. Brush the inside surfaces with the reserved 5 ml oil and fold loosely in half. Set each bun on a small piece of baking parchment, cover and proof for 30 minutes until puffy.",
+    "Arrange buns with space to expand in a steamer above simmering water, without touching the water. Steam covered for 12 minutes; turn off the heat and wait 3 minutes before opening the lid gradually. Steam in batches if needed.",
+    "Open the warm buns carefully and divide the glazed mushrooms among them. Add cucumber strips and spring onion greens; serve immediately while the buns are soft and warm."
+  ],
+  "tips": [
+    "Cook the mushrooms until their water evaporates before adding sauce; a wet filling makes the buns soggy."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मशरूम बाओ",
+      "ingredients": [
+        "मैदा",
+        "इंस्टेंट यीस्ट",
+        "बेकिंग पाउडर",
+        "चीनी",
+        "नमक",
+        "आटे के लिए गुनगुना पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "कठोर डंठल हटाए ताज़े शीताके मशरूम",
+        "सोया सॉस",
+        "चावल का सिरका",
+        "ब्राउन शुगर",
+        "बारीक कटा लहसुन",
+        "कसा अदरक",
+        "कॉर्नफ्लोर",
+        "सॉस के लिए पानी",
+        "खीरा",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, बेकिंग पाउडर, चीनी और नमक मिलाएँ। आटे का गुनगुना पानी और 10 ml तेल डालकर 8 मिनट चिकना होने तक गूँधें। ढककर 60 मिनट या दोगुना होने तक फूलने दें।",
+        "आटा फूलते समय मशरूम पोंछकर साफ करें और मोटे टुकड़े काटें। खीरे की पतली पट्टियाँ काटें और हरे प्याज़ को बारीक काटकर सफेद और हरे हिस्से अलग रखें।",
+        "चौड़े पैन में 20 ml तेल मध्यम-तेज़ आँच पर गरम करें। मशरूम बैचों में 6 मिनट बीच-बीच में पलटते हुए भूरा होने और निकला पानी सूखने तक पकाएँ। सभी मशरूम पैन में लौटा दें।",
+        "हरे प्याज़ का सफेद भाग, लहसुन और अदरक डालकर 1 मिनट चलाएँ। सोया सॉस, सिरका, ब्राउन शुगर, कॉर्नफ्लोर और सॉस का पानी मिलाकर पैन में डालें। 2 मिनट गाढ़ा चमकदार होने और मशरूम पर चढ़ने तक उबालें।",
+        "हवा निकालकर आटे के 8 बराबर गोले करें। हर गोले को लगभग 12 cm लंबा और 5 mm मोटा अंडाकार बेलें। भीतर की सतहों पर रखे हुए 5 ml तेल की परत लगाकर ढीला आधा मोड़ें। हर बन को बेकिंग पेपर के छोटे टुकड़े पर रखें, ढकें और 30 मिनट फूलने दें।",
+        "बन को फूलने की जगह देते हुए स्टीमर में उबलते पानी के ऊपर रखें; पानी से छूना नहीं चाहिए। ढककर 12 मिनट भाप दें; आँच बंद करके 3 मिनट बाद ढक्कन धीरे खोलें। ज़रूरत हो तो बैचों में पकाएँ।",
+        "गरम बन सावधानी से खोलें और ग्लेज़ वाले मशरूम बाँटकर भरें। खीरे की पट्टियाँ और हरे प्याज़ का हरा भाग डालें; बन नरम और गरम रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "सॉस डालने से पहले मशरूम का पानी सूखने दें; गीले भरावन से बन भीग जाते हैं।"
+      ],
+      "passiveTime": "आटा फूलने के लिए 90 मिनट रखें।"
+    },
+    "gu": {
+      "name": "મશરૂમ બાઓ",
+      "ingredients": [
+        "મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "બેકિંગ પાઉડર",
+        "ખાંડ",
+        "મીઠું",
+        "લોટ માટે હૂંફાળું પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "કઠણ દાંડી દૂર કરેલા તાજા શીતાકે મશરૂમ",
+        "સોયા સોસ",
+        "ચોખાનો વિનેગર",
+        "બ્રાઉન શુગર",
+        "બારીક સમારેલું લસણ",
+        "છીણેલું આદુ",
+        "કોર્નફ્લોર",
+        "સોસ માટે પાણી",
+        "કાકડી",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, બેકિંગ પાઉડર, ખાંડ અને મીઠું ભેળવો. લોટ માટેનું હૂંફાળું પાણી અને 10 ml તેલ ઉમેરી 8 મિનિટ સુંવાળો થાય ત્યાં સુધી મસળો. ઢાંકી 60 મિનિટ અથવા બમણો થાય ત્યાં સુધી ફૂલવા દો.",
+        "લોટ ફૂલે ત્યાં સુધી મશરૂમ લૂછી સાફ કરો અને જાડા ટુકડા કાપો. કાકડીની પાતળી સળીઓ અને લીલી ડુંગળી બારીક કાપો; સફેદ અને લીલા ભાગ અલગ રાખો.",
+        "પહોળા પેનમાં 20 ml તેલ મધ્યમ-ઊંચા તાપે ગરમ કરો. મશરૂમ હપ્તામાં 6 મિનિટ વચ્ચે ફેરવતાં ભૂરો રંગ આવે અને નીકળેલું પાણી સુકાય ત્યાં સુધી પકાવો. બધા મશરૂમ પેનમાં પાછા મૂકો.",
+        "લીલી ડુંગળીનો સફેદ ભાગ, લસણ અને આદુ ઉમેરી 1 મિનિટ હલાવો. સોયા સોસ, વિનેગર, બ્રાઉન શુગર, કોર્નફ્લોર અને સોસનું પાણી ભેળવી પેનમાં ઉમેરો. 2 મિનિટ ઘટ્ટ, ચળકતું થઈ મશરૂમ પર ચોંટે ત્યાં સુધી ઉકાળો.",
+        "હવા કાઢી લોટના 8 સરખા ગોળા કરો. દરેકને લગભગ 12 cm લાંબો અને 5 mm જાડો અંડાકાર વણો. અંદરની સપાટી પર રાખેલું 5 ml તેલ લગાવી હળવેથી અડધો વાળો. દરેક બનને બેકિંગ પેપરના નાના ટુકડા પર મૂકો, ઢાંકો અને 30 મિનિટ ફૂલવા દો.",
+        "બનને ફૂલવાની જગ્યા રાખી સ્ટીમરમાં ઉકળતા પાણી ઉપર મૂકો; પાણી અડવું ન જોઈએ. ઢાંકી 12 મિનિટ બાફો; તાપ બંધ કરીને 3 મિનિટ પછી ઢાંકણ ધીમેથી ખોલો. જરૂર હોય તો હપ્તામાં બાફો.",
+        "ગરમ બન કાળજીથી ખોલો અને ગ્લેઝવાળા મશરૂમ વહેંચીને ભરો. કાકડીની સળીઓ અને લીલી ડુંગળીનો લીલો ભાગ ઉમેરો; બન નરમ અને ગરમ હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "સોસ ઉમેરતાં પહેલાં મશરૂમનું પાણી સુકાવા દો; ભીના પૂરણથી બન પલળી જાય છે."
+      ],
+      "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Fluffy white folded bao buns filled with thick dark glossy shiitake mushroom slices, cucumber strips and thinly sliced spring onion greens.",
+  "photoDraft": "catalog/intake/photos/mushroom-bao.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

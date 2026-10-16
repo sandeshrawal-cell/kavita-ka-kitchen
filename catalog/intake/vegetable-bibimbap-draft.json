@@ -1,0 +1,164 @@
+{
+  "sourceReviewId": "R0759",
+  "id": "vegetable-bibimbap",
+  "status": "published-popular-200-intake-batch",
+  "name": "Vegetable Bibimbap",
+  "cuisine": "Korean",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "rice",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "firm tofu",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "zucchini",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian gochujang",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "toasted sesame oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice, add water and simmer covered for 15 minutes; rest off the heat for 10 minutes.",
+    "Slice vegetables and cube tofu. Divide oil and garlic among separate batches; sauté carrots, zucchini, mushrooms and tofu until tender or golden.",
+    "Wilt spinach in the pan for 2 minutes. Season vegetables with soy sauce; mix gochujang, vinegar, sugar and sesame oil.",
+    "Divide warm rice between bowls, arrange vegetables and tofu separately on top, add sesame and sauce, then mix before eating."
+  ],
+  "tips": [
+    "Cook vegetables separately so each retains its colour and texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल बिबिम्बाप",
+      "ingredients": [
+        "छोटे दाने वाले चावल",
+        "पानी",
+        "सख्त टोफू",
+        "गाजर",
+        "पालक",
+        "ज़ुकीनी",
+        "बटन मशरूम",
+        "लहसुन",
+        "सोया सॉस",
+        "शाकाहारी गोचुजांग",
+        "चावल का सिरका",
+        "चीनी",
+        "भुने तिल का तेल",
+        "तटस्थ स्वाद वाला तेल",
+        "तिल"
+      ],
+      "steps": [
+        "चावल धोकर पानी डालें और ढककर 15 मिनट पकाएँ; आँच बंद कर 10 मिनट रखें।",
+        "सब्ज़ियाँ काटें और टोफू के टुकड़े करें। तेल और लहसुन बाँटकर गाजर, ज़ुकीनी, मशरूम और टोफू अलग-अलग नरम या सुनहरा भूनें।",
+        "पालक 2 मिनट पकाएँ। सब्ज़ियों में सोया सॉस डालें; गोचुजांग, सिरका, चीनी और तिल का तेल मिलाएँ।",
+        "कटोरों में गरम चावल बाँटें, ऊपर सब्ज़ियाँ और टोफू अलग-अलग सजाएँ, तिल और सॉस डालें; खाते समय मिलाएँ।"
+      ],
+      "tips": [
+        "हर सब्ज़ी अलग पकाएँ ताकि उसका रंग और बनावट बनी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ બિબિમ્બાપ",
+      "ingredients": [
+        "ટૂંકા દાણાના ચોખા",
+        "પાણી",
+        "કઠણ ટોફુ",
+        "ગાજર",
+        "પાલક",
+        "ઝુકિની",
+        "બટન મશરૂમ",
+        "લસણ",
+        "સોયા સોસ",
+        "શાકાહારી ગોચુજાંગ",
+        "ચોખાનો વિનેગર",
+        "ખાંડ",
+        "શેકેલા તલનું તેલ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "તલ"
+      ],
+      "steps": [
+        "ચોખા ધોઈ પાણી ઉમેરો અને ઢાંકીને 15 મિનિટ પકાવો; તાપ બંધ કરીને 10 મિનિટ રાખો.",
+        "શાક સમારો અને ટોફુના ટુકડા કરો. તેલ અને લસણ વહેંચીને ગાજર, ઝુકિની, મશરૂમ અને ટોફુ અલગ અલગ નરમ કે સોનેરી શેકો.",
+        "પાલક 2 મિનિટ પકાવો. શાકમાં સોયા સોસ ઉમેરો; ગોચુજાંગ, વિનેગર, ખાંડ અને તલનું તેલ ભેળવો.",
+        "વાટકામાં ગરમ ભાત વહેંચો, ઉપર શાક અને ટોફુ અલગ અલગ ગોઠવો, તલ અને સોસ ઉમેરો; ખાતી વખતે ભેળવો."
+      ],
+      "tips": [
+        "દરેક શાક અલગ પકાવો જેથી તેનો રંગ અને બનાવટ જળવાય."
+      ]
+    }
+  },
+  "photoDescription": "Korean bowl with white rice underneath distinct radial piles of carrots, spinach, zucchini, mushrooms, golden tofu and red gochujang; no egg.",
+  "photoDraft": "catalog/intake/photos/vegetable-bibimbap.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

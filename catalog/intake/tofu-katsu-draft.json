@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R2925",
+  "id": "tofu-katsu",
+  "status": "published-popular-200-intake-batch",
+  "name": "Tofu Katsu",
+  "cuisine": "Japanese",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "fry",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "all-purpose flour",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 110,
+      "unit": "ml"
+    },
+    {
+      "name": "egg-free panko crumbs",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "cabbage",
+      "qty": 250,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu between clean towels for 15 minutes, then cut into thick slabs. Pat dry and season with salt and pepper.",
+    "Mix flour and water into a smooth coating batter. Dip tofu in batter, then press panko firmly onto all surfaces.",
+    "Heat oil in a wide pan and shallow-fry tofu for 3–4 minutes on each side until golden and crisp; drain on a rack.",
+    "Simmer ketchup, soy sauce, sugar and vinegar for 2 minutes. Slice katsu and serve with sauce and finely shredded cabbage."
+  ],
+  "tips": [
+    "Press extra-firm tofu well so the crumb coating adheres; the flour batter replaces the usual egg coating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू कात्सु",
+      "ingredients": [
+        "सख्त टोफू",
+        "मैदा",
+        "पानी",
+        "बिना अंडे के पैंको ब्रेडक्रम्ब्स",
+        "तटस्थ स्वाद वाला तेल",
+        "नमक",
+        "काली मिर्च",
+        "टमाटर केचप",
+        "सोया सॉस",
+        "चीनी",
+        "चावल का सिरका",
+        "पत्तागोभी"
+      ],
+      "steps": [
+        "टोफू साफ कपड़ों के बीच 15 मिनट दबाएँ, फिर मोटी स्लाइस करें। सुखाकर नमक और काली मिर्च लगाएँ।",
+        "मैदा और पानी का चिकना घोल बनाएँ। टोफू को घोल में डुबोकर चारों ओर पैंको अच्छी तरह दबाएँ।",
+        "चौड़े पैन में तेल गरम करें और टोफू दोनों ओर 3–4 मिनट सुनहरा कुरकुरा शैलो फ्राई करें; जाली पर रखें।",
+        "केचप, सोया सॉस, चीनी और सिरका 2 मिनट पकाएँ। कात्सु काटकर सॉस और बारीक कटी पत्तागोभी के साथ परोसें।"
+      ],
+      "tips": [
+        "अतिरिक्त सख्त टोफू अच्छी तरह दबाएँ; मैदे का घोल अंडे की जगह कोटिंग चिपकाता है।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ કાત્સુ",
+      "ingredients": [
+        "કઠણ ટોફુ",
+        "મેંદો",
+        "પાણી",
+        "ઈંડા વગરના પાંકો બ્રેડક્રમ્બ્સ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "મીઠું",
+        "કાળાં મરી",
+        "ટામેટાં કેચપ",
+        "સોયા સોસ",
+        "ખાંડ",
+        "ચોખાનો વિનેગર",
+        "કોબી"
+      ],
+      "steps": [
+        "ટોફુ સ્વચ્છ કપડાં વચ્ચે 15 મિનિટ દબાવો, પછી જાડી સ્લાઇસ કરો. કોરું કરીને મીઠું અને મરી લગાવો.",
+        "મેંદો અને પાણીનું લીસું ખીરું બનાવો. ટોફુ ખીરામાં બોળી બધી બાજુ પાંકો સારી રીતે દબાવો.",
+        "પહોળા પેનમાં તેલ ગરમ કરો અને ટોફુ બંને બાજુ 3–4 મિનિટ સોનેરી કરકરો શેલો ફ્રાય કરો; જાળી પર રાખો.",
+        "કેચપ, સોયા સોસ, ખાંડ અને વિનેગર 2 મિનિટ પકાવો. કાત્સુ કાપી સોસ અને ઝીણી સમારેલી કોબી સાથે પીરસો."
+      ],
+      "tips": [
+        "વધુ કઠણ ટોફુ સારી રીતે દબાવો; મેંદાનું ખીરું ઈંડાની જગ્યાએ કોટિંગ ચોંટાડે છે."
+      ]
+    }
+  },
+  "photoDescription": "Golden panko-breaded tofu cutlet sliced to show white tofu inside, dark sauce on side and finely shredded cabbage.",
+  "photoDraft": "catalog/intake/photos/tofu-katsu.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

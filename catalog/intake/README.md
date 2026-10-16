@@ -33,3 +33,13 @@ normal catalogue build and validation after either script.
 The intake was built by `outputs/dish-list-review/prepare_intake.py` in the
 parent workspace from the earlier reviewed comparison. Regenerate from that
 script when changing duplicate decisions, then run the project tests.
+
+The current popular-dish expansion is tracked in `friend-popular200-progress.json`.
+It selects 200 missing dishes using researched food-trend themes, not a ranked top-200 claim.
+Finish recipes before photos; record only visually reviewed image IDs with
+`scripts/record-friend-popular200-photos.mjs`. Prepare the reviewed images with
+`scripts/prepare-friend-popular200-photos.py`, then promote cumulative groups of 25
+with `node scripts/promote-friend-popular200.mjs --limit=25` (then 50, 75, etc.).
+Run the build, catalogue validation and `verify-friend-popular200.mjs --limit=25 --require-complete`.
+Only approved entries enter the public site; remaining drafts stay private.
+Update `livePublishedCount` only after checking the production deployment.

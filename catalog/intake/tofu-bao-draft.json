@@ -1,0 +1,189 @@
+{
+  "sourceReviewId": "R3541",
+  "id": "tofu-bao",
+  "status": "published-popular-200-intake-batch",
+  "name": "Tofu Bao",
+  "cuisine": "Chinese",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "passiveTime": "Allow 90 minutes for dough rising and proofing.",
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "warm water for dough",
+      "qty": 165,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "firm tofu, drained",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "qty": 18,
+      "unit": "g"
+    },
+    {
+      "name": "garlic, minced",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ginger, grated",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water for glaze",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "cucumber",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, baking powder, sugar and salt. Add the warm dough water and 10 ml oil; knead for 8 minutes until smooth. Cover and let rise for 60 minutes or until doubled.",
+    "While the dough rises, press tofu between clean towels for 20 minutes, then cut into 16 thick rectangles. Cut cucumber and carrot into thin matchsticks and keep chilled.",
+    "Coat the dry tofu lightly with cornflour. Heat the 20 ml oil in a nonstick pan and fry tofu in a single layer for 3 minutes per broad side, until crisp and golden; remove to a plate.",
+    "Lower the heat and cook garlic and ginger in the same pan for 30 seconds. Add soy sauce, rice vinegar, brown sugar and glaze water; simmer for 2 minutes. Return tofu and turn gently for 1 minute until the reduced glaze clings to it.",
+    "Deflate and divide dough into 8 equal balls. Roll each into an oval about 12 cm long and 5 mm thick. Brush the inside surfaces with the reserved 5 ml oil and fold loosely in half. Set each bun on a small piece of baking parchment, cover and proof for 30 minutes until puffy.",
+    "Arrange buns with space to expand in a steamer above simmering water, without touching the water. Steam covered for 12 minutes; turn off the heat and wait 3 minutes before opening the lid gradually. Steam in batches if needed.",
+    "Gently open the warm buns. Fill each with 2 tofu pieces, cucumber and carrot strips, sharing the remaining glaze across the buns. Serve immediately."
+  ],
+  "tips": [
+    "Make the filling during the dough rises, then warm it before filling. Keep glaze thick so it does not soak the buns."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू बाओ",
+      "ingredients": [
+        "मैदा",
+        "इंस्टेंट यीस्ट",
+        "बेकिंग पाउडर",
+        "चीनी",
+        "नमक",
+        "आटे के लिए गुनगुना पानी",
+        "तटस्थ स्वाद वाला तेल",
+        "पानी निकाला सख्त टोफू",
+        "कॉर्नफ्लोर",
+        "सोया सॉस",
+        "चावल का सिरका",
+        "ब्राउन शुगर",
+        "बारीक कटा लहसुन",
+        "कसा अदरक",
+        "ग्लेज़ के लिए पानी",
+        "खीरा",
+        "गाजर"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, बेकिंग पाउडर, चीनी और नमक मिलाएँ। आटे का गुनगुना पानी और 10 ml तेल डालकर 8 मिनट चिकना होने तक गूँधें। ढककर 60 मिनट या दोगुना होने तक फूलने दें।",
+        "आटा फूलते समय टोफू को साफ तौलियों के बीच 20 मिनट दबाएँ, फिर 16 मोटे आयताकार टुकड़े काटें। खीरे और गाजर की पतली लंबी पट्टियाँ काटकर ठंडी रखें।",
+        "सूखे टोफू पर कॉर्नफ्लोर की हल्की परत लगाएँ। नॉनस्टिक पैन में 20 ml तेल गरम करें और टोफू एक परत में हर चौड़ी तरफ 3 मिनट कुरकुरा सुनहरा होने तक सेंकें; प्लेट में निकालें।",
+        "आँच कम करके उसी पैन में लहसुन और अदरक 30 सेकंड पकाएँ। सोया सॉस, चावल का सिरका, ब्राउन शुगर और ग्लेज़ का पानी डालकर 2 मिनट उबालें। टोफू लौटाएँ और 1 मिनट हल्के से पलटें, जब तक गाढ़ा ग्लेज़ चिपक जाए।",
+        "हवा निकालकर आटे के 8 बराबर गोले करें। हर गोले को लगभग 12 cm लंबा और 5 mm मोटा अंडाकार बेलें। भीतर की सतहों पर रखे हुए 5 ml तेल की परत लगाकर ढीला आधा मोड़ें। हर बन को बेकिंग पेपर के छोटे टुकड़े पर रखें, ढकें और 30 मिनट फूलने दें।",
+        "बन को फूलने की जगह देते हुए स्टीमर में उबलते पानी के ऊपर रखें; पानी से छूना नहीं चाहिए। ढककर 12 मिनट भाप दें; आँच बंद करके 3 मिनट बाद ढक्कन धीरे खोलें। ज़रूरत हो तो बैचों में पकाएँ।",
+        "गरम बन को धीरे खोलें। हर बन में 2 टोफू टुकड़े, खीरे और गाजर की पट्टियाँ भरें और बचा ग्लेज़ बाँटकर डालें। तुरंत परोसें।"
+      ],
+      "tips": [
+        "आटा फूलते समय भरावन बनाएँ, फिर भरने से पहले गरम करें। ग्लेज़ गाढ़ा रखें ताकि बन भीगे नहीं।"
+      ],
+      "passiveTime": "आटा फूलने के लिए 90 मिनट रखें।"
+    },
+    "gu": {
+      "name": "ટોફુ બાઓ",
+      "ingredients": [
+        "મેંદો",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "બેકિંગ પાઉડર",
+        "ખાંડ",
+        "મીઠું",
+        "લોટ માટે હૂંફાળું પાણી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "પાણી નિતારેલું સખત ટોફુ",
+        "કોર્નફ્લોર",
+        "સોયા સોસ",
+        "ચોખાનો વિનેગર",
+        "બ્રાઉન શુગર",
+        "બારીક સમારેલું લસણ",
+        "છીણેલું આદુ",
+        "ગ્લેઝ માટે પાણી",
+        "કાકડી",
+        "ગાજર"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, બેકિંગ પાઉડર, ખાંડ અને મીઠું ભેળવો. લોટ માટેનું હૂંફાળું પાણી અને 10 ml તેલ ઉમેરી 8 મિનિટ સુંવાળો થાય ત્યાં સુધી મસળો. ઢાંકી 60 મિનિટ અથવા બમણો થાય ત્યાં સુધી ફૂલવા દો.",
+        "લોટ ફૂલે ત્યાં સુધી ટોફુને સ્વચ્છ ટુવાલ વચ્ચે 20 મિનિટ દબાવો, પછી 16 જાડા લંબચોરસ ટુકડા કરો. કાકડી અને ગાજરની પાતળી લાંબી સળીઓ કાપી ઠંડી રાખો.",
+        "સૂકા ટોફુ પર કોર્નફ્લોરનું પાતળું પડ લગાવો. નોનસ્ટિક પેનમાં 20 ml તેલ ગરમ કરી ટોફુ એક સ્તરમાં દરેક પહોળી બાજુ 3 મિનિટ કકરો અને સોનેરી થાય ત્યાં સુધી શેકો; થાળીમાં કાઢો.",
+        "તાપ ઓછો કરી એ જ પેનમાં લસણ અને આદુ 30 સેકન્ડ પકાવો. સોયા સોસ, ચોખાનો વિનેગર, બ્રાઉન શુગર અને ગ્લેઝનું પાણી ઉમેરી 2 મિનિટ ઉકાળો. ટોફુ પાછું મૂકી 1 મિનિટ હળવેથી ફેરવો, જેથી ઘટ્ટ ગ્લેઝ ચોંટી જાય.",
+        "હવા કાઢી લોટના 8 સરખા ગોળા કરો. દરેકને લગભગ 12 cm લાંબો અને 5 mm જાડો અંડાકાર વણો. અંદરની સપાટી પર રાખેલું 5 ml તેલ લગાવી હળવેથી અડધો વાળો. દરેક બનને બેકિંગ પેપરના નાના ટુકડા પર મૂકો, ઢાંકો અને 30 મિનિટ ફૂલવા દો.",
+        "બનને ફૂલવાની જગ્યા રાખી સ્ટીમરમાં ઉકળતા પાણી ઉપર મૂકો; પાણી અડવું ન જોઈએ. ઢાંકી 12 મિનિટ બાફો; તાપ બંધ કરીને 3 મિનિટ પછી ઢાંકણ ધીમેથી ખોલો. જરૂર હોય તો હપ્તામાં બાફો.",
+        "ગરમ બન હળવેથી ખોલો. દરેકમાં 2 ટોફુના ટુકડા, કાકડી અને ગાજરની સળીઓ ભરો અને બાકીનો ગ્લેઝ વહેંચીને ઉમેરો. તરત પીરસો."
+      ],
+      "tips": [
+        "લોટ ફૂલે ત્યારે પૂરણ બનાવો, પછી ભરતાં પહેલાં ગરમ કરો. ગ્લેઝ ઘટ્ટ રાખો જેથી બન પલળી ન જાય."
+      ],
+      "passiveTime": "લોટ ફૂલવા માટે 90 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Fluffy white folded bao buns holding golden-brown glazed rectangular tofu pieces, pale-green cucumber matchsticks and orange carrot strips; no extra garnishes.",
+  "photoDraft": "catalog/intake/photos/tofu-bao.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}
