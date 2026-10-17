@@ -1,0 +1,154 @@
+{
+  "sourceReviewId": "R2929",
+  "id": "tofu-burger",
+  "status": "published-popular-200-intake-batch",
+  "name": "Tofu Burger",
+  "cuisine": "International",
+  "categories": [
+    "High Protein Vegetarian",
+    "Sandwiches",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "firm tofu, drained",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless breadcrumbs",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless burger buns",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 160,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu between clean towels for 15 minutes, then cut into 4 broad slabs about 1.5 cm thick. Preheat oven to 220°C and line a tray.",
+    "Whisk flour, water and soy sauce into a smooth batter. In a second dish mix breadcrumbs, paprika, pepper and salt.",
+    "Dip tofu in batter and press into crumbs to coat all sides. Place on the tray and brush the coating gently with the measured oil.",
+    "Bake for 25 minutes, turning carefully halfway, until the coating is golden and crisp. Split buns and toast their cut surfaces in a dry pan for 1 minute.",
+    "Spread mayonnaise on buns, add dry lettuce leaves, sliced tomato and a hot tofu slab, then close and serve immediately."
+  ],
+  "tips": [
+    "Firm tofu slabs hold together better than soft tofu; press before coating to keep the crust crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोफू बर्गर",
+      "ingredients": [
+        "पानी निकाला सख्त टोफू",
+        "मैदा",
+        "पानी",
+        "सोया सॉस",
+        "एगलेस ब्रेडक्रम्ब्स",
+        "स्मोक्ड पापरिका",
+        "काली मिर्च पाउडर",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल",
+        "एगलेस बर्गर बन",
+        "एगलेस मेयोनेज़",
+        "लेट्यूस",
+        "टमाटर"
+      ],
+      "steps": [
+        "टोफू साफ तौलियों में 15 मिनट दबाकर लगभग 1.5 cm मोटे 4 चौड़े टुकड़े करें। ओवन 220°C गरम कर ट्रे पर बेकिंग पेपर लगाएँ।",
+        "मैदा, पानी और सोया सॉस का चिकना घोल फेंटें। दूसरे बर्तन में ब्रेडक्रम्ब्स, पापरिका, काली मिर्च और नमक मिलाएँ।",
+        "टोफू घोल में डुबोकर ब्रेडक्रम्ब्स में दबाएँ ताकि सभी ओर परत लगे। ट्रे पर रखकर नापा तेल हल्के से लगाएँ।",
+        "25 मिनट बेक करें, बीच में सावधानी से पलटें; परत सुनहरी कुरकुरी हो। बन काटकर सूखे पैन में कटी सतह 1 मिनट सेंकें।",
+        "बन पर मेयोनेज़ लगाएँ, सूखे लेट्यूस पत्ते, टमाटर के स्लाइस और गरम टोफू रखें, बंद करके तुरंत परोसें।"
+      ],
+      "tips": [
+        "नरम टोफू की तुलना में सख्त टोफू टिकता है; कुरकुरी परत के लिए लपेटने से पहले दबाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટોફુ બર્ગર",
+      "ingredients": [
+        "પાણી નિતારેલું સખત ટોફુ",
+        "મેંદો",
+        "પાણી",
+        "સોયા સોસ",
+        "એગલેસ બ્રેડક્રમ્બ્સ",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "કાળા મરીનો પાઉડર",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ",
+        "એગલેસ બર્ગર બન",
+        "એગલેસ મેયોનીઝ",
+        "લેટ્યુસ",
+        "ટામેટાં"
+      ],
+      "steps": [
+        "ટોફુ સ્વચ્છ ટુવાલમાં 15 મિનિટ દબાવી લગભગ 1.5 cm જાડા 4 પહોળા ટુકડા કરો. ઓવન 220°C ગરમ કરી ટ્રે પર બેકિંગ પેપર મૂકો.",
+        "મેંદો, પાણી અને સોયા સોસનું સુંવાળું ખીરું ફેંટો. બીજા વાસણમાં બ્રેડક્રમ્બ્સ, પૅપ્રિકા, મરી અને મીઠું ભેળવો.",
+        "ટોફુ ખીરામાં બોળી બ્રેડક્રમ્બ્સમાં દબાવો જેથી બધી બાજુ પડ લાગે. ટ્રે પર મૂકી માપેલું તેલ હળવેથી લગાવો.",
+        "25 મિનિટ બેક કરો, વચ્ચે કાળજીથી ફેરવો; પડ સોનેરી અને કકરું થાય. બન કાપી કોરા પેનમાં કાપેલી સપાટી 1 મિનિટ શેકો.",
+        "બન પર મેયોનીઝ લગાવો, સૂકાં લેટ્યુસનાં પાન, ટામેટાંની સ્લાઇસ અને ગરમ ટોફુ મૂકી બંધ કરી તરત પીરસો."
+      ],
+      "tips": [
+        "નરમ ટોફુ કરતાં સખત ટોફુના ટુકડા ટકે છે; કકરા પડ માટે લપેટતાં પહેલાં દબાવો."
+      ]
+    }
+  },
+  "photoDescription": "Burger buns enclosing a thick rectangular golden breadcrumb-coated tofu slab, green lettuce, red tomato slices and a thin white mayonnaise layer; no cheese or fries.",
+  "photoDraft": "catalog/intake/photos/tofu-burger.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

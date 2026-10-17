@@ -1,0 +1,140 @@
+{
+  "sourceReviewId": "R2918",
+  "id": "grilled-paneer-salad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Grilled Paneer Salad",
+  "cuisine": "Indian Fusion",
+  "categories": [
+    "High Protein Vegetarian",
+    "Salads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "grill",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "plain curd",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut paneer into thick rectangles. Coat with 10 ml oil, 10 ml lemon juice, cumin and 3 g salt; rest for 10 minutes.",
+    "Wash and dry lettuce, then tear into pieces. Thinly slice cucumber, tomato and onion and arrange with lettuce.",
+    "Whisk curd, remaining 20 ml lemon juice, 5 ml oil, pepper and remaining 3 g salt into a smooth dressing.",
+    "Heat a grill pan and brush with remaining 10 ml oil. Grill paneer over medium-high heat for 3 minutes per broad side until marked and hot.",
+    "Top the salad with warm paneer, spoon over dressing and serve immediately."
+  ],
+  "tips": [
+    "Dry leaves thoroughly and add dressing just before eating."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्रिल्ड पनीर सलाद",
+      "ingredients": [
+        "पनीर",
+        "लेट्यूस",
+        "खीरा",
+        "टमाटर",
+        "लाल प्याज़",
+        "सादा दही",
+        "नींबू का रस",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "काली मिर्च पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "पनीर मोटे आयताकार काटें। 10 ml तेल, 10 ml नींबू रस, जीरा और 3 g नमक से लपेटें; 10 मिनट रखें।",
+        "लेट्यूस धोकर सुखाएँ और तोड़ें। खीरा, टमाटर और प्याज़ पतले काटकर लेट्यूस के साथ सजाएँ।",
+        "दही, बचा 20 ml नींबू रस, 5 ml तेल, काली मिर्च और बचा 3 g नमक चिकना फेंटकर ड्रेसिंग बनाएँ।",
+        "ग्रिल पैन गरम कर बचा 10 ml तेल लगाएँ। पनीर मध्यम-तेज़ आँच पर हर चौड़ी तरफ 3 मिनट निशान आने और गरम होने तक सेंकें।",
+        "सलाद पर गरम पनीर और ड्रेसिंग डालकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "पत्ते पूरी तरह सुखाएँ और खाने से ठीक पहले ड्रेसिंग डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ગ્રિલ્ડ પનીર સલાડ",
+      "ingredients": [
+        "પનીર",
+        "લેટ્યુસ",
+        "કાકડી",
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "સાદું દહીં",
+        "લીંબુનો રસ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "કાળા મરીનો પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "પનીરને જાડા લંબચોરસ કાપો. 10 ml તેલ, 10 ml લીંબુનો રસ, જીરું અને 3 g મીઠું લગાવો; 10 મિનિટ રાખો.",
+        "લેટ્યુસ ધોઈ સૂકવી તોડો. કાકડી, ટામેટાં અને ડુંગળી પાતળાં કાપી લેટ્યુસ સાથે ગોઠવો.",
+        "દહીં, બાકીનો 20 ml લીંબુનો રસ, 5 ml તેલ, મરી અને બાકીનું 3 g મીઠું સુંવાળું ફેંટી ડ્રેસિંગ બનાવો.",
+        "ગ્રિલ પેન ગરમ કરી બાકીનું 10 ml તેલ લગાવો. પનીરને મધ્યમ-ઊંચા તાપે દરેક પહોળી બાજુ 3 મિનિટ નિશાન પડે અને ગરમ થાય ત્યાં સુધી શેકો.",
+        "સલાડ પર ગરમ પનીર અને ડ્રેસિંગ ઉમેરી તરત પીરસો."
+      ],
+      "tips": [
+        "પાન સંપૂર્ણ સૂકવો અને ખાતાં પહેલાં જ ડ્રેસિંગ ઉમેરો."
+      ]
+    }
+  },
+  "photoDescription": "Green lettuce salad with cucumber, red tomato and red onion slices, topped with thick paneer rectangles bearing dark grill lines and a white curd dressing.",
+  "photoDraft": "catalog/intake/photos/grilled-paneer-salad.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,152 @@
+{
+  "sourceReviewId": "R3544",
+  "id": "tostadas",
+  "status": "published-popular-200-intake-batch",
+  "name": "Tostadas",
+  "cuisine": "Mexican",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "avocado flesh",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200°C. Brush 8 small corn tortillas with 15 ml oil and bake on a tray for 12 minutes, turning halfway, until crisp and golden.",
+    "Finely chop onion. Cook half in remaining 10 ml oil for 3 minutes. Add beans, cumin, water and 3 g salt; simmer for 6 minutes, mashing into a thick spread.",
+    "Dice tomato and mix with remaining onion, chopped coriander, 15 ml lime juice and remaining 2 g salt. Shred lettuce and slice avocado, coating it with remaining 10 ml lime juice.",
+    "Spread warm beans over each crisp tortilla. Top with lettuce, drained tomato salsa and avocado slices, keeping the toppings in shallow layers.",
+    "Divide sour cream over the tostadas and serve immediately before the bases soften."
+  ],
+  "tips": [
+    "Bake the tortillas until rigid; let guests assemble close to serving for the best crunch."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टोस्टाडास",
+      "ingredients": [
+        "मक्के के टॉर्टिया",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "जैतून का तेल",
+        "पानी",
+        "नमक",
+        "जीरा पाउडर",
+        "लेट्यूस",
+        "टमाटर",
+        "लाल प्याज़",
+        "हरा धनिया",
+        "लाइम का रस",
+        "एवोकाडो का गूदा",
+        "सावर क्रीम"
+      ],
+      "steps": [
+        "ओवन 200°C गरम करें। 8 छोटे मक्के के टॉर्टिया पर 15 ml तेल लगाकर ट्रे पर 12 मिनट बीच में पलटकर कुरकुरे सुनहरे बेक करें।",
+        "प्याज़ बारीक काटें। आधा प्याज़ बचे 10 ml तेल में 3 मिनट पकाएँ। बीन्स, जीरा, पानी और 3 g नमक डालकर 6 मिनट उबालें और गाढ़ा मसलें।",
+        "टमाटर काटकर बचे प्याज़, कटे धनिये, 15 ml लाइम रस और बचे 2 g नमक में मिलाएँ। लेट्यूस पतला काटें और एवोकाडो स्लाइस पर बचा 10 ml लाइम रस लगाएँ।",
+        "हर कुरकुरे टॉर्टिया पर गरम बीन्स फैलाएँ। लेट्यूस, छाना टमाटर साल्सा और एवोकाडो स्लाइस पतली परतों में रखें।",
+        "टोस्टाडास पर सावर क्रीम बाँटकर बेस नरम होने से पहले तुरंत परोसें।"
+      ],
+      "tips": [
+        "टॉर्टिया सख्त होने तक बेक करें; बेहतर कुरकुरापन के लिए परोसते समय ही सजाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ટોસ્ટાડાસ",
+      "ingredients": [
+        "મકાઈના ટોર્ટિયા",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "ઓલિવ તેલ",
+        "પાણી",
+        "મીઠું",
+        "જીરું પાઉડર",
+        "લેટ્યુસ",
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "લીલા ધાણા",
+        "લાઇમનો રસ",
+        "એવોકાડોનો ગર",
+        "સાવર ક્રીમ"
+      ],
+      "steps": [
+        "ઓવન 200°C ગરમ કરો. 8 નાના મકાઈના ટોર્ટિયા પર 15 ml તેલ લગાવી ટ્રે પર 12 મિનિટ વચ્ચે ફેરવી કકરા અને સોનેરી બેક કરો.",
+        "ડુંગળી બારીક સમારો. અડધી ડુંગળી બાકીના 10 ml તેલમાં 3 મિનિટ પકાવો. બીન્સ, જીરું, પાણી અને 3 g મીઠું ઉમેરી 6 મિનિટ ઉકાળી ઘટ્ટ મસળો.",
+        "ટામેટાં સમારી બાકીની ડુંગળી, સમારેલા ધાણા, 15 ml લાઇમના રસ અને બાકીના 2 g મીઠામાં ભેળવો. લેટ્યુસ પાતળું કાપો અને એવોકાડોની સ્લાઇસ પર બાકીનો 10 ml લાઇમનો રસ લગાવો.",
+        "દરેક કકરા ટોર્ટિયા પર ગરમ બીન્સ ફેલાવો. લેટ્યુસ, નિતારેલી ટામેટાંની સાલ્સા અને એવોકાડોની સ્લાઇસ પાતળાં પડમાં મૂકો.",
+        "ટોસ્ટાડાસ પર સાવર ક્રીમ વહેંચી તળિયા નરમ થાય તે પહેલાં તરત પીરસો."
+      ],
+      "tips": [
+        "ટોર્ટિયા કઠણ થાય ત્યાં સુધી બેક કરો; શ્રેષ્ઠ કકરાપણા માટે પીરસતી વખતે જ ગોઠવો."
+      ]
+    }
+  },
+  "photoDescription": "Flat crisp golden corn tortillas topped with mashed black beans, shredded lettuce, diced tomato-onion-coriander salsa, green avocado slices and white sour cream.",
+  "photoDraft": "catalog/intake/photos/tostadas.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

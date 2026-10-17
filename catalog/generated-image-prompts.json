@@ -5522,5 +5522,158 @@
     "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Amrakhand. Thick smooth golden mango shrikhand in a small bowl with soft spoon swirls, tiny saffron flecks and chopped pistachios. Show only the recipe ingredients, in their cooked form: full-fat plain yogurt, ripe mango flesh, powdered sugar, ground cardamom, saffron, milk, pistachios, chopped. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-17"
+  },
+  "soya-chunk-tikka": {
+    "id": "soya-chunk-tikka",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Soya Chunk Tikka. Skewers of orange-red soya chunks, red bell pepper and onion petals with browned grill edges; no sauce or garnish. Show only the recipe ingredients, in their cooked form: dry soya chunks, water, thick plain curd, red bell pepper, onion, ginger, garlic, Kashmiri chilli powder, ground cumin, garam masala, turmeric, salt, lemon juice, neutral oil. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "chilli-soya-chunks": {
+    "id": "chilli-soya-chunks",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Chilli Soya Chunks. Glossy dark reddish-brown soya chunks with green bell pepper squares, onion petals, slit green chillies and sliced spring onion in a thick clinging sauce. Show only the recipe ingredients, in their cooked form: dry soya chunks, water, cornflour, neutral oil, onion, green bell pepper, garlic, ginger, green chilli, soy sauce, tomato ketchup, white vinegar, sugar, salt, ground black pepper, spring onion. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "rajma-galouti-kebab": {
+    "id": "rajma-galouti-kebab",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Rajma Galouti Kebab. Small thin round rajma galouti kebabs with a delicate evenly browned smooth crust; one broken edge reveals a very fine homogeneous soft reddish-brown bean paste, absolutely no intact beans, no coarse chunks and no crumbly burger-patty texture. Tiny coriander flecks only. Plate without garnish or sauce. Show only the recipe ingredients, in their cooked form: canned kidney beans, drained and rinsed, gram flour, onion, ginger, garlic, neutral oil, garam masala, ground cumin, red chilli powder, ground cardamom, ground nutmeg, salt, lemon juice, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "previousPrompts": [
+      "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Rajma Galouti Kebab. Small round flattened rajma patties with smooth brown crusts and fine green coriander flecks; one broken patty reveals a smooth soft reddish-brown centre. Show only the recipe ingredients, in their cooked form: canned kidney beans, drained and rinsed, gram flour, onion, ginger, garlic, neutral oil, garam masala, ground cumin, red chilli powder, ground cardamom, ground nutmeg, salt, lemon juice, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes."
+    ],
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "sattu-chilla": {
+    "id": "sattu-chilla",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Sattu Chilla. Thin golden sattu pancakes speckled with finely chopped onion, tomato and green coriander, with lightly crisp browned edges; no accompaniments. Show only the recipe ingredients, in their cooked form: roasted Bengal gram sattu, gram flour, water, onion, tomato, green chilli, fresh coriander, cumin seeds, turmeric, salt, neutral oil. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "moong-sprouts-dosa": {
+    "id": "moong-sprouts-dosa",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Moong Sprouts Dosa. Thin folded green-gold moong sprout dosas with browned crisp patches and finely speckled surfaces, arranged on a plain plate without garnishes. Show only the recipe ingredients, in their cooked form: fresh moong sprouts, rice flour, water, ginger, green chilli, cumin seeds, salt, neutral oil. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "quinoa-black-bean-salad": {
+    "id": "quinoa-black-bean-salad",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Quinoa Black Bean Salad. Quinoa salad with glossy black beans, yellow sweetcorn, diced red bell pepper and tomato, scattered with fresh coriander in a light lime dressing. Show only the recipe ingredients, in their cooked form: quinoa, water, canned black beans, drained and rinsed, cooked sweetcorn kernels, red bell pepper, tomato, fresh coriander, lime juice, olive oil, ground cumin, salt, ground black pepper. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "grilled-paneer-salad": {
+    "id": "grilled-paneer-salad",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Grilled Paneer Salad. Green lettuce salad with cucumber, red tomato and red onion slices, topped with thick paneer rectangles bearing dark grill lines and a white curd dressing. Show only the recipe ingredients, in their cooked form: paneer, lettuce, cucumber, tomato, red onion, plain curd, lemon juice, olive oil, ground cumin, ground black pepper, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "peanut-tofu-bowl": {
+    "id": "peanut-tofu-bowl",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Peanut Tofu Bowl. White rice bowl with golden tofu cubes, raw orange carrot and green cucumber matchsticks, thick tan peanut sauce and chopped roasted peanuts. Show only the recipe ingredients, in their cooked form: firm tofu, drained, basmati rice, water, smooth peanut butter, soy sauce, lime juice, maple syrup, garlic, neutral oil, carrot, cucumber, roasted peanuts. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "chickpea-shawarma-bowl": {
+    "id": "chickpea-shawarma-bowl",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Chickpea Shawarma Bowl. Couscous bowls with golden spiced roasted chickpeas, diced cucumber and tomato, and a creamy pale tahini-yogurt drizzle. Show only the recipe ingredients, in their cooked form: canned chickpeas, drained and rinsed, dry couscous, water, plain curd, tahini, lemon juice, garlic, olive oil, ground cumin, smoked paprika, ground coriander, ground cinnamon, salt, tomato, cucumber. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "lentil-tacos": {
+    "id": "lentil-tacos",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Lentil Tacos. Soft corn tacos filled with thick brown spiced lentils, shredded green lettuce, diced avocado and tomato with fresh coriander; no cheese. Show only the recipe ingredients, in their cooked form: dry brown lentils, water, corn tortillas, onion, garlic, tomato paste, ground cumin, smoked paprika, dried oregano, salt, olive oil, lettuce, tomato, avocado flesh, lime juice, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "tofu-burger": {
+    "id": "tofu-burger",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tofu Burger. Burger buns enclosing a thick rectangular golden breadcrumb-coated tofu slab, green lettuce, red tomato slices and a thin white mayonnaise layer; no cheese or fries. Show only the recipe ingredients, in their cooked form: firm tofu, drained, plain flour, water, soy sauce, eggless breadcrumbs, smoked paprika, ground black pepper, salt, neutral oil, eggless burger buns, eggless mayonnaise, lettuce, tomato. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "chickpea-burger": {
+    "id": "chickpea-burger",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Chickpea Burger. Round golden-brown chickpea patties inside toasted burger buns with green lettuce, red tomato slices and white mayonnaise; a coarse chickpea texture is visible at the patty edge. Show only the recipe ingredients, in their cooked form: canned chickpeas, drained and rinsed, onion, garlic, gram flour, rolled oats, ground cumin, smoked paprika, salt, lemon juice, neutral oil, eggless burger buns, lettuce, tomato, eggless mayonnaise. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "edamame-hummus": {
+    "id": "edamame-hummus",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Edamame Hummus. Smooth pale-green edamame hummus swirled in a shallow bowl with a small olive-oil pool and a fine red paprika dusting; no bread or vegetable sticks. Show only the recipe ingredients, in their cooked form: shelled edamame, frozen, water, tahini, lemon juice, garlic, olive oil, ground cumin, salt, smoked paprika. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "greek-yogurt-bowl": {
+    "id": "greek-yogurt-bowl",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Greek Yogurt Bowl. Thick white Greek yogurt bowls with sections of sliced strawberry, blueberries and banana, toasted oats and chopped almonds, finished with a light honey drizzle. Show only the recipe ingredients, in their cooked form: plain Greek yogurt, honey, rolled oats, almonds, strawberries, blueberries, banana, peeled. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "frozen-yogurt-bark": {
+    "id": "frozen-yogurt-bark",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Frozen Yogurt Bark. Irregular thin pieces of frozen white yogurt bark studded with red strawberry slices, whole blueberries and chopped almonds on a plain chilled plate. Show only the recipe ingredients, in their cooked form: plain Greek yogurt, honey, vanilla extract, strawberries, blueberries, almonds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "elote": {
+    "id": "elote",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Elote. Four grilled corn cobs with scattered char marks under a creamy white coating, fine crumbled white cotija cheese and a light red chilli dusting; no herbs. Show only the recipe ingredients, in their cooked form: sweetcorn on the cob, husks removed, eggless mayonnaise, sour cream, vegetarian cotija cheese, finely crumbled, lime juice, red chilli powder, salt, neutral oil. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "paneer-quesadilla": {
+    "id": "paneer-quesadilla",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Paneer Quesadilla. Golden toasted folded wheat tortillas cut into wedges, revealing small spiced paneer cubes, red bell pepper, onion and melted cheddar with green coriander flecks. Show only the recipe ingredients, in their cooked form: paneer, eggless wheat tortillas, vegetarian cheddar, grated, red bell pepper, onion, neutral oil, ground cumin, smoked paprika, salt, lime juice, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "sweet-potato-black-bean-burrito": {
+    "id": "sweet-potato-black-bean-burrito",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Sweet Potato Black Bean Burrito. Toasted wheat burritos cut open to show orange roasted sweet potato cubes, black beans, white rice and diced tomato-onion-coriander salsa, with no cheese. Show only the recipe ingredients, in their cooked form: sweet potato, peeled, canned black beans, drained and rinsed, basmati rice, water, eggless wheat tortillas, olive oil, ground cumin, smoked paprika, salt, lime juice, tomato, red onion, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "paneer-burrito": {
+    "id": "paneer-burrito",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Paneer Burrito. Lightly toasted wheat burritos sliced across, showing white rice, golden spiced paneer, black beans, red bell pepper, tomato-onion salsa and melted cheddar. Show only the recipe ingredients, in their cooked form: paneer, basmati rice, water, canned black beans, drained and rinsed, eggless wheat tortillas, red bell pepper, onion, tomato, fresh coriander, lime juice, ground cumin, smoked paprika, salt, neutral oil, vegetarian cheddar, grated. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "taquitos": {
+    "id": "taquitos",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Taquitos. Crisp golden rolled corn-tortilla tubes with black bean, potato and melted cheddar filling visible at the ends, alongside a small bowl of white lime-coriander sour cream. Show only the recipe ingredients, in their cooked form: corn tortillas, canned black beans, drained and rinsed, potato, peeled, water, vegetarian cheddar, grated, neutral oil, ground cumin, smoked paprika, salt, sour cream, lime juice, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "tostadas": {
+    "id": "tostadas",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Tostadas. Flat crisp golden corn tortillas topped with mashed black beans, shredded lettuce, diced tomato-onion-coriander salsa, green avocado slices and white sour cream. Show only the recipe ingredients, in their cooked form: corn tortillas, canned black beans, drained and rinsed, olive oil, water, salt, ground cumin, lettuce, tomato, red onion, fresh coriander, lime juice, avocado flesh, sour cream. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "guacamole": {
+    "id": "guacamole",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Guacamole. Chunky pale-green avocado guacamole with visible red tomato, purple-red onion and fine green coriander and jalapeno pieces in a shallow bowl; no chips or garnish. Show only the recipe ingredients, in their cooked form: avocado flesh, tomato, red onion, jalapeno, lime juice, fresh coriander, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "pico-de-gallo": {
+    "id": "pico-de-gallo",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Pico de Gallo. Fresh chopped salsa of small bright-red tomato cubes, purple-red onion, green jalapeno and coriander in a bowl with a light lime sheen, not blended. Show only the recipe ingredients, in their cooked form: tomato, red onion, jalapeno, fresh coriander, lime juice, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "queso-dip": {
+    "id": "queso-dip",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Queso Dip. A warm creamy pale-orange melted-cheese dip with tiny red tomato, green jalapeno and translucent onion pieces; glossy smooth surface in a bowl with no chips. Show only the recipe ingredients, in their cooked form: vegetarian cheddar, grated, vegetarian mozzarella, grated, unsweetened evaporated milk, water, cornflour, butter, jalapeno, onion, tomato, garlic, ground cumin, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "nachos-platter": {
+    "id": "nachos-platter",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Nachos Platter. A platter of golden corn chips layered with black beans and melted cheddar, topped with red tomato-onion-coriander salsa, green pickled jalapeno slices, chunky avocado and white sour-cream dollops. Show only the recipe ingredients, in their cooked form: plain corn tortilla chips, canned black beans, drained and rinsed, vegetarian cheddar, grated, tomato, red onion, pickled jalapeno, drained, avocado flesh, sour cream, lime juice, fresh coriander, ground cumin, olive oil, water, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
   }
 }

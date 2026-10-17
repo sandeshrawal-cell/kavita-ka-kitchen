@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R2998",
+  "id": "sattu-chilla",
+  "status": "published-popular-200-intake-batch",
+  "name": "Sattu Chilla",
+  "cuisine": "North Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Breakfast",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "roasted Bengal gram sattu",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 420,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whisk sattu, gram flour, turmeric and salt with the water until smooth. Rest for 10 minutes so the flour hydrates.",
+    "Finely chop onion, tomato, chilli and coriander. Stir them into the batter with cumin; the batter should pour in a thick ribbon.",
+    "Heat a nonstick griddle over medium heat and grease lightly, using the measured oil across all batches. Pour a portion of batter and spread gently into a 15 cm pancake.",
+    "Cook for 3 minutes until the top sets and the underside browns. Drizzle a little oil around the edge, flip carefully and cook for 2 minutes until fully cooked.",
+    "Repeat to make 8 chillas, stirring the batter before each portion. Serve warm while the edges are crisp."
+  ],
+  "tips": [
+    "Use roasted chana sattu rather than raw chickpea flour; the added gram flour helps bind these delicate pancakes."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सत्तू चीला",
+      "ingredients": [
+        "भुने चने का सत्तू",
+        "बेसन",
+        "पानी",
+        "प्याज़",
+        "टमाटर",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "जीरा",
+        "हल्दी",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "सत्तू, बेसन, हल्दी और नमक को पानी में चिकना फेंटें। आटा पानी सोखे इसके लिए 10 मिनट रखें।",
+        "प्याज़, टमाटर, मिर्च और धनिया बारीक काटें। जीरे के साथ घोल में मिलाएँ; घोल मोटी धार में बहना चाहिए।",
+        "नॉनस्टिक तवा मध्यम आँच पर गरम करें और नापे तेल से बैचों में हल्का चिकना करें। घोल डालकर धीरे 15 cm चीला फैलाएँ।",
+        "3 मिनट ऊपर जमने और नीचे भूरा होने तक पकाएँ। किनारे थोड़ा तेल डालें, सावधानी से पलटकर 2 मिनट पूरी तरह पकाएँ।",
+        "हर बार घोल चलाकर कुल 8 चीले बनाएँ। किनारे कुरकुरे रहते गुनगुने परोसें।"
+      ],
+      "tips": [
+        "भुने चने का सत्तू लें; कच्चा बेसन उसका विकल्प नहीं है। अतिरिक्त बेसन इन नरम चीलों को बाँधता है।"
+      ]
+    },
+    "gu": {
+      "name": "સત્તુ ચીલા",
+      "ingredients": [
+        "શેકેલા ચણાનું સત્તુ",
+        "બેસન",
+        "પાણી",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલું મરચું",
+        "લીલા ધાણા",
+        "જીરું",
+        "હળદર",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "સત્તુ, બેસન, હળદર અને મીઠું પાણીમાં સુંવાળું ફેંટો. લોટ પાણી શોષે તે માટે 10 મિનિટ રાખો.",
+        "ડુંગળી, ટામેટાં, મરચું અને ધાણા બારીક સમારો. જીરા સાથે ખીરામાં ભેળવો; ખીરું જાડી ધારથી વહેવું જોઈએ.",
+        "નોનસ્ટિક તવી મધ્યમ તાપે ગરમ કરી માપેલા તેલથી હપ્તામાં હળવી ચોપડો. ખીરું રેડી હળવેથી 15 cm ચીલો ફેલાવો.",
+        "3 મિનિટ ઉપરથી જામે અને નીચેથી ભૂરો થાય ત્યાં સુધી પકાવો. કિનારે થોડું તેલ ઉમેરો, કાળજીથી ફેરવી 2 મિનિટ સંપૂર્ણ પકાવો.",
+        "દરેક વખતે ખીરું હલાવી કુલ 8 ચીલા બનાવો. કિનારા કકરા હોય ત્યારે હૂંફાળા પીરસો."
+      ],
+      "tips": [
+        "શેકેલા ચણાનું સત્તુ લો; કાચું બેસન તેનો વિકલ્પ નથી. ઉમેરેલું બેસન આ નરમ ચીલાને બાંધે છે."
+      ]
+    }
+  },
+  "photoDescription": "Thin golden sattu pancakes speckled with finely chopped onion, tomato and green coriander, with lightly crisp browned edges; no accompaniments.",
+  "photoDraft": "catalog/intake/photos/sattu-chilla.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

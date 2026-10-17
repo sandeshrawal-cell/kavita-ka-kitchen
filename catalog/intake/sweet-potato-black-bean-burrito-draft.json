@@ -1,0 +1,156 @@
+{
+  "sourceReviewId": "R1446",
+  "id": "sweet-potato-black-bean-burrito",
+  "status": "published-popular-200-intake-batch",
+  "name": "Sweet Potato Black Bean Burrito",
+  "cuisine": "Mexican Inspired",
+  "categories": [
+    "Wraps",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "sweet potato, peeled",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "basmati rice",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 320,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless wheat tortillas",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 220°C. Dice sweet potato into 2 cm cubes; toss with 20 ml oil, paprika and 2 g salt. Roast for 25 minutes, turning halfway, until tender and browned.",
+    "Rinse rice and bring to a boil with 280 ml water and 1 g salt. Cover, simmer for 12 minutes and rest off the heat for 10 minutes.",
+    "Warm beans with cumin, remaining 40 ml water and 1 g salt for 5 minutes, mashing a small portion until thick.",
+    "Finely chop tomato, onion and coriander. Mix with lime juice and remaining 2 g salt; drain any pooled liquid before filling.",
+    "Warm 4 large tortillas until pliable. Divide rice, beans, sweet potato and salsa among them, leaving the edges clear. Fold in the sides and roll tightly.",
+    "Brush a pan with remaining 10 ml oil. Toast burritos seam-side down for 2 minutes, turn and toast for 2 minutes; cut across and serve."
+  ],
+  "tips": [
+    "Keep beans thick and salsa drained so the wraps do not leak."
+  ],
+  "translations": {
+    "hi": {
+      "name": "शकरकंद ब्लैक बीन बरीटो",
+      "ingredients": [
+        "छिली शकरकंद",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "बासमती चावल",
+        "पानी",
+        "एगलेस गेहूँ टॉर्टिया",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "नमक",
+        "लाइम का रस",
+        "टमाटर",
+        "लाल प्याज़",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "ओवन 220°C गरम करें। शकरकंद के 2 cm टुकड़ों में 20 ml तेल, पापरिका और 2 g नमक मिलाएँ। 25 मिनट बीच में पलटकर नरम भूरा भूनें।",
+        "चावल धोकर 280 ml पानी और 1 g नमक में उबालें। ढककर 12 मिनट धीमे पकाएँ और आँच बंद कर 10 मिनट रखें।",
+        "बीन्स में जीरा, बचा 40 ml पानी और 1 g नमक डालकर 5 मिनट गरम करें; थोड़ा मसलकर गाढ़ा करें।",
+        "टमाटर, प्याज़ और धनिया बारीक काटें। लाइम रस और बचा 2 g नमक मिलाएँ; भरने से पहले जमा पानी निकालें।",
+        "4 बड़े टॉर्टिया लचीले होने तक गरम करें। चावल, बीन्स, शकरकंद और साल्सा बाँटकर भरें, किनारे खाली छोड़ें। दोनों किनारे मोड़कर कसकर लपेटें।",
+        "बचे 10 ml तेल से पैन चिकना करें। बरीटो जोड़ नीचे रखकर 2 मिनट सेंकें, पलटकर 2 मिनट सेंकें; बीच से काटकर परोसें।"
+      ],
+      "tips": [
+        "बीन्स गाढ़ी और साल्सा छानी रखें ताकि रैप से पानी न रिसे।"
+      ]
+    },
+    "gu": {
+      "name": "શક્કરિયા બ્લૅક બીન બરીટો",
+      "ingredients": [
+        "છોલેલાં શક્કરિયાં",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "બાસમતી ચોખા",
+        "પાણી",
+        "એગલેસ ઘઉંના ટોર્ટિયા",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "લાઇમનો રસ",
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ઓવન 220°C ગરમ કરો. શક્કરિયાના 2 cm ટુકડામાં 20 ml તેલ, પૅપ્રિકા અને 2 g મીઠું ભેળવો. 25 મિનિટ વચ્ચે ફેરવી નરમ અને ભૂરા શેકો.",
+        "ચોખા ધોઈ 280 ml પાણી અને 1 g મીઠામાં ઉકાળો. ઢાંકી 12 મિનિટ ધીમા પકાવો અને તાપ બંધ કરી 10 મિનિટ રાખો.",
+        "બીન્સમાં જીરું, બાકીનું 40 ml પાણી અને 1 g મીઠું ઉમેરી 5 મિનિટ ગરમ કરો; થોડું મસળી ઘટ્ટ કરો.",
+        "ટામેટાં, ડુંગળી અને ધાણા બારીક સમારો. લાઇમનો રસ અને બાકીનું 2 g મીઠું ભેળવો; ભરતાં પહેલાં ભેગું થયેલું પાણી કાઢો.",
+        "4 મોટા ટોર્ટિયા નરમ થાય ત્યાં સુધી ગરમ કરો. ભાત, બીન્સ, શક્કરિયા અને સાલ્સા વહેંચીને ભરો, કિનારા ખાલી રાખો. બંને બાજુ વાળી ચુસ્ત વીંટાળો.",
+        "બાકીના 10 ml તેલથી પેન ચોપડો. બરીટો જોડ નીચે રાખી 2 મિનિટ શેકો, ફેરવી 2 મિનિટ શેકો; વચ્ચેથી કાપી પીરસો."
+      ],
+      "tips": [
+        "બીન્સ ઘટ્ટ અને સાલ્સા નિતારેલી રાખો જેથી રૅપમાંથી પાણી ન નીકળે."
+      ]
+    }
+  },
+  "photoDescription": "Toasted wheat burritos cut open to show orange roasted sweet potato cubes, black beans, white rice and diced tomato-onion-coriander salsa, with no cheese.",
+  "photoDraft": "catalog/intake/photos/sweet-potato-black-bean-burrito.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

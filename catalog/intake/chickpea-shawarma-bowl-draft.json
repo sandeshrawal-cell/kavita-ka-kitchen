@@ -1,0 +1,166 @@
+{
+  "sourceReviewId": "R2891",
+  "id": "chickpea-shawarma-bowl",
+  "status": "published-popular-200-intake-batch",
+  "name": "Chickpea Shawarma Bowl",
+  "cuisine": "Middle Eastern Inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "canned chickpeas, drained and rinsed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "dry couscous",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "plain curd",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "tahini",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 220°C. Pat chickpeas dry; toss with oil, cumin, paprika, ground coriander, cinnamon and 3 g salt.",
+    "Spread on a baking tray and roast for 25 minutes, stirring halfway, until browned and lightly crisp outside.",
+    "Combine couscous with 1 g salt. Add 250 ml boiling water, cover for 8 minutes and fluff with a fork.",
+    "Whisk curd, tahini, lemon juice, crushed garlic, remaining 30 ml water and 2 g salt. Dice tomato and cucumber.",
+    "Divide couscous among 4 bowls; add roasted chickpeas and vegetables. Spoon over tahini-curd sauce and serve warm."
+  ],
+  "tips": [
+    "Drying chickpeas helps the spices roast evenly instead of steaming."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चना शावरमा बाउल",
+      "ingredients": [
+        "छाने और धोए डिब्बाबंद काबुली चने",
+        "सूखा कूसकूस",
+        "पानी",
+        "सादा दही",
+        "ताहिनी",
+        "नींबू का रस",
+        "लहसुन",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "धनिया पाउडर",
+        "दालचीनी पाउडर",
+        "नमक",
+        "टमाटर",
+        "खीरा"
+      ],
+      "steps": [
+        "ओवन 220°C गरम करें। चने पोंछकर सुखाएँ; तेल, जीरा, पापरिका, धनिया पाउडर, दालचीनी और 3 g नमक मिलाएँ।",
+        "बेकिंग ट्रे पर फैलाकर 25 मिनट भूनें, बीच में चलाएँ; बाहर भूरा और हल्का कुरकुरा हो।",
+        "कूसकूस में 1 g नमक मिलाएँ। 250 ml उबलता पानी डालकर 8 मिनट ढकें और काँटे से फुलाएँ।",
+        "दही, ताहिनी, नींबू रस, कुटा लहसुन, बचा 30 ml पानी और 2 g नमक फेंटें। टमाटर और खीरा काटें।",
+        "कूसकूस 4 कटोरों में बाँटें; भुने चने और सब्ज़ियाँ रखें। ताहिनी-दही सॉस डालकर गुनगुना परोसें।"
+      ],
+      "tips": [
+        "चने सुखाने से मसाले भाप में पकने के बजाय समान रूप से भुनते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ચણા શાવરમા બાઉલ",
+      "ingredients": [
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાબુલી ચણા",
+        "સૂકું કૂસકૂસ",
+        "પાણી",
+        "સાદું દહીં",
+        "તાહિની",
+        "લીંબુનો રસ",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "ધાણા પાઉડર",
+        "તજનો પાઉડર",
+        "મીઠું",
+        "ટામેટાં",
+        "કાકડી"
+      ],
+      "steps": [
+        "ઓવન 220°C ગરમ કરો. ચણા લૂછી સૂકવો; તેલ, જીરું, પૅપ્રિકા, ધાણા પાઉડર, તજ અને 3 g મીઠું ભેળવો.",
+        "બેકિંગ ટ્રે પર ફેલાવી 25 મિનિટ શેકો, વચ્ચે હલાવો; બહારથી ભૂરા અને હળવા કકરા થાય.",
+        "કૂસકૂસમાં 1 g મીઠું ભેળવો. 250 ml ઉકળતું પાણી રેડી 8 મિનિટ ઢાંકો અને કાંટાથી છૂટું કરો.",
+        "દહીં, તાહિની, લીંબુનો રસ, કચડેલું લસણ, બાકીનું 30 ml પાણી અને 2 g મીઠું ફેંટો. ટામેટાં અને કાકડી સમારો.",
+        "કૂસકૂસ 4 બાઉલમાં વહેંચો; શેકેલા ચણા અને શાક મૂકો. તાહિની-દહીંનો સોસ રેડી હૂંફાળું પીરસો."
+      ],
+      "tips": [
+        "ચણા સૂકવવાથી મસાલા વરાળમાં બફાવાને બદલે સરખા શેકાય છે."
+      ]
+    }
+  },
+  "photoDescription": "Couscous bowls with golden spiced roasted chickpeas, diced cucumber and tomato, and a creamy pale tahini-yogurt drizzle.",
+  "photoDraft": "catalog/intake/photos/chickpea-shawarma-bowl.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

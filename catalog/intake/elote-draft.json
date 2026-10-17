@@ -1,0 +1,114 @@
+{
+  "sourceReviewId": "R2683",
+  "id": "elote",
+  "status": "published-popular-200-intake-batch",
+  "name": "Elote",
+  "cuisine": "Mexican",
+  "categories": [
+    "Kids Meals",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "grill",
+  "ingredients": [
+    {
+      "name": "sweetcorn on the cob, husks removed",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cotija cheese, finely crumbled",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Remove all silk from the corn and pat dry. Use 4 medium cobs weighing about 800 g together. Brush with oil and heat a grill pan over medium-high heat.",
+    "Grill corn for 15 minutes, turning every few minutes, until kernels are tender with scattered charred spots.",
+    "Mix mayonnaise, sour cream, lime juice and salt into a creamy spread. Place crumbled cheese on a plate.",
+    "Coat hot corn evenly with the spread, roll or sprinkle with cheese and dust with chilli powder. Serve immediately."
+  ],
+  "tips": [
+    "Choose cotija labelled vegetarian and eggless mayonnaise. Add the creamy coating only after grilling."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एलोटे",
+      "ingredients": [
+        "छिलके हटाए स्वीटकॉर्न भुट्टे",
+        "एगलेस मेयोनेज़",
+        "सावर क्रीम",
+        "बारीक चूरा किया शाकाहारी कोतीहा चीज़",
+        "लाइम का रस",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "भुट्टों के रेशे हटाकर सुखाएँ। कुल लगभग 800 g के 4 मध्यम भुट्टे लें। तेल लगाएँ और ग्रिल पैन मध्यम-तेज़ गरम करें।",
+        "भुट्टे 15 मिनट बीच-बीच में घुमाते हुए सेंकें, दाने नरम और जगह-जगह हल्के जले हों।",
+        "मेयोनेज़, सावर क्रीम, लाइम रस और नमक मिलाकर मलाईदार लेप बनाएँ। चीज़ का चूरा प्लेट में रखें।",
+        "गरम भुट्टों पर लेप समान लगाएँ, चीज़ में घुमाएँ या चीज़ छिड़कें, फिर मिर्च पाउडर डालें। तुरंत परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी लिखी कोतीहा और एगलेस मेयोनेज़ लें। मलाईदार लेप सेंकने के बाद ही लगाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "એલોટે",
+      "ingredients": [
+        "છોતરાં કાઢેલા સ્વીટકોર્નના ડોડા",
+        "એગલેસ મેયોનીઝ",
+        "સાવર ક્રીમ",
+        "બારીક ભૂકો કરેલું શાકાહારી કોતિહા ચીઝ",
+        "લાઇમનો રસ",
+        "લાલ મરચું પાઉડર",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "ડોડાના રેસા કાઢી સૂકવો. કુલ લગભગ 800 g ના 4 મધ્યમ ડોડા લો. તેલ લગાવો અને ગ્રિલ પેન મધ્યમ-ઊંચા તાપે ગરમ કરો.",
+        "ડોડા 15 મિનિટ વચ્ચે ફેરવતાં શેકો, દાણા નરમ અને ઠેકઠેકાણે હળવા બળેલા હોય.",
+        "મેયોનીઝ, સાવર ક્રીમ, લાઇમનો રસ અને મીઠું ભેળવી ક્રીમી લેપ બનાવો. ચીઝનો ભૂકો થાળીમાં મૂકો.",
+        "ગરમ ડોડા પર સરખો લેપ લગાવો, ચીઝમાં ફેરવો અથવા ચીઝ ભભરાવો, પછી મરચું પાઉડર ઉમેરો. તરત પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી લખેલું કોતિહા અને એગલેસ મેયોનીઝ લો. ક્રીમી લેપ શેક્યા પછી જ લગાવો."
+      ]
+    }
+  },
+  "photoDescription": "Four grilled corn cobs with scattered char marks under a creamy white coating, fine crumbled white cotija cheese and a light red chilli dusting; no herbs.",
+  "photoDraft": "catalog/intake/photos/elote.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

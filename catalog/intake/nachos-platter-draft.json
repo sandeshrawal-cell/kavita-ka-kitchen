@@ -1,0 +1,159 @@
+{
+  "sourceReviewId": "R3587",
+  "id": "nachos-platter",
+  "status": "published-popular-200-intake-batch",
+  "name": "Nachos Platter",
+  "cuisine": "Tex-Mex",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain corn tortilla chips",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "pickled jalapeno, drained",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "avocado flesh",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200°C. Heat oil in a small pan, add beans, cumin, water and 1 g salt; simmer for 5 minutes until hot with little free liquid.",
+    "Dice tomato and onion finely. Mix with chopped coriander, 15 ml lime juice and remaining 2 g salt; drain any pooled liquid.",
+    "Mash avocado coarsely with remaining 10 ml lime juice. Keep sour cream and drained jalapenos ready.",
+    "Spread half the chips on an ovenproof platter, add half the beans and cheese, then repeat. Bake for 8 minutes until cheese melts and the chips are hot.",
+    "Top with drained salsa, jalapenos and spoonfuls of avocado and sour cream. Serve immediately so the chips stay crisp."
+  ],
+  "tips": [
+    "Choose sturdy plain chips and add all cold, wet toppings after baking."
+  ],
+  "translations": {
+    "hi": {
+      "name": "नाचोज़ प्लेटर",
+      "ingredients": [
+        "सादे मक्के के टॉर्टिया चिप्स",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "कसा शाकाहारी चेडर चीज़",
+        "टमाटर",
+        "लाल प्याज़",
+        "पानी निकाला अचारी हालपेन्यो",
+        "एवोकाडो का गूदा",
+        "सावर क्रीम",
+        "लाइम का रस",
+        "हरा धनिया",
+        "जीरा पाउडर",
+        "जैतून का तेल",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 200°C गरम करें। छोटे पैन में तेल गरम कर बीन्स, जीरा, पानी और 1 g नमक डालें; 5 मिनट गरम और लगभग सूखा पकाएँ।",
+        "टमाटर और प्याज़ बारीक काटें। कटा धनिया, 15 ml लाइम रस और बचा 2 g नमक मिलाएँ; जमा पानी निकालें।",
+        "एवोकाडो बचे 10 ml लाइम रस के साथ दरदरा मसलें। सावर क्रीम और छाने हालपेन्यो तैयार रखें।",
+        "ओवन-सुरक्षित प्लेट पर आधे चिप्स, आधे बीन्स और चीज़ फैलाएँ, फिर बाकी परत लगाएँ। 8 मिनट चीज़ पिघलने और चिप्स गरम होने तक बेक करें।",
+        "ऊपर छाना साल्सा, हालपेन्यो और चम्मच भर एवोकाडो व सावर क्रीम रखें। चिप्स कुरकुरे रहते तुरंत परोसें।"
+      ],
+      "tips": [
+        "मज़बूत सादे चिप्स लें और सभी ठंडे गीले टॉपिंग बेक करने के बाद डालें।"
+      ]
+    },
+    "gu": {
+      "name": "નાચોઝ પ્લેટર",
+      "ingredients": [
+        "સાદી મકાઈની ટોર્ટિયા ચિપ્સ",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "છીણેલું શાકાહારી ચેડર ચીઝ",
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "પાણી નિતારેલું અથાણાવાળું હાલપેન્યો",
+        "એવોકાડોનો ગર",
+        "સાવર ક્રીમ",
+        "લાઇમનો રસ",
+        "લીલા ધાણા",
+        "જીરું પાઉડર",
+        "ઓલિવ તેલ",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 200°C ગરમ કરો. નાના પેનમાં તેલ ગરમ કરી બીન્સ, જીરું, પાણી અને 1 g મીઠું ઉમેરો; 5 મિનિટ ગરમ અને લગભગ સૂકું પકાવો.",
+        "ટામેટાં અને ડુંગળી બારીક સમારો. સમારેલા ધાણા, 15 ml લાઇમનો રસ અને બાકીનું 2 g મીઠું ભેળવો; ભેગું થયેલું પાણી કાઢો.",
+        "એવોકાડો બાકીના 10 ml લાઇમના રસ સાથે દરદરું મસળો. સાવર ક્રીમ અને નિતારેલા હાલપેન્યો તૈયાર રાખો.",
+        "ઓવન-સુરક્ષિત થાળીમાં અડધી ચિપ્સ, અડધા બીન્સ અને ચીઝ ફેલાવો, પછી બાકીનું પડ કરો. 8 મિનિટ ચીઝ ઓગળે અને ચિપ્સ ગરમ થાય ત્યાં સુધી બેક કરો.",
+        "ઉપર નિતારેલી સાલ્સા, હાલપેન્યો અને ચમચીભર એવોકાડો તથા સાવર ક્રીમ મૂકો. ચિપ્સ કકરી હોય ત્યારે તરત પીરસો."
+      ],
+      "tips": [
+        "મજબૂત સાદી ચિપ્સ લો અને બધી ઠંડી ભીની ટોપિંગ બેક કર્યા પછી ઉમેરો."
+      ]
+    }
+  },
+  "photoDescription": "A platter of golden corn chips layered with black beans and melted cheddar, topped with red tomato-onion-coriander salsa, green pickled jalapeno slices, chunky avocado and white sour-cream dollops.",
+  "photoDraft": "catalog/intake/photos/nachos-platter.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

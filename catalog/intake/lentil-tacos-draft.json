@@ -1,0 +1,174 @@
+{
+  "sourceReviewId": "R2942",
+  "id": "lentil-tacos",
+  "status": "published-popular-200-intake-batch",
+  "name": "Lentil Tacos",
+  "cuisine": "Mexican Inspired",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "stew",
+  "ingredients": [
+    {
+      "name": "dry brown lentils",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "corn tortillas",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "tomato paste",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "lettuce",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "avocado flesh",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse lentils and simmer with water for 25 minutes until tender but intact. Drain excess water, reserving 60 ml cooking liquid.",
+    "Finely chop onion and garlic. Cook onion in oil for 5 minutes; add garlic, cumin, paprika and oregano and stir for 1 minute.",
+    "Add tomato paste, lentils, reserved 60 ml liquid and 4 g salt. Simmer for 5 minutes, mashing a small portion to bind the filling.",
+    "Shred lettuce and dice tomato and avocado. Toss tomato and avocado with lime juice, chopped coriander and remaining 2 g salt.",
+    "Warm tortillas in a dry pan for 20 seconds per side and keep covered. Divide lentils, lettuce and avocado-tomato topping among 8 small tortillas; serve immediately."
+  ],
+  "tips": [
+    "Use whole brown lentils rather than split red lentils to retain texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "दाल टाकोस",
+      "ingredients": [
+        "सूखी साबुत भूरी मसूर",
+        "पानी",
+        "मक्के के टॉर्टिया",
+        "प्याज़",
+        "लहसुन",
+        "गाढ़ा टमाटर पेस्ट",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "सूखा ओरेगानो",
+        "नमक",
+        "जैतून का तेल",
+        "लेट्यूस",
+        "टमाटर",
+        "एवोकाडो का गूदा",
+        "लाइम का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "मसूर धोकर पानी में 25 मिनट नरम लेकिन साबुत रहने तक उबालें। अतिरिक्त पानी छानें, 60 ml पकाने का पानी बचाएँ।",
+        "प्याज़ और लहसुन बारीक काटें। तेल में प्याज़ 5 मिनट पकाएँ; लहसुन, जीरा, पापरिका और ओरेगानो डालकर 1 मिनट चलाएँ।",
+        "टमाटर पेस्ट, मसूर, बचा 60 ml पानी और 4 g नमक डालें। 5 मिनट उबालें, भरावन बाँधने के लिए थोड़ा मसलें।",
+        "लेट्यूस पतला काटें, टमाटर और एवोकाडो छोटे काटें। टमाटर-एवोकाडो में लाइम रस, कटा धनिया और बचा 2 g नमक मिलाएँ।",
+        "टॉर्टिया सूखे पैन में हर ओर 20 सेकंड गरम करके ढकें। मसूर, लेट्यूस और एवोकाडो-टमाटर को 8 छोटे टॉर्टिया में बाँटकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "दरदरी बनावट के लिए साबुत भूरी मसूर लें, धुली लाल मसूर नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "દાળ ટાકોસ",
+      "ingredients": [
+        "સૂકી આખી ભૂરી મસૂર",
+        "પાણી",
+        "મકાઈના ટોર્ટિયા",
+        "ડુંગળી",
+        "લસણ",
+        "ઘટ્ટ ટામેટાંની પેસ્ટ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "સૂકો ઓરેગાનો",
+        "મીઠું",
+        "ઓલિવ તેલ",
+        "લેટ્યુસ",
+        "ટામેટાં",
+        "એવોકાડોનો ગર",
+        "લાઇમનો રસ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "મસૂર ધોઈ પાણીમાં 25 મિનિટ નરમ પણ આખી રહે ત્યાં સુધી ઉકાળો. વધારાનું પાણી નિતારી 60 ml રાંધવાનું પાણી રાખો.",
+        "ડુંગળી અને લસણ બારીક સમારો. તેલમાં ડુંગળી 5 મિનિટ પકાવો; લસણ, જીરું, પૅપ્રિકા અને ઓરેગાનો ઉમેરી 1 મિનિટ હલાવો.",
+        "ટામેટાંની પેસ્ટ, મસૂર, રાખેલું 60 ml પાણી અને 4 g મીઠું ઉમેરો. 5 મિનિટ ઉકાળો, પૂરણ બાંધવા થોડું મસળો.",
+        "લેટ્યુસ પાતળું કાપો, ટામેટાં અને એવોકાડો નાના સમારો. ટામેટાં-એવોકાડોમાં લાઇમનો રસ, સમારેલા ધાણા અને બાકીનું 2 g મીઠું ભેળવો.",
+        "ટોર્ટિયાને કોરા પેનમાં દરેક બાજુ 20 સેકન્ડ ગરમ કરી ઢાંકો. મસૂર, લેટ્યુસ અને એવોકાડો-ટામેટાં 8 નાના ટોર્ટિયામાં વહેંચી તરત પીરસો."
+      ],
+      "tips": [
+        "દાણાદાર રચના માટે આખી ભૂરી મસૂર લો, છૂટી લાલ મસૂર નહીં."
+      ]
+    }
+  },
+  "photoDescription": "Soft corn tacos filled with thick brown spiced lentils, shredded green lettuce, diced avocado and tomato with fresh coriander; no cheese.",
+  "photoDraft": "catalog/intake/photos/lentil-tacos.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

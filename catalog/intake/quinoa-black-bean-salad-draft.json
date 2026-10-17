@@ -1,0 +1,147 @@
+{
+  "sourceReviewId": "R2909",
+  "id": "quinoa-black-bean-salad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Quinoa Black Bean Salad",
+  "cuisine": "Mexican Inspired",
+  "categories": [
+    "High Protein Vegetarian",
+    "Salads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 440,
+      "unit": "ml"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "cooked sweetcorn kernels",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse quinoa in a fine sieve. Bring to a boil with water and 2 g salt, cover and simmer for 15 minutes; rest covered for 5 minutes.",
+    "Fluff quinoa and spread on a tray to cool. Drain beans and corn well.",
+    "Dice pepper and tomato, discarding pepper seeds. Chop coriander and combine with beans and corn in a bowl.",
+    "Whisk lime juice, oil, cumin, pepper and remaining 4 g salt. Fold cooled quinoa and dressing into the vegetables.",
+    "Rest for 10 minutes and toss again before serving. Refrigerate if keeping for later."
+  ],
+  "tips": [
+    "Cool quinoa before mixing so the vegetables stay crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "क्विनोआ ब्लैक बीन सलाद",
+      "ingredients": [
+        "क्विनोआ",
+        "पानी",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "पके स्वीटकॉर्न दाने",
+        "लाल शिमला मिर्च",
+        "टमाटर",
+        "हरा धनिया",
+        "लाइम का रस",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "नमक",
+        "काली मिर्च पाउडर"
+      ],
+      "steps": [
+        "क्विनोआ बारीक छलनी में धोएँ। पानी और 2 g नमक के साथ उबालें, ढककर 15 मिनट पकाएँ; ढका हुआ 5 मिनट रखें।",
+        "क्विनोआ फुलाकर ट्रे पर ठंडा करें। बीन्स और मक्का अच्छी तरह छानें।",
+        "शिमला मिर्च के बीज हटाकर टमाटर सहित छोटे काटें। धनिया काटकर बीन्स और मक्के के साथ कटोरे में मिलाएँ।",
+        "लाइम रस, तेल, जीरा, काली मिर्च और बचा 4 g नमक फेंटें। ठंडा क्विनोआ और ड्रेसिंग सब्ज़ियों में मिलाएँ।",
+        "10 मिनट रखकर परोसने से पहले फिर मिलाएँ। बाद के लिए रखना हो तो फ्रिज में रखें।"
+      ],
+      "tips": [
+        "सब्ज़ियाँ कुरकुरी रखने के लिए मिलाने से पहले क्विनोआ ठंडा करें।"
+      ]
+    },
+    "gu": {
+      "name": "ક્વિનોઆ બ્લૅક બીન સલાડ",
+      "ingredients": [
+        "ક્વિનોઆ",
+        "પાણી",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "રાંધેલા સ્વીટકોર્નના દાણા",
+        "લાલ કેપ્સિકમ",
+        "ટામેટાં",
+        "લીલા ધાણા",
+        "લાઇમનો રસ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "મીઠું",
+        "કાળા મરીનો પાઉડર"
+      ],
+      "steps": [
+        "ક્વિનોઆ ઝીણી ચાળણીમાં ધુઓ. પાણી અને 2 g મીઠા સાથે ઉકાળો, ઢાંકી 15 મિનિટ પકાવો; ઢાંકેલું 5 મિનિટ રાખો.",
+        "ક્વિનોઆ છૂટું કરી ટ્રે પર ઠંડું કરો. બીન્સ અને મકાઈ સારી રીતે નિતારો.",
+        "કેપ્સિકમનાં બીજ કાઢી ટામેટાં સાથે નાના સમારો. ધાણા સમારી બીન્સ અને મકાઈ સાથે બાઉલમાં ભેળવો.",
+        "લાઇમનો રસ, તેલ, જીરું, મરી અને બાકીનું 4 g મીઠું ફેંટો. ઠંડું ક્વિનોઆ અને ડ્રેસિંગ શાકમાં ભેળવો.",
+        "10 મિનિટ રાખી પીરસતાં પહેલાં ફરી ભેળવો. પછી માટે રાખવું હોય તો ફ્રિજમાં મૂકો."
+      ],
+      "tips": [
+        "શાક કકરું રાખવા ભેળવતાં પહેલાં ક્વિનોઆ ઠંડું કરો."
+      ]
+    }
+  },
+  "photoDescription": "Quinoa salad with glossy black beans, yellow sweetcorn, diced red bell pepper and tomato, scattered with fresh coriander in a light lime dressing.",
+  "photoDraft": "catalog/intake/photos/quinoa-black-bean-salad.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

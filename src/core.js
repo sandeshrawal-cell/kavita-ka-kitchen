@@ -71,7 +71,7 @@ export function eligible(d,f={},s={},at=Date.now()){
     if(!d.ingredientsComplete)return false;
     if(/fried|frying/.test(n)){if(d.fried||d.method==='fry')return false;continue;}
     if(n==='nuts'&&(d.allergens?.some(a=>['tree nuts','peanut'].includes(a))||/peanut|groundnut|almond|cashew|pistachio|walnut|hazelnut/.test(hay)))return false;
-    if(n==='dairy'&&(d.allergens?.includes('milk')||/\b(milk|curd|paneer|cream|butter|ghee|cheese|yogurt|yoghurt|buttermilk|ricotta)\b/.test(dairyEvidenceText(hay))))return false;
+    if(n==='dairy'&&(d.allergens?.includes('milk')||/\b(milk|curd|paneer|cream|butter|ghee|cheese|yogurt|yoghurt|buttermilk|ricotta|mozzarella|cheddar|halloumi|burrata|feta|parmesan)\b/.test(dairyEvidenceText(hay))))return false;
     if(n==='gluten'&&(d.allergens?.includes('gluten')||/wheat|barley|rye|semolina|bulgur|bread|pasta|maida/.test(hay)))return false;
     if(ingredients.some(i=>i===n||i.includes(n)||n.includes(i)))return false;
     // Composite ingredients without an audited component list cannot satisfy a hard exclusion.

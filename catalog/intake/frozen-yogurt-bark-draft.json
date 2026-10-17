@@ -1,0 +1,104 @@
+{
+  "sourceReviewId": "R2922",
+  "id": "frozen-yogurt-bark",
+  "status": "published-popular-200-intake-batch",
+  "name": "Frozen Yogurt Bark",
+  "cuisine": "International",
+  "categories": [
+    "High Protein Vegetarian",
+    "Desserts",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "plain Greek yogurt",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "honey",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    },
+    {
+      "name": "strawberries",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "blueberries",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Line a small rimmed tray with baking parchment and make room for it to sit flat in the freezer.",
+    "Whisk yogurt with honey and vanilla until smooth. Spread on the tray in an even layer about 1 cm thick.",
+    "Wash and dry berries completely. Remove strawberry tops and slice thinly; chop almonds. Scatter fruit and almonds over yogurt and press in lightly.",
+    "Freeze flat for 4 hours until solid. Lift using the paper, break into rough pieces and serve straight from the freezer. Store leftovers frozen in a sealed box between parchment layers."
+  ],
+  "tips": [
+    "Thick full-fat yogurt makes a creamier bark; it softens quickly at room temperature."
+  ],
+  "translations": {
+    "hi": {
+      "name": "फ्रोज़न योगर्ट बार्क",
+      "ingredients": [
+        "सादा ग्रीक योगर्ट",
+        "शहद",
+        "वनीला एक्सट्रैक्ट",
+        "स्ट्रॉबेरी",
+        "ब्लूबेरी",
+        "बादाम"
+      ],
+      "steps": [
+        "छोटी किनारे वाली ट्रे पर बेकिंग पेपर लगाएँ और फ्रीज़र में सपाट रखने की जगह बनाएँ।",
+        "योगर्ट को शहद और वनीला के साथ चिकना फेंटें। ट्रे पर लगभग 1 cm मोटी समान परत फैलाएँ।",
+        "बेरी धोकर पूरी तरह सुखाएँ। स्ट्रॉबेरी के डंठल हटाकर पतले स्लाइस करें; बादाम काटें। फल और बादाम योगर्ट पर बिखेरकर हल्का दबाएँ।",
+        "सपाट रखकर 4 घंटे ठोस होने तक जमाएँ। पेपर से उठाकर अनियमित टुकड़े तोड़ें और फ्रीज़र से निकालकर तुरंत परोसें। बचे टुकड़े बंद डिब्बे में पेपर की परतों के बीच फ्रीज़र में रखें।"
+      ],
+      "tips": [
+        "गाढ़े पूरे वसा वाले योगर्ट से बार्क मलाईदार बनती है; कमरे के ताप पर जल्दी नरम होती है।"
+      ],
+      "passiveTime": "कम से कम 4 घंटे जमाएँ।"
+    },
+    "gu": {
+      "name": "ફ્રોઝન યોગર્ટ બાર્ક",
+      "ingredients": [
+        "સાદું ગ્રીક યોગર્ટ",
+        "મધ",
+        "વેનિલા એક્સ્ટ્રેક્ટ",
+        "સ્ટ્રોબેરી",
+        "બ્લૂબેરી",
+        "બદામ"
+      ],
+      "steps": [
+        "નાની કિનારીવાળી ટ્રે પર બેકિંગ પેપર મૂકો અને ફ્રીઝરમાં સપાટ રાખવાની જગ્યા કરો.",
+        "યોગર્ટને મધ અને વેનિલા સાથે સુંવાળું ફેંટો. ટ્રે પર લગભગ 1 cm જાડું સરખું પડ ફેલાવો.",
+        "બેરી ધોઈ સંપૂર્ણ સૂકવો. સ્ટ્રોબેરીની દાંડી કાઢી પાતળી સ્લાઇસ કરો; બદામ સમારો. ફળ અને બદામ યોગર્ટ પર ભભરાવી હળવેથી દબાવો.",
+        "સપાટ રાખી 4 કલાક ઘન થાય ત્યાં સુધી જમાવો. પેપરથી ઉપાડી અનિયમિત ટુકડા તોડો અને ફ્રીઝરમાંથી કાઢી તરત પીરસો. બાકીના ટુકડા બંધ ડબ્બામાં પેપરનાં પડ વચ્ચે ફ્રીઝરમાં રાખો."
+      ],
+      "tips": [
+        "ઘટ્ટ ફુલ-ફેટ યોગર્ટથી બાર્ક ક્રીમી બને છે; ઓરડાના તાપે ઝડપથી નરમ થાય છે."
+      ],
+      "passiveTime": "ઓછામાં ઓછા 4 કલાક જમાવો."
+    }
+  },
+  "photoDescription": "Irregular thin pieces of frozen white yogurt bark studded with red strawberry slices, whole blueberries and chopped almonds on a plain chilled plate.",
+  "passiveTime": "Freeze for at least 4 hours.",
+  "photoDraft": "catalog/intake/photos/frozen-yogurt-bark.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R2869",
+  "id": "paneer-quesadilla",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Quesadilla",
+  "cuisine": "Indo-Mexican",
+  "categories": [
+    "Quick Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "eggless wheat tortillas",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut paneer into small cubes. Finely dice onion and pepper, removing pepper seeds; chop coriander.",
+    "Heat 10 ml oil in a pan. Cook onion and pepper for 5 minutes, then add paneer, cumin, paprika and salt and cook for 3 minutes.",
+    "Switch off the heat and fold in lime juice and coriander. Keep the filling dry and divide it into 4 equal portions.",
+    "Lay out 4 large tortillas. Sprinkle half the cheese over one half of each, add paneer filling and top with remaining cheese. Fold the empty halves over.",
+    "Brush a skillet with remaining 10 ml oil across batches. Cook folded tortillas over medium-low heat for 3 minutes per side until crisp and cheese melts. Rest briefly and cut into wedges."
+  ],
+  "tips": [
+    "Choose vegetarian-rennet cheddar and keep the heat moderate so the cheese melts before the tortillas darken."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर केसाडिया",
+      "ingredients": [
+        "पनीर",
+        "एगलेस गेहूँ टॉर्टिया",
+        "कसा शाकाहारी चेडर चीज़",
+        "लाल शिमला मिर्च",
+        "प्याज़",
+        "तटस्थ स्वाद वाला तेल",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "नमक",
+        "लाइम का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पनीर छोटे टुकड़ों में काटें। प्याज़ और बीज हटाई शिमला मिर्च बारीक काटें; धनिया काटें।",
+        "पैन में 10 ml तेल गरम करें। प्याज़ और शिमला मिर्च 5 मिनट पकाएँ, फिर पनीर, जीरा, पापरिका और नमक डालकर 3 मिनट पकाएँ।",
+        "आँच बंद करके लाइम रस और धनिया मिलाएँ। भरावन सूखा रखें और 4 बराबर भाग करें।",
+        "4 बड़े टॉर्टिया रखें। हर टॉर्टिया के आधे भाग पर आधा चीज़ बाँटें, पनीर भरें और बचा चीज़ डालें। खाली आधा भाग ऊपर मोड़ें।",
+        "बचे 10 ml तेल से तवा बैचों में चिकना करें। मोड़े टॉर्टिया मध्यम-धीमी आँच पर हर ओर 3 मिनट कुरकुरे और चीज़ पिघलने तक सेंकें। थोड़ा रखकर त्रिकोण काटें।"
+      ],
+      "tips": [
+        "शाकाहारी रेनेट वाला चेडर लें और आँच मध्यम रखें ताकि टॉर्टिया काले होने से पहले चीज़ पिघले।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર કેસાડિયા",
+      "ingredients": [
+        "પનીર",
+        "એગલેસ ઘઉંના ટોર્ટિયા",
+        "છીણેલું શાકાહારી ચેડર ચીઝ",
+        "લાલ કેપ્સિકમ",
+        "ડુંગળી",
+        "તટસ્થ સ્વાદનું તેલ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "લાઇમનો રસ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "પનીર નાના ટુકડામાં કાપો. ડુંગળી અને બીજ કાઢેલું કેપ્સિકમ બારીક સમારો; ધાણા સમારો.",
+        "પેનમાં 10 ml તેલ ગરમ કરો. ડુંગળી અને કેપ્સિકમ 5 મિનિટ પકાવો, પછી પનીર, જીરું, પૅપ્રિકા અને મીઠું ઉમેરી 3 મિનિટ પકાવો.",
+        "તાપ બંધ કરી લાઇમનો રસ અને ધાણા ભેળવો. પૂરણ સૂકું રાખો અને 4 સરખા ભાગ કરો.",
+        "4 મોટા ટોર્ટિયા મૂકો. દરેકના અડધા ભાગ પર અડધું ચીઝ વહેંચો, પનીર ભરો અને બાકીનું ચીઝ ઉમેરો. ખાલી અડધો ભાગ ઉપર વાળો.",
+        "બાકીના 10 ml તેલથી તવી હપ્તામાં ચોપડો. વાળેલા ટોર્ટિયા મધ્યમ-ધીમા તાપે દરેક બાજુ 3 મિનિટ કકરા થાય અને ચીઝ ઓગળે ત્યાં સુધી શેકો. થોડું રાખી ત્રિકોણ કાપો."
+      ],
+      "tips": [
+        "શાકાહારી રેનેટવાળું ચેડર લો અને તાપ મધ્યમ રાખો જેથી ટોર્ટિયા કાળા થાય પહેલાં ચીઝ ઓગળે."
+      ]
+    }
+  },
+  "photoDescription": "Golden toasted folded wheat tortillas cut into wedges, revealing small spiced paneer cubes, red bell pepper, onion and melted cheddar with green coriander flecks.",
+  "photoDraft": "catalog/intake/photos/paneer-quesadilla.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

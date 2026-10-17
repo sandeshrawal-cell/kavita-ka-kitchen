@@ -1,0 +1,174 @@
+{
+  "sourceReviewId": "R2977",
+  "id": "chilli-soya-chunks",
+  "status": "published-popular-200-intake-batch",
+  "name": "Chilli Soya Chunks",
+  "cuisine": "Indo-Chinese",
+  "categories": [
+    "High Protein Vegetarian",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "stir",
+  "ingredients": [
+    {
+      "name": "dry soya chunks",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1300,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green bell pepper",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato ketchup",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "white vinegar",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground black pepper",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "spring onion",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil soya in 1200 ml water for 5 minutes. Drain, rinse and squeeze firmly; toss with salt, pepper and 30 g cornflour.",
+    "Heat 30 ml oil in a wide nonstick pan. Shallow-fry soya for 8 minutes, turning until crisp in patches; remove to a plate.",
+    "Dice onion and pepper; mince garlic and ginger and slit chillies. Heat remaining 15 ml oil and stir-fry these vegetables for 3 minutes over high heat, keeping the pepper crisp.",
+    "Mix soy sauce, ketchup, vinegar, sugar, remaining 10 g cornflour and 100 ml water. Pour into the pan and boil for 2 minutes until glossy and thick.",
+    "Return soya and toss for 2 minutes until coated and hot. Finish with sliced spring onion and serve immediately."
+  ],
+  "tips": [
+    "This is a semi-dry dish; reduce the sauce before adding soya so the coating stays crisp."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चिली सोया चंक्स",
+      "ingredients": [
+        "सूखे सोया चंक्स",
+        "पानी",
+        "कॉर्नफ्लोर",
+        "तटस्थ स्वाद वाला तेल",
+        "प्याज़",
+        "हरी शिमला मिर्च",
+        "लहसुन",
+        "अदरक",
+        "हरी मिर्च",
+        "सोया सॉस",
+        "टमाटर केचप",
+        "सफेद सिरका",
+        "चीनी",
+        "नमक",
+        "काली मिर्च पाउडर",
+        "हरा प्याज़"
+      ],
+      "steps": [
+        "सोया 1200 ml पानी में 5 मिनट उबालें। छानकर धोएँ और कसकर निचोड़ें; नमक, काली मिर्च और 30 g कॉर्नफ्लोर मिलाएँ।",
+        "चौड़े नॉनस्टिक पैन में 30 ml तेल गरम करें। सोया 8 मिनट पलटते हुए जगह-जगह कुरकुरा होने तक सेंकें; निकाल लें।",
+        "प्याज़ और शिमला मिर्च काटें; लहसुन-अदरक बारीक काटें और मिर्च चीरें। बचे 15 ml तेल में इन्हें तेज़ आँच पर 3 मिनट चलाकर भूनें; शिमला मिर्च कुरकुरी रहे।",
+        "सोया सॉस, केचप, सिरका, चीनी, बचा 10 g कॉर्नफ्लोर और 100 ml पानी मिलाएँ। पैन में डालकर 2 मिनट चमकदार गाढ़ा होने तक उबालें।",
+        "सोया लौटाकर 2 मिनट सॉस चढ़ने और गरम होने तक मिलाएँ। कटा हरा प्याज़ डालकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "यह हल्का सूखा व्यंजन है; सोया डालने से पहले सॉस गाढ़ी करें ताकि परत कुरकुरी रहे।"
+      ]
+    },
+    "gu": {
+      "name": "ચિલી સોયા ચંક્સ",
+      "ingredients": [
+        "સૂકા સોયા ચંક્સ",
+        "પાણી",
+        "કોર્નફ્લોર",
+        "તટસ્થ સ્વાદનું તેલ",
+        "ડુંગળી",
+        "લીલું કેપ્સિકમ",
+        "લસણ",
+        "આદુ",
+        "લીલું મરચું",
+        "સોયા સોસ",
+        "ટામેટાંનો કેચપ",
+        "સફેદ વિનેગર",
+        "ખાંડ",
+        "મીઠું",
+        "કાળા મરીનો પાઉડર",
+        "લીલી ડુંગળી"
+      ],
+      "steps": [
+        "સોયા 1200 ml પાણીમાં 5 મિનિટ ઉકાળો. નિતારી ધુઓ અને જોરથી નીચોવો; મીઠું, મરી અને 30 g કોર્નફ્લોર ભેળવો.",
+        "પહોળા નોનસ્ટિક પેનમાં 30 ml તેલ ગરમ કરો. સોયા 8 મિનિટ ફેરવતાં ઠેકઠેકાણે કકરો થાય ત્યાં સુધી શેકો; કાઢી લો.",
+        "ડુંગળી અને કેપ્સિકમ સમારો; લસણ-આદુ બારીક સમારો અને મરચાં ચીરો. બાકીના 15 ml તેલમાં ઊંચા તાપે 3 મિનિટ હલાવતાં સાંતળો; કેપ્સિકમ કકરું રહે.",
+        "સોયા સોસ, કેચપ, વિનેગર, ખાંડ, બાકીનું 10 g કોર્નફ્લોર અને 100 ml પાણી ભેળવો. પેનમાં રેડી 2 મિનિટ ચળકતું અને ઘટ્ટ થાય ત્યાં સુધી ઉકાળો.",
+        "સોયા પાછો ઉમેરી 2 મિનિટ સોસ ચોંટે અને ગરમ થાય ત્યાં સુધી ભેળવો. સમારેલી લીલી ડુંગળી ઉમેરી તરત પીરસો."
+      ],
+      "tips": [
+        "આ અર્ધસૂકી વાનગી છે; સોયા ઉમેરતાં પહેલાં સોસ ઘટ્ટ કરો જેથી પડ કકરું રહે."
+      ]
+    }
+  },
+  "photoDescription": "Glossy dark reddish-brown soya chunks with green bell pepper squares, onion petals, slit green chillies and sliced spring onion in a thick clinging sauce.",
+  "photoDraft": "catalog/intake/photos/chilli-soya-chunks.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -29211,8 +29211,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/sweet-potato-black-bean-burrito.png"
     },
     {
       "id": "entomatadas",
@@ -29619,8 +29620,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/paneer-burrito.png"
     },
     {
       "id": "tofu-scramble-burrito",
@@ -50671,8 +50673,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/elote.png"
     },
     {
       "id": "fruit-skewers",
@@ -53760,8 +53763,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/paneer-quesadilla.png"
     },
     {
       "id": "bean-burrito-bowl",
@@ -53948,8 +53952,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/peanut-tofu-bowl.png"
     },
     {
       "id": "chilli-paneer-noodles",
@@ -54135,8 +54140,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/chickpea-shawarma-bowl.png"
     },
     {
       "id": "cold-soba",
@@ -54449,8 +54455,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/quinoa-black-bean-salad.png"
     },
     {
       "id": "kala-chana-chaat",
@@ -54604,8 +54611,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/grilled-paneer-salad.png"
     },
     {
       "id": "paneer-tikka-bowl",
@@ -54675,8 +54683,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/frozen-yogurt-bark.png"
     },
     {
       "id": "tofu-butter-masala",
@@ -54799,8 +54808,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/tofu-burger.png"
     },
     {
       "id": "tempeh-stir-fry",
@@ -54986,8 +54996,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/edamame-hummus.png"
     },
     {
       "id": "edamame-fried-rice",
@@ -55020,8 +55031,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/lentil-tacos.png"
     },
     {
       "id": "lentil-loaf",
@@ -55197,8 +55209,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/rajma-galouti-kebab.png"
     },
     {
       "id": "kala-chana-kebab",
@@ -55597,8 +55610,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/soya-chunk-tikka.png"
     },
     {
       "id": "soya-paratha",
@@ -55631,8 +55645,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/chilli-soya-chunks.png"
     },
     {
       "id": "sprouted-moong-dosa",
@@ -55716,8 +55731,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/chickpea-burger.png"
     },
     {
       "id": "greek-yogurt-ranch",
@@ -55835,8 +55851,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/greek-yogurt-bowl.png"
     },
     {
       "id": "edamame-stir-fry",
@@ -55955,8 +55972,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/sattu-chilla.png"
     },
     {
       "id": "cottage-cheese-pancakes",
@@ -55989,8 +56007,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/moong-sprouts-dosa.png"
     },
     {
       "id": "saga-bhaja",
@@ -64740,8 +64759,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/guacamole.png"
     },
     {
       "id": "pico-de-gallo",
@@ -64757,8 +64777,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/pico-de-gallo.png"
     },
     {
       "id": "queso-dip",
@@ -64774,8 +64795,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/queso-dip.png"
     },
     {
       "id": "spinach-artichoke-dip",
@@ -65013,8 +65035,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/taquitos.png"
     },
     {
       "id": "jalapeno-poppers",
@@ -65047,8 +65070,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/tostadas.png"
     },
     {
       "id": "stuffed-mushrooms",
@@ -65776,8 +65800,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 8
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 8,
+      "photoDraft": "catalog/intake/photos/nachos-platter.png"
     },
     {
       "id": "mini-uttapam-canapes",

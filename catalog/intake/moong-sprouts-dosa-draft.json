@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R3000",
+  "id": "moong-sprouts-dosa",
+  "status": "published-popular-200-intake-batch",
+  "name": "Moong Sprouts Dosa",
+  "cuisine": "South Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Breakfast"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "fresh moong sprouts",
+      "qty": 450,
+      "unit": "g"
+    },
+    {
+      "name": "rice flour",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Rinse moong sprouts thoroughly and drain. Chop ginger and chilli.",
+    "Blend sprouts, ginger, chilli and cumin with 200 ml water to a smooth batter. Stir in rice flour, salt and remaining 50 ml water.",
+    "Rest the batter for 10 minutes. Heat a seasoned griddle over medium heat; lightly grease with some of the measured oil.",
+    "Pour a portion and spread in circles into a thin 18 cm dosa. Drizzle oil around it and cook for 3 minutes until the top dries and the base browns. Flip and cook for 1 minute so the sprouts are fully cooked.",
+    "Repeat with remaining batter and oil to make 8 dosas. Fold and serve immediately."
+  ],
+  "tips": [
+    "No fermentation is needed. Keep the griddle moderately hot so the batter spreads before setting."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मूँग स्प्राउट्स डोसा",
+      "ingredients": [
+        "ताज़े अंकुरित मूँग",
+        "चावल का आटा",
+        "पानी",
+        "अदरक",
+        "हरी मिर्च",
+        "जीरा",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "अंकुरित मूँग अच्छी तरह धोकर छानें। अदरक और मिर्च काटें।",
+        "मूँग, अदरक, मिर्च और जीरा 200 ml पानी के साथ चिकना पीसें। चावल का आटा, नमक और बचा 50 ml पानी मिलाएँ।",
+        "घोल 10 मिनट रखें। तैयार तवा मध्यम आँच पर गरम करें और नापे तेल में से थोड़ा लगाएँ।",
+        "घोल डालकर गोल घुमाते हुए पतला 18 cm डोसा फैलाएँ। चारों ओर तेल डालकर 3 मिनट ऊपर सूखने और नीचे भूरा होने तक पकाएँ। पलटकर 1 मिनट पकाएँ ताकि मूँग पूरी तरह पकें।",
+        "बचे घोल और तेल से कुल 8 डोसे बनाएँ। मोड़कर तुरंत परोसें।"
+      ],
+      "tips": [
+        "खमीर उठाना आवश्यक नहीं है। तवा मध्यम गरम रखें ताकि जमने से पहले घोल फैल सके।"
+      ]
+    },
+    "gu": {
+      "name": "મગ સ્પ્રાઉટ્સ ઢોસા",
+      "ingredients": [
+        "તાજા ફણગાવેલા મગ",
+        "ચોખાનો લોટ",
+        "પાણી",
+        "આદુ",
+        "લીલું મરચું",
+        "જીરું",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "ફણગાવેલા મગ સારી રીતે ધોઈ નિતારો. આદુ અને મરચું સમારો.",
+        "મગ, આદુ, મરચું અને જીરું 200 ml પાણી સાથે સુંવાળું વાટો. ચોખાનો લોટ, મીઠું અને બાકીનું 50 ml પાણી ભેળવો.",
+        "ખીરું 10 મિનિટ રાખો. તૈયાર તવી મધ્યમ તાપે ગરમ કરો અને માપેલા તેલમાંથી થોડું લગાવો.",
+        "ખીરું રેડી ગોળ ફેરવતાં પાતળો 18 cm ઢોસો ફેલાવો. આસપાસ તેલ ઉમેરી 3 મિનિટ ઉપર સુકાય અને નીચે ભૂરો થાય ત્યાં સુધી પકાવો. ફેરવી 1 મિનિટ પકાવો જેથી મગ સંપૂર્ણ પાકે.",
+        "બાકીના ખીરા અને તેલથી કુલ 8 ઢોસા બનાવો. વાળી તરત પીરસો."
+      ],
+      "tips": [
+        "આથો લાવવો જરૂરી નથી. તવી મધ્યમ ગરમ રાખો જેથી જામતાં પહેલાં ખીરું ફેલાય."
+      ]
+    }
+  },
+  "photoDescription": "Thin folded green-gold moong sprout dosas with browned crisp patches and finely speckled surfaces, arranged on a plain plate without garnishes.",
+  "photoDraft": "catalog/intake/photos/moong-sprouts-dosa.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

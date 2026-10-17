@@ -1,0 +1,145 @@
+{
+  "sourceReviewId": "R2880",
+  "id": "peanut-tofu-bowl",
+  "status": "published-popular-200-intake-batch",
+  "name": "Peanut Tofu Bowl",
+  "cuisine": "Asian Inspired",
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "firm tofu, drained",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "basmati rice",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 560,
+      "unit": "ml"
+    },
+    {
+      "name": "smooth peanut butter",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "lime juice",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "maple syrup",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cucumber",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "roasted peanuts",
+      "qty": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Press tofu in clean towels for 15 minutes. Rinse rice and boil with 480 ml water, then cover and cook on low for 12 minutes; rest off the heat for 10 minutes.",
+    "Whisk peanut butter, soy sauce, lime juice, maple syrup, crushed garlic and remaining 80 ml warm water until smooth.",
+    "Cut tofu into 2 cm cubes. Heat oil in a wide pan and sear tofu for 10 minutes, turning until golden on several sides.",
+    "Cut carrot and cucumber into fine matchsticks. Chop peanuts coarsely and fluff the rice.",
+    "Divide rice among 4 bowls. Add tofu, carrot and cucumber in sections, spoon over peanut sauce and sprinkle peanuts."
+  ],
+  "tips": [
+    "Choose unsweetened peanut butter; the syrup supplies the sweetness."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पीनट टोफू बाउल",
+      "ingredients": [
+        "पानी निकाला सख्त टोफू",
+        "बासमती चावल",
+        "पानी",
+        "मुलायम पीनट बटर",
+        "सोया सॉस",
+        "लाइम का रस",
+        "मेपल सिरप",
+        "लहसुन",
+        "तटस्थ स्वाद वाला तेल",
+        "गाजर",
+        "खीरा",
+        "भुनी मूँगफली"
+      ],
+      "steps": [
+        "टोफू साफ तौलियों में 15 मिनट दबाएँ। चावल धोकर 480 ml पानी में उबालें, ढककर धीमी आँच पर 12 मिनट पकाएँ; आँच बंद कर 10 मिनट रखें।",
+        "पीनट बटर, सोया सॉस, लाइम रस, मेपल सिरप, कुटा लहसुन और बचा 80 ml गरम पानी चिकना फेंटें।",
+        "टोफू के 2 cm टुकड़े करें। चौड़े पैन में तेल गरम कर टोफू 10 मिनट कई ओर पलटते हुए सुनहरा करें।",
+        "गाजर और खीरे की पतली सलाई काटें। मूँगफली मोटी काटें और चावल फुलाएँ।",
+        "चावल 4 कटोरों में बाँटें। टोफू, गाजर और खीरा अलग हिस्सों में रखें, पीनट सॉस डालकर मूँगफली बुरकें।"
+      ],
+      "tips": [
+        "बिना चीनी का पीनट बटर लें; सिरप मिठास देता है।"
+      ]
+    },
+    "gu": {
+      "name": "પીનટ ટોફુ બાઉલ",
+      "ingredients": [
+        "પાણી નિતારેલું સખત ટોફુ",
+        "બાસમતી ચોખા",
+        "પાણી",
+        "સુંવાળું પીનટ બટર",
+        "સોયા સોસ",
+        "લાઇમનો રસ",
+        "મેપલ સિરપ",
+        "લસણ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "ગાજર",
+        "કાકડી",
+        "શેકેલી મગફળી"
+      ],
+      "steps": [
+        "ટોફુ સ્વચ્છ ટુવાલમાં 15 મિનિટ દબાવો. ચોખા ધોઈ 480 ml પાણીમાં ઉકાળો, ઢાંકી ધીમા તાપે 12 મિનિટ પકાવો; તાપ બંધ કરી 10 મિનિટ રાખો.",
+        "પીનટ બટર, સોયા સોસ, લાઇમનો રસ, મેપલ સિરપ, કચડેલું લસણ અને બાકીનું 80 ml ગરમ પાણી સુંવાળું ફેંટો.",
+        "ટોફુના 2 cm ટુકડા કરો. પહોળા પેનમાં તેલ ગરમ કરી ટોફુ 10 મિનિટ અનેક બાજુ ફેરવતાં સોનેરી કરો.",
+        "ગાજર અને કાકડીની પાતળી સળીઓ કાપો. મગફળી જાડી સમારો અને ભાત છૂટો કરો.",
+        "ભાત 4 બાઉલમાં વહેંચો. ટોફુ, ગાજર અને કાકડી અલગ ભાગમાં મૂકો, પીનટ સોસ રેડી મગફળી ભભરાવો."
+      ],
+      "tips": [
+        "ખાંડ વગરનું પીનટ બટર લો; સિરપ મીઠાશ આપે છે."
+      ]
+    }
+  },
+  "photoDescription": "White rice bowl with golden tofu cubes, raw orange carrot and green cucumber matchsticks, thick tan peanut sauce and chopped roasted peanuts.",
+  "photoDraft": "catalog/intake/photos/peanut-tofu-bowl.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

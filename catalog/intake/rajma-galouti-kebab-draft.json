@@ -1,0 +1,160 @@
+{
+  "sourceReviewId": "R2952",
+  "id": "rajma-galouti-kebab",
+  "status": "published-popular-200-intake-batch",
+  "name": "Rajma Galouti Kebab",
+  "cuisine": "North Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "canned kidney beans, drained and rinsed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "garam masala",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 0.5,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 0.5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast gram flour over low heat for 4 minutes, stirring until fragrant. Transfer to a bowl and cool.",
+    "Finely chop onion, ginger and garlic. Cook onion in 15 ml oil for 7 minutes until golden; add ginger and garlic and cook for 1 minute.",
+    "Add drained beans, all spices and salt. Stir for 5 minutes until dry, then cool and blend to a smooth, thick paste without adding water.",
+    "Mix in roasted gram flour, lemon juice and finely chopped coriander. Divide into 12 portions and gently form soft patties about 1.5 cm thick.",
+    "Heat remaining 25 ml oil on a nonstick griddle across batches. Cook patties over medium-low heat for 3 minutes per side until browned, turning only after a crust forms. Serve hot."
+  ],
+  "tips": [
+    "Use fully cooked, very soft beans and grind finely for a delicate galouti texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "राजमा गलौटी कबाब",
+      "ingredients": [
+        "छाने और धोए डिब्बाबंद राजमा",
+        "बेसन",
+        "प्याज़",
+        "अदरक",
+        "लहसुन",
+        "तटस्थ स्वाद वाला तेल",
+        "गरम मसाला",
+        "जीरा पाउडर",
+        "लाल मिर्च पाउडर",
+        "इलायची पाउडर",
+        "जायफल पाउडर",
+        "नमक",
+        "नींबू का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "बेसन धीमी आँच पर 4 मिनट खुशबू आने तक चलाते हुए सूखा भूनें। कटोरे में निकालकर ठंडा करें।",
+        "प्याज़, अदरक और लहसुन बारीक काटें। प्याज़ को 15 ml तेल में 7 मिनट सुनहरा करें; अदरक-लहसुन डालकर 1 मिनट पकाएँ।",
+        "छाना राजमा, सभी मसाले और नमक डालें। 5 मिनट सूखने तक चलाएँ, फिर ठंडा करके बिना पानी डाले चिकना गाढ़ा पीसें।",
+        "भुना बेसन, नींबू रस और बारीक धनिया मिलाएँ। 12 भाग करके लगभग 1.5 cm मोटी नरम टिक्कियाँ बनाएँ।",
+        "बचे 25 ml तेल को नॉनस्टिक तवे पर बैचों में गरम करें। टिक्कियाँ मध्यम-धीमी आँच पर हर ओर 3 मिनट भूरी करें; परत बनने पर ही पलटें। गरम परोसें।"
+      ],
+      "tips": [
+        "मुलायम गलौटी बनावट के लिए पूरी तरह पका, बहुत नरम राजमा बारीक पीसें।"
+      ]
+    },
+    "gu": {
+      "name": "રાજમા ગલૌટી કબાબ",
+      "ingredients": [
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ રાજમા",
+        "બેસન",
+        "ડુંગળી",
+        "આદુ",
+        "લસણ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "ગરમ મસાલો",
+        "જીરું પાઉડર",
+        "લાલ મરચું પાઉડર",
+        "એલચી પાઉડર",
+        "જાયફળ પાઉડર",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "બેસન ધીમા તાપે 4 મિનિટ સુગંધ આવે ત્યાં સુધી હલાવતાં કોરો શેકો. વાસણમાં કાઢી ઠંડું કરો.",
+        "ડુંગળી, આદુ અને લસણ બારીક સમારો. ડુંગળી 15 ml તેલમાં 7 મિનિટ સોનેરી કરો; આદુ-લસણ ઉમેરી 1 મિનિટ પકાવો.",
+        "નિતારેલા રાજમા, બધા મસાલા અને મીઠું ઉમેરો. 5 મિનિટ સુકાય ત્યાં સુધી હલાવો, પછી ઠંડું કરી પાણી ઉમેર્યા વગર સુંવાળું ઘટ્ટ વાટો.",
+        "શેકેલું બેસન, લીંબુનો રસ અને બારીક ધાણા ભેળવો. 12 ભાગ કરી લગભગ 1.5 cm જાડી નરમ ટિક્કીઓ બનાવો.",
+        "બાકીના 25 ml તેલને નોનસ્ટિક તવી પર હપ્તામાં ગરમ કરો. ટિક્કીઓ મધ્યમ-ધીમા તાપે દરેક બાજુ 3 મિનિટ ભૂરી કરો; પડ બને પછી જ ફેરવો. ગરમ પીરસો."
+      ],
+      "tips": [
+        "નાજુક ગલૌટીની રચના માટે સંપૂર્ણ રાંધેલા, ખૂબ નરમ રાજમા બારીક વાટો."
+      ]
+    }
+  },
+  "photoDescription": "Small thin round rajma galouti kebabs with a delicate evenly browned smooth crust; one broken edge reveals a very fine homogeneous soft reddish-brown bean paste, absolutely no intact beans, no coarse chunks and no crumbly burger-patty texture. Tiny coriander flecks only. Plate without garnish or sauce.",
+  "photoDraft": "catalog/intake/photos/rajma-galouti-kebab.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

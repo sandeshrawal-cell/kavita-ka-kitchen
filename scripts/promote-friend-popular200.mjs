@@ -28,7 +28,7 @@ for(const candidate of source){
  const draftPath=`catalog/intake/${candidate.id}-draft.json`;
  const draft=JSON.parse(await fs.readFile(draftPath,'utf8'));
  if(draft.id!==candidate.id||draft.sourceReviewId!==candidate.sourceReviewId)throw Error(`Draft ID mismatch: ${candidate.id}`);
- if(draft.steps.length<4||draft.ingredients.length<(candidate.id==='hojicha'?1:4))throw Error(`Incomplete draft: ${candidate.id}`);
+ if(draft.steps.length<4||draft.ingredients.length<({hojicha:1,sukhdi:3}[candidate.id]||4))throw Error(`Incomplete draft: ${candidate.id}`);
  const image=`catalog/intake/photos/${candidate.id}.png`;
  await fs.access(image);
  await fs.access(`public/photos/${candidate.id}-1200.webp`);
@@ -52,7 +52,7 @@ for(const candidate of source){
   candidate.sourceCategory==='Smoothies'?'blend':'assemble');
  const ingredientNames=draft.ingredients.map(item=>item.name);
  const joined=dairyEvidenceText(ingredientNames.join(' '));
- const allergens=[...new Set([...(draft.allergens||[]), ...[[/\b(milk|paneer|curd|cream|ghee|butter|cheese|yogurt|buttermilk|ricotta)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|plain flour|all-purpose flour|barley flour|sourdough|pasta|panko|ramen|udon|tortilla|cannelloni|ziti|orzo|gnocchi|couscous|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([pattern])=>pattern.test(joined)).map(([,value])=>value)])];
+ const allergens=[...new Set([...(draft.allergens||[]), ...[[/\b(milk|paneer|curd|cream|ghee|butter|cheese|yogurt|buttermilk|ricotta|mozzarella|cheddar|halloumi|burrata|feta|parmesan)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|plain flour|all-purpose flour|barley flour|sourdough|pasta|panko|ramen|udon|tortilla|cannelloni|ziti|orzo|gnocchi|couscous|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([pattern])=>pattern.test(joined)).map(([,value])=>value)])];
  if(/\bsoy sauce\b/i.test(joined)&&!allergens.includes('gluten'))allergens.push('gluten');
  const categories=[...new Set(draft.categories)];
  if(candidate.sourceCategory==='Wraps')categories.push('Wraps');

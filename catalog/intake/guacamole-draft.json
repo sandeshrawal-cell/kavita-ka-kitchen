@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R3526",
+  "id": "guacamole",
+  "status": "published-popular-200-intake-batch",
+  "name": "Guacamole",
+  "cuisine": "Mexican",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "method": "mash",
+  "ingredients": [
+    {
+      "name": "avocado flesh",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "jalapeno",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Finely dice onion and jalapeno, removing chilli seeds for a milder dip. Mix with lime juice and salt and stand for 5 minutes.",
+    "Dice tomato and drain off loose juice. Chop coriander finely, including tender stems.",
+    "Mash avocado with a fork, leaving small chunks. Fold in the onion-lime mixture, tomato and coriander until evenly mixed.",
+    "Transfer to a shallow serving bowl and serve promptly. For a short delay, press food wrap directly against the surface and refrigerate."
+  ],
+  "tips": [
+    "Ripe avocado should yield gently when pressed; avoid blending so the guacamole retains texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्वाकामोले",
+      "ingredients": [
+        "एवोकाडो का गूदा",
+        "टमाटर",
+        "लाल प्याज़",
+        "हालपेन्यो मिर्च",
+        "लाइम का रस",
+        "हरा धनिया",
+        "नमक"
+      ],
+      "steps": [
+        "प्याज़ और हालपेन्यो बारीक काटें; हल्के स्वाद के लिए मिर्च के बीज निकालें। लाइम रस और नमक मिलाकर 5 मिनट रखें।",
+        "टमाटर काटकर अतिरिक्त रस निथारें। मुलायम डंठल सहित धनिया बारीक काटें।",
+        "एवोकाडो काँटे से मसलें, छोटे टुकड़े रहने दें। प्याज़-लाइम मिश्रण, टमाटर और धनिया समान मिलाएँ।",
+        "उथले परोसने के कटोरे में निकालकर जल्दी परोसें। थोड़ी देर रखनी हो तो सतह पर सीधे फूड रैप दबाकर फ्रिज में रखें।"
+      ],
+      "tips": [
+        "पका एवोकाडो दबाने पर हल्का दबे; बनावट बनाए रखने के लिए ब्लेंड न करें।"
+      ]
+    },
+    "gu": {
+      "name": "ગ્વાકામોલે",
+      "ingredients": [
+        "એવોકાડોનો ગર",
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "હાલપેન્યો મરચું",
+        "લાઇમનો રસ",
+        "લીલા ધાણા",
+        "મીઠું"
+      ],
+      "steps": [
+        "ડુંગળી અને હાલપેન્યો બારીક સમારો; ઓછા તીખા ડિપ માટે મરચાંનાં બીજ કાઢો. લાઇમના રસ અને મીઠા સાથે ભેળવી 5 મિનિટ રાખો.",
+        "ટામેટાં સમારી વધારાનો રસ નિતારો. કૂણી દાંડી સાથે ધાણા બારીક સમારો.",
+        "એવોકાડો કાંટાથી મસળો, નાના ટુકડા રહેવા દો. ડુંગળી-લાઇમનું મિશ્રણ, ટામેટાં અને ધાણા સરખાં ભેળવો.",
+        "છીછરા પીરસવાના બાઉલમાં કાઢી તરત પીરસો. થોડી વાર રાખવું હોય તો સપાટી પર સીધું ફૂડ રૅપ દબાવી ફ્રિજમાં મૂકો."
+      ],
+      "tips": [
+        "પાકેલું એવોકાડો દબાવતાં હળવું દબાય; રચના જાળવવા બ્લેન્ડ ન કરો."
+      ]
+    }
+  },
+  "photoDescription": "Chunky pale-green avocado guacamole with visible red tomato, purple-red onion and fine green coriander and jalapeno pieces in a shallow bowl; no chips or garnish.",
+  "photoDraft": "catalog/intake/photos/guacamole.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

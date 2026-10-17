@@ -10,7 +10,7 @@ if(!Number.isInteger(limit)||limit<25||limit>200||limit%25)throw Error('Invalid 
 const candidates=progress.items.slice(0,limit).map(item=>intake.candidates.find(candidate=>candidate.id===item.id));
 const prepared=new Set(progress.items.slice(0,progress.preparedForPublicationCount||0).map(item=>item.id));
 const errors=[];
-const naturallyMinimal=new Set(['hojicha']);
+const naturallyMinimal=new Map([['hojicha',1],['sukhdi',3]]);
 if(candidates.length!==limit||progress.items.length!==200)errors.push('Expected exactly 200 next candidates and progress entries.');
 const publishedNames=new Set(catalogue.flatMap(dish=>[dish.name,...(dish.aliases||[])].map(normalizeName)));
 let complete=0,photoOnly=0;
@@ -29,7 +29,7 @@ for(let index=0;index<candidates.length;index++){
  }
  if(!draft)continue;
  if(draft.id!==candidate.id||draft.sourceReviewId!==candidate.sourceReviewId)errors.push(`${candidate.id}: draft identity mismatch`);
- if(draft.baseServings!==4||draft.ingredients?.length<(naturallyMinimal.has(candidate.id)?1:4)||draft.steps?.length<4||draft.tips?.length<1)errors.push(`${candidate.id}: incomplete English recipe`);
+ if(draft.baseServings!==4||draft.ingredients?.length<(naturallyMinimal.get(candidate.id)||4)||draft.steps?.length<4||draft.tips?.length<1)errors.push(`${candidate.id}: incomplete English recipe`);
  for(const ingredient of draft.ingredients||[])if(!Number.isFinite(ingredient.qty)||ingredient.qty<(ingredient.name.toLowerCase()==='saffron'?0.1:0.5)||!['g','ml'].includes(ingredient.unit))errors.push(`${candidate.id}: invalid quantity for ${ingredient.name}`);
  for(const lang of ['hi','gu']){
   const translation=draft.translations?.[lang];

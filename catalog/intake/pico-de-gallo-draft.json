@@ -1,0 +1,100 @@
+{
+  "sourceReviewId": "R3527",
+  "id": "pico-de-gallo",
+  "status": "published-popular-200-intake-batch",
+  "name": "Pico de Gallo",
+  "cuisine": "Mexican",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "jalapeno",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Remove tomato cores and dice the firm flesh into small even pieces. Drain loose juice in a sieve without crushing the tomato.",
+    "Finely dice onion and jalapeno; remove chilli seeds if desired for milder heat. Chop coriander with its tender stems.",
+    "Combine tomato, onion, chilli and coriander in a bowl. Add lime juice and salt and fold gently until evenly seasoned.",
+    "Rest for 10 minutes, stir again and serve with a slotted spoon to leave excess liquid behind. Refrigerate if not serving promptly."
+  ],
+  "tips": [
+    "Use ripe but firm tomatoes; fine, even chopping gives the salsa a balanced texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पीको दे गायो",
+      "ingredients": [
+        "टमाटर",
+        "लाल प्याज़",
+        "हालपेन्यो मिर्च",
+        "हरा धनिया",
+        "लाइम का रस",
+        "नमक"
+      ],
+      "steps": [
+        "टमाटर का कठोर बीच हटाकर गूदा छोटे समान टुकड़ों में काटें। बिना कुचले छलनी में अतिरिक्त रस निथारें।",
+        "प्याज़ और हालपेन्यो बारीक काटें; कम तीखापन चाहें तो बीज निकालें। कोमल डंठल सहित धनिया काटें।",
+        "कटोरे में टमाटर, प्याज़, मिर्च और धनिया मिलाएँ। लाइम रस और नमक डालकर हल्के से समान मिलाएँ।",
+        "10 मिनट रखें, फिर चलाकर छेद वाले चम्मच से परोसें ताकि अतिरिक्त रस पीछे रहे। जल्दी न परोसना हो तो फ्रिज में रखें।"
+      ],
+      "tips": [
+        "पके लेकिन सख्त टमाटर लें; बारीक समान कटाई से साल्सा की बनावट संतुलित रहती है।"
+      ]
+    },
+    "gu": {
+      "name": "પીકો દે ગાયો",
+      "ingredients": [
+        "ટામેટાં",
+        "લાલ ડુંગળી",
+        "હાલપેન્યો મરચું",
+        "લીલા ધાણા",
+        "લાઇમનો રસ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ટામેટાંનો કઠણ વચ્ચેનો ભાગ કાઢી ગર નાના સરખા ટુકડામાં સમારો. કચડ્યા વગર ચાળણીમાં વધારાનો રસ નિતારો.",
+        "ડુંગળી અને હાલપેન્યો બારીક સમારો; ઓછું તીખું જોઈએ તો બીજ કાઢો. કૂણી દાંડી સાથે ધાણા સમારો.",
+        "બાઉલમાં ટામેટાં, ડુંગળી, મરચું અને ધાણા ભેળવો. લાઇમનો રસ અને મીઠું ઉમેરી હળવેથી સરખું ભેળવો.",
+        "10 મિનિટ રાખો, ફરી હલાવી કાણાવાળા ચમચાથી પીરસો જેથી વધારાનો રસ પાછળ રહે. તરત ન પીરસવાનું હોય તો ફ્રિજમાં રાખો."
+      ],
+      "tips": [
+        "પાકાં પણ મજબૂત ટામેટાં લો; બારીક સરખી સમારણીથી સાલ્સાની રચના સંતુલિત રહે છે."
+      ]
+    }
+  },
+  "photoDescription": "Fresh chopped salsa of small bright-red tomato cubes, purple-red onion, green jalapeno and coriander in a bowl with a light lime sheen, not blended.",
+  "photoDraft": "catalog/intake/photos/pico-de-gallo.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

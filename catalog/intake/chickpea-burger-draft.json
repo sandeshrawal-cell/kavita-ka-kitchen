@@ -1,0 +1,164 @@
+{
+  "sourceReviewId": "R2983",
+  "id": "chickpea-burger",
+  "status": "published-popular-200-intake-batch",
+  "name": "Chickpea Burger",
+  "cuisine": "International",
+  "categories": [
+    "High Protein Vegetarian",
+    "Sandwiches",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "canned chickpeas, drained and rinsed",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "gram flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "rolled oats",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "eggless burger buns",
+      "qty": 280,
+      "unit": "g"
+    },
+    {
+      "name": "lettuce",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "eggless mayonnaise",
+      "qty": 60,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Finely chop onion and garlic. Cook onion in 10 ml oil for 5 minutes; add garlic and cook for 1 minute. Cool.",
+    "Dry-roast gram flour for 3 minutes over low heat. Grind oats to coarse flour and pat drained chickpeas dry.",
+    "Mash chickpeas coarsely. Mix in cooked onion, gram flour, oats, cumin, paprika, salt and lemon juice. Form 4 firm patties about 2 cm thick and chill for 20 minutes.",
+    "Heat remaining 30 ml oil in a nonstick pan. Cook patties over medium-low heat for 5 minutes per side until browned and hot through, turning gently once the crust sets.",
+    "Split and lightly toast buns. Spread mayonnaise, add lettuce, tomato slices and a hot chickpea patty, then close and serve."
+  ],
+  "tips": [
+    "Keep some chickpea texture rather than blending into hummus; drain well for patties that hold together."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चना बर्गर",
+      "ingredients": [
+        "छाने और धोए डिब्बाबंद काबुली चने",
+        "प्याज़",
+        "लहसुन",
+        "बेसन",
+        "रोल्ड ओट्स",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "नमक",
+        "नींबू का रस",
+        "तटस्थ स्वाद वाला तेल",
+        "एगलेस बर्गर बन",
+        "लेट्यूस",
+        "टमाटर",
+        "एगलेस मेयोनेज़"
+      ],
+      "steps": [
+        "प्याज़ और लहसुन बारीक काटें। प्याज़ 10 ml तेल में 5 मिनट पकाएँ; लहसुन डालकर 1 मिनट पकाएँ। ठंडा करें।",
+        "बेसन धीमी आँच पर 3 मिनट सूखा भूनें। ओट्स दरदरे पीसें और छाने चने पोंछकर सुखाएँ।",
+        "चने दरदरे मसलें। पका प्याज़, बेसन, ओट्स, जीरा, पापरिका, नमक और नींबू रस मिलाएँ। लगभग 2 cm मोटी 4 सख्त टिक्कियाँ बनाकर 20 मिनट ठंडी करें।",
+        "नॉनस्टिक पैन में बचा 30 ml तेल गरम करें। टिक्कियाँ मध्यम-धीमी आँच पर हर ओर 5 मिनट भूरी और भीतर गरम करें; परत जमने पर धीरे पलटें।",
+        "बन काटकर हल्के सेंकें। मेयोनेज़ लगाएँ, लेट्यूस, टमाटर स्लाइस और गरम चने की टिक्की रखकर बंद करें और परोसें।"
+      ],
+      "tips": [
+        "हम्मस जैसा पीसने के बजाय चने थोड़े दरदरे रखें; टिक्की बाँधने के लिए अच्छी तरह छानें।"
+      ],
+      "passiveTime": "टिक्कियाँ ठंडी करने के लिए 20 मिनट रखें।"
+    },
+    "gu": {
+      "name": "ચણા બર્ગર",
+      "ingredients": [
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાબુલી ચણા",
+        "ડુંગળી",
+        "લસણ",
+        "બેસન",
+        "રોલ્ડ ઓટ્સ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "એગલેસ બર્ગર બન",
+        "લેટ્યુસ",
+        "ટામેટાં",
+        "એગલેસ મેયોનીઝ"
+      ],
+      "steps": [
+        "ડુંગળી અને લસણ બારીક સમારો. ડુંગળી 10 ml તેલમાં 5 મિનિટ પકાવો; લસણ ઉમેરી 1 મિનિટ પકાવો. ઠંડું કરો.",
+        "બેસન ધીમા તાપે 3 મિનિટ કોરો શેકો. ઓટ્સ દરદરા પીસો અને નિતારેલા ચણા લૂછી સૂકવો.",
+        "ચણા દરદરા મસળો. રાંધેલી ડુંગળી, બેસન, ઓટ્સ, જીરું, પૅપ્રિકા, મીઠું અને લીંબુનો રસ ભેળવો. લગભગ 2 cm જાડી 4 મજબૂત ટિક્કીઓ બનાવી 20 મિનિટ ઠંડી કરો.",
+        "નોનસ્ટિક પેનમાં બાકીનું 30 ml તેલ ગરમ કરો. ટિક્કીઓ મધ્યમ-ધીમા તાપે દરેક બાજુ 5 મિનિટ ભૂરી અને અંદરથી ગરમ કરો; પડ જામે ત્યારે હળવેથી ફેરવો.",
+        "બન કાપી હળવા શેકો. મેયોનીઝ લગાવો, લેટ્યુસ, ટામેટાંની સ્લાઇસ અને ગરમ ચણાની ટિક્કી મૂકી બંધ કરો અને પીરસો."
+      ],
+      "tips": [
+        "હમસ જેવું વાટવાને બદલે ચણા થોડા દરદરા રાખો; ટિક્કી બંધાય તે માટે સારી રીતે નિતારો."
+      ],
+      "passiveTime": "ટિક્કીઓ ઠંડી કરવા 20 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Round golden-brown chickpea patties inside toasted burger buns with green lettuce, red tomato slices and white mayonnaise; a coarse chickpea texture is visible at the patty edge.",
+  "passiveTime": "Allow 20 minutes for chilling patties.",
+  "photoDraft": "catalog/intake/photos/chickpea-burger.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

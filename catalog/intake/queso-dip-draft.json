@@ -1,0 +1,145 @@
+{
+  "sourceReviewId": "R3528",
+  "id": "queso-dip",
+  "status": "published-popular-200-intake-batch",
+  "name": "Queso Dip",
+  "cuisine": "Tex-Mex",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "stew",
+  "ingredients": [
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella, grated",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "unsweetened evaporated milk",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "cornflour",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "jalapeno",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Finely dice onion, jalapeno and tomato; drain the tomato juice. Mince garlic and grate cheeses from blocks.",
+    "Melt butter over medium-low heat. Cook onion and jalapeno for 4 minutes; add garlic, tomato and cumin and cook for 3 minutes until excess moisture evaporates.",
+    "Stir cornflour into water. Add evaporated milk and salt to the pan, then whisk in the slurry. Simmer gently for 2 minutes until lightly thickened.",
+    "Reduce to the lowest heat. Add cheddar and mozzarella in small handfuls, stirring each addition until melted before adding more. Do not boil after adding cheese.",
+    "Transfer to a warm bowl and serve immediately while flowing. Rewarm leftovers gently over low heat, stirring continuously."
+  ],
+  "tips": [
+    "Use unsweetened evaporated milk, not sweetened condensed milk, and cheese labelled vegetarian."
+  ],
+  "translations": {
+    "hi": {
+      "name": "केसो डिप",
+      "ingredients": [
+        "कसा शाकाहारी चेडर चीज़",
+        "कसा शाकाहारी मोज़रेला",
+        "बिना चीनी का इवैपोरेटेड दूध",
+        "पानी",
+        "कॉर्नफ्लोर",
+        "मक्खन",
+        "हालपेन्यो मिर्च",
+        "प्याज़",
+        "टमाटर",
+        "लहसुन",
+        "जीरा पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "प्याज़, हालपेन्यो और टमाटर बारीक काटें; टमाटर का रस छानें। लहसुन बारीक काटें और चीज़ के ब्लॉक कसें।",
+        "मक्खन मध्यम-धीमी आँच पर पिघलाएँ। प्याज़ और हालपेन्यो 4 मिनट पकाएँ; लहसुन, टमाटर और जीरा डालकर 3 मिनट अतिरिक्त नमी सूखने तक पकाएँ।",
+        "कॉर्नफ्लोर पानी में घोलें। पैन में इवैपोरेटेड दूध और नमक डालें, फिर घोल फेंटकर मिलाएँ। 2 मिनट हल्का गाढ़ा होने तक धीरे उबालें।",
+        "आँच सबसे धीमी करें। चेडर और मोज़रेला थोड़ा-थोड़ा डालें; अगला भाग डालने से पहले हर भाग पिघलाएँ। चीज़ डालने के बाद न उबालें।",
+        "गरम कटोरे में निकालकर बहने लायक रहते तुरंत परोसें। बचा डिप धीमी आँच पर लगातार चलाकर धीरे गरम करें।"
+      ],
+      "tips": [
+        "मीठे कंडेंस्ड दूध के बजाय बिना चीनी का इवैपोरेटेड दूध और शाकाहारी लिखी चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "કેસો ડિપ",
+      "ingredients": [
+        "છીણેલું શાકાહારી ચેડર ચીઝ",
+        "છીણેલું શાકાહારી મોઝરેલા",
+        "ખાંડ વગરનું ઇવૅપોરેટેડ દૂધ",
+        "પાણી",
+        "કોર્નફ્લોર",
+        "માખણ",
+        "હાલપેન્યો મરચું",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લસણ",
+        "જીરું પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "ડુંગળી, હાલપેન્યો અને ટામેટાં બારીક સમારો; ટામેટાંનો રસ નિતારો. લસણ બારીક સમારો અને ચીઝના બ્લૉક છીણો.",
+        "માખણ મધ્યમ-ધીમા તાપે ઓગાળો. ડુંગળી અને હાલપેન્યો 4 મિનિટ પકાવો; લસણ, ટામેટાં અને જીરું ઉમેરી 3 મિનિટ વધારાનો ભેજ સુકાય ત્યાં સુધી પકાવો.",
+        "કોર્નફ્લોર પાણીમાં ઓગાળો. પેનમાં ઇવૅપોરેટેડ દૂધ અને મીઠું ઉમેરો, પછી ઘોળ ફેંટી ભેળવો. 2 મિનિટ હળવું ઘટ્ટ થાય ત્યાં સુધી ધીમેથી ઉકાળો.",
+        "તાપ સાવ ધીમો કરો. ચેડર અને મોઝરેલા થોડું-થોડું ઉમેરો; વધુ ઉમેરતાં પહેલાં દરેક ભાગ ઓગાળો. ચીઝ ઉમેર્યા પછી ઉકાળો નહીં.",
+        "ગરમ બાઉલમાં કાઢી વહેતું હોય ત્યારે તરત પીરસો. બાકીનો ડિપ ધીમા તાપે સતત હલાવી હળવેથી ગરમ કરો."
+      ],
+      "tips": [
+        "મીઠા કન્ડેન્સ્ડ દૂધને બદલે ખાંડ વગરનું ઇવૅપોરેટેડ દૂધ અને શાકાહારી લખેલું ચીઝ લો."
+      ]
+    }
+  },
+  "photoDescription": "A warm creamy pale-orange melted-cheese dip with tiny red tomato, green jalapeno and translucent onion pieces; glossy smooth surface in a bowl with no chips.",
+  "photoDraft": "catalog/intake/photos/queso-dip.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

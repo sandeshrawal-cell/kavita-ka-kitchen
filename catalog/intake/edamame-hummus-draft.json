@@ -1,0 +1,121 @@
+{
+  "sourceReviewId": "R2940",
+  "id": "edamame-hummus",
+  "status": "published-popular-200-intake-batch",
+  "name": "Edamame Hummus",
+  "cuisine": "Middle Eastern Inspired",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "blend",
+  "ingredients": [
+    {
+      "name": "shelled edamame, frozen",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "tahini",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil 900 ml water and add frozen shelled edamame. Simmer for 6 minutes or until tender, then drain and cool briefly.",
+    "Blend tahini, lemon juice and crushed garlic for 1 minute until pale and creamy.",
+    "Add edamame, cumin, salt, 20 ml oil and remaining 100 ml water. Blend for 3 minutes, scraping down the sides until smooth.",
+    "Spoon into a shallow bowl and make a swirl. Drizzle with remaining 10 ml oil and sprinkle paprika; serve or refrigerate covered."
+  ],
+  "tips": [
+    "Use shelled beans, not whole pods; scrape the blender repeatedly for a smooth dip."
+  ],
+  "translations": {
+    "hi": {
+      "name": "एडामामे हम्मस",
+      "ingredients": [
+        "छिले जमे एडामामे",
+        "पानी",
+        "ताहिनी",
+        "नींबू का रस",
+        "लहसुन",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "नमक",
+        "स्मोक्ड पापरिका"
+      ],
+      "steps": [
+        "900 ml पानी उबालकर छिले जमे एडामामे डालें। 6 मिनट या नरम होने तक उबालें, छानकर थोड़ा ठंडा करें।",
+        "ताहिनी, नींबू रस और कुटा लहसुन 1 मिनट हल्का और मलाईदार पीसें।",
+        "एडामामे, जीरा, नमक, 20 ml तेल और बचा 100 ml पानी डालें। किनारे खुरचते हुए 3 मिनट चिकना पीसें।",
+        "उथले कटोरे में निकालकर घुमाव बनाएँ। बचा 10 ml तेल डालकर पापरिका छिड़कें; परोसें या ढककर फ्रिज में रखें।"
+      ],
+      "tips": [
+        "फलियों के बजाय छिले दाने लें; चिकने डिप के लिए ब्लेंडर के किनारे बार-बार खुरचें।"
+      ]
+    },
+    "gu": {
+      "name": "એડામામે હમસ",
+      "ingredients": [
+        "છોલેલા ફ્રોઝન એડામામે",
+        "પાણી",
+        "તાહિની",
+        "લીંબુનો રસ",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "મીઠું",
+        "સ્મોક્ડ પૅપ્રિકા"
+      ],
+      "steps": [
+        "900 ml પાણી ઉકાળી છોલેલા ફ્રોઝન એડામામે ઉમેરો. 6 મિનિટ અથવા નરમ થાય ત્યાં સુધી ઉકાળો, નિતારી થોડા ઠંડા કરો.",
+        "તાહિની, લીંબુનો રસ અને કચડેલું લસણ 1 મિનિટ આછું અને ક્રીમી વાટો.",
+        "એડામામે, જીરું, મીઠું, 20 ml તેલ અને બાકીનું 100 ml પાણી ઉમેરો. બાજુઓ ખુરચતાં 3 મિનિટ સુંવાળું વાટો.",
+        "છીછરા બાઉલમાં કાઢી ગોળ લહેર બનાવો. બાકીનું 10 ml તેલ રેડી પૅપ્રિકા ભભરાવો; પીરસો અથવા ઢાંકી ફ્રિજમાં રાખો."
+      ],
+      "tips": [
+        "આખી શીંગને બદલે છોલેલા દાણા લો; સુંવાળા ડિપ માટે બ્લેન્ડરની બાજુઓ વારંવાર ખુરચો."
+      ]
+    }
+  },
+  "photoDescription": "Smooth pale-green edamame hummus swirled in a shallow bowl with a small olive-oil pool and a fine red paprika dusting; no bread or vegetable sticks.",
+  "photoDraft": "catalog/intake/photos/edamame-hummus.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

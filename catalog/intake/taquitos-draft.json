@@ -1,0 +1,145 @@
+{
+  "sourceReviewId": "R3542",
+  "id": "taquitos",
+  "status": "published-popular-200-intake-batch",
+  "name": "Taquitos",
+  "cuisine": "Mexican",
+  "categories": [
+    "Party Food",
+    "Snacks"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "potato, peeled",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "sour cream",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dice potatoes and boil in the measured water for 15 minutes until soft. Drain well and mash. Preheat oven to 220°C.",
+    "Mash black beans coarsely. Combine with potato, cheese, cumin, paprika and salt into a thick filling; cool until easy to handle.",
+    "Warm 12 small corn tortillas in a covered microwave-safe dish under a damp cloth for 40 seconds, until flexible. Divide filling along their centres and roll tightly into tubes.",
+    "Arrange seam-side down on a lined tray and brush all exposed surfaces with oil. Bake for 22 minutes, turning carefully halfway, until crisp and golden.",
+    "Mix sour cream with lime juice and chopped coriander. Serve taquitos hot with this dip in a separate bowl."
+  ],
+  "tips": [
+    "Warm tortillas just before rolling to prevent cracking; keep waiting tortillas covered."
+  ],
+  "translations": {
+    "hi": {
+      "name": "टाकीटोस",
+      "ingredients": [
+        "मक्के के टॉर्टिया",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "छिला आलू",
+        "पानी",
+        "कसा शाकाहारी चेडर चीज़",
+        "तटस्थ स्वाद वाला तेल",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "नमक",
+        "सावर क्रीम",
+        "लाइम का रस",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "आलू छोटे काटकर नापे पानी में 15 मिनट नरम उबालें। अच्छी तरह छानकर मसलें। ओवन 220°C गरम करें।",
+        "काले बीन्स दरदरे मसलें। आलू, चीज़, जीरा, पापरिका और नमक मिलाकर गाढ़ा भरावन बनाएँ; हाथ से सँभालने लायक ठंडा करें।",
+        "12 छोटे मक्के के टॉर्टिया माइक्रोवेव-सुरक्षित बर्तन में गीले कपड़े के नीचे ढककर 40 सेकंड लचीले होने तक गरम करें। बीच में भरावन बाँटकर कसकर नली की तरह लपेटें।",
+        "पेपर लगी ट्रे पर जोड़ नीचे रखें और खुली सतहों पर तेल लगाएँ। 22 मिनट बीच में सावधानी से पलटकर कुरकुरा सुनहरा बेक करें।",
+        "सावर क्रीम में लाइम रस और कटा धनिया मिलाएँ। टाकीटोस गरम परोसें और डिप अलग कटोरे में रखें।"
+      ],
+      "tips": [
+        "फटने से बचाने के लिए लपेटने से ठीक पहले टॉर्टिया गरम करें; बाकी ढके रखें।"
+      ]
+    },
+    "gu": {
+      "name": "ટાકીટોસ",
+      "ingredients": [
+        "મકાઈના ટોર્ટિયા",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "છોલેલું બટાકું",
+        "પાણી",
+        "છીણેલું શાકાહારી ચેડર ચીઝ",
+        "તટસ્થ સ્વાદનું તેલ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "સાવર ક્રીમ",
+        "લાઇમનો રસ",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "બટાકા નાના કાપી માપેલા પાણીમાં 15 મિનિટ નરમ ઉકાળો. સારી રીતે નિતારી મસળો. ઓવન 220°C ગરમ કરો.",
+        "કાળા બીન્સ દરદરા મસળો. બટાકા, ચીઝ, જીરું, પૅપ્રિકા અને મીઠું ભેળવી ઘટ્ટ પૂરણ બનાવો; હાથમાં લઈ શકાય એટલું ઠંડું કરો.",
+        "12 નાના મકાઈના ટોર્ટિયા માઇક્રોવેવ-સુરક્ષિત વાસણમાં ભીના કપડા નીચે ઢાંકી 40 સેકન્ડ નરમ થાય ત્યાં સુધી ગરમ કરો. વચ્ચે પૂરણ વહેંચી ચુસ્ત નળી જેમ વીંટાળો.",
+        "પેપરવાળી ટ્રે પર જોડ નીચે મૂકો અને ખુલ્લી સપાટી પર તેલ લગાવો. 22 મિનિટ વચ્ચે કાળજીથી ફેરવી કકરા અને સોનેરી બેક કરો.",
+        "સાવર ક્રીમમાં લાઇમનો રસ અને સમારેલા ધાણા ભેળવો. ટાકીટોસ ગરમ પીરસો અને ડિપ અલગ બાઉલમાં મૂકો."
+      ],
+      "tips": [
+        "ફાટતા અટકાવવા વીંટાળતાં પહેલાં જ ટોર્ટિયા ગરમ કરો; બાકીના ઢાંકેલા રાખો."
+      ]
+    }
+  },
+  "photoDescription": "Crisp golden rolled corn-tortilla tubes with black bean, potato and melted cheddar filling visible at the ends, alongside a small bowl of white lime-coriander sour cream.",
+  "photoDraft": "catalog/intake/photos/taquitos.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

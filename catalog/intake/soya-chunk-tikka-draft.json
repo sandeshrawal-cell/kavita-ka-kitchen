@@ -1,0 +1,163 @@
+{
+  "sourceReviewId": "R2975",
+  "id": "soya-chunk-tikka",
+  "status": "published-popular-200-intake-batch",
+  "name": "Soya Chunk Tikka",
+  "cuisine": "North Indian",
+  "categories": [
+    "High Protein Vegetarian",
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "grill",
+  "ingredients": [
+    {
+      "name": "dry soya chunks",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1500,
+      "unit": "ml"
+    },
+    {
+      "name": "thick plain curd",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 30,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil soya in the measured water for 5 minutes until soft. Drain, rinse cool and squeeze thoroughly; halve large chunks.",
+    "Crush ginger and garlic. Mix with curd, spices, salt, lemon juice and 15 ml oil to make a thick marinade.",
+    "Cut pepper and onion into 3 cm pieces. Coat them and soya with marinade; refrigerate for 30 minutes.",
+    "Thread alternating soya, onion and pepper onto metal skewers without packing tightly. Heat a grill pan over medium-high heat and brush with the remaining 15 ml oil.",
+    "Grill in batches for 12 minutes, turning regularly until browned on several sides and steaming hot inside. Serve immediately, sliding the tikka off the skewers."
+  ],
+  "tips": [
+    "Squeeze the soya well and use thick curd so the marinade clings."
+  ],
+  "translations": {
+    "hi": {
+      "name": "सोया चंक टिक्का",
+      "ingredients": [
+        "सूखे सोया चंक्स",
+        "पानी",
+        "गाढ़ा सादा दही",
+        "लाल शिमला मिर्च",
+        "प्याज़",
+        "अदरक",
+        "लहसुन",
+        "कश्मीरी लाल मिर्च पाउडर",
+        "जीरा पाउडर",
+        "गरम मसाला",
+        "हल्दी",
+        "नमक",
+        "नींबू का रस",
+        "तटस्थ स्वाद वाला तेल"
+      ],
+      "steps": [
+        "सोया को नापे पानी में 5 मिनट नरम होने तक उबालें। छानें, ठंडे पानी से धोकर अच्छी तरह निचोड़ें; बड़े टुकड़े आधे करें।",
+        "अदरक और लहसुन कूटें। दही, मसालों, नमक, नींबू रस और 15 ml तेल में मिलाकर गाढ़ा मैरिनेड बनाएँ।",
+        "शिमला मिर्च और प्याज़ के 3 cm टुकड़े करें। सोया सहित मैरिनेड में लपेटें; 30 मिनट फ्रिज में रखें।",
+        "धातु की सींखों पर सोया, प्याज़ और शिमला मिर्च बारी-बारी ढीला पिरोएँ। ग्रिल पैन मध्यम-तेज़ गरम करके बचा 15 ml तेल लगाएँ।",
+        "बैचों में 12 मिनट नियमित पलटकर कई ओर से भूरा और भीतर भाप निकलने जितना गरम करें। सींख से उतारकर तुरंत परोसें।"
+      ],
+      "tips": [
+        "सोया अच्छी तरह निचोड़ें और गाढ़ा दही लें ताकि मैरिनेड चिपके।"
+      ],
+      "passiveTime": "मैरिनेट करने के लिए 30 मिनट रखें।"
+    },
+    "gu": {
+      "name": "સોયા ચંક ટિક્કા",
+      "ingredients": [
+        "સૂકા સોયા ચંક્સ",
+        "પાણી",
+        "ઘટ્ટ સાદું દહીં",
+        "લાલ કેપ્સિકમ",
+        "ડુંગળી",
+        "આદુ",
+        "લસણ",
+        "કાશ્મીરી લાલ મરચું પાઉડર",
+        "જીરું પાઉડર",
+        "ગરમ મસાલો",
+        "હળદર",
+        "મીઠું",
+        "લીંબુનો રસ",
+        "તટસ્થ સ્વાદનું તેલ"
+      ],
+      "steps": [
+        "સોયાને માપેલા પાણીમાં 5 મિનિટ નરમ થાય ત્યાં સુધી ઉકાળો. નિતારો, ઠંડા પાણીથી ધોઈ સારી રીતે નીચોવો; મોટા ટુકડા અડધા કરો.",
+        "આદુ અને લસણ કચડો. દહીં, મસાલા, મીઠું, લીંબુના રસ અને 15 ml તેલ સાથે ભેળવી ઘટ્ટ મેરિનેડ બનાવો.",
+        "કેપ્સિકમ અને ડુંગળીના 3 cm ટુકડા કરો. સોયા સાથે મેરિનેડમાં લપેટો; 30 મિનિટ ફ્રિજમાં રાખો.",
+        "ધાતુની સળી પર સોયા, ડુંગળી અને કેપ્સિકમ વારાફરતી ઢીલાં પરોવો. ગ્રિલ પેન મધ્યમ-ઊંચા તાપે ગરમ કરી બાકીનું 15 ml તેલ લગાવો.",
+        "હપ્તામાં 12 મિનિટ નિયમિત ફેરવી અનેક બાજુથી ભૂરા અને અંદર વરાળ નીકળે એટલા ગરમ કરો. સળીમાંથી કાઢી તરત પીરસો."
+      ],
+      "tips": [
+        "સોયા સારી રીતે નીચોવો અને ઘટ્ટ દહીં લો જેથી મેરિનેડ ચોંટે."
+      ],
+      "passiveTime": "મેરિનેટ કરવા 30 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Skewers of orange-red soya chunks, red bell pepper and onion petals with browned grill edges; no sauce or garnish.",
+  "passiveTime": "Allow 30 minutes for marinating.",
+  "photoDraft": "catalog/intake/photos/soya-chunk-tikka.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,170 @@
+{
+  "sourceReviewId": "R1470",
+  "id": "paneer-burrito",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Burrito",
+  "cuisine": "Indo-Mexican",
+  "categories": [
+    "Wraps",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "basmati rice",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 360,
+      "unit": "ml"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "eggless wheat tortillas",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "red bell pepper",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "neutral oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian cheddar, grated",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice and boil with 320 ml water and 2 g salt. Cover and cook on low for 12 minutes, then rest off the heat for 10 minutes.",
+    "Dice paneer and pepper. Slice half the onion; cook with pepper in 15 ml oil for 4 minutes. Add paneer, cumin, paprika and 2 g salt; cook for 4 minutes.",
+    "Add black beans and remaining 40 ml water; simmer for 3 minutes until hot and nearly dry.",
+    "Finely dice tomato and remaining onion. Mix with chopped coriander, lime juice and remaining 2 g salt; drain excess salsa liquid.",
+    "Warm 4 large tortillas. Divide rice, paneer-bean filling, cheese and salsa among them. Fold the sides inward and roll snugly, keeping the filling enclosed.",
+    "Use remaining 10 ml oil to toast burritos in a skillet for 2 minutes per side, starting seam-side down, until lightly golden and cheese melts."
+  ],
+  "tips": [
+    "Use large tortillas and keep the filling away from their edges for a neat seal."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पनीर बरीटो",
+      "ingredients": [
+        "पनीर",
+        "बासमती चावल",
+        "पानी",
+        "छाने और धोए डिब्बाबंद काले बीन्स",
+        "एगलेस गेहूँ टॉर्टिया",
+        "लाल शिमला मिर्च",
+        "प्याज़",
+        "टमाटर",
+        "हरा धनिया",
+        "लाइम का रस",
+        "जीरा पाउडर",
+        "स्मोक्ड पापरिका",
+        "नमक",
+        "तटस्थ स्वाद वाला तेल",
+        "कसा शाकाहारी चेडर चीज़"
+      ],
+      "steps": [
+        "चावल धोकर 320 ml पानी और 2 g नमक में उबालें। ढककर धीमे 12 मिनट पकाएँ, फिर आँच बंद कर 10 मिनट रखें।",
+        "पनीर और शिमला मिर्च काटें। आधा प्याज़ पतला काटकर शिमला मिर्च सहित 15 ml तेल में 4 मिनट पकाएँ। पनीर, जीरा, पापरिका और 2 g नमक डालकर 4 मिनट पकाएँ।",
+        "काले बीन्स और बचा 40 ml पानी डालकर 3 मिनट गरम और लगभग सूखा होने तक पकाएँ।",
+        "टमाटर और बचा प्याज़ बारीक काटें। कटा धनिया, लाइम रस और बचा 2 g नमक मिलाएँ; साल्सा का अतिरिक्त पानी निकालें।",
+        "4 बड़े टॉर्टिया गरम करें। चावल, पनीर-बीन्स भरावन, चीज़ और साल्सा बाँटें। किनारे अंदर मोड़कर भरावन बंद रखते हुए कसकर लपेटें।",
+        "बचे 10 ml तेल में बरीटो जोड़ नीचे से शुरू करके हर ओर 2 मिनट हल्के सुनहरे होने और चीज़ पिघलने तक सेंकें।"
+      ],
+      "tips": [
+        "बड़े टॉर्टिया लें और अच्छी तरह बंद करने के लिए भरावन किनारों से दूर रखें।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર બરીટો",
+      "ingredients": [
+        "પનીર",
+        "બાસમતી ચોખા",
+        "પાણી",
+        "નિતારેલા અને ધોયેલા ડબ્બાબંધ કાળા બીન્સ",
+        "એગલેસ ઘઉંના ટોર્ટિયા",
+        "લાલ કેપ્સિકમ",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલા ધાણા",
+        "લાઇમનો રસ",
+        "જીરું પાઉડર",
+        "સ્મોક્ડ પૅપ્રિકા",
+        "મીઠું",
+        "તટસ્થ સ્વાદનું તેલ",
+        "છીણેલું શાકાહારી ચેડર ચીઝ"
+      ],
+      "steps": [
+        "ચોખા ધોઈ 320 ml પાણી અને 2 g મીઠામાં ઉકાળો. ઢાંકી ધીમા તાપે 12 મિનિટ પકાવો, પછી તાપ બંધ કરી 10 મિનિટ રાખો.",
+        "પનીર અને કેપ્સિકમ સમારો. અડધી ડુંગળી પાતળી કાપી કેપ્સિકમ સાથે 15 ml તેલમાં 4 મિનિટ પકાવો. પનીર, જીરું, પૅપ્રિકા અને 2 g મીઠું ઉમેરી 4 મિનિટ પકાવો.",
+        "કાળા બીન્સ અને બાકીનું 40 ml પાણી ઉમેરી 3 મિનિટ ગરમ અને લગભગ સૂકું થાય ત્યાં સુધી પકાવો.",
+        "ટામેટાં અને બાકીની ડુંગળી બારીક સમારો. સમારેલા ધાણા, લાઇમનો રસ અને બાકીનું 2 g મીઠું ભેળવો; સાલ્સાનું વધારાનું પાણી કાઢો.",
+        "4 મોટા ટોર્ટિયા ગરમ કરો. ભાત, પનીર-બીન્સનું પૂરણ, ચીઝ અને સાલ્સા વહેંચો. બાજુઓ અંદર વાળી પૂરણ બંધ રાખીને ચુસ્ત વીંટાળો.",
+        "બાકીના 10 ml તેલમાં બરીટો જોડ નીચેથી શરૂ કરીને દરેક બાજુ 2 મિનિટ હળવા સોનેરી થાય અને ચીઝ ઓગળે ત્યાં સુધી શેકો."
+      ],
+      "tips": [
+        "મોટા ટોર્ટિયા લો અને સારી રીતે બંધ કરવા પૂરણ કિનારાથી દૂર રાખો."
+      ]
+    }
+  },
+  "photoDescription": "Lightly toasted wheat burritos sliced across, showing white rice, golden spiced paneer, black beans, red bell pepper, tomato-onion salsa and melted cheddar.",
+  "photoDraft": "catalog/intake/photos/paneer-burrito.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -733,7 +733,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/poha-cutlet.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "makhana-chivda",
@@ -746,7 +747,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/makhana-chivda.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "seed-crackers",
@@ -759,7 +761,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/seed-crackers.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "granola-bars",
@@ -772,7 +775,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/granola-bars.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-tiramisu",
@@ -785,7 +789,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-tiramisu.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "kunafa",
@@ -798,7 +803,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/kunafa.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "baklava",
@@ -811,7 +817,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/baklava.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "mochi-ice-cream",
@@ -824,7 +831,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/mochi-ice-cream.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "mango-sticky-rice",
@@ -837,7 +845,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/mango-sticky-rice.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "pistachio-gelato",
@@ -850,7 +859,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/pistachio-gelato.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "basbousa",
@@ -863,7 +873,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/basbousa.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-new-york-cheesecake",
@@ -876,7 +887,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-new-york-cheesecake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-tres-leches-cake",
@@ -889,7 +901,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-tres-leches-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "rasmalai-cake",
@@ -902,7 +915,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/rasmalai-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-molten-lava-cake",
@@ -915,7 +929,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-molten-lava-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "mug-cake",
@@ -928,7 +943,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/mug-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-blueberry-muffins",
@@ -941,7 +957,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-blueberry-muffins.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-carrot-cake",
@@ -954,7 +971,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-carrot-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-date-and-walnut-cake",
@@ -967,7 +985,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-date-and-walnut-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-coffee-walnut-cake",
@@ -980,7 +999,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-coffee-walnut-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-pistachio-cake",
@@ -993,7 +1013,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-pistachio-cake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "eggless-cinnamon-rolls",
@@ -1006,7 +1027,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/eggless-cinnamon-rolls.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "phirni",
@@ -1019,7 +1041,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/phirni.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "shahi-tukda",
@@ -1032,7 +1055,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/shahi-tukda.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "amrakhand",
@@ -1045,7 +1069,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/amrakhand.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "21a3977"
     },
     {
       "id": "soya-chunk-tikka",
@@ -1054,8 +1079,11 @@
       "theme": "Indian protein meals",
       "sourceReviewId": "R2975",
       "sourceRow": 2976,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/soya-chunk-tikka.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "chilli-soya-chunks",
@@ -1064,8 +1092,11 @@
       "theme": "Indian protein meals",
       "sourceReviewId": "R2977",
       "sourceRow": 2978,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chilli-soya-chunks.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "rajma-galouti-kebab",
@@ -1074,8 +1105,11 @@
       "theme": "Indian protein meals",
       "sourceReviewId": "R2952",
       "sourceRow": 2953,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/rajma-galouti-kebab.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "sattu-chilla",
@@ -1084,8 +1118,11 @@
       "theme": "Indian protein meals",
       "sourceReviewId": "R2998",
       "sourceRow": 2999,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/sattu-chilla.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "moong-sprouts-dosa",
@@ -1094,8 +1131,11 @@
       "theme": "Indian protein meals",
       "sourceReviewId": "R3000",
       "sourceRow": 3001,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/moong-sprouts-dosa.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "quinoa-black-bean-salad",
@@ -1104,8 +1144,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2909",
       "sourceRow": 2910,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/quinoa-black-bean-salad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "grilled-paneer-salad",
@@ -1114,8 +1157,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2918",
       "sourceRow": 2919,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/grilled-paneer-salad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "peanut-tofu-bowl",
@@ -1124,8 +1170,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2880",
       "sourceRow": 2881,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/peanut-tofu-bowl.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "chickpea-shawarma-bowl",
@@ -1134,8 +1183,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2891",
       "sourceRow": 2892,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chickpea-shawarma-bowl.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "lentil-tacos",
@@ -1144,8 +1196,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2942",
       "sourceRow": 2943,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/lentil-tacos.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "tofu-burger",
@@ -1154,8 +1209,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2929",
       "sourceRow": 2930,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tofu-burger.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "chickpea-burger",
@@ -1164,8 +1222,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2983",
       "sourceRow": 2984,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/chickpea-burger.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "edamame-hummus",
@@ -1174,8 +1235,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2940",
       "sourceRow": 2941,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/edamame-hummus.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "greek-yogurt-bowl",
@@ -1184,8 +1248,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2991",
       "sourceRow": 2992,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/greek-yogurt-bowl.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "frozen-yogurt-bark",
@@ -1194,8 +1261,11 @@
       "theme": "Protein bowls and snacks",
       "sourceReviewId": "R2922",
       "sourceRow": 2923,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/frozen-yogurt-bark.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "elote",
@@ -1204,9 +1274,12 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R2683",
       "sourceRow": 2684,
-      "status": "recipe-needed",
+      "status": "prepared-for-publication",
       "matches": [],
-      "selectionNote": "Replaces bean-burrito-bowl because its recipe overlaps an existing dish."
+      "selectionNote": "Replaces bean-burrito-bowl because its recipe overlaps an existing dish.",
+      "photoDraft": "catalog/intake/photos/elote.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "paneer-quesadilla",
@@ -1215,9 +1288,12 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R2869",
       "sourceRow": 2870,
-      "status": "recipe-needed",
+      "status": "prepared-for-publication",
       "matches": [],
-      "selectionNote": "Replaces veggie-burrito because its recipe overlaps an existing dish."
+      "selectionNote": "Replaces veggie-burrito because its recipe overlaps an existing dish.",
+      "photoDraft": "catalog/intake/photos/paneer-quesadilla.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "sweet-potato-black-bean-burrito",
@@ -1226,8 +1302,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R1446",
       "sourceRow": 1447,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/sweet-potato-black-bean-burrito.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "paneer-burrito",
@@ -1236,8 +1315,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R1470",
       "sourceRow": 1471,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-burrito.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "taquitos",
@@ -1246,8 +1328,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3542",
       "sourceRow": 3543,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/taquitos.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "tostadas",
@@ -1256,8 +1341,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3544",
       "sourceRow": 3545,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/tostadas.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "guacamole",
@@ -1266,8 +1354,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3526",
       "sourceRow": 3527,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/guacamole.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "pico-de-gallo",
@@ -1276,8 +1367,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3527",
       "sourceRow": 3528,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/pico-de-gallo.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "queso-dip",
@@ -1286,8 +1380,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3528",
       "sourceRow": 3529,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/queso-dip.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "nachos-platter",
@@ -1296,8 +1393,11 @@
       "theme": "Mexican favourites",
       "sourceReviewId": "R3587",
       "sourceRow": 3588,
-      "status": "recipe-needed",
-      "matches": []
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/nachos-platter.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
     },
     {
       "id": "corn-cheese-sandwich",
@@ -2303,41 +2403,15 @@
     }
   ],
   "checkpoint": {
-    "date": "2026-10-16",
-    "completeRecipeDrafts": 90,
-    "livePublishedCount": 25,
-    "nextGroup": [
-      "orzo-salad",
-      "foxtail-millet-salad",
-      "black-bean-mango-salad",
-      "baked-feta-pasta",
-      "baked-mac-and-cheese",
-      "spinach-ricotta-cannelloni",
-      "stuffed-pasta-shells",
-      "baked-ziti",
-      "mushroom-risotto",
-      "gnocchi-alla-sorrentina",
-      "garlic-butter-pasta",
-      "avocado-pasta",
-      "focaccia",
-      "paneer-pasanda",
-      "dum-paneer-kali-mirch",
-      "paneer-changezi",
-      "bindaetteok",
-      "veg-handi",
-      "vegetable-chettinad",
-      "veg-makhanwala",
-      "paneer-angara",
-      "paneer-rezala",
-      "afghani-paneer",
-      "masala-papad",
-      "cheese-garlic-bread"
-    ],
-    "resume": "Continue cumulative25-dish releases, starting with photo review for group2; never redo live group1."
+    "date": "2026-10-17",
+    "livePublishedCount": 75,
+    "preparedForPublicationCount": 75,
+    "recipeDrafts": 168,
+    "note": "Groups 1–3 verified live; group 4 photos being generated. Parallel recipe agents stopped at workspace credit limit. All saved drafts retained."
   },
-  "preparedForPublicationCount": 75,
+  "preparedForPublicationCount": 100,
   "processingOrderNote": "After the first25, prioritize already completed recipe drafts to minimize repeated work; source selections remain the same200.",
-  "livePublishedCount": 50,
+  "livePublishedCount": 75,
   "releases": [
     {
       "count": 25,
@@ -2353,6 +2427,13 @@
       "verifiedOn": "2026-10-17",
       "totalCatalogue": 1066,
       "totalPhotos": 1066
+    },
+    {
+      "count": 75,
+      "commit": "21a3977",
+      "verifiedOn": "2026-10-17",
+      "totalCatalogue": 1091,
+      "totalPhotos": 1091
     }
   ]
 }

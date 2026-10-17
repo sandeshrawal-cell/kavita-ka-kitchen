@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 
 const progress=JSON.parse(await fs.readFile('catalog/intake/friend-popular200-progress.json','utf8'));
 const issues=[];
-const naturallyMinimal=new Set(['hojicha']);
+const naturallyMinimal=new Map([['hojicha',1],['sukhdi',3]]);
 let checked=0;
 const numbers=text=>(String(text).match(/\d+(?:\.\d+)?/g)||[]).sort().join(',');
 const banned=/\b(chicken|mutton|beef|pork|fish sauce|shrimp|prawn|anchov(?:y|ies)|oyster sauce|egg yolk|whole egg|gelatin|gelatine|animal rennet)\b/i;
@@ -13,7 +13,7 @@ for(const item of progress.items){
  if(dish.reference?.url&&!/^https:\/\//.test(dish.reference.url))issues.push(`${item.id}: invalid source URL`);
  if(dish.steps.length<4)issues.push(`${item.id}: fewer than four recipe steps`);
  if(dish.steps.some(step=>typeof step!=='string'||step.trim().length<25))issues.push(`${item.id}: recipe step lacks detail`);
- if(dish.ingredients.length<(naturallyMinimal.has(item.id)?1:4))issues.push(`${item.id}: insufficient measured ingredients`);
+ if(dish.ingredients.length<(naturallyMinimal.get(item.id)||4))issues.push(`${item.id}: insufficient measured ingredients`);
  if(dish.ingredients.some(ingredient=>banned.test(ingredient.name)))issues.push(`${item.id}: potentially nonvegetarian ingredient`);
  const names=new Set();
  for(const ingredient of dish.ingredients){
