@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R3423",
+  "id": "baked-mac-and-cheese",
+  "status": "published-popular-200-intake-batch",
+  "name": "Baked Mac and Cheese",
+  "cuisine": "American",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "dry egg-free macaroni",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2500,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 700,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "plain flour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian cheddar cheese",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "egg-free breadcrumbs",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Boil macaroni in water with half the salt, stopping 2 minutes before the packet time, then drain.",
+    "Melt butter in a saucepan, stir in flour and cook gently for 2 minutes without browning.",
+    "Whisk in milk gradually. Simmer for 5 minutes until it coats a spoon, then turn off the heat and stir in most of the cheddar, paprika, pepper and remaining salt.",
+    "Combine sauce and macaroni in a baking dish. Top with remaining cheese and breadcrumbs; bake 20 minutes until bubbling and golden."
+  ],
+  "tips": [
+    "Keep the sauce loose before baking because the pasta absorbs liquid in the oven."
+  ],
+  "photoDescription": "Golden baked macaroni and cheese in a ceramic dish, creamy elbow pasta beneath crisp toasted breadcrumb crust.",
+  "translations": {
+    "hi": {
+      "name": "बेक्ड मैक एंड चीज़",
+      "ingredients": [
+        "सूखी बिना अंडे की मैकरोनी",
+        "पानी",
+        "दूध",
+        "मक्खन",
+        "मैदा",
+        "शाकाहारी चेडर चीज़",
+        "बिना अंडे का ब्रेड चूरा",
+        "स्मोक्ड पैपरिका",
+        "काली मिर्च",
+        "नमक"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। आधे नमक वाले पानी में मैकरोनी पैकेट के समय से 2 मिनट कम पकाएँ, फिर निथारें।",
+        "पतीले में मक्खन पिघलाएँ, मैदा मिलाकर बिना भूरा किए धीमी आँच पर 2 मिनट पकाएँ।",
+        "दूध धीरे फेंटते हुए डालें। चम्मच पर परत आने तक 5 मिनट पकाएँ, फिर आँच बंद कर अधिकांश चेडर, पैपरिका, काली मिर्च और बचा नमक मिलाएँ।",
+        "सॉस और मैकरोनी बेकिंग डिश में मिलाएँ। बचा चीज़ और ब्रेड चूरा ऊपर डालें; 20 मिनट बुलबुले आने और सुनहरा होने तक बेक करें।"
+      ],
+      "tips": [
+        "बेक करने से पहले सॉस थोड़ा पतला रखें क्योंकि ओवन में पास्ता तरल सोखता है।"
+      ]
+    },
+    "gu": {
+      "name": "બેક કરેલી મેકરોની અને ચીઝ",
+      "ingredients": [
+        "સૂકી ઇંડા વિનાની મેકરોની",
+        "પાણી",
+        "દૂધ",
+        "માખણ",
+        "મેંદો",
+        "શાકાહારી ચેડર ચીઝ",
+        "ઇંડા વિનાની બ્રેડનો ભૂકો",
+        "સ્મોક્ડ પેપરિકા",
+        "કાળા મરી",
+        "મીઠું"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. અડધા મીઠાવાળા પાણીમાં મેકરોની પેકેટના સમયથી 2 મિનિટ ઓછી બાફી નિતારો.",
+        "તપેલીમાં માખણ ઓગાળો, મેંદો ભેળવી બદામી કર્યા વિના ધીમા તાપે 2 મિનિટ પકાવો.",
+        "દૂધ ધીમે ફેંટતાં ઉમેરો. ચમચા પર પડ ચડે ત્યાં સુધી 5 મિનિટ પકાવો, પછી તાપ બંધ કરી મોટાભાગની ચેડર, પેપરિકા, મરી અને બાકીનું મીઠું ભેળવો.",
+        "સોસ અને મેકરોની બેકિંગ ડિશમાં ભેળવો. બાકીનું ચીઝ અને બ્રેડનો ભૂકો ઉપર નાખો; 20 મિનિટ પરપોટા આવે અને સોનેરી થાય ત્યાં સુધી બેક કરો."
+      ],
+      "tips": [
+        "બેક કરતાં પહેલાં સોસ થોડો પાતળો રાખો કારણ કે ઓવનમાં પાસ્તા પ્રવાહી શોષે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/baked-mac-and-cheese.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

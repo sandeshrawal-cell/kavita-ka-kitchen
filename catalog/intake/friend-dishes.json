@@ -18141,8 +18141,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/mushroom-risotto.png"
     },
     {
       "id": "saffron-risotto",
@@ -19200,8 +19201,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 2
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 2,
+      "photoDraft": "catalog/intake/photos/focaccia.png"
     },
     {
       "id": "pita-bread",
@@ -23840,8 +23842,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/orzo-salad.png"
     },
     {
       "id": "soba-noodle-salad",
@@ -24381,8 +24384,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/foxtail-millet-salad.png"
     },
     {
       "id": "tuscan-white-bean-salad",
@@ -24968,8 +24972,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/black-bean-mango-salad.png"
     },
     {
       "id": "corn-and-avocado-salad",
@@ -53577,8 +53582,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/garlic-butter-pasta.png"
     },
     {
       "id": "tofu-fried-rice",
@@ -53781,8 +53787,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/avocado-pasta.png"
     },
     {
       "id": "corn-capsicum-rice",
@@ -55148,8 +55155,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/bindaetteok.png"
     },
     {
       "id": "rajma-galouti-kebab",
@@ -62615,8 +62623,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/paneer-pasanda.png"
     },
     {
       "id": "dum-paneer-kali-mirch",
@@ -62632,8 +62641,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/dum-paneer-kali-mirch.png"
     },
     {
       "id": "paneer-changezi",
@@ -62649,8 +62659,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/paneer-changezi.png"
     },
     {
       "id": "malai-soya-chaap",
@@ -62683,8 +62694,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/baked-feta-pasta.png"
     },
     {
       "id": "gobi-musallam",
@@ -62787,8 +62799,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/veg-handi.png"
     },
     {
       "id": "subz-diwani-handi",
@@ -62906,8 +62919,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/vegetable-chettinad.png"
     },
     {
       "id": "veg-makhanwala",
@@ -62923,8 +62937,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/veg-makhanwala.png"
     },
     {
       "id": "bharwan-khumb",
@@ -62978,8 +62993,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/baked-mac-and-cheese.png"
     },
     {
       "id": "vegetarian-moussaka",
@@ -63012,8 +63028,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/spinach-ricotta-cannelloni.png"
     },
     {
       "id": "stuffed-pasta-shells",
@@ -63029,8 +63046,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/stuffed-pasta-shells.png"
     },
     {
       "id": "mushroom-wellington",
@@ -63080,8 +63098,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/baked-ziti.png"
     },
     {
       "id": "jodhpuri-kabuli",
@@ -63611,8 +63630,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/paneer-angara.png"
     },
     {
       "id": "banarasi-dum-aloo",
@@ -63834,8 +63854,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/paneer-rezala.png"
     },
     {
       "id": "afghani-paneer",
@@ -63851,8 +63872,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/afghani-paneer.png"
     },
     {
       "id": "sufiyani-paneer-tikka",
@@ -63938,8 +63960,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/gnocchi-alla-sorrentina.png"
     },
     {
       "id": "deep-dish-pizza",
@@ -65263,8 +65286,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 7
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 7,
+      "photoDraft": "catalog/intake/photos/masala-papad.png"
     },
     {
       "id": "ribbon-sandwich",
@@ -65849,8 +65873,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 8
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 8,
+      "photoDraft": "catalog/intake/photos/cheese-garlic-bread.png"
     },
     {
       "id": "chilli-idli",

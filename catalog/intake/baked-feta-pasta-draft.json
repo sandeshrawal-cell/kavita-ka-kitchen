@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R3406",
+  "id": "baked-feta-pasta",
+  "status": "published-popular-200-intake-batch",
+  "name": "Baked Feta Pasta",
+  "cuisine": "Mediterranean",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "dry egg-free penne pasta",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian feta cheese",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Put tomatoes and peeled garlic in a baking dish, coat with oil, oregano and pepper, and place feta in the centre.",
+    "Bake for 30 minutes until tomatoes burst and the feta is soft with lightly browned edges.",
+    "Meanwhile boil pasta in salted water for its packet time. Reserve 150 ml cooking water before draining.",
+    "Mash roasted garlic, tomatoes and feta together. Fold in pasta and basil, adding reserved water gradually until the sauce coats the pasta."
+  ],
+  "tips": [
+    "Feta is salty, so taste the sauce before adding extra salt; choose vegetarian rennet cheese."
+  ],
+  "photoDescription": "Penne pasta coated with creamy baked feta and burst red cherry tomatoes, basil leaves and golden roasted edges.",
+  "translations": {
+    "hi": {
+      "name": "बेक्ड फ़ेटा पास्ता",
+      "ingredients": [
+        "सूखा बिना अंडे का पेन्ने पास्ता",
+        "शाकाहारी फ़ेटा चीज़",
+        "चेरी टमाटर",
+        "लहसुन",
+        "जैतून का तेल",
+        "बेसिल के पत्ते",
+        "सूखा ओरेगानो",
+        "काली मिर्च",
+        "नमक",
+        "पानी"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। बेकिंग डिश में टमाटर और छिला लहसुन तेल, ओरेगानो व काली मिर्च से मिलाएँ और बीच में फ़ेटा रखें।",
+        "30 मिनट बेक करें, जब तक टमाटर फट जाएँ और फ़ेटा नरम व किनारों पर हल्का भूरा हो जाए।",
+        "इस बीच पास्ता नमकीन पानी में पैकेट के समय अनुसार पकाएँ। निथारने से पहले 150 मिली पकाने का पानी बचाएँ।",
+        "भुना लहसुन, टमाटर और फ़ेटा साथ मसलें। पास्ता और बेसिल मिलाएँ, बचा पानी धीरे डालें ताकि सॉस पास्ता पर चढ़े।"
+      ],
+      "tips": [
+        "फ़ेटा नमकीन होता है, इसलिए अतिरिक्त नमक से पहले सॉस चखें; शाकाहारी रेनेट वाला चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "બેક કરેલો ફેટા પાસ્તા",
+      "ingredients": [
+        "સૂકો ઇંડા વિનાનો પેને પાસ્તા",
+        "શાકાહારી ફેટા ચીઝ",
+        "ચેરી ટામેટાં",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "બેસિલનાં પાન",
+        "સૂકું ઓરેગાનો",
+        "કાળા મરી",
+        "મીઠું",
+        "પાણી"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. બેકિંગ ડિશમાં ટામેટાં અને છોલેલું લસણ તેલ, ઓરેગાનો અને મરી સાથે ભેળવો અને વચ્ચે ફેટા મૂકો.",
+        "30 મિનિટ બેક કરો, ટામેટાં ફાટે અને ફેટા નરમ થઈ કિનારે હળવો બદામી થાય ત્યાં સુધી.",
+        "તે દરમિયાન પાસ્તા મીઠાવાળા પાણીમાં પેકેટના સમય પ્રમાણે બાફો. નિતારતાં પહેલાં 150 મિલી રાંધવાનું પાણી રાખો.",
+        "શેકેલું લસણ, ટામેટાં અને ફેટા સાથે મસળો. પાસ્તા અને બેસિલ ભેળવો, રાખેલું પાણી ધીમે ઉમેરો જેથી સોસ પાસ્તાને ચોંટે."
+      ],
+      "tips": [
+        "ફેટા ખારો હોય છે, તેથી વધુ મીઠું ઉમેરતાં પહેલાં સોસ ચાખો; શાકાહારી રેનેટવાળી ચીઝ લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/baked-feta-pasta.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

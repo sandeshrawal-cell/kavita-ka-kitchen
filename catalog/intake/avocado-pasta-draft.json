@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R2872",
+  "id": "avocado-pasta",
+  "status": "published-popular-200-intake-batch",
+  "name": "Avocado Pasta",
+  "cuisine": "Contemporary",
+  "categories": [
+    "Quick Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "blend",
+  "ingredients": [
+    {
+      "name": "dry egg-free spaghetti",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    },
+    {
+      "name": "ripe avocado flesh",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil spaghetti in water with most of the salt for the packet time. Reserve 200 ml cooking water before draining.",
+    "Blend avocado flesh, basil, lemon juice, olive oil, peeled garlic, pepper and remaining salt into a smooth paste.",
+    "Add a little reserved pasta water to the sauce and blend again until pourable; halve the cherry tomatoes.",
+    "Toss warm pasta with avocado sauce away from direct heat. Fold in tomatoes and serve immediately, adding more pasta water only if necessary."
+  ],
+  "tips": [
+    "Make the sauce just before serving; boiling avocado sauce can dull its colour and fresh flavour."
+  ],
+  "photoDescription": "Spaghetti coated in smooth fresh green avocado basil sauce with cherry tomato halves and basil leaves.",
+  "translations": {
+    "hi": {
+      "name": "एवोकाडो पास्ता",
+      "ingredients": [
+        "सूखी बिना अंडे की स्पेगेटी",
+        "पानी",
+        "पके एवोकाडो का गूदा",
+        "बेसिल के पत्ते",
+        "नींबू का रस",
+        "जैतून का तेल",
+        "लहसुन",
+        "चेरी टमाटर",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "अधिकांश नमक वाले पानी में स्पेगेटी पैकेट के समय अनुसार पकाएँ। निथारने से पहले 200 मिली पकाने का पानी बचाएँ।",
+        "एवोकाडो गूदा, बेसिल, नींबू रस, जैतून तेल, छिला लहसुन, काली मिर्च और बचा नमक चिकना पीसें।",
+        "सॉस में थोड़ा बचा पास्ता पानी डालकर फिर बहने योग्य पीसें; चेरी टमाटर आधे काटें।",
+        "सीधी आँच से हटाकर गरम पास्ता एवोकाडो सॉस में मिलाएँ। टमाटर मिलाकर तुरंत परोसें; ज़रूरत हो तभी और पास्ता पानी डालें।"
+      ],
+      "tips": [
+        "सॉस परोसने से ठीक पहले बनाएँ; एवोकाडो सॉस उबालने से रंग और ताज़ा स्वाद कम होता है।"
+      ]
+    },
+    "gu": {
+      "name": "એવોકાડો પાસ્તા",
+      "ingredients": [
+        "સૂકી ઇંડા વિનાની સ્પેગેટી",
+        "પાણી",
+        "પાકેલા એવોકાડોનો ગર્ભ",
+        "બેસિલનાં પાન",
+        "લીંબુનો રસ",
+        "ઓલિવ તેલ",
+        "લસણ",
+        "ચેરી ટામેટાં",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "મોટાભાગના મીઠાવાળા પાણીમાં સ્પેગેટી પેકેટના સમય મુજબ બાફો. નિતારતાં પહેલાં 200 મિલી રાંધવાનું પાણી રાખો.",
+        "એવોકાડોનો ગર્ભ, બેસિલ, લીંબુનો રસ, ઓલિવ તેલ, છોલેલું લસણ, મરી અને બાકીનું મીઠું લીસું પીસો.",
+        "સોસમાં થોડું રાખેલું પાસ્તાનું પાણી ઉમેરી ફરી રેડી શકાય તેવું પીસો; ચેરી ટામેટાં અડધાં કાપો.",
+        "સીધા તાપથી દૂર ગરમ પાસ્તા એવોકાડોના સોસમાં ભેળવો. ટામેટાં ભેળવી તરત પીરસો; જરૂર હોય ત્યારે જ વધુ પાસ્તાનું પાણી ઉમેરો."
+      ],
+      "tips": [
+        "સોસ પીરસતાં પહેલાં જ બનાવો; એવોકાડોનો સોસ ઉકાળવાથી રંગ અને તાજો સ્વાદ ઓછો થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/avocado-pasta.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

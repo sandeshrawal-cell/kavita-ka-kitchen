@@ -1,0 +1,186 @@
+{
+  "sourceReviewId": "R3476",
+  "id": "afghani-paneer",
+  "status": "published-popular-200-intake-batch",
+  "name": "Afghani Paneer",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "mint leaves",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak cashews until soft, drain and blend with yogurt, cream, ginger, garlic, chilli, coriander and mint into a smooth green-flecked paste.",
+    "Coat paneer cubes with a little paste and half the salt. Sear in oil until golden on a few sides, then remove.",
+    "Melt butter in the pan and soften finely chopped onion for 8 minutes without browning. Lower heat and stir in remaining paste, water and spices.",
+    "Simmer gently for 8 minutes, stirring often. Add paneer and remaining salt, warm through, then finish with lemon juice off the heat."
+  ],
+  "tips": [
+    "This is the creamy Indian restaurant-style preparation; avoid boiling the yogurt sauce hard."
+  ],
+  "photoDescription": "Restaurant-style Afghani paneer in pale creamy herb-flecked gravy, browned paneer edges with green coriander garnish.",
+  "translations": {
+    "hi": {
+      "name": "अफ़ग़ानी पनीर",
+      "ingredients": [
+        "पनीर",
+        "सादा दही",
+        "क्रीम",
+        "काजू",
+        "प्याज़",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "हरा धनिया",
+        "पुदीना",
+        "मक्खन",
+        "तेल",
+        "पानी",
+        "काली मिर्च",
+        "जीरा पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "काजू नरम भिगोकर निथारें और दही, क्रीम, अदरक, लहसुन, मिर्च, धनिया व पुदीने के साथ चिकना हरा-चित्तीदार पेस्ट पीसें।",
+        "पनीर को थोड़ा पेस्ट और आधा नमक लगाएँ। तेल में कुछ तरफ सुनहरा सेंककर निकालें।",
+        "पैन में मक्खन पिघलाकर बारीक प्याज़ 8 मिनट बिना भूरा किए नरम करें। आँच घटाकर बचा पेस्ट, पानी और मसाले मिलाएँ।",
+        "अक्सर चलाते हुए 8 मिनट धीमे पकाएँ। पनीर और बचा नमक डालकर गरम करें, फिर आँच बंद कर नींबू रस मिलाएँ।"
+      ],
+      "tips": [
+        "यह क्रीमी भारतीय रेस्तराँ शैली का रूप है; दही सॉस को तेज़ न उबालें।"
+      ]
+    },
+    "gu": {
+      "name": "અફઘાની પનીર",
+      "ingredients": [
+        "પનીર",
+        "સાદું દહીં",
+        "ક્રીમ",
+        "કાજુ",
+        "ડુંગળી",
+        "આદુ",
+        "લસણ",
+        "લીલું મરચું",
+        "લીલા ધાણા",
+        "ફુદીનો",
+        "માખણ",
+        "તેલ",
+        "પાણી",
+        "કાળા મરી",
+        "જીરું પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "કાજુ નરમ પલાળી નિતારો અને દહીં, ક્રીમ, આદુ, લસણ, મરચું, ધાણા તથા ફુદીના સાથે લીસી લીલી ચિત્તીવાળી પેસ્ટ પીસો.",
+        "પનીરને થોડી પેસ્ટ અને અડધું મીઠું લગાવો. તેલમાં થોડી બાજુએ સોનેરી શેકીને કાઢો.",
+        "પેનમાં માખણ ઓગાળી ઝીણી ડુંગળી 8 મિનિટ બદામી કર્યા વિના નરમ કરો. તાપ ઘટાડી બાકી પેસ્ટ, પાણી અને મસાલા ભેળવો.",
+        "વારંવાર હલાવતાં 8 મિનિટ ધીમે પકાવો. પનીર અને બાકીનું મીઠું ઉમેરી ગરમ કરો, પછી તાપ બંધ કરી લીંબુનો રસ ભેળવો."
+      ],
+      "tips": [
+        "આ ક્રીમી ભારતીય રેસ્ટોરન્ટ શૈલીનું રૂપ છે; દહીંનો સોસ જોરથી ન ઉકાળો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/afghani-paneer.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

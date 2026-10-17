@@ -1,0 +1,136 @@
+{
+  "sourceReviewId": "R1199",
+  "id": "black-bean-mango-salad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Black Bean Mango Salad",
+  "cuisine": "Mexican",
+  "categories": [
+    "Salads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "cooked drained black beans",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "ripe mango flesh",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "capsicum",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse the cooked black beans and drain thoroughly. Cook sweetcorn in boiling water until tender, then drain and cool.",
+    "Cut mango and capsicum into small cubes; finely chop onion, chilli and coriander.",
+    "Whisk lime juice, olive oil, cumin and salt in a serving bowl until the salt dissolves.",
+    "Add beans, corn and chopped vegetables. Fold in mango and coriander last so the fruit keeps its shape, then serve."
+  ],
+  "tips": [
+    "Use cooked canned beans or beans boiled until completely tender; raw beans are not suitable."
+  ],
+  "photoDescription": "Colorful black bean salad with ripe golden mango cubes, yellow corn, red bell pepper and fresh coriander.",
+  "translations": {
+    "hi": {
+      "name": "ब्लैक बीन आम सलाद",
+      "ingredients": [
+        "पकी निथरी ब्लैक बीन्स",
+        "पके आम का गूदा",
+        "स्वीट कॉर्न के दाने",
+        "शिमला मिर्च",
+        "प्याज़",
+        "हरा धनिया",
+        "नींबू का रस",
+        "जैतून का तेल",
+        "जीरा पाउडर",
+        "नमक",
+        "हरी मिर्च"
+      ],
+      "steps": [
+        "पकी ब्लैक बीन्स धोकर अच्छी तरह निथारें। स्वीट कॉर्न उबलते पानी में नरम पकाएँ, फिर निथारकर ठंडा करें।",
+        "आम और शिमला मिर्च छोटे टुकड़ों में काटें; प्याज़, मिर्च और धनिया बारीक काटें।",
+        "परोसने के कटोरे में नींबू रस, जैतून तेल, जीरा और नमक नमक घुलने तक फेंटें।",
+        "बीन्स, कॉर्न और कटी सब्ज़ियाँ डालें। आम और धनिया अंत में धीरे मिलाएँ ताकि फल साबुत रहे, फिर परोसें।"
+      ],
+      "tips": [
+        "पकी डिब्बाबंद बीन्स या पूरी तरह नरम उबली बीन्स लें; कच्ची बीन्स उपयुक्त नहीं हैं।"
+      ]
+    },
+    "gu": {
+      "name": "કાળા બીન્સ અને કેરીનો સલાડ",
+      "ingredients": [
+        "બાફેલા નિતારેલા કાળા બીન્સ",
+        "પાકેલી કેરીનો ગર્ભ",
+        "સ્વીટ કોર્નના દાણા",
+        "કેપ્સિકમ",
+        "ડુંગળી",
+        "લીલા ધાણા",
+        "લીંબુનો રસ",
+        "ઓલિવ તેલ",
+        "જીરું પાઉડર",
+        "મીઠું",
+        "લીલું મરચું"
+      ],
+      "steps": [
+        "બાફેલા કાળા બીન્સ ધોઈ સારી રીતે નિતારો. સ્વીટ કોર્ન ઉકળતા પાણીમાં નરમ બાફી નિતારો અને ઠંડા કરો.",
+        "કેરી અને કેપ્સિકમના નાના ટુકડા કરો; ડુંગળી, મરચું અને ધાણા ઝીણાં સમારો.",
+        "પીરસવાના બાઉલમાં લીંબુનો રસ, ઓલિવ તેલ, જીરું અને મીઠું ઓગળે ત્યાં સુધી ફેંટો.",
+        "બીન્સ, કોર્ન અને સમારેલું શાક ઉમેરો. કેરી અને ધાણા છેલ્લે હળવેથી ભેળવો જેથી ફળના ટુકડા જળવાય, પછી પીરસો."
+      ],
+      "tips": [
+        "બાફેલા ડબ્બાબંધ બીન્સ અથવા સંપૂર્ણ નરમ બાફેલા બીન્સ લો; કાચા બીન્સ યોગ્ય નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/black-bean-mango-salad.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

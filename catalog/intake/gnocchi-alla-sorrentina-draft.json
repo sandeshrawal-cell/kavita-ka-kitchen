@@ -1,0 +1,122 @@
+{
+  "sourceReviewId": "R3481",
+  "id": "gnocchi-alla-sorrentina",
+  "status": "published-popular-200-intake-batch",
+  "name": "Gnocchi alla Sorrentina",
+  "cuisine": "Italian",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "egg-free potato gnocchi",
+      "qty": 800,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2500,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Soften crushed garlic in olive oil, then add passata, pepper and half the salt.",
+    "Simmer the tomato sauce for 12 minutes until slightly thickened, then tear in half the basil.",
+    "Boil water with remaining salt. Add gnocchi in batches and lift out when they float and are tender, following the packet timing.",
+    "Fold gnocchi into sauce, transfer to a baking dish and scatter torn mozzarella on top. Bake 10 minutes until bubbling; finish with remaining basil."
+  ],
+  "tips": [
+    "Check that packaged gnocchi is egg-free and mozzarella is made with vegetarian rennet."
+  ],
+  "photoDescription": "Soft ridged potato gnocchi in rich red tomato sauce with melted white mozzarella patches, browned spots and fresh basil.",
+  "translations": {
+    "hi": {
+      "name": "न्योकी अल्ला सोरेन्टीना",
+      "ingredients": [
+        "बिना अंडे की आलू न्योकी",
+        "पानी",
+        "छनी टमाटर प्यूरी",
+        "शाकाहारी मोज़रेला चीज़",
+        "लहसुन",
+        "जैतून का तेल",
+        "बेसिल के पत्ते",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 220°C पर गरम करें। जैतून तेल में कुचला लहसुन नरम करें, फिर प्यूरी, काली मिर्च और आधा नमक डालें।",
+        "टमाटर सॉस 12 मिनट थोड़ा गाढ़ा होने तक धीमे पकाएँ, फिर आधा बेसिल तोड़कर डालें।",
+        "बचे नमक के साथ पानी उबालें। न्योकी थोड़ी-थोड़ी डालें और पैकेट के समय अनुसार तैरने व नरम होने पर निकालें।",
+        "न्योकी सॉस में मिलाकर बेकिंग डिश में रखें और ऊपर मोज़रेला तोड़कर डालें। 10 मिनट बुलबुले आने तक बेक करें; बचा बेसिल डालें।"
+      ],
+      "tips": [
+        "जाँचें कि पैकेट की न्योकी बिना अंडे की और मोज़रेला शाकाहारी रेनेट से बना हो।"
+      ]
+    },
+    "gu": {
+      "name": "ન્યોકી અલ્લા સોરેન્ટીના",
+      "ingredients": [
+        "ઇંડા વિનાની બટાકાની ન્યોકી",
+        "પાણી",
+        "ગાળેલી ટામેટાંની પ્યુરી",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "બેસિલનાં પાન",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ઓવન 220°C પર ગરમ કરો. ઓલિવ તેલમાં કચડેલું લસણ નરમ કરો, પછી પ્યુરી, મરી અને અડધું મીઠું ઉમેરો.",
+        "ટામેટાંનો સોસ 12 મિનિટ સહેજ ઘટ્ટ થાય ત્યાં સુધી ધીમે પકાવો, પછી અડધું બેસિલ તોડીને ઉમેરો.",
+        "બાકીનું મીઠું નાખી પાણી ઉકાળો. ન્યોકી થોડી થોડી નાખો અને પેકેટના સમય પ્રમાણે તરવા લાગે અને નરમ થાય ત્યારે કાઢો.",
+        "ન્યોકી સોસમાં ભેળવી બેકિંગ ડિશમાં મૂકો અને ઉપર મોઝરેલા તોડીને નાખો. 10 મિનિટ પરપોટા આવે ત્યાં સુધી બેક કરો; બાકીનું બેસિલ ઉમેરો."
+      ],
+      "tips": [
+        "પેકેટની ન્યોકી ઇંડા વિનાની અને મોઝરેલા શાકાહારી રેનેટથી બનેલી હોય તે તપાસો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/gnocchi-alla-sorrentina.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

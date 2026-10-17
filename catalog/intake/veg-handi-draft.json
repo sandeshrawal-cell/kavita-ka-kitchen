@@ -1,0 +1,207 @@
+{
+  "sourceReviewId": "R3412",
+  "id": "veg-handi",
+  "status": "published-popular-200-intake-batch",
+  "name": "Veg Handi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 350,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut vegetables into bite-size pieces. Heat oil in a heavy pot, bloom cumin and cook chopped onion for 8 minutes until golden.",
+    "Add minced ginger and garlic, then chopped tomatoes, turmeric, chilli, coriander powder and salt. Cook 8 minutes until the tomatoes break down.",
+    "Lower heat and stir in whisked yogurt. Add potatoes, carrots, beans and water; cover and simmer 10 minutes, then add cauliflower and peas.",
+    "Cook for 8–10 minutes until all vegetables are tender. Finish with cream, garam masala, crushed fenugreek and coriander; heat gently before serving."
+  ],
+  "tips": [
+    "Keep the vegetables distinct rather than mashing them; add a splash of water if the handi dries out."
+  ],
+  "photoDescription": "Mixed vegetable handi curry with cauliflower, carrots, green beans, peas and potatoes in thick orange onion-tomato gravy.",
+  "translations": {
+    "hi": {
+      "name": "वेज हांडी",
+      "ingredients": [
+        "गाजर",
+        "फ्रेंच बीन्स",
+        "फूलगोभी",
+        "हरे मटर",
+        "आलू",
+        "प्याज़",
+        "टमाटर",
+        "सादा दही",
+        "क्रीम",
+        "अदरक",
+        "लहसुन",
+        "तेल",
+        "पानी",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सब्ज़ियाँ खाने योग्य छोटे टुकड़ों में काटें। भारी पतीले में तेल गरम कर जीरा चटकाएँ और कटा प्याज़ 8 मिनट सुनहरा पकाएँ।",
+        "बारीक अदरक-लहसुन, फिर कटे टमाटर, हल्दी, मिर्च, धनिया पाउडर और नमक डालें। टमाटर गलने तक 8 मिनट पकाएँ।",
+        "आँच कम कर फेंटा दही मिलाएँ। आलू, गाजर, बीन्स और पानी डालें; ढककर 10 मिनट पकाएँ, फिर फूलगोभी व मटर डालें।",
+        "सभी सब्ज़ियाँ नरम होने तक 8–10 मिनट पकाएँ। क्रीम, गरम मसाला, मसली मेथी और धनिया डालकर हल्का गरम करें और परोसें।"
+      ],
+      "tips": [
+        "सब्ज़ियों को मसलने के बजाय साबुत रखें; हांडी सूखने लगे तो थोड़ा पानी डालें।"
+      ]
+    },
+    "gu": {
+      "name": "વેજ હાંડી",
+      "ingredients": [
+        "ગાજર",
+        "ફણસી",
+        "ફૂલકોબી",
+        "લીલા વટાણા",
+        "બટાકા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "સાદું દહીં",
+        "ક્રીમ",
+        "આદુ",
+        "લસણ",
+        "તેલ",
+        "પાણી",
+        "જીરું",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "શાકના નાના ટુકડા કરો. ભારે વાસણમાં તેલ ગરમ કરી જીરું તતડાવો અને સમારેલી ડુંગળી 8 મિનિટ સોનેરી પકાવો.",
+        "ઝીણાં આદુ-લસણ, પછી સમારેલા ટામેટાં, હળદર, મરચું, ધાણા પાઉડર અને મીઠું ઉમેરો. ટામેટાં ગળે ત્યાં સુધી 8 મિનિટ પકાવો.",
+        "તાપ ધીમો કરી ફેંટેલું દહીં ભેળવો. બટાકા, ગાજર, ફણસી અને પાણી ઉમેરો; ઢાંકી 10 મિનિટ પકાવો, પછી ફૂલકોબી અને વટાણા ઉમેરો.",
+        "બધાં શાક નરમ થાય ત્યાં સુધી 8–10 મિનિટ પકાવો. ક્રીમ, ગરમ મસાલો, મસળેલી મેથી અને ધાણા ઉમેરી હળવે ગરમ કરી પીરસો."
+      ],
+      "tips": [
+        "શાકને મસળવાને બદલે ટુકડા જાળવો; હાંડી સૂકાવા લાગે તો થોડું પાણી ઉમેરો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/veg-handi.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

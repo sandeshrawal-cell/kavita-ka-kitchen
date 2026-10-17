@@ -1,0 +1,129 @@
+{
+  "sourceReviewId": "R1136",
+  "id": "orzo-salad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Orzo Salad",
+  "cuisine": "Mediterranean",
+  "categories": [
+    "Salads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "dry egg-free orzo pasta",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2000,
+      "unit": "ml"
+    },
+    {
+      "name": "cucumber",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian feta cheese",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "parsley",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil water with half the salt. Add orzo and cook for the packet time until just tender; drain and spread on a tray to cool.",
+    "Dice cucumber, halve tomatoes and finely chop parsley. Pat the vegetables dry so they do not dilute the dressing.",
+    "Whisk olive oil, lemon juice, remaining salt and pepper in a large bowl until combined.",
+    "Fold the cooled orzo and vegetables into the dressing. Crumble feta over the top, add parsley and serve."
+  ],
+  "tips": [
+    "Use feta made with vegetarian or microbial rennet; keep the finished salad refrigerated until serving."
+  ],
+  "photoDescription": "Rice-shaped orzo pasta salad with diced cucumber, cherry tomato halves, white feta crumbles and parsley, glossy lemon dressing.",
+  "translations": {
+    "hi": {
+      "name": "ओरज़ो सलाद",
+      "ingredients": [
+        "सूखा बिना अंडे का ओरज़ो पास्ता",
+        "पानी",
+        "खीरा",
+        "चेरी टमाटर",
+        "शाकाहारी फ़ेटा चीज़",
+        "जैतून का तेल",
+        "नींबू का रस",
+        "पार्सले",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "आधे नमक के साथ पानी उबालें। ओरज़ो डालकर पैकेट पर दिए समय तक नरम पकाएँ; निथारकर थाली में ठंडा करें।",
+        "खीरा काटें, टमाटर आधे करें और पार्सले बारीक काटें। सब्ज़ियाँ पोंछ लें ताकि ड्रेसिंग पतली न हो।",
+        "बड़े कटोरे में जैतून तेल, नींबू रस, बचा नमक और काली मिर्च फेंटकर मिलाएँ।",
+        "ठंडा ओरज़ो और सब्ज़ियाँ ड्रेसिंग में मिलाएँ। ऊपर फ़ेटा मसलकर डालें, पार्सले मिलाएँ और परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी या माइक्रोबियल रेनेट वाला फ़ेटा लें; परोसने तक सलाद फ़्रिज में रखें।"
+      ]
+    },
+    "gu": {
+      "name": "ઓર્ઝો સલાડ",
+      "ingredients": [
+        "સૂકો ઇંડા વિનાનો ઓર્ઝો પાસ્તા",
+        "પાણી",
+        "કાકડી",
+        "ચેરી ટામેટાં",
+        "શાકાહારી ફેટા ચીઝ",
+        "ઓલિવ તેલ",
+        "લીંબુનો રસ",
+        "પાર્સલી",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "અડધા મીઠા સાથે પાણી ઉકાળો. ઓર્ઝો ઉમેરી પેકેટ પર આપેલા સમય સુધી નરમ બાફો; નિતારીને થાળીમાં ઠંડો કરો.",
+        "કાકડી સમારો, ટામેટાં અડધાં કરો અને પાર્સલી ઝીણી સમારો. શાક કોરાં કરો જેથી ડ્રેસિંગ પાતળું ન થાય.",
+        "મોટા બાઉલમાં ઓલિવ તેલ, લીંબુનો રસ, બાકીનું મીઠું અને મરી ફેંટીને ભેળવો.",
+        "ઠંડો ઓર્ઝો અને શાક ડ્રેસિંગમાં ભેળવો. ઉપર ફેટાનો ભૂકો અને પાર્સલી ઉમેરી પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી અથવા માઇક્રોબિયલ રેનેટવાળો ફેટા લો; પીરસવા સુધી સલાડ ફ્રિજમાં રાખો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/orzo-salad.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,189 @@
+{
+  "sourceReviewId": "R3404",
+  "id": "paneer-changezi",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Changezi",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 45,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Coat paneer cubes with a little yogurt, half the Kashmiri chilli and a pinch of the salt. Sear in half the oil until lightly golden and remove.",
+    "Heat remaining oil and butter. Brown chopped onion for 10 minutes, then add ginger and garlic and cook until fragrant.",
+    "Blend tomatoes and cashews, add to the pan with coriander, cumin and remaining chilli powder. Cook 10 minutes until thick and oil appears at the edges.",
+    "Lower the heat and stir in remaining whisked yogurt gradually. Add water and remaining salt; simmer for 8 minutes, stirring often.",
+    "Add paneer, cream, garam masala and crushed fenugreek. Heat gently for 4 minutes and finish with coriander."
+  ],
+  "tips": [
+    "Cook the tomato base well before adding yogurt; the finished gravy should be thick, not watery."
+  ],
+  "photoDescription": "Thick rich reddish orange Changezi gravy clinging to browned paneer cubes with cream drizzle and fresh coriander.",
+  "translations": {
+    "hi": {
+      "name": "पनीर चंगेज़ी",
+      "ingredients": [
+        "पनीर",
+        "सादा दही",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "काजू",
+        "क्रीम",
+        "पानी",
+        "तेल",
+        "मक्खन",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "जीरा पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पनीर को थोड़ा दही, आधी कश्मीरी मिर्च और थोड़े नमक से लपेटें। आधे तेल में हल्का सुनहरा सेंककर निकालें।",
+        "बचा तेल और मक्खन गरम करें। कटा प्याज़ 10 मिनट भूरा करें, फिर अदरक व लहसुन सुगंध आने तक पकाएँ।",
+        "टमाटर और काजू पीसकर धनिया, जीरा व बची मिर्च के साथ पैन में डालें। 10 मिनट गाढ़ा होने और किनारों पर तेल दिखने तक पकाएँ।",
+        "आँच घटाकर बचा फेंटा दही धीरे मिलाएँ। पानी और बचा नमक डालें; अक्सर चलाते हुए 8 मिनट धीमे पकाएँ।",
+        "पनीर, क्रीम, गरम मसाला और मसली मेथी डालें। 4 मिनट हल्का गरम करें और धनिया डालें।"
+      ],
+      "tips": [
+        "दही डालने से पहले टमाटर का आधार अच्छी तरह पकाएँ; तैयार ग्रेवी गाढ़ी होनी चाहिए, पानीदार नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર ચંગેઝી",
+      "ingredients": [
+        "પનીર",
+        "સાદું દહીં",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "કાજુ",
+        "ક્રીમ",
+        "પાણી",
+        "તેલ",
+        "માખણ",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "જીરું પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "પનીરને થોડા દહીં, અડધા કાશ્મીરી મરચાં અને થોડા મીઠાથી લેપો. અડધા તેલમાં હળવું સોનેરી શેકીને કાઢો.",
+        "બાકીનું તેલ અને માખણ ગરમ કરો. સમારેલી ડુંગળી 10 મિનિટ બદામી કરો, પછી આદુ અને લસણ સુગંધ આવે ત્યાં સુધી પકાવો.",
+        "ટામેટાં અને કાજુ પીસી ધાણા, જીરું અને બાકીના મરચાં સાથે પેનમાં ઉમેરો. 10 મિનિટ ઘટ્ટ થાય અને કિનારે તેલ દેખાય ત્યાં સુધી પકાવો.",
+        "તાપ ઘટાડી બાકીનું ફેંટેલું દહીં ધીમે ભેળવો. પાણી અને બાકીનું મીઠું ઉમેરો; વારંવાર હલાવતાં 8 મિનિટ ધીમે પકાવો.",
+        "પનીર, ક્રીમ, ગરમ મસાલો અને મસળેલી મેથી ઉમેરો. 4 મિનિટ હળવે ગરમ કરી ધાણા ઉમેરો."
+      ],
+      "tips": [
+        "દહીં પહેલાં ટામેટાંનો આધાર સારી રીતે પકાવો; તૈયાર ગ્રેવી ઘટ્ટ હોવી જોઈએ, પાણીદાર નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paneer-changezi.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

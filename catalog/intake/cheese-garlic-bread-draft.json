@@ -1,0 +1,100 @@
+{
+  "sourceReviewId": "R3594",
+  "id": "cheese-garlic-bread",
+  "status": "published-popular-200-intake-batch",
+  "name": "Cheese Garlic Bread",
+  "cuisine": "Italian Inspired",
+  "categories": [
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "egg-free bread",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 45,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Cut the bread into thick slices and arrange on a baking tray.",
+    "Soften the butter; mix in finely grated garlic, oregano and chopped coriander until evenly combined.",
+    "Spread garlic butter across the bread edges and centres, then cover with grated mozzarella.",
+    "Bake for 10–12 minutes until the edges are crisp and the cheese bubbles; serve warm."
+  ],
+  "tips": [
+    "Choose cheese labelled vegetarian or made with microbial rennet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "चीज़ गार्लिक ब्रेड",
+      "ingredients": [
+        "बिना अंडे की ब्रेड",
+        "मक्खन",
+        "लहसुन",
+        "शाकाहारी मोज़रेला",
+        "सूखा ओरिगैनो",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें। ब्रेड के मोटे स्लाइस काटकर बेकिंग ट्रे पर रखें।",
+        "मक्खन नरम करें; बारीक कसा लहसुन, ओरिगैनो और कटा धनिया अच्छी तरह मिलाएँ।",
+        "ब्रेड के बीच और किनारों तक लहसुन वाला मक्खन लगाएँ, फिर कसा मोज़रेला डालें।",
+        "10–12 मिनट किनारे कुरकुरे और चीज़ पिघलने तक बेक करें; गरम परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी या माइक्रोबियल रेनेट से बना चीज़ चुनें।"
+      ]
+    },
+    "gu": {
+      "name": "ચીઝ ગાર્લિક બ્રેડ",
+      "ingredients": [
+        "ઈંડા વિનાની બ્રેડ",
+        "માખણ",
+        "લસણ",
+        "શાકાહારી મોઝરેલા",
+        "સૂકો ઓરેગાનો",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો. બ્રેડના જાડા ટુકડા કાપી બેકિંગ ટ્રે પર ગોઠવો.",
+        "માખણ નરમ કરો; ઝીણું છીણેલું લસણ, ઓરેગાનો અને સમારેલા ધાણા ભેળવો.",
+        "બ્રેડની વચ્ચે અને કિનારી સુધી લસણવાળું માખણ લગાવી છીણેલું મોઝરેલા પાથરો.",
+        "10–12 મિનિટ કિનારી કરકરી થાય અને ચીઝ પીગળે ત્યાં સુધી બેક કરો; ગરમ પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી અથવા માઇક્રોબિયલ રેનેટવાળું ચીઝ પસંદ કરો."
+      ]
+    }
+  },
+  "photoDescription": "Golden toasted bread slices with bubbling melted mozzarella, tiny garlic pieces and herb flecks.",
+  "photoDraft": "catalog/intake/photos/cheese-garlic-bread.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

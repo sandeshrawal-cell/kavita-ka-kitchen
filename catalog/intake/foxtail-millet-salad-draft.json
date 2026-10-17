@@ -1,0 +1,136 @@
+{
+  "sourceReviewId": "R1166",
+  "id": "foxtail-millet-salad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Foxtail Millet Salad",
+  "cuisine": "Indian",
+  "categories": [
+    "Salads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "foxtail millet",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 500,
+      "unit": "ml"
+    },
+    {
+      "name": "cucumber",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "carrots",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse millet thoroughly, drain and put in a saucepan with water and half the salt.",
+    "Bring to a boil, cover and simmer gently for 15 minutes. Turn off the heat and rest covered for 5 minutes, then fluff and cool.",
+    "Dice cucumber and tomatoes, grate carrot and chop coriander. Whisk oil, lemon juice, cumin, pepper and remaining salt.",
+    "Combine cooled millet with vegetables and dressing, separating any clumps gently. Taste and serve at room temperature."
+  ],
+  "tips": [
+    "Allow the grain to cool before adding vegetables so the cucumber stays crisp."
+  ],
+  "photoDescription": "Fluffy tiny pale yellow foxtail millet grains tossed with cucumber, tomato, shredded carrot and green coriander.",
+  "translations": {
+    "hi": {
+      "name": "कंगनी सलाद",
+      "ingredients": [
+        "कंगनी",
+        "पानी",
+        "खीरा",
+        "टमाटर",
+        "गाजर",
+        "हरा धनिया",
+        "जैतून का तेल",
+        "नींबू का रस",
+        "जीरा पाउडर",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "कंगनी अच्छी तरह धोकर निथारें और पानी व आधे नमक के साथ पतीले में डालें।",
+        "उबाल आने पर ढककर धीमी आँच पर 15 मिनट पकाएँ। आँच बंद करके ढका हुआ 5 मिनट रखें, फिर फुलाकर ठंडा करें।",
+        "खीरा और टमाटर काटें, गाजर कसें और धनिया काटें। तेल, नींबू रस, जीरा, काली मिर्च और बचा नमक फेंटें।",
+        "ठंडी कंगनी में सब्ज़ियाँ और ड्रेसिंग मिलाएँ, गुठलियाँ धीरे खोलें। स्वाद जाँचकर सामान्य तापमान पर परोसें।"
+      ],
+      "tips": [
+        "सब्ज़ियाँ मिलाने से पहले अनाज ठंडा करें ताकि खीरा कुरकुरा रहे।"
+      ]
+    },
+    "gu": {
+      "name": "કાંગનો સલાડ",
+      "ingredients": [
+        "કાંગ",
+        "પાણી",
+        "કાકડી",
+        "ટામેટાં",
+        "ગાજર",
+        "લીલા ધાણા",
+        "ઓલિવ તેલ",
+        "લીંબુનો રસ",
+        "જીરું પાઉડર",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "કાંગ સારી રીતે ધોઈ નિતારો અને પાણી તથા અડધા મીઠા સાથે તપેલીમાં નાખો.",
+        "ઉકળે પછી ઢાંકી ધીમા તાપે 15 મિનિટ પકાવો. તાપ બંધ કરી ઢાંકેલું 5 મિનિટ રાખો, પછી છૂટું કરીને ઠંડું કરો.",
+        "કાકડી અને ટામેટાં સમારો, ગાજર ખમણો અને ધાણા સમારો. તેલ, લીંબુનો રસ, જીરું, મરી અને બાકીનું મીઠું ફેંટો.",
+        "ઠંડી કાંગમાં શાક અને ડ્રેસિંગ ભેળવો, ગાંઠો હળવેથી છૂટી કરો. સ્વાદ તપાસી સામાન્ય તાપમાને પીરસો."
+      ],
+      "tips": [
+        "શાક ઉમેરતાં પહેલાં અનાજ ઠંડું કરો જેથી કાકડી કરકરી રહે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/foxtail-millet-salad.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

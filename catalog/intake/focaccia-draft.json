@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R0864",
+  "id": "focaccia",
+  "status": "published-popular-200-intake-batch",
+  "name": "Focaccia",
+  "cuisine": "Italian",
+  "categories": [
+    "Breads",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 380,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "fresh rosemary",
+      "qty": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast and salt in a large bowl. Add lukewarm water and 25 ml olive oil; stir until no dry flour remains.",
+    "Cover the sticky dough and let it rise until doubled, about 90 minutes. With wet hands, fold the edges towards the centre a few times.",
+    "Oil a 23 × 33 cm tray with 20 ml oil. Transfer dough and gently stretch to fit; cover and rise for 45 minutes until puffy.",
+    "Heat the oven to 220°C. Drizzle remaining oil over the dough, press deep dimples with fingertips and scatter rosemary.",
+    "Bake for 25–30 minutes until deeply golden and crisp underneath. Lift onto a rack and cool before cutting into portions."
+  ],
+  "tips": [
+    "This dough should stay sticky; adding extra flour makes the bread dense."
+  ],
+  "photoDescription": "Thick airy golden focaccia bread with deep olive-oil dimples, rosemary needles, crisp edges and open crumb in a cut slice.",
+  "translations": {
+    "hi": {
+      "name": "फ़ोकाचा",
+      "ingredients": [
+        "मैदा",
+        "पानी",
+        "इंस्टेंट यीस्ट",
+        "जैतून का तेल",
+        "नमक",
+        "ताज़ी रोज़मेरी"
+      ],
+      "steps": [
+        "बड़े कटोरे में मैदा, यीस्ट और नमक मिलाएँ। गुनगुना पानी और 25 मिली जैतून तेल डालकर सूखा मैदा न रहने तक चलाएँ।",
+        "चिपचिपा आटा ढककर लगभग 90 मिनट दोगुना फूलने दें। गीले हाथों से किनारे बीच की ओर कुछ बार मोड़ें।",
+        "23 × 33 सेमी ट्रे में 20 मिली तेल लगाएँ। आटा रखकर धीरे फैलाएँ; ढककर 45 मिनट फूला हुआ होने तक रखें।",
+        "ओवन 220°C पर गरम करें। आटे पर बचा तेल डालें, उँगलियों से गहरे गड्ढे दबाएँ और रोज़मेरी छिड़कें।",
+        "25–30 मिनट गहरा सुनहरा और नीचे कुरकुरा होने तक बेक करें। जाली पर निकालकर काटने से पहले ठंडा करें।"
+      ],
+      "tips": [
+        "यह आटा चिपचिपा ही रहना चाहिए; अधिक मैदा डालने से ब्रेड भारी होती है।"
+      ],
+      "passiveTime": "आटा फूलने के लिए 2–3 घंटे रखें।"
+    },
+    "gu": {
+      "name": "ફોકાચા",
+      "ingredients": [
+        "મેંદો",
+        "પાણી",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ઓલિવ તેલ",
+        "મીઠું",
+        "તાજી રોઝમેરી"
+      ],
+      "steps": [
+        "મોટા બાઉલમાં મેંદો, યીસ્ટ અને મીઠું ભેળવો. નવશેકું પાણી અને 25 મિલી ઓલિવ તેલ ઉમેરી કોરો મેંદો ન રહે ત્યાં સુધી હલાવો.",
+        "ચીકણો લોટ ઢાંકી લગભગ 90 મિનિટ બમણો ફૂલવા દો. ભીના હાથથી કિનારા વચ્ચે તરફ થોડી વાર વાળો.",
+        "23 × 33 સેમીની ટ્રેમાં 20 મિલી તેલ લગાવો. લોટ મૂકી હળવેથી ફેલાવો; ઢાંકી 45 મિનિટ ફૂલે ત્યાં સુધી રાખો.",
+        "ઓવન 220°C પર ગરમ કરો. લોટ પર બાકીનું તેલ રેડો, આંગળીઓથી ઊંડા ખાડા પાડો અને રોઝમેરી ભભરાવો.",
+        "25–30 મિનિટ ઘેરું સોનેરી અને નીચેથી કરકરું થાય ત્યાં સુધી બેક કરો. જાળી પર કાઢી કાપતાં પહેલાં ઠંડું કરો."
+      ],
+      "tips": [
+        "આ લોટ ચીકણો જ રહેવો જોઈએ; વધુ મેંદો ઉમેરવાથી બ્રેડ ભારે થાય છે."
+      ],
+      "passiveTime": "લોટ ફૂલવા માટે 2–3 કલાક રાખો."
+    }
+  },
+  "passiveTime": "Allow 2–3 hours for dough rising.",
+  "photoDraft": "catalog/intake/photos/focaccia.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

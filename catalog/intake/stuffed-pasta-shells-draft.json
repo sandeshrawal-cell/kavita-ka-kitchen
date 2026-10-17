@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R3426",
+  "id": "stuffed-pasta-shells",
+  "status": "published-popular-200-intake-batch",
+  "name": "Stuffed Pasta Shells",
+  "cuisine": "Italian",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "dry egg-free jumbo pasta shells",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 2500,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian ricotta cheese",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 650,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190°C. Boil pasta shells in salted water for 2 minutes less than packet instructions; drain and separate on a tray.",
+    "Wilt spinach, cool and squeeze dry before chopping. Mix with ricotta, half the mozzarella and pepper.",
+    "Cook garlic in olive oil until fragrant. Stir in passata, oregano and remaining salt and simmer 8 minutes.",
+    "Spread sauce in a baking dish. Fill each shell with the spinach mixture, arrange open side up and scatter remaining mozzarella.",
+    "Cover and bake 20 minutes, then uncover for 10 minutes until the filling is hot and cheese lightly browned."
+  ],
+  "tips": [
+    "Use egg-free shells and cheeses labelled suitable for vegetarians."
+  ],
+  "photoDescription": "Jumbo curved pasta shells holding white ricotta and green spinach, nestled in red tomato sauce with melted mozzarella.",
+  "translations": {
+    "hi": {
+      "name": "भरे हुए पास्ता शेल",
+      "ingredients": [
+        "सूखे बिना अंडे के बड़े पास्ता शेल",
+        "पानी",
+        "शाकाहारी रिकोटा चीज़",
+        "पालक",
+        "शाकाहारी मोज़रेला चीज़",
+        "छनी टमाटर प्यूरी",
+        "जैतून का तेल",
+        "लहसुन",
+        "सूखा ओरेगानो",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 190°C पर गरम करें। पास्ता शेल नमकीन पानी में पैकेट के समय से 2 मिनट कम पकाएँ; निथारकर थाली में अलग रखें।",
+        "पालक नरम पकाएँ, ठंडा करके निचोड़ें और काटें। रिकोटा, आधा मोज़रेला और काली मिर्च मिलाएँ।",
+        "जैतून तेल में लहसुन सुगंध आने तक पकाएँ। प्यूरी, ओरेगानो और बचा नमक मिलाकर 8 मिनट धीमे पकाएँ।",
+        "बेकिंग डिश में सॉस फैलाएँ। हर शेल पालक मिश्रण से भरें, खुला भाग ऊपर रखें और बचा मोज़रेला छिड़कें।",
+        "ढककर 20 मिनट बेक करें, फिर खोलकर 10 मिनट भरावन गरम और चीज़ हल्का भूरा होने तक पकाएँ।"
+      ],
+      "tips": [
+        "बिना अंडे के शेल और शाकाहारी उपयोग के लिए चिह्नित चीज़ लें।"
+      ]
+    },
+    "gu": {
+      "name": "ભરેલા પાસ્તા શેલ",
+      "ingredients": [
+        "સૂકા ઇંડા વિનાના મોટા પાસ્તા શેલ",
+        "પાણી",
+        "શાકાહારી રિકોટા ચીઝ",
+        "પાલક",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "ગાળેલી ટામેટાંની પ્યુરી",
+        "ઓલિવ તેલ",
+        "લસણ",
+        "સૂકું ઓરેગાનો",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ઓવન 190°C પર ગરમ કરો. પાસ્તા શેલ મીઠાવાળા પાણીમાં પેકેટના સમયથી 2 મિનિટ ઓછા બાફો; નિતારી થાળીમાં છૂટા મૂકો.",
+        "પાલક નરમ પકાવો, ઠંડી કરી નિચોવો અને સમારો. રિકોટા, અડધી મોઝરેલા અને મરી ભેળવો.",
+        "ઓલિવ તેલમાં લસણ સુગંધ આવે ત્યાં સુધી પકાવો. પ્યુરી, ઓરેગાનો અને બાકીનું મીઠું ભેળવી 8 મિનિટ ધીમે પકાવો.",
+        "બેકિંગ ડિશમાં સોસ ફેલાવો. દરેક શેલ પાલકના મિશ્રણથી ભરો, ખુલ્લો ભાગ ઉપર રાખો અને બાકીનું મોઝરેલા ભભરાવો.",
+        "ઢાંકી 20 મિનિટ બેક કરો, પછી ખોલીને 10 મિનિટ પૂરણી ગરમ અને ચીઝ હળવું બદામી થાય ત્યાં સુધી પકાવો."
+      ],
+      "tips": [
+        "ઇંડા વિનાના શેલ અને શાકાહારી માટે યોગ્ય લખેલી ચીઝ લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/stuffed-pasta-shells.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

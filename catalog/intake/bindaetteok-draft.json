@@ -1,0 +1,160 @@
+{
+  "sourceReviewId": "R2951",
+  "id": "bindaetteok",
+  "status": "published-popular-200-intake-batch",
+  "name": "Bindaetteok",
+  "cuisine": "Korean",
+  "categories": [
+    "Snacks",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "griddle",
+  "ingredients": [
+    {
+      "name": "split yellow mung dal",
+      "qty": 240,
+      "unit": "g"
+    },
+    {
+      "name": "glutinous rice",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "vegan cabbage kimchi",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "mung bean sprouts",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "spring onions",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "sesame oil",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 65,
+      "unit": "ml"
+    },
+    {
+      "name": "soy sauce",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "rice vinegar",
+      "qty": 20,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak rinsed mung dal and glutinous rice in plenty of water, then drain. Blend with the measured water into a thick, slightly textured batter.",
+    "Chop kimchi, sprouts, spring onions and mushrooms finely. Mix into batter with garlic, salt, pepper and sesame oil.",
+    "Heat some oil in a heavy pan. Spread small thick pancakes and cook over medium heat for 4 minutes per side until golden and cooked through.",
+    "Repeat with remaining batter and oil. Mix soy sauce with vinegar for dipping, and serve the pancakes while the edges are crisp."
+  ],
+  "tips": [
+    "Choose explicitly vegan kimchi. This vegetable version uses mung beans to bind the pancakes without eggs."
+  ],
+  "photoDescription": "Rustic thick golden Korean mung bean pancakes with crisp edges, visible sprouts, kimchi and green onion, soy-vinegar dipping bowl.",
+  "translations": {
+    "hi": {
+      "name": "बिन्डेट्टोक",
+      "ingredients": [
+        "पीली मूंग दाल",
+        "चिपचिपा चावल",
+        "पानी",
+        "वीगन पत्तागोभी किमची",
+        "मूंग अंकुर",
+        "हरा प्याज़",
+        "बटन मशरूम",
+        "लहसुन",
+        "नमक",
+        "काली मिर्च",
+        "तिल का तेल",
+        "तेल",
+        "सोया सॉस",
+        "चावल का सिरका"
+      ],
+      "steps": [
+        "धुली मूंग दाल और चिपचिपे चावल पर्याप्त पानी में भिगोकर निथारें। मापे पानी के साथ गाढ़ा, थोड़ा दानेदार घोल पीसें।",
+        "किमची, अंकुर, हरा प्याज़ और मशरूम बारीक काटें। लहसुन, नमक, काली मिर्च व तिल तेल के साथ घोल में मिलाएँ।",
+        "भारी पैन में थोड़ा तेल गरम करें। छोटे मोटे पैनकेक फैलाएँ और मध्यम आँच पर हर तरफ 4 मिनट सुनहरा व अंदर तक पकाएँ।",
+        "बचे घोल और तेल से दोहराएँ। डुबाने के लिए सोया सॉस में सिरका मिलाएँ और किनारे कुरकुरे रहते पैनकेक परोसें।"
+      ],
+      "tips": [
+        "स्पष्ट रूप से वीगन लिखी किमची लें। इस सब्ज़ी वाले रूप में मूंग दाल बिना अंडे पैनकेक बाँधती है।"
+      ],
+      "passiveTime": "मूंग दाल और चिपचिपा चावल 6 घंटे भिगोएँ।"
+    },
+    "gu": {
+      "name": "બિન્દેત્તોક",
+      "ingredients": [
+        "પીળી મગની દાળ",
+        "ચીકણા ચોખા",
+        "પાણી",
+        "વીગન કોબીની કિમચી",
+        "મગના ફણગા",
+        "લીલી ડુંગળી",
+        "બટન મશરૂમ",
+        "લસણ",
+        "મીઠું",
+        "કાળા મરી",
+        "તલનું તેલ",
+        "તેલ",
+        "સોયા સોસ",
+        "ચોખાનો વિનેગર"
+      ],
+      "steps": [
+        "ધોયેલી મગની દાળ અને ચીકણા ચોખા પૂરતા પાણીમાં પલાળી નિતારો. માપેલા પાણી સાથે ઘટ્ટ, થોડું દાણાદાર ખીરું પીસો.",
+        "કિમચી, ફણગા, લીલી ડુંગળી અને મશરૂમ ઝીણાં સમારો. લસણ, મીઠું, મરી અને તલના તેલ સાથે ખીરામાં ભેળવો.",
+        "ભારે પેનમાં થોડું તેલ ગરમ કરો. નાના જાડા પેનકેક ફેલાવી મધ્યમ તાપે દરેક બાજુ 4 મિનિટ સોનેરી અને અંદર સુધી પકાવો.",
+        "બાકી ખીરા અને તેલથી ફરી બનાવો. ડુબાડવા માટે સોયા સોસમાં વિનેગર ભેળવો અને કિનારા કરકરા હોય ત્યારે પેનકેક પીરસો."
+      ],
+      "tips": [
+        "સ્પષ્ટ રીતે વીગન લખેલી કિમચી લો. આ શાકવાળા રૂપમાં મગની દાળ ઇંડા વિના પેનકેક બાંધે છે."
+      ],
+      "passiveTime": "મગની દાળ અને ચીકણા ચોખા 6 કલાક પલાળો."
+    }
+  },
+  "passiveTime": "Soak mung dal and glutinous rice for 6 hours.",
+  "photoDraft": "catalog/intake/photos/bindaetteok.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

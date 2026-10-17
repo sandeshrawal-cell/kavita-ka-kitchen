@@ -1,0 +1,214 @@
+{
+  "sourceReviewId": "R3419",
+  "id": "vegetable-chettinad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Vegetable Chettinad",
+  "cuisine": "Tamil",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "potatoes",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "fresh grated coconut",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "fennel seeds",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cloves",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toast coconut, cumin, fennel, pepper, cinnamon and cloves in a dry pan until aromatic and lightly golden. Cool and grind with coriander powder, chilli and a little measured water.",
+    "Heat oil, add curry leaves and chopped onion and cook 7 minutes. Add ginger, garlic and tomatoes and cook until pulpy.",
+    "Add the ground paste and turmeric; stir for 3 minutes. Add cubed potatoes, carrots and beans with salt and remaining water; cover and simmer 10 minutes.",
+    "Add cauliflower and simmer another 10 minutes until vegetables are tender and the gravy clings to them. Garnish with coriander."
+  ],
+  "tips": [
+    "Toast the coconut gently; burnt coconut will make the whole gravy bitter."
+  ],
+  "photoDescription": "Dark orange-brown Chettinad mixed vegetable curry with visible coconut-spice texture, curry leaves, cauliflower and carrots.",
+  "translations": {
+    "hi": {
+      "name": "वेजिटेबल चेट्टिनाड",
+      "ingredients": [
+        "गाजर",
+        "फ्रेंच बीन्स",
+        "फूलगोभी",
+        "आलू",
+        "प्याज़",
+        "टमाटर",
+        "ताज़ा कसा नारियल",
+        "अदरक",
+        "लहसुन",
+        "तेल",
+        "पानी",
+        "धनिया पाउडर",
+        "जीरा",
+        "सौंफ",
+        "काली मिर्च",
+        "लाल मिर्च पाउडर",
+        "दालचीनी",
+        "लौंग",
+        "करी पत्ते",
+        "हल्दी",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "सूखे पैन में नारियल, जीरा, सौंफ, काली मिर्च, दालचीनी और लौंग हल्के सुनहरे सुगंधित करें। ठंडा कर धनिया पाउडर, मिर्च और थोड़ा मापा पानी डालकर पीसें।",
+        "तेल गरम कर करी पत्ते और कटा प्याज़ 7 मिनट पकाएँ। अदरक, लहसुन और टमाटर डालकर गलने तक पकाएँ।",
+        "पिसा पेस्ट और हल्दी डालकर 3 मिनट चलाएँ। कटे आलू, गाजर, बीन्स, नमक और बचा पानी डालें; ढककर 10 मिनट पकाएँ।",
+        "फूलगोभी डालकर 10 मिनट और सब्ज़ियाँ नरम व ग्रेवी चिपकने तक पकाएँ। धनिया से सजाएँ।"
+      ],
+      "tips": [
+        "नारियल धीरे भूनें; जला नारियल पूरी ग्रेवी कड़वी कर देगा।"
+      ]
+    },
+    "gu": {
+      "name": "વેજિટેબલ ચેટ્ટિનાડ",
+      "ingredients": [
+        "ગાજર",
+        "ફણસી",
+        "ફૂલકોબી",
+        "બટાકા",
+        "ડુંગળી",
+        "ટામેટાં",
+        "તાજું ખમણેલું નાળિયેર",
+        "આદુ",
+        "લસણ",
+        "તેલ",
+        "પાણી",
+        "ધાણા પાઉડર",
+        "જીરું",
+        "વરિયાળી",
+        "કાળા મરી",
+        "લાલ મરચું પાઉડર",
+        "તજ",
+        "લવિંગ",
+        "લીમડો",
+        "હળદર",
+        "મીઠું",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "કોરા પેનમાં નાળિયેર, જીરું, વરિયાળી, મરી, તજ અને લવિંગ હળવા સોનેરી સુગંધિત શેકો. ઠંડું કરી ધાણા પાઉડર, મરચું અને થોડું માપેલું પાણી ઉમેરી પીસો.",
+        "તેલ ગરમ કરી લીમડો અને સમારેલી ડુંગળી 7 મિનિટ પકાવો. આદુ, લસણ અને ટામેટાં ઉમેરી ગળે ત્યાં સુધી પકાવો.",
+        "પીસેલી પેસ્ટ અને હળદર ઉમેરી 3 મિનિટ હલાવો. સમારેલા બટાકા, ગાજર, ફણસી, મીઠું અને બાકી પાણી ઉમેરો; ઢાંકી 10 મિનિટ પકાવો.",
+        "ફૂલકોબી ઉમેરી વધુ 10 મિનિટ શાક નરમ થાય અને ગ્રેવી ચોંટે ત્યાં સુધી પકાવો. ધાણાથી સજાવો."
+      ],
+      "tips": [
+        "નાળિયેર ધીમે શેકો; બળેલું નાળિયેર આખી ગ્રેવી કડવી કરશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/vegetable-chettinad.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

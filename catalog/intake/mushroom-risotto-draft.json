@@ -1,0 +1,139 @@
+{
+  "sourceReviewId": "R0793",
+  "id": "mushroom-risotto",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mushroom Risotto",
+  "cuisine": "Italian",
+  "categories": [
+    "Rice",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "rice",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "qty": 320,
+      "unit": "g"
+    },
+    {
+      "name": "button mushrooms",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted vegetable stock",
+      "qty": 1200,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "parsley",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 7,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat vegetable stock in a saucepan and keep it barely simmering. Slice mushrooms and finely chop onion and garlic.",
+    "Brown mushrooms in olive oil over medium-high heat for 7 minutes; remove. Add half the butter and soften onion and garlic.",
+    "Add unwashed rice and stir for 2 minutes. Add hot stock a ladle at a time, stirring frequently and waiting until mostly absorbed before adding more.",
+    "Continue for 18–22 minutes until rice is creamy with a slight bite. Fold in mushrooms, salt and pepper; add stock as needed for a flowing texture.",
+    "Remove from heat and stir in remaining butter, grated vegetarian hard cheese and parsley. Serve immediately on warm plates."
+  ],
+  "tips": [
+    "Use vegetarian stock and cheese; ordinary Parmesan may contain animal rennet."
+  ],
+  "photoDescription": "Creamy loose ivory arborio risotto with browned mushroom slices, parsley and fine vegetarian hard-cheese shavings.",
+  "translations": {
+    "hi": {
+      "name": "मशरूम रिसोट्टो",
+      "ingredients": [
+        "आर्बोरियो चावल",
+        "बटन मशरूम",
+        "बिना नमक का सब्ज़ी शोरबा",
+        "प्याज़",
+        "लहसुन",
+        "जैतून का तेल",
+        "मक्खन",
+        "शाकाहारी हार्ड चीज़",
+        "पार्सले",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "सब्ज़ी शोरबा पतीले में गरम करके हल्का उबलता रखें। मशरूम काटें और प्याज़ व लहसुन बारीक काटें।",
+        "जैतून तेल में मध्यम तेज़ आँच पर मशरूम 7 मिनट भूरा करें और निकालें। आधा मक्खन डालकर प्याज़ व लहसुन नरम करें।",
+        "बिना धुले चावल डालकर 2 मिनट चलाएँ। गरम शोरबा एक कलछी करके डालें, अक्सर चलाएँ और अधिकांश सोखने पर अगली कलछी डालें।",
+        "18–22 मिनट चावल मलाईदार और बीच में हल्की दृढ़ता रहने तक पकाएँ। मशरूम, नमक और काली मिर्च मिलाएँ; बहती बनावट के लिए आवश्यक शोरबा डालें।",
+        "आँच से हटाकर बचा मक्खन, कसा शाकाहारी हार्ड चीज़ और पार्सले मिलाएँ। गरम प्लेटों में तुरंत परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी शोरबा और चीज़ लें; सामान्य पार्मेज़ान में पशु रेनेट हो सकता है।"
+      ]
+    },
+    "gu": {
+      "name": "મશરૂમ રિસોટ્ટો",
+      "ingredients": [
+        "આર્બોરિયો ચોખા",
+        "બટન મશરૂમ",
+        "મીઠા વિનાનો શાકભાજીનો સ્ટોક",
+        "ડુંગળી",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "માખણ",
+        "શાકાહારી હાર્ડ ચીઝ",
+        "પાર્સલી",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "શાકભાજીનો સ્ટોક તપેલીમાં ગરમ કરી હળવો ઉકળતો રાખો. મશરૂમ કાપો અને ડુંગળી તથા લસણ ઝીણાં સમારો.",
+        "ઓલિવ તેલમાં મધ્યમ ઊંચા તાપે મશરૂમ 7 મિનિટ બદામી કરી કાઢો. અડધું માખણ ઉમેરી ડુંગળી અને લસણ નરમ કરો.",
+        "ધોયા વિનાના ચોખા ઉમેરી 2 મિનિટ હલાવો. ગરમ સ્ટોક એક કડછી કરીને ઉમેરો, વારંવાર હલાવો અને મોટાભાગનો શોષાય પછી વધુ ઉમેરો.",
+        "18–22 મિનિટ ચોખા ક્રીમી અને વચ્ચે થોડા કડક રહે ત્યાં સુધી પકાવો. મશરૂમ, મીઠું અને મરી ભેળવો; વહેતી રચના માટે જરૂર મુજબ સ્ટોક ઉમેરો.",
+        "તાપ પરથી ઉતારી બાકીનું માખણ, ખમણેલી શાકાહારી હાર્ડ ચીઝ અને પાર્સલી ભેળવો. ગરમ થાળીમાં તરત પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી સ્ટોક અને ચીઝ લો; સામાન્ય પાર્મેઝાનમાં પ્રાણીજન્ય રેનેટ હોઈ શકે છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/mushroom-risotto.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

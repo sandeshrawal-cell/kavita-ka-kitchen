@@ -1,0 +1,179 @@
+{
+  "sourceReviewId": "R3475",
+  "id": "paneer-rezala",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Rezala",
+  "cuisine": "Bengali",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "white poppy seeds",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "green cardamom",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cinnamon",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "cloves",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "food-grade kewra water",
+      "qty": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Soak cashews and poppy seeds in hot water until soft. Drain and blend with yogurt to a smooth paste; separately puree the onion.",
+    "Heat ghee and bloom cardamom, cinnamon and cloves. Add onion puree, ginger and garlic; cook gently for 8 minutes without browning.",
+    "Lower heat, add yogurt-nut paste gradually and stir until smooth. Add water, salt, sugar, crushed pepper and slit chillies; simmer 8 minutes.",
+    "Add paneer cubes and simmer gently for 5 minutes. Turn off heat, add kewra water and cover briefly before serving."
+  ],
+  "tips": [
+    "Keep the gravy pale by avoiding browned onions; use food-grade kewra water, not concentrated perfume or essence."
+  ],
+  "photoDescription": "White ivory paneer rezala gravy with soft paneer cubes, whole green chillies, delicate black pepper flecks and whole aromatic spices.",
+  "translations": {
+    "hi": {
+      "name": "पनीर रेज़ाला",
+      "ingredients": [
+        "पनीर",
+        "प्याज़",
+        "सादा दही",
+        "काजू",
+        "सफ़ेद खसखस",
+        "घी",
+        "अदरक",
+        "लहसुन",
+        "पानी",
+        "हरी इलायची",
+        "दालचीनी",
+        "लौंग",
+        "काली मिर्च",
+        "हरी मिर्च",
+        "नमक",
+        "चीनी",
+        "खाद्य केवड़ा जल"
+      ],
+      "steps": [
+        "काजू और खसखस गरम पानी में नरम भिगोएँ। निथारकर दही के साथ चिकना पीसें; प्याज़ अलग पीसें।",
+        "घी में इलायची, दालचीनी और लौंग महकाएँ। प्याज़ प्यूरी, अदरक और लहसुन डालकर बिना भूरा किए 8 मिनट धीमे पकाएँ।",
+        "आँच कम कर दही-मेवा पेस्ट धीरे मिलाएँ। पानी, नमक, चीनी, कुटी काली मिर्च और चीरी मिर्च डालकर 8 मिनट पकाएँ।",
+        "पनीर के टुकड़े डालकर 5 मिनट धीमे पकाएँ। आँच बंद कर केवड़ा जल डालें और परोसने से पहले थोड़ी देर ढकें।"
+      ],
+      "tips": [
+        "प्याज़ भूरा न करके ग्रेवी हल्की रखें; खाद्य केवड़ा जल लें, गाढ़ा इत्र या एसेंस नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર રેઝાલા",
+      "ingredients": [
+        "પનીર",
+        "ડુંગળી",
+        "સાદું દહીં",
+        "કાજુ",
+        "સફેદ ખસખસ",
+        "ઘી",
+        "આદુ",
+        "લસણ",
+        "પાણી",
+        "લીલી એલચી",
+        "તજ",
+        "લવિંગ",
+        "કાળા મરી",
+        "લીલું મરચું",
+        "મીઠું",
+        "ખાંડ",
+        "ખાદ્ય કેવડાનું પાણી"
+      ],
+      "steps": [
+        "કાજુ અને ખસખસ ગરમ પાણીમાં નરમ પલાળો. નિતારી દહીં સાથે લીસું પીસો; ડુંગળી અલગ પીસો.",
+        "ઘીમાં એલચી, તજ અને લવિંગ સુગંધિત કરો. ડુંગળીની પ્યુરી, આદુ અને લસણ ઉમેરી બદામી કર્યા વિના 8 મિનિટ ધીમે પકાવો.",
+        "તાપ ધીમો કરી દહીં-મવાની પેસ્ટ ધીમે ભેળવો. પાણી, મીઠું, ખાંડ, ખાંડેલા મરી અને ચીરેલાં મરચાં ઉમેરી 8 મિનિટ પકાવો.",
+        "પનીરના ટુકડા ઉમેરી 5 મિનિટ ધીમે પકાવો. તાપ બંધ કરી કેવડાનું પાણી ઉમેરો અને પીરસતાં પહેલાં થોડી વાર ઢાંકો."
+      ],
+      "tips": [
+        "ડુંગળી બદામી કર્યા વિના ગ્રેવી ફિક્કી રાખો; ખાદ્ય કેવડાનું પાણી લો, ઘાટું અત્તર કે એસેન્સ નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paneer-rezala.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

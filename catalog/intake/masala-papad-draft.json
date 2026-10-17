@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R3559",
+  "id": "masala-papad",
+  "status": "published-popular-200-intake-batch",
+  "name": "Masala Papad",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks",
+    "Party Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "method": "chaat",
+  "ingredients": [
+    {
+      "name": "plain urad papad",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "chaat masala",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Finely chop onion, tomato and coriander; drain any watery tomato juice so the papad stays crisp.",
+    "Roast papad on a dry hot pan, pressing gently and turning until blistered and crisp on both sides.",
+    "Mix the chopped vegetables with lemon juice, chilli powder and chaat masala just before serving.",
+    "Divide the topping over the roasted papad and serve immediately; assemble in batches if eating slowly."
+  ],
+  "tips": [
+    "Papad and chaat masala already contain salt; taste before adding any extra."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मसाला पापड़",
+      "ingredients": [
+        "सादे उड़द पापड़",
+        "प्याज़",
+        "टमाटर",
+        "हरा धनिया",
+        "नींबू का रस",
+        "लाल मिर्च पाउडर",
+        "चाट मसाला"
+      ],
+      "steps": [
+        "प्याज़, टमाटर और धनिया बारीक काटें; टमाटर का अतिरिक्त रस निकालें ताकि पापड़ कुरकुरा रहे।",
+        "गरम सूखे तवे पर पापड़ हल्का दबाते और पलटते हुए दोनों तरफ कुरकुरा सेकें।",
+        "परोसने से ठीक पहले सब्ज़ियों में नींबू का रस, मिर्च पाउडर और चाट मसाला मिलाएँ।",
+        "भुने पापड़ों पर मिश्रण बाँटें और तुरंत परोसें; धीरे खाने पर थोड़े पापड़ ही सजाएँ।"
+      ],
+      "tips": [
+        "पापड़ और चाट मसाले में नमक होता है; अतिरिक्त नमक डालने से पहले चखें।"
+      ]
+    },
+    "gu": {
+      "name": "મસાલા પાપડ",
+      "ingredients": [
+        "સાદા અડદના પાપડ",
+        "ડુંગળી",
+        "ટામેટાં",
+        "લીલા ધાણા",
+        "લીંબુનો રસ",
+        "લાલ મરચું પાઉડર",
+        "ચાટ મસાલો"
+      ],
+      "steps": [
+        "ડુંગળી, ટામેટાં અને ધાણા ઝીણાં સમારો; પાપડ કરકરો રહે તે માટે ટામેટાંનું વધારાનું પાણી કાઢો.",
+        "ગરમ સૂકા તવા પર પાપડ હળવેથી દબાવી અને ફેરવી બંને બાજુ કરકરા શેકો.",
+        "પીરસતાં પહેલાં જ શાકભાજીમાં લીંબુનો રસ, મરચું પાઉડર અને ચાટ મસાલો ભેળવો.",
+        "શેકેલા પાપડ પર મિશ્રણ વહેંચી તરત પીરસો; ધીમે ખાતા હો તો થોડા પાપડ જ તૈયાર કરો."
+      ],
+      "tips": [
+        "પાપડ અને ચાટ મસાલામાં મીઠું હોય છે; વધારાનું મીઠું ઉમેરતાં પહેલાં ચાખો."
+      ]
+    }
+  },
+  "photoDescription": "Thin round roasted papad with blistered surface, topped with finely diced red tomato, onion and fresh coriander, no gravy.",
+  "photoDraft": "catalog/intake/photos/masala-papad.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -30,7 +30,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/kimchi-fried-rice.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "vegetable-bibimbap",
@@ -43,7 +44,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/vegetable-bibimbap.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "vegetable-kimbap",
@@ -56,7 +58,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/vegetable-kimbap.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "vegetable-ramen",
@@ -69,7 +72,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/vegetable-ramen.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "japchae",
@@ -82,7 +86,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/japchae.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "kimchi-pancake",
@@ -95,7 +100,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/kimchi-pancake.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "korean-corn-cheese",
@@ -108,7 +114,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/korean-corn-cheese.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "vegetarian-sundubu-jjigae",
@@ -121,7 +128,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/vegetarian-sundubu-jjigae.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "tofu-katsu",
@@ -134,7 +142,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/tofu-katsu.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "inari-sushi",
@@ -147,7 +156,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/inari-sushi.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "mapo-tofu",
@@ -160,7 +170,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/mapo-tofu.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "agedashi-tofu",
@@ -173,7 +184,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/agedashi-tofu.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "hotteok",
@@ -187,7 +199,8 @@
       "selectionNote": "Replaces chilli-garlic-tofu because its recipe overlaps an existing dish.",
       "photoDraft": "catalog/intake/photos/hotteok.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "onigiri",
@@ -201,7 +214,8 @@
       "selectionNote": "Replaces tofu-teriyaki-rice because its recipe overlaps an existing dish.",
       "photoDraft": "catalog/intake/photos/onigiri.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "tofu-broccoli-stir-fry",
@@ -214,7 +228,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/tofu-broccoli-stir-fry.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "vegetable-tempura",
@@ -227,7 +242,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/vegetable-tempura.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "veg-gyoza",
@@ -240,7 +256,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/veg-gyoza.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "crystal-dumplings",
@@ -253,7 +270,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/crystal-dumplings.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "tofu-bao",
@@ -266,7 +284,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/tofu-bao.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "mushroom-bao",
@@ -279,7 +298,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/mushroom-bao.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "paneer-tikka-bowl",
@@ -292,7 +312,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/paneer-tikka-bowl.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "paneer-quinoa-bowl",
@@ -305,7 +326,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/paneer-quinoa-bowl.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "soya-65",
@@ -318,7 +340,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/soya-65.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "soya-seekh-kebab",
@@ -331,7 +354,8 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/soya-seekh-kebab.png",
       "photoStatus": "reviewed",
-      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
     },
     {
       "id": "soya-momos",
@@ -344,7 +368,584 @@
       "matches": [],
       "photoDraft": "catalog/intake/photos/soya-momos.png",
       "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation.",
+      "liveRelease": "6db515e"
+    },
+    {
+      "id": "orzo-salad",
+      "name": "Orzo Salad",
+      "category": "Salads",
+      "theme": "Contemporary salads",
+      "sourceReviewId": "R1136",
+      "sourceRow": 1137,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/orzo-salad.png",
+      "photoStatus": "reviewed",
       "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "foxtail-millet-salad",
+      "name": "Foxtail Millet Salad",
+      "category": "Salads",
+      "theme": "Contemporary salads",
+      "sourceReviewId": "R1166",
+      "sourceRow": 1167,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/foxtail-millet-salad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "black-bean-mango-salad",
+      "name": "Black Bean Mango Salad",
+      "category": "Salads",
+      "theme": "Contemporary salads",
+      "sourceReviewId": "R1199",
+      "sourceRow": 1200,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/black-bean-mango-salad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "baked-feta-pasta",
+      "name": "Baked Feta Pasta",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3406",
+      "sourceRow": 3407,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/baked-feta-pasta.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "baked-mac-and-cheese",
+      "name": "Baked Mac and Cheese",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3423",
+      "sourceRow": 3424,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/baked-mac-and-cheese.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "spinach-ricotta-cannelloni",
+      "name": "Spinach Ricotta Cannelloni",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3425",
+      "sourceRow": 3426,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/spinach-ricotta-cannelloni.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "stuffed-pasta-shells",
+      "name": "Stuffed Pasta Shells",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3426",
+      "sourceRow": 3427,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/stuffed-pasta-shells.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "baked-ziti",
+      "name": "Baked Ziti",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3429",
+      "sourceRow": 3430,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/baked-ziti.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "mushroom-risotto",
+      "name": "Mushroom Risotto",
+      "category": "Rice",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R0793",
+      "sourceRow": 794,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/mushroom-risotto.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "gnocchi-alla-sorrentina",
+      "name": "Gnocchi alla Sorrentina",
+      "category": "Guest Menus",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R3481",
+      "sourceRow": 3482,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/gnocchi-alla-sorrentina.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "garlic-butter-pasta",
+      "name": "Garlic Butter Pasta",
+      "category": "Quick Meals",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R2860",
+      "sourceRow": 2861,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/garlic-butter-pasta.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "avocado-pasta",
+      "name": "Avocado Pasta",
+      "category": "Quick Meals",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R2872",
+      "sourceRow": 2873,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/avocado-pasta.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "focaccia",
+      "name": "Focaccia",
+      "category": "Breads",
+      "theme": "Italian cafe favourites",
+      "sourceReviewId": "R0864",
+      "sourceRow": 865,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/focaccia.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "paneer-pasanda",
+      "name": "Paneer Pasanda",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3402",
+      "sourceRow": 3403,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-pasanda.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "dum-paneer-kali-mirch",
+      "name": "Dum Paneer Kali Mirch",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3403",
+      "sourceRow": 3404,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/dum-paneer-kali-mirch.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "paneer-changezi",
+      "name": "Paneer Changezi",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3404",
+      "sourceRow": 3405,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-changezi.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "bindaetteok",
+      "name": "Bindaetteok",
+      "category": "High Protein Vegetarian",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R2951",
+      "sourceRow": 2952,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "selectionNote": "Replaces malai-soya-chaap because its recipe overlaps an existing dish.",
+      "photoDraft": "catalog/intake/photos/bindaetteok.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "veg-handi",
+      "name": "Veg Handi",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3412",
+      "sourceRow": 3413,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/veg-handi.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "vegetable-chettinad",
+      "name": "Vegetable Chettinad",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3419",
+      "sourceRow": 3420,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/vegetable-chettinad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "veg-makhanwala",
+      "name": "Veg Makhanwala",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3420",
+      "sourceRow": 3421,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/veg-makhanwala.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "paneer-angara",
+      "name": "Paneer Angara",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3462",
+      "sourceRow": 3463,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-angara.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "paneer-rezala",
+      "name": "Paneer Rezala",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3475",
+      "sourceRow": 3476,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/paneer-rezala.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "afghani-paneer",
+      "name": "Afghani Paneer",
+      "category": "Guest Menus",
+      "theme": "Indian restaurant curries",
+      "sourceReviewId": "R3476",
+      "sourceRow": 3477,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/afghani-paneer.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "masala-papad",
+      "name": "Masala Papad",
+      "category": "Party Food",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R3559",
+      "sourceRow": 3560,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/masala-papad.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "cheese-garlic-bread",
+      "name": "Cheese Garlic Bread",
+      "category": "Party Food",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R3594",
+      "sourceRow": 3595,
+      "status": "prepared-for-publication",
+      "matches": [],
+      "photoDraft": "catalog/intake/photos/cheese-garlic-bread.png",
+      "photoStatus": "reviewed",
+      "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+    },
+    {
+      "id": "poha-cutlet",
+      "name": "Poha Cutlet",
+      "category": "Lunchbox",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R2743",
+      "sourceRow": 2744,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "makhana-chivda",
+      "name": "Makhana Chivda",
+      "category": "Lunchbox",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R2791",
+      "sourceRow": 2792,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "seed-crackers",
+      "name": "Seed Crackers",
+      "category": "Lunchbox",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R2752",
+      "sourceRow": 2753,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "granola-bars",
+      "name": "Granola Bars",
+      "category": "Lunchbox",
+      "theme": "Chaat and convenient snacks",
+      "sourceReviewId": "R2719",
+      "sourceRow": 2720,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-tiramisu",
+      "name": "Eggless Tiramisu",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1560",
+      "sourceRow": 1561,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "kunafa",
+      "name": "Kunafa",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1562",
+      "sourceRow": 1563,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "baklava",
+      "name": "Baklava",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1563",
+      "sourceRow": 1564,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "mochi-ice-cream",
+      "name": "Mochi Ice Cream",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R3852",
+      "sourceRow": 3853,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "mango-sticky-rice",
+      "name": "Mango Sticky Rice",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1570",
+      "sourceRow": 1571,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "pistachio-gelato",
+      "name": "Pistachio Gelato",
+      "category": "Desserts",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1595",
+      "sourceRow": 1596,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "basbousa",
+      "name": "Basbousa",
+      "category": "Cakes & Bakes",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1782",
+      "sourceRow": 1783,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-new-york-cheesecake",
+      "name": "Eggless New York Cheesecake",
+      "category": "Cakes & Bakes",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1748",
+      "sourceRow": 1749,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-tres-leches-cake",
+      "name": "Eggless Tres Leches Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1743",
+      "sourceRow": 1744,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "rasmalai-cake",
+      "name": "Rasmalai Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Contemporary desserts",
+      "sourceReviewId": "R1741",
+      "sourceRow": 1742,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-molten-lava-cake",
+      "name": "Eggless Molten Lava Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1727",
+      "sourceRow": 1728,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "mug-cake",
+      "name": "Mug Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1729",
+      "sourceRow": 1730,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-blueberry-muffins",
+      "name": "Eggless Blueberry Muffins",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1730",
+      "sourceRow": 1731,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-carrot-cake",
+      "name": "Eggless Carrot Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1734",
+      "sourceRow": 1735,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-date-and-walnut-cake",
+      "name": "Eggless Date and Walnut Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1735",
+      "sourceRow": 1736,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-coffee-walnut-cake",
+      "name": "Eggless Coffee Walnut Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1736",
+      "sourceRow": 1737,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-pistachio-cake",
+      "name": "Eggless Pistachio Cake",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1747",
+      "sourceRow": 1748,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "eggless-cinnamon-rolls",
+      "name": "Eggless Cinnamon Rolls",
+      "category": "Cakes & Bakes",
+      "theme": "Bakery favourites",
+      "sourceReviewId": "R1777",
+      "sourceRow": 1778,
+      "status": "recipe-draft-awaiting-photo-review",
+      "matches": []
+    },
+    {
+      "id": "phirni",
+      "name": "Phirni",
+      "category": "Desserts",
+      "theme": "Indian desserts",
+      "sourceReviewId": "R1502",
+      "sourceRow": 1503,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "shahi-tukda",
+      "name": "Shahi Tukda",
+      "category": "Desserts",
+      "theme": "Indian desserts",
+      "sourceReviewId": "R1503",
+      "sourceRow": 1504,
+      "status": "recipe-needed",
+      "matches": []
+    },
+    {
+      "id": "amrakhand",
+      "name": "Amrakhand",
+      "category": "Desserts",
+      "theme": "Indian desserts",
+      "sourceReviewId": "R1513",
+      "sourceRow": 1514,
+      "status": "recipe-needed",
+      "matches": []
     },
     {
       "id": "soya-chunk-tikka",
@@ -768,237 +1369,6 @@
       "sourceReviewId": "R1135",
       "sourceRow": 1136,
       "status": "recipe-needed",
-      "matches": []
-    },
-    {
-      "id": "orzo-salad",
-      "name": "Orzo Salad",
-      "category": "Salads",
-      "theme": "Contemporary salads",
-      "sourceReviewId": "R1136",
-      "sourceRow": 1137,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "foxtail-millet-salad",
-      "name": "Foxtail Millet Salad",
-      "category": "Salads",
-      "theme": "Contemporary salads",
-      "sourceReviewId": "R1166",
-      "sourceRow": 1167,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "black-bean-mango-salad",
-      "name": "Black Bean Mango Salad",
-      "category": "Salads",
-      "theme": "Contemporary salads",
-      "sourceReviewId": "R1199",
-      "sourceRow": 1200,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "baked-feta-pasta",
-      "name": "Baked Feta Pasta",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3406",
-      "sourceRow": 3407,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "baked-mac-and-cheese",
-      "name": "Baked Mac and Cheese",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3423",
-      "sourceRow": 3424,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "spinach-ricotta-cannelloni",
-      "name": "Spinach Ricotta Cannelloni",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3425",
-      "sourceRow": 3426,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "stuffed-pasta-shells",
-      "name": "Stuffed Pasta Shells",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3426",
-      "sourceRow": 3427,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "baked-ziti",
-      "name": "Baked Ziti",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3429",
-      "sourceRow": 3430,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "mushroom-risotto",
-      "name": "Mushroom Risotto",
-      "category": "Rice",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R0793",
-      "sourceRow": 794,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "gnocchi-alla-sorrentina",
-      "name": "Gnocchi alla Sorrentina",
-      "category": "Guest Menus",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R3481",
-      "sourceRow": 3482,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "garlic-butter-pasta",
-      "name": "Garlic Butter Pasta",
-      "category": "Quick Meals",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R2860",
-      "sourceRow": 2861,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "avocado-pasta",
-      "name": "Avocado Pasta",
-      "category": "Quick Meals",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R2872",
-      "sourceRow": 2873,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "focaccia",
-      "name": "Focaccia",
-      "category": "Breads",
-      "theme": "Italian cafe favourites",
-      "sourceReviewId": "R0864",
-      "sourceRow": 865,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "paneer-pasanda",
-      "name": "Paneer Pasanda",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3402",
-      "sourceRow": 3403,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "dum-paneer-kali-mirch",
-      "name": "Dum Paneer Kali Mirch",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3403",
-      "sourceRow": 3404,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "paneer-changezi",
-      "name": "Paneer Changezi",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3404",
-      "sourceRow": 3405,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "bindaetteok",
-      "name": "Bindaetteok",
-      "category": "High Protein Vegetarian",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R2951",
-      "sourceRow": 2952,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": [],
-      "selectionNote": "Replaces malai-soya-chaap because its recipe overlaps an existing dish."
-    },
-    {
-      "id": "veg-handi",
-      "name": "Veg Handi",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3412",
-      "sourceRow": 3413,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "vegetable-chettinad",
-      "name": "Vegetable Chettinad",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3419",
-      "sourceRow": 3420,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "veg-makhanwala",
-      "name": "Veg Makhanwala",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3420",
-      "sourceRow": 3421,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "paneer-angara",
-      "name": "Paneer Angara",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3462",
-      "sourceRow": 3463,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "paneer-rezala",
-      "name": "Paneer Rezala",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3475",
-      "sourceRow": 3476,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "afghani-paneer",
-      "name": "Afghani Paneer",
-      "category": "Guest Menus",
-      "theme": "Indian restaurant curries",
-      "sourceReviewId": "R3476",
-      "sourceRow": 3477,
-      "status": "recipe-draft-awaiting-photo-review",
       "matches": []
     },
     {
@@ -1442,246 +1812,6 @@
       "matches": []
     },
     {
-      "id": "masala-papad",
-      "name": "Masala Papad",
-      "category": "Party Food",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R3559",
-      "sourceRow": 3560,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "cheese-garlic-bread",
-      "name": "Cheese Garlic Bread",
-      "category": "Party Food",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R3594",
-      "sourceRow": 3595,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "poha-cutlet",
-      "name": "Poha Cutlet",
-      "category": "Lunchbox",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R2743",
-      "sourceRow": 2744,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "makhana-chivda",
-      "name": "Makhana Chivda",
-      "category": "Lunchbox",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R2791",
-      "sourceRow": 2792,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "seed-crackers",
-      "name": "Seed Crackers",
-      "category": "Lunchbox",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R2752",
-      "sourceRow": 2753,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "granola-bars",
-      "name": "Granola Bars",
-      "category": "Lunchbox",
-      "theme": "Chaat and convenient snacks",
-      "sourceReviewId": "R2719",
-      "sourceRow": 2720,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-tiramisu",
-      "name": "Eggless Tiramisu",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1560",
-      "sourceRow": 1561,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "kunafa",
-      "name": "Kunafa",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1562",
-      "sourceRow": 1563,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "baklava",
-      "name": "Baklava",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1563",
-      "sourceRow": 1564,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "mochi-ice-cream",
-      "name": "Mochi Ice Cream",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R3852",
-      "sourceRow": 3853,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "mango-sticky-rice",
-      "name": "Mango Sticky Rice",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1570",
-      "sourceRow": 1571,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "pistachio-gelato",
-      "name": "Pistachio Gelato",
-      "category": "Desserts",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1595",
-      "sourceRow": 1596,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "basbousa",
-      "name": "Basbousa",
-      "category": "Cakes & Bakes",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1782",
-      "sourceRow": 1783,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-new-york-cheesecake",
-      "name": "Eggless New York Cheesecake",
-      "category": "Cakes & Bakes",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1748",
-      "sourceRow": 1749,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-tres-leches-cake",
-      "name": "Eggless Tres Leches Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1743",
-      "sourceRow": 1744,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "rasmalai-cake",
-      "name": "Rasmalai Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Contemporary desserts",
-      "sourceReviewId": "R1741",
-      "sourceRow": 1742,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-molten-lava-cake",
-      "name": "Eggless Molten Lava Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1727",
-      "sourceRow": 1728,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "mug-cake",
-      "name": "Mug Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1729",
-      "sourceRow": 1730,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-blueberry-muffins",
-      "name": "Eggless Blueberry Muffins",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1730",
-      "sourceRow": 1731,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-carrot-cake",
-      "name": "Eggless Carrot Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1734",
-      "sourceRow": 1735,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-date-and-walnut-cake",
-      "name": "Eggless Date and Walnut Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1735",
-      "sourceRow": 1736,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-coffee-walnut-cake",
-      "name": "Eggless Coffee Walnut Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1736",
-      "sourceRow": 1737,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-pistachio-cake",
-      "name": "Eggless Pistachio Cake",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1747",
-      "sourceRow": 1748,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
-      "id": "eggless-cinnamon-rolls",
-      "name": "Eggless Cinnamon Rolls",
-      "category": "Cakes & Bakes",
-      "theme": "Bakery favourites",
-      "sourceReviewId": "R1777",
-      "sourceRow": 1778,
-      "status": "recipe-draft-awaiting-photo-review",
-      "matches": []
-    },
-    {
       "id": "eggless-donuts",
       "name": "Eggless Donuts",
       "category": "Cakes & Bakes",
@@ -1698,36 +1828,6 @@
       "theme": "Bakery favourites",
       "sourceReviewId": "R1770",
       "sourceRow": 1771,
-      "status": "recipe-needed",
-      "matches": []
-    },
-    {
-      "id": "phirni",
-      "name": "Phirni",
-      "category": "Desserts",
-      "theme": "Indian desserts",
-      "sourceReviewId": "R1502",
-      "sourceRow": 1503,
-      "status": "recipe-needed",
-      "matches": []
-    },
-    {
-      "id": "shahi-tukda",
-      "name": "Shahi Tukda",
-      "category": "Desserts",
-      "theme": "Indian desserts",
-      "sourceReviewId": "R1503",
-      "sourceRow": 1504,
-      "status": "recipe-needed",
-      "matches": []
-    },
-    {
-      "id": "amrakhand",
-      "name": "Amrakhand",
-      "category": "Desserts",
-      "theme": "Indian desserts",
-      "sourceReviewId": "R1513",
-      "sourceRow": 1514,
       "status": "recipe-needed",
       "matches": []
     },
@@ -2104,11 +2204,48 @@
   ],
   "checkpoint": {
     "date": "2026-10-16",
-    "completeRecipeDrafts": 72,
-    "reviewedPhotos": 25,
-    "preparedForPublication": 25,
-    "livePublishedCount": 0,
-    "resume": "Publish the verified first25 after tests, then continue remaining groups. Preserve completed drafts and generate images only after their recipes are reviewed."
+    "completeRecipeDrafts": 90,
+    "livePublishedCount": 25,
+    "nextGroup": [
+      "orzo-salad",
+      "foxtail-millet-salad",
+      "black-bean-mango-salad",
+      "baked-feta-pasta",
+      "baked-mac-and-cheese",
+      "spinach-ricotta-cannelloni",
+      "stuffed-pasta-shells",
+      "baked-ziti",
+      "mushroom-risotto",
+      "gnocchi-alla-sorrentina",
+      "garlic-butter-pasta",
+      "avocado-pasta",
+      "focaccia",
+      "paneer-pasanda",
+      "dum-paneer-kali-mirch",
+      "paneer-changezi",
+      "bindaetteok",
+      "veg-handi",
+      "vegetable-chettinad",
+      "veg-makhanwala",
+      "paneer-angara",
+      "paneer-rezala",
+      "afghani-paneer",
+      "masala-papad",
+      "cheese-garlic-bread"
+    ],
+    "resume": "Continue cumulative25-dish releases, starting with photo review for group2; never redo live group1."
   },
-  "preparedForPublicationCount": 25
+  "preparedForPublicationCount": 50,
+  "processingOrderNote": "After the first25, prioritize already completed recipe drafts to minimize repeated work; source selections remain the same200.",
+  "livePublishedCount": 25,
+  "releases": [
+    {
+      "count": 25,
+      "commit": "6db515e",
+      "verifiedOn": "2026-10-16",
+      "totalCatalogue": 1041,
+      "totalPhotos": 1041,
+      "verification": "Vercel success; live manifest and sample recipe/photo URLs returned 200."
+    }
+  ]
 }

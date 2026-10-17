@@ -1,0 +1,193 @@
+{
+  "sourceReviewId": "R3462",
+  "id": "paneer-angara",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Angara",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 220,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "capsicum",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "cream",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "smoked paprika",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "ground cumin",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Coat paneer and capsicum cubes with half the oil, half the paprika and a little salt. Sear in a very hot pan until browned at the edges; remove.",
+    "In remaining oil cook chopped onion for 8 minutes. Add ginger, garlic and tomatoes and cook until soft; cool and blend with cashews and water.",
+    "Return the puree to the pan with chilli, coriander, cumin, remaining paprika and salt. Simmer 8 minutes, then lower heat and stir in whisked yogurt.",
+    "Add seared paneer and peppers, cream, garam masala and fenugreek. Simmer gently for 5 minutes and scatter coriander before serving."
+  ],
+  "tips": [
+    "This home version gets its smoky character from smoked paprika and pan charring, without burning charcoal indoors."
+  ],
+  "photoDescription": "Smoky deep orange-red paneer angara curry with lightly charred paneer cubes and peppers, rich thick gravy and coriander.",
+  "translations": {
+    "hi": {
+      "name": "पनीर अंगारा",
+      "ingredients": [
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "शिमला मिर्च",
+        "काजू",
+        "सादा दही",
+        "अदरक",
+        "लहसुन",
+        "तेल",
+        "क्रीम",
+        "पानी",
+        "स्मोक्ड पैपरिका",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "जीरा पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "नमक",
+        "हरा धनिया"
+      ],
+      "steps": [
+        "पनीर और शिमला मिर्च को आधा तेल, आधी पैपरिका और थोड़ा नमक लगाएँ। बहुत गरम पैन में किनारे भूरे सेंककर निकालें।",
+        "बचे तेल में कटा प्याज़ 8 मिनट पकाएँ। अदरक, लहसुन और टमाटर नरम पकाएँ; ठंडा कर काजू व पानी के साथ पीसें।",
+        "प्यूरी पैन में लौटाकर मिर्च, धनिया, जीरा, बची पैपरिका और नमक डालें। 8 मिनट पकाएँ, फिर धीमी आँच पर फेंटा दही मिलाएँ।",
+        "सेंका पनीर और शिमला मिर्च, क्रीम, गरम मसाला व मेथी डालें। 5 मिनट धीरे पकाएँ और धनिया छिड़ककर परोसें।"
+      ],
+      "tips": [
+        "इस घरेलू रूप में धुएँ का स्वाद स्मोक्ड पैपरिका और पैन में सेंकने से आता है; घर के अंदर कोयला नहीं जलाना पड़ता।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર અંગારા",
+      "ingredients": [
+        "પનીર",
+        "ડુંગળી",
+        "ટામેટાં",
+        "કેપ્સિકમ",
+        "કાજુ",
+        "સાદું દહીં",
+        "આદુ",
+        "લસણ",
+        "તેલ",
+        "ક્રીમ",
+        "પાણી",
+        "સ્મોક્ડ પેપરિકા",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "જીરું પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "મીઠું",
+        "લીલા ધાણા"
+      ],
+      "steps": [
+        "પનીર અને કેપ્સિકમને અડધું તેલ, અડધી પેપરિકા અને થોડું મીઠું લગાવો. ખૂબ ગરમ પેનમાં કિનારે બદામી શેકી કાઢો.",
+        "બાકીના તેલમાં સમારેલી ડુંગળી 8 મિનિટ પકાવો. આદુ, લસણ અને ટામેટાં નરમ પકાવો; ઠંડું કરી કાજુ અને પાણી સાથે પીસો.",
+        "પ્યુરી પેનમાં પાછી નાખી મરચું, ધાણા, જીરું, બાકીની પેપરિકા અને મીઠું ઉમેરો. 8 મિનિટ પકાવો, પછી ધીમા તાપે ફેંટેલું દહીં ભેળવો.",
+        "શેકેલું પનીર અને કેપ્સિકમ, ક્રીમ, ગરમ મસાલો અને મેથી ઉમેરો. 5 મિનિટ ધીમે પકાવો અને ધાણા ભભરાવી પીરસો."
+      ],
+      "tips": [
+        "આ ઘરેલુ રૂપમાં ધૂમ્ર સ્વાદ સ્મોક્ડ પેપરિકા અને પેનમાં શેકવાથી આવે છે; ઘરમાં કોલસો સળગાવવો પડતો નથી."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paneer-angara.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

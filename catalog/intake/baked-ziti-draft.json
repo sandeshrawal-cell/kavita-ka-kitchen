@@ -1,0 +1,143 @@
+{
+  "sourceReviewId": "R3429",
+  "id": "baked-ziti",
+  "status": "published-popular-200-intake-batch",
+  "name": "Baked Ziti",
+  "cuisine": "Italian-American",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "dry egg-free ziti pasta",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian ricotta cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "onion",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "dried oregano",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190°C. Boil ziti in water with half the salt for 2 minutes less than the packet time, then drain.",
+    "Soften chopped onion in olive oil for 6 minutes. Add garlic, passata, oregano, pepper and remaining salt; simmer 10 minutes.",
+    "Toss drained pasta with most of the sauce and basil. Layer in a baking dish with spoonfuls of ricotta and half the mozzarella.",
+    "Finish with remaining sauce and mozzarella. Bake 25 minutes until bubbling throughout and golden, then rest briefly before serving."
+  ],
+  "tips": [
+    "Do not fully cook the pasta before baking; vegetarian cheese and egg-free pasta keep this version suitable for the catalogue."
+  ],
+  "photoDescription": "Short ziti tubes baked in red tomato sauce with pockets of white ricotta and a golden melted mozzarella top.",
+  "translations": {
+    "hi": {
+      "name": "बेक्ड ज़ीटी",
+      "ingredients": [
+        "सूखा बिना अंडे का ज़ीटी पास्ता",
+        "पानी",
+        "छनी टमाटर प्यूरी",
+        "शाकाहारी रिकोटा चीज़",
+        "शाकाहारी मोज़रेला चीज़",
+        "प्याज़",
+        "लहसुन",
+        "जैतून का तेल",
+        "बेसिल के पत्ते",
+        "सूखा ओरेगानो",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 190°C पर गरम करें। आधे नमक वाले पानी में ज़ीटी पैकेट के समय से 2 मिनट कम पकाकर निथारें।",
+        "जैतून तेल में कटा प्याज़ 6 मिनट नरम करें। लहसुन, प्यूरी, ओरेगानो, काली मिर्च और बचा नमक डालकर 10 मिनट धीमे पकाएँ।",
+        "निथरा पास्ता अधिकांश सॉस और बेसिल में मिलाएँ। बेकिंग डिश में रिकोटा के चम्मचों और आधे मोज़रेला के साथ परतें लगाएँ।",
+        "बचा सॉस और मोज़रेला ऊपर डालें। 25 मिनट चारों ओर बुलबुले आने और सुनहरा होने तक बेक करें; परोसने से पहले थोड़ा ठहराएँ।"
+      ],
+      "tips": [
+        "बेक करने से पहले पास्ता पूरा न पकाएँ; इस रूप में शाकाहारी चीज़ और बिना अंडे का पास्ता लें।"
+      ]
+    },
+    "gu": {
+      "name": "બેક કરેલી ઝીટી",
+      "ingredients": [
+        "સૂકો ઇંડા વિનાનો ઝીટી પાસ્તા",
+        "પાણી",
+        "ગાળેલી ટામેટાંની પ્યુરી",
+        "શાકાહારી રિકોટા ચીઝ",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "ડુંગળી",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "બેસિલનાં પાન",
+        "સૂકું ઓરેગાનો",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ઓવન 190°C પર ગરમ કરો. અડધા મીઠાવાળા પાણીમાં ઝીટી પેકેટના સમયથી 2 મિનિટ ઓછી બાફી નિતારો.",
+        "ઓલિવ તેલમાં સમારેલી ડુંગળી 6 મિનિટ નરમ કરો. લસણ, પ્યુરી, ઓરેગાનો, મરી અને બાકીનું મીઠું ઉમેરી 10 મિનિટ ધીમે પકાવો.",
+        "નિતારેલો પાસ્તા મોટાભાગના સોસ અને બેસિલમાં ભેળવો. બેકિંગ ડિશમાં રિકોટાના ચમચા અને અડધી મોઝરેલા સાથે સ્તર કરો.",
+        "બાકીનો સોસ અને મોઝરેલા ઉપર નાખો. 25 મિનિટ બધે પરપોટા આવે અને સોનેરી થાય ત્યાં સુધી બેક કરો; પીરસતાં પહેલાં થોડું ઠરવા દો."
+      ],
+      "tips": [
+        "બેક કરતાં પહેલાં પાસ્તા પૂરો ન બાફો; આ વાનગી માટે શાકાહારી ચીઝ અને ઇંડા વિનાનો પાસ્તા લો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/baked-ziti.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

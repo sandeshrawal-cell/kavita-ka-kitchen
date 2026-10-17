@@ -1,0 +1,172 @@
+{
+  "sourceReviewId": "R3420",
+  "id": "veg-makhanwala",
+  "status": "published-popular-200-intake-batch",
+  "name": "Veg Makhanwala",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "green beans",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "cauliflower",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "green peas",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut carrots, beans and cauliflower into small pieces. Steam them with peas until just tender, keeping their colour and shape.",
+    "Simmer chopped tomatoes, cashews, ginger, garlic and water for 12 minutes. Cool slightly, blend smooth and strain if needed.",
+    "Melt butter, add the puree, Kashmiri chilli, salt and sugar. Simmer 10 minutes, stirring so the thick sauce does not catch.",
+    "Fold in vegetables, cream, garam masala and crushed fenugreek. Heat gently for 5 minutes until coated and hot throughout."
+  ],
+  "tips": [
+    "Do not overcook the steamed vegetables; they finish cooking in the sauce."
+  ],
+  "photoDescription": "Mixed vegetables in silky rich orange butter-tomato gravy, creamy sheen with cauliflower, peas, carrots and green beans.",
+  "translations": {
+    "hi": {
+      "name": "वेज मखनवाला",
+      "ingredients": [
+        "गाजर",
+        "फ्रेंच बीन्स",
+        "फूलगोभी",
+        "हरे मटर",
+        "टमाटर",
+        "काजू",
+        "अदरक",
+        "लहसुन",
+        "मक्खन",
+        "क्रीम",
+        "पानी",
+        "कश्मीरी मिर्च पाउडर",
+        "गरम मसाला",
+        "कसूरी मेथी",
+        "चीनी",
+        "नमक"
+      ],
+      "steps": [
+        "गाजर, बीन्स और फूलगोभी छोटे काटें। मटर सहित सिर्फ नरम होने तक भाप में पकाएँ ताकि रंग और आकार बना रहे।",
+        "कटे टमाटर, काजू, अदरक, लहसुन और पानी 12 मिनट पकाएँ। थोड़ा ठंडा कर चिकना पीसें और ज़रूरत हो तो छानें।",
+        "मक्खन पिघलाकर प्यूरी, कश्मीरी मिर्च, नमक और चीनी डालें। 10 मिनट चलाते हुए पकाएँ ताकि गाढ़ा सॉस चिपके नहीं।",
+        "सब्ज़ियाँ, क्रीम, गरम मसाला और मसली मेथी मिलाएँ। 5 मिनट हल्का गरम करें ताकि सब्ज़ियों पर सॉस चढ़े और अंदर तक गरम हों।"
+      ],
+      "tips": [
+        "भाप में सब्ज़ियाँ अधिक न पकाएँ; उनका पकना सॉस में पूरा होगा।"
+      ]
+    },
+    "gu": {
+      "name": "વેજ મખનવાલા",
+      "ingredients": [
+        "ગાજર",
+        "ફણસી",
+        "ફૂલકોબી",
+        "લીલા વટાણા",
+        "ટામેટાં",
+        "કાજુ",
+        "આદુ",
+        "લસણ",
+        "માખણ",
+        "ક્રીમ",
+        "પાણી",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ગરમ મસાલો",
+        "કસૂરી મેથી",
+        "ખાંડ",
+        "મીઠું"
+      ],
+      "steps": [
+        "ગાજર, ફણસી અને ફૂલકોબી નાના સમારો. વટાણા સાથે માત્ર નરમ થાય ત્યાં સુધી બાફો જેથી રંગ અને આકાર જળવાય.",
+        "સમારેલા ટામેટાં, કાજુ, આદુ, લસણ અને પાણી 12 મિનિટ પકાવો. થોડું ઠંડું કરી લીસું પીસો અને જરૂર હોય તો ગાળો.",
+        "માખણ ઓગાળી પ્યુરી, કાશ્મીરી મરચું, મીઠું અને ખાંડ ઉમેરો. 10 મિનિટ હલાવતાં પકાવો જેથી ઘટ્ટ સોસ ચોંટે નહીં.",
+        "શાક, ક્રીમ, ગરમ મસાલો અને મસળેલી મેથી ભેળવો. 5 મિનિટ હળવે ગરમ કરો જેથી શાક પર સોસ ચડે અને અંદર સુધી ગરમ થાય."
+      ],
+      "tips": [
+        "બાફતાં શાક વધુ ન પકાવો; તે સોસમાં પૂરાં રંધાશે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/veg-makhanwala.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,122 @@
+{
+  "sourceReviewId": "R2860",
+  "id": "garlic-butter-pasta",
+  "status": "published-popular-200-intake-batch",
+  "name": "Garlic Butter Pasta",
+  "cuisine": "Italian",
+  "categories": [
+    "Quick Meals",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "dry egg-free spaghetti",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 3000,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "parsley",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "vegetarian hard cheese",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 10,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Bring water and most of the salt to a boil. Cook spaghetti for the packet time until firm-tender.",
+    "Meanwhile thinly slice garlic and melt butter over low heat. Cook garlic for 3 minutes until fragrant and lightly golden, without letting it darken.",
+    "Reserve 200 ml pasta water and drain spaghetti. Add pasta to the garlic butter with a splash of reserved water and toss vigorously.",
+    "Add lemon juice, pepper, parsley and grated cheese off the heat. Loosen with more reserved water if needed, taste for salt and serve."
+  ],
+  "tips": [
+    "Use vegetarian hard cheese and stop cooking the garlic before it turns brown and bitter."
+  ],
+  "photoDescription": "Glossy spaghetti in pale garlic butter with golden sliced garlic, chopped parsley and fine cheese shavings.",
+  "translations": {
+    "hi": {
+      "name": "गार्लिक बटर पास्ता",
+      "ingredients": [
+        "सूखी बिना अंडे की स्पेगेटी",
+        "पानी",
+        "मक्खन",
+        "लहसुन",
+        "पार्सले",
+        "नींबू का रस",
+        "शाकाहारी हार्ड चीज़",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "पानी और अधिकांश नमक उबालें। स्पेगेटी पैकेट के समय अनुसार हल्की दृढ़ नरम होने तक पकाएँ।",
+        "इस बीच लहसुन पतला काटें और धीमी आँच पर मक्खन पिघलाएँ। लहसुन 3 मिनट सुगंधित व हल्का सुनहरा करें, गहरा न होने दें।",
+        "200 मिली पास्ता का पानी बचाकर स्पेगेटी निथारें। गार्लिक बटर में पास्ता और थोड़ा बचा पानी डालकर अच्छी तरह उछालकर मिलाएँ।",
+        "आँच बंद करके नींबू रस, काली मिर्च, पार्सले और कसा चीज़ मिलाएँ। ज़रूरत पर बचा पानी डालें, नमक जाँचें और परोसें।"
+      ],
+      "tips": [
+        "शाकाहारी हार्ड चीज़ लें और लहसुन भूरा व कड़वा होने से पहले पकाना रोकें।"
+      ]
+    },
+    "gu": {
+      "name": "ગાર્લિક બટર પાસ્તા",
+      "ingredients": [
+        "સૂકી ઇંડા વિનાની સ્પેગેટી",
+        "પાણી",
+        "માખણ",
+        "લસણ",
+        "પાર્સલી",
+        "લીંબુનો રસ",
+        "શાકાહારી હાર્ડ ચીઝ",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "પાણી અને મોટાભાગનું મીઠું ઉકાળો. સ્પેગેટી પેકેટના સમય મુજબ સહેજ કડક પરંતુ નરમ થાય ત્યાં સુધી બાફો.",
+        "તે દરમિયાન લસણ પાતળું કાપો અને ધીમા તાપે માખણ ઓગાળો. લસણ 3 મિનિટ સુગંધિત અને હળવું સોનેરી કરો, ઘેરું થવા ન દો.",
+        "200 મિલી પાસ્તાનું પાણી રાખી સ્પેગેટી નિતારો. ગાર્લિક બટરમાં પાસ્તા અને થોડું રાખેલું પાણી ઉમેરી સારી રીતે ઉછાળી ભેળવો.",
+        "તાપ બંધ કરી લીંબુનો રસ, મરી, પાર્સલી અને ખમણેલી ચીઝ ભેળવો. જરૂર પડે તો રાખેલું પાણી ઉમેરો, મીઠું તપાસી પીરસો."
+      ],
+      "tips": [
+        "શાકાહારી હાર્ડ ચીઝ લો અને લસણ બદામી તથા કડવું થાય તે પહેલાં રાંધવાનું રોકો."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/garlic-butter-pasta.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,189 @@
+{
+  "sourceReviewId": "R3402",
+  "id": "paneer-pasanda",
+  "status": "published-popular-200-intake-batch",
+  "name": "Paneer Pasanda",
+  "cuisine": "North Indian",
+  "categories": [
+    "Sabzi/Curries",
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "curry",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "fresh coriander",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "green chilli",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "cornflour",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 400,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "onion",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "tomatoes",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "cumin seeds",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Kashmiri chilli powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "ground coriander",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "garam masala",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Cut most of the paneer into thin matching triangles; crumble the trimmings. Mix the crumbs with half the chopped cashews, raisins, coriander and green chilli.",
+    "Sandwich the filling between paneer triangles. Mix cornflour with 70 ml water, lightly coat the sandwiches and shallow-fry in half the oil until golden; set aside.",
+    "Heat remaining oil, add cumin and chopped onion; cook 8 minutes. Add ginger, garlic, tomatoes, remaining cashews and ground spices except garam masala.",
+    "Cook until tomatoes soften, cool slightly and blend smooth with remaining water. Return to the pan, add salt and simmer 10 minutes.",
+    "Stir in cream and garam masala. Gently place paneer sandwiches in the gravy and heat for 3 minutes without vigorous stirring."
+  ],
+  "tips": [
+    "Keep the filling thin and the paneer slices even so the sandwiches hold together."
+  ],
+  "photoDescription": "Triangular paneer sandwiches with a fine nut and raisin stuffing in creamy orange-red gravy, cream swirl and coriander.",
+  "translations": {
+    "hi": {
+      "name": "पनीर पसंदा",
+      "ingredients": [
+        "पनीर",
+        "काजू",
+        "किशमिश",
+        "हरा धनिया",
+        "हरी मिर्च",
+        "कॉर्नफ्लोर",
+        "पानी",
+        "तेल",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "क्रीम",
+        "जीरा",
+        "कश्मीरी मिर्च पाउडर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक"
+      ],
+      "steps": [
+        "अधिकांश पनीर पतले एक जैसे त्रिकोण में काटें; बचे किनारे मसलें। चूरे में आधे कटे काजू, किशमिश, धनिया और हरी मिर्च मिलाएँ।",
+        "पनीर के त्रिकोणों के बीच भरावन रखें। कॉर्नफ्लोर में 70 मिली पानी मिलाएँ, सैंडविच हल्के लपेटें और आधे तेल में सुनहरा तलकर अलग रखें।",
+        "बचा तेल गरम कर जीरा और कटा प्याज़ डालें; 8 मिनट पकाएँ। अदरक, लहसुन, टमाटर, बचे काजू और गरम मसाले के अलावा पिसे मसाले डालें।",
+        "टमाटर नरम होने तक पकाएँ, थोड़ा ठंडा करें और बचे पानी के साथ चिकना पीसें। पैन में लौटाएँ, नमक डालकर 10 मिनट धीमे पकाएँ।",
+        "क्रीम और गरम मसाला मिलाएँ। पनीर सैंडविच धीरे ग्रेवी में रखें और बिना तेज़ चलाए 3 मिनट गरम करें।"
+      ],
+      "tips": [
+        "भरावन पतला और पनीर के टुकड़े समान रखें ताकि सैंडविच खुले नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "પનીર પસંદા",
+      "ingredients": [
+        "પનીર",
+        "કાજુ",
+        "કિસમિસ",
+        "લીલા ધાણા",
+        "લીલું મરચું",
+        "કોર્નફ્લોર",
+        "પાણી",
+        "તેલ",
+        "ડુંગળી",
+        "ટામેટાં",
+        "આદુ",
+        "લસણ",
+        "ક્રીમ",
+        "જીરું",
+        "કાશ્મીરી મરચું પાઉડર",
+        "ધાણા પાઉડર",
+        "ગરમ મસાલો",
+        "મીઠું"
+      ],
+      "steps": [
+        "મોટાભાગનું પનીર પાતળા એકસરખા ત્રિકોણમાં કાપો; વધેલા કિનારા મસળો. ભૂકામાં અડધા સમારેલા કાજુ, કિસમિસ, ધાણા અને લીલું મરચું ભેળવો.",
+        "પનીરના ત્રિકોણ વચ્ચે પૂરણી ભરો. કોર્નફ્લોરમાં 70 મિલી પાણી ભેળવો, સેન્ડવિચને હળવેથી લેપો અને અડધા તેલમાં સોનેરી શેલો ફ્રાય કરી રાખો.",
+        "બાકીનું તેલ ગરમ કરી જીરું અને સમારેલી ડુંગળી ઉમેરો; 8 મિનિટ પકાવો. આદુ, લસણ, ટામેટાં, બાકીના કાજુ અને ગરમ મસાલા સિવાયના પાઉડર મસાલા ઉમેરો.",
+        "ટામેટાં નરમ થાય ત્યાં સુધી પકાવો, થોડું ઠંડું કરી બાકી પાણી સાથે લીસું પીસો. પેનમાં પાછું નાખો, મીઠું ઉમેરી 10 મિનિટ ધીમે પકાવો.",
+        "ક્રીમ અને ગરમ મસાલો ભેળવો. પનીરની સેન્ડવિચ હળવેથી ગ્રેવીમાં મૂકો અને જોરથી હલાવ્યા વિના 3 મિનિટ ગરમ કરો."
+      ],
+      "tips": [
+        "પૂરણી પાતળી અને પનીરના ટુકડા સમાન રાખો જેથી સેન્ડવિચ છૂટે નહીં."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/paneer-pasanda.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

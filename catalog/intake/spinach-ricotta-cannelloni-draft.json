@@ -1,0 +1,146 @@
+{
+  "sourceReviewId": "R3425",
+  "id": "spinach-ricotta-cannelloni",
+  "status": "published-popular-200-intake-batch",
+  "name": "Spinach Ricotta Cannelloni",
+  "cuisine": "Italian",
+  "categories": [
+    "Guest Menus",
+    "Lunch",
+    "Dinner"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "dry egg-free cannelloni tubes",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "spinach",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian ricotta cheese",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "vegetarian mozzarella cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "tomato passata",
+      "qty": 700,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "garlic",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "qty": 25,
+      "unit": "ml"
+    },
+    {
+      "name": "basil leaves",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "ground nutmeg",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "black pepper",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190°C. Wilt washed spinach in a covered pan, cool, squeeze very dry and chop finely.",
+    "Soften chopped garlic in oil, add passata, water, basil and half the salt; simmer for 8 minutes.",
+    "Mix spinach with ricotta, nutmeg, pepper and remaining salt. Spoon or pipe the filling into dry cannelloni tubes.",
+    "Spread half the sauce in a baking dish, arrange the filled tubes and cover completely with remaining sauce and mozzarella.",
+    "Cover with foil and bake for 30 minutes, then uncover and bake 10 minutes until the pasta is tender. Rest before serving."
+  ],
+  "tips": [
+    "Choose oven-ready egg-free cannelloni and vegetarian ricotta and mozzarella; wet spinach makes the filling runny."
+  ],
+  "photoDescription": "Large tubular cannelloni stuffed with green spinach and white ricotta under tomato sauce and melted golden mozzarella, cut end visible.",
+  "translations": {
+    "hi": {
+      "name": "पालक रिकोटा कैनेलोनी",
+      "ingredients": [
+        "सूखी बिना अंडे की कैनेलोनी नलियाँ",
+        "पालक",
+        "शाकाहारी रिकोटा चीज़",
+        "शाकाहारी मोज़रेला चीज़",
+        "छनी टमाटर प्यूरी",
+        "पानी",
+        "लहसुन",
+        "जैतून का तेल",
+        "बेसिल के पत्ते",
+        "जायफल पाउडर",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "steps": [
+        "ओवन 190°C पर गरम करें। धुला पालक ढके पैन में नरम करें, ठंडा करके अच्छी तरह निचोड़ें और बारीक काटें।",
+        "तेल में कटा लहसुन नरम करें, प्यूरी, पानी, बेसिल और आधा नमक डालकर 8 मिनट धीमे पकाएँ।",
+        "पालक में रिकोटा, जायफल, काली मिर्च और बचा नमक मिलाएँ। चम्मच या पाइपिंग बैग से सूखी कैनेलोनी नलियाँ भरें।",
+        "बेकिंग डिश में आधा सॉस फैलाएँ, भरी नलियाँ रखें और बचे सॉस व मोज़रेला से पूरी तरह ढकें।",
+        "फ़ॉइल से ढककर 30 मिनट बेक करें, फिर खोलकर 10 मिनट पास्ता नरम होने तक बेक करें। परोसने से पहले थोड़ा ठहराएँ।"
+      ],
+      "tips": [
+        "ओवन में सीधे पकने वाली बिना अंडे की कैनेलोनी और शाकाहारी रिकोटा व मोज़रेला लें; गीला पालक भरावन पतला करता है।"
+      ]
+    },
+    "gu": {
+      "name": "પાલક રિકોટા કેનેલોની",
+      "ingredients": [
+        "સૂકી ઇંડા વિનાની કેનેલોની નળીઓ",
+        "પાલક",
+        "શાકાહારી રિકોટા ચીઝ",
+        "શાકાહારી મોઝરેલા ચીઝ",
+        "ગાળેલી ટામેટાંની પ્યુરી",
+        "પાણી",
+        "લસણ",
+        "ઓલિવ તેલ",
+        "બેસિલનાં પાન",
+        "જાયફળ પાઉડર",
+        "મીઠું",
+        "કાળા મરી"
+      ],
+      "steps": [
+        "ઓવન 190°C પર ગરમ કરો. ધોયેલી પાલક ઢાંકેલા પેનમાં નરમ કરો, ઠંડી કરી સારી રીતે નિચોવી ઝીણી સમારો.",
+        "તેલમાં સમારેલું લસણ નરમ કરો, પ્યુરી, પાણી, બેસિલ અને અડધું મીઠું ઉમેરી 8 મિનિટ ધીમે પકાવો.",
+        "પાલકમાં રિકોટા, જાયફળ, મરી અને બાકીનું મીઠું ભેળવો. ચમચી કે પાઇપિંગ બેગથી સૂકી કેનેલોની નળીઓ ભરો.",
+        "બેકિંગ ડિશમાં અડધો સોસ ફેલાવો, ભરેલી નળીઓ ગોઠવો અને બાકીના સોસ તથા મોઝરેલાથી સંપૂર્ણ ઢાંકો.",
+        "ફોઇલથી ઢાંકી 30 મિનિટ બેક કરો, પછી ખોલીને 10 મિનિટ પાસ્તા નરમ થાય ત્યાં સુધી બેક કરો. પીરસતાં પહેલાં થોડું ઠરવા દો."
+      ],
+      "tips": [
+        "સીધી ઓવનમાં રંધાય તેવી ઇંડા વિનાની કેનેલોની અને શાકાહારી રિકોટા તથા મોઝરેલા લો; ભીની પાલકથી પૂરણી પાતળી થાય છે."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/spinach-ricotta-cannelloni.png",
+  "photoReview": "Visually reviewed on 2026-10-16 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}
