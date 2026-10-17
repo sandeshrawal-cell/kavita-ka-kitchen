@@ -1,0 +1,116 @@
+{
+  "sourceReviewId": "R1563",
+  "id": "baklava",
+  "status": "published-popular-200-intake-batch",
+  "name": "Baklava",
+  "cuisine": "Middle Eastern",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "egg-free filo pastry",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "shelled pistachios",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 8,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Boil sugar, water and lemon juice for 8 minutes; set aside to cool. Chop nuts finely and mix with cinnamon.",
+    "Heat oven to 170°C. Trim filo to a small tin and keep unused sheets covered with a barely damp cloth.",
+    "Layer butter-brushed filo in the tin, spreading nuts between groups of sheets; finish with several buttered sheets and cut diamonds.",
+    "Bake for 40–45 minutes until crisp and golden; pour cooled syrup over hot pastry and rest for 3 hours before serving."
+  ],
+  "tips": [
+    "Cut before baking so syrup reaches the lower layers without crushing the pastry."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बकलावा",
+      "ingredients": [
+        "बिना अंडे की फिलो पेस्ट्री",
+        "मक्खन",
+        "अखरोट",
+        "छिले पिस्ते",
+        "दालचीनी पाउडर",
+        "चीनी",
+        "पानी",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "चीनी, पानी और नींबू का रस 8 मिनट उबालकर ठंडा करें। मेवे बारीक काटकर दालचीनी मिलाएँ।",
+        "ओवन 170°C पर गरम करें। फिलो छोटे साँचे के आकार में काटें; बाकी परतें हल्के नम कपड़े से ढकें।",
+        "हर फिलो पर मक्खन लगाकर परतें रखें, बीच में मेवे फैलाएँ; ऊपर मक्खन लगी परतें रखकर हीरे के आकार में काटें।",
+        "40–45 मिनट कुरकुरा सुनहरा बेक करें; गरम पेस्ट्री पर ठंडी चाशनी डालकर परोसने से पहले 3 घंटे रखें।"
+      ],
+      "tips": [
+        "बेक करने से पहले काटें ताकि पेस्ट्री टूटे बिना चाशनी नीचे तक पहुँचे।"
+      ],
+      "passiveTime": "बेक करने के बाद 3 घंटे रखें।"
+    },
+    "gu": {
+      "name": "બકલાવા",
+      "ingredients": [
+        "ઈંડા વિનાની ફિલો પેસ્ટ્રી",
+        "માખણ",
+        "અખરોટ",
+        "છોલેલા પિસ્તા",
+        "તજ પાઉડર",
+        "ખાંડ",
+        "પાણી",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ખાંડ, પાણી અને લીંબુનો રસ 8 મિનિટ ઉકાળી ઠંડો કરો. મેવા ઝીણા સમારી તજ ભેળવો.",
+        "ઓવન 170°C પર ગરમ કરો. ફિલો નાના મોલ્ડના માપે કાપો; બાકીની પરતો સહેજ ભીના કપડાથી ઢાંકો.",
+        "દરેક ફિલો પર માખણ લગાવી પરતો કરો, વચ્ચે મેવા પાથરો; ઉપર માખણવાળી પરતો મૂકી હીરાના આકારમાં કાપો.",
+        "40–45 મિનિટ કરકરું સોનેરી બેક કરો; ગરમ પેસ્ટ્રી પર ઠંડી ચાસણી રેડી પીરસતાં પહેલાં 3 કલાક રાખો."
+      ],
+      "tips": [
+        "બેક કરતાં પહેલાં કાપો જેથી પેસ્ટ્રી તૂટ્યા વગર ચાસણી નીચે સુધી પહોંચે."
+      ],
+      "passiveTime": "બેક કર્યા પછી 3 કલાક રાખો."
+    }
+  },
+  "photoDescription": "Small diamond baklava pieces showing many crisp golden filo layers and chopped walnut-pistachio filling, lightly glossy syrup.",
+  "passiveTime": "Rest for 3 hours after baking.",
+  "photoDraft": "catalog/intake/photos/baklava.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

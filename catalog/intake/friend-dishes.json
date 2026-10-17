@@ -30150,8 +30150,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/phirni.png"
     },
     {
       "id": "shahi-tukda",
@@ -30169,8 +30170,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/shahi-tukda.png"
     },
     {
       "id": "aamras",
@@ -30355,8 +30357,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 3
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 3,
+      "photoDraft": "catalog/intake/photos/amrakhand.png"
     },
     {
       "id": "bhapa-doi",
@@ -31217,8 +31220,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-tiramisu.png"
     },
     {
       "id": "eggless-creme-brulee",
@@ -31253,8 +31257,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/kunafa.png"
     },
     {
       "id": "baklava",
@@ -31270,8 +31275,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/baklava.png"
     },
     {
       "id": "umm-ali",
@@ -31397,8 +31403,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/mango-sticky-rice.png"
     },
     {
       "id": "tub-tim-grob",
@@ -31837,8 +31844,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/pistachio-gelato.png"
     },
     {
       "id": "lemon-granita",
@@ -34035,8 +34043,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-molten-lava-cake.png"
     },
     {
       "id": "eggless-swiss-roll",
@@ -34069,8 +34078,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/mug-cake.png"
     },
     {
       "id": "eggless-blueberry-muffins",
@@ -34086,8 +34096,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-blueberry-muffins.png"
     },
     {
       "id": "eggless-chocolate-muffins",
@@ -34154,8 +34165,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-carrot-cake.png"
     },
     {
       "id": "eggless-date-and-walnut-cake",
@@ -34171,8 +34183,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-date-and-walnut-cake.png"
     },
     {
       "id": "eggless-coffee-walnut-cake",
@@ -34188,8 +34201,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-coffee-walnut-cake.png"
     },
     {
       "id": "eggless-orange-cake",
@@ -34273,8 +34287,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/rasmalai-cake.png"
     },
     {
       "id": "gulab-jamun-cake",
@@ -34307,8 +34322,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-tres-leches-cake.png"
     },
     {
       "id": "eggless-victoria-sponge",
@@ -34375,8 +34391,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-pistachio-cake.png"
     },
     {
       "id": "eggless-new-york-cheesecake",
@@ -34392,8 +34409,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-new-york-cheesecake.png"
     },
     {
       "id": "eggless-peanut-butter-cookies",
@@ -34897,8 +34915,9 @@
       "sourceJainFlag": "Adaptable",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/eggless-cinnamon-rolls.png"
     },
     {
       "id": "eggless-donuts",
@@ -34986,8 +35005,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 4
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 4,
+      "photoDraft": "catalog/intake/photos/basbousa.png"
     },
     {
       "id": "eggless-lamingtons",
@@ -51276,8 +51296,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/granola-bars.png"
     },
     {
       "id": "date-and-nut-bars",
@@ -51706,8 +51727,9 @@
       "sourceJainFlag": "N",
       "sourceOnionGarlicFlag": "Yes",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/poha-cutlet.png"
     },
     {
       "id": "soya-cutlet",
@@ -51863,8 +51885,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/seed-crackers.png"
     },
     {
       "id": "baked-samosa-pinwheels",
@@ -52500,8 +52523,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 6
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 6,
+      "photoDraft": "catalog/intake/photos/makhana-chivda.png"
     },
     {
       "id": "dry-fruit-chikki",
@@ -70154,8 +70178,9 @@
       "sourceJainFlag": "Y",
       "sourceOnionGarlicFlag": "No",
       "relatedReviewIds": [],
-      "contentStatus": "recipe-photo-translation-review-required",
-      "batch": 8
+      "contentStatus": "published-popular-200-intake-batch",
+      "batch": 8,
+      "photoDraft": "catalog/intake/photos/mochi-ice-cream.png"
     },
     {
       "id": "sutlac",

@@ -1,0 +1,137 @@
+{
+  "sourceReviewId": "R1743",
+  "id": "eggless-tres-leches-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Tres Leches Cake",
+  "cuisine": "Latin American",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 4,
+      "unit": "ml"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "evaporated milk",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "whipping cream",
+      "qty": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oven to 175°C. Whisk yogurt, sugar, oil, vanilla and 60 ml milk; fold in flour, baking powder and soda.",
+    "Bake in a greased 18 cm dish for 25–30 minutes until a skewer comes out clean; cool until just warm.",
+    "Mix condensed milk, evaporated milk and remaining milk; prick the cake all over and pour the mixture slowly.",
+    "Chill for 4 hours to absorb the milk; whip cold cream to soft peaks and spread over the cake before serving."
+  ],
+  "tips": [
+    "Pour the milk in stages; stop briefly if it pools and let the cake absorb it."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का ट्रेस लेचेस केक",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "चीनी",
+        "तेल",
+        "दूध",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "वनीला अर्क",
+        "मीठा कंडेंस्ड मिल्क",
+        "इवैपोरेटेड मिल्क",
+        "व्हिपिंग क्रीम"
+      ],
+      "steps": [
+        "ओवन 175°C पर गरम करें। दही, चीनी, तेल, वनीला और 60 मिली दूध फेंटें; मैदा, बेकिंग पाउडर और सोडा मिलाएँ।",
+        "चिकने 18 सेमी बर्तन में 25–30 मिनट सींक साफ निकलने तक बेक करें; हल्का गरम रहने तक ठंडा करें।",
+        "कंडेंस्ड मिल्क, इवैपोरेटेड मिल्क और बचा दूध मिलाएँ; केक में जगह-जगह छेद कर मिश्रण धीरे डालें।",
+        "दूध सोखने के लिए 4 घंटे ठंडा करें; ठंडी क्रीम नरम चोटियों तक फेंटकर परोसने से पहले फैलाएँ।"
+      ],
+      "tips": [
+        "दूध धीरे-धीरे डालें; इकट्ठा होने लगे तो थोड़ी देर रुककर सोखने दें।"
+      ],
+      "passiveTime": "4 घंटे ठंडा करें।"
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની ટ્રેસ લેચેસ કેક",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "ખાંડ",
+        "તેલ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "વેનિલા અર્ક",
+        "મીઠું કન્ડેન્સ્ડ મિલ્ક",
+        "ઇવેપોરેટેડ મિલ્ક",
+        "વ્હિપિંગ ક્રીમ"
+      ],
+      "steps": [
+        "ઓવન 175°C પર ગરમ કરો. દહીં, ખાંડ, તેલ, વેનિલા અને 60 મિલી દૂધ ફેંટો; મેંદો, બેકિંગ પાઉડર અને સોડા ભેળવો.",
+        "ચીકણા 18 સેમી વાસણમાં 25–30 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; હૂંફાળું રહે ત્યાં સુધી ઠંડું કરો.",
+        "કન્ડેન્સ્ડ મિલ્ક, ઇવેપોરેટેડ મિલ્ક અને બાકી દૂધ ભેળવો; કેકમાં બધે કાણા પાડી મિશ્રણ ધીમે રેડો.",
+        "દૂધ શોષાય તે માટે 4 કલાક ઠંડું કરો; ઠંડી ક્રીમ નરમ શિખર સુધી ફેંટી પીરસતાં પહેલાં પાથરો."
+      ],
+      "tips": [
+        "દૂધ તબક્કાવાર રેડો; ઉપર ભરાય તો થોડીવાર રોકાઈ શોષાવા દો."
+      ],
+      "passiveTime": "4 કલાક ઠંડું કરો."
+    }
+  },
+  "photoDescription": "Square pale vanilla milk-soaked sponge cake with smooth whipped cream topping, moist crumb and a little milk at the base.",
+  "passiveTime": "Chill for 4 hours.",
+  "photoDraft": "catalog/intake/photos/eggless-tres-leches-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

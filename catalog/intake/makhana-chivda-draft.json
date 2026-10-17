@@ -1,0 +1,128 @@
+{
+  "sourceReviewId": "R2791",
+  "id": "makhana-chivda",
+  "status": "published-popular-200-intake-batch",
+  "name": "Makhana Chivda",
+  "cuisine": "Indian",
+  "categories": [
+    "Snacks",
+    "Lunchbox"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "roast",
+  "ingredients": [
+    {
+      "name": "makhana",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "peanuts",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cashews",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "dried grated coconut",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "ghee",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "curry leaves",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "turmeric",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "red chilli powder",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Dry-roast makhana on low heat for 7–8 minutes, stirring until a cooled piece snaps rather than bends.",
+    "Heat ghee and fry peanuts for 4–5 minutes until cooked; add cashews and toast until lightly golden.",
+    "Add curry leaves, coconut and raisins; stir until leaves are crisp, then lower the heat and add spices and salt.",
+    "Toss in roasted makhana until evenly coated; spread on a tray and cool completely before storing airtight."
+  ],
+  "tips": [
+    "Use dry coconut flakes if storing beyond the day; fresh coconut shortens storage."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मखाना चिवड़ा",
+      "ingredients": [
+        "मखाने",
+        "मूँगफली",
+        "काजू",
+        "किशमिश",
+        "सूखा कसा नारियल",
+        "घी",
+        "करी पत्ते",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक"
+      ],
+      "steps": [
+        "मखाने धीमी आँच पर 7–8 मिनट चलाते हुए भूनें; ठंडा टुकड़ा दबाने पर कुरकुरा टूटना चाहिए।",
+        "घी गरम कर मूँगफली 4–5 मिनट पकने तक भूनें; काजू डालकर हल्का सुनहरा करें।",
+        "करी पत्ते, नारियल और किशमिश डालें; पत्ते कुरकुरे होने पर आँच कम करके मसाले और नमक मिलाएँ।",
+        "भुने मखाने अच्छी तरह मिलाएँ; ट्रे में फैलाकर पूरी तरह ठंडा करें, फिर हवा बंद डिब्बे में भरें।"
+      ],
+      "tips": [
+        "अधिक समय रखने के लिए सूखे नारियल के टुकड़े लें; ताज़ा नारियल से जल्दी खराब होता है।"
+      ]
+    },
+    "gu": {
+      "name": "મખાણા ચેવડો",
+      "ingredients": [
+        "મખાણા",
+        "મગફળી",
+        "કાજુ",
+        "કિસમિસ",
+        "સૂકું છીણેલું નાળિયેર",
+        "ઘી",
+        "લીમડાનાં પાન",
+        "હળદર",
+        "લાલ મરચું પાઉડર",
+        "મીઠું"
+      ],
+      "steps": [
+        "મખાણા ધીમા તાપે 7–8 મિનિટ હલાવી શેકો; ઠંડો ટુકડો દબાવતાં કરકરો તૂટવો જોઈએ.",
+        "ઘી ગરમ કરી મગફળી 4–5 મિનિટ શેકો; કાજુ ઉમેરી આછા સોનેરી કરો.",
+        "લીમડાનાં પાન, નાળિયેર અને કિસમિસ ઉમેરો; પાન કરકરાં થાય ત્યારે તાપ ઓછો કરી મસાલા અને મીઠું ઉમેરો.",
+        "શેકેલા મખાણા સરખા ભેળવો; ટ્રેમાં ફેલાવી સંપૂર્ણ ઠંડા થાય પછી હવાચુસ્ત ડબ્બામાં ભરો."
+      ],
+      "tips": [
+        "વધુ સમય રાખવા સૂકું નાળિયેર લો; તાજા નાળિયેરથી વહેલું બગડે છે."
+      ]
+    }
+  },
+  "photoDescription": "Airy white roasted fox nuts in a bowl with toasted peanuts, cashews, raisins and crisp curry leaves, light turmeric colour.",
+  "photoDraft": "catalog/intake/photos/makhana-chivda.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

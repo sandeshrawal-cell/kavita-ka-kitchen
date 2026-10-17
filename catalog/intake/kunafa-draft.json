@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R1562",
+  "id": "kunafa",
+  "status": "published-popular-200-intake-batch",
+  "name": "Kunafa",
+  "cuisine": "Middle Eastern",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "egg-free kataifi pastry",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted vegetarian mozzarella",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "rose water",
+      "qty": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "shelled pistachios",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Simmer sugar, water and lemon juice for 7 minutes to make a light syrup; remove from heat and add rose water.",
+    "Heat oven to 180°C. Chop kataifi strands shorter and rub with melted butter until evenly moistened.",
+    "Press half into a greased 20 cm tin, add drained grated cheese leaving a border, and cover firmly with remaining pastry.",
+    "Bake for 30–35 minutes until deeply golden; pour cooled syrup over the hot pastry and finish with chopped pistachios."
+  ],
+  "tips": [
+    "Use vegetarian cheese and egg-free pastry; serve warm while the cheese is soft."
+  ],
+  "translations": {
+    "hi": {
+      "name": "कुनाफा",
+      "ingredients": [
+        "बिना अंडे की कताइफ़ी पेस्ट्री",
+        "मक्खन",
+        "बिना नमक का शाकाहारी मोज़रेला",
+        "चीनी",
+        "पानी",
+        "नींबू का रस",
+        "गुलाब जल",
+        "छिले पिस्ते"
+      ],
+      "steps": [
+        "चीनी, पानी और नींबू का रस 7 मिनट पकाकर हल्की चाशनी बनाएँ; आँच बंद कर गुलाब जल डालें।",
+        "ओवन 180°C पर गरम करें। कताइफ़ी के रेशे छोटे काटें और पिघले मक्खन से अच्छी तरह मिलाएँ।",
+        "आधी पेस्ट्री चिकने 20 सेमी साँचे में दबाएँ, किनारा छोड़कर सूखा कसा चीज़ रखें और बाकी पेस्ट्री से ढकें।",
+        "30–35 मिनट गहरा सुनहरा होने तक बेक करें; गरम पेस्ट्री पर ठंडी चाशनी डालकर कटे पिस्ते सजाएँ।"
+      ],
+      "tips": [
+        "शाकाहारी चीज़ और बिना अंडे की पेस्ट्री लें; चीज़ नरम हो तभी गरम परोसें।"
+      ]
+    },
+    "gu": {
+      "name": "કુનાફા",
+      "ingredients": [
+        "ઈંડા વિનાની કતાઈફી પેસ્ટ્રી",
+        "માખણ",
+        "મીઠા વગરનું શાકાહારી મોઝરેલા",
+        "ખાંડ",
+        "પાણી",
+        "લીંબુનો રસ",
+        "ગુલાબજળ",
+        "છોલેલા પિસ્તા"
+      ],
+      "steps": [
+        "ખાંડ, પાણી અને લીંબુનો રસ 7 મિનિટ ઉકાળી હલકી ચાસણી બનાવો; તાપ બંધ કરી ગુલાબજળ ઉમેરો.",
+        "ઓવન 180°C પર ગરમ કરો. કતાઈફીના રેસા નાના કાપી પીગળેલા માખણ સાથે સરખા ભેળવો.",
+        "અડધી પેસ્ટ્રી ઘી લગાવેલા 20 સેમી મોલ્ડમાં દબાવો, કિનારી છોડી નિતારેલું છીણેલું ચીઝ પાથરી બાકી પેસ્ટ્રીથી ઢાંકો.",
+        "30–35 મિનિટ ઘેરું સોનેરી થાય ત્યાં સુધી બેક કરો; ગરમ પેસ્ટ્રી પર ઠંડી ચાસણી રેડી સમારેલા પિસ્તા ઉમેરો."
+      ],
+      "tips": [
+        "શાકાહારી ચીઝ અને ઈંડા વિનાની પેસ્ટ્રી લો; ચીઝ નરમ હોય ત્યારે ગરમ પીરસો."
+      ]
+    }
+  },
+  "photoDescription": "Round golden orange shredded kataifi pastry with crisp hair-thin strands, pistachio garnish and a cut wedge revealing soft white cheese.",
+  "photoDraft": "catalog/intake/photos/kunafa.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

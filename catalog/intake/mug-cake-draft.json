@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R1729",
+  "id": "mug-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mug Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 15,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "cocoa powder",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 160,
+      "unit": "ml"
+    },
+    {
+      "name": "oil",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 4,
+      "unit": "ml"
+    },
+    {
+      "name": "dark chocolate",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Choose 4 microwave-safe mugs of at least 250 ml capacity; mix flour, cocoa, sugar and baking powder in a bowl.",
+    "Whisk in milk, oil and vanilla until no dry flour remains; fold in chopped chocolate.",
+    "Divide batter equally among the mugs, leaving ample room to rise; wipe splashes from the rims.",
+    "Microwave each mug separately at 800 W for 70–90 seconds until just set; rest for 2 minutes before eating."
+  ],
+  "tips": [
+    "Microwave power varies; add short bursts only if the centre is still wet."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मग केक",
+      "ingredients": [
+        "मैदा",
+        "कोको पाउडर",
+        "चीनी",
+        "दूध",
+        "तेल",
+        "बेकिंग पाउडर",
+        "वनीला अर्क",
+        "डार्क चॉकलेट"
+      ],
+      "steps": [
+        "कम से कम 250 मिली के 4 माइक्रोवेव सुरक्षित मग लें; कटोरे में मैदा, कोको, चीनी और बेकिंग पाउडर मिलाएँ।",
+        "दूध, तेल और वनीला डालकर सूखा मैदा खत्म होने तक मिलाएँ; कटी चॉकलेट मिलाएँ।",
+        "घोल मग में बराबर बाँटें और फूलने की जगह छोड़ें; किनारों पर लगा घोल पोंछें।",
+        "हर मग अलग 800 W पर 70–90 सेकंड जमने तक पकाएँ; खाने से पहले 2 मिनट रखें।"
+      ],
+      "tips": [
+        "माइक्रोवेव की शक्ति अलग होती है; बीच गीला हो तो थोड़े समय के लिए फिर पकाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "મગ કેક",
+      "ingredients": [
+        "મેંદો",
+        "કોકો પાઉડર",
+        "ખાંડ",
+        "દૂધ",
+        "તેલ",
+        "બેકિંગ પાઉડર",
+        "વેનિલા અર્ક",
+        "ડાર્ક ચોકલેટ"
+      ],
+      "steps": [
+        "ઓછામાં ઓછા 250 મિલીના 4 માઇક્રોવેવ સલામત મગ લો; વાટકીમાં મેંદો, કોકો, ખાંડ અને બેકિંગ પાઉડર ભેળવો.",
+        "દૂધ, તેલ અને વેનિલા ઉમેરી સૂકો લોટ ન રહે ત્યાં સુધી ભેળવો; સમારેલી ચૉકલેટ ઉમેરો.",
+        "ખીરું મગમાં સરખું વહેંચી ફૂલવાની પૂરતી જગ્યા રાખો; કિનારી પર પડેલું ખીરું લૂછો.",
+        "દરેક મગ અલગ 800 W પર 70–90 સેકન્ડ જામે ત્યાં સુધી પકાવો; ખાતાં પહેલાં 2 મિનિટ રાખો."
+      ],
+      "tips": [
+        "માઇક્રોવેવની શક્તિ જુદી હોય છે; વચ્ચે ભીનું હોય તો થોડો સમય ફરી પકાવો."
+      ]
+    }
+  },
+  "photoDescription": "Chocolate cake risen inside ceramic mugs, moist cooked chocolate crumb and melted chocolate pieces, no frosting.",
+  "photoDraft": "catalog/intake/photos/mug-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

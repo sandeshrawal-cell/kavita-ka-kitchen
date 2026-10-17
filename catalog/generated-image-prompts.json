@@ -5372,5 +5372,155 @@
     "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Cheese Garlic Bread. Golden toasted bread slices with bubbling melted mozzarella, tiny garlic pieces and herb flecks. Show only the recipe ingredients, in their cooked form: egg-free bread, butter, garlic, vegetarian mozzarella, dried oregano, fresh coriander. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
     "method": "Built-in image generation",
     "reviewedAt": "2026-10-16"
+  },
+  "poha-cutlet": {
+    "id": "poha-cutlet",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Poha Cutlet. Eight golden shallow-fried oval poha potato cutlets, crisp fine-textured exterior, coriander flecks. Show only the recipe ingredients, in their cooked form: thick poha, boiled potatoes, carrot, onion, ginger, green chilli, fresh coriander, rice flour, salt, oil. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "makhana-chivda": {
+    "id": "makhana-chivda",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Makhana Chivda. Airy white roasted fox nuts in a bowl with toasted peanuts, cashews, raisins and crisp curry leaves, light turmeric colour. Show only the recipe ingredients, in their cooked form: makhana, peanuts, cashews, raisins, dried grated coconut, ghee, curry leaves, turmeric, red chilli powder, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "seed-crackers": {
+    "id": "seed-crackers",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Seed Crackers. Thin rustic rectangular golden crackers densely made of visible pumpkin, sunflower, sesame and flax seeds. Show only the recipe ingredients, in their cooked form: flax seeds, chia seeds, sunflower seeds, pumpkin seeds, sesame seeds, water, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "granola-bars": {
+    "id": "granola-bars",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Granola Bars. Eight compact chewy oat granola bars with visible almond pieces, pumpkin seeds and raisins, no chocolate coating. Show only the recipe ingredients, in their cooked form: rolled oats, almonds, pumpkin seeds, raisins, smooth peanut butter, honey, salt, ground cinnamon. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-tiramisu": {
+    "id": "eggless-tiramisu",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Tiramisu. Square portion of tiramisu with pale mascarpone cream, coffee-soaked sponge layers and fine cocoa dusting. Show only the recipe ingredients, in their cooked form: egg-free vanilla sponge cake, mascarpone, whipping cream, sugar, brewed coffee, cooled, cocoa powder, vanilla extract. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "kunafa": {
+    "id": "kunafa",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Kunafa. Round golden orange shredded kataifi pastry with crisp hair-thin strands, pistachio garnish and a cut wedge revealing soft white cheese. Show only the recipe ingredients, in their cooked form: egg-free kataifi pastry, butter, unsalted vegetarian mozzarella, sugar, water, lemon juice, rose water, shelled pistachios. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "baklava": {
+    "id": "baklava",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Baklava. Small diamond baklava pieces showing many crisp golden filo layers and chopped walnut-pistachio filling, lightly glossy syrup. Show only the recipe ingredients, in their cooked form: egg-free filo pastry, butter, walnuts, shelled pistachios, ground cinnamon, sugar, water, lemon juice. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "mochi-ice-cream": {
+    "id": "mochi-ice-cream",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Mochi Ice Cream. Small white mochi ice cream balls lightly dusted with starch, one cut to reveal pale vanilla ice cream and thin elastic rice dough. Show only the recipe ingredients, in their cooked form: glutinous rice flour, sugar, water, cornstarch, egg-free vanilla ice cream. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "mango-sticky-rice": {
+    "id": "mango-sticky-rice",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Mango Sticky Rice. Glossy white coconut sticky rice mound beside a fan of ripe golden mango slices, white coconut sauce and toasted sesame. Show only the recipe ingredients, in their cooked form: Thai glutinous rice, coconut milk, sugar, salt, ripe mango flesh, sesame seeds, water. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "pistachio-gelato": {
+    "id": "pistachio-gelato",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Pistachio Gelato. Creamy pale muted green pistachio gelato scoops with finely chopped real pistachios, no bright artificial green colour. Show only the recipe ingredients, in their cooked form: milk, whipping cream, shelled pistachios, sugar, cornstarch, salt. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "basbousa": {
+    "id": "basbousa",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Basbousa. Golden semolina syrup cake cut into diamonds, each topped with an almond, moist grainy crumb. Show only the recipe ingredients, in their cooked form: fine semolina, plain yogurt, grated coconut, butter, sugar, baking powder, water, lemon juice, almonds. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-new-york-cheesecake": {
+    "id": "eggless-new-york-cheesecake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless New York Cheesecake. Tall creamy ivory New York cheesecake wedge with golden biscuit base and lightly browned top, no fruit topping. Show only the recipe ingredients, in their cooked form: egg-free digestive biscuits, butter, cream cheese, plain yogurt, whipping cream, sugar, cornstarch, vanilla extract, lemon juice. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-tres-leches-cake": {
+    "id": "eggless-tres-leches-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Tres Leches Cake. Square pale vanilla milk-soaked sponge cake with smooth whipped cream topping, moist crumb and a little milk at the base. Show only the recipe ingredients, in their cooked form: plain flour, plain yogurt, sugar, oil, milk, baking powder, baking soda, vanilla extract, sweetened condensed milk, evaporated milk, whipping cream. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "rasmalai-cake": {
+    "id": "rasmalai-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Rasmalai Cake. Small white cream-frosted layer cake with pale rasmalai patties and pistachios on top, cardamom sponge visible in a cut slice. Show only the recipe ingredients, in their cooked form: plain flour, plain yogurt, sugar, oil, milk, baking powder, baking soda, ground cardamom, whipping cream, prepared rasmalai with its milk, shelled pistachios. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-molten-lava-cake": {
+    "id": "eggless-molten-lava-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Molten Lava Cake. Small dark chocolate lava cake split open with glossy melted chocolate flowing from the centre, cooked cake edges. Show only the recipe ingredients, in their cooked form: plain flour, cocoa powder, sugar, milk, butter, baking powder, vanilla extract, dark chocolate. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "mug-cake": {
+    "id": "mug-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Mug Cake. Chocolate cake risen inside ceramic mugs, moist cooked chocolate crumb and melted chocolate pieces, no frosting. Show only the recipe ingredients, in their cooked form: plain flour, cocoa powder, sugar, milk, oil, baking powder, vanilla extract, dark chocolate. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-blueberry-muffins": {
+    "id": "eggless-blueberry-muffins",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Blueberry Muffins. Golden domed blueberry muffins in paper cases with purple blueberries bursting through pale tender crumb. Show only the recipe ingredients, in their cooked form: plain flour, plain yogurt, milk, sugar, oil, baking powder, baking soda, vanilla extract, blueberries. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-carrot-cake": {
+    "id": "eggless-carrot-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Carrot Cake. Unfrosted golden brown carrot cake slices with tiny orange carrot flecks and walnut pieces in moist crumb. Show only the recipe ingredients, in their cooked form: plain flour, carrot, plain yogurt, sugar, oil, milk, baking powder, baking soda, ground cinnamon, walnuts. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-date-and-walnut-cake": {
+    "id": "eggless-date-and-walnut-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Date and Walnut Cake. Dark caramel-brown date walnut loaf cake sliced to show moist crumb and large walnut pieces, no icing. Show only the recipe ingredients, in their cooked form: pitted dates, milk, plain flour, oil, walnuts, baking powder, baking soda, ground cinnamon. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-coffee-walnut-cake": {
+    "id": "eggless-coffee-walnut-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Coffee Walnut Cake. Coffee-brown walnut cake with a golden top and visible walnut pieces, neatly cut wedge, no frosting. Show only the recipe ingredients, in their cooked form: plain flour, plain yogurt, sugar, oil, milk, instant coffee, walnuts, baking powder, baking soda, vanilla extract. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-pistachio-cake": {
+    "id": "eggless-pistachio-cake",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Pistachio Cake. Pale naturally pistachio-tinted sponge cake with chopped pistachios on golden top, tender crumb, no neon colouring. Show only the recipe ingredients, in their cooked form: plain flour, shelled pistachios, plain yogurt, sugar, oil, milk, baking powder, baking soda, ground cardamom. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "eggless-cinnamon-rolls": {
+    "id": "eggless-cinnamon-rolls",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Eggless Cinnamon Rolls. Soft golden cinnamon rolls with distinct dark cinnamon spiral layers, baked together in a small pan, no icing. Show only the recipe ingredients, in their cooked form: plain flour, milk, instant yeast, sugar, butter, salt, ground cinnamon. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "phirni": {
+    "id": "phirni",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Phirni. Pale ivory softly set rice phirni in small terracotta bowls, fine grainy creamy texture, saffron strands and sliced pistachios on top. Show only the recipe ingredients, in their cooked form: basmati rice, full-fat milk, sugar, ground cardamom, saffron, pistachios, sliced. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "shahi-tukda": {
+    "id": "shahi-tukda",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Shahi Tukda. Golden fried triangular bread pieces partly covered with thick pale saffron rabri, sliced almonds and pistachios; browned bread edges remain visible. Show only the recipe ingredients, in their cooked form: thick egg-free white bread slices, full-fat milk, sugar, water, ghee, saffron, ground cardamom, pistachios, sliced, almonds, sliced, food-grade rose water. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
+  },
+  "amrakhand": {
+    "id": "amrakhand",
+    "prompt": "Use case: photorealistic-natural. Asset: premium recipe catalogue photograph. Subject: Amrakhand. Thick smooth golden mango shrikhand in a small bowl with soft spoon swirls, tiny saffron flecks and chopped pistachios. Show only the recipe ingredients, in their cooked form: full-fat plain yogurt, ripe mango flesh, powdered sugar, ground cardamom, saffron, milk, pistachios, chopped. Beautiful realistic freshly prepared food, natural window light, true edible textures, warm neutral background, square composition, one dish only. No text, logos, collage, people, meat, eggs or alcohol. Do not add unlisted vegetables or garnishes.",
+    "method": "Built-in image generation",
+    "reviewedAt": "2026-10-17"
   }
 }

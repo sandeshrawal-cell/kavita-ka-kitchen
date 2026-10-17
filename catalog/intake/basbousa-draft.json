@@ -1,0 +1,120 @@
+{
+  "sourceReviewId": "R1782",
+  "id": "basbousa",
+  "status": "published-popular-200-intake-batch",
+  "name": "Basbousa",
+  "cuisine": "Middle Eastern",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 50,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "grated coconut",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 8,
+      "unit": "ml"
+    },
+    {
+      "name": "almonds",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Boil 100 g sugar with water and lemon for 7 minutes; cool the syrup and heat oven to 180°C.",
+    "Mix semolina, coconut, remaining sugar and baking powder; stir in yogurt and melted butter to form a thick batter.",
+    "Spread in a greased 20 cm tin, rest for 10 minutes, score into diamonds and place almonds on top.",
+    "Bake for 30–35 minutes until golden; pour cool syrup over the hot cake and rest until absorbed before cutting."
+  ],
+  "tips": [
+    "Do not beat the semolina batter excessively; mix just until combined."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बसबूसा",
+      "ingredients": [
+        "बारीक सूजी",
+        "सादा दही",
+        "कसा नारियल",
+        "मक्खन",
+        "चीनी",
+        "बेकिंग पाउडर",
+        "पानी",
+        "नींबू का रस",
+        "बादाम"
+      ],
+      "steps": [
+        "100 ग्राम चीनी, पानी और नींबू 7 मिनट उबालें; चाशनी ठंडी करें और ओवन 180°C पर गरम करें।",
+        "सूजी, नारियल, बची चीनी और बेकिंग पाउडर मिलाएँ; दही और पिघला मक्खन डालकर गाढ़ा घोल बनाएँ।",
+        "चिकने 20 सेमी साँचे में फैलाएँ, 10 मिनट रखें, हीरे जैसे निशान बनाकर बादाम लगाएँ।",
+        "30–35 मिनट सुनहरा बेक करें; गरम केक पर ठंडी चाशनी डालें और सोखने पर काटें।"
+      ],
+      "tips": [
+        "सूजी का घोल बहुत न फेंटें; केवल मिलने तक चलाएँ।"
+      ]
+    },
+    "gu": {
+      "name": "બસબૂસા",
+      "ingredients": [
+        "બારીક રવો",
+        "સાદું દહીં",
+        "છીણેલું નાળિયેર",
+        "માખણ",
+        "ખાંડ",
+        "બેકિંગ પાઉડર",
+        "પાણી",
+        "લીંબુનો રસ",
+        "બદામ"
+      ],
+      "steps": [
+        "100 ગ્રામ ખાંડ, પાણી અને લીંબુ 7 મિનિટ ઉકાળો; ચાસણી ઠંડી કરી ઓવન 180°C પર ગરમ કરો.",
+        "રવો, નાળિયેર, બાકી ખાંડ અને બેકિંગ પાઉડર ભેળવો; દહીં અને પીગળેલું માખણ ઉમેરી ઘટ્ટ ખીરું બનાવો.",
+        "ચીકણા 20 સેમી મોલ્ડમાં પાથરો, 10 મિનિટ રાખી હીરા જેવા નિશાન કરી બદામ મૂકો.",
+        "30–35 મિનિટ સોનેરી બેક કરો; ગરમ કેક પર ઠંડી ચાસણી રેડો અને શોષાઈ જાય પછી કાપો."
+      ],
+      "tips": [
+        "રવાનું ખીરું વધારે ન ફેંટો; ભળી જાય એટલું જ હલાવો."
+      ]
+    }
+  },
+  "photoDescription": "Golden semolina syrup cake cut into diamonds, each topped with an almond, moist grainy crumb.",
+  "photoDraft": "catalog/intake/photos/basbousa.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

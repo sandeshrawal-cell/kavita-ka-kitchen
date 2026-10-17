@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R1736",
+  "id": "eggless-coffee-walnut-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Coffee Walnut Cake",
+  "cuisine": "British Inspired",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "instant coffee",
+      "qty": 6,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oven to 175°C and line an 18 cm tin; dissolve instant coffee in warm milk and cool slightly.",
+    "Whisk yogurt, sugar, oil and vanilla until smooth, then stir in the coffee milk.",
+    "Sift flour, baking powder and soda into the mixture; fold gently and add roughly chopped walnuts.",
+    "Bake for 30–35 minutes until risen and a skewer comes out clean; cool on a rack before slicing."
+  ],
+  "tips": [
+    "Instant coffee dissolves cleanly; do not substitute dry coffee grounds directly."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का कॉफी अखरोट केक",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "चीनी",
+        "तेल",
+        "दूध",
+        "इंस्टेंट कॉफी",
+        "अखरोट",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "वनीला अर्क"
+      ],
+      "steps": [
+        "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; गरम दूध में कॉफी घोलकर थोड़ा ठंडा करें।",
+        "दही, चीनी, तेल और वनीला चिकना फेंटें, फिर कॉफी वाला दूध मिलाएँ।",
+        "मैदा, बेकिंग पाउडर और सोडा मिश्रण में छानें; हल्के हाथ मिलाकर कटे अखरोट डालें।",
+        "30–35 मिनट फूलने और सींक साफ निकलने तक बेक करें; काटने से पहले जाली पर ठंडा करें।"
+      ],
+      "tips": [
+        "इंस्टेंट कॉफी आसानी से घुलती है; सीधे पिसी कॉफी का चूरा न डालें।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની કોફી અખરોટ કેક",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "ખાંડ",
+        "તેલ",
+        "દૂધ",
+        "ઇન્સ્ટન્ટ કોફી",
+        "અખરોટ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "વેનિલા અર્ક"
+      ],
+      "steps": [
+        "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; ગરમ દૂધમાં કોફી ઓગાળી સહેજ ઠંડું કરો.",
+        "દહીં, ખાંડ, તેલ અને વેનિલા મુલાયમ ફેંટો, પછી કોફીવાળું દૂધ ભેળવો.",
+        "મેંદો, બેકિંગ પાઉડર અને સોડા મિશ્રણમાં ચાળો; હળવેથી ભેળવી સમારેલા અખરોટ ઉમેરો.",
+        "30–35 મિનિટ ફૂલે અને સળી સાફ નીકળે ત્યાં સુધી બેક કરો; કાપતાં પહેલાં જાળી પર ઠંડું કરો."
+      ],
+      "tips": [
+        "ઇન્સ્ટન્ટ કોફી સહેલાઈથી ઓગળે છે; સીધો પીસેલી કોફીનો ભૂકો ન ઉમેરો."
+      ]
+    }
+  },
+  "photoDescription": "Coffee-brown walnut cake with a golden top and visible walnut pieces, neatly cut wedge, no frosting.",
+  "photoDraft": "catalog/intake/photos/eggless-coffee-walnut-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

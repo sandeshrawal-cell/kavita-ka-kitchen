@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R1727",
+  "id": "eggless-molten-lava-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Molten Lava Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "cocoa powder",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "butter",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    },
+    {
+      "name": "dark chocolate",
+      "qty": 80,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 200°C and grease 4 small ramekins thoroughly; divide chocolate into thick centre pieces.",
+    "Whisk milk, melted butter, sugar and vanilla; sift in flour, cocoa and baking powder and mix until smooth.",
+    "Half-fill each ramekin, place chocolate in the middle without touching the base, and cover with remaining batter.",
+    "Bake for 12–15 minutes until the cake edges set; rest for 2 minutes and serve warm with the melted chocolate centre."
+  ],
+  "tips": [
+    "The liquid centre should be melted chocolate, not raw cake batter."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का मोल्टन लावा केक",
+      "ingredients": [
+        "मैदा",
+        "कोको पाउडर",
+        "चीनी",
+        "दूध",
+        "मक्खन",
+        "बेकिंग पाउडर",
+        "वनीला अर्क",
+        "डार्क चॉकलेट"
+      ],
+      "steps": [
+        "ओवन 200°C पर गरम करें और 4 छोटे रेमकिन चिकने करें; चॉकलेट के मोटे बीच वाले टुकड़े बनाएँ।",
+        "दूध, पिघला मक्खन, चीनी और वनीला फेंटें; मैदा, कोको और बेकिंग पाउडर छानकर चिकना मिलाएँ।",
+        "हर रेमकिन आधा भरें, बीच में चॉकलेट रखें जो तले को न छुए, और बचे घोल से ढकें।",
+        "12–15 मिनट केक के किनारे जमने तक बेक करें; 2 मिनट रखकर पिघली चॉकलेट के बीच सहित गरम परोसें।"
+      ],
+      "tips": [
+        "तरल बीच पिघली चॉकलेट का होना चाहिए, कच्चे केक घोल का नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની મોલ્ટન લાવા કેક",
+      "ingredients": [
+        "મેંદો",
+        "કોકો પાઉડર",
+        "ખાંડ",
+        "દૂધ",
+        "માખણ",
+        "બેકિંગ પાઉડર",
+        "વેનિલા અર્ક",
+        "ડાર્ક ચોકલેટ"
+      ],
+      "steps": [
+        "ઓવન 200°C પર ગરમ કરો અને 4 નાના રેમકિન ચીકણા કરો; ચૉકલેટના વચ્ચે મૂકવા જાડા ટુકડા કરો.",
+        "દૂધ, પીગળેલું માખણ, ખાંડ અને વેનિલા ફેંટો; મેંદો, કોકો અને બેકિંગ પાઉડર ચાળી મુલાયમ ભેળવો.",
+        "દરેક રેમકિન અડધું ભરો, તળિયે ન અડે તેમ વચ્ચે ચૉકલેટ મૂકો અને બાકીના ખીરાથી ઢાંકો.",
+        "12–15 મિનિટ કેકની કિનારી જામે ત્યાં સુધી બેક કરો; 2 મિનિટ રાખી પીગળેલી ચૉકલેટવાળા મધ્ય સાથે ગરમ પીરસો."
+      ],
+      "tips": [
+        "પ્રવાહી મધ્ય પીગળેલી ચૉકલેટનું હોવું જોઈએ, કાચા કેકના ખીરાનું નહીં."
+      ]
+    }
+  },
+  "photoDescription": "Small dark chocolate lava cake split open with glossy melted chocolate flowing from the centre, cooked cake edges.",
+  "photoDraft": "catalog/intake/photos/eggless-molten-lava-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

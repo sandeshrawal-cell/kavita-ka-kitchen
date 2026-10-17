@@ -1,0 +1,117 @@
+{
+  "sourceReviewId": "R2719",
+  "id": "granola-bars",
+  "status": "published-popular-200-intake-batch",
+  "name": "Granola Bars",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks",
+    "Lunchbox"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "almonds",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin seeds",
+      "qty": 30,
+      "unit": "g"
+    },
+    {
+      "name": "raisins",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "smooth peanut butter",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "honey",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Toast oats, chopped almonds and pumpkin seeds in a dry pan for 6–8 minutes until fragrant; cool slightly.",
+    "Warm peanut butter and honey gently until fluid; stir in salt and cinnamon without boiling.",
+    "Mix the toasted ingredients and raisins into the binder until no dry patches remain; press firmly into a lined small square tin.",
+    "Refrigerate for 2 hours until firm, then lift out and cut into 8 bars with a sharp knife."
+  ],
+  "tips": [
+    "These chewy bars soften in heat; keep refrigerated in a sealed container."
+  ],
+  "translations": {
+    "hi": {
+      "name": "ग्रेनोला बार",
+      "ingredients": [
+        "रोल्ड ओट्स",
+        "बादाम",
+        "कद्दू के बीज",
+        "किशमिश",
+        "चिकना पीनट बटर",
+        "शहद",
+        "नमक",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "ओट्स, कटे बादाम और कद्दू के बीज सूखे तवे पर 6–8 मिनट सुगंध आने तक भूनें; थोड़ा ठंडा करें।",
+        "पीनट बटर और शहद हल्का गरम कर पतला करें; बिना उबाले नमक और दालचीनी मिलाएँ।",
+        "भुनी सामग्री और किशमिश मीठे मिश्रण में पूरी तरह मिलाएँ; पेपर लगे छोटे चौकोर साँचे में कसकर दबाएँ।",
+        "2 घंटे फ्रिज में जमाएँ, फिर निकालकर तेज़ चाकू से 8 बार काटें।"
+      ],
+      "tips": [
+        "ये मुलायम बार गर्मी में नरम होते हैं; बंद डिब्बे में फ्रिज में रखें।"
+      ],
+      "passiveTime": "2 घंटे ठंडा करें।"
+    },
+    "gu": {
+      "name": "ગ્રેનોલા બાર",
+      "ingredients": [
+        "રોલ્ડ ઓટ્સ",
+        "બદામ",
+        "કોળાનાં બીજ",
+        "કિસમિસ",
+        "મુલાયમ પીનટ બટર",
+        "મધ",
+        "મીઠું",
+        "તજ પાઉડર"
+      ],
+      "steps": [
+        "ઓટ્સ, સમારેલા બદામ અને કોળાનાં બીજ સૂકા તવા પર 6–8 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો; થોડાં ઠંડાં કરો.",
+        "પીનટ બટર અને મધ હળવેથી ગરમ કરી પ્રવાહી બનાવો; ઉકાળ્યા વગર મીઠું અને તજ ભેળવો.",
+        "શેકેલી સામગ્રી અને કિસમિસ મીઠા મિશ્રણમાં સંપૂર્ણ ભેળવો; પેપરવાળા નાના ચોરસ મોલ્ડમાં કસીને દબાવો.",
+        "2 કલાક ફ્રિજમાં કઠણ થવા દો, પછી કાઢી ધારદાર છરીથી 8 બાર કાપો."
+      ],
+      "tips": [
+        "આ ચાવવાના બાર ગરમીમાં નરમ થાય છે; બંધ ડબ્બામાં ફ્રિજમાં રાખો."
+      ],
+      "passiveTime": "2 કલાક ઠંડા કરો."
+    }
+  },
+  "photoDescription": "Eight compact chewy oat granola bars with visible almond pieces, pumpkin seeds and raisins, no chocolate coating.",
+  "passiveTime": "Chill for 2 hours.",
+  "photoDraft": "catalog/intake/photos/granola-bars.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

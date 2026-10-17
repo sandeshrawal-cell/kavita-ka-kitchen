@@ -1,0 +1,120 @@
+{
+  "sourceReviewId": "R1747",
+  "id": "eggless-pistachio-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Pistachio Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 110,
+      "unit": "g"
+    },
+    {
+      "name": "shelled pistachios",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 70,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 175°C and line an 18 cm tin; grind most pistachios finely and reserve some chopped for the top.",
+    "Whisk yogurt, sugar, oil and milk until smooth; separately combine flour, ground pistachios, cardamom, baking powder and soda.",
+    "Fold dry ingredients into wet just until combined; spread in the tin and sprinkle reserved pistachios.",
+    "Bake for 30–35 minutes until the centre springs back and a skewer is clean; cool fully before cutting."
+  ],
+  "tips": [
+    "Natural pistachio cake is pale, not bright green; avoid grinding nuts into oily paste."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का पिस्ता केक",
+      "ingredients": [
+        "मैदा",
+        "छिले पिस्ते",
+        "सादा दही",
+        "चीनी",
+        "तेल",
+        "दूध",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "इलायची पाउडर"
+      ],
+      "steps": [
+        "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; अधिकतर पिस्ते बारीक पीसें, कुछ ऊपर के लिए काटें।",
+        "दही, चीनी, तेल और दूध चिकने फेंटें; अलग मैदा, पिसे पिस्ते, इलायची, बेकिंग पाउडर और सोडा मिलाएँ।",
+        "सूखी सामग्री गीली सामग्री में केवल मिलने तक मिलाएँ; साँचे में फैलाकर बचे पिस्ते छिड़कें।",
+        "30–35 मिनट बीच दबाने पर वापस उठने और सींक साफ निकलने तक बेक करें; पूरा ठंडा करके काटें।"
+      ],
+      "tips": [
+        "असली पिस्ता केक हल्का होता है, चमकीला हरा नहीं; मेवों को तेल निकलने तक न पीसें।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની પિસ્તા કેક",
+      "ingredients": [
+        "મેંદો",
+        "છોલેલા પિસ્તા",
+        "સાદું દહીં",
+        "ખાંડ",
+        "તેલ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "એલચી પાઉડર"
+      ],
+      "steps": [
+        "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; મોટાભાગના પિસ્તા ઝીણા પીસો, થોડા ઉપર માટે સમારો.",
+        "દહીં, ખાંડ, તેલ અને દૂધ મુલાયમ ફેંટો; અલગ મેંદો, પીસેલા પિસ્તા, એલચી, બેકિંગ પાઉડર અને સોડા ભેળવો.",
+        "સૂકી સામગ્રી ભીની સામગ્રીમાં ભળે એટલી જ હલાવો; મોલ્ડમાં પાથરી બાકીના પિસ્તા છાંટો.",
+        "30–35 મિનિટ મધ્ય દબાવતાં પાછું ઊઠે અને સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી કાપો."
+      ],
+      "tips": [
+        "કુદરતી પિસ્તાની કેક આછા રંગની હોય છે, ઘેરી લીલી નહીં; મેવા તેલ નીકળે ત્યાં સુધી ન પીસો."
+      ]
+    }
+  },
+  "photoDescription": "Pale naturally pistachio-tinted sponge cake with chopped pistachios on golden top, tender crumb, no neon colouring.",
+  "photoDraft": "catalog/intake/photos/eggless-pistachio-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,114 @@
+{
+  "sourceReviewId": "R1513",
+  "id": "amrakhand",
+  "status": "published-popular-200-intake-batch",
+  "name": "Amrakhand",
+  "cuisine": "Indian",
+  "categories": [
+    "Desserts",
+    "Indian Sweets",
+    "Festival Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 20,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "full-fat plain yogurt",
+      "qty": 900,
+      "unit": "g"
+    },
+    {
+      "name": "ripe mango flesh",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "powdered sugar",
+      "qty": 70,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.1,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "pistachios, chopped",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Line a sieve with a clean fine cloth and set it over a deep bowl, leaving space for whey. Add yogurt, fold the cloth over it and refrigerate for 6 hours until thick and spreadable.",
+    "Transfer the drained yogurt to a bowl; expect roughly 450 g, depending on the original yogurt. Warm the measured milk and soak the saffron in it for 10 minutes.",
+    "Blend the mango flesh into a smooth puree without adding water. If the mango is fibrous, pass the puree through a fine sieve.",
+    "Whisk the thick yogurt and powdered sugar gently until smooth. Fold in mango puree, cardamom and all the saffron milk until uniformly golden and creamy; avoid vigorous beating.",
+    "Cover and refrigerate for at least 1 hour to firm up. Divide among 4 bowls, scatter chopped pistachios on top and serve cold."
+  ],
+  "tips": [
+    "Use a sweet, low-fibre mango and drain the yogurt in the refrigerator; excess whey makes the dessert runny."
+  ],
+  "photoDescription": "Thick smooth golden mango shrikhand in a small bowl with soft spoon swirls, tiny saffron flecks and chopped pistachios.",
+  "translations": {
+    "hi": {
+      "name": "आम्रखंड",
+      "ingredients": [
+        "पूर्ण वसा वाला सादा दही",
+        "पके आम का गूदा",
+        "पिसी चीनी",
+        "इलायची पाउडर",
+        "केसर",
+        "दूध",
+        "कटे पिस्ते"
+      ],
+      "steps": [
+        "छलनी में साफ महीन कपड़ा बिछाकर गहरे बर्तन पर रखें, ताकि नीचे मट्ठा जमा हो सके। दही डालें, कपड़ा ऊपर मोड़ें और 6 घंटे फ्रिज में रखें, जब तक दही गाढ़ा और फैलाने योग्य हो जाए।",
+        "निथरा दही कटोरे में निकालें; मूल दही के अनुसार लगभग 450 ग्राम मिलेगा। मापा हुआ दूध गरम करें और उसमें केसर 10 मिनट भिगोएँ।",
+        "आम के गूदे को बिना पानी मिलाए चिकनी प्यूरी बनाएँ। आम में रेशे हों तो प्यूरी को महीन छलनी से छानें।",
+        "गाढ़े दही और पिसी चीनी को धीरे फेंटकर चिकना करें। आम की प्यूरी, इलायची और पूरा केसर वाला दूध मिलाएँ, जब तक समान सुनहरा और मलाईदार हो जाए; बहुत तेज न फेंटें।",
+        "ढककर कम से कम 1 घंटे फ्रिज में रखें ताकि मिश्रण गाढ़ा हो जाए। 4 कटोरियों में बाँटें, ऊपर कटे पिस्ते डालें और ठंडा परोसें।"
+      ],
+      "tips": [
+        "मीठा, कम रेशे वाला आम लें और दही फ्रिज में निथारें; ज्यादा मट्ठा रहने से मिठाई पतली हो जाती है।"
+      ],
+      "passiveTime": "दही निथारने के लिए 6 घंटे और मिलाने के बाद ठंडा करने के लिए कम से कम 1 घंटा रखें।"
+    },
+    "gu": {
+      "name": "આમ્રખંડ",
+      "ingredients": [
+        "પૂર્ણ ચરબીવાળું સાદું દહીં",
+        "પાકેલી કેરીનો ગર",
+        "દળેલી ખાંડ",
+        "એલચીનો પાઉડર",
+        "કેસર",
+        "દૂધ",
+        "સમારેલા પિસ્તા"
+      ],
+      "steps": [
+        "ચાળણીમાં સ્વચ્છ ઝીણું કપડું પાથરી ઊંડા વાસણ પર રાખો, જેથી નીચે પાણી ભેગું થાય. દહીં ઉમેરો, કપડું ઉપર વાળી 6 કલાક ફ્રિજમાં રાખો, જેથી દહીં ઘટ્ટ અને ચોપડી શકાય તેવું બને.",
+        "નિતારેલું દહીં વાટકીમાં કાઢો; મૂળ દહીં પ્રમાણે લગભગ 450 ગ્રામ મળશે. માપેલું દૂધ ગરમ કરી તેમાં કેસર 10 મિનિટ પલાળો.",
+        "કેરીના ગરનું પાણી ઉમેર્યા વગર લીસું પ્યુરી બનાવો. કેરીમાં રેસા હોય તો પ્યુરીને ઝીણી ચાળણીથી ગાળો.",
+        "ઘટ્ટ દહીં અને દળેલી ખાંડને હળવેથી ફેંટી લીસું કરો. કેરીનું પ્યુરી, એલચી અને આખું કેસરવાળું દૂધ ભેળવો, જેથી સમાન સોનેરી અને મલાઈદાર બને; ખૂબ જોરથી ન ફેંટો.",
+        "ઢાંકીને ઓછામાં ઓછો 1 કલાક ફ્રિજમાં રાખો જેથી મિશ્રણ ઘટ્ટ બને. 4 વાટકીઓમાં વહેંચી ઉપર સમારેલા પિસ્તા છાંટો અને ઠંડું પીરસો."
+      ],
+      "tips": [
+        "મીઠી, ઓછા રેસાવાળી કેરી લો અને દહીં ફ્રિજમાં નિતારો; વધુ પાણી રહેવાથી મીઠાઈ પાતળી બને છે."
+      ],
+      "passiveTime": "દહીં નિતારવા માટે 6 કલાક અને ભેળવ્યા પછી ઠંડું કરવા માટે ઓછામાં ઓછો 1 કલાક રાખો."
+    }
+  },
+  "passiveTime": "Allow 6 hours to drain yogurt and at least 1 hour to chill after mixing.",
+  "photoDraft": "catalog/intake/photos/amrakhand.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

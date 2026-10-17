@@ -1,0 +1,120 @@
+{
+  "sourceReviewId": "R1730",
+  "id": "eggless-blueberry-muffins",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Blueberry Muffins",
+  "cuisine": "American",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 160,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 4,
+      "unit": "ml"
+    },
+    {
+      "name": "blueberries",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 180°C and line 8 muffin cups; reserve a little flour to coat the blueberries.",
+    "Whisk yogurt, milk, sugar, oil and vanilla until smooth; sift remaining flour, baking powder and soda together.",
+    "Fold dry ingredients into the wet mixture just until combined; coat berries with reserved flour and fold in gently.",
+    "Fill cups about three-quarters full and bake for 22–26 minutes until a skewer is clean; cool on a rack."
+  ],
+  "tips": [
+    "Fold frozen blueberries in directly without thawing to limit colour bleeding."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे के ब्लूबेरी मफिन",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "दूध",
+        "चीनी",
+        "तेल",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "वनीला अर्क",
+        "ब्लूबेरी"
+      ],
+      "steps": [
+        "ओवन 180°C पर गरम करें और 8 मफिन कप में पेपर लगाएँ; ब्लूबेरी लपेटने के लिए थोड़ा मैदा बचाएँ।",
+        "दही, दूध, चीनी, तेल और वनीला चिकने फेंटें; बाकी मैदा, बेकिंग पाउडर और सोडा साथ छानें।",
+        "सूखी सामग्री गीले मिश्रण में केवल मिलने तक मिलाएँ; बेरी पर बचा मैदा लगाकर हल्के हाथ मिलाएँ।",
+        "कप लगभग तीन-चौथाई भरें और 22–26 मिनट सींक साफ निकलने तक बेक करें; जाली पर ठंडा करें।"
+      ],
+      "tips": [
+        "जमी ब्लूबेरी बिना पिघलाए मिलाएँ ताकि रंग अधिक न फैले।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાનાં બ્લૂબેરી મફિન",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "દૂધ",
+        "ખાંડ",
+        "તેલ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "વેનિલા અર્ક",
+        "બ્લૂબેરી"
+      ],
+      "steps": [
+        "ઓવન 180°C પર ગરમ કરો અને 8 મફિન કપમાં પેપર લગાવો; બ્લૂબેરીને લગાવવા થોડો મેંદો બચાવો.",
+        "દહીં, દૂધ, ખાંડ, તેલ અને વેનિલા મુલાયમ ફેંટો; બાકી મેંદો, બેકિંગ પાઉડર અને સોડા સાથે ચાળો.",
+        "સૂકી સામગ્રી ભીના મિશ્રણમાં ભળે એટલી જ હલાવો; બેરીને બચેલો મેંદો લગાવી હળવેથી ઉમેરો.",
+        "કપ લગભગ ત્રણ-ચોથાઈ ભરો અને 22–26 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; જાળી પર ઠંડા કરો."
+      ],
+      "tips": [
+        "જામેલી બ્લૂબેરી ઓગાળ્યા વગર ભેળવો જેથી રંગ વધુ ન ફેલાય."
+      ]
+    }
+  },
+  "photoDescription": "Golden domed blueberry muffins in paper cases with purple blueberries bursting through pale tender crumb.",
+  "photoDraft": "catalog/intake/photos/eggless-blueberry-muffins.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

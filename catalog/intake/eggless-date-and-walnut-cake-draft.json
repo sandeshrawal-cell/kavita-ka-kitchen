@@ -1,0 +1,113 @@
+{
+  "sourceReviewId": "R1735",
+  "id": "eggless-date-and-walnut-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Date and Walnut Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "qty": 170,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "plain flour",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 50,
+      "unit": "ml"
+    },
+    {
+      "name": "walnuts",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Warm milk and soak chopped dates for 20 minutes; blend into a thick paste and let cool until lukewarm.",
+    "Heat oven to 175°C and line a small loaf tin; whisk oil into the date mixture until combined.",
+    "Sift flour, baking powder, soda and cinnamon; fold into the wet mixture, then fold in chopped walnuts.",
+    "Bake for 35–40 minutes until a skewer is clean; cool completely before slicing to keep the loaf intact."
+  ],
+  "tips": [
+    "Use soft moist dates; very dry dates need longer soaking before blending."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का खजूर अखरोट केक",
+      "ingredients": [
+        "बीज निकाले खजूर",
+        "दूध",
+        "मैदा",
+        "तेल",
+        "अखरोट",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "दूध गरम कर कटे खजूर 20 मिनट भिगोएँ; गाढ़ा पीसकर गुनगुना होने दें।",
+        "ओवन 175°C पर गरम करें और छोटे लोफ साँचे में पेपर लगाएँ; खजूर मिश्रण में तेल मिलाएँ।",
+        "मैदा, बेकिंग पाउडर, सोडा और दालचीनी छानें; गीले मिश्रण में मिलाकर कटे अखरोट डालें।",
+        "35–40 मिनट सींक साफ निकलने तक बेक करें; लोफ टूटे नहीं इसलिए पूरा ठंडा करके काटें।"
+      ],
+      "tips": [
+        "नरम खजूर लें; बहुत सूखे खजूर पीसने से पहले अधिक देर भिगोएँ।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની ખજૂર અખરોટ કેક",
+      "ingredients": [
+        "ઠળિયા વિનાની ખજૂર",
+        "દૂધ",
+        "મેંદો",
+        "તેલ",
+        "અખરોટ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "તજ પાઉડર"
+      ],
+      "steps": [
+        "દૂધ ગરમ કરી સમારેલી ખજૂર 20 મિનિટ પલાળો; ઘટ્ટ પીસી હૂંફાળું થવા દો.",
+        "ઓવન 175°C પર ગરમ કરો અને નાના લોફ મોલ્ડમાં પેપર લગાવો; ખજૂરના મિશ્રણમાં તેલ ફેંટો.",
+        "મેંદો, બેકિંગ પાઉડર, સોડા અને તજ ચાળો; ભીના મિશ્રણમાં ભેળવી સમારેલા અખરોટ ઉમેરો.",
+        "35–40 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; લોફ તૂટે નહીં તે માટે સંપૂર્ણ ઠંડું કરી કાપો."
+      ],
+      "tips": [
+        "નરમ ખજૂર લો; ખૂબ સૂકી ખજૂરને પીસતાં પહેલાં વધુ સમય પલાળો."
+      ]
+    }
+  },
+  "photoDescription": "Dark caramel-brown date walnut loaf cake sliced to show moist crumb and large walnut pieces, no icing.",
+  "photoDraft": "catalog/intake/photos/eggless-date-and-walnut-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

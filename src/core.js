@@ -13,6 +13,11 @@ export const unique = a => [...new Set(a)];
 export const uid = () => crypto.randomUUID();
 const ALIASES = {aloo:'potato',batata:'potato',bateta:'potato',pyaz:'onion',pyaaz:'onion',kanda:'onion',lasun:'garlic',lahsun:'garlic',adrak:'ginger',gajar:'carrot',dahi:'curd',yogurt:'curd',yoghurt:'curd',palak:'spinach',matar:'peas',gobhi:'cauliflower',besan:'gram flour',maida:'flour',tofu:'tofu',doodh:'milk',dudhi:'bottle gourd',lauki:'bottle gourd',aubergine:'brinjal',eggplant:'brinjal',chana:'chickpeas',rajma:'kidney beans',kaju:'cashew'};
 export const ingredientKey = n => ALIASES[norm(n)] || norm(n).replace(/tomatoes/g,'tomato').replace(/potatoes/g,'potato');
+// Preserve the plant name so nut and soy exclusions still apply.
+export const dairyEvidenceText = text => String(text)
+  .replace(/\b(coconut|oat|rice|soy|almond|cashew) milk\b/gi,'$1 drink')
+  .replace(/\bcoconut cream\b/gi,'coconut paste')
+  .replace(/\b(peanut|almond|cashew|cocoa) butter\b/gi,'$1 paste');
 export const UNSAFE = /\b(eggs?|anda|omelette|omelet|chicken|mutton|beef|pork|fish|prawns?|shrimp|meat|bacon|ham|gelatin|gelatine|lard|anchovy|anchovies|oyster sauce|fish sauce|animal rennet)\b/i;
 export const ROOTS = /\b(potato|onion|garlic|ginger|carrot|beetroot|radish|turnip|yam|sweet potato|mushroom|tapioca|peanuts?|groundnuts?|aloo|batata|bateta|pyaz|pyaaz|lasun|lahsun|adrak|gajar|mooli)\b/i;
 export function vegetarianText(text){return !UNSAFE.test(norm(text).replace(/\beggless\b|\bno eggs?\b|\begg.free\b|\bplant.based chicken\b|\beggplant\b/g,''));}
@@ -66,7 +71,7 @@ export function eligible(d,f={},s={},at=Date.now()){
     if(!d.ingredientsComplete)return false;
     if(/fried|frying/.test(n)){if(d.fried||d.method==='fry')return false;continue;}
     if(n==='nuts'&&(d.allergens?.some(a=>['tree nuts','peanut'].includes(a))||/peanut|groundnut|almond|cashew|pistachio|walnut|hazelnut/.test(hay)))return false;
-    if(n==='dairy'&&(d.allergens?.includes('milk')||/milk|curd|paneer|cream|butter|ghee|cheese/.test(hay)))return false;
+    if(n==='dairy'&&(d.allergens?.includes('milk')||/\b(milk|curd|paneer|cream|butter|ghee|cheese|yogurt|yoghurt|buttermilk|ricotta)\b/.test(dairyEvidenceText(hay))))return false;
     if(n==='gluten'&&(d.allergens?.includes('gluten')||/wheat|barley|rye|semolina|bulgur|bread|pasta|maida/.test(hay)))return false;
     if(ingredients.some(i=>i===n||i.includes(n)||n.includes(i)))return false;
     // Composite ingredients without an audited component list cannot satisfy a hard exclusion.

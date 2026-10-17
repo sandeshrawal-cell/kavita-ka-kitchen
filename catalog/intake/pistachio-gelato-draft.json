@@ -1,0 +1,105 @@
+{
+  "sourceReviewId": "R1595",
+  "id": "pistachio-gelato",
+  "status": "published-popular-200-intake-batch",
+  "name": "Pistachio Gelato",
+  "cuisine": "Italian",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 25,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "qty": 450,
+      "unit": "ml"
+    },
+    {
+      "name": "whipping cream",
+      "qty": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "shelled pistachios",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Blend pistachios with a little of the measured milk into a very smooth paste; whisk cornstarch with more cold milk.",
+    "Warm remaining milk, cream, sugar and salt; whisk in the starch mixture and simmer for 2 minutes until lightly thickened.",
+    "Stir in pistachio paste, cool promptly in an ice bath and refrigerate for 4 hours until thoroughly cold.",
+    "Churn in an ice-cream maker according to its instructions, transfer to a covered container and freeze for 3 hours."
+  ],
+  "tips": [
+    "Without a machine, freeze and whisk vigorously at intervals until nearly firm; the texture will be less smooth.",
+    "This method uses an ice-cream maker; chill its bowl in advance according to the manufacturer instructions."
+  ],
+  "translations": {
+    "hi": {
+      "name": "पिस्ता जेलाटो",
+      "ingredients": [
+        "दूध",
+        "व्हिपिंग क्रीम",
+        "छिले पिस्ते",
+        "चीनी",
+        "कॉर्नस्टार्च",
+        "नमक"
+      ],
+      "steps": [
+        "पिस्ते को मापे दूध के थोड़े भाग के साथ बहुत चिकना पीसें; थोड़े ठंडे दूध में कॉर्नस्टार्च घोलें।",
+        "बाकी दूध, क्रीम, चीनी और नमक गरम करें; स्टार्च मिलाकर 2 मिनट हल्का गाढ़ा होने तक पकाएँ।",
+        "पिस्ता पेस्ट मिलाएँ, बर्फ वाले बर्तन में जल्दी ठंडा करें और 4 घंटे फ्रिज में अच्छी तरह ठंडा करें।",
+        "आइसक्रीम मशीन के निर्देश अनुसार चलाएँ, ढके डिब्बे में भरकर 3 घंटे जमाएँ।"
+      ],
+      "tips": [
+        "मशीन न हो तो जमते समय बीच-बीच में खूब फेंटें; बनावट थोड़ी कम चिकनी होगी।",
+        "इस विधि में आइसक्रीम मेकर चाहिए; निर्माता के निर्देशों के अनुसार उसका बर्तन पहले से ठंडा करें।"
+      ],
+      "passiveTime": "4 घंटे ठंडा करें, फिर मशीन में चलाने के बाद 3 घंटे जमाएँ।"
+    },
+    "gu": {
+      "name": "પિસ્તા જેલાટો",
+      "ingredients": [
+        "દૂધ",
+        "વ્હિપિંગ ક્રીમ",
+        "છોલેલા પિસ્તા",
+        "ખાંડ",
+        "કોર્નસ્ટાર્ચ",
+        "મીઠું"
+      ],
+      "steps": [
+        "પિસ્તાને માપેલા દૂધના થોડા ભાગ સાથે એકદમ મુલાયમ પીસો; થોડા ઠંડા દૂધમાં કોર્નસ્ટાર્ચ ઘોળો.",
+        "બાકી દૂધ, ક્રીમ, ખાંડ અને મીઠું ગરમ કરો; સ્ટાર્ચ ભેળવી 2 મિનિટ સહેજ ઘટ્ટ થાય ત્યાં સુધી પકાવો.",
+        "પિસ્તાની પેસ્ટ ભેળવો, બરફવાળા વાસણમાં ઝડપથી ઠંડું કરી 4 કલાક ફ્રિજમાં ઠંડું કરો.",
+        "આઇસક્રીમ મશીનની સૂચના પ્રમાણે ચલાવો, ઢાંકેલા ડબ્બામાં ભરી 3 કલાક જમાવો."
+      ],
+      "tips": [
+        "મશીન ન હોય તો જામતી વખતે વચ્ચે સારી રીતે ફેંટો; બનાવટ થોડી ઓછી મુલાયમ રહેશે.",
+        "આ રીતમાં આઇસક્રીમ મેકર જરૂરી છે; ઉત્પાદકની સૂચના પ્રમાણે તેનું વાસણ અગાઉથી ઠંડું કરો."
+      ],
+      "passiveTime": "4 કલાક ઠંડું કરો, પછી મશીનમાં ચલાવી 3 કલાક જમાવો."
+    }
+  },
+  "photoDescription": "Creamy pale muted green pistachio gelato scoops with finely chopped real pistachios, no bright artificial green colour.",
+  "passiveTime": "Chill for 4 hours, then freeze for 3 hours after churning.",
+  "photoDraft": "catalog/intake/photos/pistachio-gelato.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,137 @@
+{
+  "sourceReviewId": "R1741",
+  "id": "rasmalai-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Rasmalai Cake",
+  "cuisine": "Indian Fusion",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 60,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 35,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "whipping cream",
+      "qty": 180,
+      "unit": "ml"
+    },
+    {
+      "name": "prepared rasmalai with its milk",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "shelled pistachios",
+      "qty": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 175°C. Whisk yogurt, sugar, oil and milk; fold in flour, baking powder, soda and cardamom.",
+    "Bake in a lined 15 cm tin for 30–35 minutes until a skewer is clean; cool fully and split horizontally.",
+    "Drain rasmalai, reserving the sweet milk; brush sponge layers lightly with this milk and whip cold cream until it holds peaks.",
+    "Fill and cover the layers with cream, arrange rasmalai and chopped pistachios on top, and chill for 3 hours."
+  ],
+  "tips": [
+    "Add only enough rasmalai milk to moisten the sponge; excess liquid makes the layers collapse."
+  ],
+  "translations": {
+    "hi": {
+      "name": "रसमलाई केक",
+      "ingredients": [
+        "मैदा",
+        "सादा दही",
+        "चीनी",
+        "तेल",
+        "दूध",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "इलायची पाउडर",
+        "व्हिपिंग क्रीम",
+        "दूध सहित तैयार रसमलाई",
+        "छिले पिस्ते"
+      ],
+      "steps": [
+        "ओवन 175°C पर गरम करें। दही, चीनी, तेल और दूध फेंटें; मैदा, बेकिंग पाउडर, सोडा और इलायची मिलाएँ।",
+        "पेपर लगे 15 सेमी साँचे में 30–35 मिनट सींक साफ निकलने तक बेक करें; पूरा ठंडा करके आड़ा काटें।",
+        "रसमलाई निथारकर मीठा दूध बचाएँ; स्पंज पर हल्का दूध लगाएँ और ठंडी क्रीम चोटियाँ बनने तक फेंटें।",
+        "परतों के बीच और ऊपर क्रीम लगाएँ, रसमलाई और कटे पिस्ते सजाएँ तथा 3 घंटे ठंडा करें।"
+      ],
+      "tips": [
+        "स्पंज नम करने जितना ही रसमलाई दूध डालें; अधिक तरल से परतें टूट सकती हैं।"
+      ],
+      "passiveTime": "केक पूरा ठंडा करें, फिर सजाकर 3 घंटे फ्रिज में रखें।"
+    },
+    "gu": {
+      "name": "રસમલાઈ કેક",
+      "ingredients": [
+        "મેંદો",
+        "સાદું દહીં",
+        "ખાંડ",
+        "તેલ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "એલચી પાઉડર",
+        "વ્હિપિંગ ક્રીમ",
+        "દૂધ સહિત તૈયાર રસમલાઈ",
+        "છોલેલા પિસ્તા"
+      ],
+      "steps": [
+        "ઓવન 175°C પર ગરમ કરો. દહીં, ખાંડ, તેલ અને દૂધ ફેંટો; મેંદો, બેકિંગ પાઉડર, સોડા અને એલચી ભેળવો.",
+        "પેપરવાળા 15 સેમી મોલ્ડમાં 30–35 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી આડું કાપો.",
+        "રસમલાઈ નિતારી મીઠું દૂધ સાચવો; સ્પોન્જ પર હળવું દૂધ લગાવો અને ઠંડી ક્રીમ શિખર બને ત્યાં સુધી ફેંટો.",
+        "પરતો વચ્ચે અને ઉપર ક્રીમ લગાવો, રસમલાઈ અને સમારેલા પિસ્તા ગોઠવી 3 કલાક ઠંડું કરો."
+      ],
+      "tips": [
+        "સ્પોન્જ ભીની થાય એટલું જ રસમલાઈનું દૂધ ઉમેરો; વધારે પ્રવાહીથી પરતો તૂટી શકે."
+      ],
+      "passiveTime": "કેક સંપૂર્ણ ઠંડી કરો, પછી સજાવી 3 કલાક ફ્રિજમાં રાખો."
+    }
+  },
+  "photoDescription": "Small white cream-frosted layer cake with pale rasmalai patties and pistachios on top, cardamom sponge visible in a cut slice.",
+  "passiveTime": "Cool cake completely, then chill assembled cake for 3 hours.",
+  "photoDraft": "catalog/intake/photos/rasmalai-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

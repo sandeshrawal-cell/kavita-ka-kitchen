@@ -1,0 +1,123 @@
+{
+  "sourceReviewId": "R1748",
+  "id": "eggless-new-york-cheesecake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless New York Cheesecake",
+  "cuisine": "American",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 90,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "egg-free digestive biscuits",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "cream cheese",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "whipping cream",
+      "qty": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 80,
+      "unit": "g"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 20,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 4,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "qty": 10,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Heat oven to 160°C. Mix crushed biscuits and melted butter; press into the base of a lined 15 cm deep tin.",
+    "Beat softened cream cheese with sugar until smooth; gently mix yogurt, cream, cornstarch, vanilla and lemon without whipping air in.",
+    "Pour over the base and bake for 55–65 minutes until edges set but the centre gently wobbles; turn off the oven.",
+    "Cool with the oven door ajar for 30 minutes, then cool outside and refrigerate for 8 hours before unmoulding."
+  ],
+  "tips": [
+    "Bring dairy to room temperature before mixing to avoid lumps; do not overbake the centre."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का न्यूयॉर्क चीज़केक",
+      "ingredients": [
+        "बिना अंडे के डाइजेस्टिव बिस्कुट",
+        "मक्खन",
+        "क्रीम चीज़",
+        "सादा दही",
+        "व्हिपिंग क्रीम",
+        "चीनी",
+        "कॉर्नस्टार्च",
+        "वनीला अर्क",
+        "नींबू का रस"
+      ],
+      "steps": [
+        "ओवन 160°C पर गरम करें। बिस्कुट चूरा और पिघला मक्खन मिलाकर पेपर लगे 15 सेमी गहरे साँचे में दबाएँ।",
+        "नरम क्रीम चीज़ और चीनी चिकनी फेंटें; दही, क्रीम, कॉर्नस्टार्च, वनीला और नींबू बिना हवा भरे धीरे मिलाएँ।",
+        "बेस पर डालकर 55–65 मिनट किनारे जमने और बीच हल्का हिलने तक बेक करें; ओवन बंद करें।",
+        "ओवन का दरवाज़ा थोड़ा खोलकर 30 मिनट ठंडा करें, फिर बाहर ठंडा करके 8 घंटे फ्रिज में रखें और निकालें।"
+      ],
+      "tips": [
+        "मिलाने से पहले दूध वाली सामग्री सामान्य तापमान पर लाएँ ताकि गुठलियाँ न बनें; बीच अधिक न बेक करें।"
+      ],
+      "passiveTime": "ठंडा करके 8 घंटे फ्रिज में रखें।"
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની ન્યૂયોર્ક ચીઝકેક",
+      "ingredients": [
+        "ઈંડા વિનાનાં ડાઇજેસ્ટિવ બિસ્કિટ",
+        "માખણ",
+        "ક્રીમ ચીઝ",
+        "સાદું દહીં",
+        "વ્હિપિંગ ક્રીમ",
+        "ખાંડ",
+        "કોર્નસ્ટાર્ચ",
+        "વેનિલા અર્ક",
+        "લીંબુનો રસ"
+      ],
+      "steps": [
+        "ઓવન 160°C પર ગરમ કરો. બિસ્કિટનો ભૂકો અને પીગળેલું માખણ ભેળવી પેપરવાળા 15 સેમી ઊંડા મોલ્ડમાં દબાવો.",
+        "નરમ ક્રીમ ચીઝ અને ખાંડ મુલાયમ ફેંટો; દહીં, ક્રીમ, કોર્નસ્ટાર્ચ, વેનિલા અને લીંબુ હવા ભર્યા વગર હળવેથી ભેળવો.",
+        "બેઝ પર રેડી 55–65 મિનિટ કિનારી જામે પણ વચ્ચે સહેજ હાલે ત્યાં સુધી બેક કરો; ઓવન બંધ કરો.",
+        "ઓવનનું બારણું સહેજ ખુલ્લું રાખી 30 મિનિટ ઠંડું કરો, પછી બહાર ઠંડું કરી 8 કલાક ફ્રિજમાં રાખી મોલ્ડમાંથી કાઢો."
+      ],
+      "tips": [
+        "ગાંઠ ન પડે તે માટે ડેરી સામગ્રી ભેળવતાં પહેલાં સામાન્ય તાપમાને લાવો; વચ્ચેનો ભાગ વધારે ન બેક કરો."
+      ],
+      "passiveTime": "ઠંડું કરી 8 કલાક ફ્રિજમાં રાખો."
+    }
+  },
+  "photoDescription": "Tall creamy ivory New York cheesecake wedge with golden biscuit base and lightly browned top, no fruit topping.",
+  "passiveTime": "Cool, then refrigerate for 8 hours.",
+  "photoDraft": "catalog/intake/photos/eggless-new-york-cheesecake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

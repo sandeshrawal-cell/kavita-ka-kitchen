@@ -1,0 +1,95 @@
+{
+  "sourceReviewId": "R3852",
+  "id": "mochi-ice-cream",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mochi Ice Cream",
+  "cuisine": "Japanese",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "glutinous rice flour",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "cornstarch",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "egg-free vanilla ice cream",
+      "qty": 240,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Scoop ice cream into 8 small balls and freeze until very firm; mix rice flour, sugar and water into a smooth batter.",
+    "Steam the batter in a covered heatproof bowl for 20 minutes, stirring halfway, until glossy and translucent throughout.",
+    "Transfer carefully to a cornstarch-dusted surface; dust the top, roll thinly and cool before cutting into 8 rounds.",
+    "Wrap each frozen scoop in a dough round and pinch shut underneath; freeze for 2 hours and soften briefly before eating."
+  ],
+  "tips": [
+    "Ordinary rice flour will not stretch; use glutinous rice flour and dust generously."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मोची आइसक्रीम",
+      "ingredients": [
+        "चिपचिपे चावल का आटा",
+        "चीनी",
+        "पानी",
+        "कॉर्नस्टार्च",
+        "बिना अंडे की वनीला आइसक्रीम"
+      ],
+      "steps": [
+        "आइसक्रीम की 8 छोटी गोलियाँ बनाकर सख्त जमाएँ; चावल का आटा, चीनी और पानी चिकना घोलें।",
+        "ढके गर्मी सहने वाले बर्तन में घोल 20 मिनट भाप में पकाएँ; बीच में चलाएँ और पूरा चमकीला पारदर्शी होने दें।",
+        "सावधानी से कॉर्नस्टार्च छिड़की सतह पर रखें; ऊपर भी छिड़ककर पतला बेलें और ठंडा कर 8 गोले काटें।",
+        "हर जमी गोली को आटे के गोले में लपेटकर नीचे बंद करें; 2 घंटे जमाएँ और खाने से पहले थोड़ा नरम होने दें।"
+      ],
+      "tips": [
+        "साधारण चावल का आटा नहीं खिंचता; चिपचिपे चावल का आटा लें और पर्याप्त स्टार्च छिड़कें।"
+      ],
+      "passiveTime": "आकार देने के बाद 2 घंटे जमाएँ; पहले आइसक्रीम भी जमाएँ।"
+    },
+    "gu": {
+      "name": "મોચી આઇસક્રીમ",
+      "ingredients": [
+        "ચીકણા ચોખાનો લોટ",
+        "ખાંડ",
+        "પાણી",
+        "કોર્નસ્ટાર્ચ",
+        "ઈંડા વિનાનો વેનિલા આઇસક્રીમ"
+      ],
+      "steps": [
+        "આઇસક્રીમના 8 નાના ગોળા બનાવી કઠણ જમાવો; ચોખાનો લોટ, ખાંડ અને પાણીનું મુલાયમ ખીરું બનાવો.",
+        "ઢાંકેલા ગરમી સહન કરતા વાસણમાં ખીરું 20 મિનિટ વરાળમાં પકાવો; વચ્ચે હલાવો અને આખું ચમકતું અર્ધપારદર્શક થવા દો.",
+        "કાળજીથી કોર્નસ્ટાર્ચ છાંટેલી સપાટી પર મૂકો; ઉપર પણ છાંટી પાતળું વણી ઠંડું કરો અને 8 ગોળ કાપો.",
+        "દરેક જામેલા ગોળાને લોટના ગોળમાં લપેટી નીચેથી બંધ કરો; 2 કલાક જમાવી ખાતાં પહેલાં સહેજ નરમ થવા દો."
+      ],
+      "tips": [
+        "સામાન્ય ચોખાનો લોટ ખેંચાતો નથી; ચીકણા ચોખાનો લોટ લો અને પૂરતો સ્ટાર્ચ છાંટો."
+      ],
+      "passiveTime": "આકાર આપ્યા પછી 2 કલાક જમાવો; પહેલાં આઇસક્રીમ પણ જમાવો."
+    }
+  },
+  "photoDescription": "Small white mochi ice cream balls lightly dusted with starch, one cut to reveal pale vanilla ice cream and thin elastic rice dough.",
+  "passiveTime": "Freeze for 2 hours after shaping, plus initial ice-cream freezing.",
+  "photoDraft": "catalog/intake/photos/mochi-ice-cream.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

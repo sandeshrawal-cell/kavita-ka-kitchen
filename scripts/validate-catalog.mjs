@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
-import {CATEGORIES} from '../src/core.js';
+import {CATEGORIES,dairyEvidenceText} from '../src/core.js';
 export const normalizeName=s=>String(s).normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
 const methods='assemble bake blend chaat coffee curry dal dessert flatbread fry griddle grill kadhi mash onepot rice roast steam stew stir tea'.split(' ');
 const fields={strings:['id','canonicalId','name','cuisine','method','effort','recipeStatus'],arrays:['categories','ingredients','nutrition','seasons','equipment','leftoverUses','allergens'],numbers:['time','bulkScore'],booleans:['kids','vegetarian','eggless','ingredientsComplete','jainVerified','individualPrep','fried','side','advancePrep']};
@@ -32,7 +32,7 @@ export function validateEntry(d,r,{legacy=false}={}){
   fail('Jain label conflicts with ingredient or fermentation');
  }
  if(!legacy&&d.jainVerified)fail('new dishes must not assert universal Jain certification; household rules decide suitability');
- const ing=r.ingredients.map(i=>i.name).join(' ').replace(/\b(?:coconut|oat|rice|soy) milk\b/gi,match=>match.replace(/milk$/i,'drink'));const expected=[[/\b(milk|paneer|curd|cream|ghee|butter|cheese)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([re])=>re.test(ing)).map(([,v])=>v);
+ const ing=dairyEvidenceText(r.ingredients.map(i=>i.name).join(' '));const expected=[[/\b(milk|paneer|curd|cream|ghee|butter|cheese)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([re])=>re.test(ing)).map(([,v])=>v);
  if(!legacy&&expected.some(x=>!d.allergens.includes(x)))fail('missing allergen');
  return {errors,warnings};
 }

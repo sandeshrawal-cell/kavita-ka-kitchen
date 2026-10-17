@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R2752",
+  "id": "seed-crackers",
+  "status": "published-popular-200-intake-batch",
+  "name": "Seed Crackers",
+  "cuisine": "Global",
+  "categories": [
+    "Snacks",
+    "Lunchbox"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 65,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "flax seeds",
+      "qty": 40,
+      "unit": "g"
+    },
+    {
+      "name": "chia seeds",
+      "qty": 25,
+      "unit": "g"
+    },
+    {
+      "name": "sunflower seeds",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "pumpkin seeds",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 35,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix all seeds with salt and water; rest for 20 minutes until the chia and flax form a thick gel.",
+    "Heat the oven to 160°C. Spread the mixture very thinly and evenly on a parchment-lined baking tray.",
+    "Bake for 25 minutes, score into rectangles and carefully flip the large sheet using another tray.",
+    "Bake for 15–20 minutes more until dry and crisp; cool fully and break along the scored lines."
+  ],
+  "tips": [
+    "Return any flexible pieces to the oven briefly; store only once fully cooled."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बीज वाले क्रैकर्स",
+      "ingredients": [
+        "अलसी के बीज",
+        "चिया बीज",
+        "सूरजमुखी के बीज",
+        "कद्दू के बीज",
+        "तिल",
+        "पानी",
+        "नमक"
+      ],
+      "steps": [
+        "सभी बीज नमक और पानी में मिलाएँ; 20 मिनट रखें ताकि चिया और अलसी गाढ़ा जेल बनाएँ।",
+        "ओवन 160°C पर गरम करें। बेकिंग पेपर लगी ट्रे पर मिश्रण बहुत पतला और समान फैलाएँ।",
+        "25 मिनट बेक करें, आयताकार निशान बनाएँ और दूसरी ट्रे की मदद से सावधानी से पलटें।",
+        "15–20 मिनट और सूखा तथा कुरकुरा होने तक बेक करें; पूरा ठंडा करके निशानों पर तोड़ें।"
+      ],
+      "tips": [
+        "नरम टुकड़े थोड़ी देर फिर बेक करें; पूरा ठंडा होने पर ही रखें।"
+      ]
+    },
+    "gu": {
+      "name": "બીજવાળા ક્રેકર્સ",
+      "ingredients": [
+        "અળસીના બીજ",
+        "ચિયા બીજ",
+        "સૂર્યમુખીનાં બીજ",
+        "કોળાનાં બીજ",
+        "તલ",
+        "પાણી",
+        "મીઠું"
+      ],
+      "steps": [
+        "બધા બીજ મીઠા અને પાણી સાથે ભેળવો; ચિયા અને અળસીનું ઘટ્ટ જેલ બને ત્યાં સુધી 20 મિનિટ રાખો.",
+        "ઓવન 160°C પર ગરમ કરો. બેકિંગ પેપરવાળી ટ્રે પર મિશ્રણ ખૂબ પાતળું અને સરખું પાથરો.",
+        "25 મિનિટ બેક કરો, લંબચોરસ નિશાન પાડો અને બીજી ટ્રેની મદદથી આખી પાતળી પરત કાળજીથી ફેરવો.",
+        "વધુ 15–20 મિનિટ સૂકું અને કરકરું થાય ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી નિશાન પરથી તોડો."
+      ],
+      "tips": [
+        "વળી જતા ટુકડા થોડો સમય ફરી બેક કરો; સંપૂર્ણ ઠંડા થાય પછી જ ભરો."
+      ]
+    }
+  },
+  "photoDescription": "Thin rustic rectangular golden crackers densely made of visible pumpkin, sunflower, sesame and flax seeds.",
+  "photoDraft": "catalog/intake/photos/seed-crackers.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

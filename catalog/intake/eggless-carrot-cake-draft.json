@@ -1,0 +1,127 @@
+{
+  "sourceReviewId": "R1734",
+  "id": "eggless-carrot-cake",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Carrot Cake",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 140,
+      "unit": "g"
+    },
+    {
+      "name": "carrot",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "plain yogurt",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 85,
+      "unit": "g"
+    },
+    {
+      "name": "oil",
+      "qty": 55,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "qty": 40,
+      "unit": "ml"
+    },
+    {
+      "name": "baking powder",
+      "qty": 5,
+      "unit": "g"
+    },
+    {
+      "name": "baking soda",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "walnuts",
+      "qty": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Heat oven to 175°C and line an 18 cm tin; finely grate carrots and roughly chop walnuts.",
+    "Whisk yogurt, sugar, oil and milk; sift flour with baking powder, soda and cinnamon into another bowl.",
+    "Fold the dry mixture into the wet ingredients; stir in carrot and walnuts without beating the batter.",
+    "Bake for 35–40 minutes until a skewer comes out clean; cool in the tin briefly, then transfer to a rack."
+  ],
+  "tips": [
+    "Grate carrots finely; coarse pieces can remain crunchy inside the cake."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का गाजर केक",
+      "ingredients": [
+        "मैदा",
+        "गाजर",
+        "सादा दही",
+        "चीनी",
+        "तेल",
+        "दूध",
+        "बेकिंग पाउडर",
+        "खाने का सोडा",
+        "दालचीनी पाउडर",
+        "अखरोट"
+      ],
+      "steps": [
+        "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; गाजर बारीक कसें और अखरोट काटें।",
+        "दही, चीनी, तेल और दूध फेंटें; दूसरे कटोरे में मैदा, बेकिंग पाउडर, सोडा और दालचीनी छानें।",
+        "सूखा मिश्रण गीली सामग्री में हल्के हाथ मिलाएँ; घोल फेंटे बिना गाजर और अखरोट मिलाएँ।",
+        "35–40 मिनट सींक साफ निकलने तक बेक करें; थोड़ा साँचे में ठंडा करके जाली पर रखें।"
+      ],
+      "tips": [
+        "गाजर बारीक कसें; मोटे टुकड़े केक में कच्चे रह सकते हैं।"
+      ]
+    },
+    "gu": {
+      "name": "ઈંડા વિનાની ગાજર કેક",
+      "ingredients": [
+        "મેંદો",
+        "ગાજર",
+        "સાદું દહીં",
+        "ખાંડ",
+        "તેલ",
+        "દૂધ",
+        "બેકિંગ પાઉડર",
+        "ખાવાનો સોડા",
+        "તજ પાઉડર",
+        "અખરોટ"
+      ],
+      "steps": [
+        "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; ગાજર ઝીણું છીણો અને અખરોટ સમારો.",
+        "દહીં, ખાંડ, તેલ અને દૂધ ફેંટો; બીજા વાસણમાં મેંદો, બેકિંગ પાઉડર, સોડા અને તજ ચાળો.",
+        "સૂકું મિશ્રણ ભીની સામગ્રીમાં હળવેથી ભેળવો; ખીરું ફેંટ્યા વગર ગાજર અને અખરોટ ઉમેરો.",
+        "35–40 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સહેજ મોલ્ડમાં ઠંડું કરી જાળી પર મૂકો."
+      ],
+      "tips": [
+        "ગાજર ઝીણું છીણો; જાડા ટુકડા કેકમાં કાચા રહી શકે."
+      ]
+    }
+  },
+  "photoDescription": "Unfrosted golden brown carrot cake slices with tiny orange carrot flecks and walnut pieces in moist crumb.",
+  "photoDraft": "catalog/intake/photos/eggless-carrot-cake.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R1570",
+  "id": "mango-sticky-rice",
+  "status": "published-popular-200-intake-batch",
+  "name": "Mango Sticky Rice",
+  "cuisine": "Thai",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 40,
+  "method": "steam",
+  "ingredients": [
+    {
+      "name": "Thai glutinous rice",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "coconut milk",
+      "qty": 300,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 2,
+      "unit": "g"
+    },
+    {
+      "name": "ripe mango flesh",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "sesame seeds",
+      "qty": 8,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 1000,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Wash rice and soak in the measured water for 4 hours; drain and spread on a damp cloth in a steamer.",
+    "Steam for 25–30 minutes until tender but still holding shape; turn the rice once for even cooking.",
+    "Warm coconut milk with sugar and salt until dissolved; fold most into the hot rice and rest covered for 15 minutes.",
+    "Slice mango and serve beside the coconut rice; spoon over reserved coconut sauce and sprinkle toasted sesame."
+  ],
+  "tips": [
+    "Use Thai sweet glutinous rice; regular rice gives a different texture."
+  ],
+  "translations": {
+    "hi": {
+      "name": "मैंगो स्टिकी राइस",
+      "ingredients": [
+        "थाई चिपचिपे चावल",
+        "नारियल का दूध",
+        "चीनी",
+        "नमक",
+        "पके आम का गूदा",
+        "तिल",
+        "पानी"
+      ],
+      "steps": [
+        "चावल धोकर मापे पानी में 4 घंटे भिगोएँ; निथारकर स्टीमर में गीले कपड़े पर फैलाएँ।",
+        "25–30 मिनट नरम लेकिन साबुत रहने तक भाप में पकाएँ; समान पकने के लिए बीच में पलटें।",
+        "नारियल का दूध, चीनी और नमक गरम कर घोलें; अधिकतर गरम चावल में मिलाकर 15 मिनट ढकें।",
+        "आम के स्लाइस चावल के साथ रखें; बची नारियल सॉस और भुने तिल ऊपर डालें।"
+      ],
+      "tips": [
+        "थाई मीठे चिपचिपे चावल लें; सामान्य चावल से बनावट अलग होगी।"
+      ],
+      "passiveTime": "4 घंटे भिगोएँ; पके चावल 15 मिनट रखें।"
+    },
+    "gu": {
+      "name": "મેંગો સ્ટિકી રાઇસ",
+      "ingredients": [
+        "થાઈ ચીકણા ચોખા",
+        "નારિયેળનું દૂધ",
+        "ખાંડ",
+        "મીઠું",
+        "પાકેલી કેરીનો ગર",
+        "તલ",
+        "પાણી"
+      ],
+      "steps": [
+        "ચોખા ધોઈ માપેલા પાણીમાં 4 કલાક પલાળો; નિતારી સ્ટીમરમાં ભીના કપડા પર પાથરો.",
+        "25–30 મિનિટ નરમ પણ દાણા આખા રહે ત્યાં સુધી વરાળમાં પકાવો; સરખા પાકે તે માટે વચ્ચે ફેરવો.",
+        "નારિયેળનું દૂધ, ખાંડ અને મીઠું ગરમ કરી ઓગાળો; મોટો ભાગ ગરમ ચોખામાં ભેળવી 15 મિનિટ ઢાંકો.",
+        "કેરીના કાપ ચોખાની બાજુમાં મૂકો; બચેલી નાળિયેર સોસ અને શેકેલા તલ ઉપર ઉમેરો."
+      ],
+      "tips": [
+        "થાઈ મીઠા ચીકણા ચોખા લો; સામાન્ય ચોખાથી બનાવટ જુદી થશે."
+      ],
+      "passiveTime": "4 કલાક પલાળો; પાકેલા ચોખા 15 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Glossy white coconut sticky rice mound beside a fan of ripe golden mango slices, white coconut sauce and toasted sesame.",
+  "passiveTime": "Soak for 4 hours; rest cooked rice for 15 minutes.",
+  "photoDraft": "catalog/intake/photos/mango-sticky-rice.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

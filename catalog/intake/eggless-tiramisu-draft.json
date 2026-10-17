@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R1560",
+  "id": "eggless-tiramisu",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Tiramisu",
+  "cuisine": "Italian Inspired",
+  "categories": [
+    "Desserts"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 30,
+  "method": "assemble",
+  "ingredients": [
+    {
+      "name": "egg-free vanilla sponge cake",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "mascarpone",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "whipping cream",
+      "qty": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "brewed coffee, cooled",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "cocoa powder",
+      "qty": 12,
+      "unit": "g"
+    },
+    {
+      "name": "vanilla extract",
+      "qty": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Whip cold cream with sugar until soft peaks form; gently fold into softened mascarpone and vanilla.",
+    "Slice the egg-free sponge into thin layers; arrange half in a small dish and brush with half the cooled coffee.",
+    "Spread half the cream mixture on top, then repeat with remaining sponge, coffee and cream; smooth the surface.",
+    "Cover and chill for 6 hours; dust cocoa through a sieve just before dividing into portions."
+  ],
+  "tips": [
+    "Use a verified egg-free sponge; ordinary ladyfinger biscuits usually contain eggs."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे का तिरामिसु",
+      "ingredients": [
+        "बिना अंडे का वनीला स्पंज केक",
+        "मस्कारपोने",
+        "व्हिपिंग क्रीम",
+        "चीनी",
+        "ठंडी बनी कॉफी",
+        "कोको पाउडर",
+        "वनीला अर्क"
+      ],
+      "steps": [
+        "ठंडी क्रीम और चीनी को नरम चोटियाँ बनने तक फेंटें; नरम मस्कारपोने और वनीला में हल्के हाथ मिलाएँ।",
+        "बिना अंडे के स्पंज की पतली परतें काटें; आधी छोटे बर्तन में रखें और आधी ठंडी कॉफी लगाएँ।",
+        "आधा क्रीम मिश्रण फैलाएँ, फिर बचा स्पंज, कॉफी और क्रीम की परतें बनाएँ; सतह समतल करें।",
+        "ढककर 6 घंटे ठंडा करें; हिस्से करने से ठीक पहले छलनी से कोको छिड़कें।"
+      ],
+      "tips": [
+        "प्रमाणित बिना अंडे वाला स्पंज लें; सामान्य लेडीफिंगर बिस्कुट में प्रायः अंडे होते हैं।"
+      ],
+      "passiveTime": "6 घंटे ठंडा करें।"
+    },
+    "gu": {
+      "name": "ઈંડા વિનાનું તિરામિસુ",
+      "ingredients": [
+        "ઈંડા વિનાની વેનિલા સ્પોન્જ કેક",
+        "મસ્કારપોને",
+        "વ્હિપિંગ ક્રીમ",
+        "ખાંડ",
+        "ઠંડી તૈયાર કોફી",
+        "કોકો પાઉડર",
+        "વેનિલા અર્ક"
+      ],
+      "steps": [
+        "ઠંડી ક્રીમ અને ખાંડ નરમ શિખર બને ત્યાં સુધી ફેંટો; નરમ મસ્કારપોને અને વેનિલામાં હળવેથી ભેળવો.",
+        "ઈંડા વિનાની સ્પોન્જની પાતળી પરતો કાપો; અડધી નાના વાસણમાં ગોઠવી અડધી ઠંડી કોફી લગાવો.",
+        "અડધું ક્રીમ મિશ્રણ પાથરો, પછી બાકીની સ્પોન્જ, કોફી અને ક્રીમના સ્તર કરો; સપાટી સરખી કરો.",
+        "ઢાંકી 6 કલાક ઠંડું કરો; ભાગ પાડતાં પહેલાં ચાળણીથી કોકો છાંટો."
+      ],
+      "tips": [
+        "ખાતરીવાળી ઈંડા વિનાની સ્પોન્જ લો; સામાન્ય લેડીફિંગર બિસ્કિટમાં ઘણીવાર ઈંડાં હોય છે."
+      ],
+      "passiveTime": "6 કલાક ઠંડું કરો."
+    }
+  },
+  "photoDescription": "Square portion of tiramisu with pale mascarpone cream, coffee-soaked sponge layers and fine cocoa dusting.",
+  "passiveTime": "Chill for 6 hours.",
+  "photoDraft": "catalog/intake/photos/eggless-tiramisu.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

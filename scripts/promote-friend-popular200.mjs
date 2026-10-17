@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {dairyEvidenceText} from '../src/core.js';
 import {normalizeName,validateEntry,duplicates} from './validate-catalog.mjs';
 
 const intakePath='catalog/intake/friend-dishes.json';
@@ -20,7 +21,7 @@ const noteTranslations={
  hi:'मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।',
  gu:'માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.'
 };
-const group=name=>/coconut milk/i.test(name)?'Packaged':/milk|curd|yogurt|ghee|butter|cheese|ricotta|buttermilk/i.test(name)?'Dairy':/dal|lentil|chickpeas|mung beans|white beans|peas/i.test(name)?'Pulses':/rice|pasta|noodle|flour|semolina|oats|millet|quinoa|grits|groats|cornmeal|tapioca/i.test(name)?'Grains':/almond|cashew|peanut|pistachio|nuts|seeds/i.test(name)?'Dry Fruits':/cumin|turmeric|chilli|pepper|cardamom|cinnamon|mustard|salt|oregano|thyme|parsley|coriander|spice/i.test(name)?'Spices':/banana|berries|figs|apple|lemon|lime|strawberr/i.test(name)?'Fruits':/bread|pav/i.test(name)?'Bakery':/oil|sugar|jaggery|syrup|cocoa/i.test(name)?'Packaged':/potato|tomato|onion|mushroom|spinach|gourd|corn|carrot/i.test(name)?'Vegetables':'Other';
+const group=name=>/coconut milk/i.test(name)?'Packaged':/milk|curd|yogurt|ghee|butter|cheese|ricotta|buttermilk/i.test(dairyEvidenceText(name))?'Dairy':/dal|lentil|chickpeas|mung beans|white beans|peas/i.test(name)?'Pulses':/rice|pasta|noodle|flour|semolina|oats|millet|quinoa|grits|groats|cornmeal|tapioca/i.test(name)?'Grains':/almond|cashew|peanut|pistachio|nuts|seeds/i.test(name)?'Dry Fruits':/cumin|turmeric|chilli|pepper|cardamom|cinnamon|mustard|salt|oregano|thyme|parsley|coriander|spice/i.test(name)?'Spices':/banana|berries|figs|apple|lemon|lime|strawberr/i.test(name)?'Fruits':/bread|pav/i.test(name)?'Bakery':/oil|sugar|jaggery|syrup|cocoa/i.test(name)?'Packaged':/potato|tomato|onion|mushroom|spinach|gourd|corn|carrot/i.test(name)?'Vegetables':'Other';
 const entries=[];
 const pendingWrites=[];
 for(const candidate of source){
@@ -50,7 +51,7 @@ for(const candidate of source){
   candidate.sourceCategory==='Cakes & Bakes'?'bake':
   candidate.sourceCategory==='Smoothies'?'blend':'assemble');
  const ingredientNames=draft.ingredients.map(item=>item.name);
- const joined=ingredientNames.join(' ').replace(/\b(?:coconut|oat|rice|soy|almond) milk\b/gi,match=>match.replace(/milk$/i,'drink'));
+ const joined=dairyEvidenceText(ingredientNames.join(' '));
  const allergens=[...new Set([...(draft.allergens||[]), ...[[/\b(milk|paneer|curd|cream|ghee|butter|cheese|yogurt|buttermilk|ricotta)\b/i,'milk'],[/\b(wheat|semolina|bread|pav|plain flour|all-purpose flour|barley flour|sourdough|pasta|panko|ramen|udon|tortilla|cannelloni|ziti|orzo|gnocchi|couscous|bulgur)\b/i,'gluten'],[/peanut/i,'peanut'],[/cashew|almond|pistachio|walnut|hazelnut/i,'tree nuts'],[/sesame|tahini/i,'sesame'],[/soy|tofu/i,'soy']].filter(([pattern])=>pattern.test(joined)).map(([,value])=>value)])];
  if(/\bsoy sauce\b/i.test(joined)&&!allergens.includes('gluten'))allergens.push('gluten');
  const categories=[...new Set(draft.categories)];

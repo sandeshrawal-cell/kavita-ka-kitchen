@@ -10792,6 +10792,4277 @@
           "Choose cheese labelled vegetarian or made with microbial rennet.": "શાકાહારી અથવા માઇક્રોબિયલ રેનેટવાળું ચીઝ પસંદ કરો."
         }
       }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "poha-cutlet",
+        "canonicalId": "poha-cutlet",
+        "name": "Poha Cutlet",
+        "cuisine": "Indian",
+        "categories": [
+          "Snacks",
+          "Lunchbox"
+        ],
+        "ingredients": [
+          "thick poha",
+          "boiled potatoes",
+          "carrot",
+          "onion",
+          "ginger",
+          "green chilli",
+          "fresh coriander",
+          "rice flour",
+          "salt",
+          "oil"
+        ],
+        "method": "griddle",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "balanced"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "poha-cutlet",
+        "name": "Poha Cutlet",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "thick poha",
+            "qty": 140,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "boiled potatoes",
+            "qty": 250,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 60,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "onion",
+            "qty": 50,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "ginger",
+            "qty": 8,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "green chilli",
+            "qty": 4,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "fresh coriander",
+            "qty": 15,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "linear"
+          },
+          {
+            "name": "rice flour",
+            "qty": 25,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 5,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "oil",
+            "qty": 35,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rinse poha briefly in a sieve, drain and rest for 10 minutes until soft; mash the boiled potatoes.",
+          "Combine poha, potato, grated carrot, finely chopped onion, ginger, chilli, coriander, rice flour and salt.",
+          "Knead lightly until the mixture holds together; shape into 8 flat cutlets without cracks.",
+          "Heat oil in a wide pan; cook cutlets on medium heat for 4–5 minutes per side until golden and hot throughout."
+        ],
+        "tips": [
+          "Let washed poha drain fully; excess water makes the cutlets fragile."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Poha Cutlet": "पोहा कटलेट",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "thick poha": "मोटा पोहा",
+          "boiled potatoes": "उबले आलू",
+          "carrot": "गाजर",
+          "onion": "प्याज़",
+          "ginger": "अदरक",
+          "green chilli": "हरी मिर्च",
+          "fresh coriander": "हरा धनिया",
+          "rice flour": "चावल का आटा",
+          "salt": "नमक",
+          "oil": "तेल",
+          "Rinse poha briefly in a sieve, drain and rest for 10 minutes until soft; mash the boiled potatoes.": "पोहा छलनी में जल्दी धोकर निथारें और 10 मिनट नरम होने दें; उबले आलू मसलें।",
+          "Combine poha, potato, grated carrot, finely chopped onion, ginger, chilli, coriander, rice flour and salt.": "पोहा, आलू, कसी गाजर, बारीक प्याज़, अदरक, मिर्च, धनिया, चावल का आटा और नमक मिलाएँ।",
+          "Knead lightly until the mixture holds together; shape into 8 flat cutlets without cracks.": "मिश्रण बँधने तक हल्का गूँधें; बिना दरार वाले 8 चपटे कटलेट बनाएँ।",
+          "Heat oil in a wide pan; cook cutlets on medium heat for 4–5 minutes per side until golden and hot throughout.": "चौड़े तवे पर तेल गरम करें; कटलेट मध्यम आँच पर हर तरफ 4–5 मिनट सुनहरे और अंदर तक गरम होने तक सेकें।",
+          "Let washed poha drain fully; excess water makes the cutlets fragile.": "धुले पोहे का पानी पूरा निकालें; अधिक पानी से कटलेट टूटते हैं।"
+        },
+        "gu": {
+          "Poha Cutlet": "પૌંઆ કટલેટ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "thick poha": "જાડા પૌંઆ",
+          "boiled potatoes": "બાફેલા બટાકા",
+          "carrot": "ગાજર",
+          "onion": "ડુંગળી",
+          "ginger": "આદુ",
+          "green chilli": "લીલું મરચું",
+          "fresh coriander": "લીલા ધાણા",
+          "rice flour": "ચોખાનો લોટ",
+          "salt": "મીઠું",
+          "oil": "તેલ",
+          "Rinse poha briefly in a sieve, drain and rest for 10 minutes until soft; mash the boiled potatoes.": "પૌંઆ ચાળણીમાં ઝડપથી ધોઈ નિતારી 10 મિનિટ નરમ થવા દો; બાફેલા બટાકા મસળો.",
+          "Combine poha, potato, grated carrot, finely chopped onion, ginger, chilli, coriander, rice flour and salt.": "પૌંઆ, બટાકા, છીણેલું ગાજર, ઝીણી ડુંગળી, આદુ, મરચું, ધાણા, ચોખાનો લોટ અને મીઠું ભેળવો.",
+          "Knead lightly until the mixture holds together; shape into 8 flat cutlets without cracks.": "મિશ્રણ બંધાય ત્યાં સુધી હળવું મસળો; તિરાડ વગરના 8 ચપટા કટલેટ બનાવો.",
+          "Heat oil in a wide pan; cook cutlets on medium heat for 4–5 minutes per side until golden and hot throughout.": "પહોળા તવા પર તેલ ગરમ કરો; મધ્યમ તાપે દરેક બાજુ 4–5 મિનિટ સોનેરી અને અંદર સુધી ગરમ થાય ત્યાં સુધી શેકો.",
+          "Let washed poha drain fully; excess water makes the cutlets fragile.": "ધોયેલા પૌંઆનું પાણી પૂરેપૂરું નિતારો; વધારે પાણીથી કટલેટ તૂટે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "makhana-chivda",
+        "canonicalId": "makhana-chivda",
+        "name": "Makhana Chivda",
+        "cuisine": "Indian",
+        "categories": [
+          "Snacks",
+          "Lunchbox"
+        ],
+        "ingredients": [
+          "makhana",
+          "peanuts",
+          "cashews",
+          "raisins",
+          "dried grated coconut",
+          "ghee",
+          "curry leaves",
+          "turmeric",
+          "red chilli powder",
+          "salt"
+        ],
+        "method": "roast",
+        "time": 20,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "balanced"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "peanut",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "makhana-chivda",
+        "name": "Makhana Chivda",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "makhana",
+            "qty": 80,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "peanuts",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "cashews",
+            "qty": 25,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "raisins",
+            "qty": 25,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "dried grated coconut",
+            "qty": 20,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "curry leaves",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "turmeric",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "red chilli powder",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "salt",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Dry-roast makhana on low heat for 7–8 minutes, stirring until a cooled piece snaps rather than bends.",
+          "Heat ghee and fry peanuts for 4–5 minutes until cooked; add cashews and toast until lightly golden.",
+          "Add curry leaves, coconut and raisins; stir until leaves are crisp, then lower the heat and add spices and salt.",
+          "Toss in roasted makhana until evenly coated; spread on a tray and cool completely before storing airtight."
+        ],
+        "tips": [
+          "Use dry coconut flakes if storing beyond the day; fresh coconut shortens storage."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 20,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Makhana Chivda": "मखाना चिवड़ा",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "makhana": "मखाने",
+          "peanuts": "मूँगफली",
+          "cashews": "काजू",
+          "raisins": "किशमिश",
+          "dried grated coconut": "सूखा कसा नारियल",
+          "ghee": "घी",
+          "curry leaves": "करी पत्ते",
+          "turmeric": "हल्दी",
+          "red chilli powder": "लाल मिर्च पाउडर",
+          "salt": "नमक",
+          "Dry-roast makhana on low heat for 7–8 minutes, stirring until a cooled piece snaps rather than bends.": "मखाने धीमी आँच पर 7–8 मिनट चलाते हुए भूनें; ठंडा टुकड़ा दबाने पर कुरकुरा टूटना चाहिए।",
+          "Heat ghee and fry peanuts for 4–5 minutes until cooked; add cashews and toast until lightly golden.": "घी गरम कर मूँगफली 4–5 मिनट पकने तक भूनें; काजू डालकर हल्का सुनहरा करें।",
+          "Add curry leaves, coconut and raisins; stir until leaves are crisp, then lower the heat and add spices and salt.": "करी पत्ते, नारियल और किशमिश डालें; पत्ते कुरकुरे होने पर आँच कम करके मसाले और नमक मिलाएँ।",
+          "Toss in roasted makhana until evenly coated; spread on a tray and cool completely before storing airtight.": "भुने मखाने अच्छी तरह मिलाएँ; ट्रे में फैलाकर पूरी तरह ठंडा करें, फिर हवा बंद डिब्बे में भरें।",
+          "Use dry coconut flakes if storing beyond the day; fresh coconut shortens storage.": "अधिक समय रखने के लिए सूखे नारियल के टुकड़े लें; ताज़ा नारियल से जल्दी खराब होता है।"
+        },
+        "gu": {
+          "Makhana Chivda": "મખાણા ચેવડો",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "makhana": "મખાણા",
+          "peanuts": "મગફળી",
+          "cashews": "કાજુ",
+          "raisins": "કિસમિસ",
+          "dried grated coconut": "સૂકું છીણેલું નાળિયેર",
+          "ghee": "ઘી",
+          "curry leaves": "લીમડાનાં પાન",
+          "turmeric": "હળદર",
+          "red chilli powder": "લાલ મરચું પાઉડર",
+          "salt": "મીઠું",
+          "Dry-roast makhana on low heat for 7–8 minutes, stirring until a cooled piece snaps rather than bends.": "મખાણા ધીમા તાપે 7–8 મિનિટ હલાવી શેકો; ઠંડો ટુકડો દબાવતાં કરકરો તૂટવો જોઈએ.",
+          "Heat ghee and fry peanuts for 4–5 minutes until cooked; add cashews and toast until lightly golden.": "ઘી ગરમ કરી મગફળી 4–5 મિનિટ શેકો; કાજુ ઉમેરી આછા સોનેરી કરો.",
+          "Add curry leaves, coconut and raisins; stir until leaves are crisp, then lower the heat and add spices and salt.": "લીમડાનાં પાન, નાળિયેર અને કિસમિસ ઉમેરો; પાન કરકરાં થાય ત્યારે તાપ ઓછો કરી મસાલા અને મીઠું ઉમેરો.",
+          "Toss in roasted makhana until evenly coated; spread on a tray and cool completely before storing airtight.": "શેકેલા મખાણા સરખા ભેળવો; ટ્રેમાં ફેલાવી સંપૂર્ણ ઠંડા થાય પછી હવાચુસ્ત ડબ્બામાં ભરો.",
+          "Use dry coconut flakes if storing beyond the day; fresh coconut shortens storage.": "વધુ સમય રાખવા સૂકું નાળિયેર લો; તાજા નાળિયેરથી વહેલું બગડે છે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "seed-crackers",
+        "canonicalId": "seed-crackers",
+        "name": "Seed Crackers",
+        "cuisine": "Global",
+        "categories": [
+          "Snacks",
+          "Lunchbox"
+        ],
+        "ingredients": [
+          "flax seeds",
+          "chia seeds",
+          "sunflower seeds",
+          "pumpkin seeds",
+          "sesame seeds",
+          "water",
+          "salt"
+        ],
+        "method": "bake",
+        "time": 65,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "balanced"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "sesame"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "seed-crackers",
+        "name": "Seed Crackers",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "flax seeds",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "chia seeds",
+            "qty": 25,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "sunflower seeds",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "pumpkin seeds",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "sesame seeds",
+            "qty": 35,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Mix all seeds with salt and water; rest for 20 minutes until the chia and flax form a thick gel.",
+          "Heat the oven to 160°C. Spread the mixture very thinly and evenly on a parchment-lined baking tray.",
+          "Bake for 25 minutes, score into rectangles and carefully flip the large sheet using another tray.",
+          "Bake for 15–20 minutes more until dry and crisp; cool fully and break along the scored lines."
+        ],
+        "tips": [
+          "Return any flexible pieces to the oven briefly; store only once fully cooled."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Seed Crackers": "बीज वाले क्रैकर्स",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "flax seeds": "अलसी के बीज",
+          "chia seeds": "चिया बीज",
+          "sunflower seeds": "सूरजमुखी के बीज",
+          "pumpkin seeds": "कद्दू के बीज",
+          "sesame seeds": "तिल",
+          "water": "पानी",
+          "salt": "नमक",
+          "Mix all seeds with salt and water; rest for 20 minutes until the chia and flax form a thick gel.": "सभी बीज नमक और पानी में मिलाएँ; 20 मिनट रखें ताकि चिया और अलसी गाढ़ा जेल बनाएँ।",
+          "Heat the oven to 160°C. Spread the mixture very thinly and evenly on a parchment-lined baking tray.": "ओवन 160°C पर गरम करें। बेकिंग पेपर लगी ट्रे पर मिश्रण बहुत पतला और समान फैलाएँ।",
+          "Bake for 25 minutes, score into rectangles and carefully flip the large sheet using another tray.": "25 मिनट बेक करें, आयताकार निशान बनाएँ और दूसरी ट्रे की मदद से सावधानी से पलटें।",
+          "Bake for 15–20 minutes more until dry and crisp; cool fully and break along the scored lines.": "15–20 मिनट और सूखा तथा कुरकुरा होने तक बेक करें; पूरा ठंडा करके निशानों पर तोड़ें।",
+          "Return any flexible pieces to the oven briefly; store only once fully cooled.": "नरम टुकड़े थोड़ी देर फिर बेक करें; पूरा ठंडा होने पर ही रखें।"
+        },
+        "gu": {
+          "Seed Crackers": "બીજવાળા ક્રેકર્સ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "flax seeds": "અળસીના બીજ",
+          "chia seeds": "ચિયા બીજ",
+          "sunflower seeds": "સૂર્યમુખીનાં બીજ",
+          "pumpkin seeds": "કોળાનાં બીજ",
+          "sesame seeds": "તલ",
+          "water": "પાણી",
+          "salt": "મીઠું",
+          "Mix all seeds with salt and water; rest for 20 minutes until the chia and flax form a thick gel.": "બધા બીજ મીઠા અને પાણી સાથે ભેળવો; ચિયા અને અળસીનું ઘટ્ટ જેલ બને ત્યાં સુધી 20 મિનિટ રાખો.",
+          "Heat the oven to 160°C. Spread the mixture very thinly and evenly on a parchment-lined baking tray.": "ઓવન 160°C પર ગરમ કરો. બેકિંગ પેપરવાળી ટ્રે પર મિશ્રણ ખૂબ પાતળું અને સરખું પાથરો.",
+          "Bake for 25 minutes, score into rectangles and carefully flip the large sheet using another tray.": "25 મિનિટ બેક કરો, લંબચોરસ નિશાન પાડો અને બીજી ટ્રેની મદદથી આખી પાતળી પરત કાળજીથી ફેરવો.",
+          "Bake for 15–20 minutes more until dry and crisp; cool fully and break along the scored lines.": "વધુ 15–20 મિનિટ સૂકું અને કરકરું થાય ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી નિશાન પરથી તોડો.",
+          "Return any flexible pieces to the oven briefly; store only once fully cooled.": "વળી જતા ટુકડા થોડો સમય ફરી બેક કરો; સંપૂર્ણ ઠંડા થાય પછી જ ભરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "granola-bars",
+        "canonicalId": "granola-bars",
+        "name": "Granola Bars",
+        "cuisine": "Global",
+        "categories": [
+          "Snacks",
+          "Lunchbox"
+        ],
+        "ingredients": [
+          "rolled oats",
+          "almonds",
+          "pumpkin seeds",
+          "raisins",
+          "smooth peanut butter",
+          "honey",
+          "salt",
+          "ground cinnamon"
+        ],
+        "method": "assemble",
+        "time": 30,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "balanced"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "peanut",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "granola-bars",
+        "name": "Granola Bars",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "rolled oats",
+            "qty": 180,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "almonds",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "pumpkin seeds",
+            "qty": 30,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "raisins",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "smooth peanut butter",
+            "qty": 80,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "honey",
+            "qty": 80,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ground cinnamon",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Toast oats, chopped almonds and pumpkin seeds in a dry pan for 6–8 minutes until fragrant; cool slightly.",
+          "Warm peanut butter and honey gently until fluid; stir in salt and cinnamon without boiling.",
+          "Mix the toasted ingredients and raisins into the binder until no dry patches remain; press firmly into a lined small square tin.",
+          "Refrigerate for 2 hours until firm, then lift out and cut into 8 bars with a sharp knife."
+        ],
+        "tips": [
+          "These chewy bars soften in heat; keep refrigerated in a sealed container."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": "Chill for 2 hours.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Granola Bars": "ग्रेनोला बार",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "rolled oats": "रोल्ड ओट्स",
+          "almonds": "बादाम",
+          "pumpkin seeds": "कद्दू के बीज",
+          "raisins": "किशमिश",
+          "smooth peanut butter": "चिकना पीनट बटर",
+          "honey": "शहद",
+          "salt": "नमक",
+          "ground cinnamon": "दालचीनी पाउडर",
+          "Toast oats, chopped almonds and pumpkin seeds in a dry pan for 6–8 minutes until fragrant; cool slightly.": "ओट्स, कटे बादाम और कद्दू के बीज सूखे तवे पर 6–8 मिनट सुगंध आने तक भूनें; थोड़ा ठंडा करें।",
+          "Warm peanut butter and honey gently until fluid; stir in salt and cinnamon without boiling.": "पीनट बटर और शहद हल्का गरम कर पतला करें; बिना उबाले नमक और दालचीनी मिलाएँ।",
+          "Mix the toasted ingredients and raisins into the binder until no dry patches remain; press firmly into a lined small square tin.": "भुनी सामग्री और किशमिश मीठे मिश्रण में पूरी तरह मिलाएँ; पेपर लगे छोटे चौकोर साँचे में कसकर दबाएँ।",
+          "Refrigerate for 2 hours until firm, then lift out and cut into 8 bars with a sharp knife.": "2 घंटे फ्रिज में जमाएँ, फिर निकालकर तेज़ चाकू से 8 बार काटें।",
+          "These chewy bars soften in heat; keep refrigerated in a sealed container.": "ये मुलायम बार गर्मी में नरम होते हैं; बंद डिब्बे में फ्रिज में रखें।",
+          "Chill for 2 hours.": "2 घंटे ठंडा करें।"
+        },
+        "gu": {
+          "Granola Bars": "ગ્રેનોલા બાર",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "rolled oats": "રોલ્ડ ઓટ્સ",
+          "almonds": "બદામ",
+          "pumpkin seeds": "કોળાનાં બીજ",
+          "raisins": "કિસમિસ",
+          "smooth peanut butter": "મુલાયમ પીનટ બટર",
+          "honey": "મધ",
+          "salt": "મીઠું",
+          "ground cinnamon": "તજ પાઉડર",
+          "Toast oats, chopped almonds and pumpkin seeds in a dry pan for 6–8 minutes until fragrant; cool slightly.": "ઓટ્સ, સમારેલા બદામ અને કોળાનાં બીજ સૂકા તવા પર 6–8 મિનિટ સુગંધ આવે ત્યાં સુધી શેકો; થોડાં ઠંડાં કરો.",
+          "Warm peanut butter and honey gently until fluid; stir in salt and cinnamon without boiling.": "પીનટ બટર અને મધ હળવેથી ગરમ કરી પ્રવાહી બનાવો; ઉકાળ્યા વગર મીઠું અને તજ ભેળવો.",
+          "Mix the toasted ingredients and raisins into the binder until no dry patches remain; press firmly into a lined small square tin.": "શેકેલી સામગ્રી અને કિસમિસ મીઠા મિશ્રણમાં સંપૂર્ણ ભેળવો; પેપરવાળા નાના ચોરસ મોલ્ડમાં કસીને દબાવો.",
+          "Refrigerate for 2 hours until firm, then lift out and cut into 8 bars with a sharp knife.": "2 કલાક ફ્રિજમાં કઠણ થવા દો, પછી કાઢી ધારદાર છરીથી 8 બાર કાપો.",
+          "These chewy bars soften in heat; keep refrigerated in a sealed container.": "આ ચાવવાના બાર ગરમીમાં નરમ થાય છે; બંધ ડબ્બામાં ફ્રિજમાં રાખો.",
+          "Chill for 2 hours.": "2 કલાક ઠંડા કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-tiramisu",
+        "canonicalId": "eggless-tiramisu",
+        "name": "Eggless Tiramisu",
+        "cuisine": "Italian Inspired",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "egg-free vanilla sponge cake",
+          "mascarpone",
+          "whipping cream",
+          "sugar",
+          "brewed coffee, cooled",
+          "cocoa powder",
+          "vanilla extract"
+        ],
+        "method": "assemble",
+        "time": 30,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": false,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "eggless-tiramisu",
+        "name": "Eggless Tiramisu",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "egg-free vanilla sponge cake",
+            "qty": 200,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "mascarpone",
+            "qty": 200,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "whipping cream",
+            "qty": 200,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 50,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "brewed coffee, cooled",
+            "qty": 150,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cocoa powder",
+            "qty": 12,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 3,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Whip cold cream with sugar until soft peaks form; gently fold into softened mascarpone and vanilla.",
+          "Slice the egg-free sponge into thin layers; arrange half in a small dish and brush with half the cooled coffee.",
+          "Spread half the cream mixture on top, then repeat with remaining sponge, coffee and cream; smooth the surface.",
+          "Cover and chill for 6 hours; dust cocoa through a sieve just before dividing into portions."
+        ],
+        "tips": [
+          "Use a verified egg-free sponge; ordinary ladyfinger biscuits usually contain eggs."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": "Chill for 6 hours.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Tiramisu": "बिना अंडे का तिरामिसु",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "egg-free vanilla sponge cake": "बिना अंडे का वनीला स्पंज केक",
+          "mascarpone": "मस्कारपोने",
+          "whipping cream": "व्हिपिंग क्रीम",
+          "sugar": "चीनी",
+          "brewed coffee, cooled": "ठंडी बनी कॉफी",
+          "cocoa powder": "कोको पाउडर",
+          "vanilla extract": "वनीला अर्क",
+          "Whip cold cream with sugar until soft peaks form; gently fold into softened mascarpone and vanilla.": "ठंडी क्रीम और चीनी को नरम चोटियाँ बनने तक फेंटें; नरम मस्कारपोने और वनीला में हल्के हाथ मिलाएँ।",
+          "Slice the egg-free sponge into thin layers; arrange half in a small dish and brush with half the cooled coffee.": "बिना अंडे के स्पंज की पतली परतें काटें; आधी छोटे बर्तन में रखें और आधी ठंडी कॉफी लगाएँ।",
+          "Spread half the cream mixture on top, then repeat with remaining sponge, coffee and cream; smooth the surface.": "आधा क्रीम मिश्रण फैलाएँ, फिर बचा स्पंज, कॉफी और क्रीम की परतें बनाएँ; सतह समतल करें।",
+          "Cover and chill for 6 hours; dust cocoa through a sieve just before dividing into portions.": "ढककर 6 घंटे ठंडा करें; हिस्से करने से ठीक पहले छलनी से कोको छिड़कें।",
+          "Use a verified egg-free sponge; ordinary ladyfinger biscuits usually contain eggs.": "प्रमाणित बिना अंडे वाला स्पंज लें; सामान्य लेडीफिंगर बिस्कुट में प्रायः अंडे होते हैं।",
+          "Chill for 6 hours.": "6 घंटे ठंडा करें।"
+        },
+        "gu": {
+          "Eggless Tiramisu": "ઈંડા વિનાનું તિરામિસુ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "egg-free vanilla sponge cake": "ઈંડા વિનાની વેનિલા સ્પોન્જ કેક",
+          "mascarpone": "મસ્કારપોને",
+          "whipping cream": "વ્હિપિંગ ક્રીમ",
+          "sugar": "ખાંડ",
+          "brewed coffee, cooled": "ઠંડી તૈયાર કોફી",
+          "cocoa powder": "કોકો પાઉડર",
+          "vanilla extract": "વેનિલા અર્ક",
+          "Whip cold cream with sugar until soft peaks form; gently fold into softened mascarpone and vanilla.": "ઠંડી ક્રીમ અને ખાંડ નરમ શિખર બને ત્યાં સુધી ફેંટો; નરમ મસ્કારપોને અને વેનિલામાં હળવેથી ભેળવો.",
+          "Slice the egg-free sponge into thin layers; arrange half in a small dish and brush with half the cooled coffee.": "ઈંડા વિનાની સ્પોન્જની પાતળી પરતો કાપો; અડધી નાના વાસણમાં ગોઠવી અડધી ઠંડી કોફી લગાવો.",
+          "Spread half the cream mixture on top, then repeat with remaining sponge, coffee and cream; smooth the surface.": "અડધું ક્રીમ મિશ્રણ પાથરો, પછી બાકીની સ્પોન્જ, કોફી અને ક્રીમના સ્તર કરો; સપાટી સરખી કરો.",
+          "Cover and chill for 6 hours; dust cocoa through a sieve just before dividing into portions.": "ઢાંકી 6 કલાક ઠંડું કરો; ભાગ પાડતાં પહેલાં ચાળણીથી કોકો છાંટો.",
+          "Use a verified egg-free sponge; ordinary ladyfinger biscuits usually contain eggs.": "ખાતરીવાળી ઈંડા વિનાની સ્પોન્જ લો; સામાન્ય લેડીફિંગર બિસ્કિટમાં ઘણીવાર ઈંડાં હોય છે.",
+          "Chill for 6 hours.": "6 કલાક ઠંડું કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Kunefe"
+      ],
+      "dish": {
+        "id": "kunafa",
+        "canonicalId": "kunafa",
+        "name": "Kunafa",
+        "cuisine": "Middle Eastern",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "egg-free kataifi pastry",
+          "butter",
+          "unsalted vegetarian mozzarella",
+          "sugar",
+          "water",
+          "lemon juice",
+          "rose water",
+          "shelled pistachios"
+        ],
+        "method": "bake",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "kunafa",
+        "name": "Kunafa",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "egg-free kataifi pastry",
+            "qty": 200,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 70,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "unsalted vegetarian mozzarella",
+            "qty": 180,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "sugar",
+            "qty": 100,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 5,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "rose water",
+            "qty": 5,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "shelled pistachios",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Simmer sugar, water and lemon juice for 7 minutes to make a light syrup; remove from heat and add rose water.",
+          "Heat oven to 180°C. Chop kataifi strands shorter and rub with melted butter until evenly moistened.",
+          "Press half into a greased 20 cm tin, add drained grated cheese leaving a border, and cover firmly with remaining pastry.",
+          "Bake for 30–35 minutes until deeply golden; pour cooled syrup over the hot pastry and finish with chopped pistachios."
+        ],
+        "tips": [
+          "Use vegetarian cheese and egg-free pastry; serve warm while the cheese is soft."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Kunafa": "कुनाफा",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "egg-free kataifi pastry": "बिना अंडे की कताइफ़ी पेस्ट्री",
+          "butter": "मक्खन",
+          "unsalted vegetarian mozzarella": "बिना नमक का शाकाहारी मोज़रेला",
+          "sugar": "चीनी",
+          "water": "पानी",
+          "lemon juice": "नींबू का रस",
+          "rose water": "गुलाब जल",
+          "shelled pistachios": "छिले पिस्ते",
+          "Simmer sugar, water and lemon juice for 7 minutes to make a light syrup; remove from heat and add rose water.": "चीनी, पानी और नींबू का रस 7 मिनट पकाकर हल्की चाशनी बनाएँ; आँच बंद कर गुलाब जल डालें।",
+          "Heat oven to 180°C. Chop kataifi strands shorter and rub with melted butter until evenly moistened.": "ओवन 180°C पर गरम करें। कताइफ़ी के रेशे छोटे काटें और पिघले मक्खन से अच्छी तरह मिलाएँ।",
+          "Press half into a greased 20 cm tin, add drained grated cheese leaving a border, and cover firmly with remaining pastry.": "आधी पेस्ट्री चिकने 20 सेमी साँचे में दबाएँ, किनारा छोड़कर सूखा कसा चीज़ रखें और बाकी पेस्ट्री से ढकें।",
+          "Bake for 30–35 minutes until deeply golden; pour cooled syrup over the hot pastry and finish with chopped pistachios.": "30–35 मिनट गहरा सुनहरा होने तक बेक करें; गरम पेस्ट्री पर ठंडी चाशनी डालकर कटे पिस्ते सजाएँ।",
+          "Use vegetarian cheese and egg-free pastry; serve warm while the cheese is soft.": "शाकाहारी चीज़ और बिना अंडे की पेस्ट्री लें; चीज़ नरम हो तभी गरम परोसें।"
+        },
+        "gu": {
+          "Kunafa": "કુનાફા",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "egg-free kataifi pastry": "ઈંડા વિનાની કતાઈફી પેસ્ટ્રી",
+          "butter": "માખણ",
+          "unsalted vegetarian mozzarella": "મીઠા વગરનું શાકાહારી મોઝરેલા",
+          "sugar": "ખાંડ",
+          "water": "પાણી",
+          "lemon juice": "લીંબુનો રસ",
+          "rose water": "ગુલાબજળ",
+          "shelled pistachios": "છોલેલા પિસ્તા",
+          "Simmer sugar, water and lemon juice for 7 minutes to make a light syrup; remove from heat and add rose water.": "ખાંડ, પાણી અને લીંબુનો રસ 7 મિનિટ ઉકાળી હલકી ચાસણી બનાવો; તાપ બંધ કરી ગુલાબજળ ઉમેરો.",
+          "Heat oven to 180°C. Chop kataifi strands shorter and rub with melted butter until evenly moistened.": "ઓવન 180°C પર ગરમ કરો. કતાઈફીના રેસા નાના કાપી પીગળેલા માખણ સાથે સરખા ભેળવો.",
+          "Press half into a greased 20 cm tin, add drained grated cheese leaving a border, and cover firmly with remaining pastry.": "અડધી પેસ્ટ્રી ઘી લગાવેલા 20 સેમી મોલ્ડમાં દબાવો, કિનારી છોડી નિતારેલું છીણેલું ચીઝ પાથરી બાકી પેસ્ટ્રીથી ઢાંકો.",
+          "Bake for 30–35 minutes until deeply golden; pour cooled syrup over the hot pastry and finish with chopped pistachios.": "30–35 મિનિટ ઘેરું સોનેરી થાય ત્યાં સુધી બેક કરો; ગરમ પેસ્ટ્રી પર ઠંડી ચાસણી રેડી સમારેલા પિસ્તા ઉમેરો.",
+          "Use vegetarian cheese and egg-free pastry; serve warm while the cheese is soft.": "શાકાહારી ચીઝ અને ઈંડા વિનાની પેસ્ટ્રી લો; ચીઝ નરમ હોય ત્યારે ગરમ પીરસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "baklava",
+        "canonicalId": "baklava",
+        "name": "Baklava",
+        "cuisine": "Middle Eastern",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "egg-free filo pastry",
+          "butter",
+          "walnuts",
+          "shelled pistachios",
+          "ground cinnamon",
+          "sugar",
+          "water",
+          "lemon juice"
+        ],
+        "method": "bake",
+        "time": 65,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "baklava",
+        "name": "Baklava",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "egg-free filo pastry",
+            "qty": 180,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 80,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "walnuts",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "shelled pistachios",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cinnamon",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "sugar",
+            "qty": 120,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 8,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Boil sugar, water and lemon juice for 8 minutes; set aside to cool. Chop nuts finely and mix with cinnamon.",
+          "Heat oven to 170°C. Trim filo to a small tin and keep unused sheets covered with a barely damp cloth.",
+          "Layer butter-brushed filo in the tin, spreading nuts between groups of sheets; finish with several buttered sheets and cut diamonds.",
+          "Bake for 40–45 minutes until crisp and golden; pour cooled syrup over hot pastry and rest for 3 hours before serving."
+        ],
+        "tips": [
+          "Cut before baking so syrup reaches the lower layers without crushing the pastry."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": "Rest for 3 hours after baking.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Baklava": "बकलावा",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "egg-free filo pastry": "बिना अंडे की फिलो पेस्ट्री",
+          "butter": "मक्खन",
+          "walnuts": "अखरोट",
+          "shelled pistachios": "छिले पिस्ते",
+          "ground cinnamon": "दालचीनी पाउडर",
+          "sugar": "चीनी",
+          "water": "पानी",
+          "lemon juice": "नींबू का रस",
+          "Boil sugar, water and lemon juice for 8 minutes; set aside to cool. Chop nuts finely and mix with cinnamon.": "चीनी, पानी और नींबू का रस 8 मिनट उबालकर ठंडा करें। मेवे बारीक काटकर दालचीनी मिलाएँ।",
+          "Heat oven to 170°C. Trim filo to a small tin and keep unused sheets covered with a barely damp cloth.": "ओवन 170°C पर गरम करें। फिलो छोटे साँचे के आकार में काटें; बाकी परतें हल्के नम कपड़े से ढकें।",
+          "Layer butter-brushed filo in the tin, spreading nuts between groups of sheets; finish with several buttered sheets and cut diamonds.": "हर फिलो पर मक्खन लगाकर परतें रखें, बीच में मेवे फैलाएँ; ऊपर मक्खन लगी परतें रखकर हीरे के आकार में काटें।",
+          "Bake for 40–45 minutes until crisp and golden; pour cooled syrup over hot pastry and rest for 3 hours before serving.": "40–45 मिनट कुरकुरा सुनहरा बेक करें; गरम पेस्ट्री पर ठंडी चाशनी डालकर परोसने से पहले 3 घंटे रखें।",
+          "Cut before baking so syrup reaches the lower layers without crushing the pastry.": "बेक करने से पहले काटें ताकि पेस्ट्री टूटे बिना चाशनी नीचे तक पहुँचे।",
+          "Rest for 3 hours after baking.": "बेक करने के बाद 3 घंटे रखें।"
+        },
+        "gu": {
+          "Baklava": "બકલાવા",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "egg-free filo pastry": "ઈંડા વિનાની ફિલો પેસ્ટ્રી",
+          "butter": "માખણ",
+          "walnuts": "અખરોટ",
+          "shelled pistachios": "છોલેલા પિસ્તા",
+          "ground cinnamon": "તજ પાઉડર",
+          "sugar": "ખાંડ",
+          "water": "પાણી",
+          "lemon juice": "લીંબુનો રસ",
+          "Boil sugar, water and lemon juice for 8 minutes; set aside to cool. Chop nuts finely and mix with cinnamon.": "ખાંડ, પાણી અને લીંબુનો રસ 8 મિનિટ ઉકાળી ઠંડો કરો. મેવા ઝીણા સમારી તજ ભેળવો.",
+          "Heat oven to 170°C. Trim filo to a small tin and keep unused sheets covered with a barely damp cloth.": "ઓવન 170°C પર ગરમ કરો. ફિલો નાના મોલ્ડના માપે કાપો; બાકીની પરતો સહેજ ભીના કપડાથી ઢાંકો.",
+          "Layer butter-brushed filo in the tin, spreading nuts between groups of sheets; finish with several buttered sheets and cut diamonds.": "દરેક ફિલો પર માખણ લગાવી પરતો કરો, વચ્ચે મેવા પાથરો; ઉપર માખણવાળી પરતો મૂકી હીરાના આકારમાં કાપો.",
+          "Bake for 40–45 minutes until crisp and golden; pour cooled syrup over hot pastry and rest for 3 hours before serving.": "40–45 મિનિટ કરકરું સોનેરી બેક કરો; ગરમ પેસ્ટ્રી પર ઠંડી ચાસણી રેડી પીરસતાં પહેલાં 3 કલાક રાખો.",
+          "Cut before baking so syrup reaches the lower layers without crushing the pastry.": "બેક કરતાં પહેલાં કાપો જેથી પેસ્ટ્રી તૂટ્યા વગર ચાસણી નીચે સુધી પહોંચે.",
+          "Rest for 3 hours after baking.": "બેક કર્યા પછી 3 કલાક રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "mochi-ice-cream",
+        "canonicalId": "mochi-ice-cream",
+        "name": "Mochi Ice Cream",
+        "cuisine": "Japanese",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "glutinous rice flour",
+          "sugar",
+          "water",
+          "cornstarch",
+          "egg-free vanilla ice cream"
+        ],
+        "method": "steam",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "mochi-ice-cream",
+        "name": "Mochi Ice Cream",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "glutinous rice flour",
+            "qty": 100,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 50,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 150,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "cornstarch",
+            "qty": 35,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "egg-free vanilla ice cream",
+            "qty": 240,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Scoop ice cream into 8 small balls and freeze until very firm; mix rice flour, sugar and water into a smooth batter.",
+          "Steam the batter in a covered heatproof bowl for 20 minutes, stirring halfway, until glossy and translucent throughout.",
+          "Transfer carefully to a cornstarch-dusted surface; dust the top, roll thinly and cool before cutting into 8 rounds.",
+          "Wrap each frozen scoop in a dough round and pinch shut underneath; freeze for 2 hours and soften briefly before eating."
+        ],
+        "tips": [
+          "Ordinary rice flour will not stretch; use glutinous rice flour and dust generously."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": "Freeze for 2 hours after shaping, plus initial ice-cream freezing.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Mochi Ice Cream": "मोची आइसक्रीम",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "glutinous rice flour": "चिपचिपे चावल का आटा",
+          "sugar": "चीनी",
+          "water": "पानी",
+          "cornstarch": "कॉर्नस्टार्च",
+          "egg-free vanilla ice cream": "बिना अंडे की वनीला आइसक्रीम",
+          "Scoop ice cream into 8 small balls and freeze until very firm; mix rice flour, sugar and water into a smooth batter.": "आइसक्रीम की 8 छोटी गोलियाँ बनाकर सख्त जमाएँ; चावल का आटा, चीनी और पानी चिकना घोलें।",
+          "Steam the batter in a covered heatproof bowl for 20 minutes, stirring halfway, until glossy and translucent throughout.": "ढके गर्मी सहने वाले बर्तन में घोल 20 मिनट भाप में पकाएँ; बीच में चलाएँ और पूरा चमकीला पारदर्शी होने दें।",
+          "Transfer carefully to a cornstarch-dusted surface; dust the top, roll thinly and cool before cutting into 8 rounds.": "सावधानी से कॉर्नस्टार्च छिड़की सतह पर रखें; ऊपर भी छिड़ककर पतला बेलें और ठंडा कर 8 गोले काटें।",
+          "Wrap each frozen scoop in a dough round and pinch shut underneath; freeze for 2 hours and soften briefly before eating.": "हर जमी गोली को आटे के गोले में लपेटकर नीचे बंद करें; 2 घंटे जमाएँ और खाने से पहले थोड़ा नरम होने दें।",
+          "Ordinary rice flour will not stretch; use glutinous rice flour and dust generously.": "साधारण चावल का आटा नहीं खिंचता; चिपचिपे चावल का आटा लें और पर्याप्त स्टार्च छिड़कें।",
+          "Freeze for 2 hours after shaping, plus initial ice-cream freezing.": "आकार देने के बाद 2 घंटे जमाएँ; पहले आइसक्रीम भी जमाएँ।"
+        },
+        "gu": {
+          "Mochi Ice Cream": "મોચી આઇસક્રીમ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "glutinous rice flour": "ચીકણા ચોખાનો લોટ",
+          "sugar": "ખાંડ",
+          "water": "પાણી",
+          "cornstarch": "કોર્નસ્ટાર્ચ",
+          "egg-free vanilla ice cream": "ઈંડા વિનાનો વેનિલા આઇસક્રીમ",
+          "Scoop ice cream into 8 small balls and freeze until very firm; mix rice flour, sugar and water into a smooth batter.": "આઇસક્રીમના 8 નાના ગોળા બનાવી કઠણ જમાવો; ચોખાનો લોટ, ખાંડ અને પાણીનું મુલાયમ ખીરું બનાવો.",
+          "Steam the batter in a covered heatproof bowl for 20 minutes, stirring halfway, until glossy and translucent throughout.": "ઢાંકેલા ગરમી સહન કરતા વાસણમાં ખીરું 20 મિનિટ વરાળમાં પકાવો; વચ્ચે હલાવો અને આખું ચમકતું અર્ધપારદર્શક થવા દો.",
+          "Transfer carefully to a cornstarch-dusted surface; dust the top, roll thinly and cool before cutting into 8 rounds.": "કાળજીથી કોર્નસ્ટાર્ચ છાંટેલી સપાટી પર મૂકો; ઉપર પણ છાંટી પાતળું વણી ઠંડું કરો અને 8 ગોળ કાપો.",
+          "Wrap each frozen scoop in a dough round and pinch shut underneath; freeze for 2 hours and soften briefly before eating.": "દરેક જામેલા ગોળાને લોટના ગોળમાં લપેટી નીચેથી બંધ કરો; 2 કલાક જમાવી ખાતાં પહેલાં સહેજ નરમ થવા દો.",
+          "Ordinary rice flour will not stretch; use glutinous rice flour and dust generously.": "સામાન્ય ચોખાનો લોટ ખેંચાતો નથી; ચીકણા ચોખાનો લોટ લો અને પૂરતો સ્ટાર્ચ છાંટો.",
+          "Freeze for 2 hours after shaping, plus initial ice-cream freezing.": "આકાર આપ્યા પછી 2 કલાક જમાવો; પહેલાં આઇસક્રીમ પણ જમાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Khao Niao Mamuang"
+      ],
+      "dish": {
+        "id": "mango-sticky-rice",
+        "canonicalId": "mango-sticky-rice",
+        "name": "Mango Sticky Rice",
+        "cuisine": "Thai",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "Thai glutinous rice",
+          "coconut milk",
+          "sugar",
+          "salt",
+          "ripe mango flesh",
+          "sesame seeds",
+          "water"
+        ],
+        "method": "steam",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "sesame"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "mango-sticky-rice",
+        "name": "Mango Sticky Rice",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "Thai glutinous rice",
+            "qty": 200,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "coconut milk",
+            "qty": 300,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 60,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ripe mango flesh",
+            "qty": 350,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sesame seeds",
+            "qty": 8,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 1000,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Wash rice and soak in the measured water for 4 hours; drain and spread on a damp cloth in a steamer.",
+          "Steam for 25–30 minutes until tender but still holding shape; turn the rice once for even cooking.",
+          "Warm coconut milk with sugar and salt until dissolved; fold most into the hot rice and rest covered for 15 minutes.",
+          "Slice mango and serve beside the coconut rice; spoon over reserved coconut sauce and sprinkle toasted sesame."
+        ],
+        "tips": [
+          "Use Thai sweet glutinous rice; regular rice gives a different texture."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": "Soak for 4 hours; rest cooked rice for 15 minutes.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Mango Sticky Rice": "मैंगो स्टिकी राइस",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "Thai glutinous rice": "थाई चिपचिपे चावल",
+          "coconut milk": "नारियल का दूध",
+          "sugar": "चीनी",
+          "salt": "नमक",
+          "ripe mango flesh": "पके आम का गूदा",
+          "sesame seeds": "तिल",
+          "water": "पानी",
+          "Wash rice and soak in the measured water for 4 hours; drain and spread on a damp cloth in a steamer.": "चावल धोकर मापे पानी में 4 घंटे भिगोएँ; निथारकर स्टीमर में गीले कपड़े पर फैलाएँ।",
+          "Steam for 25–30 minutes until tender but still holding shape; turn the rice once for even cooking.": "25–30 मिनट नरम लेकिन साबुत रहने तक भाप में पकाएँ; समान पकने के लिए बीच में पलटें।",
+          "Warm coconut milk with sugar and salt until dissolved; fold most into the hot rice and rest covered for 15 minutes.": "नारियल का दूध, चीनी और नमक गरम कर घोलें; अधिकतर गरम चावल में मिलाकर 15 मिनट ढकें।",
+          "Slice mango and serve beside the coconut rice; spoon over reserved coconut sauce and sprinkle toasted sesame.": "आम के स्लाइस चावल के साथ रखें; बची नारियल सॉस और भुने तिल ऊपर डालें।",
+          "Use Thai sweet glutinous rice; regular rice gives a different texture.": "थाई मीठे चिपचिपे चावल लें; सामान्य चावल से बनावट अलग होगी।",
+          "Soak for 4 hours; rest cooked rice for 15 minutes.": "4 घंटे भिगोएँ; पके चावल 15 मिनट रखें।"
+        },
+        "gu": {
+          "Mango Sticky Rice": "મેંગો સ્ટિકી રાઇસ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "Thai glutinous rice": "થાઈ ચીકણા ચોખા",
+          "coconut milk": "નારિયેળનું દૂધ",
+          "sugar": "ખાંડ",
+          "salt": "મીઠું",
+          "ripe mango flesh": "પાકેલી કેરીનો ગર",
+          "sesame seeds": "તલ",
+          "water": "પાણી",
+          "Wash rice and soak in the measured water for 4 hours; drain and spread on a damp cloth in a steamer.": "ચોખા ધોઈ માપેલા પાણીમાં 4 કલાક પલાળો; નિતારી સ્ટીમરમાં ભીના કપડા પર પાથરો.",
+          "Steam for 25–30 minutes until tender but still holding shape; turn the rice once for even cooking.": "25–30 મિનિટ નરમ પણ દાણા આખા રહે ત્યાં સુધી વરાળમાં પકાવો; સરખા પાકે તે માટે વચ્ચે ફેરવો.",
+          "Warm coconut milk with sugar and salt until dissolved; fold most into the hot rice and rest covered for 15 minutes.": "નારિયેળનું દૂધ, ખાંડ અને મીઠું ગરમ કરી ઓગાળો; મોટો ભાગ ગરમ ચોખામાં ભેળવી 15 મિનિટ ઢાંકો.",
+          "Slice mango and serve beside the coconut rice; spoon over reserved coconut sauce and sprinkle toasted sesame.": "કેરીના કાપ ચોખાની બાજુમાં મૂકો; બચેલી નાળિયેર સોસ અને શેકેલા તલ ઉપર ઉમેરો.",
+          "Use Thai sweet glutinous rice; regular rice gives a different texture.": "થાઈ મીઠા ચીકણા ચોખા લો; સામાન્ય ચોખાથી બનાવટ જુદી થશે.",
+          "Soak for 4 hours; rest cooked rice for 15 minutes.": "4 કલાક પલાળો; પાકેલા ચોખા 15 મિનિટ રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "pistachio-gelato",
+        "canonicalId": "pistachio-gelato",
+        "name": "Pistachio Gelato",
+        "cuisine": "Italian",
+        "categories": [
+          "Desserts"
+        ],
+        "ingredients": [
+          "milk",
+          "whipping cream",
+          "shelled pistachios",
+          "sugar",
+          "cornstarch",
+          "salt"
+        ],
+        "method": "dessert",
+        "time": 25,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "pistachio-gelato",
+        "name": "Pistachio Gelato",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "milk",
+            "qty": 450,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "whipping cream",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "shelled pistachios",
+            "qty": 90,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 85,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cornstarch",
+            "qty": 15,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Blend pistachios with a little of the measured milk into a very smooth paste; whisk cornstarch with more cold milk.",
+          "Warm remaining milk, cream, sugar and salt; whisk in the starch mixture and simmer for 2 minutes until lightly thickened.",
+          "Stir in pistachio paste, cool promptly in an ice bath and refrigerate for 4 hours until thoroughly cold.",
+          "Churn in an ice-cream maker according to its instructions, transfer to a covered container and freeze for 3 hours."
+        ],
+        "tips": [
+          "Without a machine, freeze and whisk vigorously at intervals until nearly firm; the texture will be less smooth.",
+          "This method uses an ice-cream maker; chill its bowl in advance according to the manufacturer instructions."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 25,
+        "passiveTime": "Chill for 4 hours, then freeze for 3 hours after churning.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Pistachio Gelato": "पिस्ता जेलाटो",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "milk": "दूध",
+          "whipping cream": "व्हिपिंग क्रीम",
+          "shelled pistachios": "छिले पिस्ते",
+          "sugar": "चीनी",
+          "cornstarch": "कॉर्नस्टार्च",
+          "salt": "नमक",
+          "Blend pistachios with a little of the measured milk into a very smooth paste; whisk cornstarch with more cold milk.": "पिस्ते को मापे दूध के थोड़े भाग के साथ बहुत चिकना पीसें; थोड़े ठंडे दूध में कॉर्नस्टार्च घोलें।",
+          "Warm remaining milk, cream, sugar and salt; whisk in the starch mixture and simmer for 2 minutes until lightly thickened.": "बाकी दूध, क्रीम, चीनी और नमक गरम करें; स्टार्च मिलाकर 2 मिनट हल्का गाढ़ा होने तक पकाएँ।",
+          "Stir in pistachio paste, cool promptly in an ice bath and refrigerate for 4 hours until thoroughly cold.": "पिस्ता पेस्ट मिलाएँ, बर्फ वाले बर्तन में जल्दी ठंडा करें और 4 घंटे फ्रिज में अच्छी तरह ठंडा करें।",
+          "Churn in an ice-cream maker according to its instructions, transfer to a covered container and freeze for 3 hours.": "आइसक्रीम मशीन के निर्देश अनुसार चलाएँ, ढके डिब्बे में भरकर 3 घंटे जमाएँ।",
+          "Without a machine, freeze and whisk vigorously at intervals until nearly firm; the texture will be less smooth.": "मशीन न हो तो जमते समय बीच-बीच में खूब फेंटें; बनावट थोड़ी कम चिकनी होगी।",
+          "This method uses an ice-cream maker; chill its bowl in advance according to the manufacturer instructions.": "इस विधि में आइसक्रीम मेकर चाहिए; निर्माता के निर्देशों के अनुसार उसका बर्तन पहले से ठंडा करें।",
+          "Chill for 4 hours, then freeze for 3 hours after churning.": "4 घंटे ठंडा करें, फिर मशीन में चलाने के बाद 3 घंटे जमाएँ।"
+        },
+        "gu": {
+          "Pistachio Gelato": "પિસ્તા જેલાટો",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "milk": "દૂધ",
+          "whipping cream": "વ્હિપિંગ ક્રીમ",
+          "shelled pistachios": "છોલેલા પિસ્તા",
+          "sugar": "ખાંડ",
+          "cornstarch": "કોર્નસ્ટાર્ચ",
+          "salt": "મીઠું",
+          "Blend pistachios with a little of the measured milk into a very smooth paste; whisk cornstarch with more cold milk.": "પિસ્તાને માપેલા દૂધના થોડા ભાગ સાથે એકદમ મુલાયમ પીસો; થોડા ઠંડા દૂધમાં કોર્નસ્ટાર્ચ ઘોળો.",
+          "Warm remaining milk, cream, sugar and salt; whisk in the starch mixture and simmer for 2 minutes until lightly thickened.": "બાકી દૂધ, ક્રીમ, ખાંડ અને મીઠું ગરમ કરો; સ્ટાર્ચ ભેળવી 2 મિનિટ સહેજ ઘટ્ટ થાય ત્યાં સુધી પકાવો.",
+          "Stir in pistachio paste, cool promptly in an ice bath and refrigerate for 4 hours until thoroughly cold.": "પિસ્તાની પેસ્ટ ભેળવો, બરફવાળા વાસણમાં ઝડપથી ઠંડું કરી 4 કલાક ફ્રિજમાં ઠંડું કરો.",
+          "Churn in an ice-cream maker according to its instructions, transfer to a covered container and freeze for 3 hours.": "આઇસક્રીમ મશીનની સૂચના પ્રમાણે ચલાવો, ઢાંકેલા ડબ્બામાં ભરી 3 કલાક જમાવો.",
+          "Without a machine, freeze and whisk vigorously at intervals until nearly firm; the texture will be less smooth.": "મશીન ન હોય તો જામતી વખતે વચ્ચે સારી રીતે ફેંટો; બનાવટ થોડી ઓછી મુલાયમ રહેશે.",
+          "This method uses an ice-cream maker; chill its bowl in advance according to the manufacturer instructions.": "આ રીતમાં આઇસક્રીમ મેકર જરૂરી છે; ઉત્પાદકની સૂચના પ્રમાણે તેનું વાસણ અગાઉથી ઠંડું કરો.",
+          "Chill for 4 hours, then freeze for 3 hours after churning.": "4 કલાક ઠંડું કરો, પછી મશીનમાં ચલાવી 3 કલાક જમાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Revani"
+      ],
+      "dish": {
+        "id": "basbousa",
+        "canonicalId": "basbousa",
+        "name": "Basbousa",
+        "cuisine": "Middle Eastern",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "fine semolina",
+          "plain yogurt",
+          "grated coconut",
+          "butter",
+          "sugar",
+          "baking powder",
+          "water",
+          "lemon juice",
+          "almonds"
+        ],
+        "method": "bake",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "basbousa",
+        "name": "Basbousa",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "fine semolina",
+            "qty": 180,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 150,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "grated coconut",
+            "qty": 30,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 140,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 120,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 8,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "almonds",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Boil 100 g sugar with water and lemon for 7 minutes; cool the syrup and heat oven to 180°C.",
+          "Mix semolina, coconut, remaining sugar and baking powder; stir in yogurt and melted butter to form a thick batter.",
+          "Spread in a greased 20 cm tin, rest for 10 minutes, score into diamonds and place almonds on top.",
+          "Bake for 30–35 minutes until golden; pour cool syrup over the hot cake and rest until absorbed before cutting."
+        ],
+        "tips": [
+          "Do not beat the semolina batter excessively; mix just until combined."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Basbousa": "बसबूसा",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "fine semolina": "बारीक सूजी",
+          "plain yogurt": "सादा दही",
+          "grated coconut": "कसा नारियल",
+          "butter": "मक्खन",
+          "sugar": "चीनी",
+          "baking powder": "बेकिंग पाउडर",
+          "water": "पानी",
+          "lemon juice": "नींबू का रस",
+          "almonds": "बादाम",
+          "Boil 100 g sugar with water and lemon for 7 minutes; cool the syrup and heat oven to 180°C.": "100 ग्राम चीनी, पानी और नींबू 7 मिनट उबालें; चाशनी ठंडी करें और ओवन 180°C पर गरम करें।",
+          "Mix semolina, coconut, remaining sugar and baking powder; stir in yogurt and melted butter to form a thick batter.": "सूजी, नारियल, बची चीनी और बेकिंग पाउडर मिलाएँ; दही और पिघला मक्खन डालकर गाढ़ा घोल बनाएँ।",
+          "Spread in a greased 20 cm tin, rest for 10 minutes, score into diamonds and place almonds on top.": "चिकने 20 सेमी साँचे में फैलाएँ, 10 मिनट रखें, हीरे जैसे निशान बनाकर बादाम लगाएँ।",
+          "Bake for 30–35 minutes until golden; pour cool syrup over the hot cake and rest until absorbed before cutting.": "30–35 मिनट सुनहरा बेक करें; गरम केक पर ठंडी चाशनी डालें और सोखने पर काटें।",
+          "Do not beat the semolina batter excessively; mix just until combined.": "सूजी का घोल बहुत न फेंटें; केवल मिलने तक चलाएँ।"
+        },
+        "gu": {
+          "Basbousa": "બસબૂસા",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "fine semolina": "બારીક રવો",
+          "plain yogurt": "સાદું દહીં",
+          "grated coconut": "છીણેલું નાળિયેર",
+          "butter": "માખણ",
+          "sugar": "ખાંડ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "water": "પાણી",
+          "lemon juice": "લીંબુનો રસ",
+          "almonds": "બદામ",
+          "Boil 100 g sugar with water and lemon for 7 minutes; cool the syrup and heat oven to 180°C.": "100 ગ્રામ ખાંડ, પાણી અને લીંબુ 7 મિનિટ ઉકાળો; ચાસણી ઠંડી કરી ઓવન 180°C પર ગરમ કરો.",
+          "Mix semolina, coconut, remaining sugar and baking powder; stir in yogurt and melted butter to form a thick batter.": "રવો, નાળિયેર, બાકી ખાંડ અને બેકિંગ પાઉડર ભેળવો; દહીં અને પીગળેલું માખણ ઉમેરી ઘટ્ટ ખીરું બનાવો.",
+          "Spread in a greased 20 cm tin, rest for 10 minutes, score into diamonds and place almonds on top.": "ચીકણા 20 સેમી મોલ્ડમાં પાથરો, 10 મિનિટ રાખી હીરા જેવા નિશાન કરી બદામ મૂકો.",
+          "Bake for 30–35 minutes until golden; pour cool syrup over the hot cake and rest until absorbed before cutting.": "30–35 મિનિટ સોનેરી બેક કરો; ગરમ કેક પર ઠંડી ચાસણી રેડો અને શોષાઈ જાય પછી કાપો.",
+          "Do not beat the semolina batter excessively; mix just until combined.": "રવાનું ખીરું વધારે ન ફેંટો; ભળી જાય એટલું જ હલાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-new-york-cheesecake",
+        "canonicalId": "eggless-new-york-cheesecake",
+        "name": "Eggless New York Cheesecake",
+        "cuisine": "American",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "egg-free digestive biscuits",
+          "butter",
+          "cream cheese",
+          "plain yogurt",
+          "whipping cream",
+          "sugar",
+          "cornstarch",
+          "vanilla extract",
+          "lemon juice"
+        ],
+        "method": "bake",
+        "time": 90,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "eggless-new-york-cheesecake",
+        "name": "Eggless New York Cheesecake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "egg-free digestive biscuits",
+            "qty": 100,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "cream cheese",
+            "qty": 300,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "whipping cream",
+            "qty": 80,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 80,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "cornstarch",
+            "qty": 20,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 4,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "lemon juice",
+            "qty": 10,
+            "unit": "ml",
+            "group": "Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 160°C. Mix crushed biscuits and melted butter; press into the base of a lined 15 cm deep tin.",
+          "Beat softened cream cheese with sugar until smooth; gently mix yogurt, cream, cornstarch, vanilla and lemon without whipping air in.",
+          "Pour over the base and bake for 55–65 minutes until edges set but the centre gently wobbles; turn off the oven.",
+          "Cool with the oven door ajar for 30 minutes, then cool outside and refrigerate for 8 hours before unmoulding."
+        ],
+        "tips": [
+          "Bring dairy to room temperature before mixing to avoid lumps; do not overbake the centre."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 90,
+        "passiveTime": "Cool, then refrigerate for 8 hours.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless New York Cheesecake": "बिना अंडे का न्यूयॉर्क चीज़केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "egg-free digestive biscuits": "बिना अंडे के डाइजेस्टिव बिस्कुट",
+          "butter": "मक्खन",
+          "cream cheese": "क्रीम चीज़",
+          "plain yogurt": "सादा दही",
+          "whipping cream": "व्हिपिंग क्रीम",
+          "sugar": "चीनी",
+          "cornstarch": "कॉर्नस्टार्च",
+          "vanilla extract": "वनीला अर्क",
+          "lemon juice": "नींबू का रस",
+          "Heat oven to 160°C. Mix crushed biscuits and melted butter; press into the base of a lined 15 cm deep tin.": "ओवन 160°C पर गरम करें। बिस्कुट चूरा और पिघला मक्खन मिलाकर पेपर लगे 15 सेमी गहरे साँचे में दबाएँ।",
+          "Beat softened cream cheese with sugar until smooth; gently mix yogurt, cream, cornstarch, vanilla and lemon without whipping air in.": "नरम क्रीम चीज़ और चीनी चिकनी फेंटें; दही, क्रीम, कॉर्नस्टार्च, वनीला और नींबू बिना हवा भरे धीरे मिलाएँ।",
+          "Pour over the base and bake for 55–65 minutes until edges set but the centre gently wobbles; turn off the oven.": "बेस पर डालकर 55–65 मिनट किनारे जमने और बीच हल्का हिलने तक बेक करें; ओवन बंद करें।",
+          "Cool with the oven door ajar for 30 minutes, then cool outside and refrigerate for 8 hours before unmoulding.": "ओवन का दरवाज़ा थोड़ा खोलकर 30 मिनट ठंडा करें, फिर बाहर ठंडा करके 8 घंटे फ्रिज में रखें और निकालें।",
+          "Bring dairy to room temperature before mixing to avoid lumps; do not overbake the centre.": "मिलाने से पहले दूध वाली सामग्री सामान्य तापमान पर लाएँ ताकि गुठलियाँ न बनें; बीच अधिक न बेक करें।",
+          "Cool, then refrigerate for 8 hours.": "ठंडा करके 8 घंटे फ्रिज में रखें।"
+        },
+        "gu": {
+          "Eggless New York Cheesecake": "ઈંડા વિનાની ન્યૂયોર્ક ચીઝકેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "egg-free digestive biscuits": "ઈંડા વિનાનાં ડાઇજેસ્ટિવ બિસ્કિટ",
+          "butter": "માખણ",
+          "cream cheese": "ક્રીમ ચીઝ",
+          "plain yogurt": "સાદું દહીં",
+          "whipping cream": "વ્હિપિંગ ક્રીમ",
+          "sugar": "ખાંડ",
+          "cornstarch": "કોર્નસ્ટાર્ચ",
+          "vanilla extract": "વેનિલા અર્ક",
+          "lemon juice": "લીંબુનો રસ",
+          "Heat oven to 160°C. Mix crushed biscuits and melted butter; press into the base of a lined 15 cm deep tin.": "ઓવન 160°C પર ગરમ કરો. બિસ્કિટનો ભૂકો અને પીગળેલું માખણ ભેળવી પેપરવાળા 15 સેમી ઊંડા મોલ્ડમાં દબાવો.",
+          "Beat softened cream cheese with sugar until smooth; gently mix yogurt, cream, cornstarch, vanilla and lemon without whipping air in.": "નરમ ક્રીમ ચીઝ અને ખાંડ મુલાયમ ફેંટો; દહીં, ક્રીમ, કોર્નસ્ટાર્ચ, વેનિલા અને લીંબુ હવા ભર્યા વગર હળવેથી ભેળવો.",
+          "Pour over the base and bake for 55–65 minutes until edges set but the centre gently wobbles; turn off the oven.": "બેઝ પર રેડી 55–65 મિનિટ કિનારી જામે પણ વચ્ચે સહેજ હાલે ત્યાં સુધી બેક કરો; ઓવન બંધ કરો.",
+          "Cool with the oven door ajar for 30 minutes, then cool outside and refrigerate for 8 hours before unmoulding.": "ઓવનનું બારણું સહેજ ખુલ્લું રાખી 30 મિનિટ ઠંડું કરો, પછી બહાર ઠંડું કરી 8 કલાક ફ્રિજમાં રાખી મોલ્ડમાંથી કાઢો.",
+          "Bring dairy to room temperature before mixing to avoid lumps; do not overbake the centre.": "ગાંઠ ન પડે તે માટે ડેરી સામગ્રી ભેળવતાં પહેલાં સામાન્ય તાપમાને લાવો; વચ્ચેનો ભાગ વધારે ન બેક કરો.",
+          "Cool, then refrigerate for 8 hours.": "ઠંડું કરી 8 કલાક ફ્રિજમાં રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-tres-leches-cake",
+        "canonicalId": "eggless-tres-leches-cake",
+        "name": "Eggless Tres Leches Cake",
+        "cuisine": "Latin American",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "plain yogurt",
+          "sugar",
+          "oil",
+          "milk",
+          "baking powder",
+          "baking soda",
+          "vanilla extract",
+          "sweetened condensed milk",
+          "evaporated milk",
+          "whipping cream"
+        ],
+        "method": "bake",
+        "time": 50,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "eggless-tres-leches-cake",
+        "name": "Eggless Tres Leches Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 120,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 65,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 35,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 160,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 4,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sweetened condensed milk",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "evaporated milk",
+            "qty": 120,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "whipping cream",
+            "qty": 150,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil, vanilla and 60 ml milk; fold in flour, baking powder and soda.",
+          "Bake in a greased 18 cm dish for 25–30 minutes until a skewer comes out clean; cool until just warm.",
+          "Mix condensed milk, evaporated milk and remaining milk; prick the cake all over and pour the mixture slowly.",
+          "Chill for 4 hours to absorb the milk; whip cold cream to soft peaks and spread over the cake before serving."
+        ],
+        "tips": [
+          "Pour the milk in stages; stop briefly if it pools and let the cake absorb it."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 50,
+        "passiveTime": "Chill for 4 hours.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Tres Leches Cake": "बिना अंडे का ट्रेस लेचेस केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "plain yogurt": "सादा दही",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "milk": "दूध",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "vanilla extract": "वनीला अर्क",
+          "sweetened condensed milk": "मीठा कंडेंस्ड मिल्क",
+          "evaporated milk": "इवैपोरेटेड मिल्क",
+          "whipping cream": "व्हिपिंग क्रीम",
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil, vanilla and 60 ml milk; fold in flour, baking powder and soda.": "ओवन 175°C पर गरम करें। दही, चीनी, तेल, वनीला और 60 मिली दूध फेंटें; मैदा, बेकिंग पाउडर और सोडा मिलाएँ।",
+          "Bake in a greased 18 cm dish for 25–30 minutes until a skewer comes out clean; cool until just warm.": "चिकने 18 सेमी बर्तन में 25–30 मिनट सींक साफ निकलने तक बेक करें; हल्का गरम रहने तक ठंडा करें।",
+          "Mix condensed milk, evaporated milk and remaining milk; prick the cake all over and pour the mixture slowly.": "कंडेंस्ड मिल्क, इवैपोरेटेड मिल्क और बचा दूध मिलाएँ; केक में जगह-जगह छेद कर मिश्रण धीरे डालें।",
+          "Chill for 4 hours to absorb the milk; whip cold cream to soft peaks and spread over the cake before serving.": "दूध सोखने के लिए 4 घंटे ठंडा करें; ठंडी क्रीम नरम चोटियों तक फेंटकर परोसने से पहले फैलाएँ।",
+          "Pour the milk in stages; stop briefly if it pools and let the cake absorb it.": "दूध धीरे-धीरे डालें; इकट्ठा होने लगे तो थोड़ी देर रुककर सोखने दें।",
+          "Chill for 4 hours.": "4 घंटे ठंडा करें।"
+        },
+        "gu": {
+          "Eggless Tres Leches Cake": "ઈંડા વિનાની ટ્રેસ લેચેસ કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "plain yogurt": "સાદું દહીં",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "milk": "દૂધ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "vanilla extract": "વેનિલા અર્ક",
+          "sweetened condensed milk": "મીઠું કન્ડેન્સ્ડ મિલ્ક",
+          "evaporated milk": "ઇવેપોરેટેડ મિલ્ક",
+          "whipping cream": "વ્હિપિંગ ક્રીમ",
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil, vanilla and 60 ml milk; fold in flour, baking powder and soda.": "ઓવન 175°C પર ગરમ કરો. દહીં, ખાંડ, તેલ, વેનિલા અને 60 મિલી દૂધ ફેંટો; મેંદો, બેકિંગ પાઉડર અને સોડા ભેળવો.",
+          "Bake in a greased 18 cm dish for 25–30 minutes until a skewer comes out clean; cool until just warm.": "ચીકણા 18 સેમી વાસણમાં 25–30 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; હૂંફાળું રહે ત્યાં સુધી ઠંડું કરો.",
+          "Mix condensed milk, evaporated milk and remaining milk; prick the cake all over and pour the mixture slowly.": "કન્ડેન્સ્ડ મિલ્ક, ઇવેપોરેટેડ મિલ્ક અને બાકી દૂધ ભેળવો; કેકમાં બધે કાણા પાડી મિશ્રણ ધીમે રેડો.",
+          "Chill for 4 hours to absorb the milk; whip cold cream to soft peaks and spread over the cake before serving.": "દૂધ શોષાય તે માટે 4 કલાક ઠંડું કરો; ઠંડી ક્રીમ નરમ શિખર સુધી ફેંટી પીરસતાં પહેલાં પાથરો.",
+          "Pour the milk in stages; stop briefly if it pools and let the cake absorb it.": "દૂધ તબક્કાવાર રેડો; ઉપર ભરાય તો થોડીવાર રોકાઈ શોષાવા દો.",
+          "Chill for 4 hours.": "4 કલાક ઠંડું કરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "rasmalai-cake",
+        "canonicalId": "rasmalai-cake",
+        "name": "Rasmalai Cake",
+        "cuisine": "Indian Fusion",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "plain yogurt",
+          "sugar",
+          "oil",
+          "milk",
+          "baking powder",
+          "baking soda",
+          "ground cardamom",
+          "whipping cream",
+          "prepared rasmalai with its milk",
+          "shelled pistachios"
+        ],
+        "method": "bake",
+        "time": 60,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "rasmalai-cake",
+        "name": "Rasmalai Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 120,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 65,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 35,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 60,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cardamom",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "whipping cream",
+            "qty": 180,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "prepared rasmalai with its milk",
+            "qty": 300,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "shelled pistachios",
+            "qty": 20,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil and milk; fold in flour, baking powder, soda and cardamom.",
+          "Bake in a lined 15 cm tin for 30–35 minutes until a skewer is clean; cool fully and split horizontally.",
+          "Drain rasmalai, reserving the sweet milk; brush sponge layers lightly with this milk and whip cold cream until it holds peaks.",
+          "Fill and cover the layers with cream, arrange rasmalai and chopped pistachios on top, and chill for 3 hours."
+        ],
+        "tips": [
+          "Add only enough rasmalai milk to moisten the sponge; excess liquid makes the layers collapse."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 60,
+        "passiveTime": "Cool cake completely, then chill assembled cake for 3 hours.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Rasmalai Cake": "रसमलाई केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "plain yogurt": "सादा दही",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "milk": "दूध",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "ground cardamom": "इलायची पाउडर",
+          "whipping cream": "व्हिपिंग क्रीम",
+          "prepared rasmalai with its milk": "दूध सहित तैयार रसमलाई",
+          "shelled pistachios": "छिले पिस्ते",
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil and milk; fold in flour, baking powder, soda and cardamom.": "ओवन 175°C पर गरम करें। दही, चीनी, तेल और दूध फेंटें; मैदा, बेकिंग पाउडर, सोडा और इलायची मिलाएँ।",
+          "Bake in a lined 15 cm tin for 30–35 minutes until a skewer is clean; cool fully and split horizontally.": "पेपर लगे 15 सेमी साँचे में 30–35 मिनट सींक साफ निकलने तक बेक करें; पूरा ठंडा करके आड़ा काटें।",
+          "Drain rasmalai, reserving the sweet milk; brush sponge layers lightly with this milk and whip cold cream until it holds peaks.": "रसमलाई निथारकर मीठा दूध बचाएँ; स्पंज पर हल्का दूध लगाएँ और ठंडी क्रीम चोटियाँ बनने तक फेंटें।",
+          "Fill and cover the layers with cream, arrange rasmalai and chopped pistachios on top, and chill for 3 hours.": "परतों के बीच और ऊपर क्रीम लगाएँ, रसमलाई और कटे पिस्ते सजाएँ तथा 3 घंटे ठंडा करें।",
+          "Add only enough rasmalai milk to moisten the sponge; excess liquid makes the layers collapse.": "स्पंज नम करने जितना ही रसमलाई दूध डालें; अधिक तरल से परतें टूट सकती हैं।",
+          "Cool cake completely, then chill assembled cake for 3 hours.": "केक पूरा ठंडा करें, फिर सजाकर 3 घंटे फ्रिज में रखें।"
+        },
+        "gu": {
+          "Rasmalai Cake": "રસમલાઈ કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "plain yogurt": "સાદું દહીં",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "milk": "દૂધ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "ground cardamom": "એલચી પાઉડર",
+          "whipping cream": "વ્હિપિંગ ક્રીમ",
+          "prepared rasmalai with its milk": "દૂધ સહિત તૈયાર રસમલાઈ",
+          "shelled pistachios": "છોલેલા પિસ્તા",
+          "Heat oven to 175°C. Whisk yogurt, sugar, oil and milk; fold in flour, baking powder, soda and cardamom.": "ઓવન 175°C પર ગરમ કરો. દહીં, ખાંડ, તેલ અને દૂધ ફેંટો; મેંદો, બેકિંગ પાઉડર, સોડા અને એલચી ભેળવો.",
+          "Bake in a lined 15 cm tin for 30–35 minutes until a skewer is clean; cool fully and split horizontally.": "પેપરવાળા 15 સેમી મોલ્ડમાં 30–35 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી આડું કાપો.",
+          "Drain rasmalai, reserving the sweet milk; brush sponge layers lightly with this milk and whip cold cream until it holds peaks.": "રસમલાઈ નિતારી મીઠું દૂધ સાચવો; સ્પોન્જ પર હળવું દૂધ લગાવો અને ઠંડી ક્રીમ શિખર બને ત્યાં સુધી ફેંટો.",
+          "Fill and cover the layers with cream, arrange rasmalai and chopped pistachios on top, and chill for 3 hours.": "પરતો વચ્ચે અને ઉપર ક્રીમ લગાવો, રસમલાઈ અને સમારેલા પિસ્તા ગોઠવી 3 કલાક ઠંડું કરો.",
+          "Add only enough rasmalai milk to moisten the sponge; excess liquid makes the layers collapse.": "સ્પોન્જ ભીની થાય એટલું જ રસમલાઈનું દૂધ ઉમેરો; વધારે પ્રવાહીથી પરતો તૂટી શકે.",
+          "Cool cake completely, then chill assembled cake for 3 hours.": "કેક સંપૂર્ણ ઠંડી કરો, પછી સજાવી 3 કલાક ફ્રિજમાં રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Choco Lava Cake"
+      ],
+      "dish": {
+        "id": "eggless-molten-lava-cake",
+        "canonicalId": "eggless-molten-lava-cake",
+        "name": "Eggless Molten Lava Cake",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "cocoa powder",
+          "sugar",
+          "milk",
+          "butter",
+          "baking powder",
+          "vanilla extract",
+          "dark chocolate"
+        ],
+        "method": "bake",
+        "time": 30,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-molten-lava-cake",
+        "name": "Eggless Molten Lava Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 70,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "cocoa powder",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 60,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 100,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 3,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 3,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "dark chocolate",
+            "qty": 80,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 200°C and grease 4 small ramekins thoroughly; divide chocolate into thick centre pieces.",
+          "Whisk milk, melted butter, sugar and vanilla; sift in flour, cocoa and baking powder and mix until smooth.",
+          "Half-fill each ramekin, place chocolate in the middle without touching the base, and cover with remaining batter.",
+          "Bake for 12–15 minutes until the cake edges set; rest for 2 minutes and serve warm with the melted chocolate centre."
+        ],
+        "tips": [
+          "The liquid centre should be melted chocolate, not raw cake batter."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 30,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Molten Lava Cake": "बिना अंडे का मोल्टन लावा केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "cocoa powder": "कोको पाउडर",
+          "sugar": "चीनी",
+          "milk": "दूध",
+          "butter": "मक्खन",
+          "baking powder": "बेकिंग पाउडर",
+          "vanilla extract": "वनीला अर्क",
+          "dark chocolate": "डार्क चॉकलेट",
+          "Heat oven to 200°C and grease 4 small ramekins thoroughly; divide chocolate into thick centre pieces.": "ओवन 200°C पर गरम करें और 4 छोटे रेमकिन चिकने करें; चॉकलेट के मोटे बीच वाले टुकड़े बनाएँ।",
+          "Whisk milk, melted butter, sugar and vanilla; sift in flour, cocoa and baking powder and mix until smooth.": "दूध, पिघला मक्खन, चीनी और वनीला फेंटें; मैदा, कोको और बेकिंग पाउडर छानकर चिकना मिलाएँ।",
+          "Half-fill each ramekin, place chocolate in the middle without touching the base, and cover with remaining batter.": "हर रेमकिन आधा भरें, बीच में चॉकलेट रखें जो तले को न छुए, और बचे घोल से ढकें।",
+          "Bake for 12–15 minutes until the cake edges set; rest for 2 minutes and serve warm with the melted chocolate centre.": "12–15 मिनट केक के किनारे जमने तक बेक करें; 2 मिनट रखकर पिघली चॉकलेट के बीच सहित गरम परोसें।",
+          "The liquid centre should be melted chocolate, not raw cake batter.": "तरल बीच पिघली चॉकलेट का होना चाहिए, कच्चे केक घोल का नहीं।"
+        },
+        "gu": {
+          "Eggless Molten Lava Cake": "ઈંડા વિનાની મોલ્ટન લાવા કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "cocoa powder": "કોકો પાઉડર",
+          "sugar": "ખાંડ",
+          "milk": "દૂધ",
+          "butter": "માખણ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "vanilla extract": "વેનિલા અર્ક",
+          "dark chocolate": "ડાર્ક ચોકલેટ",
+          "Heat oven to 200°C and grease 4 small ramekins thoroughly; divide chocolate into thick centre pieces.": "ઓવન 200°C પર ગરમ કરો અને 4 નાના રેમકિન ચીકણા કરો; ચૉકલેટના વચ્ચે મૂકવા જાડા ટુકડા કરો.",
+          "Whisk milk, melted butter, sugar and vanilla; sift in flour, cocoa and baking powder and mix until smooth.": "દૂધ, પીગળેલું માખણ, ખાંડ અને વેનિલા ફેંટો; મેંદો, કોકો અને બેકિંગ પાઉડર ચાળી મુલાયમ ભેળવો.",
+          "Half-fill each ramekin, place chocolate in the middle without touching the base, and cover with remaining batter.": "દરેક રેમકિન અડધું ભરો, તળિયે ન અડે તેમ વચ્ચે ચૉકલેટ મૂકો અને બાકીના ખીરાથી ઢાંકો.",
+          "Bake for 12–15 minutes until the cake edges set; rest for 2 minutes and serve warm with the melted chocolate centre.": "12–15 મિનિટ કેકની કિનારી જામે ત્યાં સુધી બેક કરો; 2 મિનિટ રાખી પીગળેલી ચૉકલેટવાળા મધ્ય સાથે ગરમ પીરસો.",
+          "The liquid centre should be melted chocolate, not raw cake batter.": "પ્રવાહી મધ્ય પીગળેલી ચૉકલેટનું હોવું જોઈએ, કાચા કેકના ખીરાનું નહીં."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "mug-cake",
+        "canonicalId": "mug-cake",
+        "name": "Mug Cake",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "cocoa powder",
+          "sugar",
+          "milk",
+          "oil",
+          "baking powder",
+          "vanilla extract",
+          "dark chocolate"
+        ],
+        "method": "dessert",
+        "time": 15,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "mug-cake",
+        "name": "Mug Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 100,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "cocoa powder",
+            "qty": 20,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 70,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 160,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 40,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 4,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "dark chocolate",
+            "qty": 40,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Choose 4 microwave-safe mugs of at least 250 ml capacity; mix flour, cocoa, sugar and baking powder in a bowl.",
+          "Whisk in milk, oil and vanilla until no dry flour remains; fold in chopped chocolate.",
+          "Divide batter equally among the mugs, leaving ample room to rise; wipe splashes from the rims.",
+          "Microwave each mug separately at 800 W for 70–90 seconds until just set; rest for 2 minutes before eating."
+        ],
+        "tips": [
+          "Microwave power varies; add short bursts only if the centre is still wet."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 15,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Mug Cake": "मग केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "cocoa powder": "कोको पाउडर",
+          "sugar": "चीनी",
+          "milk": "दूध",
+          "oil": "तेल",
+          "baking powder": "बेकिंग पाउडर",
+          "vanilla extract": "वनीला अर्क",
+          "dark chocolate": "डार्क चॉकलेट",
+          "Choose 4 microwave-safe mugs of at least 250 ml capacity; mix flour, cocoa, sugar and baking powder in a bowl.": "कम से कम 250 मिली के 4 माइक्रोवेव सुरक्षित मग लें; कटोरे में मैदा, कोको, चीनी और बेकिंग पाउडर मिलाएँ।",
+          "Whisk in milk, oil and vanilla until no dry flour remains; fold in chopped chocolate.": "दूध, तेल और वनीला डालकर सूखा मैदा खत्म होने तक मिलाएँ; कटी चॉकलेट मिलाएँ।",
+          "Divide batter equally among the mugs, leaving ample room to rise; wipe splashes from the rims.": "घोल मग में बराबर बाँटें और फूलने की जगह छोड़ें; किनारों पर लगा घोल पोंछें।",
+          "Microwave each mug separately at 800 W for 70–90 seconds until just set; rest for 2 minutes before eating.": "हर मग अलग 800 W पर 70–90 सेकंड जमने तक पकाएँ; खाने से पहले 2 मिनट रखें।",
+          "Microwave power varies; add short bursts only if the centre is still wet.": "माइक्रोवेव की शक्ति अलग होती है; बीच गीला हो तो थोड़े समय के लिए फिर पकाएँ।"
+        },
+        "gu": {
+          "Mug Cake": "મગ કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "cocoa powder": "કોકો પાઉડર",
+          "sugar": "ખાંડ",
+          "milk": "દૂધ",
+          "oil": "તેલ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "vanilla extract": "વેનિલા અર્ક",
+          "dark chocolate": "ડાર્ક ચોકલેટ",
+          "Choose 4 microwave-safe mugs of at least 250 ml capacity; mix flour, cocoa, sugar and baking powder in a bowl.": "ઓછામાં ઓછા 250 મિલીના 4 માઇક્રોવેવ સલામત મગ લો; વાટકીમાં મેંદો, કોકો, ખાંડ અને બેકિંગ પાઉડર ભેળવો.",
+          "Whisk in milk, oil and vanilla until no dry flour remains; fold in chopped chocolate.": "દૂધ, તેલ અને વેનિલા ઉમેરી સૂકો લોટ ન રહે ત્યાં સુધી ભેળવો; સમારેલી ચૉકલેટ ઉમેરો.",
+          "Divide batter equally among the mugs, leaving ample room to rise; wipe splashes from the rims.": "ખીરું મગમાં સરખું વહેંચી ફૂલવાની પૂરતી જગ્યા રાખો; કિનારી પર પડેલું ખીરું લૂછો.",
+          "Microwave each mug separately at 800 W for 70–90 seconds until just set; rest for 2 minutes before eating.": "દરેક મગ અલગ 800 W પર 70–90 સેકન્ડ જામે ત્યાં સુધી પકાવો; ખાતાં પહેલાં 2 મિનિટ રાખો.",
+          "Microwave power varies; add short bursts only if the centre is still wet.": "માઇક્રોવેવની શક્તિ જુદી હોય છે; વચ્ચે ભીનું હોય તો થોડો સમય ફરી પકાવો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-blueberry-muffins",
+        "canonicalId": "eggless-blueberry-muffins",
+        "name": "Eggless Blueberry Muffins",
+        "cuisine": "American",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "plain yogurt",
+          "milk",
+          "sugar",
+          "oil",
+          "baking powder",
+          "baking soda",
+          "vanilla extract",
+          "blueberries"
+        ],
+        "method": "bake",
+        "time": 40,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-blueberry-muffins",
+        "name": "Eggless Blueberry Muffins",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 160,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 60,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 80,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 4,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "blueberries",
+            "qty": 120,
+            "unit": "g",
+            "group": "Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 180°C and line 8 muffin cups; reserve a little flour to coat the blueberries.",
+          "Whisk yogurt, milk, sugar, oil and vanilla until smooth; sift remaining flour, baking powder and soda together.",
+          "Fold dry ingredients into the wet mixture just until combined; coat berries with reserved flour and fold in gently.",
+          "Fill cups about three-quarters full and bake for 22–26 minutes until a skewer is clean; cool on a rack."
+        ],
+        "tips": [
+          "Fold frozen blueberries in directly without thawing to limit colour bleeding."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 40,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Blueberry Muffins": "बिना अंडे के ब्लूबेरी मफिन",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "plain yogurt": "सादा दही",
+          "milk": "दूध",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "vanilla extract": "वनीला अर्क",
+          "blueberries": "ब्लूबेरी",
+          "Heat oven to 180°C and line 8 muffin cups; reserve a little flour to coat the blueberries.": "ओवन 180°C पर गरम करें और 8 मफिन कप में पेपर लगाएँ; ब्लूबेरी लपेटने के लिए थोड़ा मैदा बचाएँ।",
+          "Whisk yogurt, milk, sugar, oil and vanilla until smooth; sift remaining flour, baking powder and soda together.": "दही, दूध, चीनी, तेल और वनीला चिकने फेंटें; बाकी मैदा, बेकिंग पाउडर और सोडा साथ छानें।",
+          "Fold dry ingredients into the wet mixture just until combined; coat berries with reserved flour and fold in gently.": "सूखी सामग्री गीले मिश्रण में केवल मिलने तक मिलाएँ; बेरी पर बचा मैदा लगाकर हल्के हाथ मिलाएँ।",
+          "Fill cups about three-quarters full and bake for 22–26 minutes until a skewer is clean; cool on a rack.": "कप लगभग तीन-चौथाई भरें और 22–26 मिनट सींक साफ निकलने तक बेक करें; जाली पर ठंडा करें।",
+          "Fold frozen blueberries in directly without thawing to limit colour bleeding.": "जमी ब्लूबेरी बिना पिघलाए मिलाएँ ताकि रंग अधिक न फैले।"
+        },
+        "gu": {
+          "Eggless Blueberry Muffins": "ઈંડા વિનાનાં બ્લૂબેરી મફિન",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "plain yogurt": "સાદું દહીં",
+          "milk": "દૂધ",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "vanilla extract": "વેનિલા અર્ક",
+          "blueberries": "બ્લૂબેરી",
+          "Heat oven to 180°C and line 8 muffin cups; reserve a little flour to coat the blueberries.": "ઓવન 180°C પર ગરમ કરો અને 8 મફિન કપમાં પેપર લગાવો; બ્લૂબેરીને લગાવવા થોડો મેંદો બચાવો.",
+          "Whisk yogurt, milk, sugar, oil and vanilla until smooth; sift remaining flour, baking powder and soda together.": "દહીં, દૂધ, ખાંડ, તેલ અને વેનિલા મુલાયમ ફેંટો; બાકી મેંદો, બેકિંગ પાઉડર અને સોડા સાથે ચાળો.",
+          "Fold dry ingredients into the wet mixture just until combined; coat berries with reserved flour and fold in gently.": "સૂકી સામગ્રી ભીના મિશ્રણમાં ભળે એટલી જ હલાવો; બેરીને બચેલો મેંદો લગાવી હળવેથી ઉમેરો.",
+          "Fill cups about three-quarters full and bake for 22–26 minutes until a skewer is clean; cool on a rack.": "કપ લગભગ ત્રણ-ચોથાઈ ભરો અને 22–26 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; જાળી પર ઠંડા કરો.",
+          "Fold frozen blueberries in directly without thawing to limit colour bleeding.": "જામેલી બ્લૂબેરી ઓગાળ્યા વગર ભેળવો જેથી રંગ વધુ ન ફેલાય."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-carrot-cake",
+        "canonicalId": "eggless-carrot-cake",
+        "name": "Eggless Carrot Cake",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "carrot",
+          "plain yogurt",
+          "sugar",
+          "oil",
+          "milk",
+          "baking powder",
+          "baking soda",
+          "ground cinnamon",
+          "walnuts"
+        ],
+        "method": "bake",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-carrot-cake",
+        "name": "Eggless Carrot Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 140,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "carrot",
+            "qty": 150,
+            "unit": "g",
+            "group": "Vegetables",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 85,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 55,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 40,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cinnamon",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "walnuts",
+            "qty": 40,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 175°C and line an 18 cm tin; finely grate carrots and roughly chop walnuts.",
+          "Whisk yogurt, sugar, oil and milk; sift flour with baking powder, soda and cinnamon into another bowl.",
+          "Fold the dry mixture into the wet ingredients; stir in carrot and walnuts without beating the batter.",
+          "Bake for 35–40 minutes until a skewer comes out clean; cool in the tin briefly, then transfer to a rack."
+        ],
+        "tips": [
+          "Grate carrots finely; coarse pieces can remain crunchy inside the cake."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Carrot Cake": "बिना अंडे का गाजर केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "carrot": "गाजर",
+          "plain yogurt": "सादा दही",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "milk": "दूध",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "ground cinnamon": "दालचीनी पाउडर",
+          "walnuts": "अखरोट",
+          "Heat oven to 175°C and line an 18 cm tin; finely grate carrots and roughly chop walnuts.": "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; गाजर बारीक कसें और अखरोट काटें।",
+          "Whisk yogurt, sugar, oil and milk; sift flour with baking powder, soda and cinnamon into another bowl.": "दही, चीनी, तेल और दूध फेंटें; दूसरे कटोरे में मैदा, बेकिंग पाउडर, सोडा और दालचीनी छानें।",
+          "Fold the dry mixture into the wet ingredients; stir in carrot and walnuts without beating the batter.": "सूखा मिश्रण गीली सामग्री में हल्के हाथ मिलाएँ; घोल फेंटे बिना गाजर और अखरोट मिलाएँ।",
+          "Bake for 35–40 minutes until a skewer comes out clean; cool in the tin briefly, then transfer to a rack.": "35–40 मिनट सींक साफ निकलने तक बेक करें; थोड़ा साँचे में ठंडा करके जाली पर रखें।",
+          "Grate carrots finely; coarse pieces can remain crunchy inside the cake.": "गाजर बारीक कसें; मोटे टुकड़े केक में कच्चे रह सकते हैं।"
+        },
+        "gu": {
+          "Eggless Carrot Cake": "ઈંડા વિનાની ગાજર કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "carrot": "ગાજર",
+          "plain yogurt": "સાદું દહીં",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "milk": "દૂધ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "ground cinnamon": "તજ પાઉડર",
+          "walnuts": "અખરોટ",
+          "Heat oven to 175°C and line an 18 cm tin; finely grate carrots and roughly chop walnuts.": "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; ગાજર ઝીણું છીણો અને અખરોટ સમારો.",
+          "Whisk yogurt, sugar, oil and milk; sift flour with baking powder, soda and cinnamon into another bowl.": "દહીં, ખાંડ, તેલ અને દૂધ ફેંટો; બીજા વાસણમાં મેંદો, બેકિંગ પાઉડર, સોડા અને તજ ચાળો.",
+          "Fold the dry mixture into the wet ingredients; stir in carrot and walnuts without beating the batter.": "સૂકું મિશ્રણ ભીની સામગ્રીમાં હળવેથી ભેળવો; ખીરું ફેંટ્યા વગર ગાજર અને અખરોટ ઉમેરો.",
+          "Bake for 35–40 minutes until a skewer comes out clean; cool in the tin briefly, then transfer to a rack.": "35–40 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સહેજ મોલ્ડમાં ઠંડું કરી જાળી પર મૂકો.",
+          "Grate carrots finely; coarse pieces can remain crunchy inside the cake.": "ગાજર ઝીણું છીણો; જાડા ટુકડા કેકમાં કાચા રહી શકે."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-date-and-walnut-cake",
+        "canonicalId": "eggless-date-and-walnut-cake",
+        "name": "Eggless Date and Walnut Cake",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "pitted dates",
+          "milk",
+          "plain flour",
+          "oil",
+          "walnuts",
+          "baking powder",
+          "baking soda",
+          "ground cinnamon"
+        ],
+        "method": "bake",
+        "time": 65,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-date-and-walnut-cake",
+        "name": "Eggless Date and Walnut Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "pitted dates",
+            "qty": 170,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 180,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "plain flour",
+            "qty": 140,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "walnuts",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cinnamon",
+            "qty": 2,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Warm milk and soak chopped dates for 20 minutes; blend into a thick paste and let cool until lukewarm.",
+          "Heat oven to 175°C and line a small loaf tin; whisk oil into the date mixture until combined.",
+          "Sift flour, baking powder, soda and cinnamon; fold into the wet mixture, then fold in chopped walnuts.",
+          "Bake for 35–40 minutes until a skewer is clean; cool completely before slicing to keep the loaf intact."
+        ],
+        "tips": [
+          "Use soft moist dates; very dry dates need longer soaking before blending."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 65,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Date and Walnut Cake": "बिना अंडे का खजूर अखरोट केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "pitted dates": "बीज निकाले खजूर",
+          "milk": "दूध",
+          "plain flour": "मैदा",
+          "oil": "तेल",
+          "walnuts": "अखरोट",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "ground cinnamon": "दालचीनी पाउडर",
+          "Warm milk and soak chopped dates for 20 minutes; blend into a thick paste and let cool until lukewarm.": "दूध गरम कर कटे खजूर 20 मिनट भिगोएँ; गाढ़ा पीसकर गुनगुना होने दें।",
+          "Heat oven to 175°C and line a small loaf tin; whisk oil into the date mixture until combined.": "ओवन 175°C पर गरम करें और छोटे लोफ साँचे में पेपर लगाएँ; खजूर मिश्रण में तेल मिलाएँ।",
+          "Sift flour, baking powder, soda and cinnamon; fold into the wet mixture, then fold in chopped walnuts.": "मैदा, बेकिंग पाउडर, सोडा और दालचीनी छानें; गीले मिश्रण में मिलाकर कटे अखरोट डालें।",
+          "Bake for 35–40 minutes until a skewer is clean; cool completely before slicing to keep the loaf intact.": "35–40 मिनट सींक साफ निकलने तक बेक करें; लोफ टूटे नहीं इसलिए पूरा ठंडा करके काटें।",
+          "Use soft moist dates; very dry dates need longer soaking before blending.": "नरम खजूर लें; बहुत सूखे खजूर पीसने से पहले अधिक देर भिगोएँ।"
+        },
+        "gu": {
+          "Eggless Date and Walnut Cake": "ઈંડા વિનાની ખજૂર અખરોટ કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "pitted dates": "ઠળિયા વિનાની ખજૂર",
+          "milk": "દૂધ",
+          "plain flour": "મેંદો",
+          "oil": "તેલ",
+          "walnuts": "અખરોટ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "ground cinnamon": "તજ પાઉડર",
+          "Warm milk and soak chopped dates for 20 minutes; blend into a thick paste and let cool until lukewarm.": "દૂધ ગરમ કરી સમારેલી ખજૂર 20 મિનિટ પલાળો; ઘટ્ટ પીસી હૂંફાળું થવા દો.",
+          "Heat oven to 175°C and line a small loaf tin; whisk oil into the date mixture until combined.": "ઓવન 175°C પર ગરમ કરો અને નાના લોફ મોલ્ડમાં પેપર લગાવો; ખજૂરના મિશ્રણમાં તેલ ફેંટો.",
+          "Sift flour, baking powder, soda and cinnamon; fold into the wet mixture, then fold in chopped walnuts.": "મેંદો, બેકિંગ પાઉડર, સોડા અને તજ ચાળો; ભીના મિશ્રણમાં ભેળવી સમારેલા અખરોટ ઉમેરો.",
+          "Bake for 35–40 minutes until a skewer is clean; cool completely before slicing to keep the loaf intact.": "35–40 મિનિટ સળી સાફ નીકળે ત્યાં સુધી બેક કરો; લોફ તૂટે નહીં તે માટે સંપૂર્ણ ઠંડું કરી કાપો.",
+          "Use soft moist dates; very dry dates need longer soaking before blending.": "નરમ ખજૂર લો; ખૂબ સૂકી ખજૂરને પીસતાં પહેલાં વધુ સમય પલાળો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-coffee-walnut-cake",
+        "canonicalId": "eggless-coffee-walnut-cake",
+        "name": "Eggless Coffee Walnut Cake",
+        "cuisine": "British Inspired",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "plain yogurt",
+          "sugar",
+          "oil",
+          "milk",
+          "instant coffee",
+          "walnuts",
+          "baking powder",
+          "baking soda",
+          "vanilla extract"
+        ],
+        "method": "bake",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-coffee-walnut-cake",
+        "name": "Eggless Coffee Walnut Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 150,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 90,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 55,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 70,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "instant coffee",
+            "qty": 6,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "walnuts",
+            "qty": 50,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "vanilla extract",
+            "qty": 3,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Heat oven to 175°C and line an 18 cm tin; dissolve instant coffee in warm milk and cool slightly.",
+          "Whisk yogurt, sugar, oil and vanilla until smooth, then stir in the coffee milk.",
+          "Sift flour, baking powder and soda into the mixture; fold gently and add roughly chopped walnuts.",
+          "Bake for 30–35 minutes until risen and a skewer comes out clean; cool on a rack before slicing."
+        ],
+        "tips": [
+          "Instant coffee dissolves cleanly; do not substitute dry coffee grounds directly."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Coffee Walnut Cake": "बिना अंडे का कॉफी अखरोट केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "plain yogurt": "सादा दही",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "milk": "दूध",
+          "instant coffee": "इंस्टेंट कॉफी",
+          "walnuts": "अखरोट",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "vanilla extract": "वनीला अर्क",
+          "Heat oven to 175°C and line an 18 cm tin; dissolve instant coffee in warm milk and cool slightly.": "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; गरम दूध में कॉफी घोलकर थोड़ा ठंडा करें।",
+          "Whisk yogurt, sugar, oil and vanilla until smooth, then stir in the coffee milk.": "दही, चीनी, तेल और वनीला चिकना फेंटें, फिर कॉफी वाला दूध मिलाएँ।",
+          "Sift flour, baking powder and soda into the mixture; fold gently and add roughly chopped walnuts.": "मैदा, बेकिंग पाउडर और सोडा मिश्रण में छानें; हल्के हाथ मिलाकर कटे अखरोट डालें।",
+          "Bake for 30–35 minutes until risen and a skewer comes out clean; cool on a rack before slicing.": "30–35 मिनट फूलने और सींक साफ निकलने तक बेक करें; काटने से पहले जाली पर ठंडा करें।",
+          "Instant coffee dissolves cleanly; do not substitute dry coffee grounds directly.": "इंस्टेंट कॉफी आसानी से घुलती है; सीधे पिसी कॉफी का चूरा न डालें।"
+        },
+        "gu": {
+          "Eggless Coffee Walnut Cake": "ઈંડા વિનાની કોફી અખરોટ કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "plain yogurt": "સાદું દહીં",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "milk": "દૂધ",
+          "instant coffee": "ઇન્સ્ટન્ટ કોફી",
+          "walnuts": "અખરોટ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "vanilla extract": "વેનિલા અર્ક",
+          "Heat oven to 175°C and line an 18 cm tin; dissolve instant coffee in warm milk and cool slightly.": "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; ગરમ દૂધમાં કોફી ઓગાળી સહેજ ઠંડું કરો.",
+          "Whisk yogurt, sugar, oil and vanilla until smooth, then stir in the coffee milk.": "દહીં, ખાંડ, તેલ અને વેનિલા મુલાયમ ફેંટો, પછી કોફીવાળું દૂધ ભેળવો.",
+          "Sift flour, baking powder and soda into the mixture; fold gently and add roughly chopped walnuts.": "મેંદો, બેકિંગ પાઉડર અને સોડા મિશ્રણમાં ચાળો; હળવેથી ભેળવી સમારેલા અખરોટ ઉમેરો.",
+          "Bake for 30–35 minutes until risen and a skewer comes out clean; cool on a rack before slicing.": "30–35 મિનિટ ફૂલે અને સળી સાફ નીકળે ત્યાં સુધી બેક કરો; કાપતાં પહેલાં જાળી પર ઠંડું કરો.",
+          "Instant coffee dissolves cleanly; do not substitute dry coffee grounds directly.": "ઇન્સ્ટન્ટ કોફી સહેલાઈથી ઓગળે છે; સીધો પીસેલી કોફીનો ભૂકો ન ઉમેરો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-pistachio-cake",
+        "canonicalId": "eggless-pistachio-cake",
+        "name": "Eggless Pistachio Cake",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "shelled pistachios",
+          "plain yogurt",
+          "sugar",
+          "oil",
+          "milk",
+          "baking powder",
+          "baking soda",
+          "ground cardamom"
+        ],
+        "method": "bake",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "eggless-pistachio-cake",
+        "name": "Eggless Pistachio Cake",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 110,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "shelled pistachios",
+            "qty": 75,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "plain yogurt",
+            "qty": 100,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 80,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "oil",
+            "qty": 50,
+            "unit": "ml",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 70,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "baking powder",
+            "qty": 5,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "baking soda",
+            "qty": 1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Heat oven to 175°C and line an 18 cm tin; grind most pistachios finely and reserve some chopped for the top.",
+          "Whisk yogurt, sugar, oil and milk until smooth; separately combine flour, ground pistachios, cardamom, baking powder and soda.",
+          "Fold dry ingredients into wet just until combined; spread in the tin and sprinkle reserved pistachios.",
+          "Bake for 30–35 minutes until the centre springs back and a skewer is clean; cool fully before cutting."
+        ],
+        "tips": [
+          "Natural pistachio cake is pale, not bright green; avoid grinding nuts into oily paste."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Pistachio Cake": "बिना अंडे का पिस्ता केक",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "shelled pistachios": "छिले पिस्ते",
+          "plain yogurt": "सादा दही",
+          "sugar": "चीनी",
+          "oil": "तेल",
+          "milk": "दूध",
+          "baking powder": "बेकिंग पाउडर",
+          "baking soda": "खाने का सोडा",
+          "ground cardamom": "इलायची पाउडर",
+          "Heat oven to 175°C and line an 18 cm tin; grind most pistachios finely and reserve some chopped for the top.": "ओवन 175°C पर गरम करें और 18 सेमी साँचे में पेपर लगाएँ; अधिकतर पिस्ते बारीक पीसें, कुछ ऊपर के लिए काटें।",
+          "Whisk yogurt, sugar, oil and milk until smooth; separately combine flour, ground pistachios, cardamom, baking powder and soda.": "दही, चीनी, तेल और दूध चिकने फेंटें; अलग मैदा, पिसे पिस्ते, इलायची, बेकिंग पाउडर और सोडा मिलाएँ।",
+          "Fold dry ingredients into wet just until combined; spread in the tin and sprinkle reserved pistachios.": "सूखी सामग्री गीली सामग्री में केवल मिलने तक मिलाएँ; साँचे में फैलाकर बचे पिस्ते छिड़कें।",
+          "Bake for 30–35 minutes until the centre springs back and a skewer is clean; cool fully before cutting.": "30–35 मिनट बीच दबाने पर वापस उठने और सींक साफ निकलने तक बेक करें; पूरा ठंडा करके काटें।",
+          "Natural pistachio cake is pale, not bright green; avoid grinding nuts into oily paste.": "असली पिस्ता केक हल्का होता है, चमकीला हरा नहीं; मेवों को तेल निकलने तक न पीसें।"
+        },
+        "gu": {
+          "Eggless Pistachio Cake": "ઈંડા વિનાની પિસ્તા કેક",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "shelled pistachios": "છોલેલા પિસ્તા",
+          "plain yogurt": "સાદું દહીં",
+          "sugar": "ખાંડ",
+          "oil": "તેલ",
+          "milk": "દૂધ",
+          "baking powder": "બેકિંગ પાઉડર",
+          "baking soda": "ખાવાનો સોડા",
+          "ground cardamom": "એલચી પાઉડર",
+          "Heat oven to 175°C and line an 18 cm tin; grind most pistachios finely and reserve some chopped for the top.": "ઓવન 175°C પર ગરમ કરો અને 18 સેમી મોલ્ડમાં પેપર લગાવો; મોટાભાગના પિસ્તા ઝીણા પીસો, થોડા ઉપર માટે સમારો.",
+          "Whisk yogurt, sugar, oil and milk until smooth; separately combine flour, ground pistachios, cardamom, baking powder and soda.": "દહીં, ખાંડ, તેલ અને દૂધ મુલાયમ ફેંટો; અલગ મેંદો, પીસેલા પિસ્તા, એલચી, બેકિંગ પાઉડર અને સોડા ભેળવો.",
+          "Fold dry ingredients into wet just until combined; spread in the tin and sprinkle reserved pistachios.": "સૂકી સામગ્રી ભીની સામગ્રીમાં ભળે એટલી જ હલાવો; મોલ્ડમાં પાથરી બાકીના પિસ્તા છાંટો.",
+          "Bake for 30–35 minutes until the centre springs back and a skewer is clean; cool fully before cutting.": "30–35 મિનિટ મધ્ય દબાવતાં પાછું ઊઠે અને સળી સાફ નીકળે ત્યાં સુધી બેક કરો; સંપૂર્ણ ઠંડું કરી કાપો.",
+          "Natural pistachio cake is pale, not bright green; avoid grinding nuts into oily paste.": "કુદરતી પિસ્તાની કેક આછા રંગની હોય છે, ઘેરી લીલી નહીં; મેવા તેલ નીકળે ત્યાં સુધી ન પીસો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [],
+      "dish": {
+        "id": "eggless-cinnamon-rolls",
+        "canonicalId": "eggless-cinnamon-rolls",
+        "name": "Eggless Cinnamon Rolls",
+        "cuisine": "Global",
+        "categories": [
+          "Cakes & Bakes"
+        ],
+        "ingredients": [
+          "plain flour",
+          "milk",
+          "instant yeast",
+          "sugar",
+          "butter",
+          "salt",
+          "ground cinnamon"
+        ],
+        "method": "bake",
+        "time": 55,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [
+          "Oven"
+        ],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "eggless-cinnamon-rolls",
+        "name": "Eggless Cinnamon Rolls",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "plain flour",
+            "qty": 250,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 150,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "instant yeast",
+            "qty": 4,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 65,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "butter",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "salt",
+            "qty": 3,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "ground cinnamon",
+            "qty": 7,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          }
+        ],
+        "steps": [
+          "Mix flour, yeast, salt and 25 g sugar; add lukewarm milk and 30 g softened butter, kneading for 8–10 minutes until smooth.",
+          "Cover and rise for 60–90 minutes until doubled; roll into a rectangle and spread with remaining butter.",
+          "Sprinkle remaining sugar mixed with cinnamon, roll tightly from the long edge and cut into 8 rolls; place in a greased tin.",
+          "Rise for 30–45 minutes until puffy, then bake at 180°C for 22–27 minutes until golden and cooked through."
+        ],
+        "tips": [
+          "Milk should feel lukewarm, not hot; excessive heat damages the yeast."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 55,
+        "passiveTime": "Rise for 60–90 minutes, then 30–45 minutes after shaping.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Eggless Cinnamon Rolls": "बिना अंडे के सिनेमन रोल",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "plain flour": "मैदा",
+          "milk": "दूध",
+          "instant yeast": "इंस्टेंट यीस्ट",
+          "sugar": "चीनी",
+          "butter": "मक्खन",
+          "salt": "नमक",
+          "ground cinnamon": "दालचीनी पाउडर",
+          "Mix flour, yeast, salt and 25 g sugar; add lukewarm milk and 30 g softened butter, kneading for 8–10 minutes until smooth.": "मैदा, यीस्ट, नमक और 25 ग्राम चीनी मिलाएँ; गुनगुना दूध और 30 ग्राम नरम मक्खन डालकर 8–10 मिनट चिकना गूँधें।",
+          "Cover and rise for 60–90 minutes until doubled; roll into a rectangle and spread with remaining butter.": "ढककर 60–90 मिनट दुगुना होने दें; आयत में बेलकर बचा मक्खन फैलाएँ।",
+          "Sprinkle remaining sugar mixed with cinnamon, roll tightly from the long edge and cut into 8 rolls; place in a greased tin.": "बची चीनी और दालचीनी छिड़कें, लंबे किनारे से कसकर लपेटें और 8 रोल काटें; चिकने साँचे में रखें।",
+          "Rise for 30–45 minutes until puffy, then bake at 180°C for 22–27 minutes until golden and cooked through.": "30–45 मिनट फूलने दें, फिर 180°C पर 22–27 मिनट सुनहरा और अंदर तक पकने तक बेक करें।",
+          "Milk should feel lukewarm, not hot; excessive heat damages the yeast.": "दूध गुनगुना हो, गरम नहीं; बहुत गर्मी से यीस्ट खराब होता है।",
+          "Rise for 60–90 minutes, then 30–45 minutes after shaping.": "60–90 मिनट फूलने दें, फिर आकार देकर 30–45 मिनट रखें।"
+        },
+        "gu": {
+          "Eggless Cinnamon Rolls": "ઈંડા વિનાનાં સિનમન રોલ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "plain flour": "મેંદો",
+          "milk": "દૂધ",
+          "instant yeast": "ઇન્સ્ટન્ટ યીસ્ટ",
+          "sugar": "ખાંડ",
+          "butter": "માખણ",
+          "salt": "મીઠું",
+          "ground cinnamon": "તજ પાઉડર",
+          "Mix flour, yeast, salt and 25 g sugar; add lukewarm milk and 30 g softened butter, kneading for 8–10 minutes until smooth.": "મેંદો, યીસ્ટ, મીઠું અને 25 ગ્રામ ખાંડ ભેળવો; હૂંફાળું દૂધ અને 30 ગ્રામ નરમ માખણ ઉમેરી 8–10 મિનિટ મુલાયમ બાંધો.",
+          "Cover and rise for 60–90 minutes until doubled; roll into a rectangle and spread with remaining butter.": "ઢાંકી 60–90 મિનિટ બમણું થવા દો; લંબચોરસ વણી બાકી માખણ પાથરો.",
+          "Sprinkle remaining sugar mixed with cinnamon, roll tightly from the long edge and cut into 8 rolls; place in a greased tin.": "બાકી ખાંડ અને તજ છાંટો, લાંબી કિનારીથી કસીને વાળો અને 8 રોલ કાપો; ચીકણા મોલ્ડમાં ગોઠવો.",
+          "Rise for 30–45 minutes until puffy, then bake at 180°C for 22–27 minutes until golden and cooked through.": "30–45 મિનિટ ફૂલવા દો, પછી 180°C પર 22–27 મિનિટ સોનેરી અને અંદર સુધી પાકે ત્યાં સુધી બેક કરો.",
+          "Milk should feel lukewarm, not hot; excessive heat damages the yeast.": "દૂધ હૂંફાળું હોવું જોઈએ, ગરમ નહીં; વધારે ગરમીથી યીસ્ટ બગડે છે.",
+          "Rise for 60–90 minutes, then 30–45 minutes after shaping.": "60–90 મિનિટ ફૂલવા દો, પછી આકાર આપી 30–45 મિનિટ રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Firni"
+      ],
+      "dish": {
+        "id": "phirni",
+        "canonicalId": "phirni",
+        "name": "Phirni",
+        "cuisine": "Indian",
+        "categories": [
+          "Desserts",
+          "Indian Sweets",
+          "Festival Food"
+        ],
+        "ingredients": [
+          "basmati rice",
+          "full-fat milk",
+          "sugar",
+          "ground cardamom",
+          "saffron",
+          "pistachios, sliced"
+        ],
+        "method": "dessert",
+        "time": 35,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "phirni",
+        "name": "Phirni",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "basmati rice",
+            "qty": 60,
+            "unit": "g",
+            "group": "Grains",
+            "scale": "linear"
+          },
+          {
+            "name": "full-fat milk",
+            "qty": 1000,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 75,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.2,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "pistachios, sliced",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Rinse rice, soak in plenty of water for 30 minutes, then drain thoroughly. Grind with 60 ml of the measured milk into a coarse paste with tiny grains; avoid a completely smooth paste.",
+          "Warm the remaining milk in a heavy saucepan. Take out 20 ml warm milk into a cup and soak the saffron in it. Bring the milk in the pan to a gentle simmer.",
+          "Reduce the heat and pour in the rice paste in a thin stream while whisking. Cook for 15–20 minutes, stirring the bottom and corners frequently, until the rice grains are soft and the mixture coats a spoon.",
+          "Stir in sugar, cardamom and all the saffron milk. Cook for 3 minutes, stirring until the sugar dissolves. Keep the phirni slightly loose because it thickens further when chilled.",
+          "Divide among 4 shallow bowls. Let the heavy steam subside, cover and refrigerate for at least 2 hours until softly set. Sprinkle pistachios over the chilled phirni before serving."
+        ],
+        "tips": [
+          "The rice must be fully cooked before adding sugar. A coarse rice paste gives phirni its delicate grainy texture."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 35,
+        "passiveTime": "Allow 30 minutes to soak rice and at least 2 hours to chill the finished dessert.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Phirni": "फिरनी",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "basmati rice": "बासमती चावल",
+          "full-fat milk": "पूर्ण वसा वाला दूध",
+          "sugar": "चीनी",
+          "ground cardamom": "इलायची पाउडर",
+          "saffron": "केसर",
+          "pistachios, sliced": "कटे पिस्ते",
+          "Rinse rice, soak in plenty of water for 30 minutes, then drain thoroughly. Grind with 60 ml of the measured milk into a coarse paste with tiny grains; avoid a completely smooth paste.": "चावल धोकर पर्याप्त पानी में 30 मिनट भिगोएँ और अच्छी तरह छानें। मापे हुए दूध में से 60 मिली लेकर चावल को बारीक कणों वाली दरदरी पेस्ट बनाएँ; बिल्कुल चिकना न पीसें।",
+          "Warm the remaining milk in a heavy saucepan. Take out 20 ml warm milk into a cup and soak the saffron in it. Bring the milk in the pan to a gentle simmer.": "बाकी दूध भारी तले के बर्तन में गरम करें। उसमें से 20 मिली गरम दूध प्याली में निकालकर केसर भिगोएँ। बर्तन के दूध को धीमे उबाल तक लाएँ।",
+          "Reduce the heat and pour in the rice paste in a thin stream while whisking. Cook for 15–20 minutes, stirring the bottom and corners frequently, until the rice grains are soft and the mixture coats a spoon.": "आँच धीमी करके चावल की पेस्ट पतली धार में डालें और लगातार फेंटें। 15–20 मिनट पकाएँ; तली और किनारे बार-बार चलाएँ, जब तक चावल के कण नरम हों और मिश्रण चम्मच पर परत बनाए।",
+          "Stir in sugar, cardamom and all the saffron milk. Cook for 3 minutes, stirring until the sugar dissolves. Keep the phirni slightly loose because it thickens further when chilled.": "चीनी, इलायची और पूरा केसर वाला दूध मिलाएँ। 3 मिनट चलाते हुए पकाएँ, ताकि चीनी घुल जाए। फिरनी थोड़ी ढीली रखें क्योंकि ठंडी होने पर और गाढ़ी होगी।",
+          "Divide among 4 shallow bowls. Let the heavy steam subside, cover and refrigerate for at least 2 hours until softly set. Sprinkle pistachios over the chilled phirni before serving.": "4 उथली कटोरियों में बाँटें। तेज भाप कम होने दें, ढकें और कम से कम 2 घंटे फ्रिज में रखें, जब तक हल्की जम जाए। परोसने से पहले ठंडी फिरनी पर पिस्ते डालें।",
+          "The rice must be fully cooked before adding sugar. A coarse rice paste gives phirni its delicate grainy texture.": "चीनी डालने से पहले चावल पूरी तरह पक जाने चाहिए। दरदरी चावल की पेस्ट फिरनी को हल्की दानेदार बनावट देती है।",
+          "Allow 30 minutes to soak rice and at least 2 hours to chill the finished dessert.": "चावल भिगोने के लिए 30 मिनट और तैयार मिठाई ठंडी करने के लिए कम से कम 2 घंटे रखें।"
+        },
+        "gu": {
+          "Phirni": "ફિરની",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "basmati rice": "બાસમતી ચોખા",
+          "full-fat milk": "પૂર્ણ ચરબીવાળું દૂધ",
+          "sugar": "ખાંડ",
+          "ground cardamom": "એલચીનો પાઉડર",
+          "saffron": "કેસર",
+          "pistachios, sliced": "કાપેલા પિસ્તા",
+          "Rinse rice, soak in plenty of water for 30 minutes, then drain thoroughly. Grind with 60 ml of the measured milk into a coarse paste with tiny grains; avoid a completely smooth paste.": "ચોખા ધોઈ પૂરતા પાણીમાં 30 મિનિટ પલાળો અને સારી રીતે નિતારો. માપેલા દૂધમાંથી 60 મિલી લઈને ચોખાની નાના કણોવાળી જાડી પેસ્ટ બનાવો; સાવ લીસી ન પીસો.",
+          "Warm the remaining milk in a heavy saucepan. Take out 20 ml warm milk into a cup and soak the saffron in it. Bring the milk in the pan to a gentle simmer.": "બાકીનું દૂધ ભારે તળિયાવાળા વાસણમાં ગરમ કરો. તેમાંથી 20 મિલી ગરમ દૂધ વાટકીમાં કાઢીને કેસર પલાળો. વાસણના દૂધને હળવા ઉકાળા સુધી લાવો.",
+          "Reduce the heat and pour in the rice paste in a thin stream while whisking. Cook for 15–20 minutes, stirring the bottom and corners frequently, until the rice grains are soft and the mixture coats a spoon.": "તાપ ધીમો કરીને ચોખાની પેસ્ટ પાતળી ધારે ઉમેરતાં સતત ફેંટો. 15–20 મિનિટ પકાવો; તળિયું અને ખૂણા વારંવાર હલાવો, જેથી ચોખાના કણો નરમ થાય અને મિશ્રણ ચમચી પર પડ ચઢાવે.",
+          "Stir in sugar, cardamom and all the saffron milk. Cook for 3 minutes, stirring until the sugar dissolves. Keep the phirni slightly loose because it thickens further when chilled.": "ખાંડ, એલચી અને આખું કેસરવાળું દૂધ ભેળવો. 3 મિનિટ હલાવતાં પકાવો જેથી ખાંડ ઓગળે. ફિરની થોડી ઢીલી રાખો કારણ કે ઠંડી થયા પછી વધુ ઘટ્ટ થશે.",
+          "Divide among 4 shallow bowls. Let the heavy steam subside, cover and refrigerate for at least 2 hours until softly set. Sprinkle pistachios over the chilled phirni before serving.": "4 છીછરી વાટકીઓમાં વહેંચો. વધુ વરાળ નીકળી જાય પછી ઢાંકીને ઓછામાં ઓછા 2 કલાક ફ્રિજમાં રાખો, જેથી હળવી જામી જાય. પીરસતાં પહેલાં ઠંડી ફિરની પર પિસ્તા છાંટો.",
+          "The rice must be fully cooked before adding sugar. A coarse rice paste gives phirni its delicate grainy texture.": "ખાંડ ઉમેરતાં પહેલાં ચોખા પૂરેપૂરા પાકેલા હોવા જોઈએ. દરદરી ચોખાની પેસ્ટ ફિરનીને હળવી દાણાદાર બનાવટ આપે છે.",
+          "Allow 30 minutes to soak rice and at least 2 hours to chill the finished dessert.": "ચોખા પલાળવા માટે 30 મિનિટ અને તૈયાર મીઠાઈ ઠંડી કરવા માટે ઓછામાં ઓછા 2 કલાક રાખો."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Double ka Meetha"
+      ],
+      "dish": {
+        "id": "shahi-tukda",
+        "canonicalId": "shahi-tukda",
+        "name": "Shahi Tukda",
+        "cuisine": "Indian",
+        "categories": [
+          "Desserts",
+          "Indian Sweets",
+          "Festival Food"
+        ],
+        "ingredients": [
+          "thick egg-free white bread slices",
+          "full-fat milk",
+          "sugar",
+          "water",
+          "ghee",
+          "saffron",
+          "ground cardamom",
+          "pistachios, sliced",
+          "almonds, sliced",
+          "food-grade rose water"
+        ],
+        "method": "dessert",
+        "time": 45,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "gluten",
+          "tree nuts"
+        ],
+        "advancePrep": false
+      },
+      "recipe": {
+        "id": "shahi-tukda",
+        "name": "Shahi Tukda",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "thick egg-free white bread slices",
+            "qty": 200,
+            "unit": "g",
+            "group": "Bakery",
+            "scale": "linear"
+          },
+          {
+            "name": "full-fat milk",
+            "qty": 750,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "sugar",
+            "qty": 90,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "water",
+            "qty": 90,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ghee",
+            "qty": 60,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.2,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "pistachios, sliced",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "almonds, sliced",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          },
+          {
+            "name": "food-grade rose water",
+            "qty": 3,
+            "unit": "ml",
+            "group": "Other",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Bring milk to a simmer in a wide heavy saucepan. Add saffron and cook over medium-low heat for 20–25 minutes, stirring the bottom frequently and folding the cream from the sides back into the milk.",
+          "When the milk has reduced to about 350 ml and coats a spoon, stir in 30 g sugar and the cardamom. Cook for 2 minutes and remove from heat; keep this thickened milk ready.",
+          "In a small pan combine the remaining 60 g sugar with the measured water. Simmer for 3 minutes until dissolved and lightly syrupy, then remove from heat and add rose water.",
+          "Cut bread diagonally into triangles. Heat the ghee in a broad frying pan over medium heat and shallow-fry the bread in batches for 2–3 minutes per side until evenly golden and crisp.",
+          "Dip each fried triangle briefly into the warm syrup and lift out immediately; do not leave it soaking. Arrange in 4 shallow serving dishes.",
+          "Spoon the thickened saffron milk over the bread and finish with sliced pistachios and almonds. Serve immediately for crisp edges, or refrigerate briefly for a softer chilled dessert."
+        ],
+        "tips": [
+          "Keep the syrup light rather than cooking it to a thick string consistency; a quick dip sweetens the bread without making it collapse."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 45,
+        "passiveTime": null,
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Shahi Tukda": "शाही टुकड़ा",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "thick egg-free white bread slices": "बिना अंडे की मोटी सफेद ब्रेड स्लाइस",
+          "full-fat milk": "पूर्ण वसा वाला दूध",
+          "sugar": "चीनी",
+          "water": "पानी",
+          "ghee": "घी",
+          "saffron": "केसर",
+          "ground cardamom": "इलायची पाउडर",
+          "pistachios, sliced": "कटे पिस्ते",
+          "almonds, sliced": "कटे बादाम",
+          "food-grade rose water": "खाने योग्य गुलाब जल",
+          "Bring milk to a simmer in a wide heavy saucepan. Add saffron and cook over medium-low heat for 20–25 minutes, stirring the bottom frequently and folding the cream from the sides back into the milk.": "चौड़े भारी तले के बर्तन में दूध धीमे उबालें। केसर डालकर मध्यम-धीमी आँच पर 20–25 मिनट पकाएँ; तली बार-बार चलाएँ और किनारों की मलाई वापस दूध में मिलाते रहें।",
+          "When the milk has reduced to about 350 ml and coats a spoon, stir in 30 g sugar and the cardamom. Cook for 2 minutes and remove from heat; keep this thickened milk ready.": "दूध लगभग 350 मिली रह जाए और चम्मच पर परत बनाए, तब 30 ग्राम चीनी और इलायची मिलाएँ। 2 मिनट पकाकर आँच बंद करें; यह गाढ़ा दूध तैयार रखें।",
+          "In a small pan combine the remaining 60 g sugar with the measured water. Simmer for 3 minutes until dissolved and lightly syrupy, then remove from heat and add rose water.": "छोटे बर्तन में बाकी 60 ग्राम चीनी और मापा हुआ पानी मिलाएँ। 3 मिनट धीमे उबालें, जब तक चीनी घुले और हल्की चाशनी बने; आँच बंद करके गुलाब जल मिलाएँ।",
+          "Cut bread diagonally into triangles. Heat the ghee in a broad frying pan over medium heat and shallow-fry the bread in batches for 2–3 minutes per side until evenly golden and crisp.": "ब्रेड को तिरछा काटकर त्रिकोण बनाएँ। चौड़े पैन में मध्यम आँच पर घी गरम करें और ब्रेड को थोड़ी-थोड़ी करके हर तरफ 2–3 मिनट तलें, जब तक समान सुनहरी और कुरकुरी हो जाए।",
+          "Dip each fried triangle briefly into the warm syrup and lift out immediately; do not leave it soaking. Arrange in 4 shallow serving dishes.": "हर तला त्रिकोण हल्की गरम चाशनी में जल्दी डुबोकर तुरंत निकालें; भिगोकर न छोड़ें। 4 उथली प्लेटों में सजाएँ।",
+          "Spoon the thickened saffron milk over the bread and finish with sliced pistachios and almonds. Serve immediately for crisp edges, or refrigerate briefly for a softer chilled dessert.": "ब्रेड पर गाढ़ा केसर वाला दूध डालें और कटे पिस्ते-बादाम से सजाएँ। कुरकुरे किनारों के लिए तुरंत परोसें, या नरम ठंडी मिठाई के लिए थोड़ी देर फ्रिज में रखें।",
+          "Keep the syrup light rather than cooking it to a thick string consistency; a quick dip sweetens the bread without making it collapse.": "चाशनी को गाढ़ी तार वाली न बनाएँ; हल्की चाशनी में जल्दी डुबोने से ब्रेड मीठी होगी और टूटेगी नहीं।"
+        },
+        "gu": {
+          "Shahi Tukda": "શાહી ટુકડા",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "thick egg-free white bread slices": "ઈંડા વગરની જાડી સફેદ બ્રેડની સ્લાઇસ",
+          "full-fat milk": "પૂર્ણ ચરબીવાળું દૂધ",
+          "sugar": "ખાંડ",
+          "water": "પાણી",
+          "ghee": "ઘી",
+          "saffron": "કેસર",
+          "ground cardamom": "એલચીનો પાઉડર",
+          "pistachios, sliced": "કાપેલા પિસ્તા",
+          "almonds, sliced": "કાપેલી બદામ",
+          "food-grade rose water": "ખાદ્ય ગુલાબજળ",
+          "Bring milk to a simmer in a wide heavy saucepan. Add saffron and cook over medium-low heat for 20–25 minutes, stirring the bottom frequently and folding the cream from the sides back into the milk.": "પહોળા ભારે તળિયાવાળા વાસણમાં દૂધ હળવું ઉકાળો. કેસર ઉમેરી મધ્યમથી ધીમા તાપે 20–25 મિનિટ પકાવો; તળિયું વારંવાર હલાવો અને કિનારાની મલાઈ દૂધમાં ભેળવતા રહો.",
+          "When the milk has reduced to about 350 ml and coats a spoon, stir in 30 g sugar and the cardamom. Cook for 2 minutes and remove from heat; keep this thickened milk ready.": "દૂધ ઘટીને લગભગ 350 મિલી રહે અને ચમચી પર પડ ચઢાવે ત્યારે 30 ગ્રામ ખાંડ અને એલચી ઉમેરો. 2 મિનિટ પકાવી તાપ બંધ કરો; આ ઘટ્ટ દૂધ તૈયાર રાખો.",
+          "In a small pan combine the remaining 60 g sugar with the measured water. Simmer for 3 minutes until dissolved and lightly syrupy, then remove from heat and add rose water.": "નાના વાસણમાં બાકીની 60 ગ્રામ ખાંડ અને માપેલું પાણી ભેળવો. 3 મિનિટ હળવું ઉકાળો જેથી ખાંડ ઓગળે અને હળવી ચાસણી બને; તાપ બંધ કરીને ગુલાબજળ ઉમેરો.",
+          "Cut bread diagonally into triangles. Heat the ghee in a broad frying pan over medium heat and shallow-fry the bread in batches for 2–3 minutes per side until evenly golden and crisp.": "બ્રેડને ત્રાંસી કાપીને ત્રિકોણ બનાવો. પહોળા પેનમાં મધ્યમ તાપે ઘી ગરમ કરી બ્રેડને થોડીથોડી કરીને દરેક બાજુ 2–3 મિનિટ તળો, જેથી સમાન સોનેરી અને કરકરી થાય.",
+          "Dip each fried triangle briefly into the warm syrup and lift out immediately; do not leave it soaking. Arrange in 4 shallow serving dishes.": "દરેક તળેલો ત્રિકોણ હૂંફાળી ચાસણીમાં ઝડપથી બોળીને તરત કાઢો; પલાળેલો ન રાખો. 4 છીછરી પીરસવાની થાળીઓમાં ગોઠવો.",
+          "Spoon the thickened saffron milk over the bread and finish with sliced pistachios and almonds. Serve immediately for crisp edges, or refrigerate briefly for a softer chilled dessert.": "બ્રેડ પર ઘટ્ટ કેસરવાળું દૂધ રેડી કાપેલા પિસ્તા અને બદામથી સજાવો. કરકરી કિનારી માટે તરત પીરસો, અથવા નરમ ઠંડી મીઠાઈ માટે થોડો સમય ફ્રિજમાં રાખો.",
+          "Keep the syrup light rather than cooking it to a thick string consistency; a quick dip sweetens the bread without making it collapse.": "ચાસણીને જાડી તારવાળી ન બનાવો; હળવી ચાસણીમાં ઝડપથી બોળવાથી બ્રેડ મીઠી થશે અને તૂટી નહીં જાય."
+        }
+      }
+    },
+    {
+      "reviewStatus": "published",
+      "translationReviewStatus": "approved",
+      "aliases": [
+        "Mango Shrikhand"
+      ],
+      "dish": {
+        "id": "amrakhand",
+        "canonicalId": "amrakhand",
+        "name": "Amrakhand",
+        "cuisine": "Indian",
+        "categories": [
+          "Desserts",
+          "Indian Sweets",
+          "Festival Food"
+        ],
+        "ingredients": [
+          "full-fat plain yogurt",
+          "ripe mango flesh",
+          "powdered sugar",
+          "ground cardamom",
+          "saffron",
+          "milk",
+          "pistachios, chopped"
+        ],
+        "method": "dessert",
+        "time": 20,
+        "effort": "medium",
+        "kids": true,
+        "nutrition": [
+          "indulgent"
+        ],
+        "vegetarian": true,
+        "eggless": true,
+        "ingredientsComplete": true,
+        "jainVerified": false,
+        "recipeStatus": "complete",
+        "seasons": [
+          "all"
+        ],
+        "bulkScore": 4,
+        "individualPrep": true,
+        "fried": false,
+        "equipment": [],
+        "side": false,
+        "leftoverUses": [],
+        "allergens": [
+          "milk",
+          "tree nuts"
+        ],
+        "advancePrep": true
+      },
+      "recipe": {
+        "id": "amrakhand",
+        "name": "Amrakhand",
+        "baseServings": 4,
+        "batchSize": 20,
+        "ingredients": [
+          {
+            "name": "full-fat plain yogurt",
+            "qty": 900,
+            "unit": "g",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "ripe mango flesh",
+            "qty": 250,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "powdered sugar",
+            "qty": 70,
+            "unit": "g",
+            "group": "Packaged",
+            "scale": "linear"
+          },
+          {
+            "name": "ground cardamom",
+            "qty": 1,
+            "unit": "g",
+            "group": "Spices",
+            "scale": "seasoning"
+          },
+          {
+            "name": "saffron",
+            "qty": 0.1,
+            "unit": "g",
+            "group": "Other",
+            "scale": "linear"
+          },
+          {
+            "name": "milk",
+            "qty": 10,
+            "unit": "ml",
+            "group": "Dairy",
+            "scale": "linear"
+          },
+          {
+            "name": "pistachios, chopped",
+            "qty": 15,
+            "unit": "g",
+            "group": "Dry Fruits",
+            "scale": "linear"
+          }
+        ],
+        "steps": [
+          "Line a sieve with a clean fine cloth and set it over a deep bowl, leaving space for whey. Add yogurt, fold the cloth over it and refrigerate for 6 hours until thick and spreadable.",
+          "Transfer the drained yogurt to a bowl; expect roughly 450 g, depending on the original yogurt. Warm the measured milk and soak the saffron in it for 10 minutes.",
+          "Blend the mango flesh into a smooth puree without adding water. If the mango is fibrous, pass the puree through a fine sieve.",
+          "Whisk the thick yogurt and powdered sugar gently until smooth. Fold in mango puree, cardamom and all the saffron milk until uniformly golden and creamy; avoid vigorous beating.",
+          "Cover and refrigerate for at least 1 hour to firm up. Divide among 4 bowls, scatter chopped pistachios on top and serve cold."
+        ],
+        "tips": [
+          "Use a sweet, low-fibre mango and drain the yogurt in the refrigerator; excess whey makes the dessert runny."
+        ],
+        "substitutions": [],
+        "status": "complete",
+        "prepTime": 20,
+        "passiveTime": "Allow 6 hours to drain yogurt and at least 1 hour to chill after mixing.",
+        "notes": "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules."
+      },
+      "translations": {
+        "hi": {
+          "Amrakhand": "आम्रखंड",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "मात्राएँ चार वयस्कों के लिए हैं। हर चरण में पकने के संकेत जाँचें और स्वाद के अनुसार मसाला बदलें। जैन उपयुक्तता आपके परिवार की सामग्री संबंधी नियमों पर निर्भर है।",
+          "full-fat plain yogurt": "पूर्ण वसा वाला सादा दही",
+          "ripe mango flesh": "पके आम का गूदा",
+          "powdered sugar": "पिसी चीनी",
+          "ground cardamom": "इलायची पाउडर",
+          "saffron": "केसर",
+          "milk": "दूध",
+          "pistachios, chopped": "कटे पिस्ते",
+          "Line a sieve with a clean fine cloth and set it over a deep bowl, leaving space for whey. Add yogurt, fold the cloth over it and refrigerate for 6 hours until thick and spreadable.": "छलनी में साफ महीन कपड़ा बिछाकर गहरे बर्तन पर रखें, ताकि नीचे मट्ठा जमा हो सके। दही डालें, कपड़ा ऊपर मोड़ें और 6 घंटे फ्रिज में रखें, जब तक दही गाढ़ा और फैलाने योग्य हो जाए।",
+          "Transfer the drained yogurt to a bowl; expect roughly 450 g, depending on the original yogurt. Warm the measured milk and soak the saffron in it for 10 minutes.": "निथरा दही कटोरे में निकालें; मूल दही के अनुसार लगभग 450 ग्राम मिलेगा। मापा हुआ दूध गरम करें और उसमें केसर 10 मिनट भिगोएँ।",
+          "Blend the mango flesh into a smooth puree without adding water. If the mango is fibrous, pass the puree through a fine sieve.": "आम के गूदे को बिना पानी मिलाए चिकनी प्यूरी बनाएँ। आम में रेशे हों तो प्यूरी को महीन छलनी से छानें।",
+          "Whisk the thick yogurt and powdered sugar gently until smooth. Fold in mango puree, cardamom and all the saffron milk until uniformly golden and creamy; avoid vigorous beating.": "गाढ़े दही और पिसी चीनी को धीरे फेंटकर चिकना करें। आम की प्यूरी, इलायची और पूरा केसर वाला दूध मिलाएँ, जब तक समान सुनहरा और मलाईदार हो जाए; बहुत तेज न फेंटें।",
+          "Cover and refrigerate for at least 1 hour to firm up. Divide among 4 bowls, scatter chopped pistachios on top and serve cold.": "ढककर कम से कम 1 घंटे फ्रिज में रखें ताकि मिश्रण गाढ़ा हो जाए। 4 कटोरियों में बाँटें, ऊपर कटे पिस्ते डालें और ठंडा परोसें।",
+          "Use a sweet, low-fibre mango and drain the yogurt in the refrigerator; excess whey makes the dessert runny.": "मीठा, कम रेशे वाला आम लें और दही फ्रिज में निथारें; ज्यादा मट्ठा रहने से मिठाई पतली हो जाती है।",
+          "Allow 6 hours to drain yogurt and at least 1 hour to chill after mixing.": "दही निथारने के लिए 6 घंटे और मिलाने के बाद ठंडा करने के लिए कम से कम 1 घंटा रखें।"
+        },
+        "gu": {
+          "Amrakhand": "આમ્રખંડ",
+          "Quantities serve four adults. Check the doneness cues in each step and adjust seasoning to taste. Jain suitability depends on your household ingredient rules.": "માત્રા ચાર પુખ્ત વ્યક્તિઓ માટે છે. દરેક પગલામાં પાકવાના સંકેત તપાસો અને સ્વાદ પ્રમાણે મસાલો ગોઠવો. જૈન યોગ્યતા તમારા પરિવારના સામગ્રીના નિયમો પર આધારિત છે.",
+          "full-fat plain yogurt": "પૂર્ણ ચરબીવાળું સાદું દહીં",
+          "ripe mango flesh": "પાકેલી કેરીનો ગર",
+          "powdered sugar": "દળેલી ખાંડ",
+          "ground cardamom": "એલચીનો પાઉડર",
+          "saffron": "કેસર",
+          "milk": "દૂધ",
+          "pistachios, chopped": "સમારેલા પિસ્તા",
+          "Line a sieve with a clean fine cloth and set it over a deep bowl, leaving space for whey. Add yogurt, fold the cloth over it and refrigerate for 6 hours until thick and spreadable.": "ચાળણીમાં સ્વચ્છ ઝીણું કપડું પાથરી ઊંડા વાસણ પર રાખો, જેથી નીચે પાણી ભેગું થાય. દહીં ઉમેરો, કપડું ઉપર વાળી 6 કલાક ફ્રિજમાં રાખો, જેથી દહીં ઘટ્ટ અને ચોપડી શકાય તેવું બને.",
+          "Transfer the drained yogurt to a bowl; expect roughly 450 g, depending on the original yogurt. Warm the measured milk and soak the saffron in it for 10 minutes.": "નિતારેલું દહીં વાટકીમાં કાઢો; મૂળ દહીં પ્રમાણે લગભગ 450 ગ્રામ મળશે. માપેલું દૂધ ગરમ કરી તેમાં કેસર 10 મિનિટ પલાળો.",
+          "Blend the mango flesh into a smooth puree without adding water. If the mango is fibrous, pass the puree through a fine sieve.": "કેરીના ગરનું પાણી ઉમેર્યા વગર લીસું પ્યુરી બનાવો. કેરીમાં રેસા હોય તો પ્યુરીને ઝીણી ચાળણીથી ગાળો.",
+          "Whisk the thick yogurt and powdered sugar gently until smooth. Fold in mango puree, cardamom and all the saffron milk until uniformly golden and creamy; avoid vigorous beating.": "ઘટ્ટ દહીં અને દળેલી ખાંડને હળવેથી ફેંટી લીસું કરો. કેરીનું પ્યુરી, એલચી અને આખું કેસરવાળું દૂધ ભેળવો, જેથી સમાન સોનેરી અને મલાઈદાર બને; ખૂબ જોરથી ન ફેંટો.",
+          "Cover and refrigerate for at least 1 hour to firm up. Divide among 4 bowls, scatter chopped pistachios on top and serve cold.": "ઢાંકીને ઓછામાં ઓછો 1 કલાક ફ્રિજમાં રાખો જેથી મિશ્રણ ઘટ્ટ બને. 4 વાટકીઓમાં વહેંચી ઉપર સમારેલા પિસ્તા છાંટો અને ઠંડું પીરસો.",
+          "Use a sweet, low-fibre mango and drain the yogurt in the refrigerator; excess whey makes the dessert runny.": "મીઠી, ઓછા રેસાવાળી કેરી લો અને દહીં ફ્રિજમાં નિતારો; વધુ પાણી રહેવાથી મીઠાઈ પાતળી બને છે.",
+          "Allow 6 hours to drain yogurt and at least 1 hour to chill after mixing.": "દહીં નિતારવા માટે 6 કલાક અને ભેળવ્યા પછી ઠંડું કરવા માટે ઓછામાં ઓછો 1 કલાક રાખો."
+        }
+      }
     }
   ],
   "approval": "User requested another 200 currently popular dishes on 2026-10-15; selected by current trend themes and missing catalogue coverage.",

@@ -1,0 +1,135 @@
+{
+  "sourceReviewId": "R1503",
+  "id": "shahi-tukda",
+  "status": "published-popular-200-intake-batch",
+  "name": "Shahi Tukda",
+  "cuisine": "Indian",
+  "categories": [
+    "Desserts",
+    "Indian Sweets",
+    "Festival Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 45,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "thick egg-free white bread slices",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "full-fat milk",
+      "qty": 750,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 90,
+      "unit": "g"
+    },
+    {
+      "name": "water",
+      "qty": 90,
+      "unit": "ml"
+    },
+    {
+      "name": "ghee",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.2,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "pistachios, sliced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "almonds, sliced",
+      "qty": 15,
+      "unit": "g"
+    },
+    {
+      "name": "food-grade rose water",
+      "qty": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Bring milk to a simmer in a wide heavy saucepan. Add saffron and cook over medium-low heat for 20–25 minutes, stirring the bottom frequently and folding the cream from the sides back into the milk.",
+    "When the milk has reduced to about 350 ml and coats a spoon, stir in 30 g sugar and the cardamom. Cook for 2 minutes and remove from heat; keep this thickened milk ready.",
+    "In a small pan combine the remaining 60 g sugar with the measured water. Simmer for 3 minutes until dissolved and lightly syrupy, then remove from heat and add rose water.",
+    "Cut bread diagonally into triangles. Heat the ghee in a broad frying pan over medium heat and shallow-fry the bread in batches for 2–3 minutes per side until evenly golden and crisp.",
+    "Dip each fried triangle briefly into the warm syrup and lift out immediately; do not leave it soaking. Arrange in 4 shallow serving dishes.",
+    "Spoon the thickened saffron milk over the bread and finish with sliced pistachios and almonds. Serve immediately for crisp edges, or refrigerate briefly for a softer chilled dessert."
+  ],
+  "tips": [
+    "Keep the syrup light rather than cooking it to a thick string consistency; a quick dip sweetens the bread without making it collapse."
+  ],
+  "photoDescription": "Golden fried triangular bread pieces partly covered with thick pale saffron rabri, sliced almonds and pistachios; browned bread edges remain visible.",
+  "translations": {
+    "hi": {
+      "name": "शाही टुकड़ा",
+      "ingredients": [
+        "बिना अंडे की मोटी सफेद ब्रेड स्लाइस",
+        "पूर्ण वसा वाला दूध",
+        "चीनी",
+        "पानी",
+        "घी",
+        "केसर",
+        "इलायची पाउडर",
+        "कटे पिस्ते",
+        "कटे बादाम",
+        "खाने योग्य गुलाब जल"
+      ],
+      "steps": [
+        "चौड़े भारी तले के बर्तन में दूध धीमे उबालें। केसर डालकर मध्यम-धीमी आँच पर 20–25 मिनट पकाएँ; तली बार-बार चलाएँ और किनारों की मलाई वापस दूध में मिलाते रहें।",
+        "दूध लगभग 350 मिली रह जाए और चम्मच पर परत बनाए, तब 30 ग्राम चीनी और इलायची मिलाएँ। 2 मिनट पकाकर आँच बंद करें; यह गाढ़ा दूध तैयार रखें।",
+        "छोटे बर्तन में बाकी 60 ग्राम चीनी और मापा हुआ पानी मिलाएँ। 3 मिनट धीमे उबालें, जब तक चीनी घुले और हल्की चाशनी बने; आँच बंद करके गुलाब जल मिलाएँ।",
+        "ब्रेड को तिरछा काटकर त्रिकोण बनाएँ। चौड़े पैन में मध्यम आँच पर घी गरम करें और ब्रेड को थोड़ी-थोड़ी करके हर तरफ 2–3 मिनट तलें, जब तक समान सुनहरी और कुरकुरी हो जाए।",
+        "हर तला त्रिकोण हल्की गरम चाशनी में जल्दी डुबोकर तुरंत निकालें; भिगोकर न छोड़ें। 4 उथली प्लेटों में सजाएँ।",
+        "ब्रेड पर गाढ़ा केसर वाला दूध डालें और कटे पिस्ते-बादाम से सजाएँ। कुरकुरे किनारों के लिए तुरंत परोसें, या नरम ठंडी मिठाई के लिए थोड़ी देर फ्रिज में रखें।"
+      ],
+      "tips": [
+        "चाशनी को गाढ़ी तार वाली न बनाएँ; हल्की चाशनी में जल्दी डुबोने से ब्रेड मीठी होगी और टूटेगी नहीं।"
+      ]
+    },
+    "gu": {
+      "name": "શાહી ટુકડા",
+      "ingredients": [
+        "ઈંડા વગરની જાડી સફેદ બ્રેડની સ્લાઇસ",
+        "પૂર્ણ ચરબીવાળું દૂધ",
+        "ખાંડ",
+        "પાણી",
+        "ઘી",
+        "કેસર",
+        "એલચીનો પાઉડર",
+        "કાપેલા પિસ્તા",
+        "કાપેલી બદામ",
+        "ખાદ્ય ગુલાબજળ"
+      ],
+      "steps": [
+        "પહોળા ભારે તળિયાવાળા વાસણમાં દૂધ હળવું ઉકાળો. કેસર ઉમેરી મધ્યમથી ધીમા તાપે 20–25 મિનિટ પકાવો; તળિયું વારંવાર હલાવો અને કિનારાની મલાઈ દૂધમાં ભેળવતા રહો.",
+        "દૂધ ઘટીને લગભગ 350 મિલી રહે અને ચમચી પર પડ ચઢાવે ત્યારે 30 ગ્રામ ખાંડ અને એલચી ઉમેરો. 2 મિનિટ પકાવી તાપ બંધ કરો; આ ઘટ્ટ દૂધ તૈયાર રાખો.",
+        "નાના વાસણમાં બાકીની 60 ગ્રામ ખાંડ અને માપેલું પાણી ભેળવો. 3 મિનિટ હળવું ઉકાળો જેથી ખાંડ ઓગળે અને હળવી ચાસણી બને; તાપ બંધ કરીને ગુલાબજળ ઉમેરો.",
+        "બ્રેડને ત્રાંસી કાપીને ત્રિકોણ બનાવો. પહોળા પેનમાં મધ્યમ તાપે ઘી ગરમ કરી બ્રેડને થોડીથોડી કરીને દરેક બાજુ 2–3 મિનિટ તળો, જેથી સમાન સોનેરી અને કરકરી થાય.",
+        "દરેક તળેલો ત્રિકોણ હૂંફાળી ચાસણીમાં ઝડપથી બોળીને તરત કાઢો; પલાળેલો ન રાખો. 4 છીછરી પીરસવાની થાળીઓમાં ગોઠવો.",
+        "બ્રેડ પર ઘટ્ટ કેસરવાળું દૂધ રેડી કાપેલા પિસ્તા અને બદામથી સજાવો. કરકરી કિનારી માટે તરત પીરસો, અથવા નરમ ઠંડી મીઠાઈ માટે થોડો સમય ફ્રિજમાં રાખો."
+      ],
+      "tips": [
+        "ચાસણીને જાડી તારવાળી ન બનાવો; હળવી ચાસણીમાં ઝડપથી બોળવાથી બ્રેડ મીઠી થશે અને તૂટી નહીં જાય."
+      ]
+    }
+  },
+  "photoDraft": "catalog/intake/photos/shahi-tukda.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

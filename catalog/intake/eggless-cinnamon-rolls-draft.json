@@ -1,0 +1,109 @@
+{
+  "sourceReviewId": "R1777",
+  "id": "eggless-cinnamon-rolls",
+  "status": "published-popular-200-intake-batch",
+  "name": "Eggless Cinnamon Rolls",
+  "cuisine": "Global",
+  "categories": [
+    "Cakes & Bakes"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 55,
+  "method": "bake",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "qty": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "instant yeast",
+      "qty": 4,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "qty": 65,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "qty": 3,
+      "unit": "g"
+    },
+    {
+      "name": "ground cinnamon",
+      "qty": 7,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix flour, yeast, salt and 25 g sugar; add lukewarm milk and 30 g softened butter, kneading for 8–10 minutes until smooth.",
+    "Cover and rise for 60–90 minutes until doubled; roll into a rectangle and spread with remaining butter.",
+    "Sprinkle remaining sugar mixed with cinnamon, roll tightly from the long edge and cut into 8 rolls; place in a greased tin.",
+    "Rise for 30–45 minutes until puffy, then bake at 180°C for 22–27 minutes until golden and cooked through."
+  ],
+  "tips": [
+    "Milk should feel lukewarm, not hot; excessive heat damages the yeast."
+  ],
+  "translations": {
+    "hi": {
+      "name": "बिना अंडे के सिनेमन रोल",
+      "ingredients": [
+        "मैदा",
+        "दूध",
+        "इंस्टेंट यीस्ट",
+        "चीनी",
+        "मक्खन",
+        "नमक",
+        "दालचीनी पाउडर"
+      ],
+      "steps": [
+        "मैदा, यीस्ट, नमक और 25 ग्राम चीनी मिलाएँ; गुनगुना दूध और 30 ग्राम नरम मक्खन डालकर 8–10 मिनट चिकना गूँधें।",
+        "ढककर 60–90 मिनट दुगुना होने दें; आयत में बेलकर बचा मक्खन फैलाएँ।",
+        "बची चीनी और दालचीनी छिड़कें, लंबे किनारे से कसकर लपेटें और 8 रोल काटें; चिकने साँचे में रखें।",
+        "30–45 मिनट फूलने दें, फिर 180°C पर 22–27 मिनट सुनहरा और अंदर तक पकने तक बेक करें।"
+      ],
+      "tips": [
+        "दूध गुनगुना हो, गरम नहीं; बहुत गर्मी से यीस्ट खराब होता है।"
+      ],
+      "passiveTime": "60–90 मिनट फूलने दें, फिर आकार देकर 30–45 मिनट रखें।"
+    },
+    "gu": {
+      "name": "ઈંડા વિનાનાં સિનમન રોલ",
+      "ingredients": [
+        "મેંદો",
+        "દૂધ",
+        "ઇન્સ્ટન્ટ યીસ્ટ",
+        "ખાંડ",
+        "માખણ",
+        "મીઠું",
+        "તજ પાઉડર"
+      ],
+      "steps": [
+        "મેંદો, યીસ્ટ, મીઠું અને 25 ગ્રામ ખાંડ ભેળવો; હૂંફાળું દૂધ અને 30 ગ્રામ નરમ માખણ ઉમેરી 8–10 મિનિટ મુલાયમ બાંધો.",
+        "ઢાંકી 60–90 મિનિટ બમણું થવા દો; લંબચોરસ વણી બાકી માખણ પાથરો.",
+        "બાકી ખાંડ અને તજ છાંટો, લાંબી કિનારીથી કસીને વાળો અને 8 રોલ કાપો; ચીકણા મોલ્ડમાં ગોઠવો.",
+        "30–45 મિનિટ ફૂલવા દો, પછી 180°C પર 22–27 મિનિટ સોનેરી અને અંદર સુધી પાકે ત્યાં સુધી બેક કરો."
+      ],
+      "tips": [
+        "દૂધ હૂંફાળું હોવું જોઈએ, ગરમ નહીં; વધારે ગરમીથી યીસ્ટ બગડે છે."
+      ],
+      "passiveTime": "60–90 મિનિટ ફૂલવા દો, પછી આકાર આપી 30–45 મિનિટ રાખો."
+    }
+  },
+  "photoDescription": "Soft golden cinnamon rolls with distinct dark cinnamon spiral layers, baked together in a small pan, no icing.",
+  "passiveTime": "Rise for 60–90 minutes, then 30–45 minutes after shaping.",
+  "photoDraft": "catalog/intake/photos/eggless-cinnamon-rolls.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}

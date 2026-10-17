@@ -1,0 +1,107 @@
+{
+  "sourceReviewId": "R1502",
+  "id": "phirni",
+  "status": "published-popular-200-intake-batch",
+  "name": "Phirni",
+  "cuisine": "Indian",
+  "categories": [
+    "Desserts",
+    "Indian Sweets",
+    "Festival Food"
+  ],
+  "baseServings": 4,
+  "prepAndCookMinutes": 35,
+  "method": "dessert",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "full-fat milk",
+      "qty": 1000,
+      "unit": "ml"
+    },
+    {
+      "name": "sugar",
+      "qty": 75,
+      "unit": "g"
+    },
+    {
+      "name": "ground cardamom",
+      "qty": 1,
+      "unit": "g"
+    },
+    {
+      "name": "saffron",
+      "qty": 0.2,
+      "unit": "g"
+    },
+    {
+      "name": "pistachios, sliced",
+      "qty": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Rinse rice, soak in plenty of water for 30 minutes, then drain thoroughly. Grind with 60 ml of the measured milk into a coarse paste with tiny grains; avoid a completely smooth paste.",
+    "Warm the remaining milk in a heavy saucepan. Take out 20 ml warm milk into a cup and soak the saffron in it. Bring the milk in the pan to a gentle simmer.",
+    "Reduce the heat and pour in the rice paste in a thin stream while whisking. Cook for 15–20 minutes, stirring the bottom and corners frequently, until the rice grains are soft and the mixture coats a spoon.",
+    "Stir in sugar, cardamom and all the saffron milk. Cook for 3 minutes, stirring until the sugar dissolves. Keep the phirni slightly loose because it thickens further when chilled.",
+    "Divide among 4 shallow bowls. Let the heavy steam subside, cover and refrigerate for at least 2 hours until softly set. Sprinkle pistachios over the chilled phirni before serving."
+  ],
+  "tips": [
+    "The rice must be fully cooked before adding sugar. A coarse rice paste gives phirni its delicate grainy texture."
+  ],
+  "photoDescription": "Pale ivory softly set rice phirni in small terracotta bowls, fine grainy creamy texture, saffron strands and sliced pistachios on top.",
+  "translations": {
+    "hi": {
+      "name": "फिरनी",
+      "ingredients": [
+        "बासमती चावल",
+        "पूर्ण वसा वाला दूध",
+        "चीनी",
+        "इलायची पाउडर",
+        "केसर",
+        "कटे पिस्ते"
+      ],
+      "steps": [
+        "चावल धोकर पर्याप्त पानी में 30 मिनट भिगोएँ और अच्छी तरह छानें। मापे हुए दूध में से 60 मिली लेकर चावल को बारीक कणों वाली दरदरी पेस्ट बनाएँ; बिल्कुल चिकना न पीसें।",
+        "बाकी दूध भारी तले के बर्तन में गरम करें। उसमें से 20 मिली गरम दूध प्याली में निकालकर केसर भिगोएँ। बर्तन के दूध को धीमे उबाल तक लाएँ।",
+        "आँच धीमी करके चावल की पेस्ट पतली धार में डालें और लगातार फेंटें। 15–20 मिनट पकाएँ; तली और किनारे बार-बार चलाएँ, जब तक चावल के कण नरम हों और मिश्रण चम्मच पर परत बनाए।",
+        "चीनी, इलायची और पूरा केसर वाला दूध मिलाएँ। 3 मिनट चलाते हुए पकाएँ, ताकि चीनी घुल जाए। फिरनी थोड़ी ढीली रखें क्योंकि ठंडी होने पर और गाढ़ी होगी।",
+        "4 उथली कटोरियों में बाँटें। तेज भाप कम होने दें, ढकें और कम से कम 2 घंटे फ्रिज में रखें, जब तक हल्की जम जाए। परोसने से पहले ठंडी फिरनी पर पिस्ते डालें।"
+      ],
+      "tips": [
+        "चीनी डालने से पहले चावल पूरी तरह पक जाने चाहिए। दरदरी चावल की पेस्ट फिरनी को हल्की दानेदार बनावट देती है।"
+      ],
+      "passiveTime": "चावल भिगोने के लिए 30 मिनट और तैयार मिठाई ठंडी करने के लिए कम से कम 2 घंटे रखें।"
+    },
+    "gu": {
+      "name": "ફિરની",
+      "ingredients": [
+        "બાસમતી ચોખા",
+        "પૂર્ણ ચરબીવાળું દૂધ",
+        "ખાંડ",
+        "એલચીનો પાઉડર",
+        "કેસર",
+        "કાપેલા પિસ્તા"
+      ],
+      "steps": [
+        "ચોખા ધોઈ પૂરતા પાણીમાં 30 મિનિટ પલાળો અને સારી રીતે નિતારો. માપેલા દૂધમાંથી 60 મિલી લઈને ચોખાની નાના કણોવાળી જાડી પેસ્ટ બનાવો; સાવ લીસી ન પીસો.",
+        "બાકીનું દૂધ ભારે તળિયાવાળા વાસણમાં ગરમ કરો. તેમાંથી 20 મિલી ગરમ દૂધ વાટકીમાં કાઢીને કેસર પલાળો. વાસણના દૂધને હળવા ઉકાળા સુધી લાવો.",
+        "તાપ ધીમો કરીને ચોખાની પેસ્ટ પાતળી ધારે ઉમેરતાં સતત ફેંટો. 15–20 મિનિટ પકાવો; તળિયું અને ખૂણા વારંવાર હલાવો, જેથી ચોખાના કણો નરમ થાય અને મિશ્રણ ચમચી પર પડ ચઢાવે.",
+        "ખાંડ, એલચી અને આખું કેસરવાળું દૂધ ભેળવો. 3 મિનિટ હલાવતાં પકાવો જેથી ખાંડ ઓગળે. ફિરની થોડી ઢીલી રાખો કારણ કે ઠંડી થયા પછી વધુ ઘટ્ટ થશે.",
+        "4 છીછરી વાટકીઓમાં વહેંચો. વધુ વરાળ નીકળી જાય પછી ઢાંકીને ઓછામાં ઓછા 2 કલાક ફ્રિજમાં રાખો, જેથી હળવી જામી જાય. પીરસતાં પહેલાં ઠંડી ફિરની પર પિસ્તા છાંટો."
+      ],
+      "tips": [
+        "ખાંડ ઉમેરતાં પહેલાં ચોખા પૂરેપૂરા પાકેલા હોવા જોઈએ. દરદરી ચોખાની પેસ્ટ ફિરનીને હળવી દાણાદાર બનાવટ આપે છે."
+      ],
+      "passiveTime": "ચોખા પલાળવા માટે 30 મિનિટ અને તૈયાર મીઠાઈ ઠંડી કરવા માટે ઓછામાં ઓછા 2 કલાક રાખો."
+    }
+  },
+  "passiveTime": "Allow 30 minutes to soak rice and at least 2 hours to chill the finished dessert.",
+  "photoDraft": "catalog/intake/photos/phirni.png",
+  "photoReview": "Visually reviewed on 2026-10-17 for realistic appearance, dish identity, recipe consistency and catalogue presentation."
+}
