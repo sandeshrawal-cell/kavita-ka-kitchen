@@ -35,3 +35,41 @@ dialog{border:1px solid var(--line);border-radius:23px;max-width:810px;width:cal
 .kitchen-choices{border:0;padding:0;margin:20px 0;display:grid;grid-template-columns:1fr 1fr;gap:12px}.kitchen-choices legend{font-weight:700;margin-bottom:14px}.kitchen-choice{display:flex;gap:12px;border:1px solid var(--line);padding:16px;border-radius:14px;cursor:pointer}.kitchen-choice:has(input:checked){background:var(--sage);border-color:var(--green)}.kitchen-choice input{width:auto;flex:none}.kitchen-choice small{display:block;margin-top:6px;line-height:1.5}.tour-grid{display:grid;gap:16px;margin:24px 0}.tour-grid section{padding:18px;background:var(--sage);border-radius:14px}.tour-grid section>span{color:var(--coral);font-weight:800}.tour-grid h3{margin:8px 0}.tour-grid p{margin:0}.welcome-intro p{font-size:14px}@media(max-width:520px){.kitchen-choices{grid-template-columns:1fr}.kitchen-choice{padding:12px}}
 /* Cooking-batch instructions stay legible on both the recipe and mobile views. */
 .method-batch{background:#edf3e9;border:1px solid #d1e0d0;border-radius:14px;padding:16px;margin:12px 0 20px}.method-batch strong{font-size:13px}.method-batch p{margin:7px 0 13px}.batch-ingredients{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 18px}.batch-ingredients>div{display:flex;justify-content:space-between;gap:10px;border-bottom:1px solid #d8e5d8;padding:6px 0;font-size:11px}.batch-ingredients b{white-space:nowrap}.step-adjustment{display:block;color:#29614e;font-weight:700;font-size:11px;margin-top:5px}.search-notice .button-row{margin-top:12px;flex-wrap:wrap}@media(max-width:600px){.batch-ingredients{grid-template-columns:1fr}}
+
+/* Use the screen for useful controls without reducing reading size. */
+@media(min-width:801px){
+ .topbar{min-height:68px;height:auto;padding:12px 28px;gap:16px}
+ main{padding:26px 28px 48px}
+ .welcome{margin-bottom:18px}
+}
+@media(min-width:801px) and (max-width:1200px){
+ .sidebar{width:200px;padding:24px 14px}
+ .workspace{margin-left:200px}
+ .topbar-left{gap:12px}.topbar-actions{gap:10px}
+ .breadcrumb{display:none}
+}
+dialog:has(#authForm){width:min(480px,calc(100% - 24px))}
+dialog:has(#authForm) #dialogBody{padding:24px}
+dialog:has(#authForm) .modal-heading{display:grid;grid-template-columns:1fr auto;gap:10px;margin-bottom:16px}
+dialog:has(#authForm) .modal-heading>div:first-child{grid-column:1/-1}
+dialog:has(#authForm) .modal-heading h2{font-size:28px;margin-bottom:0}
+dialog:has(#authForm) .modal-heading .language-control{margin:0}
+#authForm input{font-size:16px;min-height:46px}
+#authForm .form-error:empty{display:none}
+#authForm .form-error{line-height:1.6;overflow-wrap:anywhere}
+@media(max-width:800px){
+ main{padding-top:18px}
+ .welcome{margin-bottom:14px}
+ .welcome h1{font-size:26px}.welcome .eyebrow{margin-bottom:6px}
+ .welcome p{font-size:12px}
+ .mobile-nav{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+ .mobile-nav button{min-height:48px}
+}
+@media(max-width:520px){
+ .topbar{flex-wrap:nowrap;padding:10px 14px;gap:8px}
+ .mobile-brand{min-width:0;font-size:16px;gap:6px;text-align:left;line-height:1.2}
+ .mobile-brand span{max-width:115px}
+ .topbar-actions{flex-wrap:nowrap;gap:6px}
+ .topbar .language-control select{max-width:91px;padding-right:17px;min-height:44px}
+ .topbar .primary.small{min-height:44px;padding:10px 12px;white-space:nowrap}
+}

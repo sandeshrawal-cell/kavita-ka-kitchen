@@ -7,3 +7,26 @@
 @media(max-width:420px){.welcome-hero-copy{padding:24px 18px 20px}.welcome-hero h2{font-size:34px}.welcome-hero-intro{font-size:12px}.welcome-hero-actions{gap:8px}.welcome-hero-primary,.welcome-hero-secondary{font-size:11px;padding:12px 11px;gap:7px}.welcome-hero-benefits{gap:6px 12px}.welcome-hero-preview-top{gap:4px}.welcome-hero-preview-top small{font-size:8px}.welcome-hero-preview-list{gap:4px}.welcome-hero-visual{padding-left:18px;padding-right:18px}}
 .welcome-hero-preview-meal div{min-width:0}.welcome-hero-preview-meal strong{overflow-wrap:anywhere}
 @media(prefers-reduced-motion:reduce){.welcome-hero button{transition:none}}
+
+/* Prioritise search and meal planning over introductory decoration. */
+.welcome-hero{min-height:420px}
+.welcome-hero-copy{padding:28px}
+.welcome-hero h2{font-size:clamp(32px,3.4vw,50px);margin:18px 0 14px}
+.welcome-hero-intro{margin-bottom:18px;line-height:1.65}
+.welcome-hero-search{margin-top:18px}
+.welcome-hero-food{min-height:240px}
+@media(max-width:760px){
+ .welcome-hero{min-height:0}
+ .welcome-hero-copy{display:flex;flex-direction:column;padding:20px}
+ .welcome-hero-eyebrow,.welcome-hero-benefits{display:none}
+ .welcome-hero h2{font-size:clamp(29px,6vw,36px);margin:0 0 12px;order:0}
+ .welcome-hero-intro{font-size:13px;line-height:1.6;margin-bottom:14px;order:1}
+ .welcome-hero-search{order:2;margin:0 0 14px;width:100%}
+ .welcome-hero-actions{order:3}
+ .welcome-hero .search-box input{font-size:16px}
+ .welcome-hero-primary,.welcome-hero-secondary{min-height:46px;font-size:12px}
+ .welcome-hero-visual{padding:0 20px 20px;gap:10px}
+ .welcome-hero-food{min-height:180px}
+ .welcome-hero-food figcaption{bottom:14px}
+ .welcome-hero-food figcaption strong{font-size:24px}
+}
