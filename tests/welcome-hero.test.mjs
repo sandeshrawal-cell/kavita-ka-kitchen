@@ -13,6 +13,9 @@ test('a guest sees a real rotating recipe idea, never the fixed paneer example',
  assert.match(html,/Pumpkin Soup/);
  assert.match(html,/Dinner idea/);
  assert.doesNotMatch(html,/Paneer \+ jeera rice|MONDAY · DINNER/);
+ assert.equal(preview.dishId,'pumpkin-soup');
+ assert.equal((html.match(/href="\/recipe\/pumpkin-soup"/g)||[]).length,2,'both featured photograph and meal idea open the displayed dish');
+ assert.match(html,/data-action="recipe" data-id="pumpkin-soup"/);
 });
 
 test('a saved meal shows its own name, day, photograph and ingredients',()=>{
@@ -25,4 +28,16 @@ test('a saved meal shows its own name, day, photograph and ingredients',()=>{
  assert.equal(preview.photo,'/photos/palak-paneer-600.webp');
  assert.deepEqual(preview.ingredients,['spinach','paneer','rice']);
  assert.match(welcomeHero({preview}),/Palak Paneer \+ Jeera Rice/);
+ assert.match(welcomeHero({preview}),/href="\/recipe\/palak-paneer"/);
+ assert.match(welcomeHero({preview}),/href="\/recipe\/jeera-rice"/);
+ assert.equal(preview.recipeName,'Palak Paneer');
+});
+
+test('a different hero and preview keep their own recipe destinations',()=>{
+ const hero=dish('dhuska','Dhuska',['rice']),idea=dish('tomato-soup','Tomato Soup',['tomato']);
+ const html=welcomeHero({dish:hero,preview:createHeroPreview(null,new Map(),idea)});
+ assert.match(html,/class="welcome-hero-food" href="\/recipe\/dhuska"/);
+ assert.match(html,/class="welcome-hero-preview-meal" href="\/recipe\/tomato-soup"/);
+ assert.doesNotMatch(html,/\/recipe\/undefined/);
+ assert.match(welcomeHero(),/href="\/recipe\/achari-paneer"/);
 });

@@ -17,6 +17,7 @@ const hash=createHash('sha256');for(const f of files)hash.update(await fs.readFi
 // A catalogue or image-only update must also retire the previous offline cache.
 async function hashPublic(dir){for(const entry of (await fs.readdir(dir,{withFileTypes:true})).sort((a,b)=>a.name.localeCompare(b.name))){const name=dir+'/'+entry.name;if(entry.isDirectory())await hashPublic(name);else{hash.update(name);hash.update(await fs.readFile(name));}}}
 await hashPublic('public');
+await hashPublic('icons');
 let sw=await fs.readFile('dist/service-worker.js','utf8');sw=sw.replace('kkk-public-v3.0.0','kkk-public-v3.0.0-'+hash.digest('hex').slice(0,10)).replace('/* BUILD_ASSETS */',files.map(f=>JSON.stringify('/assets/'+f)).join(','));await fs.writeFile('dist/service-worker.js',sw);
 await import('./recipe-pages.mjs');
 console.log('Build complete. Deploy the existing Vercel project with output directory dist.');

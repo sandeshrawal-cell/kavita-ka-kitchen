@@ -380,7 +380,7 @@ async function action(name,el){
 }
 function slotPicker(){modal('What belongs here?',`<p>${esc(planTarget.date)} · ${esc(planTarget.meal)}</p><div class="menu-actions"><button data-action="slot-discover">Discover dishes</button>${basket.length?'<button data-action="slot-basket">Use my current menu selection</button>':''}${state().combos.map(c=>`<button data-action="slot-combo" data-id="${esc(c._id)}">${esc(c.name)}</button>`).join('')}</div>`);}
 const split=x=>String(x||'').split(',').map(v=>toEnglishSearch(v).trim()).filter(Boolean);
-document.addEventListener('click',e=>{const el=e.target.closest('[data-action],[data-nav]');if(!el)return;e.preventDefault();if(el.dataset.nav){close();nav(el.dataset.nav);return;}Promise.resolve(action(el.dataset.action,el)).catch(error);});
+document.addEventListener('click',e=>{const el=e.target.closest('[data-action],[data-nav]');if(!el)return;if(el.matches('a[href]')&&(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||e.button!==0))return;e.preventDefault();if(el.dataset.nav){close();nav(el.dataset.nav);return;}Promise.resolve(action(el.dataset.action,el)).catch(error);});
 document.addEventListener('submit',async e=>{
  e.preventDefault();const submitOwner=user?.id;const form=e.target,f=new FormData(form),v=Object.fromEntries(f),submit=form.querySelector('button:not([type="button"])');if(submit)submit.disabled=true;
  try{
