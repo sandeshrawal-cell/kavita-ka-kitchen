@@ -14,6 +14,7 @@ for(const name of (await fs.readdir('dist/assets')).filter(x=>x.endsWith('.js'))
 await fs.copyFile('node_modules/@supabase/supabase-js/dist/umd/supabase.js','dist/assets/supabase.js');
 const files=(await fs.readdir('dist/assets')).filter(x=>/\.(js|css)$/.test(x));
 const hash=createHash('sha256');for(const f of files)hash.update(await fs.readFile('dist/assets/'+f));hash.update(await fs.readFile('index.html'));
+for(const file of ['manifest.webmanifest','service-worker.js'])hash.update(await fs.readFile(file));
 // A catalogue or image-only update must also retire the previous offline cache.
 async function hashPublic(dir){for(const entry of (await fs.readdir(dir,{withFileTypes:true})).sort((a,b)=>a.name.localeCompare(b.name))){const name=dir+'/'+entry.name;if(entry.isDirectory())await hashPublic(name);else{hash.update(name);hash.update(await fs.readFile(name));}}}
 await hashPublic('public');

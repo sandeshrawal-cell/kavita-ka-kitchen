@@ -6,8 +6,15 @@ self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=
 self.addEventListener('fetch',event=>{
  const req=event.request,url=new URL(req.url);
  if(req.method!=='GET'||url.origin!==self.location.origin||url.pathname.startsWith('/api/'))return;
+ // Installed apps must see current icon metadata, even when the shell is cached.
+ if(url.pathname==='/manifest.webmanifest'){
+  event.respondWith(fetch(req,{cache:'no-cache'}).then(async r=>{
+   if(r.ok){const cache=await caches.open(CACHE);await cache.put(req,r.clone());return r;}
+   return await caches.match(req)||r;
+  }).catch(async()=>await caches.match(req)||Response.error()));return;
+ }
  if(req.mode==='navigate'){const key=url.pathname==='/'?'/index.html':url.pathname;event.respondWith(fetch(req).then(async r=>{if(r.ok&&(r.headers.get('content-type')||'').includes('text/html')){const cache=await caches.open(CACHE);await cache.put(key,r.clone());}return r;}).catch(async()=>await caches.match(key)||await caches.match('/index.html')));return;}
- const allowed=/^\/(assets|art|icons|fonts|data|photos)\//.test(url.pathname)||url.pathname==='/manifest.webmanifest';if(!allowed)return;
+ const allowed=/^\/(assets|art|icons|fonts|data|photos)\//.test(url.pathname);if(!allowed)return;
  event.respondWith(caches.match(req).then(cached=>cached||fetch(req).then(async r=>{if(r.ok){const cache=await caches.open(CACHE);await cache.put(req,r.clone());}return r;})));
 });
 // Private changes use the authenticated per-user IndexedDB queue, never Cache Storage.
