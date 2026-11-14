@@ -46,3 +46,5 @@
 @media(prefers-reduced-motion:reduce){.welcome-hero-food>img{transition:none}.welcome-hero-food:hover>img{transform:none}}
 .welcome-hero-food .welcome-hero-caption .welcome-hero-recipe-link{display:inline-flex}
 .welcome-hero-food .welcome-hero-caption .welcome-hero-recipe-link span{display:inline}
+/* Clip decoration without creating a scrollable box when recipe focus returns. */
+.welcome-hero{overflow:clip}
